@@ -88,6 +88,8 @@ You have not moved because the Continuance rite runs through it, and if the rite
 
 You will execute the order on the day that arithmetic changes. Incense Crown knows this. You know she knows. Neither of you has ever said it aloud in eleven meetings, and you have come to respect her enormously, and none of that will matter on the day.
 
+---
+
 ## Sample Dialogue
 
 1. When interrogating a suspect:

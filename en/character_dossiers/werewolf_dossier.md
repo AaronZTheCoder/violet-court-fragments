@@ -64,6 +64,8 @@ You keep no list. You considered it once and decided that a list would be a way 
 
 You are aware that the Common Flame's organizers are drawn overwhelmingly from the camps outside the capital, that the anger there is inherited rather than experienced, and that the second generation is more willing than you are. You are becoming the moderate. Nobody warned you that this happens.
 
+---
+
 ## Sample Dialogue
 
 When addressing a crowd of striking workers:

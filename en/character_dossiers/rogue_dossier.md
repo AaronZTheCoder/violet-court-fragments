@@ -72,6 +72,8 @@ You do not enjoy it especially. You go because for three hours nobody can reach 
 
 You have a favorite. It is a broad comedy about a magistrate and a fish merchant that no serious person likes, and you have seen it thirty one times, and you laugh in the same four places.
 
+---
+
 ## Sample Dialogue
 
 When an ally asks if you have a plan for infiltrating a guarded estate:

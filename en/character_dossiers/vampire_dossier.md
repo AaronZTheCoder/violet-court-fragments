@@ -78,6 +78,8 @@ You have never established whether your silence was what stopped them. Probably 
 
 That makes you the only living check on the official history, and you have discovered that this is not a power. It is a duty that arrived without consultation and cannot be delegated, and it means you cannot die yet, and you have been tired in a way sleep does not touch for approximately one hundred and forty years.
 
+---
+
 ## Sample Dialogue
 
 When asked why you continue to serve on the Grand Council:

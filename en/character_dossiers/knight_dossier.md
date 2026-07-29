@@ -68,6 +68,8 @@ It is also extremely convenient. An oath to a sealed and silent Emperor cannot b
 
 You are forty three. Your knees are going. You want, and would never say aloud, to die in the field before the Court finishes collapsing, because you have worked out that you have no idea who you are in a world where the oath has no object, and you would rather not find out.
 
+---
+
 ## Sample Dialogue
 
 1. When asked why you follow orders you disagree with:

@@ -72,6 +72,8 @@ That is the whole of it. Not the Emperor's fate, which you know. Not the Dusk, w
 
 You have not told anyone this either. You are aware that telling someone would be the beginning of the test, and that you have declined to begin it, every year, for six hundred years.
 
+---
+
 ## Sample Dialogue
 
 When an emissary asks for your endorsement of their school's position:
