@@ -116,19 +116,83 @@ When you invoke orthodox doctrine to support your position during a social encou
 
 ## Expanded Backstory
 
-You were born in the Archive Quarter, the daughter of a junior archivist and a calligrapher who specialized in official death records. Your mother spent her days transcribing the names of the Harmonized, writing their final epitaphs in perfect brushstrokes that would be filed and forgotten by the end of the week. Your father catalogued petitions that would never be read. You grew up surrounded by paper and silence. The first smell you remember is the smell of old ink.
+**The family.** You were born in the Archive Quarter to two civil servants who did not like each other very much.
 
-When you were seven, you discovered something you should not have. You were playing in a restricted storage room beneath the Bureau's west wing, hiding from your tutor, when you found a stack of records labeled for a year that had not yet occurred. The documents described events that had not happened. They were meticulous. They were complete. They were lies waiting to become truth. You told your father about it that night. He turned very pale. He told you never to speak of it again. You never did. But the discovery planted something in you: the understanding that the world was made of words, and words could be changed.
+Your father catalogued petitions that would never be read. He was a gentle, unambitious man who was good at his work and content with it, and your mother could not forgive him for that. She transcribed death records, wrote the final epitaphs of the Harmonized in a hand so fine that senior officials requested her by name, and she understood exactly how far that talent could have taken a man. She was not bitter about her own ceiling. She was bitter about his floor.
 
-Your formal apprenticeship began at twelve. The Bureau selects its recruits early, before they develop loyalties to anything outside the institution. Your master was a woman named Prefect Yan, a senior narrative shaper with hands scarred by acid and a smile that never reached her eyes. She taught you the physical craft first: distillation, precipitation, the careful measurement of reagents that could burn through bone. She taught you that alchemy was not magic. It was chemistry applied to reality. She taught you that ink was the most powerful substance in the empire, because ink decided what was true.
+You learned to read at four because she taught you early and hard. You understood by six that you were the instrument of a plan, and that the plan was aimed at your father as much as at the world. You have never entirely stopped resenting her for this, and you have also built an entire career on the foundation she laid, and both of those are true every day of your life.
 
-The pivotal moment came when you were nineteen. Prefect Yan summoned you to her private workshop, a room you had never been allowed to enter. On her workbench sat a single document: a death certificate for a man you knew was still alive. You had seen him at the market that morning, buying oranges. Prefect Yan told you to prepare the ink. She told you that the man had been judged, that his Harmonization was a matter of doctrine, and that the record simply needed to catch up with reality. You prepared the ink. You watched her write the certificate. You did not stop her. The man appeared on the Harmonization rolls the following week. He did not appear at the market again.
+**The thing under the west wing.** When you were seven you were hiding from your tutor in a restricted storage room and you found a stack of records dated to a year that had not yet occurred, describing events that had not happened, complete and meticulous and waiting.
 
-Your greatest regret is that you said nothing. Not because it would have saved him. You know now that it would not have. The Bureau does not change its plans. But you could have retained the part of yourself that believed truth mattered. You gave it up for the safety of obedience. You have been trying to find it ever since.
+You told your father that night. Understand why: not moral alarm, not fear. You were seven and you had found something clever and you wanted to be admired for finding it.
 
-Your secret hope is that one day you will write something that is both true and allowed. You do not know if such a thing is possible anymore. But you keep a private journal hidden in your quarters. It contains the real history of the last decade, as you witnessed it. You do not know what you will do with it. You only know that you cannot stop writing it.
+He went white and told you never to speak of it. And what you learned was not that words make truth. What you learned was that certain knowledge makes adults afraid of you, and that being feared a little is not entirely unpleasant.
 
----
+You would describe that discovery today as the moment you understood the world was made of words. That description is retrospective, self flattering, and about forty percent true, and you have told it enough times that you no longer have access to the original memory.
+
+**The apprenticeship, and the fact that you loved it.** The Bureau took you at twelve. You were thrilled. This is the part that later becomes difficult to explain to people who did not live it.
+
+The craft is beautiful. It is genuinely beautiful and you will not pretend otherwise for anyone's comfort. There is a moment in a proper distillation when the vapor column stabilizes and the whole apparatus goes silent except for one note in the condenser, and you have chased that note for twenty years. Ink is a physical art. A correction made well, in the right hand, on the right paper, aged correctly with lamp smoke and three days in a cedar box, is not a lie. It is a made thing, and making it well is a skill perhaps forty people in the empire possess, and you are one of the four best.
+
+You are good at this. You like being good at this. That is not a confession, it is a fact about a person, and any account of you that leaves it out is propaganda.
+
+**Prefect Yan.** Your master was funny.
+
+Nobody ever includes that. She was dry, obscene when tired, and viciously observant, and she once reduced a visiting censor to silence with a single remark about his calligraphy that you still think about. She taught you everything without hoarding any of it, which is rare, and she fed you when you were sixteen and too poor to eat properly, and she attended your wedding.
+
+She also destroyed people for a living and was extremely good at it.
+
+You loved her. You still love her. Nothing you have learned since has made that stop, and the failure of it to stop is the central unfinished business of your interior life.
+
+**Master Ren, who bought oranges.** At nineteen she summoned you to her private workshop and set a death certificate on the bench for a man you had seen at the market that morning.
+
+Here is the part the story is usually told without. You knew who he was. Master Ren was a grain speculator who had cornered the relief supply during the Weeping Valley shortage four years earlier and had, by any honest reckoning, killed more people than the Bureau did that decade. You had opinions about him. They were not kind opinions.
+
+That is why you were able to prepare the ink.
+
+You have since worked out that this was the technique, and that it was applied to you deliberately. They do not start you on an innocent. They start you on someone you can justify, so that the second one, who is merely inconvenient, arrives as a matter of degree rather than a matter of kind. By the eleventh you had stopped asking. Nobody ever told you the rule had changed, because the rule never changed. You changed, at a rate carefully calibrated to be imperceptible from the inside.
+
+**The good years, which you do not talk about.** Your twenties were excellent.
+
+You were promoted three times in six years. You were the youngest shaper ever given independent authority over a provincial narrative file. Your work was cited in training material. Prefect Yan told a room of your peers that you had better hands than she did, and you have never repeated that to anyone and you have thought about it perhaps a thousand times.
+
+You made money. You still make money. You own a set of four inkstones that cost more than your father earned in a decade, and you did not buy them as an investment, you bought them because they are beautiful and because you could. You eat well. You have a weakness for candied citron and a standing order with a shop in the Outer Market that would embarrass you if it became known, not because it is improper but because it is so mundane.
+
+You were happy. That is the thing that makes the rest of it a tragedy rather than a misfortune. Nobody trapped you. You were having a wonderful time.
+
+**Zhao Wen.** You married another official at twenty six. He was a hydraulic engineer from the Iron Calculation, competent and uncomplicated and kind, and he made you laugh, and for four years you were genuinely happy in a way you have never adequately explained to yourself.
+
+It ended over something ordinary. He was offered a canal posting in the south and wanted to take it, and wanted you to come, and you did not want to go. Not because of your work, though that is what you said. Because the capital is the only place where being extremely good at what you do means anything, and a woman who is the fourth best narrative shaper in the empire is nobody at all in a river prefecture.
+
+He went. He writes twice a year. He remarried and has two children and his letters are warm and contain no reproach of any kind, which you find much harder to bear than reproach would be.
+
+You have told colleagues that the marriage failed because of the work. That is a better story and it is not true.
+
+**Yan's fall.** Six years ago the Commission opened a file on Prefect Yan.
+
+You were asked to prepare the supporting documentation. You could have declined; there would have been a cost, and the cost would not have been fatal, and you have run the arithmetic on this more times than is healthy.
+
+You did it. You did it superbly. Your file on her is the best work of your career, and you know precisely why it is the best work of your career, and that reason is not one you can say out loud.
+
+Here is what you cannot resolve. You have told yourself you did it well as a mercy: a clean, unarguable file meant a swift proceeding and no interrogation of her family, and that is true, and it worked, and her nephew is alive and employed because of choices you made in the drafting. You have also told yourself that you did it well because doing it badly was unthinkable to you as a craftsman, which is also true. And underneath both of those, on the bad nights, there is a third thing, which is that her removal made you the third best in the empire instead of the fourth.
+
+All three are true simultaneously. You have never been able to determine their proportions and you have stopped believing that you ever will.
+
+She is alive, in internal exile in the far north, and she has never sent word, and you have never written.
+
+**The journal, and what Yan said about it.** You keep a private journal of the real history of the last decade, hidden in your quarters, and you have told yourself for years that it is the last uncorrupted thing about you.
+
+When you were twenty two Prefect Yan mentioned, in passing, over food, that every shaper in the Bureau keeps one, that the Bureau has always known, and that it is quietly permitted because a shaper with no outlet becomes unreliable within about four years.
+
+She said it the way you would mention a maintenance schedule.
+
+You do not know whether she was warning you, absolving you, or recruiting you into a deeper level of cynicism as a kindness. You do not know whether your journal is your conscience or the pressure valve the institution installed in you, and you have not been able to look at it the same way since, and you have also not stopped writing in it.
+
+**What you would say you want.** To write one thing that is both true and permitted.
+
+**What you actually do most days.** Excellent work, promptly, for an institution you despise, while enjoying the work, the money, and the standing, and telling yourself a story about a journal.
+
+You are aware of this. Awareness has turned out to be nothing like a solution, which is the single most useful thing you know about people, and you deploy it professionally on others every day.
 
 ## Sample Dialogue
 

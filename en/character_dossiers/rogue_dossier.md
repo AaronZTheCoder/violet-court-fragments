@@ -16,25 +16,61 @@ You were born in the Warrens beneath Xiaoyuan, child of a disgraced official and
 
 ## Expanded Backstory
 
-Your first memory is the smell of wet stone and frying fish. The Warrens have a specific scent, a combination of underground damp, cooking oil, sewage, and incense burned to cover the other smells. Your mother worked at the Jade Lotus Teahouse, a respectable enough establishment by Warren standards, which meant the customers did not usually draw knives on each other. Your father had been a minor functionary in the Bureau of Records before his political enemies fabricated evidence of embezzlement. He was stripped of his rank, his name was entered in the black ledger, and he was turned out into the streets. He found his way to the Warrens. He found your mother. They made a life in the cracks.
+**The Warrens, and your father's actual crime.** Wet stone and frying fish. Your mother worked the Jade Lotus. Your father had been an official once and taught you history, mathematics, and how to read a man's intentions from the way he holds a cup.
 
-You learned to read from your father, who had nothing left but his education. He taught you history, mathematics, calligraphy, and the precise art of reading a person's intentions from the way they held their tea cup. He taught you that every official has something to hide, that every system has a seam, that the difference between a servant and a master is often only who holds the information at the critical moment. He died when you were twelve, a quiet death, a cough that would not stop. The Warrens do not have physicians for disgraced officials.
+You spent your childhood believing he had been ruined for principle. You found the record at twenty six, because by then finding records was your trade.
 
-Your mother taught you the other lessons. How to smile at a man who disgusts you. How to make yourself small when large men are angry. How to disappear into a crowd. How to find the one person in any room who will pay for a secret. She remarried a dockworker, a good man, a simple man. He tried to treat you like his own. You let him. You knew he would not last.
+He took money to reclassify a shipment of adulterated grain as fit for distribution. Eleven people died, most of them in the Warrens, perhaps four streets from where he later taught you calligraphy. He was not a martyr of some political turn. He was a middling clerk who sold a stamp and got caught.
 
-The pivotal moment came when you were fifteen. A Crimson Lineage envoy came to the Warrens looking for a document, something your father had hidden before his fall. The envoy did not ask. The envoy took your stepfather, your mother, and held them in a warehouse while you were brought to negotiate. You did not have the document. You did not know what it was. But you knew how to negotiate. You traded information about a rival house's smuggling route for your family's release. You learned that day that leverage is the only currency that matters. Your stepfather died two years later in a dock accident. Your mother still lives in the Warrens. You send her money through intermediaries. She does not know where you are. You prefer it that way.
+You have never told your mother that you know. She is alive, seventy nine, in a room you pay for, and she talks about him, and you let her.
 
-Your greatest regret is not the secrets you have sold; it is the one secret you kept. There was a woman, a Verdant Path courier, who trusted you with her network's routes. You sold that information to the Bright Mirror when they offered enough copper to make you comfortable for a year. She was arrested. She was Harmonized. You do not know if she survived. You have never made that kind of trade again. The memory of her face when she realized keeps you honest in your own crooked way.
+**What you actually built.** You are not a thief and you have not personally stolen anything in twenty two years. You are an information house, and you should be understood the way a merchant house is understood.
 
-Your secret hope is that somewhere, in the vast architecture of the Court, there exists a piece of information so valuable that trading it will let you walk away forever. A clean identity. A house above ground. A life where no one knows your name. You do not believe this hope is realistic. You hold it anyway.
+You have between forty and sixty people on standing retainer, depending on the season. Nine of them know they work for you. The rest believe they work for four separate brokers, three of whom do not exist. You maintain those three fictional brokers with the care other people give to children: they have handwriting, preferences, one has a stutter that appears in transcribed messages.
 
-## Personal Vignette
+You hold approximately eleven hundred items of leverage, indexed, cross referenced, and physically stored in four locations, none of them where anyone would look, one of which is inside a functioning temple with the knowledge of exactly one priest.
 
-You remember the moment you decided to become what you are. You were twelve years old, sitting in the corner of the Jade Lotus Teahouse while your mother worked. A man came in, a Crimson Lineage courier by the look of his coat, and ordered tea. He was nervous. You could see it in the way he kept checking the door, the way his hands trembled around the cup. He slipped a piece of paper under his saucer when he thought no one was looking. You took it after he left. It was a route schedule for a shipment that someone would pay to know about.
+Your annual turnover exceeds that of most licensed guilds. You cannot spend it in any visible way, which is a problem you have solved through eleven separate legitimate businesses, six of which are genuinely profitable and one of which, a laundry, you have become irrationally fond of.
 
-You did not know who to sell it to. You were twelve. You had no network, no contacts, no understanding of the information economy that ran beneath the city's surface. But you knew someone who would. You took the paper to a man your father had mentioned once, a fence who operated out of a spice shop three streets over. He gave you ten copper leaves and told you to come back if you found anything else. You went back the next week. You have been trading information ever since. You did not choose this life because you were forced to. You chose it because you were good at it. You were good at it from the very first moment. That is the truth that haunts you: you were not made into what you are. You were always this. You simply needed the opportunity to discover it.
+**The arithmetic you do on people.** You sell information about human beings. The people in your files are not abstractions to you; you have met most of them.
 
-Sometimes you wonder what would have happened if you had not taken that paper. Would you have become something else? A clerk, perhaps. A merchant. Someone who lived above ground and paid taxes and died in a bed surrounded by family. You can almost see that life, like a room through a half open door. But the door is closed now. It closed the moment your fingers touched that paper. You chose. You have been choosing ever since. The person who could have been a clerk is a stranger to you. You do not mourn her. But you wonder if she would have been happier. You wonder if happiness would have been enough for her. It would not have been enough for you. You know this because you know yourself. You have always known yourself. That is the strangest part: you have never been confused about who you are. You have only pretended to be.
+You have made forty or fifty decisions in your career that ended someone. Not by violence. By transaction: a name to a buyer, a document to an interested party, a location. You know what happens afterward. You have never pretended not to.
+
+You maintain a rule, and the rule is real and you have kept it: nothing that reaches a child. You have declined lucrative work over this, more than once, and it has cost you a great deal, and you consider it the load bearing wall of your entire self conception.
+
+You are aware that it is one wall.
+
+**Grey Willow.** Nine years ago you sold a location.
+
+The buyer was Crimson Lineage. The subject was a Verdant Path organizer named Grey Willow who had been sheltering people in the southern prefectures, and who was, by any decent standard, one of the better people operating in the empire at that time.
+
+You sold her because a rival house was about to and you needed the relationship with the buyer more than she needed another six months. That is the actual reason. You have constructed better ones and they do not survive contact with your own memory.
+
+She was taken in the eleventh month. She did not die; she is in internal exile in the north and will remain there. Her network collapsed and the people she had been sheltering scattered, and you do not know what happened to most of them, and you have deliberately not found out, which for a person in your profession is an act requiring sustained effort.
+
+You think about her perhaps once a month. Not with guilt exactly. With something more like the awareness of a debt in a currency that does not exist.
+
+**Little Hook, and the thing you cannot do.** You have an apprentice. She is nineteen, extremely quick, and came to you the way you came to the trade, and you have been teaching her for four years.
+
+You cannot bring yourself to teach her the last part.
+
+She knows sourcing, verification, indexing, the whole craft. What you have not taught her is the arithmetic: how to decide that a person is worth less than a relationship. You keep intending to. You have opened the conversation twice and diverted it both times.
+
+You are aware that a broker who cannot do the arithmetic will not survive in this trade, that you are therefore preparing her for a profession she will not be equipped to practice, and that you are doing this because you would like there to be one person in the world who learned everything from you and did not become you.
+
+**The network runs you now.** You built this to be safe. That was the entire original purpose: a girl from the Warrens accumulating enough leverage that nobody would ever find it worth the trouble to hurt her.
+
+It worked completely. You have been untouchable for fifteen years.
+
+And you cannot stop. The obligations are reciprocal and continuous. Eleven hundred items of leverage require maintenance; sources need cultivating, debts need calling in before they lapse, fictions need feeding. You work more hours than the Ministry clerks you sell secrets about.
+
+You are forty four. You have not left the capital in nineteen years. You built a machine to keep you safe and you now serve it, and the safety it provides is genuine, and you would not know what a person like you does with a day that has nothing in it.
+
+**The one indulgence.** You go to the opera. Alone, badly disguised, in the cheap upper tiers where the sightlines are poor.
+
+You do not enjoy it especially. You go because for three hours nobody can reach you, no message can find you, and nothing is expected of you, and it is the only structure you have ever found that produces this reliably.
+
+You have a favorite. It is a broad comedy about a magistrate and a fish merchant that no serious person likes, and you have seen it thirty one times, and you laugh in the same four places.
 
 ## Sample Dialogue
 
