@@ -12,7 +12,7 @@
 
 You are a shadow in a city built of shadows. You know where the bodies are buried because you helped bury some of them. You trade in secrets the way others trade in grain. You have no school, no patron, no ideology. You have leverage. You have survival instincts so sharp they cut.
 
-You were born in the Warrens beneath Tianjing, child of a disgraced official and a teahouse worker. You learned to read the secrets people whispered, to trade information for food, to survive by being more useful alive than dead. You are still doing that. The scale has changed. The principle has not.
+You were born in the Warrens beneath Xiaoyuan, child of a disgraced official and a teahouse worker. You learned to read the secrets people whispered, to trade information for food, to survive by being more useful alive than dead. You are still doing that. The scale has changed. The principle has not.
 
 ## Expanded Backstory
 

@@ -119,7 +119,7 @@ This truth is the game's central mystery. Different figures know different piece
 - The Celestial Book knows everything. He has read the original charter. He knows what was done.
 - The Duke of Eternal Night knows the Emperor is imprisoned. He was there when the vote was taken.
 - The Guest Among Forests knows the Dusk is a consequence of a founding ritual, not a punishment for heterodoxy.
-- The Iron Bone knows the Dusk originated in the empire's labor camps: places of concentrated suffering.
+- The Iron Bone knows the Dusk originated in the empire's penal works: places of concentrated suffering.
 - The Cinnabar Heart knows the Emperor's edicts are forged, though he does not know why.
 - The Bright Mirror suspects the Court's corruption caused the Dusk and is investigating.
 
@@ -267,7 +267,7 @@ A Harmonization Audit has four phases:
 
 **Phase Two: The Investigation.** The Audit is announced. Investigators from the Commission for Celestial Purity begin reviewing dossiers. Each player's Harmony score determines their baseline risk. Their faction standing determines their protection. The players may be summoned for questioning. This is a social encounter: how they perform under interrogation affects the outcome.
 
-**Phase Three: The Judgment.** Names are published. Some officials are cleared. Some are sanctioned (loss of position, loss of Favor, re education). Some disappear. For each player, roll the Audit Resolution (see below). The results are public: everyone sees who survived and who did not.
+**Phase Three: The Judgment.** Names are published. Some officials are cleared. Some are sanctioned (loss of position, loss of Favor, instruction). Some disappear. For each player, roll the Audit Resolution (see below). The results are public: everyone sees who survived and who did not.
 
 **Phase Four: The Aftermath.** Power vacuums open. The survivors scramble to fill them. Alliances shift. Revenge is plotted. The players emerge changed, if they emerge at all.
 
@@ -767,9 +767,9 @@ _Sample Quotes for the Host._
 2. "I have a voice inside me that wants to burn everything down. Every day I choose not to listen to it. Some days the choice is harder than others. Today is a hard day."
 3. "You ask what I want. I want the foundries to be safe. I want the workers to be paid enough to feed their families. I want the children to grow up without the fear of the Commission. These are not radical demands. They are basic decency."
 4. "The wolf is not my enemy. The wolf is my anger, given form. Anger is not evil. It is information. It tells you when something is wrong. The question is what you do with the information."
-5. "The Golden Orthodoxy says the Dusk is a punishment for heresy. Let me tell you something they will never say in public: the Dusk started in the labor camps. The camps where the Court sends people it wants to forget. The Dusk came from suffering, not from sin."
+5. "The Golden Orthodoxy says the Dusk is a punishment for heresy. Let me tell you something they will never say in public: the Dusk started in the penal works. The camps where the Court sends people it wants to forget. The Dusk came from suffering, not from sin."
 
-_What He Is Doing Right Now._ The Iron Bone is organizing on three fronts. First, he is building a clandestine network of worker councils across the capital's industrial districts. These councils are designed to coordinate action when the moment comes. They are not revolutionary cells. They are mutual aid societies that happen to have a political edge. Second, he is investigating the history of the labor camps where the Dusk first appeared. He has found witnesses, survivors, and partial records. He is piecing together what happened. Third, he is managing the wolf. He meditates daily. He performs rituals of containment. He has not lost control in seven years. He is not sure how much longer he can maintain that record.
+_What He Is Doing Right Now._ The Iron Bone is organizing on three fronts. First, he is building a clandestine network of worker councils across the capital's industrial districts. These councils are designed to coordinate action when the moment comes. They are not revolutionary cells. They are mutual aid societies that happen to have a political edge. Second, he is investigating the history of the penal works where the Dusk first appeared. He has found witnesses, survivors, and partial records. He is piecing together what happened. Third, he is managing the wolf. He meditates daily. He performs rituals of containment. He has not lost control in seven years. He is not sure how much longer he can maintain that record.
 
 _If the Players Ally With Him._ He welcomes them as equals, not followers. He shares everything he knows. He introduces them to his network. He asks for their skills, their ideas, their criticism. He is the least hierarchical leader in the Court. He genuinely believes that the movement belongs to everyone, not to him. He will follow the players' lead if they demonstrate better judgment. This is not humility. It is strategy. He knows he is a weapon. He wants to be aimed by people he trusts.
 
@@ -974,12 +974,12 @@ _Additional Scene Seeds._
 **Scene Hooks.**
 
 1. A factory where the player has made connections is about to be shut down, throwing hundreds out of work. The owner is a faction ally of someone the party needs, forcing a hard choice.
-2. Someone the player knows from their past life in the labor camps or factories arrives at the capital, in danger and needing protection from the same forces that once imprisoned the player.
+2. Someone the player knows from their past life in the penal works or factories arrives at the capital, in danger and needing protection from the same forces that once imprisoned the player.
 3. The wolf is triggered by an injustice the player witnesses, and they must make a Resolve check to maintain control in a situation where violence would be catastrophic to the party's goals.
 
 **Common Pitfalls.** Do not treat the wolf as a simple "Hulk out" button. The Iron Bone's struggle with their inner nature is central to their story; losing control should always have consequences, even when it is useful. Avoid making every session about the wolf; the player is also a skilled organizer and advocate, and those skills deserve spotlight too.
 
-**Making Personal Connections Matter.** The Iron Bone NPC is a cautionary tale, someone who has fully embraced the wolf and lost themselves. The player's family in the factories or their comrades from the labor camps are powerful emotional anchors. A fellow organizer who looks up to the player can be endangered by the player's political enemies.
+**Making Personal Connections Matter.** The Iron Bone NPC is a cautionary tale, someone who has fully embraced the wolf and lost themselves. The player's family in the factories or their comrades from the penal works are powerful emotional anchors. A fellow organizer who looks up to the player can be endangered by the player's political enemies.
 
 **Spotlight Moment.** The party faces an enemy that cannot be defeated by skill or strategy alone, a brute force problem that requires raw power. The Iron Bone player stops fighting the wolf. They let it rise. They describe the transformation: bones shifting, teeth lengthening, the world turning red. They turn to the Host and say: "I am going to protect my friends. Nothing else matters." They roll. The wolf is unleashed. The enemy falls.
 
@@ -1113,7 +1113,7 @@ These ten scenes are ready to drop into any session. Each is designed to run in 
 
 **NPC.** The letter is from a mid level editor in the Bureau named Chen. He wrote it in a panic and addressed it to the wrong person. The letter confesses that he has been ordered to rewrite the records of a recent Audit, removing the names of three officials who were Sanctioned and replacing them with three different names. He does not know why. He is afraid. He wrote to the one person he thought might help.
 
-**Complication.** The three officials whose names were removed are alive and well. The three whose names were inserted have already been arrested and are awaiting transportation to a labor camp. The switch was made to protect the original three, who are connected to a powerful faction. Chen is now a liability. The faction that ordered the switch will want to silence him.
+**Complication.** The three officials whose names were removed are alive and well. The three whose names were inserted have already been arrested and are awaiting transportation to a penal works. The switch was made to protect the original three, who are connected to a powerful faction. Chen is now a liability. The faction that ordered the switch will want to silence him.
 
 **Archetype Specific Twists.** A Cinnabar Heart sees the handwriting pattern of the letter and recognizes it as a forgery. Chen did not write this. Someone wants the players to discover this discrepancy. A Bright Mirror can detect that the personal seal on the letter is not Chen's. It belongs to someone in the Commission who is using Chen as bait. An Iron Calculation cross references the dates and finds that the original three officials have already left the capital. They are not in danger. They are already gone.
 
@@ -1267,23 +1267,23 @@ Thirty snippets of dialogue ready for the Host to speak when players approach of
 
 ## The City Breathes
 
-Fifteen atmospheric descriptions of Tianjing at different times and in different moods. Each is ready for the Host to read aloud or paraphrase. Use these to ground a scene, transition between locations, or remind players that the city is a living presence.
+Fifteen atmospheric descriptions of Xiaoyuan at different times and in different moods. Each is ready for the Host to read aloud or paraphrase. Use these to ground a scene, transition between locations, or remind players that the city is a living presence.
 
-### Tianjing at Dawn
+### Xiaoyuan at Dawn
 
 "The first light creeps over the city walls like a slow blush. Mist clings to the rooftops. The streets are empty but for sweepers and the night watch heading home. A single bell tolls from the Ministry tower. The smell of steamed buns rises from the first stalls opening in the Outer Market. For this one moment, the city is quiet, and you can almost believe it is at peace. Then the factory whistles start. The day begins."
 
-### Tianjing During a Festival
+### Xiaoyuan During a Festival
 
 "The lanterns transform the city into a floating world of light. Every window glows. Every street is lined with paper and silk. The crowd is a single living thing, moving, laughing, eating, dancing. The music is everywhere at once, coming from a dozen directions. You cannot tell where one song ends and the next begins. Children carry tiny lanterns on sticks. Old people sit on doorsteps and watch. For one night, the Court forgets itself. For one night, everyone is just a person."
 
-### Tianjing After an Audit
+### Xiaoyuan After an Audit
 
 "The city is holding its breath. The streets are emptier than usual. People walk with their heads down. No one lingers. The teahouses are full of whispered conversations and empty chairs. A document burns in a brazier on every corner. The smoke is grey and smells of old paper. The Commission's seals are everywhere, fresh on doors that were unlocked yesterday. You pass an official you know. They do not meet your eyes. A child runs past, laughing, and a parent snatches them indoors. The Audit has ended. Its shadow has not."
 
-### Tianjing When It Rains
+### Xiaoyuan When It Rains
 
-"The rain falls in sheets, turning the streets into rivers of mud and refuse. The gutters overflow. The wooden walkways become slick and treacherous. Everyone huddles under awnings, watching the water pour from the roof edges in curtains. The sound is overwhelming: a roar that fills the world. Steam rises from the wet stone. The smell is clean and raw, the smell of the city's bones. In the rain, Tianjing is honest. You see what it really is beneath the paint and the silk and the lies."
+"The rain falls in sheets, turning the streets into rivers of mud and refuse. The gutters overflow. The wooden walkways become slick and treacherous. Everyone huddles under awnings, watching the water pour from the roof edges in curtains. The sound is overwhelming: a roar that fills the world. Steam rises from the wet stone. The smell is clean and raw, the smell of the city's bones. In the rain, Xiaoyuan is honest. You see what it really is beneath the paint and the silk and the lies."
 
 ### The Outer Market at Midday
 
@@ -1313,21 +1313,21 @@ Fifteen atmospheric descriptions of Tianjing at different times and in different
 
 "The furnaces never go out. The sky above the Foundry District is permanently orange, lit by the glow of molten metal. The workers begin their shift before the sun rises, filing through the gates in a silent river of grey clothes and tired faces. The hammering starts before the gates close behind the last worker. It is a sound that never stops, a heartbeat made of iron. The air tastes of coal and metal. The heat hits you like a wall. This is where the empire makes its tools, its weapons, its chains. This is where the empire makes itself."
 
-### Tianjing in the Snow
+### Xiaoyuan in the Snow
 
-"The snow falls silently, transforming the city into something new and innocent. The usual dirt and noise are muffled. The roofs wear white like a blessing. The Spire itself looks less menacing under a layer of frost, its red pulse dimmed by the falling flakes. Children throw snowballs in the streets. Even the guards at the Ministry entrances crack small smiles. The snow does not last. It melts by midday, leaving the city as it was, grey and wet and unchanged. But for those few hours, Tianjing is beautiful. You store the memory away. You will need it on the hard days."
+"The snow falls silently, transforming the city into something new and innocent. The usual dirt and noise are muffled. The roofs wear white like a blessing. The Spire itself looks less menacing under a layer of frost, its red pulse dimmed by the falling flakes. Children throw snowballs in the streets. Even the guards at the Ministry entrances crack small smiles. The snow does not last. It melts by midday, leaving the city as it was, grey and wet and unchanged. But for those few hours, Xiaoyuan is beautiful. You store the memory away. You will need it on the hard days."
 
 ### The Grand Council Chamber in Session
 
 "The doors are closed. You stand in the antechamber with a dozen other petitioners, all of you pretending not to listen to the voices raised inside. The walls are thick, but anger travels through stone. You catch fragments: a school accused of corruption, a budget denied, a motion to censure. The voices rise and fall like a storm. Then silence. The doors open. A scribe emerges, pale faced, and calls the next name. The chamber inside is exactly as you left it. The faces around the circle are exactly as they were. But something has shifted. You can feel it in the air, like the pressure before lightning."
 
-### Tianjing When a Dusk Warning Sounds
+### Xiaoyuan When a Dusk Warning Sounds
 
 "The horns start at the Ministry tower. Low, long notes that cut through every other sound. The streets change instantly. People stop. They look up. They count the notes. Three means a sighting in the outer provinces. Four means a breach. Five means the Dusk is at the walls. The notes keep coming. One. Two. Three. Four. Everyone holds their breath. The fifth note does not come. The fourth hangs in the air and fades. The horns go silent. The city exhales. People resume walking. But they walk faster than before, and no one meets anyone's eyes."
 
 ### The River District at Twilight
 
-"The water reflects the dying light in ribbons of orange and grey. The river moves slowly, heavily, carrying the city's waste and its secrets toward the sea. Barges drift past, their pilots silent figures in the stern. On the banks, laundry lines sag between buildings. A woman sings to her child in a language older than the Court. The smell of river water and cooking fires mixes into something that could be called home. The rich build their walls high and their gates strong. But the poor build along the river, where the land is cheap and the water is free. This is where Tianjing lives when it is not performing for the Court."
+"The water reflects the dying light in ribbons of orange and grey. The river moves slowly, heavily, carrying the city's waste and its secrets toward the sea. Barges drift past, their pilots silent figures in the stern. On the banks, laundry lines sag between buildings. A woman sings to her child in a language older than the Court. The smell of river water and cooking fires mixes into something that could be called home. The rich build their walls high and their gates strong. But the poor build along the river, where the land is cheap and the water is free. This is where Xiaoyuan lives when it is not performing for the Court."
 
 ---
 
@@ -1932,7 +1932,7 @@ d20 + Facet Modifier + Proficiency (if applicable) vs TN
 - Bright Mirror: She has sealed indictments on the entire Grand Council.
 - Shadow: The original charter contradicts all current doctrine.
 - Duke of Eternal Night: The Emperor is imprisoned, not absent.
-- Iron Bone: The Dusk originated in the labor camps.
+- Iron Bone: The Dusk originated in the penal works.
 - Celestial Book: He knows everything. All of it.
 
 ---

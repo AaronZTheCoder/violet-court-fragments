@@ -12,11 +12,11 @@
 
 ## Description
 
-You wear a crown of pierced silver and river jade, hung with drops that chime at a frequency chosen four hundred years ago to be inaudible to anyone standing further than three paces away. Beneath it, a veil of unbleached silk. Around your throat, six strands of turquoise, amber, and carnelian, each one a completed rite. Your gown is white, which in the Nine Provinces is the color of mourning, embroidered at the placket and hem in cinnabar red and gold thread in a pattern that predates the imperial script and has never been satisfactorily translated.
+You wear a crown of pierced silver and river jade, hung with drops that chime at a frequency chosen four hundred years ago to be inaudible to anyone standing further than three paces away. Beneath it, a veil of unbleached silk. Around your throat, six strands of turquoise, amber, and carnelian, each one a completed rite. Your gown is white, which in the Nine Domains is the color of mourning, embroidered at the placket and hem in cinnabar red and gold thread in a pattern that predates the imperial script and has never been satisfactorily translated.
 
 You are beautiful in a way that is entirely constructed and entirely deliberate. Every element of what people see when they look at you was designed, by people long dead, to produce a specific effect on the nervous system of a frightened human being. It works. It has worked for eight centuries. You are the instrument, and you are also the only person alive who knows precisely how the instrument is built.
 
-The Celestial Court is three hundred years into governing without its Emperor. It can seize, tax, imprison, and erase. It has never once managed to manufacture legitimacy. Twice a year it needs a rite performed that predates the Founding Charter, and there are nine people left in the Nine Provinces who can perform it correctly, and you are the youngest of them by forty years.
+The Celestial Court is three hundred years into governing without its Emperor. It can seize, tax, imprison, and erase. It has never once managed to manufacture legitimacy. Twice a year it needs a rite performed that predates the Founding Charter, and there are nine people left in the Nine Domains who can perform it correctly, and you are the youngest of them by forty years.
 
 This makes you untouchable. It also makes you a hostage. You have never been entirely certain which is the larger fact.
 
@@ -24,7 +24,7 @@ This makes you untouchable. It also makes you a hostage. You have never been ent
 
 ## Expanded Backstory
 
-You were given to the Temple at four. This was not cruelty. Your family was poor and the Temple fed you, taught you six scripts, and gave you the only education available in the Nine Provinces to a girl born in a fishing prefecture. Your mother wept for a week. Your mother also lived because of what the Temple sent back. Both are true and you have stopped trying to weigh them against each other.
+You were given to the Temple at four. This was not cruelty. Your family was poor and the Temple fed you, taught you six scripts, and gave you the only education available in the Nine Domains to a girl born in a fishing prefecture. Your mother wept for a week. Your mother also lived because of what the Temple sent back. Both are true and you have stopped trying to weigh them against each other.
 
 You do not remember choosing this. That is the first thing to understand about you. Every other archetype at this table made a decision that led them here. You were placed. Your earliest memory is the smell of sandalwood and the sound of an old woman counting in a language that has been dead for six hundred years, and by the time you were old enough to consider whether you believed any of it, you had already been performing it for a decade.
 
@@ -42,7 +42,7 @@ You have known this since you were nineteen. You performed the Continuance for t
 
 They have tried to replace you. Twice. The Bureau of Celestial Inquiry spent nine years attempting to reconstruct the ordination from documents. What they produced was liturgically correct and ritually inert, and the difference between those two things cannot be written down, which is precisely why the Temple has survived eight hundred years of people trying to write it down.
 
-So they keep you instead. They give you a residence in the Inner City, a stipend, two attendants who report to the Commission weekly, and the finest silk in the empire. You are the best treated prisoner in the Nine Provinces.
+So they keep you instead. They give you a residence in the Inner City, a stipend, two attendants who report to the Commission weekly, and the finest silk in the empire. You are the best treated prisoner in the Nine Domains.
 
 And every month, in a room behind the shrine of the drowned, you meet people the Court is looking for, and you hide some of them, and you have never once been searched, because the Commission cannot search you without acknowledging that the woman who confirms the Emperor's life might be disloyal, and that acknowledgment is more dangerous to them than anything you could possibly be doing.
 
@@ -206,7 +206,7 @@ Twice a year, in the eleventh and the fifth month, you walk into the Spire's ant
 
 **Level 7: The Answer Changes Again.** The response at the door alters a fourth time, and this time it is not a variation, it is an address. Something on the other side of that door is aware that the woman kneeling there is a specific person, and has begun, in a language dead for four and a half centuries, to say something that is meant for you.
 
-**Level 9: The Unveiling.** You will stand at some point in a room, before the Grand Council or before the empire, and you will have to decide whether to say aloud the thing you received in your ninth year. Saying it ends the Court's doctrinal foundation, the Temple's protection, and your life, in that order, over about six weeks. Not saying it means the arrangement continues, and the sanctuary continues, and the rite continues, and you go on being the most useful liar in the Nine Provinces. There is no third option and the Host must not invent one for you.
+**Level 9: The Unveiling.** You will stand at some point in a room, before the Grand Council or before the empire, and you will have to decide whether to say aloud the thing you received in your ninth year. Saying it ends the Court's doctrinal foundation, the Temple's protection, and your life, in that order, over about six weeks. Not saying it means the arrangement continues, and the sanctuary continues, and the rite continues, and you go on being the most useful liar in the Nine Domains. There is no third option and the Host must not invent one for you.
 
 ---
 

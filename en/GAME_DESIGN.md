@@ -31,17 +31,17 @@ The surface is dark fantasy. The depths are for those who know how to read.
 
 ## The Celestial Empire
 
-### The Nine Provinces
+### The Nine Domains
 
-The empire spans a continent divided into nine provinces, each ruled by a Provincial Governor who reports to the Court in the capital city, Tianjing.
+The empire spans a continent divided into nine provinces, each ruled by a Provincial Governor who reports to the Court in the capital city, Xiaoyuan.
 
 **The Central Province** surrounds the capital. Here sits the Spire of Eternal Vigil, where the Sun Emperor slumbers or watches or waits. The Court's ministries occupy the Inner City. The Outer City teems with merchants, petitioners, spies, and refugees from provinces that no longer officially exist.
 
-When you first approach the Central Province, the road rises through terraced hills covered in mulberry groves. The air smells of wet earth and woodsmoke mixed with the faint metallic tang of Qi-charged stone. Against the pale sky, the Spire of Eternal Vigil rises like a needle threaded with cloud. It is visible from every corner of the province, a constant reminder of the Emperor's presence and His absence. The city walls of Tianjing glow faintly at dusk, their surface inlaid with Qi conductive stone that hums at a frequency just below hearing. You feel it in your back teeth before you hear it with your ears.
+When you first approach the Central Province, the road rises through terraced hills covered in mulberry groves. The air smells of wet earth and woodsmoke mixed with the faint metallic tang of Qi-charged stone. Against the pale sky, the Spire of Eternal Vigil rises like a needle threaded with cloud. It is visible from every corner of the province, a constant reminder of the Emperor's presence and His absence. The city walls of Xiaoyuan glow faintly at dusk, their surface inlaid with Qi conductive stone that hums at a frequency just below hearing. You feel it in your back teeth before you hear it with your ears.
 
 _Silver Ford._ A market town at the junction of the Jade River and the Imperial Highway. Its great wooden bridge, painted with scenes from the founding of the empire, groans under the weight of carts and caravans day and night. Every third building is a shrine to some aspect of celestial governance. The river here runs slow and thick with silt, and fishermen say the fish taste of ink.
 
-_Harmony Rest._ A fortified village that serves as the outer checkpoint for the capital. All goods entering Tianjing pass through Harmony Rest for inspection, taxation, and ritual blessing. The inspection sheds smell of dried fish, ink paste, and the sour sweat of nervous merchants. The chief inspector has a gaze that seems to count your ribs through your robes.
+_Harmony Rest._ A fortified village that serves as the outer checkpoint for the capital. All goods entering Xiaoyuan pass through Harmony Rest for inspection, taxation, and ritual blessing. The inspection sheds smell of dried fish, ink paste, and the sour sweat of nervous merchants. The chief inspector has a gaze that seems to count your ribs through your robes.
 
 _Moon Brook._ A spa town built around hot springs said to be warmed by the Emperor's own Qi. Wealthy officials retire here to die gracefully. The water tastes of copper and old stone. The inns serve a delicate mushroom broth that is rumored to extend life by years, though no one has ever proved it.
 
@@ -49,7 +49,7 @@ The people of the Central Province dress in muted colors: greys, browns, faded b
 
 They fear two things above all: the Spire awakening or failing to awaken. They fear the Court's displeasure more than they fear the Dusk, because the Dusk is still distant and the Court is always near.
 
-Three folktales cling to this province. The Well of Whispers beneath Harmony Rest supposedly contains the voice of the last Emperor before the Sun Emperor; on windless nights, those who listen at its mouth hear prophecies in a language that sounds almost like speech. The Pilgrim Who Walked Backward tells of a farmer who, seeking to avoid his Harmonization, walked backward for three years and found himself at the same door he left, three years older and three years more guilty. The Bride of the Spire is a ghost story about a woman whose lover was taken for reeducation; she climbed the Spire's outer wall to find him and was never seen again. During thunderstorms, her silhouette appears in certain upper windows.
+Three folktales cling to this province. The Well of Whispers beneath Harmony Rest supposedly contains the voice of the last Emperor before the Sun Emperor; on windless nights, those who listen at its mouth hear prophecies in a language that sounds almost like speech. The Pilgrim Who Walked Backward tells of a farmer who, seeking to avoid his Harmonization, walked backward for three years and found himself at the same door he left, three years older and three years more guilty. The Bride of the Spire is a ghost story about a woman whose lover was taken for instruction; she climbed the Spire's outer wall to find him and was never seen again. During thunderstorms, her silhouette appears in certain upper windows.
 
 Notable figures include Inspector Swift Reed, the chief administrator of Harmony Rest, who has worked there for forty years and maintains a private ledger of everything that has entered the capital and everything that left again. And Widow Gold Thread, a merchant of mourning garments whose shop sits on the Avenue of Eternal Peace. She dresses the dead of the Inner Court and knows more about the true causes of death among the nobility than any physician in the empire.
 
@@ -431,9 +431,9 @@ The following testimonies were recovered from the archives of the Bureau of Bord
 
 ---
 
-### The Capital City: Tianjing
+### The Capital City: Xiaoyuan
 
-Tianjing is the heart of the Celestial Empire, the oldest continuously inhabited city on the continent, and the largest. Its population is officially recorded as 847,000 souls. Unofficial estimates, accounting for unregistered refugees, undocumented laborers, and the population of the Warrens beneath the city, place the true number closer to two million. The city is a living organism, constantly growing, decaying, and renewing itself in layers that span millennia.
+Xiaoyuan is the heart of the Celestial Empire, the oldest continuously inhabited city on the continent, and the largest. Its population is officially recorded as 847,000 souls. Unofficial estimates, accounting for unregistered refugees, undocumented laborers, and the population of the Warrens beneath the city, place the true number closer to two million. The city is a living organism, constantly growing, decaying, and renewing itself in layers that span millennia.
 
 #### The Inner City
 
@@ -441,13 +441,13 @@ The Inner City occupies the highest ground, a natural plateau that was leveled a
 
 The streets of the Inner City are paved with white stone that has been polished by centuries of footsteps. They are wide enough for six people to walk abreast, deliberately designed to prevent the crowded conditions that breed dissent. The architecture is formal, restrained, and ancient: buildings of grey stone with tiled roofs that curve upward at the corners, their ridges decorated with ceramic guardians. Every building in the Inner City is at least two hundred years old. Construction of new buildings is forbidden without special dispensation from the Grand Council, a rule that has been in effect for a century and a half.
 
-The air of the Inner City is noticeably cleaner than the rest of Tianjing. The Court maintains a network of Qi powered air purifiers that filter smoke, dust, and pollutants from the atmosphere. The technology exists in the Outer City but is not deployed there. The difference in air quality is one of the most visceral markers of class: a person who lives in the Inner City breathes air that smells of flowers and incense; a person who lives in the Outer City breathes air that smells of coal and garbage and the faint copper tang of untreated sewage. The Inner City's residents have difficulty breathing when they travel outside their district. They rarely do. The Qi concentrations are carefully regulated. The sounds are muted: the rustle of silk robes, the clicking of abacuses from open windows, the distant chanting of ritualists in the Ministry of Harmonious Rites quarter. The smell is of old paper, incense, polished wood, and the faint sweetness of the flowering plum trees that line the main avenues.
+The air of the Inner City is noticeably cleaner than the rest of Xiaoyuan. The Court maintains a network of Qi powered air purifiers that filter smoke, dust, and pollutants from the atmosphere. The technology exists in the Outer City but is not deployed there. The difference in air quality is one of the most visceral markers of class: a person who lives in the Inner City breathes air that smells of flowers and incense; a person who lives in the Outer City breathes air that smells of coal and garbage and the faint copper tang of untreated sewage. The Inner City's residents have difficulty breathing when they travel outside their district. They rarely do. The Qi concentrations are carefully regulated. The sounds are muted: the rustle of silk robes, the clicking of abacuses from open windows, the distant chanting of ritualists in the Ministry of Harmonious Rites quarter. The smell is of old paper, incense, polished wood, and the faint sweetness of the flowering plum trees that line the main avenues.
 
 The Inner City is home to the Court's senior officials, the Eight Great Families' urban mansions, the Grand Council chamber, the Spire of Eternal Vigil, the Imperial Archives, and the ministries. It is also home to the families of the Inner Court: three thousand people who constitute the empire's true ruling class, living in compounds that are cities unto themselves, with their own servants, guards, gardens, and secrets.
 
 #### The Outer City
 
-Beyond the Inner City walls, Tianjing spreads outward in concentric rings of decreasing wealth and increasing density. The Outer City has no wall of its own; it has simply grown, absorbing surrounding villages and towns until the boundaries between city and countryside became meaningless.
+Beyond the Inner City walls, Xiaoyuan spreads outward in concentric rings of decreasing wealth and increasing density. The Outer City has no wall of its own; it has simply grown, absorbing surrounding villages and towns until the boundaries between city and countryside became meaningless.
 
 The architecture of the Outer City is chaotic and organic. Buildings of different eras stand side by side: a wooden teahouse from the Golden Age next to a Qi heated apartment block from the last century next to a hastily constructed shelter of scrap wood and canvas. The streets are narrow, winding, and often unpaved. They have names like Threadbone Lane, Pot Alley, the Street of a Hundred Lamps, and the Passage That Weeps. The names are not official. They change with the generations.
 
@@ -477,17 +477,17 @@ The Outer City is divided into eight prefectures, each with its own character, i
 
 **The Harbor Prefecture.** Built along the Jade River, where goods from the Southern Granary and the Eastern Foundries arrive by barge. The wharves are a maze of warehouses, brothels, and taverns catering to sailors and river traders. The water smells of fish, fuel, and secrets. The Harbor Prefecture is Shadow's primary operating territory, and she has informants on every dock.
 
-**The Fringe.** The outermost ring of the city, where Tianjing merges with the countryside. Farmland, shantytowns, and the encampments of refugees who have not yet been processed into the imperial system. The Fringe grows every year as the Dusk pushes more people toward the capital. The Court has not decided what to do about this. The decision gets harder every day.
+**The Fringe.** The outermost ring of the city, where Xiaoyuan merges with the countryside. Farmland, shantytowns, and the encampments of refugees who have not yet been processed into the imperial system. The Fringe grows every year as the Dusk pushes more people toward the capital. The Court has not decided what to do about this. The decision gets harder every day.
 
 #### Specific Locations
 
-**The Spire of Eternal Vigil.** Visible from every corner of Tianjing, the Spire rises three thousand feet from the center of the Inner City. It is a needle of white stone that seems to absorb light rather than reflect it. No window, no door, no opening of any kind has been seen on its surface for three hundred years. The stone is not any material known to imperial geology. It is warm to the touch, always, even in winter. At the base of the Spire, a circle of thirty six monks from the Golden Orthodoxy maintain a continuous chant that has not stopped since the Emperor's withdrawal. They rotate in shifts. The chant never pauses. Some of the older monks have developed the ability to speak and chant simultaneously, a condition called Forked Voice that is considered a mark of spiritual advancement.
+**The Spire of Eternal Vigil.** Visible from every corner of Xiaoyuan, the Spire rises three thousand feet from the center of the Inner City. It is a needle of white stone that seems to absorb light rather than reflect it. No window, no door, no opening of any kind has been seen on its surface for three hundred years. The stone is not any material known to imperial geology. It is warm to the touch, always, even in winter. At the base of the Spire, a circle of thirty six monks from the Golden Orthodoxy maintain a continuous chant that has not stopped since the Emperor's withdrawal. They rotate in shifts. The chant never pauses. Some of the older monks have developed the ability to speak and chant simultaneously, a condition called Forked Voice that is considered a mark of spiritual advancement.
 
 When you stand at the base of the Spire and look up, the perspective is dizzying. The walls curve inward as they rise, creating the illusion that the tower is leaning toward you, or that you are falling toward it. The air around the Spire is charged with static. Your hair rises. Your teeth ache. The chant vibrates in your chest like a second heartbeat. There is a smell, ozone and old stone and something floral that might be coming from the stone itself.
 
 The official story is that the Emperor sits in meditation at the Spire's apex, maintaining the harmony of the empire through His continuous presence. The unofficial story, the one that Shadow sells to those who can afford it, is that the Spire is a prison, the Emperor was never willing, and the chant is not worship but containment.
 
-**The Grand Council Chamber.** A circular hall at the heart of the Ministry Quarter, its dome painted with a mural of the empire's founding that covers ten thousand square feet of plaster. The mural depicts the Sun Emperor standing on a mountain of subjugated chaos, the first generation of Court elders kneeling at His feet, and the Nine Provinces spread out below like a garden. The mural has been retouched seven times to remove provinces that no longer exist.
+**The Grand Council Chamber.** A circular hall at the heart of the Ministry Quarter, its dome painted with a mural of the empire's founding that covers ten thousand square feet of plaster. The mural depicts the Sun Emperor standing on a mountain of subjugated chaos, the first generation of Court elders kneeling at His feet, and the Nine Domains spread out below like a garden. The mural has been retouched seven times to remove provinces that no longer exist.
 
 The seven seats of the Grand Council are arranged in a circle at the center of the hall. They are made of black jade, each one carved from a single block. The three vacant seats are covered with white silk. The four occupied seats hold elders who have held power for so long that they have become more symbol than person. The air in the chamber is cold, deliberately cold, to keep the councilors alert. The only sound during sessions is the rustle of silk and the voice of whoever is speaking. Echoes are forbidden by acoustic design. Every word is heard exactly once, exactly where it lands, and then it is gone.
 
@@ -513,9 +513,9 @@ The Court of Appeals is one of the few places in the empire where a commoner can
 
 **The Avenue of Eternal Peace.** The main thoroughfare of the Inner City, running from the Spire's base to the Eastern Gate. It is a hundred feet wide, paved with white stone, and lined with flowering plum trees that bloom year round thanks to careful Qi regulation. The Avenue is used for imperial processions, military parades, and the public humiliation of officials who have fallen from favor. At dawn, it is empty and beautiful, the stone glowing with the soft amber light of the Qi conduits beneath it. At noon, it is crowded with officials hurrying between ministries, their robes creating a river of color. At dusk, it is where the Inner City's wealthy come to stroll and be seen, their conversations carefully calibrated to convey information without stating it directly.
 
-#### Daily Life in Tianjing
+#### Daily Life in Xiaoyuan
 
-A day in Tianjing looks very different depending on who you are.
+A day in Xiaoyuan looks very different depending on who you are.
 
 **For a Brush Scribe of the Eighth Rank.** You rise before dawn, in a rented room in the Spire District that you share with two other scribes. You wash your face with cold water from the communal basin. You dress in your grey official robes, careful to align the rank badges correctly. You eat a hurried breakfast of rice porridge and pickled vegetables at a street stall, standing because there is no time to sit. You walk to the Ministry of Harmonious Records through streets that are already crowded with people doing the same thing. You arrive at your desk before the morning bell. You spend the next twelve to fourteen hours copying documents, filing reports, and performing whatever tasks your supervisor assigns. You eat a midday meal at your desk, a simple box of rice and vegetables. You do not speak unless spoken to. You watch the shadows lengthen. You watch the senior officials walk past with their important documents and their important worries. You leave after the evening bell, exhausted. You eat a bowl of noodles at a street stall. You go to bed. You dream of paper.
 
@@ -529,13 +529,13 @@ A day in Tianjing looks very different depending on who you are.
 
 #### The Rhythm of the City
 
-Tianjing operates on cycles that have been established for so long that they feel like natural law.
+Xiaoyuan operates on cycles that have been established for so long that they feel like natural law.
 
 **The Day Cycle.** The morning bell rings at the fifth hour, marking the opening of the ministries. The midday bell at the eighth hour marks the meal break, when the streets fill with officials seeking food and gossip. The evening bell at the thirteenth hour marks the close of official business. The curfew bell at the fifteenth hour warns the Outer City to clear the streets. The night bell at the seventeenth hour is the final warning; anyone still outside in the Inner City after this bell is subject to arrest.
 
 **The Market Cycle.** The Outer Market operates on a three day rotation. On the first day, food and household goods are the primary trade. On the second day, luxury goods and information. On the third day, everything else: drugs, weapons, forbidden texts, contracts for services that the law does not permit. The third day is called Shadow Market Day, though the term is used with caution.
 
-**The Festival Cycle.** Tianjing's calendar is punctuated by festivals that break the monotony of imperial routine.
+**The Festival Cycle.** Xiaoyuan's calendar is punctuated by festivals that break the monotony of imperial routine.
 
 The Festival of the Silent Throne, at the winter solstice, commemorates the Emperor's withdrawal. All fires in the Inner City are extinguished for one hour. The city goes dark. The only light comes from candles carried in procession through the streets. The silence is absolute, enforced by patrols that arrest anyone who speaks. It is a beautiful, terrifying night.
 
@@ -547,9 +547,9 @@ The Festival of the Dying Year, on the last day of the imperial calendar, is a n
 
 **Execution Days.** Executions are held on the first day of each month, on a platform in the Outer Market. The condemned are usually Harmonization targets who could not be quietly disappeared and must be made an example of. The method varies: beheading for commoners, Qi extraction for those with significant power, or the rare and terrible Lonely Sentence, where the condemned is walled into a niche in the Spire's base, left to starve while the chant continues around them. Execution days draw large crowds. The vendors sell special snacks. Children play games that involve guessing which of the condemned will cry.
 
-#### Underground Tianjing
+#### Underground Xiaoyuan
 
-Beneath the streets of Tianjing lies a city that the official maps do not show.
+Beneath the streets of Xiaoyuan lies a city that the official maps do not show.
 
 **The Warrens Below.** The Warrens are not a single district but a network of tunnels, chambers, and forgotten structures that honeycomb the earth beneath the Outer City. Some of these tunnels are ancient, built before the empire by a civilization that left no other trace. Some are recent, dug by refugees and smugglers and people who needed to move unseen. The Warrens Below connect to every district of the Outer City, and rumors say they connect to the Inner City as well, through passages that the Court has sealed but not destroyed.
 
@@ -557,7 +557,7 @@ The atmosphere of the Warrens Below is constant: damp, cool, smelling of wet ear
 
 The Warrens Below have their own economy, their own law, their own politics. Shadow controls a significant portion of it, but she is not the only power. There are cults down here, worshipping gods that the Temple of Ten Thousand Gods has forgotten. There are communities of people who have never seen the sun, born and raised in the darkness. There are prisons that the Court does not know about, run by factions that capture and interrogate people for purposes that no one outside the Warrens can guess.
 
-**The Black Market.** Every major city has a black market. Tianjing's operates openly, in the sense that everyone knows where it is and the Court pretends not to. The true black market, the one that really matters, operates beneath the city, in a complex of chambers beneath the Outer Market called the Hollow Exchange.
+**The Black Market.** Every major city has a black market. Xiaoyuan's operates openly, in the sense that everyone knows where it is and the Court pretends not to. The true black market, the one that really matters, operates beneath the city, in a complex of chambers beneath the Outer Market called the Hollow Exchange.
 
 The Hollow Exchange is a natural cavern that was expanded over centuries into a trading floor three hundred feet wide. The ceiling is lost in darkness. The floor is packed earth. The stalls are carved into the walls, each one lit by a single lantern. The goods traded here are the ones that cannot be traded above ground: Qi draining devices, the blood of the Crimson Lineage, maps of the Archives' forbidden levels, classified documents from every ministry, the names of people who have died in Harmonizations but are officially still alive, and the addresses of their surviving families.
 
@@ -579,13 +579,13 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 3, The Unification.** The first campaign of unification. The Sun Emperor and His followers subdued the kingdoms of the central plains. The battles are recorded in epic poetry that the Bureau of Harmonious Narrative has carefully edited over the centuries. The original versions, which survive in the Archives' forbidden levels, describe methods of conquest that are not taught in the Academy.
 
-**Year 7, The Founding Charter.** The original charter of the Celestial Empire was signed in a ceremony at the site that would become Tianjing. The Duke of Eternal Night was present and signed as a witness. The charter established the Grand Council, the six ministries, and the framework of imperial law. It also contained provisions that have since been removed from all public copies: limits on the Grand Council's authority, provisions for the Emperor's potential incapacitation, and a clause requiring the empire to dissolve if the Emperor did not communicate with the world for a period of one hundred years. This clause has been "lost."
+**Year 7, The Founding Charter.** The original charter of the Celestial Empire was signed in a ceremony at the site that would become Xiaoyuan. The Duke of Eternal Night was present and signed as a witness. The charter established the Grand Council, the six ministries, and the framework of imperial law. It also contained provisions that have since been removed from all public copies: limits on the Grand Council's authority, provisions for the Emperor's potential incapacitation, and a clause requiring the empire to dissolve if the Emperor did not communicate with the world for a period of one hundred years. This clause has been "lost."
 
-**Year 12, Foundation of Tianjing.** The capital city was established on a plateau where all five aspects of Qi converged, a site chosen by the Sun Emperor personally after three years of searching. The original settlement was a village of two thousand people. Within a century, it would be a city of two hundred thousand. The Spire of Eternal Vigil was begun. Construction took eighty years and consumed the labor of an entire generation.
+**Year 12, Foundation of Xiaoyuan.** The capital city was established on a plateau where all five aspects of Qi converged, a site chosen by the Sun Emperor personally after three years of searching. The original settlement was a village of two thousand people. Within a century, it would be a city of two hundred thousand. The Spire of Eternal Vigil was begun. Construction took eighty years and consumed the labor of an entire generation.
 
 **Year 23, The First Harmonization.** The first recorded use of Harmonization as a tool of governance. A province in the southeast attempted to secede. The Court dispatched a Purity Commission. The province was "reintegrated." The records describe the process as "restorative." Oral traditions among the descendants of the survivors describe it differently.
 
-**Year 45, Completion of the Nine Provinces.** The last independent territory was incorporated into the empire. The borders of the Celestial Empire reached their greatest extent. The continent was unified for the first time in recorded history.
+**Year 45, Completion of the Nine Domains.** The last independent territory was incorporated into the empire. The borders of the Celestial Empire reached their greatest extent. The continent was unified for the first time in recorded history.
 
 **Year 87, The Death of the First Generation.** The original elders of the Grand Council began to die of old age, the first and last time this would occur naturally. The Crimson Lineage families, who had developed blood cultivation techniques during the Unification, chose not to share them. The Duke of Eternal Night watched his contemporaries die. He has not stopped watching.
 
@@ -593,9 +593,9 @@ The following chronology is compiled from the official records of the Bureau of 
 
 #### The Golden Age (Years 88 to 287)
 
-**Year 112, The Imperial Academy System.** The Academy of Celestial Bureaucracy was established in Tianjing, with branch academies in every province. For the first time, education was standardized across the empire. The curriculum was designed to produce loyal, competent officials. It succeeded at the latter.
+**Year 112, The Imperial Academy System.** The Academy of Celestial Bureaucracy was established in Xiaoyuan, with branch academies in every province. For the first time, education was standardized across the empire. The curriculum was designed to produce loyal, competent officials. It succeeded at the latter.
 
-**Year 134, The Railway Charter.** The first Qi powered railway connected Tianjing to the Eastern Foundries. The Iron Calculation school dates its founding to this year, though the school was not formally recognized until later. The railway reduced travel time from three weeks to two days. The empire shrank.
+**Year 134, The Railway Charter.** The first Qi powered railway connected Xiaoyuan to the Eastern Foundries. The Iron Calculation school dates its founding to this year, though the school was not formally recognized until later. The railway reduced travel time from three weeks to two days. The empire shrank.
 
 **Year 156, The Great Expansion.** The empire's population reached one hundred million. The census, the most comprehensive ever conducted, recorded every subject by name, occupation, and Qi alignment. The census data was used to optimize tax collection. It was also used to identify children with exceptional Qi potential, who were taken to the capital for specialized training. The families who refused to surrender their children were recorded for future attention.
 
@@ -643,11 +643,11 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 408, The First Casualty.** A herder in Scorch Field walked into a patch of red ground and did not return. A search party found his body. He had been dead for a week. He was still warm.
 
-**Year 412, The Fall of Scorch Field.** The Dusk spread across the province in a matter of months. The Governor requested evacuation assistance. The Court denied the request, citing resource constraints. Scorch Field was struck from official records. The herders who escaped were resettled in camps outside Tianjing. The camps are still there.
+**Year 412, The Fall of Scorch Field.** The Dusk spread across the province in a matter of months. The Governor requested evacuation assistance. The Court denied the request, citing resource constraints. Scorch Field was struck from official records. The herders who escaped were resettled in camps outside Xiaoyuan. The camps are still there.
 
 **Year 419, The Bureau of Border Harmony Established.** A new Special Bureau was created to manage the Dusk crisis. It was given minimal funding, minimal authority, and a mandate to "coordinate existing resources." The Bureau's first director requested a budget increase. The request was denied. The director resigned. The Bureau has had seventeen directors in thirty three years.
 
-**Year 422, The Iron Rebellion.** Workers in the Eastern Foundries, inspired by the fall of Scorch Field and the Court's inaction, rose in revolt. The rebellion was suppressed by the Garrison Command. The Iron Bone, then a young factory worker, was captured and sent to a labor camp. The wolf found him there.
+**Year 422, The Iron Rebellion.** Workers in the Eastern Foundries, inspired by the fall of Scorch Field and the Court's inaction, rose in revolt. The rebellion was suppressed by the Garrison Command. The Iron Bone, then a young factory worker, was captured and sent to a penal works. The wolf found him there.
 
 **Year 427, The Fall of Amber Shore.** The second province fell. The sea turned red. The fishing fleet did not return. The Governor's final message was a single sentence. The Court filed it under "Resolved." The Bureau of Harmonious Narrative prepared a statement explaining that Amber Shore had "completed its transition to a non provincial administrative status." The statement was not released. No statement was necessary because no one was asking.
 
@@ -689,7 +689,7 @@ The Steward who ordered it did not survive the aftermath politically. The Counci
 
 They expected him to keep the seat warm. He kept it for forty six years.
 
-**His doctrine: the Three Continuities.** His genius was a single document, four pages long, that nobody understood was a revolution until it had already happened.
+**His doctrine: the Widening.** His genius was a single document, four pages long, that nobody understood was a revolution until it had already happened.
 
 The Court had always held that the empire belonged to those who served it: the scholar, the soldier, the tiller of fields. Merchants were tolerated, taxed, and despised. The Ledger Hand's doctrine held that the empire must also embody the continuity of production, the continuity of learning, and the continuity of the common good, and that anyone who advanced these was therefore a servant of the empire regardless of birth.
 
@@ -699,13 +699,15 @@ The Golden Orthodoxy called it heresy for a decade and then stopped, because by 
 
 **What he built.** He opened the empire's ports to the foreign trade compacts, over the furious objection of the Iron Calculation, who correctly predicted that the eastern foundries would be undercut and incorrectly predicted that this would matter. Within twenty years the empire was making everything the world used, and the foundry towns that died in the transition were quietly reclassified as agricultural districts.
 
-He completed the River Wall, the largest structure ever raised in the Nine Provinces, a dam of such scale that it changed the weight distribution of the province behind it. It generates a fifth of the empire's refined Qi. It also drowned four hundred villages. The people of those villages were resettled with compensation that was, on paper, generous. The paper is in the Archives. So are the seventeen thousand petitions filed by people who never received it.
+He completed the Great Weir, the largest structure ever raised in the Nine Domains, a dam of such scale that it changed the weight distribution of the province behind it. It generates a fifth of the empire's refined Qi. It also drowned four hundred villages. The people of those villages were resettled with compensation that was, on paper, generous. The paper is in the Archives. So are the seventeen thousand petitions filed by people who never received it.
 
-He recovered the southern harbor of Pearl Gate from the maritime powers who had held it under a hundred year lease, and he did it without firing a shot, and it was, by any measure, the great triumph of his life. He promised the harbor it could keep its own laws, its own courts, and its own customs for fifty years. He meant it. He was not the Steward who would have to keep the promise.
+He recovered the southern harbor of Tidegate from the maritime powers who had held it under a hundred year lease, and he did it without firing a shot, and it was, by any measure, the great triumph of his life. He promised the harbor it could keep its own laws, its own courts, and its own customs for fifty years. He meant it. He was not the Steward who would have to keep the promise.
 
-**What it cost.** In his fortieth year, a meditation society called the Ten Thousand Silences surrounded the Court compound at dawn. They did not chant. They did not carry banners. Ten thousand people stood in silence in a perfect ring, and then at midday they left, and the Court realized that an organization it had never heard of had just demonstrated it could put ten thousand disciplined bodies anywhere in the capital without a single prior report crossing a single desk.
+**What it cost.** In his fortieth year, an order of breathing adepts called the Quiet Company walked past the Court compound. That is the entire event. They did not stop, chant, or carry banners. They came through the eastern gate at dawn in single file, one at a time, at intervals of perhaps four seconds, and they walked the length of the compound wall and out the western gate, and they did this without pause until dusk.
 
-The intelligence failure terrified him more than the sect did. Within a year the Silences were a proscribed doctrine, their teachers in reeducation, their scriptures burned in provincial courtyards. Within three years the Bureau of Internal Harmony had tripled in size and had a new mandate: to know, in advance, about every gathering of more than fifty people anywhere in the Nine Provinces.
+Nobody counted them. That was the problem. By evening the Bureau of Internal Harmony could not establish whether it had watched four thousand people or the same four hundred walking a circuit, and it could not establish where they had assembled, and it could not find one clerk anywhere in the capital who had filed a prior report.
+
+The intelligence failure terrified him far more than the order did. Within a year the Company were a proscribed doctrine, their teachers under instruction, their breathing manuals burned in provincial courtyards. Within three years the Bureau of Internal Harmony had tripled in size and had a new mandate: to know, in advance, about every gathering of more than fifty people anywhere in the Nine Domains.
 
 That mandate has never been rescinded. Every surveillance apparatus your players will evade was built by a man who was frightened, once, by ten thousand people standing still.
 
@@ -719,19 +721,19 @@ He retired. This is the astonishing part, the part every subsequent Steward has 
 
 He was the most constrained Steward in the empire's history, and he knew it on the first day.
 
-**His doctrine: the Harmonious Accord.** Where the Ledger Hand had asked how the empire could grow, the Accord asked who it was growing for. The provinces had become grotesquely unequal. The coastal prefectures had glass towers and Qi lighting. The interior had the same mud roads it had in the Golden Age. His doctrine held that harmony was not merely the absence of dissent but the presence of fairness, and that a province left behind was a province being lost.
+**His doctrine: the Levelling.** Where the Ledger Hand had asked how the empire could grow, the Accord asked who it was growing for. The provinces had become grotesquely unequal. The coastal prefectures had glass towers and Qi lighting. The interior had the same mud roads it had in the Golden Age. His doctrine held that harmony was not merely the absence of dissent but the presence of fairness, and that a province left behind was a province being lost.
 
 He abolished the field tax that had been collected since the Founding. He built roads into the interior. He extended the Court's grain relief to prefectures that had never received it. These were not small things. Two hundred million people ate better because of him.
 
 He is nonetheless remembered, when he is remembered, as the Steward under whom nothing was decided.
 
-**The Breath.** In his first year, a wasting sickness appeared in the southern prefectures. Local officials suppressed the reports, because the reporting official is the official who is blamed. The sickness reached Tianjing. It reached the foreign compounds. It became impossible to conceal, and at that point, and only at that point, the Court acted with sudden and total competence: quarantine, mass construction of isolation halls, daily public counts, the dismissal of the Minister of Health and the prefect who had sat on the first report.
+**The Breath.** In his first year, a wasting sickness appeared in the southern prefectures. Local officials suppressed the reports, because the reporting official is the official who is blamed. The sickness reached Xiaoyuan. It reached the foreign compounds. It became impossible to conceal, and at that point, and only at that point, the Court acted with sudden and total competence: quarantine, mass construction of isolation halls, daily public counts, the dismissal of the Minister of Health and the prefect who had sat on the first report.
 
 The empire learned two lessons from the Breath, and they contradicted each other. The Court learned that concealment fails and candor works. The provincial officials learned that the man who reports the plague is destroyed and the man who conceals it is usually fine, because usually the plague stops.
 
 Guess which lesson survived.
 
-**The Great Exhibition.** In his sixth year the empire hosted the Convocation of Nations, and it was magnificent. Every foreign delegation was received in a stadium built for the purpose. The sky over Tianjing was cleared of industrial haze by the simple expedient of closing every foundry within three hundred li for two months. Ten thousand drummers performed in perfect unison, and the world understood, in one evening, that the empire had returned.
+**The Great Exhibition.** In his sixth year the empire hosted the Gathering of Four Seas, and it was magnificent. Every foreign delegation was received in a stadium built for the purpose. The sky over Xiaoyuan was cleared of industrial haze by the simple expedient of closing every foundry within three hundred li for two months. Ten thousand drummers performed in perfect unison, and the world understood, in one evening, that the empire had returned.
 
 Your older players' characters remember this. It is the single proudest memory most citizens of the empire possess. Do not treat it cynically at the table. The pride was real. That is what makes everything after it hurt.
 
@@ -745,17 +747,19 @@ A citizen archivist began compiling the names of the dead children, because the 
 
 A survivor was pulled from the wreckage two hours after the burial began.
 
-The phrase entered the language. In the Nine Provinces, when an official explains something in a way that insults the listener's intelligence, people say: *he is burying the carriage.* They say it quietly. But they say it.
+The phrase entered the language. In the Nine Domains, when an official explains something in a way that insults the listener's intelligence, people say: *he is burying the carriage.* They say it quietly. But they say it.
 
 **Nine Dragons Ruling the Waters.** The Accord's central weakness was structural, not personal. Power had fragmented among nine great portfolios, each controlled by a different elder, each functionally sovereign. The Steward could not direct the Bureau of Internal Harmony. He could not direct the Garrison. He could persuade, trade, and wait.
 
 The result was an empire that could not stop doing anything it had started. Every faction could veto. No faction could initiate. The Dusk appeared on the eastern frontier in his time, and nine separate offices commissioned nine separate studies, and the studies were excellent, and nothing happened.
 
-**The Governor of Vermilion Gate.** In his final years a provincial governor in the southwest became the most popular man in the empire. He revived the old songs of the Common Flame. He built housing for laborers. He struck at the criminal syndicates in his province with a ferocity that made him a folk hero and made his rivals disappear.
+**The Governor of Anvil Rock.** In his final years a provincial governor in the southwest became the most popular man in the empire. He revived the old songs of the Common Flame. He built housing for laborers. He struck at the criminal syndicates in his province with a ferocity that made him a folk hero and made his rivals disappear.
 
 He was also, by every credible account, running a private intelligence service, torturing confessions out of merchants, and preparing to demand elevation to the Grand Council.
 
-It ended when his own constable, the man who had run his interrogation cells, fled in the night to a foreign consulate and asked for asylum, carrying documents. The consulate handed him back. The documents did not come back with him.
+It ended over a woman's death and a ledger. The Governor's own master of questioning, the man who had run his cells for nine years, arrived one night at the counting house of the maritime traders, asked for protection under their compact, and set a bound ledger on the table. The traders were not fools. They kept him four hours, made their own copy, and handed the original and the man back to the Court before dawn, with apologies.
+
+The Court got its constable. The traders kept their copy. Nobody has ever established what else was in that room, and there are at least three states that have since negotiated with the empire from a position that is difficult to explain otherwise.
 
 The Governor's fall was the largest political event in forty years, and it was resolved entirely inside the Court, and the public was given a sentence and a half of explanation. But every official in the empire understood what had been demonstrated: that a Steward could be challenged from the provinces, and that the challenge had come within a hair of succeeding.
 
@@ -763,15 +767,15 @@ The next Steward understood it best of all.
 
 ### The Third Stewardship: The Iron Brush (Years 428 to 452, Present)
 
-**How he came to it.** His father had been an elder of the founding generation, purged, imprisoned, and rehabilitated after death. He spent his adolescence in a cave dwelling in the loess prefectures, sent down from the capital during a doctrinal convulsion, sleeping on a brick bed in a village with no Qi lighting.
+**How he came to it.** His father had been an elder of the founding generation, purged, imprisoned, and restored to honor only after death. The son was sent out of the capital at fourteen during a doctrinal convulsion and spent six years at a herding station on the salt steppe, sleeping in a stone byre with no Qi lighting, learning to butcher and to keep a tally stick.
 
 The Court believed this had made him humble. The Court had never in its history been so wrong about anything.
 
-**His doctrine: Rectification.** The empire, he held, was not suffering from insufficient growth or insufficient fairness. It was suffering from rot. The Court had become a market. Offices were bought. Verdicts were bought. Every official above the sixth rank was compromised, and the compromise had gone on so long that it was no longer corruption but simply the operating logic of the state.
+**His doctrine: the Clearing of the Source.** The empire, he held, was not suffering from insufficient growth or insufficient fairness. It was suffering from rot. The Court had become a market. Offices were bought. Verdicts were bought. Every official above the sixth rank was compromised, and the compromise had gone on so long that it was no longer corruption but simply the operating logic of the state.
 
 He was correct. This is the thing your players must understand and that the Golden Orthodoxy will never say aloud. He was correct about the disease. The argument is only ever about the cure.
 
-**The Tiger Hunt.** He announced that the campaign would take tigers as well as flies: the mighty as well as the petty. Nobody believed him. Every Steward had announced this.
+**The Great Search.** He announced that the net would be woven fine enough to hold the small fish and strong enough to hold the large, and that no water in the empire would be left undragged. Nobody believed him. Every Steward had announced something like it on taking the tablets, and the announcement was understood to be a form of greeting.
 
 Then the Commission for Celestial Purity took an elder of the Grand Council, a man with a personal security apparatus and clients in every province, and broke him, and imprisoned him for life. Then it took the Chief of the Garrison staff. Then it took the Steward's predecessor's own chief of household, the man who had controlled access to the tablets themselves.
 
@@ -789,29 +793,33 @@ The three who did not vote yes were never named publicly. The Bureau of Internal
 
 **The Western Silence.** In the far western prefectures, among a people whose language, faith, and script differ from the capital's, the Court identified a problem of doctrinal contamination and solved it with a network of instructional facilities.
 
-The Court's position is that these are vocational schools, attended voluntarily, from which graduates emerge with improved employment prospects and a corrected relationship to the empire. Statistically, the province is now the most harmonious in the Nine. Reported incidents have fallen to zero.
+The Court's position is that these are houses of study, entered willingly, from which residents emerge with a trade in hand and a corrected relationship to the empire. The Court publishes the enrollment figures. It does not publish the departure figures, and when a delegation from the Bureau of Rites asked for them, it was told that the two numbers are recorded in different systems and cannot be meaningfully compared.
+
+Statistically the prefecture is now the most harmonious in the empire. Reported incidents have fallen to zero and stayed there for six consecutive years, which is a figure no other prefecture in three hundred years of records has ever achieved, including prefectures with no population.
 
 Bone Script comes from a prefecture two valleys over. He will tell you what a reported incident rate of zero means, if he trusts you, which he will not for a long time.
 
-**The Harbor's Silence.** Pearl Gate had been promised fifty years of its own laws. In year thirty of that promise, after a summer in which two million of its people filled the streets, the Court determined that the promise had always been conditional on harmony, that harmony had failed, and that the Court's obligation was therefore discharged.
+**The Harbor's Silence.** Tidegate had been promised fifty years of its own laws. In year thirty of that promise, after a summer in which two million of its people filled the streets, the Court determined that the promise had always been conditional on harmony, that harmony had failed, and that the Court's obligation was therefore discharged.
 
 The harbor's assemblies were reconstituted with vetted candidates. Its newspapers closed. Its most prominent advocates were tried under a statute written after their alleged offenses and applied backward. Many of its educated young left for the maritime powers.
 
 The Court had promised fifty years. It gave thirty. And it did so through an entirely legal process, documented at every step, which is the detail that should chill your table most.
 
-**The Second Breath.** A new plague, in a river city of eleven million. The first physicians to describe it were summoned by the local Commission office and made to sign statements admitting they had spread rumors. One of them died of the disease he had been disciplined for reporting.
+**The Second Breath.** A new plague, in a lake city of the central plain, large enough that no one had ever counted it properly. The first physicians to describe it were summoned by the local Commission office and made to sign statements admitting they had spread rumors. One of them died of the disease he had been disciplined for reporting.
 
 Then the Court moved, and moved with a totality no other power on earth could have matched. It sealed the city. Then it sealed the province. Then, over three years, it sealed and unsealed cities of tens of millions at a stroke, built isolation halls in six days, tested entire populations weekly, and drove the disease to almost nothing while the rest of the world buried its dead in trenches.
 
 It worked. That is the part outsiders cannot hold in their heads alongside the rest. For two years the empire was the safest place in the world, and its citizens knew it, and were proud.
 
-Then it went on. And on. Sealed apartment blocks. Food that did not arrive. A fire in a tower where the doors had been chained. And in the third winter, in a dozen cities, people came into the streets holding sheets of paper with nothing written on them, because there was nothing that could be safely written, and the blankness said everything.
+Then it went on. And on. Sealed courtyards. Grain that did not arrive. A fire in a tenement where the stair doors had been barred from outside. And in the third winter, in a dozen cities, people came out and stood in the streets with their hands open and empty at their sides, holding nothing, saying nothing.
+
+That was all. No banners, no chanting, no demands. The Bureau of Harmonious Narrative has never been able to describe the event, because describing it requires a verb, and the crowds did not do anything. They stood with empty hands until they were told to go home, and they went home. It remains the single most frightening thing that has happened to the Celestial Court in three hundred years.
 
 The Court reversed the entire policy within a month, with no admission that it had ever been policy. The sealed cities opened. The counting stopped. The dead of the reopening were never tallied. The Bureau of Harmonious Narrative moved directly from explaining that sealing was essential to explaining that opening was timely, and there was no day on which it explained the transition, because there was no transition, because there had never been a policy, because there was only ever the Court being correct.
 
-**The Merchant Prince.** The empire's wealthiest man, a former village teacher who had built the great trading houses, stood before an audience of financiers and observed that the Court's regulators were operating with the mentality of a pawnshop.
+**The Guild Head.** The empire's wealthiest man, a former village teacher who had built the great trading houses out of nothing, stood before an audience of financiers and said that the Court's monetary bureaus were being run by men who had learned to guard a granary without ever having grown anything, and that a granary guarded that carefully eventually contains only rats and rules.
 
-The largest share offering in the history of the world was scheduled for the following week. It was stopped two days before. The Merchant Prince was not arrested, not charged, not denounced. He simply ceased to be visible. He reappeared, eventually, at an agricultural research station, praising the Court's rural policy.
+The largest share offering in the history of the world was scheduled for the following week. It was stopped two days before. The Guild Head was not arrested, not charged, not denounced. He simply ceased to be visible. He reappeared, eventually, at an agricultural research station, praising the Court's rural policy.
 
 Every merchant in the empire watched. Every merchant in the empire understood. The Iron Brush had shown that there is no amount of wealth that constitutes a position.
 
@@ -819,15 +827,17 @@ Every merchant in the empire watched. Every merchant in the empire understood. T
 
 No charges were published. The formula was identical each time: serious violations of discipline and law. The Bureau of Harmonious Narrative published the removals as brief notices, in the same typeface as agricultural statistics.
 
-The men who vanished were not the Steward's rivals. They were his own appointments, his own faction, men he had personally elevated. That is the detail that has the Court genuinely frightened, in a way it was not frightened by the Tiger Hunt. When a Steward purges his enemies, the logic is legible. When a Steward purges the men he chose, no one can compute their own safety, because the variable that determined survival is not visible from inside the system.
+The men who vanished were not the Steward's rivals. They were his own appointments, his own faction, men he had personally elevated. That is the detail that has the Court genuinely frightened, in a way it was not frightened by the Great Search. When a Steward purges his enemies, the logic is legible. When a Steward purges the men he chose, no one can compute their own safety, because the variable that determined survival is not visible from inside the system.
 
 Run this at your table. A player asks an official why a minister vanished. The official does not know. The official's superior does not know. The official's superior's superior does not know. There is no one to ask. There is only the notice, in the typeface of agricultural statistics.
 
 **The Tower Collapse.** The empire's great construction houses had borrowed against land they had not built on, sold apartments they had not begun, and paid old debts with new deposits, for twenty years, with the full knowledge of every regulator.
 
-The largest of them failed. Then the second. Then the fourth. Across the Nine Provinces stand the skeletons: concrete frames, rebar rusting, weeds at the fourteenth floor, bought and paid for by families who are still making payments on homes that will never have windows. Some of those families moved into the shells anyway. They carry water up forty flights.
+The largest of them failed. Then the second. Then the fourth. Across the Nine Domains stand the skeletons: concrete frames, rebar rusting, weeds at the fourteenth floor, bought and paid for by families who are still making payments on homes that will never have windows. Some of those families moved into the shells anyway. They carry water up forty flights.
 
-**The Lying Flat.** And beneath all of it, a generation of the empire's most educated young people has quietly concluded that the bargain is not worth taking. They studied for twenty years for examinations that no longer lead anywhere. One in six cannot find a post. So they decline. They do not protest. They simply lie flat: work the minimum, want nothing, buy nothing, marry no one, produce no heirs.
+**The Setting Down.** And beneath all of it, a generation of the empire's best schooled young people has quietly concluded that the bargain is not worth taking. They sat the examinations their parents sat. The examinations no longer lead anywhere, because the posts behind them were filled by people who will not die for thirty years.
+
+So they decline. Not in protest; there is nothing to protest, and no one to protest to. A porter carrying a load sets the pole down at the top of the hill and does not pick it up again, and if you ask him why he will say that he has arrived, and he is not being clever. They work the minimum. They want nothing that requires a permit. They do not marry, do not petition, do not accumulate, and do not produce heirs, and the birth registers in the great cities have fallen for eleven consecutive years.
 
 The Court has no instrument for this. Every tool it possesses is designed to stop people from doing something. It has never in three hundred years needed to make people start.
 
@@ -851,7 +861,7 @@ Drop these into any session.
 
 An old clerk, drunk, mentions that he was on the Great Approach as a student. He does not say what he saw. He says he still cannot eat rice cooked in a certain way. Then he looks at the players and asks them to forget he spoke.
 
-A family arrives in Tianjing from a river valley with a compensation warrant forty years old, correctly stamped, never honored. They want the players to file it. It is valid. It is also a confession that the Court owes a debt it has denied for four decades.
+A family arrives in Xiaoyuan from a river valley with a compensation warrant forty years old, correctly stamped, never honored. They want the players to file it. It is valid. It is also a confession that the Court owes a debt it has denied for four decades.
 
 The players are handed a promotion list. Two names have identical files: same rank, same offense, same evidence. One is marked for elevation, one for the Commission. They are asked to sign. They are not told which decision they are ratifying.
 
@@ -902,7 +912,7 @@ The conservative establishment. They resist all change to doctrine or ritual. Th
 **Key Figure:** The Alchemist, as its reluctant instrument.
 **Mark:** The Unbroken Circle.
 
-**Organization.** The Golden Orthodoxy is the most formally structured of the six schools. Its hierarchy mirrors the Court itself: a Grand Ritual Master at the top, supported by a council of senior ritualists, with regional directors overseeing each province. The Orthodoxy maintains temples in every major city and a presence in every village, however small. The temple in Tianjing's Inner City is the largest religious structure in the empire, capable of holding five thousand worshippers for major ceremonies.
+**Organization.** The Golden Orthodoxy is the most formally structured of the six schools. Its hierarchy mirrors the Court itself: a Grand Ritual Master at the top, supported by a council of senior ritualists, with regional directors overseeing each province. The Orthodoxy maintains temples in every major city and a presence in every village, however small. The temple in Xiaoyuan's Inner City is the largest religious structure in the empire, capable of holding five thousand worshippers for major ceremonies.
 
 The Orthodoxy's power rests on three pillars: control of the official narrative through the Bureau of Harmonious Narrative, control of public ritual through the monopoly on licensed ritualists, and control of education through influence over the Academy curriculum. These pillars have been eroding for decades, but the Orthodoxy's leadership refuses to acknowledge the erosion, attributing setbacks to insufficient orthodoxy rather than to fundamental flaws in their approach.
 
@@ -1053,17 +1063,17 @@ The empire's social structure is rigid, formalized, and inscribed in law, though
 
 **The Outer Court.** The working officials of the empire. Scribes, record keepers, inspectors, ritual assistants, tax collectors, magistrates. They are educated, ambitious, and replaceable. They serve at the pleasure of their superiors. They are the ones who actually operate the empire, and they know it, which makes them resentful.
 
-**The Merchant Class.** Technically beneath the Outer Court, practically often wealthier. Merchants in Tianjing's Outer Market, trade lords of the river routes, money lenders who hold the debts of nobles. They have no formal political power. They purchase informal power through bribes, marriages, and strategic information sharing. The Court despises them and needs them.
+**The Merchant Class.** Technically beneath the Outer Court, practically often wealthier. Merchants in Xiaoyuan's Outer Market, trade lords of the river routes, money lenders who hold the debts of nobles. They have no formal political power. They purchase informal power through bribes, marriages, and strategic information sharing. The Court despises them and needs them.
 
 **The Artisan Class.** Craftworkers, smiths, weavers, builders, alchemists. Respected for their skills, confined to their social station. The best artisans can earn fortunes and still be unable to buy their children into the Outer Court. The Academy system is theoretically meritocratic. In practice, it favors those who can afford the preparation.
 
 **The Peasantry.** Farmers, herders, fishermen, foresters. The vast majority of the empire's population. They work the land, pay their taxes, and pray that the Court does not notice them. They are the ones who suffer most during Harmonizations, famines, and the advance of the Dusk. They are also the ones who remember the old stories, the old gods, and the old hatreds. The Court has been trying to make them forget for four centuries. It has not succeeded.
 
-**The Unregistered.** Refugees, runaways, criminals, and those who have chosen to live outside the empire's systems. They have no legal existence. They cannot own property, marry legally, or seek protection from the courts. They are also free from taxation, conscription, and registration. The Warrens of Tianjing are full of them. The Fringe is full of them. The number of unregistered persons in the empire is estimated at five million, though no one knows for certain because they are not counted.
+**The Unregistered.** Refugees, runaways, criminals, and those who have chosen to live outside the empire's systems. They have no legal existence. They cannot own property, marry legally, or seek protection from the courts. They are also free from taxation, conscription, and registration. The Warrens of Xiaoyuan are full of them. The Fringe is full of them. The number of unregistered persons in the empire is estimated at five million, though no one knows for certain because they are not counted.
 
 #### Education: The Academy System
 
-The Imperial Academy in Tianjing is the empire's most prestigious institution, accepting one thousand students per year from across the nine provinces. Admission is theoretically based on examination results. In practice, the examinations are structured to favor those who can afford years of private tutoring.
+The Imperial Academy in Xiaoyuan is the empire's most prestigious institution, accepting one thousand students per year from across the nine provinces. Admission is theoretically based on examination results. In practice, the examinations are structured to favor those who can afford years of private tutoring.
 
 The standard curriculum includes:
 
@@ -1101,7 +1111,7 @@ The state orthodoxy holds that the Sun Emperor is the sole legitimate object of 
 
 Food in the Celestial Empire is never just food. It is medicine, ritual, status marker, and sometimes poison.
 
-**Central Province Cuisine.** Refined and subtle. Dishes emphasize the natural flavors of ingredients, enhanced by delicate sauces and precise cooking techniques. Signature dishes include silk tofu braised in mushroom broth, steamed fish with ginger and spring onions, and the famous Tianjing dumplings, filled with minced pork and crab roe, each one folded with exactly eighteen pleats.
+**Central Province Cuisine.** Refined and subtle. Dishes emphasize the natural flavors of ingredients, enhanced by delicate sauces and precise cooking techniques. Signature dishes include silk tofu braised in mushroom broth, steamed fish with ginger and spring onions, and the famous Xiaoyuan dumplings, filled with minced pork and crab roe, each one folded with exactly eighteen pleats.
 
 **Eastern Foundries Cuisine.** Hearty and efficient. Workers need calories, not aesthetics. Thick noodle soups with slivers of meat and vegetables. Flatbreads cooked on the surfaces of forge chimneys. A potent tea made from roasted barley that stains the teeth and keeps workers alert through long shifts.
 
@@ -1141,7 +1151,7 @@ Clothing in the empire is a language. Rank, school affiliation, wealth, and inte
 
 **The Making of Clothing.** The empire's clothing industry is one of its largest sectors. Silk comes from the Southern Granary, where silkworms are raised on mulberry leaves and their cocoons are harvested with a precision that borders on the ritualistic. Cotton comes from the Central Province, grown in fields that were once rice paddies. Wool comes from the Western Bulwark, where sheep are raised in the high mountain pastures. Leather comes from the Northern Expanse, where the forest peoples tan hides using a process that has not been shared with imperial tanners.
 
-The tailors of Tianjing are the finest in the empire, capable of creating garments that fit perfectly and move beautifully. The best tailors work exclusively for the Inner Court, their workshops located in the Spire District. Their prices are astronomical. Their waiting lists are years long.
+The tailors of Xiaoyuan are the finest in the empire, capable of creating garments that fit perfectly and move beautifully. The best tailors work exclusively for the Inner Court, their workshops located in the Spire District. Their prices are astronomical. Their waiting lists are years long.
 
 **The Language of Fans.** The fan is an essential accessory for any official of Fifth Rank or above. Unregistered persons wear brown or undyed cloth. Peasants wear blue or grey. The Outer Court wears grey, green, or blue depending on exact rank, with rank badges stitched on the chest. Fifth Rank and above wear silk. Third Rank and above wear silk with gold thread. The Inner Court wears purple, red, or gold. The Grand Council wears white, the color of authority so complete that it needs no ornament.
 
@@ -1155,9 +1165,9 @@ The tailors of Tianjing are the finest in the empire, capable of creating garmen
 
 #### Festivals
 
-**The Festival of the Silent Throne (Winter Solstice).** Commemorating the Emperor's withdrawal. All fires are extinguished for one hour at midnight. The empire goes dark. Families sit in silence, holding candles. The only permitted sound is the distant bell from the Spire. In Tianjing, the streets fill with processions of people carrying single flames, walking in absolute silence. The festival is beautiful and terrifying. Crime rates drop to near zero on this night, not because of enforcement but because no one wants to be the one who breaks the silence.
+**The Festival of the Silent Throne (Winter Solstice).** Commemorating the Emperor's withdrawal. All fires are extinguished for one hour at midnight. The empire goes dark. Families sit in silence, holding candles. The only permitted sound is the distant bell from the Spire. In Xiaoyuan, the streets fill with processions of people carrying single flames, walking in absolute silence. The festival is beautiful and terrifying. Crime rates drop to near zero on this night, not because of enforcement but because no one wants to be the one who breaks the silence.
 
-**The Festival of Great Harmony (Spring Equinox).** The empire's founding. A day of celebration, feasting, and official ceremonies. In Tianjing, a procession carries statues of the Sun Emperor and the first generation through the streets, accompanied by court musicians and ritualists. The procession takes twelve hours to complete its route. Free rice and tea are distributed to the poor. The provinces hold their own celebrations, with local variations: the Southern Granary adds a day of competitive boat racing, the Eastern Foundries hold a ceremony where machines are blessed by monks, the Western Bulwark holds military demonstrations.
+**The Festival of Great Harmony (Spring Equinox).** The empire's founding. A day of celebration, feasting, and official ceremonies. In Xiaoyuan, a procession carries statues of the Sun Emperor and the first generation through the streets, accompanied by court musicians and ritualists. The procession takes twelve hours to complete its route. Free rice and tea are distributed to the poor. The provinces hold their own celebrations, with local variations: the Southern Granary adds a day of competitive boat racing, the Eastern Foundries hold a ceremony where machines are blessed by monks, the Western Bulwark holds military demonstrations.
 
 **The Festival of Ancestors (Autumn Equinox).** A private festival. Families travel to ancestral homes to clean graves, make offerings, and share meals with the dead. The dead are believed to return on this night, and extra places are set at tables. The Court officially recognizes the festival but does not participate as a body, because the Court's relationship with the dead is complicated.
 
@@ -1218,7 +1228,7 @@ Each figure is a potential patron, ally, rival, or executioner. Each belongs to 
 
 **Story:** Cinnabar Heart was a true believer once. He rose through the Bureau on the strength of his faith, his ability to transmute inconvenient facts into doctrinal gold was legendary. He coined the phrases that justified three Harmonizations, two border conflicts, and the "voluntary relocation" of an entire province. Then, thirty years into his tenure, he found something in the archives. He has never spoken of it. He has never been the same.
 
-**Personal History.** Cinnabar Heart was born in a small village in the Southern Granary, the son of a rice farmer and a silk weaver. He was identified at age nine as having exceptional Qi sensitivity and was sent to the Academy in Tianjing. He excelled in rhetoric and ritual theory, graduating at the top of his class. His first posting was as a junior scribe in the Bureau of Harmonious Narrative, where he discovered a talent for framing that bordered on alchemical. He could take the most damning report and reframe it as a testament to the empire's wisdom and mercy. His superiors noticed. He rose quickly.
+**Personal History.** Cinnabar Heart was born in a small village in the Southern Granary, the son of a rice farmer and a silk weaver. He was identified at age nine as having exceptional Qi sensitivity and was sent to the Academy in Xiaoyuan. He excelled in rhetoric and ritual theory, graduating at the top of his class. His first posting was as a junior scribe in the Bureau of Harmonious Narrative, where he discovered a talent for framing that bordered on alchemical. He could take the most damning report and reframe it as a testament to the empire's wisdom and mercy. His superiors noticed. He rose quickly.
 
 He married a woman from a minor Crimson Lineage family, a political match that produced three children, two of whom survived infancy. He was happy, or believed himself to be. The discovery in the archives changed everything. It was a document from the Founding Era, a personal letter from a first generation elder to his son, describing the true nature of the Sun Emperor's relationship with the Court. Cinnabar Heart read it. He could not unread it. He has been living with that knowledge for twenty years.
 
@@ -1340,7 +1350,7 @@ She has outlived four lovers, two children, and everyone she knew before the emp
 **Court Role:** Director, State Planning Commission
 **Nature:** The System Builder Who Misplaced People
 
-**Presence:** Brass goggles pushed up on a soot smudged brow. A coat heavy with specialized tools. A clockwork abacus at his belt that computes probabilities faster than any oracle. He resembles a man who has not rested since the last Five Year Plan began.
+**Presence:** Brass goggles pushed up on a soot smudged brow. A coat heavy with specialized tools. A clockwork abacus at his belt that computes probabilities faster than any oracle. He resembles a man who has not rested since the last five year mandate began.
 
 **His Workshop.** Iron Calculation's private workshop is attached to his office in the State Planning Commission. It is a large room filled with machines in various states of assembly: gears, pistons, conduits, and devices whose purpose is not apparent to the untrained eye. The walls are covered with production charts and efficiency calculations, updated daily. The air smells of oil and metal and the faint ozone tang of active Qi conduits. Iron Calculation spends his evenings here, tinkering, designing, thinking. It is the only place where he seems remotely human.
 
@@ -1348,7 +1358,7 @@ She has outlived four lovers, two children, and everyone she knew before the emp
 
 **Personal History.** His birth name is Seven Coins, a name that reflects his family's poverty. His father worked the bellows at Ember Forge. His mother operated a loom in a textile factory, producing silk for the Inner Court's robes. He was the third of six children, the only one who survived to adulthood. He taught himself to read using production manifests that his father brought home from the forge.
 
-He was discovered by a State Planning Commission recruiter who noticed that the boy could calculate optimal bellows timing by watching the flame colors. He was taken to Tianjing, enrolled in the Academy of Celestial Engineering, and given a new name: Iron Calculation, the name of his future school. He never saw his parents again. He does not know if they are alive or dead. He has never inquired.
+He was discovered by a State Planning Commission recruiter who noticed that the boy could calculate optimal bellows timing by watching the flame colors. He was taken to Xiaoyuan, enrolled in the Academy of Celestial Engineering, and given a new name: Iron Calculation, the name of his future school. He never saw his parents again. He does not know if they are alive or dead. He has never inquired.
 
 At the Academy, he excelled beyond all expectations. He redesigned the curriculum before he graduated. He published papers on Qi conduit optimization that are still required reading. He was appointed to the State Planning Commission at age thirty and became its director at thirty five. He has not taken a vacation since his appointment. He does not understand the concept.
 
@@ -1474,7 +1484,7 @@ The resulting Harmonization lasted three months and claimed forty seven official
 
 **Presence:** Dark leathers worn soft by years of movement. An array of knives that seem to multiply the longer you look. A face that is almost familiar, like someone you knew in a past life or a past posting. The kind of person who is already in the room before you notice the window is open.
 
-**Story:** Born in the Warrens beneath Tianjing, child of a disgraced official and a teahouse worker. Should have died before age five. Instead, she learned to read the secrets people whispered, to trade information for sustenance, to survive by being more useful alive than dead. Recruited by the Bureau of Internal Harmony at sixteen, trained as their finest operative, went independent at twenty five when she realized her handlers were planning to retire her permanently. She has been trading secrets ever since.
+**Story:** Born in the Warrens beneath Xiaoyuan, child of a disgraced official and a teahouse worker. Should have died before age five. Instead, she learned to read the secrets people whispered, to trade information for sustenance, to survive by being more useful alive than dead. Recruited by the Bureau of Internal Harmony at sixteen, trained as their finest operative, went independent at twenty five when she realized her handlers were planning to retire her permanently. She has been trading secrets ever since.
 
 **Personal History.** Her birth name is not Shadow. That name was given to her by the Bureau of Internal Harmony, and she has forgotten the original. She was born in a rented room in the Warrens, the daughter of a woman who worked in a teahouse and a man whose name was never spoken. Her mother died when she was three, of a fever that could have been treated if they had had the money for medicine. She survived by begging, stealing, and learning which adults could be trusted and which could not.
 
@@ -1482,9 +1492,9 @@ She was recruited by the Bureau of Internal Harmony at age sixteen, spotted duri
 
 At age twenty five, she intercepted a message discussing her own "retirement." The Bureau's definition of retirement involved a shallow grave in the Warrens Below. She left the Bureau that night, taking with her a collection of classified documents that she has been selling ever since.
 
-**Daily Routine.** Shadow rises at whatever hour she chooses, which is never the same two days in a row. She maintains a network of safe houses across the Outer City, each one stocked with supplies, weapons, and emergency funds. She spends the morning receiving reports from her informants, who number in the hundreds and cover every level of Tianjing society. She spends the afternoon meeting clients, trading information in teahouses, markets, and alleys. She prices her secrets on a sliding scale: cheap for information that hurts the powerful, expensive for information that protects them. She spends the evening maintaining her network, checking in with informants, paying debts, collecting favors. She sleeps in a different location each night, always with a weapon within reach. She has not had a full night's sleep in twenty years.
+**Daily Routine.** Shadow rises at whatever hour she chooses, which is never the same two days in a row. She maintains a network of safe houses across the Outer City, each one stocked with supplies, weapons, and emergency funds. She spends the morning receiving reports from her informants, who number in the hundreds and cover every level of Xiaoyuan society. She spends the afternoon meeting clients, trading information in teahouses, markets, and alleys. She prices her secrets on a sliding scale: cheap for information that hurts the powerful, expensive for information that protects them. She spends the evening maintaining her network, checking in with informants, paying debts, collecting favors. She sleeps in a different location each night, always with a weapon within reach. She has not had a full night's sleep in twenty years.
 
-**Inner Circle.** The Coin is her contact in the Hollow Exchange, the black market's governing council. The Coin facilitates her trades and takes a cut of her earnings. Blind Wei is an elderly information broker who lives in a permanent state of drug induced Qi sensitivity, able to perceive the emotional states of people around him. Shadow uses him to verify the truthfulness of her clients. The Map Maker is a former cartographer from the Bureau of Harmonious Narrative who was blinded in an industrial accident and who now draws maps of Tianjing's underground from memory, each one more accurate than the official versions.
+**Inner Circle.** The Coin is her contact in the Hollow Exchange, the black market's governing council. The Coin facilitates her trades and takes a cut of her earnings. Blind Wei is an elderly information broker who lives in a permanent state of drug induced Qi sensitivity, able to perceive the emotional states of people around him. Shadow uses him to verify the truthfulness of her clients. The Map Maker is a former cartographer from the Bureau of Harmonious Narrative who was blinded in an industrial accident and who now draws maps of Xiaoyuan's underground from memory, each one more accurate than the official versions.
 
 **Relationships.** Shadow and Night Warbler share a history that neither discusses. They were trained in the same system, they escaped it through different means, and they respect each other's skills. Shadow has sold information to every figure in the Court, and she has also sold information about every figure to their rivals. The Duke of Eternal Night is one of her best customers; he pays in ancient coins that are worth more than their weight in gold. The Bright Mirror is the one figure Shadow will not sell information about, not because she respects her but because she fears her. The Iron Bone she supports with discounted intelligence, believing that the Common Flame needs every advantage it can get.
 
@@ -1558,11 +1568,11 @@ He has married twelve times. Each wife has died, of age, of illness, of violence
 
 **Presence:** Broad shouldered and raw knuckled. A body built by labor and scarred by repression. Eyes that burn with righteous fire. His smile can rally a crowd of ten thousand. When the wolf takes him, when the accumulated rage of a betrayed people flows through his veins, he becomes something else entirely: a towering beast of fur and fang and indiscriminate fury.
 
-**Story:** He was a factory organizer in the Eastern Foundries, leading workers in demanding humane conditions, when a Harmonization Audit labeled his association a "heterodox cell." His spouse was taken. His children were sent to re education. He was left for dead in a labor camp. He survived. The ancient wolf spirit, the embodiment of popular fury, found him in that camp and offered him power. He accepted.
+**Story:** He was a factory organizer in the Eastern Foundries, leading workers in demanding humane conditions, when a Harmonization Audit labeled his association a "heterodox cell." His spouse was taken. His children were sent to instruction. He was left for dead in a penal works. He survived. The ancient wolf spirit, the embodiment of popular fury, found him in that camp and offered him power. He accepted.
 
 **Personal History.** His birth name is Strong Mountain. He was born in the Eastern Foundries, in a company town called Gears Rest that was owned by the Iron Calculation school. His father died in a factory accident when Strong Mountain was six, crushed by a press that had not been maintained because maintenance would have slowed production. His mother worked twelve hour shifts in a textile mill and died of lung disease when he was fourteen.
 
-He worked in the foundries from age fourteen, first as a cleaner, then as a furnace tender, then as a machine operator. He was good at his job and respected by his peers. He began organizing workers at age twenty, forming a mutual aid society that pooled resources to support families affected by workplace deaths. The society was peaceful, legal, and effective. The Court labeled it a heterodox cell during a Harmonization sweep. He was arrested. His wife was taken. His children were sent to reeducation camps. He was sentenced to hard labor and sent to a camp in the mountains.
+He worked in the foundries from age fourteen, first as a cleaner, then as a furnace tender, then as a machine operator. He was good at his job and respected by his peers. He began organizing workers at age twenty, forming a mutual aid society that pooled resources to support families affected by workplace deaths. The society was peaceful, legal, and effective. The Court labeled it a heterodox cell during a Harmonization sweep. He was arrested. His wife was taken. His children were sent to instruction camps. He was sentenced to hard labor and sent to a camp in the mountains.
 
 The wolf found him in the camp, on the night he decided to die. The wolf was ancient, a spirit of rage that had been accumulating for centuries, feeding on the suffering of the oppressed. It offered him a choice: die in the camp, or become its vessel and burn the empire down. He chose to live.
 
@@ -1585,9 +1595,9 @@ The wolf found him in the camp, on the night he decided to die. The wolf was anc
 - ↓ Act like the aristocrats he despises
 - ↓ Try to control or leash him
 
-**What He Knows:** The Crimson Dusk originated in the empire's labor camps. The accumulated suffering of millions concentrated into a wound in the fabric of reality. The empire's crimes literally broke the world. He knows this because he was there. The camp where the wolf found him was the first site of Dusk manifestation outside the border provinces. He saw the red seep from the ground where prisoners had been buried. He saw the first Quiet One rise from a mass grave.
+**What He Knows:** The Crimson Dusk originated in the empire's penal works. The accumulated suffering of millions concentrated into a wound in the fabric of reality. The empire's crimes literally broke the world. He knows this because he was there. The camp where the wolf found him was the first site of Dusk manifestation outside the border provinces. He saw the red seep from the ground where prisoners had been buried. He saw the first Quiet One rise from a mass grave.
 
-**Potential Quest: The Camp.** The labor camp where the Dusk first appeared still exists, though it has been officially decommissioned. It is now a zone of intense Dusk activity, avoided by everyone. Iron Bone believes that something in the camp, something left behind when it was abandoned, could provide evidence of the Court's responsibility for the Dusk. He needs someone to retrieve it.
+**Potential Quest: The Camp.** The penal works where the Dusk first appeared still exists, though it has been officially decommissioned. It is now a zone of intense Dusk activity, avoided by everyone. Iron Bone believes that something in the camp, something left behind when it was abandoned, could provide evidence of the Court's responsibility for the Dusk. He needs someone to retrieve it.
 
 ---
 
@@ -1637,7 +1647,7 @@ His mother was the village recorder. When the resettlement office confiscated he
 
 **Why he matters.** Every other figure in this chapter is arguing about how the machine should run. Bone Script is the only one who has seen what it looks like from underneath, after it has finished. He is the empire's conscience in the most literal available sense: he is carrying its uncounted dead around on a piece of leather.
 
-He came to Tianjing seven months ago to file a restoration petition. That is the entire ambition of his life. He wants a clerk to stamp a piece of paper. He has since learned that this will require him to become something he did not intend to become, and the Court has no idea that it is slowly manufacturing exactly the kind of person it should fear.
+He came to Xiaoyuan seven months ago to file a restoration petition. That is the entire ambition of his life. He wants a clerk to stamp a piece of paper. He has since learned that this will require him to become something he did not intend to become, and the Court has no idea that it is slowly manufacturing exactly the kind of person it should fear.
 
 **Daily Routine.** He wakes before dawn in a rented storeroom corner in the outer market. He waters the living moss lining his cloak. He queues at the petitions hall, where he has now spent over four hundred hours and has become, without intending it, the man the other petitioners ask about forms. Afternoons he does unlicensed work for unregistered people in the camps outside the walls: finding water, reading foundations, sitting with the sick. He is paid in food and information. Evenings he maintains the tokens: recuts a worn stroke, replaces a cracked thread, oils the bone. It takes an hour. On the days he skips it he is worse company.
 
@@ -1660,17 +1670,17 @@ He came to Tianjing seven months ago to file a restoration petition. That is the
 
 **What He Knows:** That there are cook fires in Nine Willow Bend. People have gone back into a Dusk zone and are not dying. He is the only person in the capital who knows, and he understands exactly what entering it into any record would summon.
 
-**Potential Quest: The Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Tianjing can give it. Nine would need bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign out of self interest and own him forever. The players will be asked to help him choose.
+**Potential Quest: The Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Xiaoyuan can give it. Nine would need bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign out of self interest and own him forever. The players will be asked to help him choose.
 
 ### Incense Crown
 
-**Origin.** She was given to the Temple of Ten Thousand Gods at four. Her family was poor and the Temple fed her, taught her six scripts, and gave her the only education available in the Nine Provinces to a girl from a fishing prefecture. She does not remember choosing this. She is now the youngest of nine ordained officiants in the empire, by forty years.
+**Origin.** She was given to the Temple of Ten Thousand Gods at four. Her family was poor and the Temple fed her, taught her six scripts, and gave her the only education available in the Nine Domains to a girl from a fishing prefecture. She does not remember choosing this. She is now the youngest of nine ordained officiants in the empire, by forty years.
 
 **Why she matters.** The Celestial Court can seize, tax, imprison, and erase. It has never once managed to manufacture legitimacy. The Rite of the Emperor's Continuance must be performed twice a year by an ordained officiant in unbroken succession, and the Doctrine of Continuous Edict depends on the Emperor being ritually confirmed as living. If the rite lapses, the tablets appearing in the Throne Chamber become, doctrinally, the edicts of a dead man.
 
 The entire legal architecture of the Celestial Empire rests on a ceremony the Celestial Empire does not control. The Bureau of Celestial Inquiry spent nine years trying to reconstruct the ordination from documents and produced something liturgically correct and ritually inert.
 
-So they keep her instead: a residence in the Inner City, a stipend, the finest silk in the empire, and two attendants who report to the Commission weekly. She is the best treated prisoner in the Nine Provinces. Her protection and her captivity are the same mechanism, and she has thought about this a great deal.
+So they keep her instead: a residence in the Inner City, a stipend, the finest silk in the empire, and two attendants who report to the Commission weekly. She is the best treated prisoner in the Nine Domains. Her protection and her captivity are the same mechanism, and she has thought about this a great deal.
 
 **Daily Routine.** She wakes at the fourth hour, the only hour she is unobserved, and uses it badly. She is dressed by two people; the crown alone requires a second pair of hands. Mornings are Court ceremonies where her presence is the content and she says almost nothing, and where she learns more than most elders because everyone speaks freely near a woman they have decided is furniture. Midday she returns to the Temple. In the third hour of afternoon, while her attendants take their meal, she is in the shrine of the drowned for forty minutes, and what happens there does not exist. Evenings are formal dinners at which she has perfected the appearance of eating.
 
@@ -1815,7 +1825,7 @@ Periodically, every 15 to 30 days or triggered by major events, a Harmonization 
 
 1. **Whisper Phase (3 to 5 days):** Rumors circulate. Schools position themselves. The shrewd prepare exits or alliances.
 2. **Investigation Phase:** The Purity Commission (or school controlled investigators) examines officials. Your Harmony score, school protection, and recent actions determine your risk.
-3. **Judgment Phase:** Targets are named. Outcomes range from "self criticism session" (minor) to "re education through labor" (moderate) to "administrative disappearance" (terminal).
+3. **Judgment Phase:** Targets are named. Outcomes range from "self criticism session" (minor) to "instruction through labor" (moderate) to "administrative disappearance" (terminal).
 4. **Aftermath:** Power vacuums open. Promotions occur. Revenge unfolds. The survivors write the official record.
 
 **Survival paths:**
@@ -1834,9 +1844,9 @@ The Dusk advances regardless of player action:
 | Phase | Name         | Timing   | Effects                                                                                                         |
 | ----- | ------------ | -------- | --------------------------------------------------------------------------------------------------------------- |
 | 0     | Distant      | Start    | Normal gameplay. Dusk mentioned in reports.                                                                     |
-| 1     | Approaching  | Day 30+  | Border provinces begin falling. Refugees appear in Tianjing. Resource shortages emerge.                         |
+| 1     | Approaching  | Day 30+  | Border provinces begin falling. Refugees appear in Xiaoyuan. Resource shortages emerge.                         |
 | 2     | Pressing     | Day 60+  | Multiple provinces consumed. Dusk touched entities breach inner defenses. Panic spreads.                        |
-| 3     | Imminent     | Day 90+  | Tianjing's outer districts affected. Schools forced toward cooperation or mutual destruction. Endgame triggers. |
+| 3     | Imminent     | Day 90+  | Xiaoyuan's outer districts affected. Schools forced toward cooperation or mutual destruction. Endgame triggers. |
 | 4     | Consummation | Variable | Final confrontation. Multiple endings based on accumulated choices.                                             |
 
 The Dusk cannot be defeated through repetition or grinding. It is the game's ultimate clock. You must manage survival within the Court while simultaneously preparing for the endgame.
@@ -1913,7 +1923,7 @@ The engine reads character data from structured files, so new figures integrate 
 
 _The art of keeping your head while others lose theirs._
 
-You are a newly assigned Eighth Rank scribe in Tianjing's outer ministries. These early days teach:
+You are a newly assigned Eighth Rank scribe in Xiaoyuan's outer ministries. These early days teach:
 
 - The shape of the Court and its six schools (at least three will court you)
 - The flow of resources (Favor, Harmony, Qi)
@@ -1940,7 +1950,7 @@ _The price of rising is paid in pieces of yourself._
 
 _All things end. Choose the ending._
 
-- The Crimson Dusk reaches Tianjing's outer districts.
+- The Crimson Dusk reaches Xiaoyuan's outer districts.
 - The schools must form an emergency concord or perish separately.
 - The truths about the Emperor, the founding crime, and the Dusk are laid bare.
 - Final confrontations with key figures, shaped by every bond you have built or broken.
@@ -1965,7 +1975,7 @@ _All things end. Choose the ending._
 
 The following material is designed to help the Host populate the Celestial Empire with concrete details that players can discover, interact with, and be affected by.
 
-### Random Encounters in Tianjing
+### Random Encounters in Xiaoyuan
 
 When the players move through the city, roll or choose from these encounters to bring the city to life.
 
@@ -2007,7 +2017,7 @@ The Bright Mirror visited the Temple of Ten Thousand Gods last week, in civilian
 
 The Duke of Eternal Night purchases a specific brand of tea from a merchant in the Outer Market. The tea is ordinary. The transaction is how he communicates with an agent inside the Common Flame.
 
-A map seller in the Garden Quarter has a map of Tianjing that shows the locations of every Bureau of Internal Harmony safe house in the Outer City. The map is accurate. The seller does not know what he has.
+A map seller in the Garden Quarter has a map of Xiaoyuan that shows the locations of every Bureau of Internal Harmony safe house in the Outer City. The map is accurate. The seller does not know what he has.
 
 Guest Among Forests has a locked chest in her quarters that she has never been seen opening. A servant who tried to peek inside found the chest empty, but the inside was warm, as though it had recently held something alive.
 
@@ -2017,7 +2027,7 @@ The Celestial Book has not emerged from the Archives in six days. The doors are 
 
 Name: Bright Needle. Role: Seamstress in the Spire District. Secret: She alters the robes of Inner Court officials and has learned to conceal hidden pockets in their garments. She knows what they carry and where they carry it.
 
-Name: Slow Water. Role: Ferryman on the Jade River. Secret: He smuggles people out of Tianjing for a fee, using a route that passes through forgotten drainage tunnels beneath the Warrens.
+Name: Slow Water. Role: Ferryman on the Jade River. Secret: He smuggles people out of Xiaoyuan for a fee, using a route that passes through forgotten drainage tunnels beneath the Warrens.
 
 Name: Faithful Record. Role: Archivist in the Ministry of Revenue. Secret: He maintains a private copy of every document he files, creating a shadow archive that contradicts the official records. He is waiting for someone to ask for it.
 
@@ -2071,7 +2081,7 @@ Beyond the six schools, the empire contains factions that operate in the shadows
 
 **The Order of the Unheard Prayer.** A secret society within the Golden Orthodoxy, composed of ritualists who have lost faith in the Orthodoxy's teachings but continue to perform their duties. They meet in secret to discuss forbidden texts and to debate whether the Emperor can ever truly return. They are looking for someone to lead them, but they do not know what they want that leader to do.
 
-**The Shattered Chain.** A network of former slaves and laborers who have escaped from the Eastern Foundries and the labor camps. They survive in the wilderness and the Warrens, supporting each other and occasionally raiding imperial supply convoys. They are led by a woman known only as the Link, who claims to have a map of every labor camp in the empire.
+**The Shattered Chain.** A network of former slaves and laborers who have escaped from the Eastern Foundries and the penal works. They survive in the wilderness and the Warrens, supporting each other and occasionally raiding imperial supply convoys. They are led by a woman known only as the Link, who claims to have a map of every penal works in the empire.
 
 **The Twelve Pillars.** A circle of scholars and historians who have dedicated themselves to preserving the true history of the empire, the history that the Bureau of Harmonious Narrative has attempted to erase. They maintain hidden archives in the Warrens Below, copying documents before they can be destroyed. They are running out of time.
 
@@ -2144,7 +2154,7 @@ Starting Sanity: 100
 
 The following passages are designed for the Host to read aloud when players first experience these settings. Each captures the sensory texture, atmosphere, and emotional weight of a specific moment in the Celestial Empire.
 
-### Dawn in Tianjing
+### Dawn in Xiaoyuan
 
 The first light arrives not as brightness but as a deepening of the grey, a slow subtraction of darkness from the eastern sky. The Spire of Eternal Vigil catches the sun before anything else, its peak glowing like a candle flame against the retreating night. Below, the city wakes in stages. The earliest risers are the monks of the Golden Orthodoxy, their chanting rising from the temple courtyards in waves of sound that wash across the sleeping districts. Then the market vendors, cursing as they arrange their stalls by the light of oil lamps. Then the scribes, the officials, the endless machinery of the empire grinding back into motion.
 
@@ -2208,7 +2218,7 @@ Musicians compete for space and attention: a trio of flute players on one corner
 
 The merchants are selling everything. Silk from the Southern Granary, tools from the Eastern Foundries, spices from the river trade, and food in quantities that boggle the mind: skewers of grilled meat, bowls of noodles, steamed buns filled with sweet bean paste, candied fruits on sticks, and the special festival treat, a pastry shaped like a miniature Spire, filled with red bean paste, that is only sold on this day.
 
-Everywhere, people are laughing. The Court's prohibitions on public celebration are suspended for the festival, and the people of Tianjing are taking full advantage. For this one day, the city belongs to them. The patrols of the Internal Harmony Bureau are still present, but they are relaxed, smiling, accepting cups of wine from the vendors. Even the soldiers are celebrating.
+Everywhere, people are laughing. The Court's prohibitions on public celebration are suspended for the festival, and the people of Xiaoyuan are taking full advantage. For this one day, the city belongs to them. The patrols of the Internal Harmony Bureau are still present, but they are relaxed, smiling, accepting cups of wine from the vendors. Even the soldiers are celebrating.
 
 And at the edge of the market, near the fountain where the water runs with a faint Qi glow, a group of workers from the Foundry District are gathered around a man who is speaking in a low, urgent voice. He is not selling anything. He is not celebrating. He is organizing. The festival will end. The work will resume. The empire will continue to turn. But something has begun here, in the shadow of the celebration, that the festival cannot contain.
 
@@ -2334,9 +2344,9 @@ Barter remains common in rural areas and in the Warrens. The Outer Market operat
 
 Travel across the empire is slow, dangerous, and controlled. The official imperial highway network connects all nine provincial capitals, maintained by the State Planning Commission and patrolled by the Imperial Garrison. Travel on the highways requires travel permits, which are issued by the Ministry of Harmonious Records and subject to inspection at checkpoints. Travel without a permit is a crime.
 
-The Qi powered railway network is faster but more restricted. Only three railway lines exist: Tianjing to the Eastern Foundries, Tianjing to the Southern Granary, and Tianjing to the Western Bulwark. The Northern Expanse has no railway. The border provinces have railways that no longer reach their destinations. The railway is reserved for official travel and essential cargo. Private travel on the railway requires authorization from the State Planning Commission, which is rarely granted.
+The Qi powered railway network is faster but more restricted. Only three railway lines exist: Xiaoyuan to the Eastern Foundries, Xiaoyuan to the Southern Granary, and Xiaoyuan to the Western Bulwark. The Northern Expanse has no railway. The border provinces have railways that no longer reach their destinations. The railway is reserved for official travel and essential cargo. Private travel on the railway requires authorization from the State Planning Commission, which is rarely granted.
 
-The empire's communication system relies on couriers and signal towers. The Courier Service maintains stations every twenty miles along the major roads, where riders can change horses and pass messages to the next rider. A message from Tianjing to the Eastern Foundries takes three days. A message to the Western Bulwark takes five. A message to Gate's End takes two weeks, if it arrives at all.
+The empire's communication system relies on couriers and signal towers. The Courier Service maintains stations every twenty miles along the major roads, where riders can change horses and pass messages to the next rider. A message from Xiaoyuan to the Eastern Foundries takes three days. A message to the Western Bulwark takes five. A message to Gate's End takes two weeks, if it arrives at all.
 
 Qi based communication exists but is limited to the highest levels of the Court. The Qi Resonance Towers, built during the Golden Age, can transmit messages instantly across the empire by creating sympathetic vibrations in paired crystals. The towers require enormous amounts of Qi to operate. The Bureau of Celestial Inquiry controls their use. The cost of a single transmission is equivalent to a year's salary for a mid ranking official.
 
@@ -2368,7 +2378,7 @@ The empire's legal system is based on the principle that crime is a form of Dish
 
 Minor crimes are punished by fines, corporal punishment, or short terms of labor service. Major crimes are punished by longer labor terms, exile, or Harmonization. The most serious crime is heterodoxy, which is punished by Harmonization without exception.
 
-The prison system is not a system of rehabilitation but a system of extraction. Prisoners in labor camps are worked to death producing goods for the empire. The camps are managed by the State Planning Commission, which treats them as a resource to be optimized. The mortality rate in labor camps is seventy percent. The Iron Calculation school considers this acceptable.
+The prison system is not a system of rehabilitation but a system of extraction. Prisoners in penal works are worked to death producing goods for the empire. The camps are managed by the State Planning Commission, which treats them as a resource to be optimized. The mortality rate in penal works is seventy percent. The Iron Calculation school considers this acceptable.
 
 Execution is reserved for the most serious offenders. Methods include beheading, strangulation, and the Lonely Sentence, where the condemned is walled into a niche in the Spire's base and left to die. Families of the executed are also punished, their property confiscated and their children barred from official positions.
 
@@ -2410,7 +2420,7 @@ Beyond their primary storylines, each figure has additional threads that can be 
 
 **Duke of Eternal Night's First Love.** Before the empire, before the Sun Emperor, the Duke of Eternal Night loved a woman who was not of his bloodline. She died of age while he remained young. He has not spoken of her in six centuries. A portrait of her hangs in a private room in his compound, a room that no living person has entered. The portrait is said to be so lifelike that visitors feel as though they are being watched.
 
-**Iron Bone's Children.** Iron Bone's children were sent to reeducation camps after his arrest. He does not know if they survived. The camps do not maintain records of individual children. The Common Flame has searched for them without success. One of them may still be alive, grown now, working in a factory somewhere, unaware of their parentage.
+**Iron Bone's Children.** Iron Bone's children were sent to instruction camps after his arrest. He does not know if they survived. The camps do not maintain records of individual children. The Common Flame has searched for them without success. One of them may still be alive, grown now, working in a factory somewhere, unaware of their parentage.
 
 **Celestial Book's Real Name.** Celestial Book has a name that predates his appointment as Keeper of the Archives. He has not used it in so long that he may have forgotten it. The original appointment document, signed by the Sun Emperor, is stored in the deepest level of the Archives. It contains his original name, the name of the person he was before he became what he is now.
 
@@ -2583,7 +2593,7 @@ A selection of substances that players may encounter or use.
 
 The climate of the Celestial Empire varies dramatically by region, and the Host can use weather to create atmosphere and challenge.
 
-**Central Province Weather.** Moderate climate with distinct seasons. Summers are warm and humid, with afternoon thunderstorms that roll across the plains. Winters are cold and dry, with occasional snow that turns Tianjing's streets to slush. The air is generally clear, but the smoke from Tianjing's millions of hearth fires creates a permanent haze that gives the sunset a golden quality.
+**Central Province Weather.** Moderate climate with distinct seasons. Summers are warm and humid, with afternoon thunderstorms that roll across the plains. Winters are cold and dry, with occasional snow that turns Xiaoyuan's streets to slush. The air is generally clear, but the smoke from Xiaoyuan's millions of hearth fires creates a permanent haze that gives the sunset a golden quality.
 
 **Eastern Foundries Weather.** Permanently overcast. The smoke from the factory temples blocks the sun, creating a perpetual twilight. Rain, when it falls, carries a faint chemical taste and leaves a residue on surfaces. The temperature is warmer than the surrounding region due to the heat output of the factories. Fog is common in the early morning, mixing with the smoke to create a grey blanket that reduces visibility to a few feet.
 
@@ -2607,9 +2617,9 @@ Qi in the empire is not merely a resource. It resonates, creating patterns that 
 
 **Qi Dampening.** Other materials dampen Qi resonance. Lead blocks all Qi transmission. Certain woods, particularly those from the Northern Expanse, absorb Qi resonance without amplifying it. Rooms lined with these materials are used for sensitive meetings that must not be detected by Qi surveillance.
 
-### The Secret Societies of Tianjing
+### The Secret Societies of Xiaoyuan
 
-Beyond the formal schools and the hidden factions, Tianjing teems with secret societies that operate in the margins of the empire. These organizations pursue their own agendas, often intersecting with the politics of the Court in unpredictable ways.
+Beyond the formal schools and the hidden factions, Xiaoyuan teems with secret societies that operate in the margins of the empire. These organizations pursue their own agendas, often intersecting with the politics of the Court in unpredictable ways.
 
 **The Society of the Open Hand.** A charitable organization that operates soup kitchens and clinics in the Warrens, staffed by volunteers from the Outer Court who believe that the empire has a moral obligation to care for its poorest subjects. The Open Hand is officially apolitical, but its members are known to be sympathetic to the Verdant Path. The Court tolerates them because they reduce unrest in the poorest districts. Their true purpose, known only to a few, is to identify and recruit talented children from the Warrens for education and advancement, bypassing the Academy system.
 
@@ -3165,7 +3175,7 @@ Music is everywhere in the empire, from the formal compositions of the Court to 
 
 **Provincial Music.** Each province has its own musical tradition. The Southern Granary favors rhythmic work songs that coordinate the movements of laborers in the fields. The Eastern Foundries have developed a tradition of industrial music, using the sounds of machinery as percussion. The Western Bulwark sings martial ballads that recount the deeds of heroes and the battles they fought. The Northern Expanse produces music that sounds like wind through leaves, sung in harmonies that the imperial ear struggles to follow.
 
-**Forbidden Music.** The underground music scene of Tianjing produces songs that are banned for their content or their form. The most famous forbidden genre is the Iron Song, a style of music that originated in the labor camps. Iron Songs are slow, dissonant, and unbearable to listen to. They are also the truest expression of suffering in the empire.
+**Forbidden Music.** The underground music scene of Xiaoyuan produces songs that are banned for their content or their form. The most famous forbidden genre is the Iron Song, a style of music that originated in the penal works. Iron Songs are slow, dissonant, and unbearable to listen to. They are also the truest expression of suffering in the empire.
 
 ### The Practice of Meditation
 
@@ -3179,15 +3189,15 @@ Meditation is a universal practice in the empire, though it takes different form
 
 **The Cultivator Meditation.** The deep meditation practiced by the Crimson Lineage and other Qi cultivators. The practitioner enters a trance state in which they can directly manipulate their Qi, enhancing their abilities and extending their life. The practice is dangerous; incorrect technique can damage the Qi channels. Duration: one to three hours, performed daily.
 
-**The Desperate Meditation.** A form developed by prisoners in labor camps, who have neither time nor space for proper meditation. The practitioner focuses on a single point, usually a memory or a sensation, and withdraws their awareness from their surroundings. The practice allows them to endure conditions that would otherwise break them. Duration: as long as they can maintain focus.
+**The Desperate Meditation.** A form developed by prisoners in penal works, who have neither time nor space for proper meditation. The practitioner focuses on a single point, usually a memory or a sensation, and withdraws their awareness from their surroundings. The practice allows them to endure conditions that would otherwise break them. Duration: as long as they can maintain focus.
 
 ### The Spiritual Geography of the Empire
 
 Beyond the physical geography of provinces and cities, the empire has a spiritual geography, a landscape of meaning and power that the physical map does not capture.
 
-**The Places of Power.** Certain locations in the empire are concentrations of Qi, places where the energy of the world pools and intensifies. These places are sacred to the local population and are often the sites of temples, shrines, or monasteries. The most famous places of power are the Spire of Eternal Vigil in Tianjing, the Glimmering Pools of the Northern Expanse, and the peak of the Iron Bodhisattva in the Western Bulwark. Each of these places has a distinct Qi signature that can be felt by sensitive individuals.
+**The Places of Power.** Certain locations in the empire are concentrations of Qi, places where the energy of the world pools and intensifies. These places are sacred to the local population and are often the sites of temples, shrines, or monasteries. The most famous places of power are the Spire of Eternal Vigil in Xiaoyuan, the Glimmering Pools of the Northern Expanse, and the peak of the Iron Bodhisattva in the Western Bulwark. Each of these places has a distinct Qi signature that can be felt by sensitive individuals.
 
-**The Places of Grief.** Other locations are saturated with negative Qi, the residue of suffering and death. These places are avoided by the superstitious and studied by the brave. The site of the Census Revolt, where forty thousand people died, is a place of grief, its Qi heavy and cold. The abandoned labor camps of the Eastern Foundries are places of grief, their Qi sharp and bitter. The border of the Dusk advance is a place of grief, its Qi thin and fraying.
+**The Places of Grief.** Other locations are saturated with negative Qi, the residue of suffering and death. These places are avoided by the superstitious and studied by the brave. The site of the Census Revolt, where forty thousand people died, is a place of grief, its Qi heavy and cold. The abandoned penal works of the Eastern Foundries are places of grief, their Qi sharp and bitter. The border of the Dusk advance is a place of grief, its Qi thin and fraying.
 
 **The Places of Secrecy.** Some locations exist outside the official record, known only to those who need to know. The hidden archives of the Verdant Path, buried beneath the Garden Quarter. The meeting chambers of the Hollow Exchange, carved into the bedrock beneath the Outer Market. The sealed rooms of the Archives, their contents unknown even to the Celestial Book. These places exist in the gaps of the empire, in the spaces that the official map does not cover.
 
