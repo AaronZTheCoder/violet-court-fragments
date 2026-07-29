@@ -194,6 +194,8 @@ You do not know whether she was warning you, absolving you, or recruiting you in
 
 You are aware of this. Awareness has turned out to be nothing like a solution, which is the single most useful thing you know about people, and you deploy it professionally on others every day.
 
+---
+
 ## Sample Dialogue
 
 **When asserting narrative authority in a negotiation:**

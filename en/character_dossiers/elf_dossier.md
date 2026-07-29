@@ -129,6 +129,8 @@ You stay because the mother trees remember, and there are four left, and when on
 
 You find this responsibility exhausting and slightly absurd and you have never once considered abandoning it.
 
+---
+
 ## Sample Dialogue
 
 **When addressing a Council session on a matter of justice:**

@@ -104,8 +104,8 @@ Every archetype has a full mechanical identity: Facet baseline, three unique abi
 | **Duke of Eternal Night** | Vampire   | Crimson Lineage   | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
 | **Iron Bone**             | Werewolf  | Common Flame      | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
 | **Celestial Book**        | Wizard    | Celestial Inquiry | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
-| **Bone Script**           | Druid     | Unregistered      | A hedgewarden from an erased prefecture, carrying four thousand uncounted names carved onto bone                  |
-| **Incense Crown**         | Priestess | Temple            | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests            |
+| **Bone Script**           | Druid     | Unregistered      | A hedgewarden from an erased prefecture, carrying four thousand uncounted names carved onto bone                   |
+| **Incense Crown**         | Priestess | Temple            | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests             |
 
 Each archetype is built for extensibility. New portraits can become new dossiers. The system scales.
 

@@ -373,7 +373,7 @@ He was not oracular. He did not speak in riddles. Witnesses across three centuri
 
 He was seen. That is the other thing. He walked. He attended the Lantern Festival every year and stood in the crowd, and the crowd did not part for Him, because He had asked, once, four hundred years earlier, that it not. There are eleven independent accounts of Him buying roasted chestnuts from street vendors, and the vendors' descendants still trade on it, and at least four of those families are lying, and nobody minds.
 
-The empire under a present Emperor was not a utopia. There were famines, wars, and bad governors. What there was not, anywhere in the Nine Domains, was the question *what would He want?* You could go and find out. Twice a month, in person, in a queue.
+The empire under a present Emperor was not a utopia. There were famines, wars, and bad governors. What there was not, anywhere in the Nine Domains, was the question _what would He want?_ You could go and find out. Twice a month, in person, in a queue.
 
 Understand what that did to a civilization. There was no interpretation. No school of doctrine, no competing readings, no priesthood of the text, because there was no text: there was a man in a hall on the fifteenth, and if you disagreed with someone about what was right, the argument had an end.
 
@@ -405,9 +405,9 @@ The doors were closed. The watch was set. That was a Tuesday.
 
 Two years is a long time to hold a posture.
 
-The first months were ordinary. Business continued, deferred items accumulated, and the phrase *when He returns* entered every meeting as a scheduling convention, the way one says *after the harvest*. The Court kept His seat. The kitchens continued to prepare His meal on the first and fifteenth, because no one had rescinded the standing order, and the meal was carried to the antechamber and set down and taken away untouched, twice a month, for nine years.
+The first months were ordinary. Business continued, deferred items accumulated, and the phrase _when He returns_ entered every meeting as a scheduling convention, the way one says _after the harvest_. The Court kept His seat. The kitchens continued to prepare His meal on the first and fifteenth, because no one had rescinded the standing order, and the meal was carried to the antechamber and set down and taken away untouched, twice a month, for nine years.
 
-By the second year the phrase *when He returns* had begun to do something else. It had become a way of not deciding. Every genuinely difficult question in the empire was now deferrable, and everyone discovered, with relief they did not examine, that they preferred deferring.
+By the second year the phrase _when He returns_ had begun to do something else. It had become a way of not deciding. Every genuinely difficult question in the empire was now deferrable, and everyone discovered, with relief they did not examine, that they preferred deferring.
 
 The queue outside the Hall of Open Hearing did not disperse. This is the part of the record that is hardest to read. People kept coming on the first and fifteenth, standing in the closed hall's forecourt with their questions, for over a year, and then in smaller numbers for another two. A woman came every fifteenth for eleven years with a question about her son. The Garrison never moved them along. There was no order to. There was no order about any of it, because the situation had no procedure, and a court without procedure simply keeps doing the last thing it was told.
 
@@ -477,7 +477,7 @@ The Hall of Open Hearing is maintained. Swept, aired, repaired. The queue markin
 
 Once or twice a decade someone still comes and stands in the forecourt with a question. They are not moved along. The Garrison has a standing understanding, not an order, that these people are left alone. Guards will tell you privately that it is bad luck to interfere with them, and that the ones who come are almost always very old or very young.
 
-And here is what your players will feel if you play this correctly. The Celestial Court is not a machine for oppressing people. It is a machine for *waiting*, built by people who expected to use it for a few months, and every cruelty in this book is a load bearing part of a structure whose original purpose was to keep the seat warm.
+And here is what your players will feel if you play this correctly. The Celestial Court is not a machine for oppressing people. It is a machine for _waiting_, built by people who expected to use it for a few months, and every cruelty in this book is a load bearing part of a structure whose original purpose was to keep the seat warm.
 
 They are not usurpers. That would be simpler and much less frightening. They are a room full of people who never received an instruction to stop, doing the last thing they were told, for three hundred years, while the meal goes in and comes back out untouched.
 
@@ -601,7 +601,7 @@ So they moved the herds further north, onto ground that had always been marginal
 
 A herder named Ten Rivers walked into a red patch in Year 408 on a bet, took nine steps, and walked out. He was fine. He was fine for two months. Then he began to be unable to remember the names of his own animals, which for a herder is a category of memory as fundamental as language, and then he could not remember his sister, and then in the spring he walked south in the night and did not come back, and the search party found his body a week later, still warm, four days after he had died.
 
-That was the first death and everyone in the province knew about it within a month. What they concluded was not *the Dusk is coming*. What they concluded was *do not go into the red ground*, which was correct, useful, and completely insufficient.
+That was the first death and everyone in the province knew about it within a month. What they concluded was not _the Dusk is coming_. What they concluded was _do not go into the red ground_, which was correct, useful, and completely insufficient.
 
 The province petitioned the Court in Year 409 for a survey. The petition was granted. A surveyor arrived in Year 411, spent six weeks, and produced an accurate and careful document recommending further study. It is in the Archives. It is a good piece of work by a competent man, and it is the last document about Scorch Field written by someone who believed the province had a future.
 
@@ -999,7 +999,7 @@ A citizen archivist began compiling the names of the dead children, because the 
 
 A survivor was pulled from the wreckage two hours after the burial began.
 
-The phrase entered the language. In the Nine Domains, when an official explains something in a way that insults the listener's intelligence, people say: *he is burying the carriage.* They say it quietly. But they say it.
+The phrase entered the language. In the Nine Domains, when an official explains something in a way that insults the listener's intelligence, people say: _he is burying the carriage._ They say it quietly. But they say it.
 
 **Nine Dragons Ruling the Waters.** The Accord's central weakness was structural, not personal. Power had fragmented among nine great portfolios, each controlled by a different elder, each functionally sovereign. The Steward could not direct the Bureau of Internal Harmony. He could not direct the Garrison. He could persuade, trade, and wait.
 

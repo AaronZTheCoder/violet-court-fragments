@@ -139,6 +139,8 @@ Your knees hurt in cold weather. Your night vision has measurably declined; you 
 
 You have not told anyone that you have begun, in a way you would not yet call a plan, to notice which of your habits would be difficult for a competent person to trace.
 
+---
+
 ## Sample Dialogue
 
 **When asked about their past:**

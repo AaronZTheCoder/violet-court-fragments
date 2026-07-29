@@ -24,29 +24,61 @@ This makes you untouchable. It also makes you a hostage. You have never been ent
 
 ## Expanded Backstory
 
-You were given to the Temple at four. This was not cruelty. Your family was poor and the Temple fed you, taught you six scripts, and gave you the only education available in the Nine Domains to a girl born in a fishing prefecture. Your mother wept for a week. Your mother also lived because of what the Temple sent back. Both are true and you have stopped trying to weigh them against each other.
+**Four years old.** You were given to the Temple at four. Your family was poor, the Temple fed you and taught you six scripts, and your mother wept for a week and also lived because of what the Temple sent back.
 
-You do not remember choosing this. That is the first thing to understand about you. Every other archetype at this table made a decision that led them here. You were placed. Your earliest memory is the smell of sandalwood and the sound of an old woman counting in a language that has been dead for six hundred years, and by the time you were old enough to consider whether you believed any of it, you had already been performing it for a decade.
+You do not remember choosing this. Every other archetype at this table made a decision. You were placed.
 
-Whether you believe is a question you have set down. Not answered. Set down, deliberately, the way you would set down a heavy thing you intend to pick up later, and you have been intending to pick it up later for twenty years.
+**The years you were unbearable.** Between about nineteen and twenty five you were, by the account of everyone who survived it, insufferable.
 
-The Temple of Ten Thousand Gods is the oldest institution in the empire and the only one the Sun Emperor did not create. When He came down from the sky or out of the mountain or through the door that had never existed, the Temple was already there, and He did not abolish it, and no one has ever satisfactorily explained why. The Golden Orthodoxy teaches that He recognized its harmlessness. The Temple teaches something else, quietly, to initiates, in the ninth year.
+You had just received the ninth year teaching. You had worked out the arithmetic of the Temple's position. And you concluded, with the total confidence of a clever young person who has understood something real, that the entire institution was a fraud sustained by the Court's need for it, that Mother Nine Bells knew, and that the honest course was to say so.
 
-Here is your position, stated plainly, because you state things plainly when you are not performing.
+You said so. Repeatedly. To her, at length, with citations.
 
-The Court has raided the Temple seventeen times. The Commission for Celestial Purity has standing orders to close it permanently. Those orders have not been executed, and the reason is arithmetic: the Rite of the Turning Year and the Rite of the Emperor's Continuance must be performed by an ordained officiant in unbroken succession, and the succession runs through the Temple, and the Court's own Doctrine of Continuous Edict depends on the Emperor being ritually confirmed as living. If the rite lapses, the tablets that appear in the Throne Chamber become, doctrinally, the edicts of a dead man.
+She let you. For six years she let you argue, and she answered when the argument was good and did not when it was not, and she never once used her authority to stop you, and you did not recognize that as an extraordinary act of patience until you were about thirty five.
 
-The entire legal architecture of the Celestial Empire rests on a ceremony that the Celestial Empire does not control.
+You would like it recorded somewhere that you were not always this composed. There was a version of you that shouted.
 
-You have known this since you were nineteen. You performed the Continuance for the first time at twenty three. You have performed it eleven times. You walk into the Spire's antechamber twice a year and you say words in a dead language to a sealed door, and the Grand Council stands behind you with their heads bowed, and every one of them knows that for the eleven minutes of the rite they are subordinate to a woman from a fishing village who they cannot replace.
+**Mother Nine Bells, and the last hour.** She was not warm. She taught you the forty one phrases by making you repeat them until you wept and then continuing.
 
-They have tried to replace you. Twice. The Bureau of Celestial Inquiry spent nine years attempting to reconstruct the ordination from documents. What they produced was liturgically correct and ritually inert, and the difference between those two things cannot be written down, which is precisely why the Temple has survived eight hundred years of people trying to write it down.
+She died at ninety one, four years ago. In the last hour she told you she had never believed a word of it and had never once performed it carelessly, and that these two facts were the whole of her teaching. Then she asked for water and died.
 
-So they keep you instead. They give you a residence in the Inner City, a stipend, two attendants who report to the Commission weekly, and the finest silk in the empire. You are the best treated prisoner in the Nine Domains.
+What is not in your usual account of this: you were angry. Not moved. Angry, for months, because she had held that back for thirty years and delivered it as a parting gift when there was no time to ask her a single follow up question, and you have come to understand that this was deliberate, and you are still not sure it was kind.
 
-And every month, in a room behind the shrine of the drowned, you meet people the Court is looking for, and you hide some of them, and you have never once been searched, because the Commission cannot search you without acknowledging that the woman who confirms the Emperor's life might be disloyal, and that acknowledgment is more dangerous to them than anything you could possibly be doing.
+**What the crown is like from inside.** You are the instrument and you know precisely how the instrument is built.
 
-You have thought a great deal about the fact that your protection and your captivity are the same mechanism.
+You also enjoy it. That is the part omitted from every account of you, including your own.
+
+You are beautiful and you know the effect and you deploy it, and the deployment is a skill you have refined for twenty years, and there is a real pleasure in walking into a room of powerful men and watching the temperature change before you have said anything. You would not describe this as vanity because you have constructed a professional frame around it. It is vanity.
+
+The first time you used a procedural question to destroy a case, you felt a satisfaction so sharp it alarmed you. It has not stopped feeling good. You are careful about that and you are not sure careful is enough.
+
+**The body nobody writes about.** You have not been touched with intention since you were a child.
+
+You are dressed by two people every morning. You are attended, arranged, and observed continuously. The last time another person made physical contact with you for a reason that was not liturgical or logistical was approximately nineteen years ago and you remember the date.
+
+You are thirty four. You want things you have no framework for wanting. There is a physician who attends the Inner City residences, a woman of about your age with cold hands and a dry sense of humor, and you have found reasons to require four consultations this year, and you know exactly what you are doing and have not stopped.
+
+You eat almost nothing at formal dinners and have perfected the appearance of eating. Alone, at night, you eat enormously and badly: salt fish, cold rice, the cheap sour pickle from the market stalls that your attendants would find horrifying. It is the food of a fishing prefecture. You have never once ordered it in daylight.
+
+**The sanctuary, and the rule you made.** The undercroft holds six. It has held nineteen.
+
+You have a rule: nobody whose pursuers are Commission rather than a school. You made this rule in your fourth year of sheltering people and you have told yourself it is because Commission pursuit means a search, and a search means everyone in the undercroft is lost, so the rule saves more people than it costs.
+
+That is true. It is also the exact rule that keeps you personally safe, and you constructed it yourself, and you have never asked another person to review the reasoning.
+
+Two winters ago you turned away a scholar with the Commission four hours behind him. You sent him to a safe house you knew had been compromised the previous week. You have his name. It is not in any of your registers because you keep no registers.
+
+**The eighth phrase, which is not a small matter.** Nine Bells put a rising tone on the eighth phrase. Her teacher did not. The Duke of Eternal Night witnessed both and will not say which was correct, and you have concluded he does not know either.
+
+This sounds like scholarship. It is not.
+
+If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error for a hundred and forty years.
+
+You do not know which possibility frightens you more, and you think about it during the rite, and during dinners, and at the fourth hour when nobody is watching.
+
+**What you are bad at.** You cannot tolerate being contradicted by someone you respect.
+
+You are famously gracious under insult; a hostile censor can say anything and you will thank him. But when the Bright Mirror disagrees with you on something small, precisely and correctly, you feel it in your chest for two days. You have never let it show. You are aware that a woman whose entire authority rests on being the calm center of a room has organized her life around never being in a room with someone who might be right.
 
 ---
 

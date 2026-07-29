@@ -22,31 +22,63 @@ You have no rank. You have no seal. You have no file. Every other person at this
 
 ## Expanded Backstory
 
-Your prefecture was called Nine Willow Bend. You will not find it in the gazetteer. You will find, in the Bureau of Harmonious Records, a note explaining that the administrative district formerly designated by that name was reorganized into neighboring prefectures in the Year 431 for reasons of efficiency, and that no population transfer was required because the population had already relocated voluntarily.
+**Nine Willow Bend.** The gazetteer does not have it. The Bureau of Harmonious Records has a note saying the district formerly designated by that name was reorganized into neighboring prefectures in Year 431 for reasons of efficiency, and that no population transfer was required because the population had already relocated voluntarily.
 
-Every clause of that note is true. This is the thing you have never been able to explain to anyone from the capital. Nothing in the official record is a lie. The record simply does not contain what happened.
+Every clause is true. Nothing in the official record is a lie. The record simply does not contain what happened.
 
-What happened was that the Dusk came up the valley in the spring, and the Bureau of Border Harmony sent an assessment team, and the assessment team filed a finding of localized disharmony not warranting evacuation support, and the Court accepted the finding, and the valley had two more years. In those two years four thousand people walked out carrying what they could, and were resettled in camps, and were issued residence tokens marked with a prefecture code that no longer corresponded to anywhere, which meant that they could not register for grain, could not enroll children in academies, could not marry on the record, could not be buried under their own names.
+**Your mother, who was not gentle.** She kept the birth ledger, the marriage ledger, and the death ledger for a valley of four thousand people, in a script used there for eight hundred years and nowhere else.
 
-Your mother was a village recorder. Not a Court official, nothing so grand: the woman who kept the birth ledger, the marriage ledger, the death ledger for a valley of four thousand people, in a script that had been used in that valley for eight hundred years and nowhere else.
+She was a difficult woman. Exacting, sarcastic, and openly disappointed in you for years at a stretch. She taught you the script by making you copy the birth ledger as punishment, and you were punished often, and that is the only reason you can still write it. She once did not speak to you for eleven days over a mistake in a tax column.
 
-When the resettlement office confiscated the ledgers as unauthorized documentation, she had already spent three months copying the names onto bone.
+You loved her the way you love weather. She did not consider what she was doing to be resistance. She considered it to be her job, and she would have found the word resistance embarrassing.
 
-She died in the second camp. She was fifty three. She is not in any registry of the dead, because she was not in any registry of the living, and you have her name on a token at your left hip, third from the buckle, and you touch it more than you know.
+When the resettlement office confiscated the ledgers, she had already been copying names onto bone for three months. She died in the second camp at fifty three. Third token from the buckle, left hip.
 
-You were nineteen. You took the bones and you walked.
+**The gaps, which are yours.** Here is the thing you have told no one, including the mountain, including Clerk Yuan.
 
-You went to the mountains because the mountains have no census. You found others there: hedge practitioners, unlicensed herbalists, a woman who could speak to water, the remnants of the Verdant Path's suppressed wing who had gone up into the high forests three generations ago and simply never come down. They taught you what the Court calls heterodox Qi manipulation, which is to say they taught you the way everyone practiced before the Bureau of Celestial Inquiry issued licenses.
+She did not finish.
 
-Orthodox Qi is refined. It runs through conduits, is measured in standard units, and requires a registered focus. What you do is older and cruder and does not appear on any instrument the Commission carries. You reach into a thing and ask it what it remembers. Stone remembers pressure. Water remembers where it has been. Wood remembers every year it grew and every year it did not.
+She had about three thousand four hundred names when she died. You have four thousand and one. The difference is you.
 
-And bone, if you carve a name into it and carry it against your skin for six years, remembers the person.
+You spent your first two years in the mountains reconstructing the rest from memory: your own, and the memories of eleven other survivors you tracked down and questioned. Most of it is solid. Some of it is not. There are perhaps two hundred entries where you had a family name and an approximate age and a village, and you made a decision, and carved something.
 
-You came down to Xiaoyuan because a name on your belt is not enough. Your mother did not copy four thousand names so that they could be carried around a mountain by one man until he died. She copied them so they would be entered. Somewhere in the Imperial Archives there is a master registry, and a prefecture that has been struck can, by procedure that has been used exactly twice in three hundred years, be restored.
+There is a token on your belt for a woman you are fairly confident was called Ash Willow, who may have been called Ash Willow, whose name may have been something else entirely with a similar tone.
 
-You are here to file a document. That is the entire ambition of your life. You want a clerk to stamp a piece of paper.
+You are trying to force a state to enter a registry as truth, and you know that a fraction of it is your own best guess, and you have decided that a name reconstructed with care is closer to the truth than an absence. That is a real argument. You believe it. You also know exactly what the Commission would do with it, and you know what it would do to the whole petition, and you have never written it down anywhere.
 
-You have been in the capital for seven months. You have learned that this will require you to become something you did not intend to become.
+**The one you sold.** In your second winter in the mountains you were starving.
+
+A man came up from the foothills buying curiosities for a collector in the capital: old scripts, dead languages, oddments. He offered you money for a carved bone. You told him it was a name. He said that was what made it interesting.
+
+You sold him one. You chose one you did not know: a man from the upper village whose face you could not recall. You ate for two months on it.
+
+You have spent six years trying to find out who bought it. You have a description of the collector and nothing else. You will not say aloud that you sold a person, though that is precisely what you did, and it is the reason you were able to say to that official in the corridor, with total conviction, that trading one name for help means you have just started a market. You know what the market looks like. You opened it.
+
+**Things about you that have nothing to do with any of this.** You are twenty five and people forget that.
+
+You are an excellent fisherman. Genuinely excellent, in the specific way of someone taught by another child who was better at it, and if you are near water and unobserved for an hour you will catch something, and it is the only activity that makes you look your age.
+
+You sing. Badly, and only when alone, and only the two singer form, taking the upper line and leaving the held note absent, which is the sound of a person singing a duet by themselves and which you would rather die than be caught doing.
+
+You are vain about the script. You have caught yourself enjoying being the last one. There is a small, ugly satisfaction in being the only person in a room who can read something, and you have felt it more than once, and you know what it means that a man whose entire purpose is spreading this script enjoys being its sole possessor.
+
+You want things. You would like to be admired. You would like, quite badly, for someone to touch you on purpose, and you have been in the capital seven months and have not managed one conversation that went anywhere, partly because you are strange and partly because you keep the bones on at all times and there is no way to explain them early.
+
+**Clerk Sixth Rank Yuan.** Seven months at a window, finding the correct form, asking nothing.
+
+He is not a saint. He is a tired man of fifty three with a bad hip who is slow, who has twice made errors that cost you weeks, and who once snapped at you in the eighth month in a way that was completely unjustified and that you have not mentioned since.
+
+You have begun to think of his safety as your responsibility, which is absurd, since he has a pension and a household and you have four copper and no legal existence.
+
+**Grandmother Stone Voice.** Your teacher, past ninety, still in the high forest. Impatient, physically rough with students, and in possession of opinions about the Verdant Path's seated wing that would take an hour to deliver.
+
+She told you the Court's error is not cruelty but abstraction, and that every atrocity in the empire was committed by someone working from a summary. She also told you not to go down, that you would not come back, and that you were going anyway because you were young and wanted an audience.
+
+You were furious. She was not entirely wrong.
+
+**The thing you are becoming.** You came to file a document. Seven months has taught you that no correctly formatted petition moves this, that the obstacle is structural, and that structures move only for leverage.
+
+You have begun, without deciding to, to notice things. Which clerk is in debt. Which supervisor visits which house. You have not used any of it. You have started keeping it in your head in an organized way, which is what your mother did with a ledger, and you have noticed the resemblance and it frightens you.
 
 ---
 
@@ -279,14 +311,14 @@ Spend 4 Qi and one minute in contact with soil, root, or living wood. The Host t
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                                                          |
-| ---------------- | -------- | ------------------------------------------------------------------------------ |
-| Golden Orthodoxy | -15      | You are unlicensed practice walking around in daylight.                        |
-| Verdant Path     | +5       | Their suppressed wing taught you. Their seated wing finds you embarrassing.    |
-| Iron Calculation | 0        | You are not in their models. They have no opinion. This is nearly restful.     |
-| Crimson Lineage  | -5       | You have no blood worth recording, which to them is the same as having none.   |
-| Common Flame     | +20      | You are what they claim to be fighting for, and you did not ask them to.       |
-| Bright Mirror    | -10      | Unregistered. Unlicensed. Unfileable. You are a category error with a heartbeat.|
+| School           | Standing | Notes                                                                            |
+| ---------------- | -------- | -------------------------------------------------------------------------------- |
+| Golden Orthodoxy | -15      | You are unlicensed practice walking around in daylight.                          |
+| Verdant Path     | +5       | Their suppressed wing taught you. Their seated wing finds you embarrassing.      |
+| Iron Calculation | 0        | You are not in their models. They have no opinion. This is nearly restful.       |
+| Crimson Lineage  | -5       | You have no blood worth recording, which to them is the same as having none.     |
+| Common Flame     | +20      | You are what they claim to be fighting for, and you did not ask them to.         |
+| Bright Mirror    | -10      | Unregistered. Unlicensed. Unfileable. You are a category error with a heartbeat. |
 
 ---
 

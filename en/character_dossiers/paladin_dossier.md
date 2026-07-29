@@ -38,7 +38,7 @@ At twenty three you pulled his case file, because you had by then earned the acc
 
 He was not a martyr. He was a talented investigator on a retainer who got into a business dispute and lost.
 
-You have never told your mother that you know. You have wondered whether she has always known, and whether *that* is what the letters are.
+You have never told your mother that you know. You have wondered whether she has always known, and whether _that_ is what the letters are.
 
 **The years you were the best investigator in the empire.** From twenty four to thirty nine you did the work, and you were extraordinary at it, and you were happy.
 
@@ -58,7 +58,7 @@ Every element of the case was true. He was stealing. He had stolen for nine year
 
 He was also the only official in three prefectures who knew how the levee system actually worked, because he had spent twenty years learning it, and the theft was funding a network of unofficial repairs to sections the Court's budget had never covered, because the budget was set in the capital by men who had never seen the river.
 
-You knew this by the sixth week. It is in your own notes. You wrote, in your own hand: *the diverted sums appear to be substantially reinvested in unlisted maintenance.* And then you completed the case, because the theft was real, because the law does not contain an exception for a man who steals well, and because you had already told the Commission you had him.
+You knew this by the sixth week. It is in your own notes. You wrote, in your own hand: _the diverted sums appear to be substantially reinvested in unlisted maintenance._ And then you completed the case, because the theft was real, because the law does not contain an exception for a man who steals well, and because you had already told the Commission you had him.
 
 He was Harmonized. His replacement was honest and knew nothing. The levee failed in the fourth year at a section that was not on any official map and that Cao had been repairing quietly since before you were posted.
 
@@ -87,6 +87,8 @@ Every legal justification exists. The Temple is unregistered, shelters fugitives
 You have not moved because the Continuance rite runs through it, and if the rite lapses the tablets become the edicts of a dead man, and the empire's entire doctrinal foundation goes with it.
 
 You will execute the order on the day that arithmetic changes. Incense Crown knows this. You know she knows. Neither of you has ever said it aloud in eleven meetings, and you have come to respect her enormously, and none of that will matter on the day.
+
+---
 
 ## Sample Dialogue
 
