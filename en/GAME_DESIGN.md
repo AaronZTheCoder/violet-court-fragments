@@ -663,6 +663,206 @@ The following chronology is compiled from the official records of the Bureau of 
 
 ---
 
+## The Three Stewardships
+
+Read this section slowly. It is the spine of the modern empire, and everything your players touch will have been shaped by it.
+
+The Sun Emperor is sealed inside the Spire. He does not speak. Yet edicts continue to appear on jade tablets in the Throne Chamber, written in His hand, and the empire is governed by them. This creates the central problem of the last hundred and fifty years, and the answer to that problem is the only throne that has ever mattered.
+
+Someone must carry the tablets out. Someone must read them aloud. Someone must decide what the words mean when the words are ambiguous, and the words are always ambiguous.
+
+That person is the Steward. The office has no formal name in any charter. There is no ceremony of appointment, no seal of investiture, no line of succession written anywhere a scholar could cite. The Steward is simply the person the Grand Council has stopped arguing with. Power in the Celestial Court is not seized. It accretes, the way sediment accretes, until one day the river has a new bank and no one can point to the moment it moved.
+
+Three Stewards have held the tablets since the Age of Harmony gave way to the Dusk Era. Each inherited a different empire. Each left behind a different set of ruins. Understanding them is understanding why the Court behaves the way it does when your players walk into a room.
+
+### The First Stewardship: The Ledger Hand (Years 356 to 402)
+
+**How he came to it.** He was not the heir. He was the compromise.
+
+The Stewardship before his ended in the Year of the Long Petition, when scholars, apprentices, and clerks filled the Great Approach outside the Spire for six weeks, asking that the Court publish the edicts in full rather than in summary. They were not rebels. Most of them were the children of officials. They brought bedding and rice and copied poetry onto banners, and for six weeks the Court did nothing, because the Court could not agree on what to do.
+
+Then it agreed.
+
+What happened on the Approach is not in the archives. There is no file. There is a gap in the ledger of the Bureau of Harmonious Records between two dates, and the gap is exactly six weeks wide, and the paper stock changes after it. The Bureau of Harmonious Narrative has issued no statement in fifty years, because a statement would require a subject, and officially there is no subject. Ask an official about the Long Petition and you will see something remarkable: not evasion, not fear, but a genuine blankness, the expression of a person who has successfully not known something for their entire career.
+
+The Steward who ordered it did not survive the aftermath politically. The Council needed someone untainted, competent, and from far enough outside the capital that no faction owned him. They found a canal administrator from the river prefectures, a man who had spent thirty years making barges arrive on schedule.
+
+They expected him to keep the seat warm. He kept it for forty six years.
+
+**His doctrine: the Three Continuities.** His genius was a single document, four pages long, that nobody understood was a revolution until it had already happened.
+
+The Court had always held that the empire belonged to those who served it: the scholar, the soldier, the tiller of fields. Merchants were tolerated, taxed, and despised. The Ledger Hand's doctrine held that the empire must also embody the continuity of production, the continuity of learning, and the continuity of the common good, and that anyone who advanced these was therefore a servant of the empire regardless of birth.
+
+In plain terms: the merchants could join the Court.
+
+The Golden Orthodoxy called it heresy for a decade and then stopped, because by then the wealthiest guild masters in the empire held rank, and the Orthodoxy's own temples were being reroofed with their donations. This is how doctrine changes in the Celestial Court. Not by argument. By the slow substitution of who is in the room.
+
+**What he built.** He opened the empire's ports to the foreign trade compacts, over the furious objection of the Iron Calculation, who correctly predicted that the eastern foundries would be undercut and incorrectly predicted that this would matter. Within twenty years the empire was making everything the world used, and the foundry towns that died in the transition were quietly reclassified as agricultural districts.
+
+He completed the River Wall, the largest structure ever raised in the Nine Provinces, a dam of such scale that it changed the weight distribution of the province behind it. It generates a fifth of the empire's refined Qi. It also drowned four hundred villages. The people of those villages were resettled with compensation that was, on paper, generous. The paper is in the Archives. So are the seventeen thousand petitions filed by people who never received it.
+
+He recovered the southern harbor of Pearl Gate from the maritime powers who had held it under a hundred year lease, and he did it without firing a shot, and it was, by any measure, the great triumph of his life. He promised the harbor it could keep its own laws, its own courts, and its own customs for fifty years. He meant it. He was not the Steward who would have to keep the promise.
+
+**What it cost.** In his fortieth year, a meditation society called the Ten Thousand Silences surrounded the Court compound at dawn. They did not chant. They did not carry banners. Ten thousand people stood in silence in a perfect ring, and then at midday they left, and the Court realized that an organization it had never heard of had just demonstrated it could put ten thousand disciplined bodies anywhere in the capital without a single prior report crossing a single desk.
+
+The intelligence failure terrified him more than the sect did. Within a year the Silences were a proscribed doctrine, their teachers in reeducation, their scriptures burned in provincial courtyards. Within three years the Bureau of Internal Harmony had tripled in size and had a new mandate: to know, in advance, about every gathering of more than fifty people anywhere in the Nine Provinces.
+
+That mandate has never been rescinded. Every surveillance apparatus your players will evade was built by a man who was frightened, once, by ten thousand people standing still.
+
+**His method, for the Host.** The Ledger Hand never won an argument. He outlasted them. He placed his people in unglamorous positions: personnel, logistics, provincial appointments, the offices nobody fights over because nobody notices them. By the time his rivals understood that the river prefecture faction held every promotion board in the empire, the boards had already promoted a generation.
+
+He retired. This is the astonishing part, the part every subsequent Steward has studied and none has repeated. He handed over the tablets and walked out. He then spent a decade quietly ensuring his successor could not govern without him, which is a different thing from ruling, but only just.
+
+### The Second Stewardship: The Accord (Years 403 to 427)
+
+**How he came to it.** He was chosen, not by his predecessor's enemies, but by his predecessor's predecessor, in an arrangement made two Stewardships in advance. He arrived in office owing his position to a dead man and surrounded by living men who owed theirs to the Ledger Hand.
+
+He was the most constrained Steward in the empire's history, and he knew it on the first day.
+
+**His doctrine: the Harmonious Accord.** Where the Ledger Hand had asked how the empire could grow, the Accord asked who it was growing for. The provinces had become grotesquely unequal. The coastal prefectures had glass towers and Qi lighting. The interior had the same mud roads it had in the Golden Age. His doctrine held that harmony was not merely the absence of dissent but the presence of fairness, and that a province left behind was a province being lost.
+
+He abolished the field tax that had been collected since the Founding. He built roads into the interior. He extended the Court's grain relief to prefectures that had never received it. These were not small things. Two hundred million people ate better because of him.
+
+He is nonetheless remembered, when he is remembered, as the Steward under whom nothing was decided.
+
+**The Breath.** In his first year, a wasting sickness appeared in the southern prefectures. Local officials suppressed the reports, because the reporting official is the official who is blamed. The sickness reached Tianjing. It reached the foreign compounds. It became impossible to conceal, and at that point, and only at that point, the Court acted with sudden and total competence: quarantine, mass construction of isolation halls, daily public counts, the dismissal of the Minister of Health and the prefect who had sat on the first report.
+
+The empire learned two lessons from the Breath, and they contradicted each other. The Court learned that concealment fails and candor works. The provincial officials learned that the man who reports the plague is destroyed and the man who conceals it is usually fine, because usually the plague stops.
+
+Guess which lesson survived.
+
+**The Great Exhibition.** In his sixth year the empire hosted the Convocation of Nations, and it was magnificent. Every foreign delegation was received in a stadium built for the purpose. The sky over Tianjing was cleared of industrial haze by the simple expedient of closing every foundry within three hundred li for two months. Ten thousand drummers performed in perfect unison, and the world understood, in one evening, that the empire had returned.
+
+Your older players' characters remember this. It is the single proudest memory most citizens of the empire possess. Do not treat it cynically at the table. The pride was real. That is what makes everything after it hurt.
+
+**The Weeping Valley Earthquake.** In his seventh year the earth moved in the western prefectures and eighty thousand people died. Among them were five thousand children, in schools that folded like wet paper while the government buildings beside them stood.
+
+The building codes existed. The inspections had been signed. The money had been allocated. Somewhere between the allocation and the concrete, in a chain of small men each taking a small percentage, the steel had thinned.
+
+A citizen archivist began compiling the names of the dead children, because the Court would not. He was detained. The charge was disturbing public order. The list, incomplete, exists in three copies. Shadow has one.
+
+**The Buried Carriage.** In his fourteenth year, two Qi rail carriages collided on an elevated line and fell. Before the search for survivors was complete, before the families had arrived, the Bureau of Border Harmony ordered the wreckage buried in a pit beside the track. When asked why, the spokesman said that the burial was necessary for the rescue work to proceed.
+
+A survivor was pulled from the wreckage two hours after the burial began.
+
+The phrase entered the language. In the Nine Provinces, when an official explains something in a way that insults the listener's intelligence, people say: *he is burying the carriage.* They say it quietly. But they say it.
+
+**Nine Dragons Ruling the Waters.** The Accord's central weakness was structural, not personal. Power had fragmented among nine great portfolios, each controlled by a different elder, each functionally sovereign. The Steward could not direct the Bureau of Internal Harmony. He could not direct the Garrison. He could persuade, trade, and wait.
+
+The result was an empire that could not stop doing anything it had started. Every faction could veto. No faction could initiate. The Dusk appeared on the eastern frontier in his time, and nine separate offices commissioned nine separate studies, and the studies were excellent, and nothing happened.
+
+**The Governor of Vermilion Gate.** In his final years a provincial governor in the southwest became the most popular man in the empire. He revived the old songs of the Common Flame. He built housing for laborers. He struck at the criminal syndicates in his province with a ferocity that made him a folk hero and made his rivals disappear.
+
+He was also, by every credible account, running a private intelligence service, torturing confessions out of merchants, and preparing to demand elevation to the Grand Council.
+
+It ended when his own constable, the man who had run his interrogation cells, fled in the night to a foreign consulate and asked for asylum, carrying documents. The consulate handed him back. The documents did not come back with him.
+
+The Governor's fall was the largest political event in forty years, and it was resolved entirely inside the Court, and the public was given a sentence and a half of explanation. But every official in the empire understood what had been demonstrated: that a Steward could be challenged from the provinces, and that the challenge had come within a hair of succeeding.
+
+The next Steward understood it best of all.
+
+### The Third Stewardship: The Iron Brush (Years 428 to 452, Present)
+
+**How he came to it.** His father had been an elder of the founding generation, purged, imprisoned, and rehabilitated after death. He spent his adolescence in a cave dwelling in the loess prefectures, sent down from the capital during a doctrinal convulsion, sleeping on a brick bed in a village with no Qi lighting.
+
+The Court believed this had made him humble. The Court had never in its history been so wrong about anything.
+
+**His doctrine: Rectification.** The empire, he held, was not suffering from insufficient growth or insufficient fairness. It was suffering from rot. The Court had become a market. Offices were bought. Verdicts were bought. Every official above the sixth rank was compromised, and the compromise had gone on so long that it was no longer corruption but simply the operating logic of the state.
+
+He was correct. This is the thing your players must understand and that the Golden Orthodoxy will never say aloud. He was correct about the disease. The argument is only ever about the cure.
+
+**The Tiger Hunt.** He announced that the campaign would take tigers as well as flies: the mighty as well as the petty. Nobody believed him. Every Steward had announced this.
+
+Then the Commission for Celestial Purity took an elder of the Grand Council, a man with a personal security apparatus and clients in every province, and broke him, and imprisoned him for life. Then it took the Chief of the Garrison staff. Then it took the Steward's predecessor's own chief of household, the man who had controlled access to the tablets themselves.
+
+Within a decade the Commission had disciplined more than a million officials. The empire's ledgers had never been cleaner. The banquet houses of the capital closed by the hundred. Gift jade collapsed in value.
+
+And every single one of those investigations was real, and every single one was also a choice, and the choosing was never explained. Two prefects take the same bribe. One is destroyed. One is promoted. The difference is not in the file. The difference is never in the file.
+
+This is the Iron Brush's masterpiece: he made honesty and obedience indistinguishable. An official who is clean can still be destroyed, because nobody above the sixth rank is truly clean, and everyone knows it about themselves. The result is not a Court of honest men. It is a Court of frightened men who have stopped being able to tell whether their fear is guilt.
+
+**The Unsealing of the Term.** For a hundred years, an unwritten rule had held that a Steward serves two decades and departs. It was the Age of Harmony's single great institutional achievement: the peaceful succession, the thing the empire had never managed before.
+
+In his eleventh year the Grand Council voted to remove the limit. The measure passed with two abstentions and one vote against, out of nearly three thousand. The Bureau of Harmonious Narrative explained that the change reflected the people's ardent wish for continuity in a period of external turbulence.
+
+The three who did not vote yes were never named publicly. The Bureau of Internal Harmony named them internally within a day. All three are still alive. None has held office since.
+
+**The Western Silence.** In the far western prefectures, among a people whose language, faith, and script differ from the capital's, the Court identified a problem of doctrinal contamination and solved it with a network of instructional facilities.
+
+The Court's position is that these are vocational schools, attended voluntarily, from which graduates emerge with improved employment prospects and a corrected relationship to the empire. Statistically, the province is now the most harmonious in the Nine. Reported incidents have fallen to zero.
+
+Bone Script comes from a prefecture two valleys over. He will tell you what a reported incident rate of zero means, if he trusts you, which he will not for a long time.
+
+**The Harbor's Silence.** Pearl Gate had been promised fifty years of its own laws. In year thirty of that promise, after a summer in which two million of its people filled the streets, the Court determined that the promise had always been conditional on harmony, that harmony had failed, and that the Court's obligation was therefore discharged.
+
+The harbor's assemblies were reconstituted with vetted candidates. Its newspapers closed. Its most prominent advocates were tried under a statute written after their alleged offenses and applied backward. Many of its educated young left for the maritime powers.
+
+The Court had promised fifty years. It gave thirty. And it did so through an entirely legal process, documented at every step, which is the detail that should chill your table most.
+
+**The Second Breath.** A new plague, in a river city of eleven million. The first physicians to describe it were summoned by the local Commission office and made to sign statements admitting they had spread rumors. One of them died of the disease he had been disciplined for reporting.
+
+Then the Court moved, and moved with a totality no other power on earth could have matched. It sealed the city. Then it sealed the province. Then, over three years, it sealed and unsealed cities of tens of millions at a stroke, built isolation halls in six days, tested entire populations weekly, and drove the disease to almost nothing while the rest of the world buried its dead in trenches.
+
+It worked. That is the part outsiders cannot hold in their heads alongside the rest. For two years the empire was the safest place in the world, and its citizens knew it, and were proud.
+
+Then it went on. And on. Sealed apartment blocks. Food that did not arrive. A fire in a tower where the doors had been chained. And in the third winter, in a dozen cities, people came into the streets holding sheets of paper with nothing written on them, because there was nothing that could be safely written, and the blankness said everything.
+
+The Court reversed the entire policy within a month, with no admission that it had ever been policy. The sealed cities opened. The counting stopped. The dead of the reopening were never tallied. The Bureau of Harmonious Narrative moved directly from explaining that sealing was essential to explaining that opening was timely, and there was no day on which it explained the transition, because there was no transition, because there had never been a policy, because there was only ever the Court being correct.
+
+**The Merchant Prince.** The empire's wealthiest man, a former village teacher who had built the great trading houses, stood before an audience of financiers and observed that the Court's regulators were operating with the mentality of a pawnshop.
+
+The largest share offering in the history of the world was scheduled for the following week. It was stopped two days before. The Merchant Prince was not arrested, not charged, not denounced. He simply ceased to be visible. He reappeared, eventually, at an agricultural research station, praising the Court's rural policy.
+
+Every merchant in the empire watched. Every merchant in the empire understood. The Iron Brush had shown that there is no amount of wealth that constitutes a position.
+
+**The Vanishings.** In the twenty second year, the Steward's own foreign minister, his personal protege, stopped appearing at events. Then his defense minister. Then the commanders of the strategic Qi arsenal, one after another. Then, in a single winter, the Vice Chairman of the Grand Council's military commission and the chief of the joint staff.
+
+No charges were published. The formula was identical each time: serious violations of discipline and law. The Bureau of Harmonious Narrative published the removals as brief notices, in the same typeface as agricultural statistics.
+
+The men who vanished were not the Steward's rivals. They were his own appointments, his own faction, men he had personally elevated. That is the detail that has the Court genuinely frightened, in a way it was not frightened by the Tiger Hunt. When a Steward purges his enemies, the logic is legible. When a Steward purges the men he chose, no one can compute their own safety, because the variable that determined survival is not visible from inside the system.
+
+Run this at your table. A player asks an official why a minister vanished. The official does not know. The official's superior does not know. The official's superior's superior does not know. There is no one to ask. There is only the notice, in the typeface of agricultural statistics.
+
+**The Tower Collapse.** The empire's great construction houses had borrowed against land they had not built on, sold apartments they had not begun, and paid old debts with new deposits, for twenty years, with the full knowledge of every regulator.
+
+The largest of them failed. Then the second. Then the fourth. Across the Nine Provinces stand the skeletons: concrete frames, rebar rusting, weeds at the fourteenth floor, bought and paid for by families who are still making payments on homes that will never have windows. Some of those families moved into the shells anyway. They carry water up forty flights.
+
+**The Lying Flat.** And beneath all of it, a generation of the empire's most educated young people has quietly concluded that the bargain is not worth taking. They studied for twenty years for examinations that no longer lead anywhere. One in six cannot find a post. So they decline. They do not protest. They simply lie flat: work the minimum, want nothing, buy nothing, marry no one, produce no heirs.
+
+The Court has no instrument for this. Every tool it possesses is designed to stop people from doing something. It has never in three hundred years needed to make people start.
+
+### What the Three Stewardships Teach
+
+Give this to your players slowly, across a campaign. Do not lecture. Let them derive it.
+
+**Narrative control precedes every other power.** The Ledger Hand rewrote who could belong. The Accord could not control the story and therefore could not govern. The Iron Brush controls it absolutely and has therefore made every other faction dependent on him for the meaning of their own actions. Whoever holds the Bureau of Harmonious Narrative decides what happened, and what happened is the only thing that is real in a Court that runs on paper.
+
+**Every apparatus outlives its emergency.** The Bureau of Internal Harmony tripled in size because ten thousand people stood in a circle. The sealing protocols were built for a plague. Nothing is ever dismantled. The empire your players inhabit is a museum of solutions to problems that ended decades ago, each solution still funded, still staffed, still hungry.
+
+**The succession problem is never solved, only postponed.** The Sealing created it. The Age of Harmony contained it for a century with an unwritten rule. The rule is gone. There is no mechanism, no heir, no procedure. Every elder in the Grand Council is privately calculating what happens on the day the Iron Brush dies, and none of them can discuss it with another, because to discuss it is to have prepared for it, and to have prepared for it is a serious violation of discipline and law.
+
+**The system selects for the trait that destroys it.** At every level, the official who reports a problem is punished and the official who conceals it is usually safe. This is not a flaw that the Court has failed to notice. It is the Court's central operating principle, applied recursively, and it is the reason the Dusk was allowed to consume two provinces before anyone in the capital was permitted to say the word.
+
+**A campaign of genuine anti corruption and a campaign of consolidation are indistinguishable from inside.** Your players will never be able to tell. Neither can the officials. Neither, on his worst nights, can the Iron Brush.
+
+### Scene Seeds from the Stewardships
+
+Drop these into any session.
+
+An old clerk, drunk, mentions that he was on the Great Approach as a student. He does not say what he saw. He says he still cannot eat rice cooked in a certain way. Then he looks at the players and asks them to forget he spoke.
+
+A family arrives in Tianjing from a river valley with a compensation warrant forty years old, correctly stamped, never honored. They want the players to file it. It is valid. It is also a confession that the Court owes a debt it has denied for four decades.
+
+The players are handed a promotion list. Two names have identical files: same rank, same offense, same evidence. One is marked for elevation, one for the Commission. They are asked to sign. They are not told which decision they are ratifying.
+
+A prefect asks a player, privately, whether he should report an anomaly in his district. He is not asking what is right. He knows what is right. He is asking what happens to him.
+
+A sealed carriage stands in a rail yard with the Bureau of Border Harmony's mark on it. The workers have been told not to open it. It has been there eleven days. Something inside has stopped moving.
+
+A young official the players like is promoted rapidly, then more rapidly, then vanishes. His replacement has his office, his files, and his tea cup, and does not know his name.
+
+---
+
 ## The Celestial Court
 
 ### Structure
@@ -999,7 +1199,7 @@ The emperor is the only exception to these rites. The Sun Emperor has not died, 
 
 ---
 
-## The Ten Figures
+## The Twelve Figures
 
 Each figure is a potential patron, ally, rival, or executioner. Each belongs to a school (or refuses to). Each carries a personal truth that shapes their actions. Each has a combat role, loyalty triggers, and a quest chain.
 
@@ -1428,6 +1628,72 @@ What he does remember is the content of every book he has ever read. Every docum
 **What He Knows:** Everything. He has read the entire Imperial Archives. He knows the origin of the Crimson Dusk, the fate of the Sun Emperor, the founding crime of the Court, and what happens next. The question is whether he will tell you, and whether you will understand if he does. He has been waiting for someone who can comprehend the full picture, someone who can carry the knowledge forward after the Archives are gone.
 
 **Potential Quest: The Three Questions.** Celestial Book will answer exactly three questions. They must be the right questions, the ones that unlock the deepest secrets. He will not help the players formulate them. He will not indicate whether a question is good or poor. He will simply answer, and the players must decide what to ask. The answers will reshape their understanding of the empire and determine which endings are possible.
+
+### Bone Script
+
+**Origin.** He is from Nine Willow Bend, a prefecture in the eastern valleys that was struck from the gazetteer in the Year 431. He is perhaps twenty five. He is the last literate speaker of a script used in one valley for eight hundred years and nowhere else, and he carries forty one bone tokens on his belt, each carved with the name of a person who is not in any registry of the living or the dead.
+
+His mother was the village recorder. When the resettlement office confiscated her ledgers as unauthorized documentation, she had already spent three months copying four thousand names onto bone. She died in the second camp at fifty three. He took the bones and walked into the mountains, and learned unlicensed Qi practice from the remnants of the Verdant Path's suppressed wing, who went up into the high forests three generations ago and never came down.
+
+**Why he matters.** Every other figure in this chapter is arguing about how the machine should run. Bone Script is the only one who has seen what it looks like from underneath, after it has finished. He is the empire's conscience in the most literal available sense: he is carrying its uncounted dead around on a piece of leather.
+
+He came to Tianjing seven months ago to file a restoration petition. That is the entire ambition of his life. He wants a clerk to stamp a piece of paper. He has since learned that this will require him to become something he did not intend to become, and the Court has no idea that it is slowly manufacturing exactly the kind of person it should fear.
+
+**Daily Routine.** He wakes before dawn in a rented storeroom corner in the outer market. He waters the living moss lining his cloak. He queues at the petitions hall, where he has now spent over four hundred hours and has become, without intending it, the man the other petitioners ask about forms. Afternoons he does unlicensed work for unregistered people in the camps outside the walls: finding water, reading foundations, sitting with the sick. He is paid in food and information. Evenings he maintains the tokens: recuts a worn stroke, replaces a cracked thread, oils the bone. It takes an hour. On the days he skips it he is worse company.
+
+**Inner Circle.** Clerk Sixth Rank Yuan of the Bureau of Harmonious Records, a tired man at a window who has spent seven months finding the correct form and has never asked for anything. Grandmother Stone Voice, his teacher, somewhere past ninety, still in the high forest. And the camps, which are his practice and his congregation, though he would not use either word aloud.
+
+**Relationships.** The Celestial Book met him once in a corridor, said his prefecture's name aloud correctly with the tonal fall no capital speaker gets right, and walked on. Bone Script has not been able to find him since. The Common Flame wants him as a symbol and he will not be one. The Verdant Path's seated wing finds him embarrassing, because his teachers are the people they abandoned.
+
+**Manner:** Plain, slightly slow, because the capital dialect is his third language and he translates before he speaks. He gets honorifics wrong and has stopped trying. When angry he becomes more precise rather than louder, which officials find far more disturbing. He notices plants before people.
+
+**Hidden Purpose:** To have four thousand names entered into the Imperial registry, by any method that leaves them real.
+
+**Combat Role:** Endurance and Terrain. He does not fight well. He simply does not stop, and the ground tends to help him.
+
+**Loyalty Gates:**
+
+- ↑ Remember a detail about him accurately, especially a name
+- ↑ Treat the camps as containing people rather than a problem
+- ↓ Call his practice heterodox in his hearing
+- ↓ Suggest that the past cannot be changed, as though that answered him
+
+**What He Knows:** That there are cook fires in Nine Willow Bend. People have gone back into a Dusk zone and are not dying. He is the only person in the capital who knows, and he understands exactly what entering it into any record would summon.
+
+**Potential Quest: The Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Tianjing can give it. Nine would need bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign out of self interest and own him forever. The players will be asked to help him choose.
+
+### Incense Crown
+
+**Origin.** She was given to the Temple of Ten Thousand Gods at four. Her family was poor and the Temple fed her, taught her six scripts, and gave her the only education available in the Nine Provinces to a girl from a fishing prefecture. She does not remember choosing this. She is now the youngest of nine ordained officiants in the empire, by forty years.
+
+**Why she matters.** The Celestial Court can seize, tax, imprison, and erase. It has never once managed to manufacture legitimacy. The Rite of the Emperor's Continuance must be performed twice a year by an ordained officiant in unbroken succession, and the Doctrine of Continuous Edict depends on the Emperor being ritually confirmed as living. If the rite lapses, the tablets appearing in the Throne Chamber become, doctrinally, the edicts of a dead man.
+
+The entire legal architecture of the Celestial Empire rests on a ceremony the Celestial Empire does not control. The Bureau of Celestial Inquiry spent nine years trying to reconstruct the ordination from documents and produced something liturgically correct and ritually inert.
+
+So they keep her instead: a residence in the Inner City, a stipend, the finest silk in the empire, and two attendants who report to the Commission weekly. She is the best treated prisoner in the Nine Provinces. Her protection and her captivity are the same mechanism, and she has thought about this a great deal.
+
+**Daily Routine.** She wakes at the fourth hour, the only hour she is unobserved, and uses it badly. She is dressed by two people; the crown alone requires a second pair of hands. Mornings are Court ceremonies where her presence is the content and she says almost nothing, and where she learns more than most elders because everyone speaks freely near a woman they have decided is furniture. Midday she returns to the Temple. In the third hour of afternoon, while her attendants take their meal, she is in the shrine of the drowned for forty minutes, and what happens there does not exist. Evenings are formal dinners at which she has perfected the appearance of eating.
+
+**Inner Circle.** White Reed and Little Pine, her attendants, aged twenty two and seventeen, who inform on her weekly and whom she has taught to read. She feeds Little Pine harmless truths so the girl does not have to invent harmful ones. She is aware she has made herself responsible for the welfare of her own surveillance.
+
+**Relationships.** The Bright Mirror holds the standing order to close the Temple and has not executed it in thirteen years; they have met eleven times and neither has ever said anything that could be written down. The Duke of Eternal Night attended her first Continuance and told her that her predecessor put a rising tone on the eighth phrase and her predecessor's teacher did not, and he will not say which was correct, and she has come to understand that he does not know either.
+
+**Manner:** Unfailingly gracious, which is a technique rather than a warmth. She speaks slowly and never fills silence, and officials accustomed to the Court's verbal maneuvering talk into her pauses and say more than they meant to. Her tell is the third strand of her necklace.
+
+**Hidden Purpose:** To keep the sanctuary running for as long as the arrangement holds, and to write down the ordination before the last nine officiants die.
+
+**Combat Role:** Non combatant. Her weapon is a procedural question, and it stops proceedings that armies could not.
+
+**Loyalty Gates:**
+
+- ↑ Ask her a question that assumes she is a person rather than an office
+- ↑ Bring her someone who needs shelter and ask nothing about the arrangement
+- ↓ Demand she declare for a faction
+- ↓ Call her a collaborator as though she has not already agreed with you
+
+**What She Knows:** The answer at the sealed door changed four years ago. She has reported the old formula three times since, because reporting the change would require explaining how she can tell the difference. She also received the Temple's ninth year teaching, which explains why the Sun Emperor did not abolish it, and she has structured eleven years of her life around never being asked it by someone she cannot refuse.
+
+**Potential Quest: The Eighth Phrase.** She wants to know whether the rising tone is correct. This sounds like a scholarly triviality. It is not. If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error, and she does not know which possibility frightens her more.
 
 ## Game Systems
 

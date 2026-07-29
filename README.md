@@ -33,13 +33,15 @@ violet-court-fragments/
 │   ├── CORE_RULEBOOK.md               ← The complete game system (2,500+ lines)
 │   ├── HOST_CODEX.md                  ← Host guide and encrypted frameworks (2,200+ lines)
 │   ├── GAME_DESIGN.md                 ← Setting bible and world lore (3,000+ lines)
-│   ├── character_dossiers/            ← 10 playable archetypes with full mechanics
+│   ├── character_dossiers/            ← 12 playable archetypes with full mechanics
 │   │   ├── alchemist_dossier.md
 │   │   ├── assassin_dossier.md
+│   │   ├── druid_dossier.md
 │   │   ├── elf_dossier.md
 │   │   ├── engineer_dossier.md
 │   │   ├── knight_dossier.md
 │   │   ├── paladin_dossier.md
+│   │   ├── priestess_dossier.md
 │   │   ├── rogue_dossier.md
 │   │   ├── vampire_dossier.md
 │   │   ├── werewolf_dossier.md
@@ -53,12 +55,12 @@ violet-court-fragments/
 │       └── quick_reference.md         ← One page table reference
 │
 ├── cn/                                ← Pure Chinese edition
-│   └── ... (mirrors the en/ structure, all 17 documents)
+│   └── ... (mirrors the en/ structure, all 19 documents)
 │
-└── tabletop_rpg_*.jpeg                ← 10 character portrait illustrations
+└── tabletop_rpg_*.jpeg                ← 12 character portrait illustrations
 ```
 
-**34 markdown documents** across two languages. **13,900+ lines English, 13,300+ lines Chinese. 27,000+ lines total.** **Zero dashes.** **Zero political terminology.** **Zero mixed language.** Every word earned.
+**38 markdown documents** across two languages. **14,800+ lines English, 14,300+ lines Chinese. 29,000+ lines total.** **Zero dashes.** **Zero political terminology.** **Zero mixed language.** Every word earned.
 
 ---
 
@@ -79,14 +81,14 @@ violet-court-fragments/
 ### Your first session
 
 1. **The Host reads the Codex.** Start with Part One and Part Two. The Deeper Currents section explains the structural dynamics that drive the Court.
-2. **Each player picks an archetype.** Look through the ten dossiers. Pick the one whose art and truth hooks speak to you. Read your three unique abilities. You will need them.
+2. **Each player picks an archetype.** Look through the twelve dossiers. Pick the one whose art and truth hooks speak to you. Read your three unique abilities. You will need them.
 3. **Build characters together.** Follow the eight steps in the Core Rulebook, Chapter Three. Decide why your characters know each other. Decide who owes whom.
 4. **Run "The First Harmonization."** The starter adventure in `adventures/` is built for two to three sessions. It introduces the Court, the Crimson Dusk, and the Audit mechanic. By the end, your players will understand what kind of game this is.
 5. **Let the campaign unfold.** After the starter adventure, use the Host Codex's campaign frameworks (The Rise, The Conspiracy, The Collapse), the random event tables, and the character generator to build what comes next.
 
 ---
 
-## The Ten Archetypes
+## The Twelve Archetypes
 
 Every archetype has a full mechanical identity: Facet baseline, three unique abilities, an advancement tree to Level 9, starting equipment, faction standings, and four suggested personal truths. Each one matches a character portrait in the root directory.
 
@@ -102,6 +104,8 @@ Every archetype has a full mechanical identity: Facet baseline, three unique abi
 | **Duke of Eternal Night** | Vampire   | Crimson Lineage   | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
 | **Iron Bone**             | Werewolf  | Common Flame      | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
 | **Celestial Book**        | Wizard    | Celestial Inquiry | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
+| **Bone Script**           | Druid     | Unregistered      | A hedgewarden from an erased prefecture, carrying four thousand uncounted names carved onto bone                  |
+| **Incense Crown**         | Priestess | Temple            | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests            |
 
 Each archetype is built for extensibility. New portraits can become new dossiers. The system scales.
 
@@ -130,7 +134,7 @@ The **Host's Codex** is the game's secret engine. It contains:
 
 - **The Way of the Host**: principles for running the game as a collaborative partner, not an adversary
 - **The Deeper Currents**: the structural dynamics of power in the Celestial Court, written entirely in the language of the game world. No other language is needed. The patterns described here are universal. If you recognize them, you are reading the water correctly
-- **The Ten Figures as Characters**: voice, physical tells, wants, fears, and scene seeds for every major figure
+- **The Twelve Figures as Characters**: voice, physical tells, wants, fears, and scene seeds for every major figure
 - **Running Harmonization Audits**: the four phase structure, risk tables, and player actions during the game's signature set piece
 - **Campaign Frameworks**: three complete structures (The Rise, The Conspiracy, The Collapse) with act breakdowns
 - **Random Generators**: d20 Court Event table, d12 Rumor table, character quick generator
@@ -154,8 +158,8 @@ Every political term has been mapped to a fantasy equivalent. Every real world i
 
 | Edition | Directory | Contents                                                               |
 | ------- | --------- | ---------------------------------------------------------------------- |
-| English | `en/`     | All 17 documents in pure English. Zero Chinese characters. Zero dashes |
-| Chinese | `cn/`     | All 17 documents in pure Chinese. Zero English words. Zero dashes      |
+| English | `en/`     | All 19 documents in pure English. Zero Chinese characters. Zero dashes |
+| Chinese | `cn/`     | All 19 documents in pure Chinese. Zero English words. Zero dashes      |
 
 The two editions are functionally identical. Switch between them at any time. The character portraits work for both.
 
