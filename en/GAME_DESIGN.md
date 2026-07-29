@@ -355,6 +355,134 @@ The truth is one of the central mysteries. Each playthrough may reveal a differe
 
 ---
 
+### The Sealing
+
+Do not resolve this. Everything below is what people experienced, and none of it explains what happened, because nobody knows what happened, including the Duke of Eternal Night, who was standing eleven paces away.
+
+What follows is why the empire cannot let go.
+
+#### What It Was Like to Have Him
+
+He answered questions.
+
+That is the thing three hundred years of theology has almost successfully buried, and it is the only fact that matters for understanding the grief. The Sun Emperor was not a remote divinity attended by intermediaries. For two hundred and eighty seven years, on the first and fifteenth of every month, He sat in the Hall of Open Hearing, and anyone at all could come and ask Him a question, and He would answer it.
+
+Anyone. There was no petition, no rank requirement, no filtering. The queue formed in the night. A woman with a dispute over an irrigation ditch stood behind a Grand Council elder and in front of a boy who wanted to know why his brother had died, and all three were heard, in order, at whatever length the answer required.
+
+He was not oracular. He did not speak in riddles. Witnesses across three centuries of record agree with unusual consistency that He was patient, specific, and slightly dry, that He asked clarifying questions, that He would say plainly when He did not know something, and that He had a way of pausing before answering which made the person asking feel that the question had been worth the pause.
+
+He was seen. That is the other thing. He walked. He attended the Lantern Festival every year and stood in the crowd, and the crowd did not part for Him, because He had asked, once, four hundred years earlier, that it not. There are eleven independent accounts of Him buying roasted chestnuts from street vendors, and the vendors' descendants still trade on it, and at least four of those families are lying, and nobody minds.
+
+The empire under a present Emperor was not a utopia. There were famines, wars, and bad governors. What there was not, anywhere in the Nine Domains, was the question *what would He want?* You could go and find out. Twice a month, in person, in a queue.
+
+Understand what that did to a civilization. There was no interpretation. No school of doctrine, no competing readings, no priesthood of the text, because there was no text: there was a man in a hall on the fifteenth, and if you disagreed with someone about what was right, the argument had an end.
+
+Every institution in this book exists because that ended.
+
+#### The Last Year
+
+There was no final speech. This is the detail that undoes people.
+
+In the eleventh month of Year 287 He heard forty one questions, of which the last was a dispute between two ritual bureaus about the correct color of the thread used to bind the summer offerings: whether it should be the deep red of the old northern practice or the vermilion adopted three centuries earlier. The dispute was ninety years old and genuinely bitter.
+
+He heard both sides. He asked what dye each bureau actually used, and where it was sourced, and what it cost. He then ruled for the vermilion, on the grounds that the northern dye required a beetle that had become scarce, and that a rite which depends on a scarce thing eventually becomes a rite about scarcity.
+
+That is the last recorded sentence of the Sun Emperor. It is about beetles. It is careful, sensible, faintly funny, and completely ordinary, and there are people in the capital who have wept reading it, because He clearly did not know either.
+
+#### The Announcement
+
+In the second month of Year 288 He informed the Grand Council that He would enter the Spire of Eternal Vigil for a period of meditation, and that the doors should be closed behind Him.
+
+Nobody was alarmed. He had done this before. There are nine recorded retreats in the preceding two centuries, the longest of them fourteen months, and the Court's response was administrative: the Hall of Open Hearing was closed, a notice was posted, the queue was told to come back.
+
+The Duke of Eternal Night was in the room. He has described it exactly twice in three hundred years, both times when very tired, and both accounts agree on three things. The Emperor was carrying nothing. He stopped at the threshold and looked back at the assembled Court for what the Duke estimates was four seconds. And He said something.
+
+The Duke does not know what. He was eleven paces away, the acoustics of the antechamber are poor, and he has spent three hundred years being certain that it was addressed to someone specific and never being able to determine who. He will not speculate about the words. If a player pushes him on this he becomes, uncharacteristically, angry, and the anger is not at the player.
+
+The doors were closed. The watch was set. That was a Tuesday.
+
+#### The Waiting
+
+Two years is a long time to hold a posture.
+
+The first months were ordinary. Business continued, deferred items accumulated, and the phrase *when He returns* entered every meeting as a scheduling convention, the way one says *after the harvest*. The Court kept His seat. The kitchens continued to prepare His meal on the first and fifteenth, because no one had rescinded the standing order, and the meal was carried to the antechamber and set down and taken away untouched, twice a month, for nine years.
+
+By the second year the phrase *when He returns* had begun to do something else. It had become a way of not deciding. Every genuinely difficult question in the empire was now deferrable, and everyone discovered, with relief they did not examine, that they preferred deferring.
+
+The queue outside the Hall of Open Hearing did not disperse. This is the part of the record that is hardest to read. People kept coming on the first and fifteenth, standing in the closed hall's forecourt with their questions, for over a year, and then in smaller numbers for another two. A woman came every fifteenth for eleven years with a question about her son. The Garrison never moved them along. There was no order to. There was no order about any of it, because the situation had no procedure, and a court without procedure simply keeps doing the last thing it was told.
+
+Then in the eighth month of Year 290 a floor sweeper named Bright Reed found a jade tablet on the empty throne.
+
+She was seventeen. She was not supposed to be in the chamber, having entered to retrieve a dropped brush. She testified that the tablet was warm, that she picked it up because she did not immediately understand what it was, and that she carried it to her supervisor and was frightened the whole way because she had touched something she should not have touched.
+
+The edict appointed a replacement to a vacant Grand Council seat and set the direction of grain policy for the coming decade.
+
+Read that again. The first word from the sealed Emperor in two and a half years, after a nation held its breath, was a personnel decision and an agricultural instruction. No greeting, no explanation, no reference to the silence. It was, in form and tone and handwriting, an entirely routine document of the kind He had issued weekly for centuries.
+
+Nine separate authorities examined the hand. They agreed. They still agree; the Bureau of Celestial Inquiry has reexamined the original four times in three hundred years using progressively better methods and the finding has never changed.
+
+Bright Reed was given a stipend and a small house and was interviewed one hundred and forty times over the following decades. She never changed her account, never embellished it, and reportedly grew to hate the sound of her own story. She died at seventy three. Her house still stands in the Inner City and is maintained at Court expense, and nobody lives in it.
+
+#### The Doctrine
+
+The tablets kept coming. Roughly one a month, then more.
+
+This created a crisis that was not theological at first but practical: the edicts were real, they were binding, and they arrived without anyone to ask what they meant. Within a year the Court had split into readings, and the readings had adherents, and the adherents had patrons.
+
+The Doctrine of Continuous Edict was assembled in Year 293 by a ritual theorist named Cold Spring Hu, and it is a work of genuine intellectual brilliance in the service of a conclusion its author had been instructed to reach. Its argument is that the Emperor's withdrawal is not absence but a deeper mode of governance; that meditation and rule are the same act performed at different depths; and that the tablets are therefore not messages from a hidden Emperor but the ordinary operation of a present one.
+
+The doctrine is elegant, internally consistent, and answers every question except the one everybody has.
+
+Hu himself is a figure your players should meet in the archives. He left a private commonplace book, discovered eighty years after his death, filed under ritual miscellany where nobody looked for two centuries. It contains his working notes, and the notes contain a sentence he never published, which is now known to perhaps forty people in the empire and is worth more than most of them:
+
+> _If the doctrine is correct then we need not ask. If the doctrine is incorrect then we must not. I have built a door that opens only in the direction I was told to build it._
+
+He was elevated, honored, and given the Bureau of Rites. He is buried in the third tier of the imperial necropolis. His descendants are minor Golden Orthodoxy functionaries and have no idea.
+
+#### The Breach
+
+In Year 296 a group from the Inner Court went to the Spire at night with tools and attempted to force the doors.
+
+The official record describes them as a faction. This is the empire's word for any group of more than two people who did something the Court disliked, and in this case it is actively misleading, because the surviving evidence indicates they had no political program at all.
+
+There were nine of them. Their leader was the Emperor's own personal attendant of forty years, a man whose entire life had been laying out robes, carrying letters, and standing at doors. He was sixty eight. Two of the nine were physicians. One was a locksmith who was not from the Court at all and appears to have been brought in for the obvious reason. One was Bright Reed's younger brother.
+
+They did not want the throne. They wanted to know if He was alive in there.
+
+The Garrison stopped them at the threshold. Nobody died at the Spire. All nine were Harmonized within the month, their names struck, their families reassigned to distant prefectures under new registrations. The Duke of Eternal Night, who knew the attendant well, did not intervene, and this is the one subject on which he cannot be drawn even slightly.
+
+Here is the detail that keeps the Breach alive in whispers for three hundred years. The Garrison report, which is sealed but which Celestial Book has read, records that the doors were already open by the width of a hand when the soldiers arrived, and that the attendant was not pulling at them.
+
+He was standing in front of them. With his arms out. Facing away from the Spire, toward the soldiers.
+
+The report offers no interpretation. It is a soldier's report. It records what was seen.
+
+#### The Closing
+
+The following year the Spire's surface became seamless.
+
+There is no account of the moment. Nobody watched it happen. The change was noticed over roughly eleven days by the watch, who reported first that the door frame seemed shallower, then that the seam was difficult to find, then that it could not be found at all. Sixteen days after the first report a mason was brought to confirm, and the mason, having spent an afternoon with his hands on the wall, refused to sign the certification and asked to be reassigned.
+
+The structure is now a single unbroken piece of material that is not any known stone. It does not weather. Nothing grows on it. Birds do not land on it, and this is not folklore; the Bureau of Celestial Inquiry ran an eleven year observational study and the finding is in the Archives, unremarked upon, with no conclusion offered.
+
+The Thirty Six Monks began the same year. They chant continuously, in shifts of six, and the chant has not stopped for one hundred and fifty five years. It did not stop during the Iron Rebellion. It did not stop during the plague. Two monks have died mid phrase and been carried out while the phrase continued around them.
+
+Nobody alive knows what the chant originally sounded like. It has drifted, the way any oral thing drifts across five generations, and the drift is now measurable: the Bureau of Celestial Inquiry has recordings in the form of trained transcribers' notations from four different eras, and the differences are substantial. There is a faction within the Golden Orthodoxy that wants this corrected, and a faction that considers the drift itself sacred, and this argument has consumed more senior clerical careers than the Dusk has.
+
+#### What Is Still True
+
+The meal is still prepared. First and fifteenth, carried to the antechamber, set down, taken away. It has never been rescinded. In three hundred years no official has been willing to be the one who signs the order stopping it, and the annual cost appears in the Ministry budget under an item so old that its original wording is no longer entirely grammatical.
+
+The Hall of Open Hearing is maintained. Swept, aired, repaired. The queue markings on the forecourt stones are re cut when they wear down. A stonecutter comes every eleven years. He has no idea why; it is simply on the schedule.
+
+Once or twice a decade someone still comes and stands in the forecourt with a question. They are not moved along. The Garrison has a standing understanding, not an order, that these people are left alone. Guards will tell you privately that it is bad luck to interfere with them, and that the ones who come are almost always very old or very young.
+
+And here is what your players will feel if you play this correctly. The Celestial Court is not a machine for oppressing people. It is a machine for *waiting*, built by people who expected to use it for a few months, and every cruelty in this book is a load bearing part of a structure whose original purpose was to keep the seat warm.
+
+They are not usurpers. That would be simpler and much less frightening. They are a room full of people who never received an instruction to stop, doing the last thing they were told, for three hundred years, while the meal goes in and comes back out untouched.
+
+---
+
 ### The Crimson Dusk
 
 The Dusk is not an army. It is not a plague. It is a corruption of reality itself. Where it spreads, the sky reddens to the color of old blood. Stone flows like water. The dead do not stay dead. Crops grow mouths and scream. People change into things that are not people, or they simply fade, leaving behind only official dossiers describing their "voluntary relocation."
@@ -428,6 +556,130 @@ The following testimonies were recovered from the archives of the Bureau of Bord
 **Account of Sergeant Stone Bridge, former garrison soldier of the Western Bulwark, assigned to border patrol.** "We were sent to investigate reports of red frost in the high passes. Six of us. Experienced mountaineers, every one. We found the frost on the third day. It was beautiful. I cannot describe it any other way. It covered the rocks in patterns that looked like writing, like a language we almost understood. Corporal Wei touched it. I told him not to. He touched it anyway. His hand turned red, then clear, then gone. Not destroyed. Simply not there anymore, as though it had been removed from the definition of what a hand is. He looked at the stump. He was not in pain. He was fascinated. He asked me if I could see the patterns in the air. I could not. He described them to me for four hours before he stopped speaking. When we brought him back to the garrison, the physicians said he was in shock. I knew he was not in shock. He was seeing something that the rest of us could not see, and he was trying to explain it, and he could not, because the language for what he was seeing does not exist yet."
 
 **Account of Apprentice Scholar Wei, Bureau of Celestial Inquiry, classified expedition to Weeping Valley.** "We were authorized to study the fog at close range. Three scholars, six guards, equipment for a month of observation. The fog is not uniform. It has currents, eddies, layers of density. It moves like a living thing, or like water animated by a will. On the eighth night, I was on watch. The fog had advanced closer to our camp than it had been at sunset. I could see shapes moving within it. Not people shaped. Something else. I heard a voice. It said my name. It was my mother's voice. She died when I was seven. I knew it could not be her. I stood up anyway. I walked toward the fog. One of the guards tackled me before I reached it. I fought him. I bit him. I tried to kill him to get to the fog. They restrained me. They sent me back to the capital the next morning. I have been in treatment for three months. I still dream about the fog. I still want to go back. I still hear her calling. I know it is not her. I do not care."
+
+---
+
+### The Fall of Scorch Field
+
+This is the longest section in this book about a single event, and it should be. Everything your players fear is a repetition of this. If they understand what happened here, they will understand why an official will let a province die rather than write one sentence, and they will understand it from the inside, which is the only way anyone ever understands it.
+
+It took nine years. Nobody chose it. That is the part that matters.
+
+#### What It Was
+
+Scorch Field was poor and did not consider itself poor.
+
+It was high dry grassland in the west, four hundred thousand people, almost all of them herders who moved twice a year between the summer pasture and the winter pasture and had done so for longer than the empire had existed. They lived in felt tents that two women could raise in under an hour. They counted wealth in animals and in daughters. They had no cities. The provincial seat was a market town of nine thousand that tripled in size twice a year and stood nearly empty the rest of the time.
+
+The grass came up silver in spring and went gold by the eighth month, and when the wind crossed it the whole plain moved like water, and people who grew up there describe this to you unprompted, forty years later, in the middle of a conversation about something else.
+
+They made a cheese, hard and smoked and pressed into a wheel the size of a fist, that traveled well and kept for two years. You could buy it in every market in the empire. You still can, at four times the price, from families in the camps who make it from the wrong milk and apologize before you taste it.
+
+They sang at the summer gathering in a style with no equivalent anywhere in the Nine Domains: two singers, one holding a single unbroken note while the other moves above it, so that the held note becomes a floor. It requires two people who have practiced together since childhood. There are fewer than thirty pairs left alive.
+
+They paid their taxes late, resented the Court, and would have told you they were the freest people in the empire, and they were probably right.
+
+#### The First Year
+
+In the spring of Year 403 a prospecting party working the southern edge of the province reported patches of ground that were warm to the touch and had turned a dull red, like brick dust worked into the soil. The patches were small. The largest was perhaps four paces across.
+
+They filed the report because they were required to file a report. The clerk who received it in the provincial seat classified it as a mineral anomaly, which was the correct classification available to him, and forwarded it to the Bureau of Celestial Inquiry, where it was received, logged, and shelved pending assignment of an investigator.
+
+No investigator was assigned. This was not negligence. The Bureau had eleven investigators for nine provinces and a backlog of four hundred anomalies, and a warm patch of ground in a herding province ranked, correctly, below a collapsing aqueduct.
+
+The herders noticed sooner and understood better. The animals would not graze near the patches. They would walk around them at a distance of ten paces without being driven, and they would do this even where the grass was thickest, and by autumn the older herders had begun to walk around them too, without discussing it.
+
+Nobody was hurt that year. Nothing happened. The patches did not spread noticeably. It was, in every sense available to anyone at the time, a nonevent.
+
+#### The Slow Years
+
+Between Year 404 and Year 411 the province had what it later understood was a warning, and what it experienced at the time as a series of unconnected inconveniences.
+
+The patches joined up. Not quickly. A person could stand at the edge of one in the fourth year and again in the sixth and not be certain it had moved. But the maps the herders kept in their heads, which were extremely good, told them the summer pasture was smaller. Not gone. Smaller.
+
+So they moved the herds further north, onto ground that had always been marginal, and the marginal ground could not carry them, and the animals came into winter thin. Two hard winters in a row killed enough stock that families began to combine, which meant marriages arranged for reasons that had never had to be considered before, which meant quarrels that had nothing to do with the ground and everything to do with the ground.
+
+A herder named Ten Rivers walked into a red patch in Year 408 on a bet, took nine steps, and walked out. He was fine. He was fine for two months. Then he began to be unable to remember the names of his own animals, which for a herder is a category of memory as fundamental as language, and then he could not remember his sister, and then in the spring he walked south in the night and did not come back, and the search party found his body a week later, still warm, four days after he had died.
+
+That was the first death and everyone in the province knew about it within a month. What they concluded was not *the Dusk is coming*. What they concluded was *do not go into the red ground*, which was correct, useful, and completely insufficient.
+
+The province petitioned the Court in Year 409 for a survey. The petition was granted. A surveyor arrived in Year 411, spent six weeks, and produced an accurate and careful document recommending further study. It is in the Archives. It is a good piece of work by a competent man, and it is the last document about Scorch Field written by someone who believed the province had a future.
+
+#### The Year It Moved
+
+In Year 412 the ground stopped being slow.
+
+Nobody has ever explained why. Bone Script's teachers in the high forest will tell you the land had been asked to give more than was recorded and the difference finally came due, which is not a scientific statement and is not offered as one. The Bureau of Celestial Inquiry's position is that Dusk propagation is nonlinear and that Scorch Field crossed a threshold. Both of these are ways of saying that in the spring of that year the red ground began to advance at the speed of a walking man, and it did not stop for eight months.
+
+What it does is not burning, though the survivors all use fire words for it because there is no other vocabulary. Grass goes first, in minutes, curling and turning the color of old blood without smoke or heat. Then the topsoil, which does not char but simply loses the quality of being soil and becomes a red mineral dust that holds no water and grows nothing. Standing water turns and stays turned. Wood is slower. Stone appears untouched and is not; a stone that has been in Dusk for a season will crumble under a hard blow, along planes that were not there before.
+
+Animals that are caught in it die in about a day and are warm for a week afterward.
+
+People take longer, and this is the thing that made Scorch Field a horror rather than a disaster. A person who walks through Dusk and out again is usually fine. A person who lives in it for a season begins to lose things: names first, then faces, then the middle of their own life, then language. They do not become violent. They become quiet, and biddable, and they weep a thin red fluid from the eyes without any accompanying expression of grief, and they will follow you if you walk away from them.
+
+Families did not abandon these people. That is the detail the Court's records cannot accommodate and the survivors will not let go of. They carried them. For eleven days, in some cases. You will meet men in the camps in their sixties who carried a parent for a hundred and fifty li and will not discuss it, and their children know not to ask.
+
+#### The Finding
+
+Here is the part your players need, and it is not a story about a villain.
+
+In the eighth month of Year 412 the Governor of Scorch Field, a woman named Autumn Salt who had held the post for nineteen years and was by all accounts unremarkable and diligent, requested evacuation support: transport, grain, and resettlement authorization for four hundred thousand people.
+
+The request went to the Bureau of Border Harmony, which had been established seven years earlier with a mandate to coordinate existing resources and a budget that did not permit it to coordinate anything. Its director forwarded the request to the Grand Council with a supporting recommendation. This was the correct procedure and it was also the end of the matter, because the request now required an assessment.
+
+The assessment team was four people. They were in the province eleven days. Their finding runs to three pages and the operative sentence is this:
+
+> _The affected districts exhibit localized disharmony of a severity not presently warranting the extraordinary measure of provincial evacuation, provided that current containment practice is maintained._
+
+Every word of that is defensible. The affected districts were, at the moment of the survey, four of the province's nineteen. Provincial evacuation was in fact an extraordinary measure with no precedent since the Founding. Containment practice, meaning the herders' habit of walking around the red ground, was in fact being maintained.
+
+The finding does not say the province is safe. It says the evidence available does not meet the threshold for the largest logistical undertaking in three hundred years. Read it in the Archives and you will not find a lie in it.
+
+It was countersigned by four officials and processed by nineteen more. Not one of them did anything wrong. The assessment officer who wrote it was twenty six years old and working from his supervisor's template. The supervisor was managing a caseload of forty. The Council member who accepted the finding accepted it along with two hundred other items that week. The clerk who filed it filed four hundred documents that day and remembers none of them.
+
+This is what the players must feel, and it is the whole reason the Celestial Court is frightening: **there was no moment.** There is no room you can enter, no person you can confront, no decision you can reverse. Four hundred thousand people were killed by a threshold, a template, and a caseload.
+
+Governor Autumn Salt petitioned four more times. The fourth petition, in Year 413, is one page and is not a petition; it is a list of the districts that no longer report, with a note that she will continue to compile it for as long as there is anyone to compile it from. She did not evacuate. She had no authority to and she believed, correctly, that a governor who ordered an unauthorized mass movement would be replaced within a month by someone who would order the people back.
+
+She stayed. She is presumed dead. Her final compilation, twelve pages, arrived in the capital nine months after the province stopped existing, carried by a courier who had been running for seventeen days.
+
+#### The Walking Out
+
+There was never an evacuation. There was two years of people leaving.
+
+They left in family groups, on their own initiative, with their animals while they still had animals and on foot after. Nobody coordinated it. Nobody could, because coordinating it would have constituted the unauthorized mass movement that would have ended the coordinator's career and freedom. So four hundred thousand people made four hundred thousand individual decisions, and the roads east filled up, and the roads had never been built for this.
+
+The Court did not stop them. This should be understood precisely: the Court did not permit the evacuation and it also did not prevent it. Refugees were not turned back. They were simply not received, which meant no grain stations, no water depots, no way stations, no medical halls, and no legal status at the far end.
+
+It is roughly eleven hundred li from the Scorch Field seat to the capital's outer camps. In summer, on foot, with children and no depots.
+
+Somewhere between sixty and a hundred and forty thousand people arrived. Nobody knows the real figure, because arrival was never registered, because registration would have required a residence code, and the residence code for Scorch Field was withdrawn in Year 414 when the province was struck from the gazetteer.
+
+The struck province is the mechanism. Understand it and you understand the empire. Scorch Field was not erased to hide a crime. It was erased because a province that does not exist does not need a governor, a grain allocation, a garrison, or a seat, and removing it from the register resolved forty separate administrative problems in a single stroke, each of which was individually reasonable.
+
+The consequence, which nobody intended and nobody could reverse, was that the survivors became people from nowhere. Not persecuted. Not hunted. Just holding a residence token stamped with a code that no longer corresponds to any place, which cannot be renewed, exchanged, or inherited, and which means their children cannot enroll, marry on the record, or be buried under their own names.
+
+#### The Camps, Which Are Still There
+
+Thirty eight years later there are eleven camps outside the capital's outer wall. They are not camps. They have brick buildings, three generations, a market, four shrines, a smuggling economy, and an internal politics more complex than most prefectures.
+
+They also have no legal existence, which means no assessments, no conscription, no tax, and no Commission office. This is why they are the freest ground in the Nine Domains and why the Court is more frightened of them than of any faction in the Council chamber.
+
+The Scorch Field community keeps goats on thin grass that is not their grass and makes the cheese wrong and knows it. They hold the summer gathering on the correct day. The two singer style is taught to children who have never seen the plain, and the elders correct the pronunciation of place names that no longer exist, harshly, because it is the only enforcement left available to them.
+
+The generation born in the camps is now in its thirties, and it does not remember, and it is angry in a way its parents are not. The parents are grieving. The children are political. Iron Bone came out of exactly this, and so did three quarters of the Common Flame's organizers, and the Court has never once traced the connection in writing, because writing it down would require naming a province that does not exist.
+
+#### What Is Still True
+
+There is a courier still running. Not literally. But every child in the camps knows the story of the Last Messenger, who carried a warning for seventeen days to a capital where no one read it, and who is still out there in the red ground, still carrying it, and who will not stop until someone takes the letter and opens it. It is a children's story. It is also, precisely, what happened, and the elders tell it deadpan and let the children decide.
+
+There are people in the capital who ate that cheese as children and have not thought about the province in decades, and who would be genuinely upset to learn what happened, and who will never learn, because there is no document in which it is written down as a thing that happened rather than a series of correctly processed items.
+
+There are three more border provinces. Two remain.
+
+And there is a shelf in the Bureau of Border Harmony's fourth room, the current small room, holding the complete Scorch Field file: the prospecting report, the mineral anomaly classification, the surveyor's careful recommendation, the three page finding, the four petitions, the twelve page final compilation, and the withdrawal of the residence code. It is about a hand's width of paper. It is all in order. Any clerk may request it.
+
+Nobody ever does.
 
 ---
 
@@ -841,19 +1093,45 @@ So they decline. Not in protest; there is nothing to protest, and no one to prot
 
 The Court has no instrument for this. Every tool it possesses is designed to stop people from doing something. It has never in three hundred years needed to make people start.
 
-### What the Three Stewardships Teach
+### What the Clerks Say
 
-Give this to your players slowly, across a campaign. Do not lecture. Let them derive it.
+None of the following is written down. All of it is known by every brush scribe in the Ministry within a month of starting. Use these the way you would use weather: constantly, without comment, until the players start saying them too.
 
-**Narrative control precedes every other power.** The Ledger Hand rewrote who could belong. The Accord could not control the story and therefore could not govern. The Iron Brush controls it absolutely and has therefore made every other faction dependent on him for the meaning of their own actions. Whoever holds the Bureau of Harmonious Narrative decides what happened, and what happened is the only thing that is real in a Court that runs on paper.
+**"The brush eats first."**
+Said when someone is surprised that the office which writes the report has more power than the office which does the work. Usually said by an older clerk to a younger one, with mild sympathy, while eating.
 
-**Every apparatus outlives its emergency.** The Bureau of Internal Harmony tripled in size because ten thousand people stood in a circle. The sealing protocols were built for a plague. Nothing is ever dismantled. The empire your players inhabit is a museum of solutions to problems that ended decades ago, each solution still funded, still staffed, still hungry.
+**"Nothing is closed. It is moved to a smaller room."**
+The Bureau of Border Harmony has occupied four smaller rooms in thirty years and has never once been abolished. Clerks say this about offices, and also about grudges, and also about people.
 
-**The succession problem is never solved, only postponed.** The Sealing created it. The Age of Harmony contained it for a century with an unwritten rule. The rule is gone. There is no mechanism, no heir, no procedure. Every elder in the Grand Council is privately calculating what happens on the day the Iron Brush dies, and none of them can discuss it with another, because to discuss it is to have prepared for it, and to have prepared for it is a serious violation of discipline and law.
+**"Ask it in the garden."**
+Meaning: that question cannot be asked indoors. There is a specific garden, behind the Ministry's east wing, with a fountain that has run continuously for two hundred years and makes conversation at three paces inaudible. The fountain is repaired promptly whenever it fails. Everyone understands why. Nobody has ever put the reason in a requisition.
 
-**The system selects for the trait that destroys it.** At every level, the official who reports a problem is punished and the official who conceals it is usually safe. This is not a flaw that the Court has failed to notice. It is the Court's central operating principle, applied recursively, and it is the reason the Dusk was allowed to consume two provinces before anyone in the capital was permitted to say the word.
+**"He smelled the smoke."**
+Said of a colleague who reported a problem and was destroyed for it. Never said with contempt. Said the way you would say that someone drowned.
 
-**A campaign of genuine anti corruption and a campaign of consolidation are indistinguishable from inside.** Your players will never be able to tell. Neither can the officials. Neither, on his worst nights, can the Iron Brush.
+**"A clean hand and an empty seat look the same from above."**
+Meaning: your innocence is not visible from where the decision is made. Junior clerks find this cynical. Senior clerks find it comforting, which is worse.
+
+**"He is burying the carriage."**
+Said when an official explains something in a way that insults the listener's intelligence. See the Second Stewardship. The phrase has outlived every person who witnessed the event, and most people who use it could not tell you where it comes from.
+
+**"Do not congratulate the promoted."**
+Superstition, and universal. When a colleague is elevated unusually fast, you say nothing, you give nothing, and you do not attend the dinner. Some say this is because rapid promotion precedes investigation. Others say it is simply bad luck. Both groups behave identically.
+
+**"Wait for the second bell."**
+Meaning: do not act on the first version of any order. There will be a second version. There is always a second version. Clerks who act on the first version are the ones whose names appear in corrections.
+
+Alongside the sayings there are the practices, which no one will explain to an outsider.
+
+A dead official's inkstone is never reused. It is wrapped and put in the storeroom, and the storeroom on the fourth floor of the Ministry now holds eleven hundred wrapped inkstones, and the man whose job it is to maintain that room speaks of them the way a groundskeeper speaks of graves.
+
+Nobody walks the third floor east corridor after the evening bell. There is no rule. There is no incident anyone can name. New clerks are simply walked around it by whoever is showing them the building, and if they ask, they are told that it is longer but the floor is better.
+
+When your name is written in vermilion on any document for any reason, you eat well that night. You buy something you would not normally buy. You do not explain this to your family. Everyone in the Ministry does it and no two people would give the same reason.
+
+And on the last day of the year, every clerk in the Bureau of Harmonious Records writes one true sentence on a slip of paper, walks to the brazier in the courtyard, and burns it unread by anyone. This is not permitted. It is also not prohibited, because to prohibit it would require describing it in a regulation, and no one has ever been willing to be the person who writes that regulation down.
+
+**For the Host.** Do not explain any of this. Let a clerk say "the brush eats first" and move on. If your players ask what it means, have the clerk look faintly embarrassed, as people do when asked to explain a proverb, and say: it means what it says.
 
 ### Scene Seeds from the Stewardships
 
