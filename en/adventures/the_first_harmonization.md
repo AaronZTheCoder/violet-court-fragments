@@ -9,7 +9,7 @@
 
 ## Adventure Overview
 
-The players are newly assigned officials in the Outer Court of Tianjing. They have been in the capital less than a month. They know the basic shape of the Court: the six schools, the major figures, the constant low grade terror of saying the wrong thing to the wrong person. They have not yet been tested.
+The players are newly assigned officials in the Outer Court of Xiaoyuan. They have been in the capital less than a month. They know the basic shape of the Court: the six schools, the major figures, the constant low grade terror of saying the wrong thing to the wrong person. They have not yet been tested.
 
 This adventure tests them.
 
@@ -86,13 +86,13 @@ For this adventure, the Court's baseline Harmony begins at approximately 50 (Low
 
 THE FIRST HARMONIZATION works best when the Host leans into three tonal notes: cosmic dread, bureaucratic terror, and the fragile hope of people trying to do good in a system designed to break them.
 
-The Court of Tianjing is not evil in the way a monster is evil. It is evil in the way gravity is evil. It does not hate you. It does not know you exist. It simply applies pressure from all sides until something gives. This is the feeling to cultivate at the table: the sense that the machinery of the empire is vast, indifferent, and capable of grinding anyone into component parts. The horror of this adventure is not in what leaps out from shadows. It is in what sits calmly across from you, offering you a pen, asking you to sign.
+The Court of Xiaoyuan is not evil in the way a monster is evil. It is evil in the way gravity is evil. It does not hate you. It does not know you exist. It simply applies pressure from all sides until something gives. This is the feeling to cultivate at the table: the sense that the machinery of the empire is vast, indifferent, and capable of grinding anyone into component parts. The horror of this adventure is not in what leaps out from shadows. It is in what sits calmly across from you, offering you a pen, asking you to sign.
 
 Pacing should follow a deliberate rhythm. The first session is slow and paranoid. The players should feel the weight of not knowing who to trust. The second session accelerates as demands collide and the players realize they cannot satisfy everyone. The third session is the Audit itself: sharp, merciless, and over before anyone fully understands what happened. Let silences stretch across the table. Let players sit with their choices. Do not rush the moment when a player must decide whether to sign a colleague's death warrant.
 
 ### Opening Read Aloud for Session One
 
-The air in Tianjing tastes of ink and incense and something else. Something metallic, like old blood that has been scrubbed away but never fully cleaned. The sun is a pale disc behind the perpetual haze that hangs over the capital. You have been here three weeks. You have learned the names of your superiors. You have learned which corridors to avoid. You have learned that questions are dangerous. And still, every morning when you enter your office, you feel like a stranger wearing someone else's clothes.
+The air in Xiaoyuan tastes of ink and incense and something else. Something metallic, like old blood that has been scrubbed away but never fully cleaned. The sun is a pale disc behind the perpetual haze that hangs over the capital. You have been here three weeks. You have learned the names of your superiors. You have learned which corridors to avoid. You have learned that questions are dangerous. And still, every morning when you enter your office, you feel like a stranger wearing someone else's clothes.
 
 A junior scribe is approaching your door. They do not knock. That has never happened before.
 
@@ -460,7 +460,7 @@ He is walking away when he stops. His back is to the players. His voice is rough
 >
 > **Duke of Eternal Night (Vampire):** Officer Tien's pulse is rapid but steady. He is afraid, but he is not lying. Everything he says is true as he understands it. You can hear the truth in the rhythm of his heart.
 >
-> **Iron Bone (Werewolf):** The Ministry corridors carry thousands of scents. But Xun carries one you recognize: the smell of a specific incense used in Dusk-touched areas. He has been near the Grey recently. Not at the border; here, in the capital. There is Dusk contamination in Tianjing itself. Make a Resolve TN 12 check to keep this knowledge from shaking your composure.
+> **Iron Bone (Werewolf):** The Ministry corridors carry thousands of scents. But Xun carries one you recognize: the smell of a specific incense used in Dusk-touched areas. He has been near the Grey recently. Not at the border; here, in the capital. There is Dusk contamination in Xiaoyuan itself. Make a Resolve TN 12 check to keep this knowledge from shaking your composure.
 >
 > **Celestial Book (Wizard):** The Archives where Xun works have a specific magical signature: old, layered, sedimented like geological strata. Each decade of the Court's history has left its own imprint. If you return to the Archives later, you could use this knowledge to find records from specific time periods by following the magical residue.
 
@@ -470,14 +470,14 @@ As Part One concludes, the world shifts subtly based on the players' actions and
 
 - **If the players investigated the warning note or consulted NPCs:** A junior clerk you do not recognize nods to you in the corridor. They look away when you meet their eyes. The Court is watching to see what you do with what you have learned.
 - **If the players have standing +10 or higher with any school:** A messenger passes you in the hall without stopping. They drop a folded piece of paper. They do not look back. The paper contains a single sentence: "We know you received the note. We are waiting to see what you do next." There is no signature. The seal is nondescript.
-- **If the players have standing -10 or lower with any school:** A door closes as you approach it. A conversation stops when you enter a room. The walls have ears in Tianjing, and some of those ears belong to people who do not wish you well.
+- **If the players have standing -10 or lower with any school:** A door closes as you approach it. A conversation stops when you enter a room. The walls have ears in Xiaoyuan, and some of those ears belong to people who do not wish you well.
 - **Regardless of standing:** The city feels heavier than it did this morning. The air tastes different. Something has begun that cannot be stopped. The players will feel this weight in every scene that follows.
 
 ### Weather and Time: The Second Morning
 
 The Host may read this passage at the start of the second in game day, after the players have had a night to process the warning.
 
-Dawn comes slowly to Tianjing. The haze that hangs over the capital does not lift with the sun; it thins, like milk stirred into water, revealing the shapes of buildings and towers without ever quite showing them clearly. The light is the color of old linen, grey with a tinge of yellow at the eastern edge where the sun burns behind the curtain of smoke and mist.
+Dawn comes slowly to Xiaoyuan. The haze that hangs over the capital does not lift with the sun; it thins, like milk stirred into water, revealing the shapes of buildings and towers without ever quite showing them clearly. The light is the color of old linen, grey with a tinge of yellow at the eastern edge where the sun burns behind the curtain of smoke and mist.
 
 The air is cold. It carries the smell of wet stone and coal fires being lit in a thousand kitchens. From somewhere distant, you hear the first bells of the morning: the Temple of Ancestral Reflection, calling the city to prayer. The bells are answered by a deeper sound, a gong from the Imperial complex, and then by a third, higher bell from a shrine you cannot place. The three tones overlap and separate and overlap again, a conversation in metal that the city has been having every morning for longer than anyone can remember.
 
@@ -965,7 +965,7 @@ Let the players strategize. Do not rush them. This is the adventure's central de
 >
 > **Night Warbler (Assassin):** This is the point in the operation where you assess the damage. Which schools have been offended? Which NPCs have seen your faces? Who might testify against you? You begin compiling a list of loose ends. You know how to tie them, one way or another.
 >
-> **Guest Among Forests (Elf):** The city itself has a mood, and you can feel it shifting. The plants in the Ministry courtyard are curling inward. The market birds have fallen silent. Tianjing knows something is coming. The natural world always knows before people do.
+> **Guest Among Forests (Elf):** The city itself has a mood, and you can feel it shifting. The plants in the Ministry courtyard are curling inward. The market birds have fallen silent. Xiaoyuan knows something is coming. The natural world always knows before people do.
 >
 > **Iron Calculation (Engineer):** You calculate the optimal path forward. Given the demands made, the obligations incurred, and the information gathered, you estimate a 34% chance of all players surviving the Audit with standing intact. The number improves or worsens based on what happens next. Optimization is ongoing.
 >
@@ -996,7 +996,7 @@ As Part Two concludes, the factional landscape shifts in visible and invisible w
 
 The Host may read this passage at the start of the day when the players begin their deeper investigation, roughly three days into the week.
 
-The day breaks grey and windless. The haze that usually hangs over Tianjing has settled lower than before, pressing down on the rooftops like a ceiling of dirty cotton. The air is thick and still. Sounds carry differently today: a cart driver's curse echoes off walls that should have absorbed it, a child's cough rings out sharp and clear from three streets away. The city is holding its breath.
+The day breaks grey and windless. The haze that usually hangs over Xiaoyuan has settled lower than before, pressing down on the rooftops like a ceiling of dirty cotton. The air is thick and still. Sounds carry differently today: a cart driver's curse echoes off walls that should have absorbed it, a child's cough rings out sharp and clear from three streets away. The city is holding its breath.
 
 The temperature has dropped overnight. Your breath fogs in front of your face. The cobblestones are slick with a thin layer of frost that will not burn off until midday, if it burns off at all. The cold seeps through the soles of your shoes, through the walls of the Ministry, through the stone itself. It is the kind of cold that does not come from the weather. It comes from below. It comes from the deep earth, from the places where the foundations of the city rest on soil that has not seen sunlight in a thousand years.
 
@@ -1022,7 +1022,7 @@ You pass through the market and leave it behind. The smells fade. The sounds dim
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The baker's rolls contain an ingredient you recognize: a small amount of powdered ginger root, added to the dough before baking. Ginger warms the body and sharpens the mind. It is a common addition to morning food in Tianjing, but you know its origins lie in the border provinces, where people eat it before facing the cold dawn. The city's cuisine carries the memory of places the Court has forgotten.
+> **Cinnabar Heart (Alchemist):** The baker's rolls contain an ingredient you recognize: a small amount of powdered ginger root, added to the dough before baking. Ginger warms the body and sharpens the mind. It is a common addition to morning food in Xiaoyuan, but you know its origins lie in the border provinces, where people eat it before facing the cold dawn. The city's cuisine carries the memory of places the Court has forgotten.
 >
 > **Night Warbler (Assassin):** The fishmonger's stall provides excellent vantage coverage. From his position, you can see three approaches to the market square, two alley exits, and the main Ministry gate. The fishmonger himself moves with the rhythm of someone who has done this for years, but his eyes are sharp. He notices the player who lingers too long, the official who walks with too much purpose. He is a witness. He is always a witness.
 >
@@ -1269,7 +1269,7 @@ As the investigation deepens, the world around the players responds:
 
 The Host may read this passage at the start of the day before the Audit, when the players enter the Preparation phase.
 
-The sun rises late over Tianjing on the morning before the Audit. The haze that usually begins as a thin veil and thickens through the day is already dense at dawn, swallowing the eastern towers of the Imperial complex before the first bells have finished ringing. The light that reaches the streets is diffuse, sourceless, like the glow inside a tent made of dirty canvas. The city is wrapped in a cocoon of grey.
+The sun rises late over Xiaoyuan on the morning before the Audit. The haze that usually begins as a thin veil and thickens through the day is already dense at dawn, swallowing the eastern towers of the Imperial complex before the first bells have finished ringing. The light that reaches the streets is diffuse, sourceless, like the glow inside a tent made of dirty canvas. The city is wrapped in a cocoon of grey.
 
 The air is warmer than it has been all week. An unnatural warmth, damp and oppressive, as if the city is breathing on you. The frost that coated the cobblestones yesterday has been replaced by a fine layer of moisture that makes every surface gleam. The stones look oiled. The rooftops look wet. Your own skin feels slick within minutes of stepping outside. The warmth is not a relief from the cold. It is a different kind of pressure, heavier, more intimate. It presses against your chest and makes each breath feel like a negotiation.
 
@@ -1473,7 +1473,7 @@ On your pillow, a single object: a crimson flower petal. Fresh. Perfectly preser
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The crimson flower petal is not from any plant native to Tianjing. It is a desert bloom, preserved in a specific resin. The resin's formula is distinctive; it comes from the Crimson Lineage's ancestral territories, a thousand li to the west. The message is not just a threat. It is a signature. They want you to know exactly who sent it.
+> **Cinnabar Heart (Alchemist):** The crimson flower petal is not from any plant native to Xiaoyuan. It is a desert bloom, preserved in a specific resin. The resin's formula is distinctive; it comes from the Crimson Lineage's ancestral territories, a thousand li to the west. The message is not just a threat. It is a signature. They want you to know exactly who sent it.
 >
 > **Night Warbler (Assassin):** The search of your quarters was professional. Nothing was broken. Nothing was taken. They were not looking for documents or valuables; they were leaving a message. The message is that they can enter your locked room at any time. The petal is the period at the end of the sentence.
 >
@@ -1533,7 +1533,7 @@ If the players helped the Verdant Path smuggle the official out, the embezzlemen
 >
 > **Shadow (Rogue):** Hiding evidence is an art. You know the best places in the Ministry: behind the loose stone in the third-floor alcove, inside the hollow leg of the reading room table, beneath the floorboard in the unused storage room. The Commission will search standard locations. They will not find what you have hidden. _If the Shadow is a player character, you have a personal cache in the Ministry that no one else knows about. Roll Presence + Intrigue TN 12 to see if you have stashed anything useful there in advance._
 >
-> **Duke of Eternal Night (Vampire):** The final night before the Audit, you do not sleep. You stand at the window, watching the stars wheel overhead. The constellations are different here than in your homeland. You have been in Tianjing long enough that the sky is starting to feel familiar. That is dangerous. Familiarity breeds attachment, and attachment breeds vulnerability.
+> **Duke of Eternal Night (Vampire):** The final night before the Audit, you do not sleep. You stand at the window, watching the stars wheel overhead. The constellations are different here than in your homeland. You have been in Xiaoyuan long enough that the sky is starting to feel familiar. That is dangerous. Familiarity breeds attachment, and attachment breeds vulnerability.
 >
 > **Iron Bone (Werewolf):** The stress of the Preparation phase makes the wolf restless. Every hour brings it closer to the surface. Make a Resolve TN 14 check. On success, you keep it contained. On failure, you snap at a party member or pace the room like a caged animal. The others see the wildness in your eyes. Some of them may already know.
 >
@@ -1901,7 +1901,7 @@ Their desk is empty. The Commission has already collected their personal effects
 
 No one speaks their name. Not in your office. Not in the corridors. Not in the dining hall. It is as if they never existed. The files will be sealed. The records will be amended. By next week, there will be no evidence that they ever worked in this Ministry. The Court is efficient in its erasures.
 
-But you remember. You remember their face. You remember their voice. You remember the choices that led to that chair. You will carry that memory. It will change you. It will change how you move through this Court. You have learned the first lesson of Tianjing: no one is safe. No one is protected. No one matters except insofar as they are useful.
+But you remember. You remember their face. You remember their voice. You remember the choices that led to that chair. You will carry that memory. It will change you. It will change how you move through this Court. You have learned the first lesson of Xiaoyuan: no one is safe. No one is protected. No one matters except insofar as they are useful.
 
 You will be useful. Or you will be next.
 
@@ -1937,12 +1937,12 @@ As the Audit concludes and the dust settles, the world reshapes itself around th
 - **If the player was Sanctioned:** The border posting is a punishment, but it is also an opportunity. The officials who sent you there expect you to vanish into obscurity. They do not know that the border is where the Dusk is closest, where secrets are cheapest, and where a person with nothing left to lose can become very dangerous.
 - **If the player was Harmonized (Disappeared):** The silence is absolute. Your name is not spoken. Your desk is cleared before the day ends. But somewhere in the city, the Shadow makes a note of your name. She will remember. In future adventures, a fragment of your fate may surface; a message, a clue, a whisper from the depths of the Commission's facilities. The Harmonized are not always gone forever.
 - **If the players gained standing with a school during the Audit:** A formal invitation arrives within a week. The school wants to debrief, to thank, to bind you closer. The invitation is polite, but the subtext is clear: you owe them, and they intend to collect.
-- **If the players lost standing with a school during the Audit:** That school's agents watch from a distance. They do not approach. They do not threaten. They wait. In Tianjing, patience is a weapon, and the old families and schools have centuries of practice.
+- **If the players lost standing with a school during the Audit:** That school's agents watch from a distance. They do not approach. They do not threaten. They wait. In Xiaoyuan, patience is a weapon, and the old families and schools have centuries of practice.
 - **Regardless of outcome:** The city continues. The markets reopen. The scribes return to their scrolls. The dead tree in the courtyard is removed and replaced with a new sapling; a gesture of renewal that feels obscene in its optimism. The new tree will grow in poisoned soil. Everyone knows this. No one comments on it. The Court does not acknowledge its failures.
 
 ### Where Do We Go From Here
 
-THE FIRST HARMONIZATION is designed as an introduction to the Court of Tianjing. The players have learned the rules. They have felt the pressure. They have made choices with consequences. Now the campaign continues.
+THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan. The players have learned the rules. They have felt the pressure. They have made choices with consequences. Now the campaign continues.
 
 **Immediate Hooks (Next Session):**
 
@@ -1956,7 +1956,7 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Tianjing.
 
 **Long Term Hooks (Campaign Arc):**
 
-5. **The Dusk Breach.** Ash is only the beginning. Reports arrive from the border: the Dusk is spreading faster than predicted. Towns are falling. Refugees are arriving with stories of something moving in the Grey. The Court is not prepared. The players may be sent to investigate, or the Dusk may come to Tianjing itself. The stolen Qi from the Crimson Lineage warehouses may be connected to the Dusk's advance. Someone has been stockpiling refined Qi, and the Dusk has been growing stronger. The two facts cannot be unrelated.
+5. **The Dusk Breach.** Ash is only the beginning. Reports arrive from the border: the Dusk is spreading faster than predicted. Towns are falling. Refugees are arriving with stories of something moving in the Grey. The Court is not prepared. The players may be sent to investigate, or the Dusk may come to Xiaoyuan itself. The stolen Qi from the Crimson Lineage warehouses may be connected to the Dusk's advance. Someone has been stockpiling refined Qi, and the Dusk has been growing stronger. The two facts cannot be unrelated.
 
 6. **The Predecessor's Legacy.** The Harmonized official Yun Shu had a family. A sibling arrives in the capital, asking questions. They know the players now hold the position their sibling once held. They want answers. They want justice. They may become allies or enemies, depending on how the players respond. The sibling carries a sealed letter from Yun Shu, written before the Audit, containing a name the Shadow did not include in her warning. A name that connects the Qi theft, the Golden Orthodoxy, and the Crimson Lineage in a single thread.
 
@@ -1968,7 +1968,7 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Tianjing.
 
 10. **The Nature of the Audits.** The deeper mystery remains: why do the Harmonization Audits happen? Who truly controls the Commission? What is being hidden? Each Audit reveals another piece of the truth. Each piece is more disturbing than the last. The players may eventually discover that the Audits serve a purpose no one in the Court speaks of aloud. The Harmonized are not simply executed or imprisoned. They are processed, their Qi extracted, their memories catalogued, their spiritual essence fed into something that sustains the Court's power. The Audits are not inspections. They are harvests.
 
-11. **The Teahouse Keeper's Network.** The old woman who runs the Teahouse of Whispered Petitions has been watching the players. She knows what they did during the Audit. She knows who they helped and who they refused. She sends a message: a single dried jasmine flower, delivered to the player's desk, with no note attached. The flower is a summons. The teahouse keeper has her own network, independent of the Verdant Path and the Shadow. She has been in Tianjing longer than both. She knows where the bodies are buried, literally and metaphorically. An invitation to tea from her is not a social call. It is an offer that cannot be refused.
+11. **The Teahouse Keeper's Network.** The old woman who runs the Teahouse of Whispered Petitions has been watching the players. She knows what they did during the Audit. She knows who they helped and who they refused. She sends a message: a single dried jasmine flower, delivered to the player's desk, with no note attached. The flower is a summons. The teahouse keeper has her own network, independent of the Verdant Path and the Shadow. She has been in Xiaoyuan longer than both. She knows where the bodies are buried, literally and metaphorically. An invitation to tea from her is not a social call. It is an offer that cannot be refused.
 
 > **ARCHETYPE THREADS**
 >
@@ -2188,7 +2188,7 @@ Print this for the players when Censor Wei presents it. Let them read every name
 
 ### Closing Notes for the Host
 
-This adventure was written to introduce the Court of Tianjing as a setting and the Harmonization Audit as an engine of tension. It works best when the Host trusts the atmosphere. Do not explain the Court's politics in detail. Let the players discover them through experience. Do not soften the consequences of failure. The Court is not fair. The adventure should not be either.
+This adventure was written to introduce the Court of Xiaoyuan as a setting and the Harmonization Audit as an engine of tension. It works best when the Host trusts the atmosphere. Do not explain the Court's politics in detail. Let the players discover them through experience. Do not soften the consequences of failure. The Court is not fair. The adventure should not be either.
 
 For groups that prefer less political intrigue, focus on the Investigation and the Audit. The Three Demands section can be streamlined: pick the two most interesting schools and let the third approach fail on its own. The players cannot do everything. That is the point.
 
@@ -2198,7 +2198,7 @@ For groups with a player who was Harmonized, offer that player the chance to con
 
 The threads planted in this adventure are designed to grow. The Shadow's network, the Crimson Lineage's conspiracy, the Dusk's advance, the Bright Mirror's investigation: each is a seed for a longer campaign. Let the players choose which thread to pull. The Court is large enough to contain many stories.
 
-Finally, remember that the Court of Tianjing is not a monolith. It is made of people: frightened clerks, ambitious officials, compromised idealists, tired soldiers, and a few rare individuals who have not yet surrendered their conscience. The players are among those rare individuals. That is why their story matters.
+Finally, remember that the Court of Xiaoyuan is not a monolith. It is made of people: frightened clerks, ambitious officials, compromised idealists, tired soldiers, and a few rare individuals who have not yet surrendered their conscience. The players are among those rare individuals. That is why their story matters.
 
 When in doubt, return to the sensory details. Describe the quality of light in a room. Describe the temperature of the air. Describe the sound of footsteps in a silent corridor. The Court comes alive in its small details. A single detail can do more to create atmosphere than a page of explanation. Trust your descriptions. Trust your players. Trust the story you are building together.
 

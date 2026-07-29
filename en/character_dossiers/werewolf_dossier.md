@@ -10,7 +10,7 @@
 
 ## Description
 
-You are two beings sharing one body. The first is a labor organizer, a community leader, a voice for those the empire has ground into dust. Warm, charismatic, the kind of person who remembers workers' children's names and eats with them in factory canteens. The second is the wolf: an ancient spirit of popular fury that found you in a labor camp where you had been left to die. The wolf is pure, undifferentiated rage. It cannot distinguish between a Grand Council elder and the street sweeper who works outside his palace.
+You are two beings sharing one body. The first is a labor organizer, a community leader, a voice for those the empire has ground into dust. Warm, charismatic, the kind of person who remembers workers' children's names and eats with them in factory canteens. The second is the wolf: an ancient spirit of popular fury that found you in a penal works where you had been left to die. The wolf is pure, undifferentiated rage. It cannot distinguish between a Grand Council elder and the street sweeper who works outside his palace.
 
 You are terrified of the wolf. You also know you need it. The empire does not respond to reason. It responds to power. The wolf is power. You are trying to control it. Some days you succeed. Some days you wake up covered in blood that may or may not belong to people who deserved it.
 
@@ -20,9 +20,9 @@ You were born in a factory town three days north of the capital, a place whose n
 
 You started working at the factory when you were nine. You carried coal. You swept ash. You crawled into spaces too small for adults and cleared the clogs that would have stopped production. You learned to read from an old woman who had been a teacher before the factory claimed her. She taught you in secret, after hours, by the light of a single oil lamp. She told you that knowledge was the only thing the owners could not take from you. She died of lung fever when you were fourteen. You still have the book she gave you, a collection of revolutionary poetry bound in cheap leather. You have read it so many times the pages have worn thin.
 
-The pivotal moment came when you were twenty two. You had become an organizer, quietly, carefully, building connections among the workers. You had helped coordinate a strike, a small one, a demand for safer conditions in the weaving shed. The strike failed. The Bright Mirror arrived. You were identified as a ringleader. You were sentenced to reeducation at a labor camp in the southern badlands.
+The pivotal moment came when you were twenty two. You had become an organizer, quietly, carefully, building connections among the workers. You had helped coordinate a strike, a small one, a demand for safer conditions in the weaving shed. The strike failed. The Bright Mirror arrived. You were identified as a ringleader. You were sentenced to instruction at a penal works in the southern badlands.
 
-The camp was not a place for reeducation. It was a place for disposal. You were starved, beaten, worked beyond exhaustion. You watched people die. You watched people kill each other for a crust of bread. You watched the guards place bets on how long new arrivals would last. You lasted longer than they expected. You lasted because you were angry. The anger was a furnace in your chest, a burning that would not go out no matter how much they took from you.
+The camp was not a place for instruction. It was a place for disposal. You were starved, beaten, worked beyond exhaustion. You watched people die. You watched people kill each other for a crust of bread. You watched the guards place bets on how long new arrivals would last. You lasted longer than they expected. You lasted because you were angry. The anger was a furnace in your chest, a burning that would not go out no matter how much they took from you.
 
 You do not remember the exact moment the wolf found you. You remember a fever, a wound that would not heal, a moment of surrender when you closed your eyes and waited for death. You remember waking up covered in the blood of guards. You remember the taste of it in your mouth. You remember the feeling of fur receding, bones reshaping, the wolf retreating back into whatever place it had come from. You escaped the camp that night. You walked north for three weeks. You did not stop walking until you reached the capital.
 
@@ -62,7 +62,7 @@ When alone, speaking to the wolf:
 
 **Duke of Eternal Night (Crimson Lineage Patriarch):** You have never spoken to the Duke directly. You have shouted at him across a Council chamber. You have named him in public speeches. You have called him a parasite and a leech and the living symbol of everything wrong with the empire. He smiled when you said it. He always smiles. This infuriates you more than anything else. You want him to feel something. You want him to respond. His indifference is a kind of violence and you do not know how to fight it. You have begun to suspect that the Duke is not your enemy in the way you thought. He is something worse. He is a man who has seen so much suffering that your suffering is merely interesting to him. You would rather have an enemy who hates you. At least hatred acknowledges your existence.
 
-**Celestial Book (Archivist):** The Archives contain records of the labor camp where you were imprisoned. You know this because Celestial Book told you, in a rare moment of direct communication. The Archivist sent you a letter, brief and precise, listing the camp's official designation, the names of its administrators, and the location of the records. You have not accessed them. You are not sure you want to. The records will tell you things you do not want to remember. You keep the letter in your pocket, folded and refolded until the paper has softened. You are not sure why you carry it. You are not sure why the Archivist sent it.
+**Celestial Book (Archivist):** The Archives contain records of the penal works where you were imprisoned. You know this because Celestial Book told you, in a rare moment of direct communication. The Archivist sent you a letter, brief and precise, listing the camp's official designation, the names of its administrators, and the location of the records. You have not accessed them. You are not sure you want to. The records will tell you things you do not want to remember. You keep the letter in your pocket, folded and refolded until the paper has softened. You are not sure why you carry it. You are not sure why the Archivist sent it.
 
 **Shadow (Information Broker):** You receive information from Shadow through cutouts, anonymous messages that arrive at your safe house with no return address. The information is always useful: guard rotation schedules, shipment routes, the names of officials who can be turned. You have never met Shadow in person. You do not know their name, their face, or their affiliation. You have tried to trace the messages. They are too clean. Shadow is good at hiding. You respect the skill even as it makes you uneasy. You wonder what Shadow wants from you. You wonder what price will eventually come due.
 
@@ -101,7 +101,7 @@ The interrogation has been going for six hours. They have used water. They have 
 
 ## Expanded Truths
 
-**Suggested Truth 1 (Existing):** The Crimson Dusk originated in the empire's labor camps. It is the accumulated suffering of millions, concentrated into a wound in reality. You know this because you were there when it began.
+**Suggested Truth 1 (Existing):** The Crimson Dusk originated in the empire's penal works. It is the accumulated suffering of millions, concentrated into a wound in reality. You know this because you were there when it began.
 _Complication:_ You were not merely present when it began. You were the catalyst. The wolf's first emergence, the night you escaped the camp, was the moment the Crimson Dusk first tore through the world. You did not cause it deliberately. But you caused it. The wound in reality is connected to the wound in you. You are not sure if healing one will heal the other or destroy both.
 
 **Suggested Truth 2 (Existing):** When the wolf is in control, you do not remember what happens. You wake up in places you do not recognize, with injuries you cannot explain.
@@ -223,7 +223,7 @@ You have Advantage on Endurance checks to resist physical hardship, torture, exh
 
 Choose one, or create your own with the Host:
 
-- The Crimson Dusk originated in the empire's labor camps. It is the accumulated suffering of millions, concentrated into a wound in reality. You know this because you were there when it began.
+- The Crimson Dusk originated in the empire's penal works. It is the accumulated suffering of millions, concentrated into a wound in reality. You know this because you were there when it began.
 - When the wolf is in control, you do not remember what happens. You wake up in places you do not recognize, with injuries you cannot explain.
 - You have a child. They are being raised by a family far from the capital, under a different name. They do not know who you are. You visit once a year, from a distance.
 - There is a list of names. Officials who personally ordered atrocities at the camp. You memorized the list. You burned the original. You have crossed off three names so far.
