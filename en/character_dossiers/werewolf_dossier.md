@@ -58,7 +58,7 @@ It was an assessment. An engineer at the Iron Calculation was asked which facili
 
 You do not know this. If you ever learn it, you will have to decide what to do with the fact that the man who broke you was not an enemy and did not think about you at all, and that his modeling shows the four month strike you wanted would have killed more people than the suppression did.
 
-**What you carry now.** You are forty four. You have organized for twenty two years, and the movement is larger and better than when you started, and you have gotten perhaps sixty people killed across that span through decisions that were reasonable at the time.
+**What you carry now.** You are forty four. You have organized for twenty five years, and the movement is larger and better than when you started, and you have gotten perhaps sixty people killed across that span through decisions that were reasonable at the time.
 
 You keep no list. You considered it once and decided that a list would be a way of feeling better, and that you had not earned feeling better.
 
