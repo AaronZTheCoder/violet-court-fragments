@@ -3400,7 +3400,7 @@ The empire is haunted. The following ghosts are among those that appear in stori
 
 **The Accountant Who Found the Truth.** A ghost that appears in the Counting House of the Eastern Foundries, a specter in a grey robe carrying an abacus that clicks without being touched. The accountant died when he discovered that the Counting House records had been falsified to cover up a massive diversion of resources. His ghost continues to audit the books, and when the abacus stops clicking, it means he has found a discrepancy.
 
-### The Northern Expanse: Spirit Songs
+### The Northern Expanse: Further Spirit Songs
 
 The forest peoples express their relationship with the world through song. The following are translations of traditional spirit songs.
 
@@ -3434,7 +3434,7 @@ When the children have forgotten
 How to speak the names of the dead,
 The Walking Mothers will rise.
 
-### Curses and Insults of the Empire
+### Curses and Insults: Regional Variants
 
 May your ink always run dry. A minor curse directed at scribes.
 Your Harmony score is zero. An accusation of worthlessness.
@@ -3447,7 +3447,7 @@ Your mother was a tenant farmer. An insult to lineage.
 Your apologies are worth less than a Harmonization promise. An expression of total distrust.
 The Iron Bodhisattva weeps for your courage. A sarcastic comment about cowardice.
 
-### Endgame Variants
+### Endgame Variants: Additional Outcomes
 
 Beyond the ten major endings, the Host may introduce variant endings triggered by specific player choices.
 

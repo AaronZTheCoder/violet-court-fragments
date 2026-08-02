@@ -292,3 +292,28 @@ What it feels like: Your memory has always been good. Now it has become somethin
 **Level 9: The Long Return.** Once per campaign, if you die in a natural setting, your body dissolves into living wood and new growth. One year later, you return. The Host determines the circumstances.
 
 What it feels like: You have always known this was possible. It is the oldest gift of your people, the one that separates you from the shorter lived races. When you die in a place where the world is still alive, the world takes you back. Your body becomes soil. Your bones become roots. Your memories become rings in the wood of a new tree. The year that follows is not unconsciousness. It is a dream. You dream of the earth. You dream of the network of roots that connects all living things. You dream of time moving at the pace of glaciers and stars. You do not want to wake. But the world calls you back, because your work is not done. When you emerge, you are changed. You are not the same person who died. Part of you remains in the soil, feeding the roots. Part of the soil remains in you. You carry the earth inside you now. You are slower, quieter, more distant. You speak less. You listen more. You are closer to the end of your long life. But you are not there yet. There is still work to do. And so you draw your bow, and you nock your arrow, and you wait for the right moment to release.
+
+---
+
+## Suggested Truths
+
+Choose one, or create your own with the Host:
+
+- The Crimson Dusk is a consequence of a founding ritual, not a punishment for heterodoxy. You know what the ritual was. You do not know how to undo it.
+- You remember the first Emperor's voice. You remember what the Court promised, and what it became, and you are the only living witness to the difference.
+- One of the Grand Council members is secretly an ally of the Verdant Path. You have protected their identity for years. If they were discovered, everything they have built would go with them.
+- Your people are not dying from the Dusk. They are dying from something slower: assimilation, erasure, and the grinding weight of an empire that does not see them as people.
+
+---
+
+## Advancement
+
+As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+
+**Level 3: Forest's Embrace.** While in a natural setting, you may spend 3 Qi to heal yourself or an ally you touch for 2d8 HP.
+
+**Level 5: Arrow of Seasons.** Once per combat, you may fire an arrow carrying a seasonal effect: Spring entangles the target for one round, Summer blinds, Autumn withers and deals an extra 2d6, Winter slows to half movement.
+
+**Level 7: Ancient Memory.** Once per session, you may declare that you remember a relevant event from the past. Work with the Host to determine what you recall.
+
+**Level 9: The Long Return.** Once per campaign, if you die in a natural setting, your body dissolves into living wood and new growth. One year later, you return. The Host determines what has changed in your absence, and what has changed in you.

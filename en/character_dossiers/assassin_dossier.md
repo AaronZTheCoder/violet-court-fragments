@@ -298,3 +298,28 @@ What it feels like: The world is becoming less solid to you. You can feel the sp
 **Level 9: Final Contract.** Once per campaign, you may name a target. For the next 24 hours, all rolls you make in pursuit of that target have Advantage. If the target survives, you die instead.
 
 What it feels like: You have always known you would die in service to the Bureau. Every operative knows this. But Final Contract is different. It is not a mission given to you. It is a promise you make to yourself. You choose the target. You choose the terms. For the first time in your life, your death will be your own decision. The weight of this is immense. You carry it in your chest like a second heart. When you activate Final Contract, the world narrows to a single point. Everything else falls away. The face of the target becomes the only thing that exists. You move through the world like a blade through water. You are not afraid. You have never been less afraid. The fear is reserved for what comes after, and in this moment there is no after. There is only the target and the distance between you and them. You close the distance. You have always closed the distance.
+
+---
+
+## Suggested Truths
+
+Choose one, or create your own with the Host:
+
+- You know who ordered the death of a specific senior official thirty years ago. It was recorded as natural causes. It was not.
+- Your parents were Harmonized when you were a child. You do not know who gave the order. You have been looking for twenty years.
+- You were ordered to kill a child once. You completed the mission. You have not slept a full night since.
+- You hold a sealed file containing the operational history of the Bureau for the last decade. If released, it would end several careers and at least two lives.
+
+---
+
+## Advancement
+
+As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+
+**Level 3: Vanish.** Once per session, you may disappear from a scene as a Free Interaction. You are simply gone. The Host determines where you reappear, but it will be somewhere you could plausibly have reached.
+
+**Level 5: Death Strike.** First Strike deals triple damage dice instead of double against targets below half HP.
+
+**Level 7: Ghost Protocol.** You may use Shadow Step three times per scene instead of once.
+
+**Level 9: Final Contract.** Once per campaign, you may name a target. For the next twenty four hours, all rolls you make in pursuit of that target have Advantage. If the target survives, you die.

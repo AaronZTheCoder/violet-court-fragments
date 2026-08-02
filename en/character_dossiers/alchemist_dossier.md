@@ -332,3 +332,28 @@ What it feels like: The first time you use this power, it terrifies you. You wat
 **Level 9: Philosopher's Secret.** Once per campaign, you may prepare the Philosopher's Elixir. Its effect is determined by the Host based on the campaign's needs. Legends say it can restore the dead. The legends do not mention the cost.
 
 What it feels like: You have been working toward this your entire life without knowing it. The recipe is not written anywhere. It comes to you in fragments: a formula glimpsed in a dream, an ingredient that appears in your alchemical kit without explanation, a phrase your master said to you years ago that you did not understand until now. Preparing the Philosopher's Elixir is not a technical process. It is a ritual of surrender. You pour everything you are into the mixture: your skill, your guilt, your hope, your despair. The elixir requires a piece of you that cannot be regrown. When you prepare it, you lose something permanent. You do not know what until it is gone. The elixir glows with a light that looks like dawn but feels like dusk. You do not drink it yourself. You are not sure you could. It is not meant for you. It is meant for a moment that has not yet arrived. You carry it in a vial against your chest, warm as a second heartbeat, waiting for the moment when the cost of using it will be worth the cost of making it.
+
+---
+
+## Suggested Truths
+
+Choose one, or create your own with the Host:
+
+- You have seen the workshop beneath the Spire where the jade edicts are carved. You know the Emperor's decrees are forged. You have never told anyone.
+- A senior official's illness was poison. You prepared it. You did not know what it was for until it was too late to matter.
+- You keep a separate and accurate chronicle of events, entirely unlike the official record. If it were found you would be Harmonized inside a week.
+- Someone inside the Bureau of Harmonious Narrative is altering records to protect one particular school. You have noticed the pattern. You do not yet know who.
+
+---
+
+## Advancement
+
+As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+
+**Level 3: Mass Transmutation.** You may use Transmutation of Truth on events you did not personally witness, provided you have access to the relevant records.
+
+**Level 5: Perfect Elixir.** When preparing elixirs, one additional elixir of each type is created at no extra cost.
+
+**Level 7: Narrative Rewrite.** On a Critical Success with Transmutation of Truth, you may alter not only the record but the memory of a single witness. They remember your version as the thing that happened.
+
+**Level 9: Philosopher's Secret.** Once per campaign, you may prepare the Philosopher's Elixir. Its effect is determined by the Host based on the campaign's needs. Legends say it can restore the dead. The legends do not mention the cost.
