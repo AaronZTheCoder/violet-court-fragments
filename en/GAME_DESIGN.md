@@ -1453,6 +1453,52 @@ The tailors of Xiaoyuan are the finest in the empire, capable of creating garmen
 
 **The Festival of Remembrance (Date Variable).** A somber festival held on the anniversary of major disasters: the Famine of the Red Harvest, the fall of Scorch Field, the Iron Rebellion. The festival is not officially sanctioned, but it is tolerated because suppressing it would cause more unrest than allowing it. On this day, people light candles for the dead and tell stories of what was lost. The Court does not attend. The Court's absence is noted.
 
+#### Things Worth Staying For
+
+Every other section of this book explains why the empire is a machine for grinding people down. This one exists because a world that is only that is not a world, it is an argument, and nobody wants to live inside an argument.
+
+Use this material constantly and without comment. The Dusk does not land on a table that has never been shown anything worth losing.
+
+**Nine Fold Bread.** Sold from carts before dawn in every prefecture, from a dough folded nine times with a thread of scallion oil between each fold, so that it comes apart in the hand like the pages of a book. It costs two copper. It is the same price it was two hundred years ago, because the guild that makes it has a rule about this that they have never explained to the Court and the Court has never thought to ask.
+
+The correct way to eat it is standing up, walking, too hot, burning your fingers. People who eat it sitting down are considered to be from somewhere else.
+
+**The Lantern Debt.** On the ninth night of the eighth month, you write on a paper lantern the name of someone who did you a kindness you never repaid, and you let it go from a bridge or a roof.
+
+That is the whole festival. It has no ceremony, no official standing, no procession, and no Bureau has ever been able to work out how to regulate it, because nothing is organized, everyone simply does it on the same night. The sky over Xiaoyuan on the ninth of the eighth is a slow river of light going upward, tens of thousands of lanterns, and everyone in the empire has stood on a roof at least once and cried about it and told nobody.
+
+The Court has tried three times to make it official. Each attempt produced a magnificent state ceremony that nobody attended, held two streets away from where people were actually letting lanterns go.
+
+**Ink That Remembers Warmth.** A minor craft, not a Technique, taught mother to daughter in the eastern prefectures. Ink ground with a particular clay holds the heat of the hand that wrote with it, and for about a month afterward, if you press your palm flat to the page, you can feel where the writer's hand rested and where it lifted.
+
+It is used for love letters, and for letters to soldiers, and by exactly one wing of the Bureau of Harmonious Records, who use it for nothing official and simply like it.
+
+**Rooftop Cats of the Inner City.** There are perhaps four hundred, they belong to nobody, and they are fed by an unbroken chain of officials who would all deny it.
+
+There is a genuine, entirely unofficial protocol. If a cat is on your windowsill at the hour of the Rat you feed it. If it is missing an ear it belongs to the Ministry of Rites and gets fish. A cat that walks into a meeting is not removed; the meeting pauses. Three separate Grand Council sessions in the last decade have been briefly suspended for this reason and it is in none of the minutes.
+
+**The Game of Nine Stones.** Played everywhere by everyone, on a grid scratched into any flat surface, with pebbles or coins or dumplings. It takes four minutes and the rules can be taught in thirty seconds. It is not a strategy game; it is a game about bluffing badly on purpose.
+
+Iron Wall is famously terrible at it. The Duke of Eternal Night has been playing for three hundred years and is only average, which delights him. Bone Script learned it in eleven minutes in the petitions queue and now runs a small undefeated streak that is the single most socially useful thing about him.
+
+**The Boat Songs.** The Court's approved music is formal, pentatonic, and correct. The river boatmen's music is none of those things.
+
+It is call and response, improvised, filthy, and frequently about specific named officials. It travels faster than any courier in the empire; a verse composed in a southern port has reached the capital's docks inside nine days, and the Bureau of Harmonious Narrative has given up entirely, because you cannot suppress a song that nobody wrote.
+
+Every single person reading this book in character knows at least one boat song and would be embarrassed to admit which.
+
+**What Children Do.** They collect Qi lamp glass. Street lamps in the capital use a thin colored glass that fractures rather than shatters, and the fragments hold a faint glow for two or three days. Children trade them by color. Blue is common, green is good, and a red one, which comes only from lamps near the Spire, will buy a week of favors from every child on the street.
+
+No adult has ever been able to determine the exchange rate. It changes. It is enforced absolutely.
+
+**The Teahouse of Whispered Petitions, at the wrong time of day.** The teahouse appears in the starter adventure as a place for a tense conversation. Go there at the second hour of afternoon instead, when it is empty, when the old woman is asleep in her chair, and when the light through the paper walls turns everything the color of weak tea.
+
+Nothing happens. That is the point. Let a player sit there for a scene and do nothing at all, and watch what it does to your table.
+
+**A Note on Using This.** Do not present any of it as a respite from the real content. It is the real content. The Court is frightening in proportion to what it is standing on top of, and what it is standing on top of is nine fold bread, and lanterns, and cats in a Council chamber, and a boat song about a censor's mistress that four hundred thousand people know by heart.
+
+When a province falls, the empire does not lose an administrative unit. It loses the only place where they made the cheese correctly.
+
 #### Marriage, Family, and Inheritance
 
 **Marriage.** Marriage in the empire is a contract between families, not individuals. Among the peasantry, young people have some say in their marriages. Among the Outer Court, marriages are arranged to strengthen professional alliances. Among the Inner Court and the Eight Great Families, marriages are strategic calculations, designed to consolidate power and produce heirs with the right bloodlines. Love is considered an irrelevant factor, and a dangerous one, because it introduces unpredictability.
