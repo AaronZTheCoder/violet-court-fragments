@@ -46,7 +46,7 @@ Understand this properly, because everyone who meets you now meets an administra
 
 You loved it. You were also, in those years, funnier than you are now, and had friends, and drank more than you should have with three particular colleagues, two of whom are dead and one of whom now reports on you.
 
-**The Hearthstone Healer, which is not your worst.** You were young. A healer was accused of forbidden Qi technique, you found evidence, you presented it, she was Harmonized, and a year later you learned the evidence had been planted by a rival and the technique had been reclassified without public notice.
+**The Hearthstone Healer, which is not your worst.** You were young. A healer was accused of using a forbidden Qi Technique, you found evidence, you presented it, she was Disappeared, and a year later you learned the evidence had been planted by a rival and the technique had been reclassified without public notice.
 
 You tell this story when people ask about regret. You have told it in training halls. It is a good story: it teaches humility, it warns against certainty, and it costs you nothing, because in it you were deceived.
 
@@ -60,7 +60,7 @@ He was also the only official in three prefectures who knew how the levee system
 
 You knew this by the sixth week. It is in your own notes. You wrote, in your own hand: _the diverted sums appear to be substantially reinvested in unlisted maintenance._ And then you completed the case, because the theft was real, because the law does not contain an exception for a man who steals well, and because you had already told the Commission you had him.
 
-He was Harmonized. His replacement was honest and knew nothing. The levee failed in the fourth year at a section that was not on any official map and that Cao had been repairing quietly since before you were posted.
+He was Disappeared. His replacement was honest and knew nothing. The levee failed in the fourth year at a section that was not on any official map and that Cao had been repairing quietly since before you were posted.
 
 Two thousand and forty people.
 
@@ -124,7 +124,7 @@ You will execute the order on the day that arithmetic changes. Incense Crown kno
 
 **Your Father, the Shadow Chaser.** You never knew him in life. You know him through his case files, which you requested from the Commission archives. He was a good investigator. He was not a great one. He was dogged, meticulous, and blind to the political consequences of his work. That blindness killed him. You have inherited it. You are trying to decide if that is an inheritance you want. His final case, the one that cost him his life, remains open. You have been working it in secret for years. You will finish it. You will finish it for him. You will finish it for yourself. You will finish it because the truth demands it.
 
-**Justicar Voss, Your Mentor.** Voss is the one who trained you in the Bright Mirror School. She was everything you wanted to become: certain, precise, untouchable. She taught you to read a lie in a person's eyes. She taught you to build a case that could not be broken. She taught you that justice was a blade that had to be kept sharp. And then you discovered that she had been taking payments from a Crimson Lineage family for years, suppressing investigations in exchange for gold. You published the evidence yourself. You nailed it to the Council chamber door. She was Harmonized. You were promoted. You felt proud for a single moment. Then the pride curdled. You have not trusted a mentor since. You have not trusted yourself since.
+**Justicar Voss, Your Mentor.** Voss is the one who trained you in the Bright Mirror School. She was everything you wanted to become: certain, precise, untouchable. She taught you to read a lie in a person's eyes. She taught you to build a case that could not be broken. She taught you that justice was a blade that had to be kept sharp. And then you discovered that she had been taking payments from a Crimson Lineage family for years, suppressing investigations in exchange for gold. You published the evidence yourself. You nailed it to the Council chamber door. She was Disappeared. You were promoted. You felt proud for a single moment. Then the pride curdled. You have not trusted a mentor since. You have not trusted yourself since.
 
 **The Hearthstone Healer's Ghost.** You do not know her name. You never asked. She was just a case to you when you were young. Now she is a recurring figure in your dreams. In the dreams, she does not accuse you. She simply looks at you with an expression you cannot read, which is the most terrifying thing of all. You are a Justicar. You can read everyone. You cannot read her. You sentenced her to death based on evidence you did not verify thoroughly enough. You have spent years trying to atone by being more careful, more thorough, more certain. You know it is not enough. It will never be enough.
 
@@ -187,7 +187,7 @@ The noble's smile falters. You have seen that falter a hundred times. It is the 
 **Truth 1: You possess sealed indictments against every living member of the Grand Council. You are waiting for the right moment to unseal them. You are not sure the moment will ever come.**
 _Complication:_ Someone has stolen one of the indictments. You do not know who. You do not know which one. The thief left no trace. You are investigating your own investigation.
 
-**Truth 2: Your mentor was corrupt. You discovered it. You published the evidence yourself, nailing it to the Council chamber door. They were Harmonized. You were promoted. You have never forgiven yourself for feeling proud.**
+**Truth 2: Your mentor was corrupt. You discovered it. You published the evidence yourself, nailing it to the Council chamber door. They were Disappeared. You were promoted. You have never forgiven yourself for feeling proud.**
 _Complication:_ Your mentor's followers believe you framed them. They have been working for years to gather evidence against you. You do not know if the evidence is true or fabricated.
 
 **Truth 3: There is a file in the Commission's restricted archives that you are not authorized to read. It has your name on it. You have tried to access it three times. Each time, you stopped at the last moment.**
@@ -236,14 +236,14 @@ What you dread most is the moment you discover that the corruption goes all the 
 
 | Facet     | Score | Modifier |
 | --------- | ----- | -------- |
-| Might     | 16    | +3       |
-| Swiftness | 12    | +1       |
-| Endurance | 16    | +3       |
-| Intellect | 14    | +2       |
+| Might     | 12    | +1       |
+| Swiftness | 10    | +0       |
+| Endurance | 14    | +2       |
+| Intellect | 12    | +1       |
 | Presence  | 18    | +4       |
-| Resolve   | 18    | +4       |
+| Resolve   | 16    | +3       |
 
-**Distribute 6 additional points among your Facets. No Facet may exceed 18 at character creation.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ---
 
@@ -255,7 +255,7 @@ What you dread most is the moment you discover that the corruption goes all the 
 | Qi Pool           | 10 + Intellect Modifier + 4         | Calculate |
 | Sanity            | 20 + Resolve Modifier               | Calculate |
 | Initiative        | Swiftness Modifier                  | Calculate |
-| Defense           | 10 + Swiftness Modifier + 2 (armor) | 13        |
+| Defense           | 10 + Swiftness Modifier + 2 (armor) | 12        |
 | Proficiency Bonus | Level 1                             | +2        |
 
 ---
@@ -309,14 +309,14 @@ You are immune to bribery, supernatural charm effects, and magical fear. This is
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                       |
-| ---------------- | -------- | ------------------------------------------- |
-| Golden Orthodoxy | +10      | You uphold the order they built.            |
-| Verdant Path     | -5       | They fear your investigations. They should. |
-| Iron Calculation | +5       | Efficiency and purity are compatible goals. |
-| Crimson Lineage  | -10      | You know what old families hide.            |
-| Common Flame     | -10      | You are the system they want to burn.       |
-| Bright Mirror    | +25      | You are the Commission's brightest flame.   |
+| School           | Faction Standing | Notes                                       |
+| ---------------- | ---------------- | ------------------------------------------- |
+| Golden Orthodoxy | +10              | You uphold the order they built.            |
+| Verdant Path     | -5               | They fear your investigations. They should. |
+| Iron Calculation | +5               | Efficiency and purity are compatible goals. |
+| Crimson Lineage  | -10              | You know what old families hide.            |
+| Common Flame     | -10              | You are the system they want to burn.       |
+| Bright Mirror    | +25              | You are the Commission's brightest flame.   |
 
 ---
 
@@ -325,7 +325,7 @@ You are immune to bribery, supernatural charm effects, and magical fear. This is
 Choose one, or create your own with the Host:
 
 - You possess sealed indictments against every living member of the Grand Council. You are waiting for the right moment to unseal them. You are not sure the moment will ever come. _(Complication: Someone has stolen one of the indictments. The thief left no trace. You are investigating your own investigation.)_
-- Your mentor was corrupt. You discovered it. You published the evidence yourself, nailing it to the Council chamber door. They were Harmonized. You were promoted. You have never forgiven yourself for feeling proud. _(Complication: Your mentor's followers believe you framed them. They have been gathering evidence against you for years.)_
+- Your mentor was corrupt. You discovered it. You published the evidence yourself, nailing it to the Council chamber door. They were Disappeared. You were promoted. You have never forgiven yourself for feeling proud. _(Complication: Your mentor's followers believe you framed them. They have been gathering evidence against you for years.)_
 - There is a file in the Commission's restricted archives that you are not authorized to read. It has your name on it. You have tried to access it three times. Each time, you stopped at the last moment. _(Complication: The file has been moved. Someone accessed it using forged credentials. Your credentials.)_
 - You investigated a case last year that led to an innocent person's Harmonization. The evidence was fabricated. You did not fabricate it. But you did not question it closely enough. You are still investigating who set the trap and why. _(Complication: You have found the fabricator. It was your assistant. They still work for you. They do not know you know.)_
 - Your father's final case is not closed. His killers are still alive. They are powerful. They have sent you warnings. A dead flower on your desk. A burned letter in your quarters. A shadow that follows you home. You have not stopped.

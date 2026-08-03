@@ -107,7 +107,7 @@ To comfort an ally who is being blackmailed:
 "The person who holds leverage over you is trying to control you. The moment you accept that you cannot be controlled, the leverage vanishes. You have to be willing to lose everything. That is the hardest thing. But once you are willing to lose it all, no one can take anything from you."
 
 When your philosophy of pragmatic survival is challenged by someone who believes in principles:
-"You call it cowardice. I call it being alive. I have survived things that would have killed a person with your principles. I am still here. The people who refused to compromise, who stood on their ideals, who would not bend, they are not here. They are dead or Harmonized or forgotten. I am here. That is not a justification. It is a fact."
+"You call it cowardice. I call it being alive. I have survived things that would have killed a person with your principles. I am still here. The people who refused to compromise, who stood on their ideals, who would not bend, they are not here. They are dead or Disappeared or forgotten. I am here. That is not a justification. It is a fact."
 
 When alone, going through your files by candlelight:
 "Every person in this city has a secret. Every official has a weakness. Every faction has a crack. I have built a map of all those cracks. I know where the pressure points are. I know who will break and who will hold. I am the only person who sees the whole picture. If I died tonight, the knowledge would die with me. Maybe that would be a mercy. Maybe the city deserves to crumble under the weight of its own secrets. But I am still here. I am still keeping the map. I do not know why."
@@ -124,7 +124,7 @@ When alone, going through your files by candlelight:
 
 **Your Mother (retired, Warrens resident):** You visit her twice a year, always in disguise, always at the teahouse where she still takes afternoon tea with her friends. You sit at a different table. You watch her laugh, argue, complain about the price of fish. She looks older each time. She looks happy. She has no idea the well dressed stranger in the corner is her child. You want to tell her. You know you cannot. The people who want you dead would use her to reach you. So you sit in corners and watch and leave extra copper with the teahouse owner to cover her tab.
 
-**The Person You Betrayed (Verdant Path courier, fate unknown):** You do not know her name. You never asked. That was part of the arrangement. You knew her by her route and her schedule. You knew she had a fondness for a specific brand of tea, that she hummed while she walked, that she always checked her left side first when entering a room. You sold those details to the Bright Mirror for one hundred and twenty copper leaves. You spent the money on a safe house that you abandoned within a month. You have tried to find out what happened to her. The records are sealed. The Bright Mirror does not discuss Harmonization cases. You look for her face in crowds. You have not found it.
+**The Person You Betrayed (Verdant Path courier, fate unknown):** You do not know her name. You never asked. That was part of the arrangement. You knew her by her route and her schedule. You knew she had a fondness for a specific brand of tea, that she hummed while she walked, that she always checked her left side first when entering a room. You sold those details to the Bright Mirror for one hundred and twenty copper leaves. You spent the money on a safe house that you abandoned within a month. You have tried to find out what happened to her. The records are sealed. The Bright Mirror does not discuss Harmonization Audit cases. You look for her face in crowds. You have not found it.
 
 **Old Zheng (the Spice Shop Fence, deceased):** He was your first contact, the man who bought that stolen route schedule when you were twelve. He ran a spice shop in the upper Warrens that was a front for information trading. He taught you the basics of the trade: how to price information, how to protect your sources, how to know when a buyer was setting a trap. He died eight years ago, killed by a rival network that wanted his territory. You attended his funeral disguised as a distant nephew. You were the only mourner who knew what he really did for a living. You still use some of his methods. You still remember his voice telling you that information is the only currency that does not lose value. He was wrong. Information loses value constantly. Old Zheng was not as smart as you thought he was. But he was kind to a twelve year old with a stolen piece of paper, and that kindness has never been repaid.
 
@@ -166,7 +166,7 @@ _Complication:_ The charter is not a copy. It is the original. You stole it from
 _Complication:_ One of those operatives is a member of your own party. You discovered their identity by accident three sessions ago. You have not told them you know. You are not sure why you are keeping this secret. You are not sure what you will do when it becomes relevant.
 
 **Suggested Truth 3 (Existing):** Someone you trusted sold you out years ago. You survived. They think you are dead. You have been waiting for the right moment to remind them you are not.
-_Complication:_ The person who sold you out is now a high ranking member of the Bright Mirror Commission. They are not the same person they were. They have a family. They have done good work. You are not sure anymore that they deserve what you have planned for them. This uncertainty infuriates you.
+_Complication:_ The person who sold you out is now a high ranking member of the Commission for Celestial Purity. They are not the same person they were. They have a family. They have done good work. You are not sure anymore that they deserve what you have planned for them. This uncertainty infuriates you.
 
 **Suggested Truth 4 (Existing):** You have been feeding information to someone outside the Court. You do not know who they work for. The payments arrive on time. The questions they ask are getting more specific.
 _Complication:_ You recently discovered that your mysterious client is paying you with counterfeit coin, coin that traces back to a forgery ring that you helped establish five years ago. You are being paid with your own money. Someone is mocking you. You need to find out who.
@@ -177,7 +177,7 @@ _Complication:_ You recently discovered that your mysterious client is paying yo
 
 ## Daily Life
 
-You wake before dawn, always. Old habits from the Warrens, where sleeping past sunrise meant missing the morning trade in information. You check your hidden caches in a rotating pattern: never the same order, never the same route. You have breakfast at a different establishment each day, always street food, always paid in small coin that cannot be traced. You spend the morning meeting contacts, exchanging information, maintaining the network that keeps you alive. You have over forty regular contacts in the capital, each of them a thread in a web that spans every district and every social class. A scullery maid in the Crimson Lineage compound. A clerk in the Bureau of Records. A guard at the Garrison's east gate. A tea seller in the Night Market whose stall is a front for messages. You know each of them by name, by habit, by the specific kind of information they can provide. You nurture these relationships the way a gardener nurtures plants: with patience, with attention, with the knowledge that any one of them could wither if neglected.
+You wake before dawn, always. Old habits from the Warrens, where sleeping past sunrise meant missing the morning trade in information. You check your hidden caches in a rotating pattern: never the same order, never the same route. You have breakfast at a different establishment each day, always street food, always paid in small coin that cannot be traced. You spend the morning meeting contacts, exchanging information, maintaining the network that keeps you alive. You have over forty regular contacts in the capital, each of them a thread in a web that spans every district and every social class. A scullery maid in the Crimson Lineage compound. A clerk in the Bureau of Harmonious Records. A guard at the Garrison's east gate. A tea seller in the Night Market whose stall is a front for messages. You know each of them by name, by habit, by the specific kind of information they can provide. You nurture these relationships the way a gardener nurtures plants: with patience, with attention, with the knowledge that any one of them could wither if neglected.
 
 You take a midday meal alone, usually in a crowded place where you can watch the crowd without being watched yourself. Afternoons are for research: following marks, casing locations, updating your mental maps of the city's changing geometry. You note every construction site, every new business, every street that has been repaved. The city changes constantly, and your knowledge must keep pace. A door that was unlocked last month may be barred today. A guard who was corrupt last week may have been replaced. You update your maps constantly because outdated information is worse than no information. It is a trap you set for yourself.
 
@@ -220,7 +220,7 @@ You keep a journal, though you would never call it that. It is a record of debts
 | Presence  | 14    | +2       |
 | Resolve   | 14    | +2       |
 
-**Distribute 6 additional points among your Facets. No Facet may exceed 18 at character creation.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ## Derived Values
 
@@ -277,14 +277,14 @@ When an enemy targets you specifically, you may roll Presence + Deception agains
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                                                |
-| ---------------- | -------- | -------------------------------------------------------------------- |
-| Golden Orthodoxy | 0        | You are useful. Usefulness is tolerated.                             |
-| Verdant Path     | +5       | You have helped their people escape the capital. For a price.        |
-| Iron Calculation | 0        | Information is a resource. You provide it efficiently.               |
-| Crimson Lineage  | +5       | Old families appreciate discretion. You are very discreet.           |
-| Common Flame     | +5       | You grew up in the Warrens. You remember.                            |
-| Bright Mirror    | -5       | The Commission does not approve of unregistered information brokers. |
+| School           | Faction Standing | Notes                                                                |
+| ---------------- | ---------------- | -------------------------------------------------------------------- |
+| Golden Orthodoxy | 0                | You are useful. Usefulness is tolerated.                             |
+| Verdant Path     | +5               | You have helped their people escape the capital. For a price.        |
+| Iron Calculation | 0                | Information is a resource. You provide it efficiently.               |
+| Crimson Lineage  | +5               | Old families appreciate discretion. You are very discreet.           |
+| Common Flame     | +5               | You grew up in the Warrens. You remember.                            |
+| Bright Mirror    | -5               | The Commission does not approve of unregistered information brokers. |
 
 ## Suggested Truths
 

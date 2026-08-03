@@ -16,14 +16,14 @@ You are trained in the arts of shadow: infiltration, elimination, and the delica
 
 | Facet     | Score | Modifier |
 | --------- | ----- | -------- |
-| Might     | 12    | +1       |
+| Might     | 14    | +2       |
 | Swiftness | 18    | +4       |
-| Endurance | 10    | +0       |
+| Endurance | 12    | +1       |
 | Intellect | 14    | +2       |
-| Presence  | 8     | -1       |
+| Presence  | 10    | +0       |
 | Resolve   | 14    | +2       |
 
-**Distribute 6 additional points. No Facet above 18.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ## Derived Values
 
@@ -50,7 +50,7 @@ From the Core Rulebook Chapter Three.
 
 ## Archetype Abilities
 
-### First Strike
+### Opening Kill
 
 When you attack a target who is unaware of your presence, your attack automatically hits (no roll required) and deals critical damage (double the damage dice). This ability can be used once per combat.
 
@@ -74,14 +74,14 @@ You recognize the signs of your profession: the way someone stands relative to e
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                                                |
-| ---------------- | -------- | -------------------------------------------------------------------- |
-| Golden Orthodoxy | 0        | You are a tool. Tools are not judged.                                |
-| Verdant Path     | -5       | They fear what you represent.                                        |
-| Iron Calculation | 0        | Efficiency is efficiency.                                            |
-| Crimson Lineage  | +5       | Old families appreciate discretion.                                  |
-| Common Flame     | -10      | You are the boot, not the face.                                      |
-| Bright Mirror    | -5       | The Commission does not approve of "special operations." Officially. |
+| School           | Faction Standing | Notes                                                                |
+| ---------------- | ---------------- | -------------------------------------------------------------------- |
+| Golden Orthodoxy | 0                | You are a tool. Tools are not judged.                                |
+| Verdant Path     | -5               | They fear what you represent.                                        |
+| Iron Calculation | 0                | Efficiency is efficiency.                                            |
+| Crimson Lineage  | +5               | Old families appreciate discretion.                                  |
+| Common Flame     | -10              | You are the boot, not the face.                                      |
+| Bright Mirror    | -5               | The Commission does not approve of "special operations." Officially. |
 
 ## Expanded Backstory
 
@@ -220,7 +220,7 @@ Your tell when you are being sincere: you move. You shift your weight. You touch
 
 ## Ability Examples
 
-**First Strike in a guarded compound:**
+**Opening Kill in a guarded compound:**
 The party needs to eliminate a Crimson Lineage agent who holds evidence that could destroy a Verdant Path ally. The compound is heavily guarded. The agent sleeps in a central room with two guards at the door. You do not fight the guards. You wait. You watch. You learn their patrol rotation. At three in the morning, you slip past them during a shift change. You enter the agent's room through a window you oiled the night before. They are asleep. You stand over them for one breath, two breaths. You strike. The blade finds the gap between their ribs. They do not wake. They do not suffer. You leave the way you came. The guards never knew you were there. The evidence is recovered. The ally is saved. The official record will say heart failure. You write the death notice yourself, in a handwriting the Bureau trained you to produce, and file it before breakfast.
 
 **Shadow Step in a collapsing building:**
@@ -242,11 +242,11 @@ Complications for existing truths:
 **For "You know who ordered the death of a specific senior official thirty years ago. It was recorded as natural causes. It was not."**
 Complication: The person who ordered the death is still alive and active in the Court. You have been watching them for years. They recently requested a meeting with you through official channels. They do not know you know. You do not know if the meeting is a test or a coincidence.
 
-**For "Your parents were Harmonized when you were a child. You do not know who gave the order. You have been looking for twenty years."**
+**For "Your parents were Disappeared when you were a child. You do not know who gave the order. You have been looking for twenty years."**
 Complication: You have found the person who signed the order. It was Inspector Eighth Silence. You have confirmed this through multiple independent sources. You have not confronted him. You are not sure you want to know why he signed it. You are not sure you want to know if he signed it before or after he decided to recruit you.
 
 **For "You were ordered to kill a child once. You completed the mission. You have not slept a full night since."**
-Complication: You have recently learned that the child did not die. The target had a body double. The real child survived and is now an adult working in the capital as a clerk in the Bureau of Records. You have seen them in person. They do not know who you are. They do not know they were ever a target.
+Complication: You have recently learned that the child did not die. The target had a body double. The real child survived and is now an adult working in the capital as a clerk in the Bureau of Harmonious Records. You have seen them in person. They do not know who you are. They do not know they were ever a target.
 
 **For "You have a sealed file containing the operational history of the Bureau for the last decade. If released, it would destroy several careers."**
 Complication: The file is incomplete. Someone has been removing pages. You do not know who, but the removed pages all relate to operations in the northern provinces. Your home province. The village that no longer exists. Someone is removing your past from the official record. You need to know who before there is nothing left to find.
@@ -287,7 +287,7 @@ There is a specific ritual you perform before every mission. You sit on the floo
 
 What it feels like: You have always been good at leaving. Now you are perfect at it. The first time you use Vanish, you feel something you have not felt since childhood: the pure, uncomplicated joy of escape. For one split second, you are free. Then you reappear somewhere else and the world rushes back in. The joy is replaced by a hollow ache. You realize that you have been practicing escape your entire life. You escaped the village. You escaped your past. You escape every room, every relationship, every moment of connection before it can hold you. Vanish is not a new skill. It is the expression of everything you have ever been. You are not sure you want to examine what that means.
 
-**Level 5: Death Strike.** Your First Strike now deals triple damage dice instead of double against targets below half HP.
+**Level 5: Death Strike.** Your Opening Kill now deals triple damage dice instead of double against targets below half HP.
 
 What it feels like: Your precision has become something almost surgical. You can feel the weakness in a target now, the vulnerable point, the exact moment when they are most breakable. It is not a visual thing. It is a sense, like a pressure in the air around their body. You know where to strike because you can feel where the strike would hurt most. This is not a comfortable knowledge. It changes the way you see people. You see them as a collection of weaknesses held together by skin. You have to remind yourself, sometimes, that they are more than that. You have to force yourself to look at their faces, to see them as people. The effort is exhausting. You do it anyway, because you are afraid of what you will become if you stop.
 
@@ -298,3 +298,28 @@ What it feels like: The world is becoming less solid to you. You can feel the sp
 **Level 9: Final Contract.** Once per campaign, you may name a target. For the next 24 hours, all rolls you make in pursuit of that target have Advantage. If the target survives, you die instead.
 
 What it feels like: You have always known you would die in service to the Bureau. Every operative knows this. But Final Contract is different. It is not a mission given to you. It is a promise you make to yourself. You choose the target. You choose the terms. For the first time in your life, your death will be your own decision. The weight of this is immense. You carry it in your chest like a second heart. When you activate Final Contract, the world narrows to a single point. Everything else falls away. The face of the target becomes the only thing that exists. You move through the world like a blade through water. You are not afraid. You have never been less afraid. The fear is reserved for what comes after, and in this moment there is no after. There is only the target and the distance between you and them. You close the distance. You have always closed the distance.
+
+---
+
+## Suggested Truths
+
+Choose one, or create your own with the Host:
+
+- You know who ordered the death of a specific senior official thirty years ago. It was recorded as natural causes. It was not.
+- Your parents were Disappeared when you were a child. You do not know who gave the order. You have been looking for twenty years.
+- You were ordered to kill a child once. You completed the mission. You have not slept a full night since.
+- You hold a sealed file containing the operational history of the Bureau for the last decade. If released, it would end several careers and at least two lives.
+
+---
+
+## Advancement
+
+As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+
+**Level 3: Vanish.** Once per session, you may disappear from a scene as a Free Interaction. You are simply gone. The Host determines where you reappear, but it will be somewhere you could plausibly have reached.
+
+**Level 5: Death Strike.** Opening Kill deals triple damage dice instead of double against targets below half HP.
+
+**Level 7: Ghost Protocol.** You may use Shadow Step three times per scene instead of once.
+
+**Level 9: Final Contract.** Once per campaign, you may name a target. For the next twenty four hours, all rolls you make in pursuit of that target have Advantage. If the target survives, you die.

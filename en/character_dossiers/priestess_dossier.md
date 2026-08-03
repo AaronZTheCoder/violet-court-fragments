@@ -132,7 +132,7 @@ You are famously gracious under insult; a hostile censor can say anything and yo
 
 **The Duke of Eternal Night.** He attended your first Continuance. Afterward he said, "Nine Bells put the rising tone on the eighth phrase. Her teacher did not." He was present when her teacher performed it. He is the only living witness to a version of the rite older than your entire lineage, and he will not tell you which was correct, and you have come to understand that he does not know either, and that this is the closest thing to comfort anyone has offered you.
 
-**Ash, the woman from the fallen province.** She came to the shrine of the drowned in the third month, Dusk touched, red at the eyes, asking whether the last rite could be performed for someone who was not entirely dead. You said you did not know. She asked you to try. You tried. Something answered, and it was not the thing that usually answers, and you have not told anyone, and you have not slept properly since.
+**Ash, the woman from the fallen province.** She came to the shrine of the drowned in the third month, Dusk Touched, red at the eyes, asking whether the last rite could be performed for someone who was not entirely dead. You said you did not know. She asked you to try. You tried. Something answered, and it was not the thing that usually answers, and you have not told anyone, and you have not slept properly since.
 
 **The one you did not shelter.** A scholar came to the shrine two winters ago with the Commission four hours behind him. Sheltering him would have meant a search, and a search would have meant the discovery of the other six people in the undercroft. You made the arithmetic. You sent him to a safe house you knew had been compromised the week before. You have his name. It is not in any of your registers, because you do not keep registers, because keeping registers is how people are found. You keep him somewhere else.
 
@@ -201,7 +201,7 @@ _Complication:_ One of the six is not who they claim to be. You have known for t
 **Truth Three: The ordination cannot be reconstructed.** The Bureau of Celestial Inquiry spent nine years and failed. The transmission is oral, physical, and requires the presence of a living officiant.
 _Complication:_ There are nine of you left and the next youngest is eighty one. You have not taken a successor. You know precisely how long the empire's doctrinal foundation outlives you, and so does everyone else, and it has begun to occur to certain parties that a hostage with no replacement is worth more alive than a hostage who has trained one.
 
-**Truth Four: Something answered Ash.** You performed the last rite for a woman who was Dusk touched and not entirely dead, and something responded, and it was not what responds at the door.
+**Truth Four: Something answered Ash.** You performed the last rite for a woman who was Dusk Touched and not entirely dead, and something responded, and it was not what responds at the door.
 _Complication:_ It knew the forty one phrases. It said the eighth with a rising tone.
 
 **Suggested Truth Five:** The Temple's ninth year teaching explains why the Sun Emperor did not abolish it. You received that teaching at nineteen. You have told no one, including the Grand Council, including under direct question, and you have structured eleven years of your life around never being asked it by someone you cannot refuse.
@@ -253,7 +253,7 @@ Twice a year, in the eleventh and the fifth month, you walk into the Spire's ant
 | Presence  | 20    | +5       |
 | Resolve   | 16    | +3       |
 
-**Distribute 6 additional points among your Facets. No Facet may exceed 18 at character creation.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ---
 
@@ -322,14 +322,14 @@ Spend 6 Qi and perform the naming for a person living or newly dead. If living, 
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                                                             |
-| ---------------- | -------- | --------------------------------------------------------------------------------- |
-| Golden Orthodoxy | +25      | Their entire doctrine requires you. They resent this and cannot show it.          |
-| Verdant Path     | +15      | They consider the Temple a natural ally and are not entirely wrong.               |
-| Iron Calculation | -5       | You are an unquantifiable dependency in an otherwise clean model. They hate that. |
-| Crimson Lineage  | +20      | You have performed the last rite for four of their elders. They remember.         |
-| Common Flame     | +10      | The camps know who kneels in the dirt. Word travels without you.                  |
-| Bright Mirror    | 0        | She holds the order to close you. She has not executed it in thirteen years.      |
+| School           | Faction Standing | Notes                                                                             |
+| ---------------- | ---------------- | --------------------------------------------------------------------------------- |
+| Golden Orthodoxy | +25              | Their entire doctrine requires you. They resent this and cannot show it.          |
+| Verdant Path     | +15              | They consider the Temple a natural ally and are not entirely wrong.               |
+| Iron Calculation | -5               | You are an unquantifiable dependency in an otherwise clean model. They hate that. |
+| Crimson Lineage  | +20              | You have performed the last rite for four of their elders. They remember.         |
+| Common Flame     | +10              | The camps know who kneels in the dirt. Word travels without you.                  |
+| Bright Mirror    | 0                | She holds the order to close you. She has not executed it in thirteen years.      |
 
 ---
 

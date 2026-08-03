@@ -20,13 +20,13 @@ Action: Sometimes the Dusk must be fought. When combat is inevitable, make it fe
 
 **Scaling for Party Level**
 
-Low Level parties (Harmonization 1 to 3): Single creatures or small groups of Wisps and Hounds. The Dusk is a mystery they are just beginning to understand. Encounters should be survivable but unsettling. The goal is not to kill the players but to make them afraid of what they do not yet understand.
+Low Level parties (Level 1 to 3): Single creatures or small groups of Wisps and Hounds. The Dusk is a mystery they are just beginning to understand. Encounters should be survivable but unsettling. The goal is not to kill the players but to make them afraid of what they do not yet understand.
 
-Mid Level parties (Harmonization 4 to 6): Tide Walkers, Crimson Effigies, Tide Callers. The players have seen enough to know how dangerous the Dusk is. Encounters should test their resources and their resolve. Start introducing moral choices. A Tide Walker they might save. A Dusk Market they must decide whether to trade with.
+Mid Level parties (Level 4 to 6): Tide Walkers, Crimson Effigies, Tide Callers. The players have seen enough to know how dangerous the Dusk is. Encounters should test their resources and their resolve. Start introducing moral choices. A Tide Walker they might save. A Dusk Market they must decide whether to trade with.
 
-High Level parties (Harmonization 7 to 9): Memory Thieves, The Unwritten. The Dusk is now a known threat with unknown depths. Encounters should cost the players something. A memory. A relationship. A piece of their humanity. Every victory should feel earned and expensive.
+High Level parties (Level 7 to 8): Memory Thieves, The Unwritten. The Dusk is now a known threat with unknown depths. Encounters should cost the players something. A memory. A relationship. A piece of their humanity. Every victory should feel earned and expensive.
 
-Endgame parties (Harmonization 10): The Dusk Made Manifest. This is the final confrontation. Everything the players have learned, every bond they have forged, every truth they have uncovered prepares them for this moment. The encounter should draw on the campaign's specific history. Use details from the players' own actions. Let the Manifestation speak in the voices of people the players failed to save.
+Endgame parties (Level 9): The Dusk Made Manifest. This is the final confrontation. Everything the players have learned, every bond they have forged, every truth they have uncovered prepares them for this moment. The encounter should draw on the campaign's specific history. Use details from the players' own actions. Let the Manifestation speak in the voices of people the players failed to save.
 
 **Making Each Encounter Tell a Story**
 
@@ -50,7 +50,7 @@ The Dusk does not always manifest as creatures. Sometimes it manifests as change
 | 4   | Voices from Nowhere       | The air fills with whispers. They speak in languages the players know and languages they do not. Among the whispers, each player hears their own name spoken by a voice they recognize. Finding the source requires Intellect TN 18. The source is never there.                                                                                                                                     |
 | 5   | Gravity Reverses          | For one hour, up becomes down. Characters must make Swiftness TN 14 to avoid falling upward. Ranged attacks are impossible. Melee attacks are made at Disadvantage. Moving requires climbing across the underside of surfaces.                                                                                                                                                                      |
 | 6   | Memory Bleed              | Strong emotions left in the area become perceptible. Players experience flashes of what happened here. A battle. A death. A betrayal. A wedding. The Host should prepare one specific memory tied to the location. All present must make Resolve TN 14 or be overwhelmed for one round.                                                                                                             |
-| 7   | The Color Drains          | All color drains from the world except red. Everything is grey, black, white, or crimson. This lasts for 1d4 hours. Perception based checks suffer Disadvantage during this time as depth perception and distance become unreliable.                                                                                                                                                                |
+| 7   | The Color Drains          | All color drains from the world except red. Everything is grey, black, white, or crimson. This lasts for 1d4 hours. Vigilance based checks suffer Disadvantage during this time as depth perception and distance become unreliable.                                                                                                                                                                 |
 | 8   | Doors Lead Elsewhere      | Every door or archway in the area opens onto a place it should not. A cellar door opens onto a rooftop. A city gate opens onto a forest. A wardrobe opens onto a Dusk corrupted version of the room it stands in. Intellect TN 16 to recognize a door is wrong before stepping through.                                                                                                             |
 | 9   | The Earth Breathes        | The ground rises and falls as though the earth itself is breathing. Movement costs double. Ranged attacks have Disadvantage. Characters standing still feel a rhythmic vibration through their bones. Resolve TN 12 to sleep in this area.                                                                                                                                                          |
 | 10  | Echoes of the Dead        | The dead do not stay buried here. Bodies rise and perform fragments of their daily routines. A corpse sweeps a floor. A skeleton tends a field. They are not hostile but they are deeply wrong. Witnessing them costs 1 Sanity. Interacting with them may reveal information about their deaths.                                                                                                    |
@@ -62,7 +62,7 @@ The Dusk does not always manifest as creatures. Sometimes it manifests as change
 | 16  | The Stars Are Wrong       | The night sky rearranges itself. Constellations the players recognize are gone. New constellations have formed, depicting events that have not happened yet. A character with astronomical knowledge can attempt Intellect TN 20 to read the new constellations. Success reveals a glimpse of a future Dusk event. Failure reveals nothing except the certainty that the sky is no longer friendly. |
 | 17  | Animals Know              | Every animal in the area has gone silent or fled. Birds do not sing. Dogs do not bark. Horses refuse to move forward. Insects have burrowed underground. The absence of animal life is a warning. The Host should describe the unnatural stillness before anything hostile appears.                                                                                                                 |
 | 18  | Refractions               | Water in the area reflects things that are not there. A puddle shows a different sky. A river shows people walking on the banks who are not present. Drinking the water causes 1d4 psychic damage and shows the drinker a vision of the Dusk's birth. The vision is different for each person who drinks.                                                                                           |
-| 19  | The Weeping Stone         | A stone or structure in the area weeps red fluid. It is not blood but it looks like blood and smells like iron. The weeping stone marks a place where the Dusk first entered this area. Qi energy around the stone is unstable. Qi techniques cost 1 additional Qi to use within 2 Zones of the stone.                                                                                              |
+| 19  | The Weeping Stone         | A stone or structure in the area weeps red fluid. It is not blood but it looks like blood and smells like iron. The weeping stone marks a place where the Dusk first entered this area. Qi around the stone is unstable. Qi Techniques cost 1 additional Qi to use within 2 Zones of the stone.                                                                                                     |
 | 20  | Convergence               | Multiple phenomena occur at once. Roll twice more on this table and apply both. The Dusk is strong here. Something important is nearby. An Effigy. A Manifestation. A source of corruption that the players must find and address.                                                                                                                                                                  |
 
 ---
@@ -120,7 +120,7 @@ A Border Wall garrison has reported strange behavior from the Dusk Hounds in the
 
 ### Tide Walker
 
-A humanoid figure that has been Dusk touched but not fully consumed. Tide Walkers retain some intelligence and memory. They are tragic rather than evil. Some can be reasoned with. Others are too far gone.
+A humanoid figure that has been Dusk Touched but not fully consumed. Tide Walkers retain some intelligence and memory. They are tragic rather than evil. Some can be reasoned with. Others are too far gone.
 
 **Stats:** HP 25, Defense 12, Might 12, Swiftness 10, Endurance 16, Intellect 12, Presence 14, Resolve 14
 **Attack:** Warped Strike (1d8 + Might), Crimson Gaze (target makes Resolve TN 14 or is paralyzed for one round, once per combat)
@@ -192,7 +192,7 @@ The Manifestation enjoys the fight. It is not desperate. It is not afraid. It ha
 
 **Story Seed**
 
-The Dusk Made Manifest cannot be created by the Dusk alone. It requires an invitation. Somewhere, in the campaign's history, someone knowingly or unknowingly opened a door for the Manifestation to enter the world. The final encounter is not just about defeating the Manifestation. It is about discovering who invited it and why. The Host should tie this invitation to one of the players' backstories, one of the Ten Figures, or a choice the players made early in the campaign that seemed small at the time. The Manifestation is the consequence of that choice made flesh. Defeating it requires more than combat. It requires the players to confront the choice that brought it here.
+The Dusk Made Manifest cannot be created by the Dusk alone. It requires an invitation. Somewhere, in the campaign's history, someone knowingly or unknowingly opened a door for the Manifestation to enter the world. The final encounter is not just about defeating the Manifestation. It is about discovering who invited it and why. The Host should tie this invitation to one of the players' backstories, one of the Twelve Figures, or a choice the players made early in the campaign that seemed small at the time. The Manifestation is the consequence of that choice made flesh. Defeating it requires more than combat. It requires the players to confront the choice that brought it here.
 
 ---
 
@@ -204,7 +204,7 @@ Not all Dusk entities are hostile. Some are simply trapped. The Dusk Weeper is a
 **Attack:** None. The Weeper does not attack.
 **Special:** Endless Dying. The Weeper relives its death every 10 to 15 minutes. All creatures who witness the full cycle must make Resolve TN 16 or gain 1 Sanity loss. Each subsequent viewing increases the TN by 2.
 **Special:** Residual Sorrow. The area around a Weeper is saturated with grief. Characters within 2 Zones have Disadvantage on checks involving joy, hope, or comfort. Emotional effects that create positive emotions cost double the normal Qi or resources.
-**Special:** Atonement. If the players can understand what injustice caused the Weeper's death and perform an act of justice in its name, the Weeper dissolves peacefully. This grants a permanent +1 Harmony for the party or one significant story advancement.
+**Special:** Atonement. If the players can understand what injustice caused the Weeper's death and perform an act of justice in its name, the Weeper dissolves peacefully. This grants a permanent +1 Ritual Harmony for the party or one significant story advancement.
 **Encounter:** 1 Weeper. A puzzle and a moral challenge rather than a combat. The players must decide whether to endure the Weeper's suffering, find a way to free it, or leave it to its eternal cycle.
 
 **Read Aloud**
@@ -279,7 +279,7 @@ An old scholar arrives at the players' camp in a panic. He cannot remember his w
 
 ### Tide Caller
 
-A Dusk touched human who has learned to command the Dusk rather than be consumed by it. Tide Callers are rare and terrifying. They have traded something essential for their power. They are bridges between the living world and the Dusk.
+A Dusk Touched human who has learned to command the Dusk rather than be consumed by it. Tide Callers are rare and terrifying. They have traded something essential for their power. They are bridges between the living world and the Dusk.
 
 **Stats:** HP 28, Defense 12, Might 10, Swiftness 12, Endurance 14, Intellect 16, Presence 18, Resolve 16
 **Attack:** Dusk Lash (1d8 + Presence, reaches 2 Zones), Fragment Storm (2d4, targets all creatures in one Zone, recharge 4 to 6 rounds)
@@ -345,7 +345,7 @@ Red Rain is not a creature. It is a weather phenomenon that occurs when Dusk con
 - Dusk Corruption Level 3: Hallucinations begin. The affected creature sees Dusk entities that may or may not be real.
 - Dusk Corruption Level 4: The creature begins to hear the Dusk's voice. It must make Resolve TN 16 to resist following the voice's instructions.
 - Dusk Corruption Level 5: Transformation begins. The creature becomes a Tide Walker over 1d4 days unless treated with intensive Qi therapy.
-- Treatment: Each level of Dusk Corruption requires a successful Intellect TN 16 check and 24 hours of rest to remove. Qi techniques that purify can accelerate this.
+- Treatment: Each level of Dusk Corruption requires a successful Intellect TN 16 check and 24 hours of rest to remove. Qi Techniques that purify can accelerate this.
 
 **Environmental Effects:**
 
@@ -360,7 +360,7 @@ _The first drop lands on your cheek. It is warm. Unnaturally warm. You wipe it a
 
 **Story Seed**
 
-A Red Rain event has begun in a major city. It is the first time Red Rain has fallen outside a Dusk zone. The city is in chaos. People are panicking. The Harmonization Inspectors are trying to maintain order but they are also afraid. The players must navigate the panicked streets, find shelter for civilians, and determine the source of this unprecedented event. Is the Dusk spreading faster than anyone predicted? Or has someone deliberately drawn the Red Rain to the city to cause chaos, to cover a crime, to send a message?
+A Red Rain event has begun in a major city. It is the first time Red Rain has fallen outside a Dusk zone. The city is in chaos. People are panicking. Commission investigators are trying to maintain order but they are also afraid. The players must navigate the panicked streets, find shelter for civilians, and determine the source of this unprecedented event. Is the Dusk spreading faster than anyone predicted? Or has someone deliberately drawn the Red Rain to the city to cause chaos, to cover a crime, to send a message?
 
 ---
 
@@ -368,7 +368,7 @@ A Red Rain event has begun in a major city. It is the first time Red Rain has fa
 
 The Dusk Market appears without warning in Dusk saturated areas. It is a gathering of vendors, stalls, and customers who have been changed by the Dusk. They sell things that should not exist. They accept payment in things that should not be spent.
 
-**Nature:** The Dusk Market is semi sentient. It wants to trade. It does not care about morality, law, or consequence. It cares about exchange. It appears when there are enough Dusk touched beings in one area to form a community. It disappears when the sun rises or when the last customer leaves.
+**Nature:** The Dusk Market is semi sentient. It wants to trade. It does not care about morality, law, or consequence. It cares about exchange. It appears when there are enough Dusk Touched beings in one area to form a community. It disappears when the sun rises or when the last customer leaves.
 
 **What the Market Sells (roll d10):**
 
@@ -379,7 +379,7 @@ The Dusk Market appears without warning in Dusk saturated areas. It is a gatheri
 5. A map of a place that does not exist. Following the map leads to a place that did not exist before you followed the map.
 6. A name written on a piece of paper. Speaking the name aloud summons the person who owns it. They can refuse the summons once. After that, they must come.
 7. A jar of silence. Opening it creates a zone of absolute silence for one hour. In that zone, no sound exists. Not your heartbeat. Not your breath.
-8. A strand of hair from a dead god. It can be used to empower one Qi technique to its maximum effect. Using it destroys the strand and draws the attention of something that noticed the god's death.
+8. A strand of hair from a dead god. It can be used to empower one Qi Technique to its maximum effect. Using it destroys the strand and draws the attention of something that noticed the god's death.
 9. A contract written in blood. Signing it grants one wish. The contract's terms are binding. The wish will be fulfilled in a way that is technically correct and emotionally devastating.
 10. A candle that burns with red flame. While it burns, Dusk creatures will not approach you. When it goes out, they will remember that you kept them away.
 
@@ -404,7 +404,7 @@ The Market has rules. No violence. No theft. No attempts to take without offerin
 
 **Story Seed**
 
-A player character's lost loved one appears in the Dusk Market. They are not a vendor or a customer. They are an item for sale. They stand in a cage, looking out with eyes that recognize the player but cannot speak. The vendor explains that this person was collected from the Dusk's edge, preserved, kept pristine. The price is steep. The player's most significant bond. Their relationship with one of the Ten Figures. Their place in a school. Their reputation. The vendor will take that bond and erase it, leaving the player and their loved one free but disconnected from everything that made them who they are. The other players must watch and decide whether to let their comrade pay that price.
+A player character's lost loved one appears in the Dusk Market. They are not a vendor or a customer. They are an item for sale. They stand in a cage, looking out with eyes that recognize the player but cannot speak. The vendor explains that this person was collected from the Dusk's edge, preserved, kept pristine. The price is steep. The player's most significant bond. Their relationship with one of the Twelve Figures. Their place in a school. Their reputation. The vendor will take that bond and erase it, leaving the player and their loved one free but disconnected from everything that made them who they are. The other players must watch and decide whether to let their comrade pay that price.
 
 ---
 
@@ -414,7 +414,7 @@ The Unwritten exists in the space between what the official records say happened
 
 **Stats:** HP 35, Defense variable (see special), Might -, Swiftness -, Endurance -, Intellect 18, Presence 20, Resolve -
 **Attack:** None. The Unwritten does not attack directly.
-**Special:** Cannot Be Fought. The Unwritten has no physical stats because it is not physical. Attacks pass through it. It cannot be harmed by weapons, Qi techniques, or any form of direct violence.
+**Special:** Cannot Be Fought. The Unwritten has no physical stats because it is not physical. Attacks pass through it. It cannot be harmed by weapons, Qi Techniques, or any form of direct violence.
 **Special:** Truth Cost. The Unwritten can be harmed only by speaking a truth that the empire has suppressed. Each truth told deals 1d10 psychic damage to the Unwritten and costs the speaker 1 Sanity (the truth hurts to speak).
 **Special:** Rewrite. The Unwritten can reach into a character's mind and alter one of their memories, replacing a true memory with the official record version. The target must make Resolve TN 18 to resist. If they fail, they believe the false memory until someone presents irrefutable evidence of the truth.
 **Special:** Memory Echo. When the Unwritten is harmed by a truth, all creatures within 2 Zones experience a vision of the event the truth describes. The vision is vivid and complete. It cannot be forgotten.

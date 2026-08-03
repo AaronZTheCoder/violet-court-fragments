@@ -12,33 +12,33 @@
 | 3: Imminent     | [ ]      |       |
 | 4: Consummation | [ ]      |       |
 
-**Days Elapsed:** ____ **Next Audit Day:** ____ **Provinces Fallen:** ____
+**Days Elapsed:** ____ **Next Harmonization Audit Day:** ____ **Provinces Fallen:** ____
 
 ## Player Characters
 
-| Player | Character | Archetype | HP  | Qi  | Sanity | Harmony | Favor | Conditions |
-| ------ | --------- | --------- | --- | --- | ------ | ------- | ----- | ---------- |
-|        |           |           | /   | /   | /      |         |       |            |
-|        |           |           | /   | /   | /      |         |       |            |
-|        |           |           | /   | /   | /      |         |       |            |
-|        |           |           | /   | /   | /      |         |       |            |
-|        |           |           | /   | /   | /      |         |       |            |
-|        |           |           | /   | /   | /      |         |       |            |
+| Player | Character | Archetype | HP  | Qi  | Sanity | Ritual Harmony | Celestial Favor | Conditions |
+| ------ | --------- | --------- | --- | --- | ------ | -------------- | --------------- | ---------- |
+|        |           |           | /   | /   | /      |                |                 |            |
+|        |           |           | /   | /   | /      |                |                 |            |
+|        |           |           | /   | /   | /      |                |                 |            |
+|        |           |           | /   | /   | /      |                |                 |            |
+|        |           |           | /   | /   | /      |                |                 |            |
+|        |           |           | /   | /   | /      |                |                 |            |
 
 ## Faction Standing Tracker
 
-| School            | Standing | Tier | Notes |
-| ----------------- | -------- | ---- | ----- |
-| Golden Orthodoxy  |          |      |       |
-| Verdant Path      |          |      |       |
-| Iron Calculation  |          |      |       |
-| Crimson Lineage   |          |      |       |
-| Common Flame      |          |      |       |
-| Bright Mirror     |          |      |       |
-| Garrison Command  |          |      |       |
-| Celestial Inquiry |          |      |       |
+| School            | Faction Standing | Tier | Notes |
+| ----------------- | ---------------- | ---- | ----- |
+| Golden Orthodoxy  |                  |      |       |
+| Verdant Path      |                  |      |       |
+| Iron Calculation  |                  |      |       |
+| Crimson Lineage   |                  |      |       |
+| Common Flame      |                  |      |       |
+| Bright Mirror     |                  |      |       |
+| Garrison Command  |                  |      |       |
+| Celestial Inquiry |                  |      |       |
 
-**Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (-20), Hostile (-50), Sworn Enemy (-80)
+**Faction Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (-20), Hostile (-50), Sworn Enemy (-80)
 
 ## Character Bonds
 
@@ -54,6 +54,8 @@
 | Duke of Eternal Night |      |          | [Y] [N] |              |       |
 | Iron Bone             |      |          | [Y] [N] |              |       |
 | Celestial Book        |      |          | [Y] [N] |              |       |
+| Bone Script           |      |          | [Y] [N] |              |       |
+| Incense Crown         |      |          | [Y] [N] |              |       |
 
 **Bond Tiers:** Nemesis (-100 to -51), Antagonist (-50 to -11), Distant (-10 to +10), Congenial (+11 to +50), Ally (+51 to +80), Bound (+81 to +100)
 
@@ -61,7 +63,7 @@
 
 Check off each secret as the players uncover it.
 
-**The Ten Figures:**
+**The Twelve Figures:**
 
 | Figure                | Secret | Revealed? |
 | --------------------- | ------ | --------- |
@@ -75,6 +77,8 @@ Check off each secret as the players uncover it.
 | Duke of Eternal Night |        | [ ]       |
 | Iron Bone             |        | [ ]       |
 | Celestial Book        |        | [ ]       |
+| Bone Script           |        | [ ]       |
+| Incense Crown         |        | [ ]       |
 
 **Campaign Mysteries:**
 
@@ -194,7 +198,7 @@ Track the advancement of the Crimson Dusk across the campaign. This visual clock
 [ ] Three or more provinces have fallen. The Dusk is a known threat. The empire is strained.
 
 **Phase 3: Imminent (Late Campaign)**
-[ ] The Dusk is at the capital's doorstep. Panic spreads. The Ten Figures begin to act openly.
+[ ] The Dusk is at the capital's doorstep. Panic spreads. The Twelve Figures begin to act openly.
 
 **Phase 4: Consummation (Endgame)**
 [ ] The Dusk Made Manifest appears. The final confrontation begins. Everything ends here.
@@ -327,17 +331,17 @@ Use this checklist before the campaign begins. It ensures players and Host agree
 
 **Campaign Setup:**
 [ ] Discuss campaign tone: horror, tragedy, action, or balance of all three
-[ ] Explain the empire's setting: Harmonization, the Six Schools, the Ten Figures
+[ ] Explain the empire's setting: Harmonization Audits, the Six Schools, the Twelve Figures
 [ ] Describe the Dusk and what it means for the world
 [ ] Set expectations for character mortality and replacement
 [ ] Discuss long term campaign structure (expected number of sessions, endgame goals)
 
 **Character Creation:**
 [ ] Each player chooses an archetype and explains their choice
-[ ] Each player defines their character's bond with one of the Ten Figures
+[ ] Each player defines their character's bond with one of the Twelve Figures
 [ ] Each player establishes a personal goal that ties into the campaign
 [ ] The group decides how their characters know each other
-[ ] Players set starting Harmony level (default 50)
+[ ] Players set starting Ritual Harmony (default 50)
 [ ] Assign starting Qi and Sanity based on archetype
 
 **Content and Safety:**
@@ -360,8 +364,8 @@ Review after each session to prepare for the next one.
 
 **Review:**
 [ ] Read the session notes and update any incomplete entries
-[ ] Review the player character sheets for changes (HP, Qi, Sanity, Harmony)
-[ ] Check faction standing changes and plan reactions
+[ ] Review the player character sheets for changes (HP, Qi, Sanity, Ritual Harmony)
+[ ] Check Faction Standing changes and plan reactions
 [ ] Review decisions made by players and plan consequences
 [ ] Check the Secrets Revealed list and prepare next revelations
 [ ] Review favorite NPCs and plan their next appearance
@@ -379,7 +383,7 @@ Review after each session to prepare for the next one.
 **Advance the World:**
 [ ] Advance the Dusk Phase clock if applicable
 [ ] Determine if any provinces have fallen to the Dusk
-[ ] Decide if any of the Ten Figures have acted or changed
+[ ] Decide if any of the Twelve Figures have acted or changed
 [ ] Note any changes in the political landscape
 [ ] Update the campaign clock with days elapsed
 

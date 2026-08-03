@@ -22,7 +22,7 @@ You have no rank. You have no seal. You have no file. Every other person at this
 
 ## Expanded Backstory
 
-**Nine Willow Bend.** The gazetteer does not have it. The Bureau of Harmonious Records has a note saying the district formerly designated by that name was reorganized into neighboring prefectures in Year 431 for reasons of efficiency, and that no population transfer was required because the population had already relocated voluntarily.
+**Nine Willow Bend.** The gazetteer does not have it. The Bureau of Harmonious Records has a note saying the district formerly designated by that name was reorganized into neighboring prefectures in Year 441 for reasons of efficiency, and that no population transfer was required because the population had already relocated voluntarily.
 
 Every clause is true. Nothing in the official record is a lie. The record simply does not contain what happened.
 
@@ -32,7 +32,7 @@ She was a difficult woman. Exacting, sarcastic, and openly disappointed in you f
 
 You loved her the way you love weather. She did not consider what she was doing to be resistance. She considered it to be her job, and she would have found the word resistance embarrassing.
 
-When the resettlement office confiscated the ledgers, she had already been copying names onto bone for three months. She died in the second camp at fifty three. Third token from the buckle, left hip.
+When the resettlement office confiscated the ledgers, she had already been copying names onto bone for three months. She died in the second camp at fifty three. You were fourteen. Third token from the buckle, left hip.
 
 **The gaps, which are yours.** Here is the thing you have told no one, including the mountain, including Clerk Yuan.
 
@@ -158,7 +158,7 @@ You are not naive. Do not let anyone play you as the innocent rustic who is shoc
 
 ### The Names in the Bone
 
-The interrogation has been going for an hour and you are losing. The Justicar has your inconsistencies laid out and you have no patron, no faction, no leverage, and no rank. You are going to be Harmonized and the petition will die in a drawer and the valley will stay struck.
+The interrogation has been going for an hour and you are losing. The Justicar has your inconsistencies laid out and you have no patron, no faction, no leverage, and no rank. You are going to be Disappeared and the petition will die in a drawer and the valley will stay struck.
 
 Your hand finds the third token from the buckle.
 
@@ -200,7 +200,7 @@ _Complication:_ A script with no official standing, spreading among an unregiste
 
 **Suggested Truth Five:** You have begun to suspect that the raw crystals on your staff did not grow there by accident, and that the thing which caused them to grow is the same thing the Court calls the Crimson Dusk, and that it has been trying, in the only vocabulary it has, to say something to you.
 
-**Suggested Truth Six:** Clerk Yuan is not helping you out of decency. He had a posting in the Bureau of Border Harmony in Year 431. His name is on the routing slip of the assessment finding. He is not atoning where anyone can see him. He is atoning at a window, on Tuesdays, for seven months, to a man he has never told.
+**Suggested Truth Six:** Clerk Yuan is not helping you out of decency. He had a posting in the Bureau of Border Harmony in Year 441. His name is on the routing slip of the assessment finding. He is not atoning where anyone can see him. He is atoning at a window, on Tuesdays, for seven months, to a man he has never told.
 
 ---
 
@@ -243,7 +243,7 @@ You sleep badly. The city has no dark and no quiet, and after six years in high 
 | Presence  | 10    | +0       |
 | Resolve   | 18    | +4       |
 
-**Distribute 6 additional points among your Facets. No Facet may exceed 18 at character creation.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ---
 
@@ -311,14 +311,14 @@ Spend 4 Qi and one minute in contact with soil, root, or living wood. The Host t
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                                                            |
-| ---------------- | -------- | -------------------------------------------------------------------------------- |
-| Golden Orthodoxy | -15      | You are unlicensed practice walking around in daylight.                          |
-| Verdant Path     | +5       | Their suppressed wing taught you. Their seated wing finds you embarrassing.      |
-| Iron Calculation | 0        | You are not in their models. They have no opinion. This is nearly restful.       |
-| Crimson Lineage  | -5       | You have no blood worth recording, which to them is the same as having none.     |
-| Common Flame     | +20      | You are what they claim to be fighting for, and you did not ask them to.         |
-| Bright Mirror    | -10      | Unregistered. Unlicensed. Unfileable. You are a category error with a heartbeat. |
+| School           | Faction Standing | Notes                                                                            |
+| ---------------- | ---------------- | -------------------------------------------------------------------------------- |
+| Golden Orthodoxy | -15              | You are unlicensed practice walking around in daylight.                          |
+| Verdant Path     | +5               | Their suppressed wing taught you. Their seated wing finds you embarrassing.      |
+| Iron Calculation | 0                | You are not in their models. They have no opinion. This is nearly restful.       |
+| Crimson Lineage  | -5               | You have no blood worth recording, which to them is the same as having none.     |
+| Common Flame     | +20              | You are what they claim to be fighting for, and you did not ask them to.         |
+| Bright Mirror    | -10              | Unregistered. Unlicensed. Unfileable. You are a category error with a heartbeat. |
 
 ---
 

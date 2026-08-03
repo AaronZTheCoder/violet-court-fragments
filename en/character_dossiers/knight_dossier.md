@@ -227,7 +227,7 @@ What you fear beyond your own death is what will happen after you are gone. Who 
 | Presence  | 14    | +2       |
 | Resolve   | 12    | +1       |
 
-**Distribute 6 additional points. No Facet above 18.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ## Derived Values
 
@@ -276,14 +276,14 @@ When you give an order in combat, allies who can hear you gain +2 to their next 
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                             |
-| ---------------- | -------- | ------------------------------------------------- |
-| Golden Orthodoxy | +5       | You are order. Order is respected.                |
-| Verdant Path     | +5       | You protect people, not doctrine.                 |
-| Iron Calculation | +10      | The military and logistics understand each other. |
-| Crimson Lineage  | 0        | Old families have old soldiers in their debt.     |
-| Common Flame     | +5       | You treat soldiers and workers the same.          |
-| Bright Mirror    | +10      | The Commission respects oath keepers.             |
+| School           | Faction Standing | Notes                                             |
+| ---------------- | ---------------- | ------------------------------------------------- |
+| Golden Orthodoxy | +5               | You are order. Order is respected.                |
+| Verdant Path     | +5               | You protect people, not doctrine.                 |
+| Iron Calculation | +10              | The military and logistics understand each other. |
+| Crimson Lineage  | 0                | Old families have old soldiers in their debt.     |
+| Common Flame     | +5               | You treat soldiers and workers the same.          |
+| Bright Mirror    | +10              | The Commission respects oath keepers.             |
 
 ## Suggested Truths
 

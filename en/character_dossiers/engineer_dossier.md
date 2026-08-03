@@ -196,12 +196,12 @@ What you dread most is the day the numbers stop making sense. You have built you
 | --------- | ----- | -------- |
 | Might     | 10    | +0       |
 | Swiftness | 12    | +1       |
-| Endurance | 14    | +2       |
+| Endurance | 16    | +3       |
 | Intellect | 18    | +4       |
-| Presence  | 8     | -1       |
-| Resolve   | 12    | +1       |
+| Presence  | 10    | +0       |
+| Resolve   | 16    | +3       |
 
-**Distribute 6 additional points. No Facet above 18.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ## Derived Values
 
@@ -256,14 +256,14 @@ Your Commission credentials grant you access to areas most officials cannot ente
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                              |
-| ---------------- | -------- | -------------------------------------------------- |
-| Golden Orthodoxy | -5       | You prioritize efficiency over doctrine.           |
-| Verdant Path     | +5       | Your infrastructure helps common people.           |
-| Iron Calculation | +25      | You are the school's promising talent.             |
-| Crimson Lineage  | 0        | You are useful. Usefulness is respected.           |
-| Common Flame     | -10      | Your efficiency metrics include acceptable losses. |
-| Bright Mirror    | +10      | The Commission appreciates measurable results.     |
+| School           | Faction Standing | Notes                                              |
+| ---------------- | ---------------- | -------------------------------------------------- |
+| Golden Orthodoxy | -5               | You prioritize efficiency over doctrine.           |
+| Verdant Path     | +5               | Your infrastructure helps common people.           |
+| Iron Calculation | +25              | You are the school's promising talent.             |
+| Crimson Lineage  | 0                | You are useful. Usefulness is respected.           |
+| Common Flame     | -10              | Your efficiency metrics include acceptable losses. |
+| Bright Mirror    | +10              | The Commission appreciates measurable results.     |
 
 ## Suggested Truths
 

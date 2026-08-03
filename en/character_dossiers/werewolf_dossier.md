@@ -58,7 +58,7 @@ It was an assessment. An engineer at the Iron Calculation was asked which facili
 
 You do not know this. If you ever learn it, you will have to decide what to do with the fact that the man who broke you was not an enemy and did not think about you at all, and that his modeling shows the four month strike you wanted would have killed more people than the suppression did.
 
-**What you carry now.** You are forty four. You have organized for twenty two years, and the movement is larger and better than when you started, and you have gotten perhaps sixty people killed across that span through decisions that were reasonable at the time.
+**What you carry now.** You are forty four. You have organized for twenty five years, and the movement is larger and better than when you started, and you have gotten perhaps sixty people killed across that span through decisions that were reasonable at the time.
 
 You keep no list. You considered it once and decided that a list would be a way of feeling better, and that you had not earned feeling better.
 
@@ -181,12 +181,12 @@ Once a month, you travel to the Warrens to visit the healer who suppresses the w
 | --------- | ----- | -------- |
 | Might     | 18    | +4       |
 | Swiftness | 14    | +2       |
-| Endurance | 18    | +4       |
+| Endurance | 16    | +3       |
 | Intellect | 10    | +0       |
-| Presence  | 16    | +3       |
+| Presence  | 14    | +2       |
 | Resolve   | 10    | +0       |
 
-**Distribute 6 additional points among your Facets. No Facet may exceed 18 at character creation.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ## Derived Values
 
@@ -244,14 +244,14 @@ You have Advantage on Endurance checks to resist physical hardship, torture, exh
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                               |
-| ---------------- | -------- | --------------------------------------------------- |
-| Golden Orthodoxy | -20      | You are everything they fear.                       |
-| Verdant Path     | +10      | You share goals, if not methods.                    |
-| Iron Calculation | -5       | Your disruptions affect productivity metrics.       |
-| Crimson Lineage  | -25      | You have named their families in public speeches.   |
-| Common Flame     | +30      | You are the flame.                                  |
-| Bright Mirror    | -15      | The Commission has a file on you. It is very thick. |
+| School           | Faction Standing | Notes                                               |
+| ---------------- | ---------------- | --------------------------------------------------- |
+| Golden Orthodoxy | -20              | You are everything they fear.                       |
+| Verdant Path     | +10              | You share goals, if not methods.                    |
+| Iron Calculation | -5               | Your disruptions affect productivity metrics.       |
+| Crimson Lineage  | -25              | You have named their families in public speeches.   |
+| Common Flame     | +30              | You are the flame.                                  |
+| Bright Mirror    | -15              | The Commission has a file on you. It is very thick. |
 
 ## Suggested Truths
 

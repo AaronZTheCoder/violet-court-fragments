@@ -12,7 +12,7 @@
 
 ## Description
 
-You are old in a way that numbers cannot capture. You were present at the empire's founding. You signed the original charter. You have served every era, every Council configuration, every Harmonization and reformation and counter reformation. You have outlived your children, your grandchildren, your lovers, your rivals, and your gods.
+You are old in a way that numbers cannot capture. You were present at the empire's founding. You signed the original charter. You have served every era, every Council configuration, every Harmonization Audit and reformation and counter reformation. You have outlived your children, your grandchildren, your lovers, your rivals, and your gods.
 
 You continue to attend Council sessions because you have nothing else to do, and eternity is very, very long. You are elegant, bored, and capable of both shocking kindness and monstrous cruelty depending on which seems more interesting at the moment. You are not evil. Evil requires caring enough to choose malice. You are something sadder: a being who has lived so long that morality has become a matter of aesthetic preference.
 
@@ -70,7 +70,7 @@ Eight years later his personal attendant led eight others to the Spire with tool
 
 You were told what was planned. Two days in advance, by him, in confidence, because he wanted you with them.
 
-You said you would think about it. Then you did nothing, and said nothing, and they were stopped, and Harmonized, and their names struck.
+You said you would think about it. Then you did nothing, and said nothing, and they were stopped, and Disappeared, and their names struck.
 
 You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had three hundred years to make peace with probably and have not managed it.
 
@@ -171,7 +171,7 @@ _Complication:_ You know how to heal the Crimson Dusk. The method would require 
 
 **Suggested Truth 5 (New):** You have a mortal descendant, seven generations removed, who has no idea of their heritage. You have been watching them for years. They have the same smile as your sire. You have not fed on them. You have not revealed yourself. You do not know why you are hesitating.
 
-**Suggested Truth 6 (New):** The Bright Mirror Commission has a file on you that contains information you have never told anyone. You do not know how they obtained it. You have considered destroying the file. You have considered destroying the Commission. You have done neither because you want to know how much they know and who told them. The waiting is excruciating. You are not sure you will like the answer.
+**Suggested Truth 6 (New):** The Commission for Celestial Purity has a file on you that contains information you have never told anyone. You do not know how they obtained it. You have considered destroying the file. You have considered destroying the Commission. You have done neither because you want to know how much they know and who told them. The waiting is excruciating. You are not sure you will like the answer.
 
 ---
 
@@ -205,14 +205,14 @@ You sleep as the sun rises. Your dreams are long and detailed and you remember e
 
 | Facet     | Score | Modifier |
 | --------- | ----- | -------- |
-| Might     | 14    | +2       |
-| Swiftness | 16    | +3       |
-| Endurance | 14    | +2       |
-| Intellect | 18    | +4       |
+| Might     | 10    | +0       |
+| Swiftness | 12    | +1       |
+| Endurance | 12    | +1       |
+| Intellect | 16    | +3       |
 | Presence  | 20    | +5       |
 | Resolve   | 12    | +1       |
 
-**Distribute 6 additional points among your Facets. No Facet may exceed 18 at character creation.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ---
 
@@ -224,7 +224,7 @@ You sleep as the sun rises. Your dreams are long and detailed and you remember e
 | Qi Pool           | 10 + Intellect Modifier + 6 | Calculate |
 | Sanity            | 20 + Resolve Modifier       | Calculate |
 | Initiative        | Swiftness Modifier + 1      | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 13        |
+| Defense           | 10 + Swiftness Modifier     | 11        |
 | Proficiency Bonus | Level 1                     | +2        |
 
 ---
@@ -278,14 +278,14 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                                                                    |
-| ---------------- | -------- | ---------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | +15      | You built the structure they preserve.                                                   |
-| Verdant Path     | -15      | Reform would diminish your family's power.                                               |
-| Iron Calculation | 0        | Efficiency is useful. You appreciate useful things.                                      |
-| Crimson Lineage  | +30      | You are the Lineage.                                                                     |
-| Common Flame     | -20      | You are everything they want to burn.                                                    |
-| Bright Mirror    | -10      | The Commission has tried to investigate you for centuries. They have never found enough. |
+| School           | Faction Standing | Notes                                                                                    |
+| ---------------- | ---------------- | ---------------------------------------------------------------------------------------- |
+| Golden Orthodoxy | +15              | You built the structure they preserve.                                                   |
+| Verdant Path     | -15              | Reform would diminish your family's power.                                               |
+| Iron Calculation | 0                | Efficiency is useful. You appreciate useful things.                                      |
+| Crimson Lineage  | +30              | You are the Lineage.                                                                     |
+| Common Flame     | -20              | You are everything they want to burn.                                                    |
+| Bright Mirror    | -10              | The Commission has tried to investigate you for centuries. They have never found enough. |
 
 ---
 

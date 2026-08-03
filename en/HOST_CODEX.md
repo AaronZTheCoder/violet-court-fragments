@@ -30,25 +30,25 @@ _In Practice._ You have prepared a situation: a disgraced scholar possesses a jo
 
 **The Court is a web, not a ladder.** Every character is connected to others through obligation, history, and interest. When the players pull on one thread, the whole web trembles. Track who owes what to whom.
 
-_In Practice._ The players have discovered that a mid level clerk in the Bureau of Rites is secretly funneling information to the Verdant Path. They decide to confront the clerk. Before the session, you check your relationship map. The clerk is the nephew of the Iron Calculation's chief accountant. The chief accountant owes a favor to the Night Warbler. The Night Warbler has been investigating the same clerk independently. This means that when the players confront the clerk, the web reacts. The clerk threatens them with his uncle's position. The uncle learns of the confrontation within hours. The uncle asks the Night Warbler for information about the players. The Night Warbler now knows the players are interested in the same target she is pursuing. She may approach them as a potential ally or as a rival, depending on her assessment of their usefulness. The players' simple act of confronting a clerk has rippled through four layers of the Court. You did not plan this. The web produced it naturally. This is why you maintain the map. This is why you update it between sessions. The web is the Court's immune system. When the players act, the web responds in ways that feel organic because the connections exist independently of any single scene.
+_In Practice._ The players have discovered that a mid level clerk in the Ministry of Rites is secretly funneling information to the Verdant Path. They decide to confront the clerk. Before the session, you check your relationship map. The clerk is the nephew of the Iron Calculation's chief accountant. The chief accountant owes a favor to the Night Warbler. The Night Warbler has been investigating the same clerk independently. This means that when the players confront the clerk, the web reacts. The clerk threatens them with his uncle's position. The uncle learns of the confrontation within hours. The uncle asks the Night Warbler for information about the players. The Night Warbler now knows the players are interested in the same target she is pursuing. She may approach them as a potential ally or as a rival, depending on her assessment of their usefulness. The players' simple act of confronting a clerk has rippled through four layers of the Court. You did not plan this. The web produced it naturally. This is why you maintain the map. This is why you update it between sessions. The web is the Court's immune system. When the players act, the web responds in ways that feel organic because the connections exist independently of any single scene.
 
 **The Dusk does not negotiate.** The Crimson Dusk is the one force in the game that cannot be reasoned with, bribed, or outmaneuvered. It advances at the pace you decide. Use it to create urgency when the intrigue grows too comfortable.
 
-_In Practice._ The players have spent three sessions navigating Court politics, building alliances, and accumulating Favor. They have become comfortable. They have begun to think of the Court as a game they can win. Now is the time to remind them of the stakes. Describe a messenger arriving at dawn, covered in dust, having ridden through the night. A border town has fallen to the Dusk. Not a strategic town. Not a major holding. Just a small farming community that existed on the edge of the empire's notice. But it was a week's travel closer to the capital than the last town that fell. The players watch as the messenger delivers his report to a bureau official who waves dismissively and files the report in a growing stack of similar reports. The official says "these things happen. The border has always been unstable." He is wrong. The players know he is wrong. The Dusk is not an invading army. It is not a political faction. It is reality unmaking itself. You cannot negotiate with a wound. You cannot bribe decay. When the Dusk advances, all the political games become suddenly trivial. The players must choose: continue their schemes or respond to the existential threat. The best campaigns let them do both, because that is where the hardest choices live. Do I save my ally from the Audit or do I save the village from the Dusk? The answer should never be easy.
+_In Practice._ The players have spent three sessions navigating Court politics, building alliances, and accumulating Celestial Favor. They have become comfortable. They have begun to think of the Court as a game they can win. Now is the time to remind them of the stakes. Describe a messenger arriving at dawn, covered in dust, having ridden through the night. A border town has fallen to the Dusk. Not a strategic town. Not a major holding. Just a small farming community that existed on the edge of the empire's notice. But it was a week's travel closer to the capital than the last town that fell. The players watch as the messenger delivers his report to a bureau official who waves dismissively and files the report in a growing stack of similar reports. The official says "these things happen. The border has always been unstable." He is wrong. The players know he is wrong. The Dusk is not an invading army. It is not a political faction. It is reality unmaking itself. You cannot negotiate with a wound. You cannot bribe decay. When the Dusk advances, all the political games become suddenly trivial. The players must choose: continue their schemes or respond to the existential threat. The best campaigns let them do both, because that is where the hardest choices live. Do I save my ally from the Audit or do I save the village from the Dusk? The answer should never be easy.
 
 **Every truth has a cost.** The game is full of secrets. When players uncover one, ask yourself: who does not want this known? What will they do to bury it? The discovery is the beginning of the story, not the end.
 
-_In Practice._ The players have found evidence that the current Star of the Court, the figurehead leader of the Grand Council, was not elected but installed by a cabal within the Golden Orthodoxy. This is a significant discovery. The player who found it is excited, proud of their investigative work. This is the moment when many Hosts would let the discovery stand as a victory. Instead, pause and ask who is harmed by this truth. The Golden Orthodoxy's leadership would be destroyed if this became public. The Star herself would be revealed as a puppet. The Bright Mirror would have grounds for a mass Harmonization. All of these parties now have reason to act. Within a day of the players' discovery, they receive a polite invitation to dinner from a Golden Orthodoxy minister. A junior clerk, visibly terrified, slips a note under their door warning them to drop the investigation. An attempt is made on the life of a contact who helped them find the evidence. The players now possess a truth that is also a target painted on their backs. They must decide what to do with it. Publishing it would destroy the Golden Orthodoxy and destabilize the Court. Suppressing it would protect them but betray their principles. Trading it would make them powerful but complicit. The truth is not a reward. It is a responsibility. Make the players feel its weight.
+_In Practice._ The players have found evidence that the current Star of the Court, the figurehead leader of the Grand Council, was not elected but installed by a cabal within the Golden Orthodoxy. This is a significant discovery. The player who found it is excited, proud of their investigative work. This is the moment when many Hosts would let the discovery stand as a victory. Instead, pause and ask who is harmed by this truth. The Golden Orthodoxy's leadership would be destroyed if this became public. The Star herself would be revealed as a puppet. The Bright Mirror would have grounds for a mass Harmonization Audit. All of these parties now have reason to act. Within a day of the players' discovery, they receive a polite invitation to dinner from a Golden Orthodoxy minister. A junior clerk, visibly terrified, slips a note under their door warning them to drop the investigation. An attempt is made on the life of a contact who helped them find the evidence. The players now possess a truth that is also a target painted on their backs. They must decide what to do with it. Publishing it would destroy the Golden Orthodoxy and destabilize the Court. Suppressing it would protect them but betray their principles. Trading it would make them powerful but complicit. The truth is not a reward. It is a responsibility. Make the players feel its weight.
 
 ### Common Host Mistakes
 
 Even experienced Hosts make errors. Here are the most common pitfalls specific to the Violet Court and how to avoid them.
 
-**Mistake One: Overpreparing the Court.** You create detailed biographies for fifty minor officials. You map every corridor of the Ministry of Harmonious Records. You have schedules, routines, and backup plans. The players spend an entire session talking to one clerk and then leave for the Outer Market, never to return. This is not a waste. It is the natural result of player agency. Prepare situations, not floorplans. For minor officials, the NPC Quick Generator in Part Seven is sufficient. Create depth for the figures who matter. Let the rest be improvised. Your improvisation will be better than your preparation because it will respond directly to what the players are doing.
+**Mistake One: Overpreparing the Court.** You create detailed biographies for fifty minor officials. You map every corridor of the Bureau of Harmonious Records. You have schedules, routines, and backup plans. The players spend an entire session talking to one clerk and then leave for the Outer Market, never to return. This is not a waste. It is the natural result of player agency. Prepare situations, not floorplans. For minor officials, the NPC Quick Generator in Part Seven is sufficient. Create depth for the figures who matter. Let the rest be improvised. Your improvisation will be better than your preparation because it will respond directly to what the players are doing.
 
-**Mistake Two: Overusing Audits.** Harmonization Audits are the Violet Court's signature event. They are also devastating to the players' resources and relationships. If you run an Audit every four sessions, they cease to be special. The players become numb to them. They stop caring about Harmony because they assume they will be punished regardless. Limit Audits to two or three per campaign. Let them be watershed moments that change the direction of the story. An Audit that arrives after ten sessions of careful play has ten times the impact of an Audit that arrives after three.
+**Mistake Two: Overusing Audits.** Harmonization Audits are the Violet Court's signature event. They are also devastating to the players' resources and relationships. If you run an Audit every four sessions, they cease to be special. The players become numb to them. They stop caring about Ritual Harmony because they assume they will be punished regardless. Limit Audits to two or three per campaign. Let them be watershed moments that change the direction of the story. An Audit that arrives after ten sessions of careful play has ten times the impact of an Audit that arrives after three.
 
-**Mistake Three: Making the Crimson Dusk a Background Detail.** The Dusk is easy to forget. It is distant, abstract, and slow moving. If you only mention it when it advances on the map, the players will treat it as weather: something that happens outside their concern. Bring the Dusk into every session, even briefly. A refugee in the market. A report of a Dusk touched oracle speaking prophecy. A shipment of supplies being diverted to the front. A character's dream of red light seeping under a door. The Dusk should be a constant presence, like a low note that never stops playing.
+**Mistake Three: Making the Crimson Dusk a Background Detail.** The Dusk is easy to forget. It is distant, abstract, and slow moving. If you only mention it when it advances on the map, the players will treat it as weather: something that happens outside their concern. Bring the Dusk into every session, even briefly. A refugee in the market. A report of a Dusk Touched oracle speaking prophecy. A shipment of supplies being diverted to the front. A character's dream of red light seeping under a door. The Dusk should be a constant presence, like a low note that never stops playing.
 
 **Mistake Four: Forgetting the Web.** When players interact with a figure, the other figures in the web should react. If the players meet with the Guest Among Forests, the Bright Mirror should learn of it. If the players help the Iron Calculation, the Golden Orthodoxy should take notice. The simplest way to implement this is to end each session by asking yourself: which three figures in the web would care about what just happened? Then have them act between sessions. A message arrives. A favor is called in. A relationship on the map changes color. The players learn that their actions have observers.
 
@@ -58,7 +58,7 @@ Even experienced Hosts make errors. Here are the most common pitfalls specific t
 
 **Mistake Seven: Resisting Player Ideas.** A player says "I want to start a rumor that the Bright Mirror is corrupt. I have a plan." Your instinct might be to protect your vision. You have prepared the Bright Mirror as an incorruptible figure. A rumor that she is corrupt undermines that. Resist the instinct to say no. Instead, ask: how do you do this? Who do you approach first? What evidence do you plant? The Court is a system of perception and belief. If the players invest resources in changing what people believe, let them. The Bright Mirror will eventually learn who started the rumor. She will respond. But the rumor itself can change the Court's dynamics in ways you never anticipated. The players will feel powerful. The Bright Mirror will become a more complex figure: someone whose reputation can be damaged despite her actual purity. This is interesting.
 
-**Mistake Eight: Running the Game Alone.** The Violet Court is complex. You do not need to carry it alone. Delegate. Ask a player to track the relationship map. Ask another to manage the Favor tracker. If you are unsure about a rule, ask the table: "what feels right here?" The players are your collaborators. They want the game to be good. Lean on them. A Host who tries to control everything ends up controlling nothing. A Host who shares the burden ends up with a table of invested, engaged players who co own the story.
+**Mistake Eight: Running the Game Alone.** The Violet Court is complex. You do not need to carry it alone. Delegate. Ask a player to track the relationship map. Ask another to manage the Celestial Favor tracker. If you are unsure about a rule, ask the table: "what feels right here?" The players are your collaborators. They want the game to be good. Lean on them. A Host who tries to control everything ends up controlling nothing. A Host who shares the burden ends up with a table of invested, engaged players who co own the story.
 
 ---
 
@@ -102,7 +102,7 @@ Each school is not merely a school of thought. It is a coherent answer to the qu
 
 **The Iron Calculation** believes in optimization. Governance is engineering. Doctrine is a variable to be tuned. If the Court would simply let them run the empire as a machine, everything would work. Their weakness: people are not machines. A system optimized for efficiency rather than humanity eventually grinds the humanity out of everyone in it.
 
-**The Crimson Lineage** believes in inheritance. Rule is in the blood. The families who built the empire should govern it. They are not wrong that institutional knowledge matters. They are not wrong that the Court's doctrinal Harmonizations destroy competence as often as corruption. Their weakness: they are dying. Their children do not want the burden. Their grandchildren barely know the old names.
+**The Crimson Lineage** believes in inheritance. Rule is in the blood. The families who built the empire should govern it. They are not wrong that institutional knowledge matters. They are not wrong that the Court's doctrinal Harmonization Audits destroy competence as often as corruption. Their weakness: they are dying. Their children do not want the burden. Their grandchildren barely know the old names.
 
 **The Common Flame** believes in the people. The Court exists to serve, not to rule. When it forgets this, the people have the right to remind it. With fire, if necessary. Their weakness: rage is not a governance plan. Burning down the old order is easy. Building something better is hard. The wolf does not build.
 
@@ -147,14 +147,14 @@ Use these details to ground the Court in sensory reality:
 
 When portraying figures aligned with each school, return to their core belief:
 
-| School           | Core Belief                                  | How They Address You                                                                              |
-| ---------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | "Preserve what the Founders built."          | Formally, using full titles. They are always evaluating your orthodoxy.                           |
-| Verdant Path     | "The world changes. We must change with it." | Warmly, but with an edge of exhaustion. They have survived Harmonizations. They know the cost.    |
-| Iron Calculation | "Everything can be measured and improved."   | Efficiently. They value your time as much as theirs. They have no patience for ceremony.          |
-| Crimson Lineage  | "Blood remembers what doctrine forgets."     | With ancient courtesy. They are patient. They have been playing this game for centuries.          |
-| Common Flame     | "Power should serve the powerless."          | Directly, sometimes aggressively. They are testing whether you are real or just another courtier. |
-| Bright Mirror    | "Purity is not negotiable."                  | With unnerving intensity. They are always watching. They are always weighing.                     |
+| School           | Core Belief                                  | How They Address You                                                                                 |
+| ---------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Golden Orthodoxy | "Preserve what the Founders built."          | Formally, using full titles. They are always evaluating your orthodoxy.                              |
+| Verdant Path     | "The world changes. We must change with it." | Warmly, but with an edge of exhaustion. They have survived Harmonization Audits. They know the cost. |
+| Iron Calculation | "Everything can be measured and improved."   | Efficiently. They value your time as much as theirs. They have no patience for ceremony.             |
+| Crimson Lineage  | "Blood remembers what doctrine forgets."     | With ancient courtesy. They are patient. They have been playing this game for centuries.             |
+| Common Flame     | "Power should serve the powerless."          | Directly, sometimes aggressively. They are testing whether you are real or just another courtier.    |
+| Bright Mirror    | "Purity is not negotiable."                  | With unnerving intensity. They are always watching. They are always weighing.                        |
 
 ### Tracking the Web
 
@@ -162,7 +162,7 @@ The Host should maintain a simple relationship map. On a sheet of paper, write t
 
 This web is a living thing. The players' actions add new lines and erase old ones. By the end of a campaign, the map should look entirely different from how it began.
 
-### The Ministry of Harmonious Records
+### The Bureau of Harmonious Records
 
 _Read aloud when the players first approach:_
 
@@ -206,9 +206,9 @@ _Interactive elements:_
 
 1. The Information Brokers: At a permanent stall near the market's center, a tea seller named Old Feng also sells information. His prices vary based on your need. If he thinks you are desperate, he charges more. If he thinks you are dangerous, he charges less. Old Feng knows everyone and forgets nothing.
 2. The Charm Seller: An old woman whose stall is covered in talismans, bones, and small bottles of colored liquid. Her charms may or may not work. She is honest about this. "Some work. Some do not. The difference is belief, not quality." She knows things about the Dusk that she should not know. She will not explain how.
-3. The Auction Platform: At the south end of the market, rare goods are auctioned daily. Anything can appear: a confiscated scroll from the Archives, a Dusk touched artifact, a prisoner of war, a secret. Players who watch the auctions learn a great deal about what the Court values and what it fears.
+3. The Auction Platform: At the south end of the market, rare goods are auctioned daily. Anything can appear: a confiscated scroll from the Archives, a Dusk Touched artifact, a prisoner of war, a secret. Players who watch the auctions learn a great deal about what the Court values and what it fears.
 
-_Hidden secret:_ Beneath a particular fruit stall there is a trapdoor leading to a tunnel network that connects to the Ministry of Harmonious Records, the Grand Council Chamber, and the Spire of Eternal Vigil. The tunnel was built by the Alchemists three hundred years ago. The current owner of the fruit stall is a descendant who has been paid to keep the secret by an unknown patron. The patron changes every few decades. No one currently alive knows who the patron is.
+_Hidden secret:_ Beneath a particular fruit stall there is a trapdoor leading to a tunnel network that connects to the Bureau of Harmonious Records, the Grand Council Chamber, and the Spire of Eternal Vigil. The tunnel was built by the Alchemists three hundred years ago. The current owner of the fruit stall is a descendant who has been paid to keep the secret by an unknown patron. The patron changes every few decades. No one currently alive knows who the patron is.
 
 ### The Teahouse of Whispered Petitions
 
@@ -265,22 +265,22 @@ A Harmonization Audit has four phases:
 
 **Phase One: The Whisper.** Three to five days before the Audit is formally announced, rumors begin. The players hear that names are being collected. They see officials burning documents. They receive nervous visits from allies asking if they have heard anything. This phase is for preparation: players can hide evidence, call in favors, or make deals to improve their position.
 
-**Phase Two: The Investigation.** The Audit is announced. Investigators from the Commission for Celestial Purity begin reviewing dossiers. Each player's Harmony score determines their baseline risk. Their faction standing determines their protection. The players may be summoned for questioning. This is a social encounter: how they perform under interrogation affects the outcome.
+**Phase Two: The Investigation.** The Audit is announced. Investigators from the Commission for Celestial Purity begin reviewing dossiers. Each player's Ritual Harmony determines their baseline risk. Their Faction Standing determines their protection. The players may be summoned for questioning. This is a social encounter: how they perform under interrogation affects the outcome.
 
-**Phase Three: The Judgment.** Names are published. Some officials are cleared. Some are sanctioned (loss of position, loss of Favor, instruction). Some disappear. For each player, roll the Audit Resolution (see below). The results are public: everyone sees who survived and who did not.
+**Phase Three: The Judgment.** Names are published. Some officials are cleared. Some are sanctioned (loss of position, loss of Celestial Favor, instruction). Some disappear. For each player, roll the Audit Resolution (see below). The results are public: everyone sees who survived and who did not.
 
 **Phase Four: The Aftermath.** Power vacuums open. The survivors scramble to fill them. Alliances shift. Revenge is plotted. The players emerge changed, if they emerge at all.
 
 ### Audit Resolution
 
-For each player, the Host determines a **Risk Level** based on the character's Harmony and faction standing:
+For each player, the Host determines a **Risk Level** based on the character's Ritual Harmony and Faction Standing:
 
-| Harmony  | Strong Protection | Moderate Protection | No Protection | Enemies       |
-| -------- | ----------------- | ------------------- | ------------- | ------------- |
-| 60+      | Minimal Risk      | Low Risk            | Moderate Risk | High Risk     |
-| 40 to 59 | Low Risk          | Moderate Risk       | High Risk     | Critical Risk |
-| 20 to 39 | Moderate Risk     | High Risk           | Critical Risk | Terminal      |
-| Below 20 | High Risk         | Critical Risk       | Terminal      | Terminal      |
+| Ritual Harmony | Strong Protection | Moderate Protection | No Protection | Enemies       |
+| -------------- | ----------------- | ------------------- | ------------- | ------------- |
+| 60+            | Minimal Risk      | Low Risk            | Moderate Risk | High Risk     |
+| 40 to 59       | Low Risk          | Moderate Risk       | High Risk     | Critical Risk |
+| 20 to 39       | Moderate Risk     | High Risk           | Critical Risk | Terminal      |
+| Below 20       | High Risk         | Critical Risk       | Terminal      | Terminal      |
 
 **Risk Outcomes (roll d20):**
 
@@ -294,32 +294,32 @@ For each player, the Host determines a **Risk Level** based on the character's H
 | Terminal   | 20 only | 15 to 19   | 1 to 14     |
 
 **Cleared:** No consequences. Perhaps a warning.
-**Sanctioned:** Loss of 2d10 Favor. Loss of 1d10 Harmony. Possible loss of position. Public humiliation.
+**Sanctioned:** Loss of 2d10 Celestial Favor. Loss of 1d10 Ritual Harmony. Possible loss of position. Public humiliation.
 **Disappeared:** The character is taken. The player creates a new character. This is how the first legacy cycle begins.
 
 ### Risk Baseline Definitions
 
-The Risk table assumes the following definitions for faction standing:
+The Risk table assumes the following definitions for Faction Standing:
 
-**Strong Protection (Standing 30+):** You have at least one faction that actively protects you. They will spend political capital, call in favors, and shield you from investigation. This protection is not absolute, but it is significant. A player who has cultivated a faction to this level should feel that investment paying off during an Audit.
+**Strong Protection (Faction Standing 30+):** You have at least one faction that actively protects you. They will spend political capital, call in favors, and shield you from investigation. This protection is not absolute, but it is significant. A player who has cultivated a faction to this level should feel that investment paying off during an Audit.
 
-**Moderate Protection (Standing 10 to 29):** You have a faction that values you enough to offer some protection. They will not risk their own position for you, but they will speak on your behalf and may quietly intervene if the cost is low. The protection is real but limited.
+**Moderate Protection (Faction Standing 10 to 29):** You have a faction that values you enough to offer some protection. They will not risk their own position for you, but they will speak on your behalf and may quietly intervene if the cost is low. The protection is real but limited.
 
-**No Protection (Standing -9 to +9):** You have no faction willing to protect you. You stand alone. Your fate depends entirely on your Harmony and your own actions during the Audit. This is the default state for most characters at the start of a campaign.
+**No Protection (Faction Standing -9 to +9):** You have no faction willing to protect you. You stand alone. Your fate depends entirely on your Ritual Harmony and your own actions during the Audit. This is the default state for most characters at the start of a campaign.
 
-**Enemies (Standing -10 or below):** A faction actively works against you. They will provide evidence, testimony, or rumors to the Commission. Having enemies does not guarantee you will be targeted, but it means someone with influence is actively trying to make you the target.
+**Enemies (Faction Standing -10 or below):** A faction actively works against you. They will provide evidence, testimony, or rumors to the Commission. Having enemies does not guarantee you will be targeted, but it means someone with influence is actively trying to make you the target.
 
-**Harmony Baseline.** A character's Harmony score determines their row in the table. Harmony 60+ places a character in the safest band, reflecting a life aligned with the Court's expectations. Harmony 40 to 59 is the standard starting range, representing normal variance in adherence to doctrine. Harmony 20 to 39 reflects a pattern of deviation that has been noticed. Harmony below 20 indicates a character who lives at the edges of what the Court tolerates.
+**Ritual Harmony Baseline.** A character's Ritual Harmony determines their row in the table. Ritual Harmony 60+ places a character in the safest band, reflecting a life aligned with the Court's expectations. Ritual Harmony 40 to 59 is the standard starting range, representing normal variance in adherence to doctrine. Ritual Harmony 20 to 39 reflects a pattern of deviation that has been noticed. Ritual Harmony below 20 indicates a character who lives at the edges of what the Court tolerates.
 
 ### Worked Example: Calculating Risk
 
-Consider a character named Mara, a Bright Mirror with Harmony 48 and the following faction standings: Golden Orthodoxy +5, Verdant Path +20, Crimson Lineage -12, Common Flame +15, Iron Calculation 0.
+Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Crimson Lineage -12, Common Flame +15, Iron Calculation 0.
 
-Mara's Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has -12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
+Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has -12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
-On the table, cross-referencing Harmony 40 to 59 with Moderate Protection gives a Risk Level of "High Risk." This means on a d20, Mara is Cleared on 16+, Sanctioned on 8 to 15, and Disappeared on 1 to 7. She has roughly a 40 percent chance of being Sanctioned and a 35 percent chance of Disappearing. Her position is precarious despite her decent Harmony score, because she has not cultivated strong enough faction protection.
+On the table, cross-referencing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "High Risk." This means on a d20, Mara is Cleared on 16+, Sanctioned on 8 to 15, and Disappeared on 1 to 7. She has roughly a 40 percent chance of being Sanctioned and a 35 percent chance of Disappearing. Her position is precarious despite her decent Ritual Harmony, because she has not cultivated strong enough faction protection.
 
-If Mara had Harmony 55 and had cultivated the Verdant Path to +30, she would have Strong Protection and face Low Risk (Cleared on 8+, Sanctioned on 3 to 7, Disappeared on 1 to 2). If she had Harmony 35 and Enemies, she would face Critical Risk (Cleared on 19+, Sanctioned on 12 to 18, Disappeared on 1 to 11). The wide range of possible outcomes shows why faction management and Harmony maintenance matter so much in the approach to an Audit.
+If Mara had Ritual Harmony 55 and had cultivated the Verdant Path to +30, she would have Strong Protection and face Low Risk (Cleared on 8+, Sanctioned on 3 to 7, Disappeared on 1 to 2). If she had Ritual Harmony 35 and Enemies, she would face Critical Risk (Cleared on 19+, Sanctioned on 12 to 18, Disappeared on 1 to 11). The wide range of possible outcomes shows why faction management and Ritual Harmony maintenance matter so much in the approach to an Audit.
 
 ### Adjusting Risk for Creative Player Actions
 
@@ -331,13 +331,13 @@ The standard Risk calculation assumes typical Audit participation. Players who t
 
 - **Using unconventional skills to aid the investigation** (Qi Theory to authenticate documents, Lore to identify ritual evidence, Medicine to examine a body): Reduce Risk by one level if the contribution is significant and noted by a sympathetic investigator. The Commission does not value your skills directly, but they value results.
 
-- **Invoking a high-level patron** (a Grand Council member, a Ten Figures ally): Reduce Risk by one level if the patron's intervention is credible and public. The patron will likely demand repayment later.
+- **Invoking a high-level patron** (a Grand Council member, a Twelve Figures ally): Reduce Risk by one level if the patron's intervention is credible and public. The patron will likely demand repayment later.
 
 - **Drawing attention from the Bright Mirror**: If the Bright Mirror takes a personal interest in a player during the Audit, increase Risk by one level regardless of other factors. Her interest is never casual.
 
 - **Being caught in a lie to an investigator**: If the lie is discovered, increase Risk by one level. If the lie was about something directly relevant to the Audit, increase by two levels.
 
-- **Making a deal with a Dusk-touched entity during the Audit**: Increase Risk by two levels. The Commission notices the taint on a character's Qi even if the deal was not observed.
+- **Making a deal with a Dusk Touched entity during the Audit**: Increase Risk by two levels. The Commission notices the taint on a character's Qi even if the deal was not observed.
 
 The goal of these adjustments is to reward engagement with the Audit process. A player who takes creative, story-driven actions should feel that their choices matter. A player who treats the Audit as an inconvenience to be waited out should feel the tension of passivity.
 
@@ -345,10 +345,10 @@ The goal of these adjustments is to reward engagement with the Audit process. A 
 
 Players are not passive during an Audit. They may:
 
-- **Call in a Favor:** Spend 10 Celestial Favor to reduce Risk by one level. This represents calling in a debt from a powerful patron.
+- **Call in Celestial Favor:** Spend 10 Celestial Favor to reduce Risk by one level. This represents calling in a debt from a powerful patron.
 - **Produce Leverage:** If the player has blackmail material on an investigator, they may use it to reduce Risk by one level. The material is spent: once used, it cannot be used again.
 - **Throw Someone Else to the Wolves:** A player may name another official (NPC or, if the table consents, another player) as a more deserving target. This is a Presence + Deception roll against TN 18. On success, the named target's Risk increases by one level while the player's Risk decreases by one. On failure, the player's Risk increases.
-- **Flee:** The player may attempt to escape the capital before the Judgment. This is a series of skill checks (Stealth, Survival, Connections). On success, the character survives but loses all standing, all Favor, and becomes a fugitive. This is functionally a new character but retains the same identity and knowledge.
+- **Flee:** The player may attempt to escape the capital before the Judgment. This is a series of skill checks (Stealth, Survival, Connections). On success, the character survives but loses all Faction Standing values and all Celestial Favor, and becomes a fugitive. This is functionally a new character but retains the same identity and knowledge.
 
 ### Example Audit: The Prepared Players
 
@@ -356,7 +356,7 @@ This example assumes the players saw the Audit coming and took steps to protect 
 
 **Phase One: The Whisper.** The session begins with a minor official the players befriended showing up at their residence late at night. His hands are shaking. He says he heard a name mentioned in the Commission corridors. Not the players' names. But a name connected to them. The players immediately begin preparing. One player visits the Iron Calculation and offers a future favor in exchange for a doctored resource allocation report that shows their department is essential to the war effort. Another player visits the Teahouse and leaves a token for the Underground Network, requesting information on which investigator has been assigned to their case. A third player burns several compromising documents in the garden brazier and buries the ashes. They are proactive. They do not wait to see what happens.
 
-**Phase Two: The Investigation.** The Audit is announced targeting the Bureau of Rites, where two of the three players work. The lead investigator is a Justicar named Wei, known for her thoroughness and her incorruptibility. The players have learned through the Underground Network that Wei has a personal grudge against their section chief, who once insulted her in a Council session. This is useful: they can redirect her attention. When summoned for questioning, the player with the forged resource allocation report presents it with calm confidence. The player with the best social skills handles the interrogation, volleying Wei's questions with respectful deflections. The third player stays silent but watches for tells. When Wei asks directly about a discrepancy in last month's ledgers, the first player smoothly blames the now disgraced section chief. It is a lie. It is also plausible. Wei's grudge makes her receptive. She moves on.
+**Phase Two: The Investigation.** The Audit is announced targeting the Ministry of Rites, where two of the three players work. The lead investigator is a Justicar named Wei, known for her thoroughness and her incorruptibility. The players have learned through the Underground Network that Wei has a personal grudge against their section chief, who once insulted her in a Council session. This is useful: they can redirect her attention. When summoned for questioning, the player with the forged resource allocation report presents it with calm confidence. The player with the best social skills handles the interrogation, volleying Wei's questions with respectful deflections. The third player stays silent but watches for tells. When Wei asks directly about a discrepancy in last month's ledgers, the first player smoothly blames the now disgraced section chief. It is a lie. It is also plausible. Wei's grudge makes her receptive. She moves on.
 
 **Phase Three: The Judgment.** When the names are published, all three players are Cleared. Their section chief is Sanctioned: demoted, publicly humiliated, and reassigned to a distant border post. The players breathe a collective sigh of relief. But they also notice something disturbing. The third player, who stayed silent during the interrogation, drew the attention of a different investigator. That investigator noted the player's name in a separate file. The file is not closed. It is merely pending.
 
@@ -370,9 +370,9 @@ This example assumes the players ignored the warnings and were caught flat foote
 
 **Phase Two: The Investigation.** The Audit is announced without warning. A scroll bearing the Commission's seal arrives at the players' residence at dawn. They are to present themselves for questioning within the hour. They arrive flustered and unprepared. The interrogation room is cold and windowless. The investigator is a Senior Justicar named Sheng, a man with a reputation for finding what you least want him to find. He has done his homework. He knows about the player's Dusk investigation. He knows about the failed Qi experiment. He knows about the meeting with the Golden Orthodoxy contact. He asks questions in a calm, unhurried voice, and he already knows the answers. The players stumble. They contradict each other. One player loses their temper and threatens Sheng, which is exactly the reaction he was hoping for. He notes it. The interview ends. The players leave knowing they have done poorly.
 
-**Phase Three: The Judgment.** The names are published at sunset. One player is Sanctioned: loss of 15 Favor, loss of 8 Harmony, demoted from their current position to a filing clerk in a sub basement office that nobody visits. The second player is Sanctioned more lightly: a fine of 10 Favor and a formal warning placed in their permanent record. The third player, the one who threatened Sheng, has Disappeared. The other players search for them. They find nothing. The Commission denies knowing the name. The player's former residence has been sealed. It is as though they never existed. The third player's player must create a new character, beginning the legacy cycle.
+**Phase Three: The Judgment.** The names are published at sunset. One player is Sanctioned: loss of 15 Celestial Favor, loss of 8 Ritual Harmony, demoted from their current position to a filing clerk in a sub basement office that nobody visits. The second player is Sanctioned more lightly: a fine of 10 Celestial Favor and a formal warning placed in their permanent record. The third player, the one who threatened Sheng, has Disappeared. The other players search for them. They find nothing. The Commission denies knowing the name. The player's former residence has been sealed. It is as though they never existed. The third player's player must create a new character, beginning the legacy cycle.
 
-**Phase Four: The Aftermath.** The surviving players are shaken. They have lost their colleague, their standing, and their momentum. The demoted player now works in a sub basement office where documents are sent to be forgotten. In that office, they discover something interesting: a stack of unresolved correspondence from a decade ago, involving someone whose name they recognize from the Court's founding records. The Sanction was devastating. But it has also placed the player exactly where a piece of the larger mystery is hidden. Every setback is also an opportunity. The players must now decide how to rebuild. They are bruised. They are diminished. They are not dead.
+**Phase Four: The Aftermath.** The surviving players are shaken. They have lost their colleague, their Faction Standing, and their momentum. The demoted player now works in a sub basement office where documents are sent to be forgotten. In that office, they discover something interesting: a stack of unresolved correspondence from a decade ago, involving someone whose name they recognize from the Court's founding records. The Sanction was devastating. But it has also placed the player exactly where a piece of the larger mystery is hidden. Every setback is also an opportunity. The players must now decide how to rebuild. They are bruised. They are diminished. They are not dead.
 
 ### At the Table: Running Your First Audit
 
@@ -390,7 +390,7 @@ _The Grudge._ This investigator has a personal reason to want the players to suf
 
 **What the Players Should Know Before Their First Audit.**
 
-The characters live in the Court. They know what an Audit is. Do not let the players walk into an Audit blind because their characters would understand the basics. Before the Audit begins, tell the players what their characters would know. An Audit investigates doctrinal purity and factional loyalty. Outcomes range from cleared to Sanctioned (loss of Favor and rank) to Disappeared (character removal). Having a powerful patron reduces risk. Having enemies increases it. Lying to an investigator is dangerous but sometimes necessary. Refusing to answer is a right that carries its own consequences. Give them this information in character through a nervous ally or a warning note. Players who understand the stakes make better choices, and better choices create better stories.
+The characters live in the Court. They know what an Audit is. Do not let the players walk into an Audit blind because their characters would understand the basics. Before the Audit begins, tell the players what their characters would know. An Audit investigates doctrinal purity and factional loyalty. Outcomes range from Cleared to Sanctioned (loss of Celestial Favor and rank) to Disappeared (character removal). Having a powerful patron reduces risk. Having enemies increases it. Lying to an investigator is dangerous but sometimes necessary. Refusing to answer is a right that carries its own consequences. Give them this information in character through a nervous ally or a warning note. Players who understand the stakes make better choices, and better choices create better stories.
 
 **A Minute by Minute Timeline for the Host During an Audit Scene**
 
@@ -426,15 +426,15 @@ Assume the players have been summoned for interrogation. The scene should take 2
 
 5. "The investigator just asked a question you cannot answer. That is fine. You can deflect. You can redirect. You can answer a different question entirely. The game here is not about the truth. It is about who controls the conversation."
 
-**Three Examples of How Different Risk Outcomes Feel to the Player**
+**Four Examples of How Different Risk Outcomes Feel to the Player**
 
 Each example is narrated in second person, as the Host would describe it to the player.
 
 **Cleared (Minimal Risk).** "You step out of the interrogation chamber and the light hits you like a physical force. You had forgotten how bright the world is. The investigator said nothing memorable. They asked their questions. You gave your answers. They nodded. It felt like a transaction, not a trial. You reach the outer door and realize your hands are shaking. You did not know you were afraid until the fear left you. You are cleared. The Commission has no interest in you. But as you walk away, you hear your name spoken behind you, just once, in a voice you do not recognize. It could be nothing. It could be everything."
 
-**Sanctioned (Moderate Risk).** "The investigator reads the judgment aloud without looking at you. It is a formality. The decision was made before you entered the room. Ten points of Favor are forfeited. Your rank is reduced one level. A formal letter of reprimand will be placed in your permanent file. You are assigned to a new post effective immediately: liaison to the grain accounting office in the Eastern District. It is a demotion. It is also a message. Someone wanted you moved. You do not know who. You will spend the next month finding out. The investigator slides a document across the table for your signature. Your pen scratches against the paper. It is the loudest sound in the room."
+**Sanctioned (Moderate Risk).** "The investigator reads the judgment aloud without looking at you. It is a formality. The decision was made before you entered the room. Ten points of Celestial Favor are forfeited. Your rank is reduced one level. A formal letter of reprimand will be placed in your permanent file. You are assigned to a new post effective immediately: liaison to the grain accounting office in the Eastern District. It is a demotion. It is also a message. Someone wanted you moved. You do not know who. You will spend the next month finding out. The investigator slides a document across the table for your signature. Your pen scratches against the paper. It is the loudest sound in the room."
 
-**Sanctioned (Critical Risk).** "The judgment is delivered not by the investigator but by a Commission herald, which means the decision came from above. You are not merely demoted. You are stripped of your rank entirely. Your Favor balance is confiscated. Your residence is sealed. You are given a new posting in a border supply depot, a place where officials go to be forgotten. The herald reads the judgment without inflection. 'You will report to your new post within seven days. Noncompliance will result in immediate Harmonization.' You are given a travel pass, a ration token, and a copy of the charges against you. The charges are fabricated. You know they are fabricated. So does the herald. So does everyone in the room. That does not change anything. You have three days to say your goodbyes. Three days to decide whether you will actually board that cart to the border."
+**Sanctioned (Critical Risk).** "The judgment is delivered not by the investigator but by a Commission herald, which means the decision came from above. You are not merely demoted. You are stripped of your rank entirely. Your Celestial Favor balance is confiscated. Your residence is sealed. You are given a new posting in a border supply depot, a place where officials go to be forgotten. The herald reads the judgment without inflection. 'You will report to your new post within seven days. Noncompliance will result in immediate Harmonization.' You are given a travel pass, a ration token, and a copy of the charges against you. The charges are fabricated. You know they are fabricated. So does the herald. So does everyone in the room. That does not change anything. You have three days to say your goodbyes. Three days to decide whether you will actually board that cart to the border."
 
 **Disappeared (Terminal Risk).** "You are not given a judgment. You are given tea. The investigator pours it herself, a gesture that feels almost kind. She asks about your family, your health, your plans for the evening. You answer. You do not know why you are answering. The tea is warm. The room is quiet. Then you notice that the door behind you has been closed by someone you did not see enter. There are two guards where there was one before. The investigator is still smiling. She is still kind. 'There are some questions,' she says, 'that cannot be answered in a judgment chamber. We have a quieter place. We would like you to come with us.' You do not have a choice. You will not return. The people who know your name will slowly forget they ever knew it."
 
@@ -442,7 +442,7 @@ Each example is narrated in second person, as the Host would describe it to the 
 
 Before the session, confirm that you have the following ready:
 
-- The Risk table with each player's Harmony and faction standing filled in.
+- The Risk table with each player's Ritual Harmony and Faction Standing filled in.
 - The name and personality of the lead investigator prepared.
 - Three specific questions based on the players' recent actions. The questions should be grounded in what actually happened in play. Generic questions feel like filler. Specific questions feel like consequences.
 - One piece of leverage for each player that they could potentially use: a secret, a connection, or a piece of blackmail. The players may not find all of these, but having them ready gives you options when they get creative.
@@ -457,15 +457,15 @@ One: do not make the outcome purely random. The dice have their place, but the p
 
 Two: do not let the Audit become a solo scene for one player while everyone watches. If one player is being interrogated, cut to the others. What are they doing? Are they trying to bribe a clerk? Are they destroying evidence? Are they making deals with other officials who are also under investigation? The Audit should involve everyone, not just the person in the chair.
 
-Three: do not forget the aftermath. The most important part of an Audit is what happens after it ends. The players have lost Favor, rank, and allies. They have made enemies. They have discovered who their real friends are. The session after an Audit should be about rebuilding, about the changed relationships, about the new dynamics. The Audit is a door. The aftermath is what lies on the other side.
+Three: do not forget the aftermath. The most important part of an Audit is what happens after it ends. The players have lost Celestial Favor, rank, and allies. They have made enemies. They have discovered who their real friends are. The session after an Audit should be about rebuilding, about the changed relationships, about the new dynamics. The Audit is a door. The aftermath is what lies on the other side.
 
 ---
 
-## Part Five: The Ten Figures as NPCs
+## Part Five: The Twelve Figures as NPCs
 
 ### Bringing the Figures to Life
 
-The ten figures are not stat blocks. They are people with histories, wounds, desires, and secrets. This section provides guidance for portraying each one at the table.
+The twelve figures are not stat blocks. They are people with histories, wounds, desires, and secrets. This section provides guidance for portraying each one at the table.
 
 ### Cinnabar Heart
 
@@ -484,7 +484,7 @@ _First Impression._ The players are shown into an office that is aggressively or
 _Sample Quotes for the Host._
 
 1. "The regulation requires that all documents be filed in triplicate. Do you know why? Because one copy is for the record. One copy is for the Commission. And one copy disappears. The disappearing copy is the one that matters."
-2. "I have served under seventeen Directors of the Bureau. Twelve were Harmonized. Three retired. Two are still alive, though I would not call what they are doing living. The secret is not to be valuable enough to destroy. The secret is to be tedious enough to ignore."
+2. "I have served under seventeen Directors of the Bureau. Twelve were Disappeared. Three retired. Two are still alive, though I would not call what they are doing living. The secret is not to be valuable enough to destroy. The secret is to be tedious enough to ignore."
 3. "You asked me a question earlier. You think I did not answer. I did answer. You simply did not recognize the answer because you were expecting a different form."
 4. "This tea is from my private reserve. Drink it. It may be the last honest thing anyone serves you in this building."
 5. "If I told you everything I know, you would not thank me. You would curse me. Some knowledge is not a gift. It is a poison that takes seventy years to kill you."
@@ -547,7 +547,7 @@ _Additional Scene Seeds._
 
 **What She Fears:** That she is wrong. That reform is impossible. That the Court will always crush anyone who tries to change it. That her four hundred years of struggle have accomplished nothing.
 
-**Scene Seed:** She invites the players to walk with her in the Imperial Gardens. As they walk, she points out plants that have survived every Harmonization, every regime change, every disaster. "They bend," she says. "That is the secret. They bend, and they keep growing."
+**Scene Seed:** She invites the players to walk with her in the Imperial Gardens. As they walk, she points out plants that have survived every Harmonization Audit, every regime change, every disaster. "They bend," she says. "That is the secret. They bend, and they keep growing."
 
 _First Impression._ The Guest Among Forests is not what the players expect. She is not ancient and frail. She is a woman who appears to be in her late forties, with weathered skin, strong hands, and grey streaked hair pulled back in a practical knot. She wears simple clothing, no jewelry, no official insignia. She could be a farmer or a merchant. She moves with the ease of someone who has lived in her body for a very long time. When she meets the players, she looks at them as though she has all the time in the world. She asks their names and then repeats them, committing them to memory. She touches each player on the shoulder as she greets them, a gesture so warm that it feels almost improper in the cold environment of the Court. Her eyes are what stay with the players. They are the eyes of someone who has seen four centuries of human cruelty and has not stopped hoping.
 
@@ -557,9 +557,9 @@ _Sample Quotes for the Host._
 2. "The Court believes it controls the empire. The empire does not need the Court. The empire needs food, water, shelter, and meaning. The Court provides none of these things. It only provides permissions."
 3. "You are worried about your career. Your faction. Your reputation. All of these things will be dust in fifty years. What will remain is what you built, who you loved, and whether you walked the path of harm reduction."
 4. "The Bright Mirror and I have never agreed on anything. But I respect her. She believes. That is rarer than you know. Most people in the Court believe in nothing except their own advancement."
-5. "I have been Harmonized three times. Each time I survived by becoming smaller, quieter, less visible. I am tired of being small. I think I will be large again soon. The timing must be right."
+5. "I have survived three Harmonization Audits. Each time I survived by becoming smaller, quieter, less visible. I am tired of being small. I think I will be large again soon. The timing must be right."
 
-_What She Is Doing Right Now._ The Guest Among Forests is orchestrating three long term projects. First, she is building an underground network of reformers across all six schools, people who are willing to work across faction lines for gradual change. The network is designed to survive her death. Second, she is secretly funding agricultural research into crops that can survive in Dusk touched soil. She believes the empire will need to feed itself from contaminated land within a generation. Third, she is preparing a contingency: a hidden archive of Court knowledge that would survive a total collapse. She has recruited archivists, scholars, and farmers to this project. None of them know the full scope of what they are building.
+_What She Is Doing Right Now._ The Guest Among Forests is orchestrating three long term projects. First, she is building an underground network of reformers across all six schools, people who are willing to work across faction lines for gradual change. The network is designed to survive her death. Second, she is secretly funding agricultural research into crops that can survive in Dusk Touched soil. She believes the empire will need to feed itself from contaminated land within a generation. Third, she is preparing a contingency: a hidden archive of Court knowledge that would survive a total collapse. She has recruited archivists, scholars, and farmers to this project. None of them know the full scope of what they are building.
 
 _If the Players Ally With Her._ She becomes a patron of extraordinary patience and wisdom. She does not ask the players to join the Verdant Path. She asks them to think for themselves. She provides resources, introductions, and strategic advice. She never pressures them to act before they are ready. She warns them when they are about to make a mistake, but she does not stop them. "Some lessons must be learned through failure," she says. "I cannot save you from every wound. I can only help you survive the ones that matter."
 
@@ -570,7 +570,7 @@ _If the Players Ignore Her._ She watches from a distance. She may approach them 
 _Additional Scene Seeds._
 
 1. A player receives a cutting from a rare plant, delivered anonymously. Later they learn the plant is a variety that only grows in the Imperial Gardens, and only the Guest Among Forests has access to that section. The message is clear: I know where you are. I am watching. I mean you no harm.
-2. During a crisis, the Guest Among Forests appears without warning and offers a single piece of advice. "The tunnel beneath the Ministry of Harmonious Records. Third entrance from the west. It is unguarded for the next hour." She leaves before the players can ask how she knows or why she is helping.
+2. During a crisis, the Guest Among Forests appears without warning and offers a single piece of advice. "The tunnel beneath the Bureau of Harmonious Records. Third entrance from the west. It is unguarded for the next hour." She leaves before the players can ask how she knows or why she is helping.
 
 ### Iron Calculation
 
@@ -582,7 +582,7 @@ _Additional Scene Seeds._
 
 **What He Fears:** That the numbers do not add up. That the empire's Qi reserves will run out before he can complete his grand infrastructure. That everything he built was just triage, not progress.
 
-**Scene Seed:** The players need something only he can provide: resources, access, technical expertise. He agrees to help, but his price is not Favor or money. He wants data. Information the players have access to. He is building a model, and he is missing a variable.
+**Scene Seed:** The players need something only he can provide: resources, access, technical expertise. He agrees to help, but his price is not Celestial Favor or money. He wants data. Information the players have access to. He is building a model, and he is missing a variable.
 
 _First Impression._ The Iron Calculation's office looks like the control room of a machine. Every surface is covered in charts, ledgers, abacuses, and strange calculating devices built from brass and Qi crystals. The man himself is small and wiry, with quick movements and sharper eyes. He does not look up when the players enter. He finishes writing a number in a ledger, then closes it, then looks at them. His gaze is clinical, assessing, entirely without warmth. He is not being rude. He is simply categorizing them, calculating their potential value and threat level. He speaks in numbers as often as words. "You are here because you need something. The probability that I can provide it is sixty two percent. The probability that I will want to is higher, assuming you have something to trade." He gestures to the chairs without looking at them. "Sit. Tell me what you need. Do not waste my time and I will not waste yours."
 
@@ -687,7 +687,7 @@ _Additional Scene Seeds._
 
 **What She Fears:** That she will die alone. That everything she did to survive was not worth the cost. That she traded her soul for safety and got neither.
 
-**Scene Seed:** She contacts the players with an offer: information they need, in exchange for information they have. The negotiation is friendly. She laughs. She pours drinks. She is also counting every card in their hand. At the end, she leans forward. "One more thing. Off the books. Someone is planning to move against you. I can tell you who. But you will owe me. Not Favor. A real debt. The kind I collect in person."
+**Scene Seed:** She contacts the players with an offer: information they need, in exchange for information they have. The negotiation is friendly. She laughs. She pours drinks. She is also counting every card in their hand. At the end, she leans forward. "One more thing. Off the books. Someone is planning to move against you. I can tell you who. But you will owe me. Not Celestial Favor. A real debt. The kind I collect in person."
 
 _First Impression._ The Shadow appears without appearing. The players are in a room, and then they are not alone, and they cannot say exactly when that changed. She is leaning against a wall they checked moments ago, smiling at them with the patient amusement of someone watching children play a game they have already solved. She is unremarkable in every way: average height, average build, clothing that would not stand out in any crowd. Her face is pleasant without being memorable. This is her greatest weapon. She can be anywhere because no one looks twice at her. When she speaks, her voice is warm and conversational, as though they are old friends catching up. "I have been watching you," she says, as though admitting to a shared hobby. "You are interesting. Most people in the Court are not interesting. I want to know more about you." She makes it sound like a compliment. It is also a threat.
 
@@ -817,6 +817,76 @@ _Additional Scene Seeds._
 1. A player who has been researching the Dusk finds a book that should not exist. It is a history of the Dusk written from the perspective of the Dusk itself. The author is listed as "Anonymous." The handwriting matches the Celestial Book's. The final page reads: "The Dusk is not unconscious. It is dreaming. It dreams of the world before the sealing. It wants to go back. It cannot. Neither can we."
 2. The Celestial Book approaches a player in a corridor and presses a scroll into their hands. "Read this tonight. Tell no one. If anyone asks where you got it, say you found it in your quarters. If they press, say you do not remember where you found it. If they press harder, say nothing at all. Silence is safer than lies." The scroll contains a single page: a fragment of the original charter, listing the rights of the Emperor over the Court. The rights are absolute. The charter was amended three days after the Emperor was sealed.
 
+### Bone Script
+
+**Voice:** Plain and slightly slow, because the capital dialect is his third language and he assembles each sentence before he releases it. He gets honorifics wrong and has stopped apologizing for it. When he is angry he becomes more precise rather than louder, which officials find far more disturbing than shouting.
+
+**Physical Tell:** His hand goes to his belt and counts tokens without his eyes following. He does it when he is thinking, when he is frightened, and when someone says something he intends to remember. He also looks at the plants in a room before he looks at the people.
+
+**What He Wants From the Players:** Accuracy. Not sympathy, not donations, not outrage on his behalf. He wants someone to say a name correctly and not need to be told twice. Everything else he can arrange himself.
+
+**What He Fears:** That the four thousand will be made into a symbol. A symbol can be argued with, adopted, printed on a banner, and eventually retired. A name in a registry cannot. He has watched the Common Flame try to turn him into a cause, and he understands that the cause would outlive the names and replace them.
+
+**Scene Seed:** The petitions hall, sixth hour, a queue of ninety people. A player waiting on unrelated business notices that the man three places ahead is not waiting like the others. He is not anxious. He has a folded cloth on his knees, a stack of forms squared at the corners, and the specific stillness of someone who has done this four hundred times. When the window closes for the day without reaching him, he stands, thanks the clerk by name, and leaves. He will be back before dawn.
+
+_First Impression._ He does not look like a threat and he does not look like a beggar, which makes him hard to place, and being hard to place in the capital is itself a kind of danger. The cloak is good work gone shabby, lined with living moss that he waters. The staff is storm fallen ash with raw Qi crystals growing where the branches fork, unset and unpolished, which no licensed practitioner would tolerate. Forty one bone tokens hang along his belt and harness on waxed thread. He is perhaps twenty five. He looks older in the eyes and younger everywhere else. When he speaks to the players he takes a moment first, and the moment is not hesitation. It is translation.
+
+_Sample Quotes for the Host._
+
+1. "The record is not false. Every sentence in it is true. It says the population relocated voluntarily. They did relocate. Nobody wrote down what the alternative was, because writing that down was not required by the form."
+2. "You say the past cannot be changed. I am not asking to change it. I am asking for it to be written down. Those are different requests, and only one of them is impossible."
+3. "I have four hundred and six hours in that hall. Clerk Yuan has looked for the correct form for seven months. He has never once asked me for money. I do not know what to do with that."
+4. "Your Bureau has a word for people like me. I know the word. I would rather you used my prefecture's name, but you cannot pronounce it, and I have decided not to hold that against you."
+5. "It is not a grave. A grave has a location. This is a belt."
+
+_What He Is Doing Right Now._ Three things. First, the petition: complete, valid, and stalled for want of one signature from an official of the fourth rank or higher. Second, unlicensed work in the camps outside the walls, finding water, reading foundations, sitting with the dying, paid in food and information. Third, and known to no one, he is deciding what to do about Nine Willow Bend, where there are cook fires burning inside a declared Dusk zone and people who went back are not dying. He understands precisely what entering that into any record would summon, and he has not yet decided whether the names are worth it.
+
+_If the Players Ally With Him._ He is the most useful ally in the empire for anything that involves the parts of the map the Court has stopped maintaining. He knows the camps, the unregistered roads, the water, and which ruins are safe to sleep in. He will not lie for the players and he will not pretend an opinion he does not hold, which makes him a poor conspirator and an excellent witness. He gives more than he takes and does not appear to notice the imbalance.
+
+_If the Players Oppose Him._ He does not retaliate, and this is worse than retaliation. He simply continues, and continuing is the entire threat he represents. Every week he stands in that hall, the number of officials who have seen him standing there goes up. Players who move against him will find that obstructing a man asking for a stamp is very difficult to explain to anyone watching, and by the time they realize how many people are watching, the explaining has already started.
+
+_If the Players Ignore Him._ The Court is manufacturing him. Every refusal, every lost form, every clerk who suggests he try a different window is another month of a young man learning exactly how the machine is assembled from the inside of the queue. Ignored long enough, he stops petitioning. What he does instead is the campaign's problem.
+
+_Additional Scene Seeds._
+
+1. A player who has earned some trust is invited to watch him do the evening maintenance: recutting a worn stroke, replacing a cracked thread, oiling the bone. It takes an hour. He does not narrate it. Partway through he hands the player a token and a knife and says the name aloud, twice, waiting for the player to repeat it. Whether the player gets it right is not the test. Whether they try is.
+2. The Common Flame stages a rally and puts his name on the banners without asking. He arrives, stands at the back, and does not speak. Afterward an organizer explains warmly that the movement can get his petition signed within a week. It is true. The price is that the four thousand become the movement's dead rather than his valley's dead. The players are present when he answers.
+
+### Incense Crown
+
+**Voice:** Unfailingly gracious, which is a technique and not a warmth. She speaks slowly and never fills a silence. Officials trained on the Court's verbal fencing find themselves talking into her pauses and saying appreciably more than they intended, and then leaving convinced the conversation went well.
+
+**Physical Tell:** The third strand of her necklace. She touches it when a question has landed somewhere it was not supposed to reach. She is aware of the tell. She has decided that a legible tell she controls is safer than a hidden one she does not.
+
+**What She Wants From the Players:** To be addressed as a person rather than as an office. It has been eleven years. She has stopped expecting it, which is different from having stopped wanting it.
+
+**What She Fears:** Being asked the Temple's ninth year teaching by someone she cannot refuse. She has structured her entire adult life around never being in that room. She also fears, more quietly, that the arrangement is not a cage at all and that she has simply been comfortable, in which case the eleven years were a choice.
+
+**Scene Seed:** A Court ceremony. She is present, crowned, veiled, silent, and functionally furniture. The players watch three separate officials discuss sensitive matters within her hearing without lowering their voices, because a woman who has been decided to be an object does not require discretion. Later, in a corridor, she says one sentence to a player that could only be built from something she overheard, and she says it without any expression at all, and then she is gone.
+
+_First Impression._ Everything visible about her was designed by people long dead to produce a specific effect on the nervous system of a frightened human being, and it works, and she is the only living person who knows exactly how it is built. Pierced silver and river jade, hung with drops tuned four centuries ago to be inaudible past three paces. Unbleached silk veil. Six strands at the throat, each a completed rite. White gown, which in the Nine Domains is mourning, embroidered in cinnabar and gold in a pattern older than the imperial script and never satisfactorily translated. She is younger than the players expect. She does not move like an object. She moves like someone conserving something.
+
+_Sample Quotes for the Host._
+
+1. "You may ask. I am permitted to be asked anything. I am not, unfortunately, permitted to be alone, which is a different constraint and the one that matters."
+2. "My attendants report on me weekly. I taught them to read. I have thought about the contradiction and I have decided to keep both halves of it."
+3. "The Bureau spent nine years reconstructing the ordination from documents. What they produced is liturgically perfect. It is also completely inert. They have never been able to explain why, and I have never offered."
+4. "The empire can take a province. It cannot take a rite. That is the whole of my position, and I would ask you to notice that it is a position I did not choose and cannot resign."
+5. "The Duke told me my predecessor put a rising tone on the eighth phrase and her teacher did not. He will not say which was correct. I have come to understand that he does not know either. Neither does anyone. We have been doing it both ways for a hundred and forty years and nothing has happened, and I would very much like to know what that means."
+
+_What She Is Doing Right Now._ She is writing down the ordination. Not the liturgy, which exists, but the part that is transmitted only in person and that nine people alive still carry. She is doing it in fragments, in a script she invented, distributed across objects nobody would search, and she is racing the actuarial table: the other eight officiants are all past seventy. She is also, in the third hour of every afternoon while her attendants eat, running a sanctuary in the shrine of the drowned that does not officially exist and that has now sheltered something over two hundred people.
+
+_If the Players Ally With Her._ She offers what nothing else in the campaign offers: legitimate immunity. A rite she is willing to perform can stop a proceeding that armies could not, because to interrupt it is to interrupt the Emperor's continuance, and no official in the Nine Domains wants that entry in the record next to their name. She will spend this for people, not for causes, and never twice for the same person.
+
+_If the Players Oppose Her._ She has no soldiers, no coin, and no faction. She has forty minutes a day of unobserved time, two attendants who love her more than they love the Commission, and an unbroken habit of asking procedural questions in rooms full of people who have to answer them. Players who move against her will not be attacked. They will find themselves being asked, publicly and courteously, to clarify a small matter of form, and then another, until whatever they were doing has become a matter of record.
+
+_If the Players Ignore Her._ Nothing happens for a long time, which is the point of her. Then an officiant dies, and there are eight. Then seven. The Host should mention each death in one sentence, without comment, at intervals. When the players finally understand what the count is measuring, they should be able to look back and see that they were told.
+
+_Additional Scene Seeds._
+
+1. A player brings her someone who needs shelter and does not ask how the arrangement works. She takes the person, says nothing, and afterward gives the player a small object: a bead from the fourth strand. She does not explain it. It is not a favor owed. It is evidence, of a kind, that she chose to place in someone else's hands.
+2. She asks a player to accompany her to the sealed door for the Continuance, because it is permitted to bring an attendant and she has never used the permission. She performs the rite. At the eighth phrase she does not use the rising tone. Afterward she asks the player, quite calmly, whether they noticed anything answer differently, and it becomes apparent that she has just used the players to run an experiment on the foundations of the empire.
+
 ---
 
 ## Part Five-B: Running Each Archetype
@@ -879,7 +949,7 @@ _Additional Scene Seeds._
 
 **Core Fantasy.** The Iron Calculation player wants to be the smartest person in the room, the one who sees patterns others miss, the engineer who can fix anything if given enough time and resources. Their power is systemic: they understand how the empire actually runs, and that understanding is leverage.
 
-**What to Track.** Track the player's active constructs and their remaining Qi reserves for maintenance. Keep notes on infrastructure they have influenced or redesigned. Monitor their standing with the Iron Calculation school specifically, as this is their natural power base. Record any debts owed to them by officials whose systems they have improved.
+**What to Track.** Track the player's active constructs and their remaining Qi reserves for maintenance. Keep notes on infrastructure they have influenced or redesigned. Monitor their Faction Standing with the Iron Calculation school specifically, as this is their natural power base. Record any debts owed to them by officials whose systems they have improved.
 
 **Scene Hooks.**
 
@@ -897,7 +967,7 @@ _Additional Scene Seeds._
 
 **Core Fantasy.** The Iron Wall player wants to be the shield, the one who takes the hit so others do not have to, the person whose word is their bond and whose presence makes everyone safer. Their power is integrity: they stand firm so that others can act freely.
 
-**What to Track.** Track the player's military contacts and standing with the Garrison. Note any oaths they have sworn and to whom. Keep a list of people they have sworn to protect. Monitor their current military assignment and reputation among soldiers and officials. Track how many times they have had to choose between duty and conscience.
+**What to Track.** Track the player's military contacts and Faction Standing with the Garrison. Note any oaths they have sworn and to whom. Keep a list of people they have sworn to protect. Monitor their current military assignment and reputation among soldiers and officials. Track how many times they have had to choose between duty and conscience.
 
 **Scene Hooks.**
 
@@ -915,7 +985,7 @@ _Additional Scene Seeds._
 
 **Core Fantasy.** The Bright Mirror player wants to be the investigator who cannot be fooled, the judge who cannot be corrupted, the light that exposes every shadow. Their power is certainty: they know what is true, and they act on that knowledge without hesitation.
 
-**What to Track.** Maintain a dossier of the player's active investigations, with clues found, witnesses interviewed, and leads remaining. Track their Truth Sight usage and what they have learned. Monitor their standing with the Commission and which officials have reason to fear or resent them. Note any past cases where the player made a call that later proved wrong.
+**What to Track.** Maintain a dossier of the player's active investigations, with clues found, witnesses interviewed, and leads remaining. Track their Truth Sight usage and what they have learned. Monitor their Faction Standing with the Commission and which officials have reason to fear or resent them. Note any past cases where the player made a call that later proved wrong.
 
 **Scene Hooks.**
 
@@ -951,7 +1021,7 @@ _Additional Scene Seeds._
 
 **Core Fantasy.** The Duke of Eternal Night player wants to feel like a force of nature, someone whose presence changes the dynamics of any room, someone who has seen it all and is genuinely interested in novelty. Their power is presence: they have lived for centuries, and that weight cannot be faked.
 
-**What to Track.** Track the player's ancient debts and obligations, favors owed across centuries. Monitor their bloodline connections and standing with the Crimson Lineage. Note which factions seek their endorsement and what they are offering. Track their hunger levels and any consequences of feeding. Know which events from the Court's history the player personally witnessed.
+**What to Track.** Track the player's ancient debts and obligations, favors owed across centuries. Monitor their bloodline connections and Faction Standing with the Crimson Lineage. Note which factions seek their endorsement and what they are offering. Track their hunger levels and any consequences of feeding. Know which events from the Court's history the player personally witnessed.
 
 **Scene Hooks.**
 
@@ -969,7 +1039,7 @@ _Additional Scene Seeds._
 
 **Core Fantasy.** The Iron Bone player wants to be the voice of the oppressed, the champion who fights for those who cannot fight for themselves, while wrestling with a destructive inner power. Their power is righteous anger: they have the wolf inside them, and the wolf does not negotiate with oppressors.
 
-**What to Track.** Track the player's control over the wolf, noting what triggers them and how close they are to losing control. Monitor their standing with the Common Flame and the worker's movement. Keep a list of people they have promised to protect. Track their relationships with factory workers, laborers, and the poor. Know what the player would sacrifice to protect a stranger.
+**What to Track.** Track the player's control over the wolf, noting what triggers them and how close they are to losing control. Monitor their Faction Standing with the Common Flame and the worker's movement. Keep a list of people they have promised to protect. Track their relationships with factory workers, laborers, and the poor. Know what the player would sacrifice to protect a stranger.
 
 **Scene Hooks.**
 
@@ -1001,25 +1071,60 @@ _Additional Scene Seeds._
 
 **Spotlight Moment.** The party faces a puzzle or mystery that seems unsolvable. Everyone is stuck. The Celestial Book player says: "I have read something about this." They describe a text they found three sessions ago, a fragment of a lost manuscript, a coded reference in a minor work. The information unlocks the solution. The player's diligent research pays off in a moment of pure intellectual triumph.
 
+### Bone Script (Hedgewarden)
+
+**Core Fantasy.** The Bone Script player wants to be the one person at the table who is not inside the machine. No rank, no seal, no file. Their power is that the ordinary levers of Court pressure do not reach them, and their vulnerability is that the ordinary protections do not either. They are carrying something the empire has decided does not exist, and they intend to make it exist on paper.
+
+**What to Track.** Track the petition: which office it is with, which official has touched it, how many hours the character has spent waiting. Track the tokens, by name, and note every time a name is spoken aloud correctly by anyone. Track who in the camps depends on them. Track which factions have noticed them and what each faction has decided they are useful for.
+
+**Scene Hooks.**
+
+1. The petition finally reaches an official with the authority to sign, and that official wants something in exchange that would compromise exactly the thing the petition is for.
+2. Someone offers to have the four thousand names entered immediately, as a group, under a single collective designation. It is faster. It is legal. It erases the names in the act of recording them.
+3. A survivor of the character's prefecture turns up in the capital, alive, and is not on the bone. The character has to decide what a completed archive means now.
+
+**Common Pitfalls.** Do not let the character become the party's designated conscience, delivering moral verdicts on everyone else's choices. He is not above the table; he is beneath it, and he knows things the others do not because of where he has been standing. Also resist making his grief the only thing about him. He is funny, oddly practical, and better at bureaucratic procedure than anyone expects, because he has had four hundred hours to study it.
+
+**Making Personal Connections Matter.** Clerk Sixth Rank Yuan is the relationship that matters most, and it should be underplayed: a tired man at a window who has spent seven months looking for the correct form and has never asked for anything. Grandmother Stone Voice, past ninety and still in the high forest, is the character's teacher and the only person who can tell him he is wrong. The Celestial Book said his prefecture's name correctly once, in a corridor, and then vanished, and the character has been unable to find him since.
+
+**Spotlight Moment.** The party needs something the empire's records cannot provide: a road that was decommissioned, a well that was filled in, the real boundary of a district that no longer has a name. Everyone's research fails. The Bone Script player says: "I have been there." Not read about it. Been there. What follows is not a skill check. It is testimony, and for one scene the character is the only authoritative source in the room.
+
+### Incense Crown (Oracle)
+
+**Core Fantasy.** The Incense Crown player wants to hold the one thing the empire cannot seize, copy, or replace, and to discover that holding it is indistinguishable from being held by it. Their power is legitimacy: they can stop a proceeding that armies could not. Their cost is that they are never, at any hour of any day, alone.
+
+**What to Track.** Track observation: who is watching, who is reporting, and what her two attendants have filed this week. Track the count of living ordained officiants, which begins at nine and only ever goes down. Track every use of her ritual authority, because each use spends credibility that does not regenerate. Track who knows about the sanctuary in the shrine of the drowned.
+
+**Scene Hooks.**
+
+1. An attendant is offered a promotion in exchange for a report the character cannot afford to have filed, and the attendant comes to the character first, which is itself a problem.
+2. A faction requires her to declare publicly for a side. Declaring destroys her usefulness to everyone including herself. Refusing indefinitely is not available.
+3. One of the eight remaining officiants dies. The character has not finished writing down the ordination, and she now has to decide whether to approach one of the survivors, all of whom have reasons not to trust her proximity to the Court.
+
+**Common Pitfalls.** Do not run her as a passive prisoner waiting for rescue. She has been managing her captors expertly for eleven years and is the most politically sophisticated person at most tables. Also do not let the ritual authority become a get out of jail card; every use is public, remembered, and slowly converts her from an untouchable necessity into an active political problem that somebody will eventually decide to solve.
+
+**Making Personal Connections Matter.** White Reed and Little Pine, aged twenty two and seventeen, inform on her weekly and she has taught them both to read. She feeds Little Pine harmless truths so the girl does not have to invent harmful ones, which means she has made herself responsible for the welfare of her own surveillance. The Bright Mirror has held a standing order to close her Temple for thirteen years and has not executed it, and in eleven meetings neither of them has said anything that could be written down.
+
+**Spotlight Moment.** A proceeding is going badly. An ally is about to be Disappeared, the evidence is fabricated, the outcome is arranged, and there is no argument left that anyone in the room is obliged to hear. The Incense Crown player stands and states that the officiant of the Continuance requires the proceeding suspended pending a question of rite. It is a procedural nothing. It is also unanswerable, because the only official who could overrule her would be entering a refusal of the Emperor's continuance into the permanent record under his own name. The room stops. Nobody in it is happy. It stops anyway.
 ---
 
 ## Quick Start Scenes
 
-These ten scenes are ready to drop into any session. Each is designed to run in five minutes of table time, providing a spark when the story needs one. Use them when the players are stuck, when you need a complication, or when you want to remind everyone that the Court is alive and dangerous.
+These twelve scenes are ready to drop into any session. Each is designed to run in five minutes of table time, providing a spark when the story needs one. Use them when the players are stuck, when you need a complication, or when you want to remind everyone that the Court is alive and dangerous.
 
 ### Scene One: The Wrong Door
 
 **Hook.** The players open a door they should not have and find something that changes their course.
 
-**Where It Takes Place.** A narrow corridor in the Ministry of Harmonious Records, third floor, west wing. The door is unmarked, indistinguishable from a dozen others. "The corridor narrows here. The Qi lamps on the walls have burned out, leaving only the faint blue glow from a crack beneath a door at the end. The dust on the floor is undisturbed. No one has walked this hallway in a very long time. The door is slightly ajar. You see a sliver of light inside."
+**Where It Takes Place.** A narrow corridor in the Bureau of Harmonious Records, third floor, west wing. The door is unmarked, indistinguishable from a dozen others. "The corridor narrows here. The Qi lamps on the walls have burned out, leaving only the faint blue glow from a crack beneath a door at the end. The dust on the floor is undisturbed. No one has walked this hallway in a very long time. The door is slightly ajar. You see a sliver of light inside."
 
 **NPC.** A night clerk named Huan, a young man with ink stained fingers and circles under his eyes. He is in the room, startled by the players' entrance. He has a stack of documents he is clearly not supposed to have. "Please. You were not supposed to be here. I was not supposed to be here. If you report me, I am dead. If I do not complete this work, I am also dead. I do not know which death comes faster."
 
-**Complication.** Huan is forging travel permits for refugees trying to flee the Dusk. He is breaking the law for a good reason. If the players report him, he is Harmonized. If they help him, they become accessories to forgery. If they walk away, someone else will find him before the night is over.
+**Complication.** Huan is forging travel permits for refugees trying to flee the Dusk. He is breaking the law for a good reason. If the players report him, he is Disappeared. If they help him, they become accessories to forgery. If they walk away, someone else will find him before the night is over.
 
 **Archetype Specific Twists.** A Cinnabar Heart recognizes the forgery technique as one they use themselves. A Bright Mirror detects the lie in Huan's voice when he says he is working alone. An Iron Bone feels the wolf stir at the injustice of a man being punished for saving lives.
 
-**Possible Outcome.** The players help Huan finish the permits and escape before the night patrol arrives. They gain a grateful contact in the lower bureaucracy and a stack of blank permits they could use themselves. Or they report him and gain standing with the Commission, but lose the trust of everyone who hears about it.
+**Possible Outcome.** The players help Huan finish the permits and escape before the night patrol arrives. They gain a grateful contact in the lower bureaucracy and a stack of blank permits they could use themselves. Or they report him and gain Faction Standing with the Commission, but lose the trust of everyone who hears about it.
 
 ### Scene Two: The Debt Collector
 
@@ -1029,7 +1134,7 @@ These ten scenes are ready to drop into any session. Each is designed to run in 
 
 **NPC.** The old woman is a messenger from a debt that one player's family incurred generations ago. She carries a small wooden box. "Your grandfather borrowed something from my grandmother. It is time to repay. Do not worry. I do not want money. I want you to deliver this box to a location I will describe. Do not open it. Do not ask what is inside. Simply deliver it, and the debt is settled."
 
-**Complication.** The box contains a Dusk touched object. Delivering it will spread Dusk contamination to the location. Not delivering it means the debt collector will take something else: a memory, a name, a year of life. The player must choose which price to pay.
+**Complication.** The box contains a Dusk Touched object. Delivering it will spread Dusk contamination to the location. Not delivering it means the debt collector will take something else: a memory, a name, a year of life. The player must choose which price to pay.
 
 **Archetype Specific Twists.** A Celestial Book recognizes the box's markings as originating from a pre Court dynasty. A Duke of Eternal Night recognizes the debt collector's family name and knows they always collect. A Guest Among Forests senses the faint vibration of something alive inside the box.
 
@@ -1071,7 +1176,7 @@ These ten scenes are ready to drop into any session. Each is designed to run in 
 
 **NPC.** The investigating guard captain is named Sergeant Deng. She is competent, tired, and suspicious of everyone. She does not trust the players but she needs their help because the dead official was connected to their bureau. "I have sealed the room. No one enters or leaves until we understand what happened. If you can tell me how this was done, I will owe you. If you cannot, I will have to report that I found you here, which is already an irregularity."
 
-**Complication.** The death was caused by a Qi technique that stops the heart. The technique is rare and only known to a specific school. The dead official was investigating that school's financial records. The killer is likely still in the building.
+**Complication.** The death was caused by a Qi Technique that stops the heart. The technique is rare and only known to a specific school. The dead official was investigating that school's financial records. The killer is likely still in the building.
 
 **Archetype Specific Twists.** An Iron Calculation notices that the ink in the brush is still wet, but the body is cold. The death occurred after the writing stopped, not during. A Bright Mirror sees a faint residue on the official's neck, invisible to the naked eye, a trace of the killer's Qi. A Night Warbler finds a hairline crack in the window seal, invisible from the corridor, a possible entry for a thin wire or blade.
 
@@ -1165,7 +1270,7 @@ These ten scenes are ready to drop into any session. Each is designed to run in 
 
 **Hook.** A dying archivist asks the players to complete a task she cannot finish.
 
-**Where It Takes Place.** The infirmary of the Ministry of Harmonious Records, a quiet room with white walls and the smell of medicinal herbs. "The woman in the bed is barely visible beneath the blankets. Her face is sunken. Her hands, resting on the coverlet, are covered in ink stains that will never fade. She is younger than you expected. The disease that is killing her has aged her prematurely, but her eyes are still sharp. She recognizes you. She has been waiting for you. Her voice is a whisper that costs her visible effort. 'I have something to give you. A key. A real key, not a metaphor. It opens a lock in the sub basement that no one has opened since the Alchemist era. I was supposed to open it before I died. I cannot. You must.'"
+**Where It Takes Place.** The infirmary of the Bureau of Harmonious Records, a quiet room with white walls and the smell of medicinal herbs. "The woman in the bed is barely visible beneath the blankets. Her face is sunken. Her hands, resting on the coverlet, are covered in ink stains that will never fade. She is younger than you expected. The disease that is killing her has aged her prematurely, but her eyes are still sharp. She recognizes you. She has been waiting for you. Her voice is a whisper that costs her visible effort. 'I have something to give you. A key. A real key, not a metaphor. It opens a lock in the sub basement that no one has opened since the Alchemist era. I was supposed to open it before I died. I cannot. You must.'"
 
 **NPC.** Archivist Suling has worked in the Ministry for forty years. She knows the location of every document, every hidden compartment, every forgotten room. She is dying of a lung disease contracted from decades of breathing archive dust. She has no family. Her life's work has been preserving knowledge that the Court wanted destroyed. "The room behind that lock contains the personal correspondence of the first Alchemist. He wrote letters to someone outside the Court. Someone who was not human. The correspondence continued after he was sealed. Someone on the outside wrote back. I do not know who. I could not read the final letter. It is in a language I do not recognize. You will need someone who can read what should not be readable."
 
@@ -1193,7 +1298,7 @@ Thirty snippets of dialogue ready for the Host to speak when players approach of
 
 4. "You have been in this office for four minutes. You have already made two procedural errors. I am being generous by counting them as errors rather than offenses. You will correct them. You will apologize. And you will leave."
 
-5. "I know your name. I know your bureau. I know your Harmony score. I know the names of everyone you have met with in the past week. You are not interesting enough to be a threat. You are interesting enough to be watched. That is not a compliment."
+5. "I know your name. I know your bureau. I know your Ritual Harmony. I know the names of everyone you have met with in the past week. You are not interesting enough to be a threat. You are interesting enough to be watched. That is not a compliment."
 
 6. "The Commission does not take bribes. We do not take favors. We do not take suggestions. We take evidence, we take testimony, and we take confessions. Which of those three are you here to provide?"
 
@@ -1343,9 +1448,9 @@ Fifteen atmospheric descriptions of Xiaoyuan at different times and in different
 
 ### The Rise: Act by Act Breakdown
 
-**Act One: The Outer Court.** The players are newly appointed minor officials in the vast machinery of the Celestial Court. They have a modest shared residence, a small stipend of Favor, and no real power. Their first assignments are deliberately tedious: filing reports, delivering messages, attending ceremonies. This is not punishment. It is immersion. During this act, the players learn the rhythms of the Court. They encounter minor figures who will become allies or enemies. They choose their first factional leanings. The Crimson Dusk is a distant concern mentioned in dispatches from the border.
+**Act One: The Outer Court.** The players are newly appointed minor officials in the vast machinery of the Celestial Court. They have a modest shared residence, a small stipend of Celestial Favor, and no real power. Their first assignments are deliberately tedious: filing reports, delivering messages, attending ceremonies. This is not punishment. It is immersion. During this act, the players learn the rhythms of the Court. They encounter minor figures who will become allies or enemies. They choose their first factional leanings. The Crimson Dusk is a distant concern mentioned in dispatches from the border.
 
-_Situation._ The Bureau of Rites has lost an important document. The players are tasked with finding it. The document is not lost. It was stolen by a clerk who is selling information to a rival school. The players must investigate, make choices about whom to trust, and decide whether to recover the document or use its absence as leverage.
+_Situation._ The Ministry of Rites has lost an important document. The players are tasked with finding it. The document is not lost. It was stolen by a clerk who is selling information to a rival school. The players must investigate, make choices about whom to trust, and decide whether to recover the document or use its absence as leverage.
 
 _Key NPCs Involved._ The Cinnabar Heart (their section chief), a senior clerk named Lin who knows more than she says, and a Golden Orthodoxy functionary who offers to help for a price.
 
@@ -1353,7 +1458,7 @@ _Three Possible Player Approaches._ 1) Investigate methodically, following the p
 
 _Two Complications._ 1) The document was stolen by someone the players have already befriended. 2) The missing document is revealed to be one of the forged edicts, and the Cinnabar Heart is watching to see how the players handle the discovery.
 
-**Act Two: The First Alliance.** The players have proven themselves competent. Their faction standing is established. Now they must choose deeper commitments. A faction offers them a significant assignment: represent the school's interests in a minor Council dispute. This is a test of loyalty and judgment.
+**Act Two: The First Alliance.** The players have proven themselves competent. Their Faction Standing is established. Now they must choose deeper commitments. A faction offers them a significant assignment: represent the school's interests in a minor Council dispute. This is a test of loyalty and judgment.
 
 _Situation._ The Verdant Path and the Golden Orthodoxy are in a dispute over funding for a border region that is showing early signs of Dusk contamination. The Verdant Path wants to send resources and investigators. The Golden Orthodoxy wants to quarantine the region and let it be handled by the Commission. The players are assigned to present a third option that benefits their chosen faction.
 
@@ -1365,11 +1470,11 @@ _Two Complications._ 1) The Dusk contamination is worse than reported. The borde
 
 **Act Three: The First Audit.** The players have accumulated enough influence to attract attention. A Harmonization Audit is called. Everything they have built is at risk. This act is about survival and sacrifice.
 
-_Situation._ The Audit targets the Bureau of Rites, where the players are stationed. The lead investigator is a known enemy of one player's faction. The players must use every resource they have to survive.
+_Situation._ The Audit targets the Ministry of Rites, where the players are stationed. The lead investigator is a known enemy of one player's faction. The players must use every resource they have to survive.
 
 _Key NPCs Involved._ The Bright Mirror (observing the Audit), the Night Warbler (who may help or hinder), the Iron Calculation (who can provide protection at a price).
 
-_Three Possible Player Approaches._ 1) Use accumulated Favor and blackmail material to buy protection. 2) Throw a rival official to the wolves, sacrificing someone else to save themselves. 3) Flee the capital and begin again as fugitives.
+_Three Possible Player Approaches._ 1) Use accumulated Celestial Favor and blackmail material to buy protection. 2) Throw a rival official to the wolves, sacrificing someone else to save themselves. 3) Flee the capital and begin again as fugitives.
 
 _Two Complications._ 1) The Audit was triggered specifically because of something a player did. A past choice comes back directly. 2) A fellow player is named as a target, forcing the party to decide whether to protect each other or save themselves.
 
@@ -1407,15 +1512,15 @@ _Two Complications._ 1) A figure who was thought dead reappears with crucial inf
 
 **Act One: The Thread.** The players witness or discover something they should not have. A document, a conversation, a death that was not an accident. This thread pulls them into the larger conspiracy.
 
-_Situation._ The players are assigned to inventory a sealed storage room that has not been opened in twenty years. Inside, they find the personal effects of a Harmonized official. Among the effects is a journal that describes a meeting that should not have occurred, between figures who should have been enemies.
+_Situation._ The players are assigned to inventory a sealed storage room that has not been opened in twenty years. Inside, they find the personal effects of a Disappeared official. Among the effects is a journal that describes a meeting that should not have occurred, between figures who should have been enemies.
 
 _Key NPCs Involved._ The Cinnabar Heart (who arranged the assignment), the Night Warbler (who is watching the players now that they have the journal).
 
 _Three Possible Player Approaches._ 1) Read the journal and follow the leads. 2) Report the discovery to a superior and see what happens. 3) Sell the journal to a faction and let them deal with it.
 
-_Two Complications._ 1) The journal is written in a code that attracts attention when decoded. 2) The Harmonized official is still alive, hidden somewhere, and knows the players have the journal.
+_Two Complications._ 1) The journal is written in a code that attracts attention when decoded. 2) The Disappeared official is still alive, hidden somewhere, and knows the players have the journal.
 
-**Act Two: The Investigation.** The players follow the thread deeper. They learn that the official was Harmonized not for corruption but for knowing the truth about the Emperor. The conspiracy is real. The players are now part of it.
+**Act Two: The Investigation.** The players follow the thread deeper. They learn that the official was Disappeared not for corruption but for knowing the truth about the Emperor. The conspiracy is real. The players are now part of it.
 
 _Situation._ The players trace the official's last known location to a remote village that has been erased from official maps. They must travel there, avoiding the Commission's agents who are following them.
 
@@ -1423,7 +1528,7 @@ _Key NPCs Involved._ The Guest Among Forests (who provides travel resources), th
 
 _Three Possible Player Approaches._ 1) Travel openly, relying on official cover stories. 2) Travel secretly, using back roads and safe houses. 3) Split the party: one group leads the Commission on a false trail while the other reaches the village.
 
-_Two Complications._ 1) The village has been destroyed by the Dusk. 2) The Harmonized official is already dead, but they left a message.
+_Two Complications._ 1) The village has been destroyed by the Dusk. 2) The Disappeared official is already dead, but they left a message.
 
 **Act Three: The Choice.** The players have enough information to understand the conspiracy's scope. They know about the forged edicts, the Emperor's imprisonment, or the Dusk's true nature. They must choose what to do with this knowledge.
 
@@ -1431,7 +1536,7 @@ _Situation._ The Celestial Book confirms the players' findings and reveals the f
 
 _Key NPCs Involved._ The Celestial Book, the Duke of Eternal Night (who provides the historical account), the Bright Mirror (who must not learn what the players know, or she will act).
 
-_Three Possible Player Approaches._ 1) Share the truth with the Bright Mirror, knowing she will launch a mass Harmonization. 2) Share the truth with the Common Flame, knowing they will start a revolution. 3) Keep the secret and work within the system to gradually reform it.
+_Three Possible Player Approaches._ 1) Share the truth with the Bright Mirror, knowing she will launch a mass Harmonization Audit. 2) Share the truth with the Common Flame, knowing they will start a revolution. 3) Keep the secret and work within the system to gradually reform it.
 
 _Two Complications._ 1) A Commission agent has been following the players and knows how much they have learned. 2) The players discover that one of their own was planted by a faction to monitor them.
 
@@ -1513,7 +1618,7 @@ The Dusk advances at the Host's discretion. Use it to:
 
 - **Create urgency** when the players have been comfortable too long. A Dusk event in a previously safe province reminds everyone what is at stake.
 - **Force difficult choices.** When resources are scarce because a province has fallen, who gets them?
-- **Reveal information.** Dusk touched individuals sometimes speak truths. A refugee from a fallen province might know something crucial.
+- **Reveal information.** Dusk Touched individuals sometimes speak truths. A refugee from a fallen province might know something crucial.
 - **Trigger the endgame.** When the Dusk reaches Phase 3, the tone shifts. Maneuvering matters less. Choosing matters more.
 
 ### The Endgame
@@ -1569,7 +1674,7 @@ What the players hear in teahouses, corridors, and the spaces between:
 7. "The Iron Wall cancelled a military exercise last week. He has never cancelled an exercise. Something is happening."
 8. "The Crimson Dusk has reached the Western Bulwark's outer fortresses. The garrison is holding. For now."
 9. "A Justicar from the Commission has been seen meeting with the Verdant Path. That should not happen. The Commission does not take meetings."
-10. "Someone is buying up all the Qi focus talismans in the city. The price has tripled. Whoever it is, they are preparing for something big."
+10. "Someone is buying up all the Qi Focus Talismans in the city. The price has tripled. Whoever it is, they are preparing for something big."
 11. "The Iron Bone spoke in the Outer Market yesterday. Thousands came. The City Watch was 'monitoring the situation.' They did not intervene."
 12. "The Celestial Book has been seen in the public areas of the Archives. He never leaves the restricted section. Something drew him out."
 
@@ -1599,8 +1704,8 @@ When you need a minor official, roll or choose:
 
 1. Owes a debt to a figure the players know
 2. Has blackmail material on a superior
-3. Is related to a Harmonized official and hiding it
-4. Is Dusk touched but managing the symptoms
+3. Is related to a Disappeared official and hiding it
+4. Is Dusk Touched but managing the symptoms
 5. Is a spy for a school the players have not encountered
 6. Knows something about the players they thought was hidden
 
@@ -1612,7 +1717,7 @@ Roll a d20 for more events when the first table runs dry or you need variety:
 2. A child approaches a player in the street and hands them a folded note. The note reads: "The person you are looking for is in the city. They arrived last night. They are staying at the Blue Lotus. They are afraid."
 3. A player's handwriting appears on a document they never wrote. The forgery is perfect. Even they cannot tell the difference.
 4. A food shipment meant for the Outer Market is discovered to be contaminated with a slow acting poison. The trail leads to a faction the players trust.
-5. A minor earthquake damages a section of the Ministry of Harmonious Records. In the rubble, a hidden compartment is revealed containing documents from the Alchemist era.
+5. A minor earthquake damages a section of the Bureau of Harmonious Records. In the rubble, a hidden compartment is revealed containing documents from the Alchemist era.
 6. The Bureau of Harmonious Narrative announces a new holiday celebrating the founding of the Court. Attendance is mandatory. The holiday falls on the day the Emperor was sealed.
 7. A player is accused of a crime they did not commit. The evidence is convincing. The accuser refuses to name their source.
 8. A traveling theater troupe performs a play that allegorizes the Emperor's imprisonment. The Commission shuts it down. The playwright escapes. The players are asked to find them.
@@ -1620,12 +1725,12 @@ Roll a d20 for more events when the first table runs dry or you need variety:
 10. A player receives a letter from a deceased relative. The letter is dated after the relative's death. The handwriting is authentic.
 11. Two minor officials challenge each other to a formal duel. Both ask the players to be their seconds. Refusing either is an insult.
 12. The Celestial Book publishes a new treatise on the nature of reality. It contradicts established doctrine in subtle ways. The Commission does not know how to respond.
-13. A Dusk touched oracle is brought to the capital. They speak in riddles. One riddle contains a player's name.
+13. A Dusk Touched oracle is brought to the capital. They speak in riddles. One riddle contains a player's name.
 14. The Ghost Festival arrives. For one night, the dead walk the capital. The players may encounter figures from their past, literally.
 15. A player discovers that their personal seal has been stolen. The thief used it to authorize a transfer of funds. The recipient is a school the player has opposed.
 16. The Bright Mirror announces a public purification ceremony. All officials must attend. Those who refuse are flagged for investigation.
 17. A foreign diplomat arrives seeking an audience with the Emperor. They do not understand that the Emperor is absent. Explaining this is politically delicate.
-18. The payment system for Celestial Favor experiences an unexplained glitch. Favor balances shift overnight. Some gain. Some lose. The system administrators are panicking.
+18. The payment system for Celestial Favor experiences an unexplained glitch. Celestial Favor balances shift overnight. Some gain. Some lose. The system administrators are panicking.
 19. A player's childhood friend arrives at the capital. They are not the same person the player remembers. They have changed. They have been changed.
 20. The Iron Wall arrests a senior official for treason. The official is someone the players have worked with. The arrest is public. The charges are thin.
 
@@ -1643,7 +1748,7 @@ When players find a scroll, document, or letter, roll to determine its contents:
 8. A report on a military engagement that never happened. The report describes a battle that has not occurred yet. The details are specific.
 9. A poem about the Crimson Dusk. It is beautiful. It is also a coded message. The code is outdated but decipherable.
 10. A deed to a property in the capital. The property does not exist on any current map. The deed is signed by the Emperor.
-11. A philosophical treatise arguing that the Court is a living organism and the Dusk is its immune response. The author was Harmonized.
+11. A philosophical treatise arguing that the Court is a living organism and the Dusk is its immune response. The author was Disappeared.
 12. A list of debts owed to a now dead moneylender. One of the debts is owed by a figure the players know. The amount is significant.
 13. A prayer to a god that has been forgotten. The prayer asks for protection from something that is described as "the red sleep."
 14. A contract between two schools. The contract is for an exchange of prisoners. The prisoners are named. One of the names matches a player's contact.
@@ -1670,7 +1775,7 @@ More specific rumors that players might overhear in the Teahouse of Whispered Pe
 10. "The Celestial Book has stopped eating. He says food distracts him from his work. His assistants are worried. He is a thousand years old. He cannot afford to stop eating."
 11. "The old Alchemist's apprentice is still alive. Living in the Warrens. He knows things that were sealed with his master."
 12. "The Emperor's seal was not the first. There was another seal, before the Emperor, before the Court, before the empire. That seal is what the Spire is built on."
-13. "The Commission for Celestial Purity has a secret prison. Not for criminals. For people who know too much. The prison is beneath the Ministry of Harmonious Records."
+13. "The Commission for Celestial Purity has a secret prison. Not for criminals. For people who know too much. The prison is beneath the Bureau of Harmonious Records."
 14. "There is a way to enter the Spire without triggering the seal. The Alchemists built it. They used it to communicate with the Emperor after he was sealed."
 15. "The Crimson Dusk is not advancing. It is being pulled. Something in the capital is calling it. Something that was buried when the Emperor was sealed."
 16. "The scroll that the Cinnabar Heart keeps in his private safe is not a document. It is a key. A key to something that has not been opened since the founding."
@@ -1774,7 +1879,7 @@ Players may attempt to use Qi in creative ways beyond their known Techniques. Wh
 When players take actions that affect the factional balance:
 
 1. Ask: which schools benefit from this? Which schools are harmed?
-2. Adjust faction standing for the affected schools. Small actions shift standing by 1 to 3 points. Major actions shift by 5 to 10.
+2. Adjust Faction Standing for the affected schools. Small actions shift Faction Standing by 1 to 3 points. Major actions shift it by 5 to 10.
 3. Consider: does any school have reason to retaliate? The retaliation may not come immediately. The Court has a long memory.
 4. Tell the players what they observe. They may notice a school suddenly becoming warmer or colder. They may not know why.
 
@@ -1788,7 +1893,7 @@ Each scenario below presents a situation, what the rules say, how the Host adjud
 
 **Scenario One: Creative Qi Use.** The player wants to use their Qi to amplify their voice across the entire Outer Market, creating a distraction while their ally steals a document from a nearby stall.
 
-_What the Rules Say._ Qi Techniques are defined by the player's known abilities. Amplifying voice is not a listed Technique. The player argues that their Qi control skill should allow an improvised application.
+_What the Rules Say._ Qi Techniques are defined by the player's known abilities. Amplifying voice is not a listed Technique. The player argues that their Qi Theory skill should allow an improvised application.
 
 _How the Host Adjudicated._ The Host agreed that Qi can be shaped in creative ways. The player described how they would channel Qi to their throat and modulate their breath. The Host set a Qi Theory TN of 16 and a Qi cost of 3 points, equivalent to a minor Technique. On success, the voice amplification would last one minute. On failure, the player's voice would vanish completely for an hour.
 
@@ -1798,9 +1903,9 @@ _Outcome._ The player rolled a 14. They failed the check. Their voice disappeare
 
 _What the Rules Say._ Social skills against other players are not covered by the standard rules. The system assumes players cooperate.
 
-_How the Host Adjudicated._ The Host paused the game and talked to both players privately. They confirmed that both were comfortable with in character conflict. The Host then set a contested roll: the accusing player's Presence plus Persuasion against the targeted player's Presence plus Deception. The Host announced the stakes: if the accusation succeeded, the target would lose 10 Favor and be flagged for investigation. If it failed, the accuser would lose standing with the NPC.
+_How the Host Adjudicated._ The Host paused the game and talked to both players privately. They confirmed that both were comfortable with in character conflict. The Host then set a contested roll: the accusing player's Presence plus Persuasion against the targeted player's Presence plus Deception. The Host announced the stakes: if the accusation succeeded, the target would lose 10 Celestial Favor and be flagged for investigation. If it failed, the accuser would lose standing with the NPC.
 
-_Outcome._ The accusing player rolled well. The targeted player rolled poorly. The NPC believed the accusation. The targeted player was investigated for two sessions, losing Favor and access. The conflict created excellent roleplay. The targeted player eventually cleared their name and sought revenge. The table agreed afterward that the conflict had made the game better.
+_Outcome._ The accusing player rolled well. The targeted player rolled poorly. The NPC believed the accusation. The targeted player was investigated for two sessions, losing Celestial Favor and access. The conflict created excellent roleplay. The targeted player eventually cleared their name and sought revenge. The table agreed afterward that the conflict had made the game better.
 
 **Scenario Three: Player Betrayal.** A player has been secretly feeding information to the Golden Orthodoxy. The other players discover this during a session. The betraying player has been planning this for weeks.
 
@@ -1818,7 +1923,7 @@ _How the Host Adjudicated._ The Host declared this a "Last Stand" scene, using a
 
 _Outcome._ The player rolled two successes and one failure. They killed three investigators and wounded a fourth before falling. The time they bought allowed their allies to escape a trap. The player's new character entered the next session, having been inspired by the legendary last stand of their predecessor.
 
-**Scenario Five: Negotiation with a Dusk Entity.** The players encounter a Dusk touched individual who seems to be aware and communicative. It speaks in fragments. It offers to help them in exchange for something. The players want to negotiate.
+**Scenario Five: Negotiation with a Dusk Entity.** The players encounter a Dusk Touched individual who seems to be aware and communicative. It speaks in fragments. It offers to help them in exchange for something. The players want to negotiate.
 
 _What the Rules Say._ The Dusk is described as something that cannot be reasoned with. The rules explicitly state the Dusk does not negotiate.
 
@@ -1896,7 +2001,7 @@ _Outcome._ The player became the center of the arc rather than a participant in 
 
 ### Resolution Roll
 
-d20 + Facet Modifier + Proficiency (if applicable) vs TN
+d20 + Facet Modifier + Proficiency Bonus (if applicable) vs TN
 
 ### Combat Turn Summary
 
@@ -1906,23 +2011,23 @@ d20 + Facet Modifier + Proficiency (if applicable) vs TN
 
 ### Audit Risk Factors
 
-- High Harmony (60+): Reduces risk
-- Low Harmony (below 40): Increases risk
+- High Ritual Harmony (60+): Reduces risk
+- Low Ritual Harmony (below 40): Increases risk
 - Strong faction protection: Reduces risk
 - Enemies on the Commission: Increases risk
 
 ### The Six Schools at a Glance
 
-| School           | Wants        | Fears              | Method                     |
-| ---------------- | ------------ | ------------------ | -------------------------- |
-| Golden Orthodoxy | Preservation | Change             | Narrative control          |
-| Verdant Path     | Reform       | Harmonization      | Popular support            |
-| Iron Calculation | Efficiency   | Irrelevance        | Technical indispensability |
-| Crimson Lineage  | Continuity   | Extinction         | Ancient knowledge          |
-| Common Flame     | Justice      | The wolf           | Mass mobilization          |
-| Bright Mirror    | Purity       | Her own corruption | Investigation              |
+| School           | Wants        | Fears                | Method                     |
+| ---------------- | ------------ | -------------------- | -------------------------- |
+| Golden Orthodoxy | Preservation | Change               | Narrative control          |
+| Verdant Path     | Reform       | Harmonization Audits | Popular support            |
+| Iron Calculation | Efficiency   | Irrelevance          | Technical indispensability |
+| Crimson Lineage  | Continuity   | Extinction           | Ancient knowledge          |
+| Common Flame     | Justice      | The wolf             | Mass mobilization          |
+| Bright Mirror    | Purity       | Her own corruption   | Investigation              |
 
-### The Ten Figures' Truths
+### The Twelve Figures' Truths
 
 - Cinnabar Heart: The edicts are forged.
 - Night Warbler: She knows who killed Council member Wei.
@@ -1934,6 +2039,8 @@ d20 + Facet Modifier + Proficiency (if applicable) vs TN
 - Duke of Eternal Night: The Emperor is imprisoned, not absent.
 - Iron Bone: The Dusk originated in the penal works.
 - Celestial Book: He knows everything. All of it.
+- Bone Script: There are cook fires burning inside a declared Dusk zone, and the people who went back are not dying.
+- Incense Crown: The answer at the sealed door changed four years ago, and she has reported the old formula three times since.
 
 ---
 
@@ -2123,7 +2230,7 @@ The Violet Court supports a wide range of character types. When your table has m
 
 **Track screen time between sessions.** After each session, make a quick mental or written note of which players spoke the most and which had the most impact on the outcome. If the same player dominates three sessions in a row, design the next session's situation around another player's backstory or goals. A quiet player is not necessarily an unhappy player, but a session that centers their character will help you learn whether they are engaged or merely patient.
 
-**Use the Ten Figures as spotlight tools.** When a figure who shares a player's archetype appears, that player naturally gets a moment of recognition. The Night Warbler meeting the Night Warbler NPC. The Celestial Book being summoned by the Celestial Book NPC. These encounters give the player a direct connection to the world and make their archetype feel significant within the larger story. Not every session needs one of these encounters, but every archetype should have at least one such moment per campaign arc.
+**Use the Twelve Figures as spotlight tools.** When a figure who shares a player's archetype appears, that player naturally gets a moment of recognition. The Night Warbler meeting the Night Warbler NPC. The Celestial Book being summoned by the Celestial Book NPC. These encounters give the player a direct connection to the world and make their archetype feel significant within the larger story. Not every session needs one of these encounters, but every archetype should have at least one such moment per campaign arc.
 
 **The most important rule.** Talk to your players. Ask them individually whether they feel their character has had opportunities to shine. Most players are happy to be patient if they know their moment is coming. A player who trusts that you will deliver their spotlight moment will wait for it with anticipation rather than frustration.
 
@@ -2137,7 +2244,7 @@ No plan survives contact with the players. This section covers eight common play
 
 The players have decided that a major figure needs to die. Perhaps the Bright Mirror has become too dangerous. Perhaps the Iron Calculation's schemes have gone too far. Perhaps the Duke of Eternal Night knows too much. Your instinct may be to protect the figure. You have prepared for them. You need them for the story. Resist that instinct.
 
-First, confirm that the players understand the consequences. A public figure cannot be killed without massive repercussions. The investigation will be thorough. The suspects will be many. The players should know what they are walking into. Second, if they proceed, let them try. Make the attempt difficult but possible. A direct assault on one of the Ten Figures should require planning, resources, and sacrifice. Third, prepare for the aftermath. If they succeed, the power vacuum is enormous. The other nine figures react. Allies of the dead figure seek revenge. Enemies of the dead figure rush to fill the space. The whole web trembles. If they fail, the consequences are equally dramatic. The figure now knows the players are a threat and will act accordingly.
+First, confirm that the players understand the consequences. A public figure cannot be killed without massive repercussions. The investigation will be thorough. The suspects will be many. The players should know what they are walking into. Second, if they proceed, let them try. Make the attempt difficult but possible. A direct assault on one of the Twelve Figures should require planning, resources, and sacrifice. Third, prepare for the aftermath. If they succeed, the power vacuum is enormous. The other eleven figures react. Allies of the dead figure seek revenge. Enemies of the dead figure rush to fill the space. The whole web trembles. If they fail, the consequences are equally dramatic. The figure now knows the players are a threat and will act accordingly.
 
 The key principle: major NPCs are not immortal. They are consequential. Let the players change the world through their actions, even if those actions are violent and destructive. The most memorable campaigns are the ones where the players did something that permanently altered the landscape.
 
@@ -2145,9 +2252,9 @@ The key principle: major NPCs are not immortal. They are consequential. Let the 
 
 The players have decided that the Audit is not a challenge to be overcome but a trap to be avoided. They ignore the summons. They flee the city. They go to ground in the Warrens. They refuse to participate in the system that is judging them.
 
-The Audit continues without them. The Commission notes their absence. Their Risk increases automatically. Their faction standing drops because they appear guilty. NPCs who depended on them face the Audit alone and may be Sanctioned or Disappeared because the players were not there to provide support. The players cannot escape the consequences by ignoring them. They can only change the form those consequences take.
+The Audit continues without them. The Commission notes their absence. Their Risk increases automatically. Their Faction Standing drops because they appear guilty. NPCs who depended on them face the Audit alone and may be Sanctioned or Disappeared because the players were not there to provide support. The players cannot escape the consequences by ignoring them. They can only change the form those consequences take.
 
-The key principle: the Court's systems are designed to process everyone. Opting out is itself a choice with consequences. The players may survive the Audit by hiding, but they lose everything they built: their position, their Favor, their allies. They become fugitives, which is a valid and interesting campaign direction. Let them be fugitives. The game continues.
+The key principle: the Court's systems are designed to process everyone. Opting out is itself a choice with consequences. The players may survive the Audit by hiding, but they lose everything they built: their position, their Celestial Favor, their allies. They become fugitives, which is a valid and interesting campaign direction. Let them be fugitives. The game continues.
 
 ### They Try to Flee the Capital
 
@@ -2183,7 +2290,7 @@ The key principle: a split party creates dramatic irony. The audience (you and t
 
 ### They Find a Loophole in the Rules
 
-A player has discovered a combination of rules that lets them do something you did not anticipate. Perhaps they have found a way to generate unlimited Favor, bypass a core mechanic, or invalidate an entire challenge.
+A player has discovered a combination of rules that lets them do something you did not anticipate. Perhaps they have found a way to generate unlimited Celestial Favor, bypass a core mechanic, or invalidate an entire challenge.
 
 First, determine whether the loophole is actually fun. Does it create interesting choices or does it remove all challenge? If it creates interesting choices, let it stand. The player will feel brilliant, and they deserve that feeling. If it removes all challenge, talk to the player privately. "You have found something I did not anticipate. It breaks the game in a way that will make it less fun for everyone. Can we work together to adjust it?" Most players will agree to a fair compromise. If they do not, you have the authority to rule that the loophole does not work. State your reasoning clearly. "This combination produces a result that contradicts the spirit of the rules. I am ruling that it does not function as described."
 
@@ -2199,11 +2306,11 @@ The key principle: when players are clever, reward them with the next challenge,
 
 ### They Want to Use a Dusk Entity as a Weapon
 
-The players have encountered a Dusk touched being that can be controlled, commanded, or bargained with. They want to use it against their enemies. Perhaps they want to unleash it in the Grand Council Chamber. Perhaps they want to point it at a rival faction's headquarters.
+The players have encountered a Dusk Touched being that can be controlled, commanded, or bargained with. They want to use it against their enemies. Perhaps they want to unleash it in the Grand Council Chamber. Perhaps they want to point it at a rival faction's headquarters.
 
 This is a dangerous path. Using the Dusk as a weapon is like using a flood as a garden hose. The entity will do what the players want, but it will also do what it wants. The Dusk is not a tool. It is a corruption of reality that spreads without regard for intentions.
 
-First, determine what the entity wants. The Dusk touched being that can be controlled is not truly controlled. It is cooperating because it sees an advantage. What does it gain from this arrangement? Second, let the players have their moment of power. The entity does what they ask. It terrifies their enemies. It feels like a victory. Then show them the cost. The entity spreads to things they did not intend to harm. The contamination lingers. The Commission traces the Dusk signature back to them. The entity's demands escalate. What started as a weapon becomes a leash around the players' own necks.
+First, determine what the entity wants. The Dusk Touched being that can be controlled is not truly controlled. It is cooperating because it sees an advantage. What does it gain from this arrangement? Second, let the players have their moment of power. The entity does what they ask. It terrifies their enemies. It feels like a victory. Then show them the cost. The entity spreads to things they did not intend to harm. The contamination lingers. The Commission traces the Dusk signature back to them. The entity's demands escalate. What started as a weapon becomes a leash around the players' own necks.
 
 The key principle: the Dusk is not a resource. It is the central problem of the setting. Using it as a shortcut creates consequences that are proportional to the shortcut. The players can weaponize the Dusk, but they cannot weaponize it without being changed by it. Every time they use it, they become a little more like the thing they are trying to stop.
 

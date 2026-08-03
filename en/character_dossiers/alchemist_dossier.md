@@ -23,13 +23,13 @@ You wear robes of gold and alabaster. You carry vials of reagents that can heal,
 | Facet     | Score | Modifier |
 | --------- | ----- | -------- |
 | Might     | 8     | -1       |
-| Swiftness | 10    | +0       |
-| Endurance | 12    | +1       |
-| Intellect | 16    | +3       |
-| Presence  | 14    | +2       |
-| Resolve   | 12    | +1       |
+| Swiftness | 12    | +1       |
+| Endurance | 14    | +2       |
+| Intellect | 18    | +4       |
+| Presence  | 16    | +3       |
+| Resolve   | 14    | +2       |
 
-**Distribute 6 additional points among your Facets. No Facet may exceed 18 at character creation.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ---
 
@@ -41,7 +41,7 @@ You wear robes of gold and alabaster. You carry vials of reagents that can heal,
 | Qi Pool           | 10 + Intellect Modifier + 4 | Calculate |
 | Sanity            | 20 + Resolve Modifier       | Calculate |
 | Initiative        | Swiftness Modifier          | +0        |
-| Defense           | 10 + Swiftness Modifier     | 10        |
+| Defense           | 10 + Swiftness Modifier     | 11        |
 | Proficiency Bonus | Level 1                     | +2        |
 
 ---
@@ -103,14 +103,14 @@ When you invoke orthodox doctrine to support your position during a social encou
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                                        |
-| ---------------- | -------- | ------------------------------------------------------------ |
-| Golden Orthodoxy | +20      | You are one of theirs. For now.                              |
-| Verdant Path     | -10      | Reformers distrust narrative shapers.                        |
-| Iron Calculation | +5       | They appreciate competent record keeping.                    |
-| Crimson Lineage  | +10      | Old families respect institutional knowledge.                |
-| Common Flame     | -15      | They see you as a propagandist. They are not entirely wrong. |
-| Bright Mirror    | +5       | The Commission respects those who work with documents.       |
+| School           | Faction Standing | Notes                                                        |
+| ---------------- | ---------------- | ------------------------------------------------------------ |
+| Golden Orthodoxy | +20              | You are one of theirs. For now.                              |
+| Verdant Path     | -10              | Reformers distrust narrative shapers.                        |
+| Iron Calculation | +5               | They appreciate competent record keeping.                    |
+| Crimson Lineage  | +10              | Old families respect institutional knowledge.                |
+| Common Flame     | -15              | They see you as a propagandist. They are not entirely wrong. |
+| Bright Mirror    | +5               | The Commission respects those who work with documents.       |
 
 ---
 
@@ -118,7 +118,7 @@ When you invoke orthodox doctrine to support your position during a social encou
 
 **The family.** You were born in the Archive Quarter to two civil servants who did not like each other very much.
 
-Your father catalogued petitions that would never be read. He was a gentle, unambitious man who was good at his work and content with it, and your mother could not forgive him for that. She transcribed death records, wrote the final epitaphs of the Harmonized in a hand so fine that senior officials requested her by name, and she understood exactly how far that talent could have taken a man. She was not bitter about her own ceiling. She was bitter about his floor.
+Your father catalogued petitions that would never be read. He was a gentle, unambitious man who was good at his work and content with it, and your mother could not forgive him for that. She transcribed death records, wrote the final epitaphs of the Disappeared in a hand so fine that senior officials requested her by name, and she understood exactly how far that talent could have taken a man. She was not bitter about her own ceiling. She was bitter about his floor.
 
 You learned to read at four because she taught you early and hard. You understood by six that you were the instrument of a plan, and that the plan was aimed at your father as much as at the world. You have never entirely stopped resenting her for this, and you have also built an entire career on the foundation she laid, and both of those are true every day of your life.
 
@@ -293,7 +293,7 @@ Complication: One of the forgers recognized you. They have been leaving subtle s
 **For "A senior official's 'illness' was actually poisoning. You brewed the poison. You did not know what it was for until it was too late."**
 Complication: The official did not die. They survived, paralyzed and unable to speak. Their family believes they are a vegetative invalid. You know the poison you brewed. You know what they must be experiencing inside their trapped body. You visit them sometimes, in disguise, and sit beside them in silence.
 
-**For "You maintain a secret, accurate chronicle of events, separate from the official record. If it were found, you would be Harmonized within the week."**
+**For "You maintain a secret, accurate chronicle of events, separate from the official record. If it were found, you would be Disappeared within the week."**
 Complication: Someone has found it. You do not know who. You discovered that your quarters had been searched three nights ago. The chronicle was not taken. But it was moved. Someone read it and put it back in the wrong place. They want you to know they know.
 
 **For "Someone in the Bureau has been altering records to protect a specific school. You have noticed the pattern. You do not yet know who."**
@@ -311,7 +311,7 @@ Your workday is divided into three parts. Mornings are for correspondence: readi
 
 You leave the Bureau at sunset. You do not stay late. Staying late suggests you care too much. The Bureau does not trust people who care too much. You walk home the same route in reverse. You eat dinner alone. You write in your private journal. You read by candlelight until your eyes tire. You sleep. You dream of paper. You dream of ink. You dream of all the names you have written and all the names you have erased.
 
-The task you dread most: the quarterly audit of death records. Every three months, you must cross-reference the Bureau's Harmonization list with the actual census data. The numbers never match. You are the one who makes them match. You do this work in silence, with a flask of strong tea at your elbow and a tightness in your chest that does not go away until the audit is submitted and approved.
+The task you dread most: the quarterly audit of death records. Every three months, you must cross-reference the Bureau's Harmonization Audit list with the actual census data. The numbers never match. You are the one who makes them match. You do this work in silence, with a flask of strong tea at your elbow and a tightness in your chest that does not go away until the audit is submitted and approved.
 
 ---
 
@@ -332,3 +332,28 @@ What it feels like: The first time you use this power, it terrifies you. You wat
 **Level 9: Philosopher's Secret.** Once per campaign, you may prepare the Philosopher's Elixir. Its effect is determined by the Host based on the campaign's needs. Legends say it can restore the dead. The legends do not mention the cost.
 
 What it feels like: You have been working toward this your entire life without knowing it. The recipe is not written anywhere. It comes to you in fragments: a formula glimpsed in a dream, an ingredient that appears in your alchemical kit without explanation, a phrase your master said to you years ago that you did not understand until now. Preparing the Philosopher's Elixir is not a technical process. It is a ritual of surrender. You pour everything you are into the mixture: your skill, your guilt, your hope, your despair. The elixir requires a piece of you that cannot be regrown. When you prepare it, you lose something permanent. You do not know what until it is gone. The elixir glows with a light that looks like dawn but feels like dusk. You do not drink it yourself. You are not sure you could. It is not meant for you. It is meant for a moment that has not yet arrived. You carry it in a vial against your chest, warm as a second heartbeat, waiting for the moment when the cost of using it will be worth the cost of making it.
+
+---
+
+## Suggested Truths
+
+Choose one, or create your own with the Host:
+
+- You have seen the workshop beneath the Spire where the jade edicts are carved. You know the Emperor's decrees are forged. You have never told anyone.
+- A senior official's illness was poison. You prepared it. You did not know what it was for until it was too late to matter.
+- You keep a separate and accurate chronicle of events, entirely unlike the official record. If it were found you would be Disappeared inside a week.
+- Someone inside the Bureau of Harmonious Narrative is altering records to protect one particular school. You have noticed the pattern. You do not yet know who.
+
+---
+
+## Advancement
+
+As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+
+**Level 3: Mass Transmutation.** You may use Transmutation of Truth on events you did not personally witness, provided you have access to the relevant records.
+
+**Level 5: Perfect Elixir.** When preparing elixirs, one additional elixir of each type is created at no extra cost.
+
+**Level 7: Narrative Rewrite.** On a Critical Success with Transmutation of Truth, you may alter not only the record but the memory of a single witness. They remember your version as the thing that happened.
+
+**Level 9: Philosopher's Secret.** Once per campaign, you may prepare the Philosopher's Elixir. Its effect is determined by the Host based on the campaign's needs. Legends say it can restore the dead. The legends do not mention the cost.

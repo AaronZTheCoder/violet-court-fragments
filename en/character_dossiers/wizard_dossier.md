@@ -12,7 +12,7 @@
 
 ## Description
 
-You are old. Not in the way the Duke of Eternal Night is old, with his eight centuries of blood and politics. You are old in a way that predates memory. You were the Keeper of the Imperial Archives before anyone now alive was born. You have read every document the Court has ever produced: every edict, every confession, every statistical report, every love letter that was filed as evidence in a Harmonization case.
+You are old. Not in the way the Duke of Eternal Night is old, with his eight centuries of blood and politics. You are old in a way that predates memory. You were the Keeper of the Imperial Archives before anyone now alive was born. You have read every document the Court has ever produced: every edict, every confession, every statistical report, every love letter that was filed as evidence in a Harmonization Audit case.
 
 You forget nothing. You say very little. When you do speak, your words reshape Court doctrine for generations. Every school sends emissaries to court your favor. You receive them all. You endorse none. You find their struggles genuinely amusing, like watching children argue about the rules of a game they have fundamentally misunderstood. You know what they are actually arguing about. You know what happens next. You are not sure you should tell them.
 
@@ -110,7 +110,7 @@ When alone, speaking to the empty Archives:
 
 **Shadow (Information Broker):** You have an arrangement with Shadow that dates back seven years, to the night when a stolen document appeared on your desk with a note attached: "I thought you should see this." The document was one you had been looking for. The note had no signature. You investigated, as you investigate everything, and identified the thief within a day. You did not report them. You did not confront them directly. You invited them to tea. You have been meeting irregularly ever since. Shadow brings you information from the streets, the whispers that do not reach the Archives. You provide context, historical background, the deeper patterns that Shadow's sources cannot see. It is an unequal exchange. You give more than you receive. You do not mind. You have been looking for a connection to the living world for centuries. Shadow is the closest you have found.
 
-**Bright Mirror Archivist Lin Wei (your former apprentice):** Twenty years ago, you took an apprentice, a young woman from the Bright Mirror Commission who had shown exceptional talent in archival research. You taught her everything you could in five years. She left when the Commission recalled her, citing operational needs. You have not seen her since. You know she is alive. You know she is working on a case involving the Crimson Dusk. You know she has accessed restricted sections of the Archives using the knowledge you gave her. You have not stopped her. You are not sure you could stop her. You are not sure you want to. She was the closest thing to a successor you have ever had. You wonder if she thinks of you. You wonder if she remembers the way you taught her to fold documents for storage. You hope she does.
+**Bright Mirror Archivist Lin Wei (your former apprentice):** Twenty years ago, you took an apprentice, a young woman from the Commission for Celestial Purity who had shown exceptional talent in archival research. You taught her everything you could in five years. She left when the Commission recalled her, citing operational needs. You have not seen her since. You know she is alive. You know she is working on a case involving the Crimson Dusk. You know she has accessed restricted sections of the Archives using the knowledge you gave her. You have not stopped her. You are not sure you could stop her. You are not sure you want to. She was the closest thing to a successor you have ever had. You wonder if she thinks of you. You wonder if she remembers the way you taught her to fold documents for storage. You hope she does.
 
 **The Founders (all deceased, your creators):** You think about them more than you should. They were not cruel to you. They were not kind. They were engineers building a tool. You were their greatest creation. You wonder what they would think of what you have become. You wonder if they would be proud of the Archives you have built, or horrified by the secrets you have kept. They are all dead, so you will never know. You have tried to find records of their final days. The records are incomplete, as if someone removed pages from the archive. You suspect you know who. You suspect yourself. You have no memory of removing them. The gaps in the Archives are the only mysteries you have not been able to solve.
 
@@ -205,12 +205,12 @@ Before your rest period, you sit in the empty room. You do not enter it. You sit
 | --------- | ----- | -------- |
 | Might     | 6     | -2       |
 | Swiftness | 8     | -1       |
-| Endurance | 10    | +0       |
+| Endurance | 12    | +1       |
 | Intellect | 20    | +5       |
-| Presence  | 14    | +2       |
+| Presence  | 16    | +3       |
 | Resolve   | 20    | +5       |
 
-**Distribute 6 additional points among your Facets. No Facet may exceed 18 at character creation.**
+**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
 ---
 
@@ -276,14 +276,14 @@ Once per session, you may spend 10 Qi to declare that disparate pieces of inform
 
 ## Starting Faction Standing
 
-| School           | Standing | Notes                                                                 |
-| ---------------- | -------- | --------------------------------------------------------------------- |
-| Golden Orthodoxy | +10      | Your doctrinal interpretations have served them well.                 |
-| Verdant Path     | +10      | You have also served them, in different ways.                         |
-| Iron Calculation | +15      | You appreciate their systematic approach to knowledge.                |
-| Crimson Lineage  | +15      | You remember the old families' secrets. You have kept them.           |
-| Common Flame     | 0        | You have never addressed a crowd. They do not know you exist.         |
-| Bright Mirror    | +10      | The Commission consults you on difficult cases. You answer carefully. |
+| School           | Faction Standing | Notes                                                                 |
+| ---------------- | ---------------- | --------------------------------------------------------------------- |
+| Golden Orthodoxy | +10              | Your doctrinal interpretations have served them well.                 |
+| Verdant Path     | +10              | You have also served them, in different ways.                         |
+| Iron Calculation | +15              | You appreciate their systematic approach to knowledge.                |
+| Crimson Lineage  | +15              | You remember the old families' secrets. You have kept them.           |
+| Common Flame     | 0                | You have never addressed a crowd. They do not know you exist.         |
+| Bright Mirror    | +10              | The Commission consults you on difficult cases. You answer carefully. |
 
 ---
 
@@ -306,6 +306,6 @@ As you gain levels, you may purchase the following Archetype specific advances (
 
 **Level 5: Prophecy.** Once per session, you may spend 15 Qi to ask the Host what will most likely happen if the party takes a specific course of action. The Host answers truthfully, though the answer may be cryptic. The future is a text. It is sometimes difficult to parse.
 
-**Level 7: Ritual Mastery.** The Qi cost of all Techniques you use is reduced by 2 (minimum 1). You have been doing this for a thousand years. You are efficient.
+**Level 7: Ritual Mastery.** The Qi cost of all Qi Techniques you use is reduced by 2 (minimum 1). You have been doing this for a thousand years. You are efficient.
 
 **Level 9: The Last Page.** Once per campaign, you may open the sealed room in the Archives. What is inside is determined by the Host based on the campaign's accumulated truths. It will be something that changes everything. It always is.

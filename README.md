@@ -47,7 +47,8 @@ violet-court-fragments/
 │   │   ├── werewolf_dossier.md
 │   │   └── wizard_dossier.md
 │   ├── adventures/
-│   │   └── the_first_harmonization.md ← Starter adventure (2 to 3 sessions)
+│   │   ├── the_first_harmonization_cinematic_cut.md ← Recommended complete cinematic narrative
+│   │   └── the_first_harmonization.md               ← Full adventure production bible
 │   ├── host_tools/
 │   │   ├── session_tracker.md         ← Printable tracking sheet
 │   │   └── dusk_bestiary.md           ← Creature templates and monster rules
@@ -55,12 +56,12 @@ violet-court-fragments/
 │       └── quick_reference.md         ← One page table reference
 │
 ├── cn/                                ← Pure Chinese edition
-│   └── ... (mirrors the en/ structure, all 19 documents)
+│   └── ... (mirrors the en/ structure, all 20 documents)
 │
 └── tabletop_rpg_*.jpeg                ← 12 character portrait illustrations
 ```
 
-**38 markdown documents** across two languages. **14,800+ lines English, 14,300+ lines Chinese. 29,000+ lines total.** **Zero dashes.** **Zero political terminology.** **Zero mixed language.** Every word earned.
+**38 markdown documents** across two languages. **15,700+ lines English, 15,300+ lines Chinese. 31,000+ lines total.** **Zero dashes.** **Zero political terminology.** **Zero mixed language.** Every word earned.
 
 ---
 
@@ -83,29 +84,29 @@ violet-court-fragments/
 1. **The Host reads the Codex.** Start with Part One and Part Two. The Deeper Currents section explains the structural dynamics that drive the Court.
 2. **Each player picks an archetype.** Look through the twelve dossiers. Pick the one whose art and truth hooks speak to you. Read your three unique abilities. You will need them.
 3. **Build characters together.** Follow the eight steps in the Core Rulebook, Chapter Three. Decide why your characters know each other. Decide who owes whom.
-4. **Run "The First Harmonization."** The starter adventure in `adventures/` is built for two to three sessions. It introduces the Court, the Crimson Dusk, and the Audit mechanic. By the end, your players will understand what kind of game this is.
-5. **Let the campaign unfold.** After the starter adventure, use the Host Codex's campaign frameworks (The Rise, The Conspiracy, The Collapse), the random event tables, and the character generator to build what comes next.
+4. **Run "The First Harmonization."** Start with `the_first_harmonization_cinematic_cut.md`, the complete long form cinematic narrative designed for four to six sessions. Keep the full module open as a production bible for expanded encounters, Archetype material, and mechanical detail.
+5. **Let the campaign unfold.** After the starter adventure, use the Host's Codex campaign frameworks (The Rise, The Conspiracy, The Collapse), the random event tables, and the character generator to build what comes next.
 
 ---
 
 ## The Twelve Archetypes
 
-Every archetype has a full mechanical identity: Facet baseline, three unique abilities, an advancement tree to Level 9, starting equipment, faction standings, and four suggested personal truths. Each one matches a character portrait in the root directory.
+Every archetype has a full mechanical identity: Facet baseline, three unique abilities, an advancement tree to Level 9, starting equipment, Faction Standing values, and four suggested personal truths. Each one matches a character portrait in the root directory.
 
-| Archetype                 | Path      | School            | One Line Pitch                                                                                                     |
-| ------------------------- | --------- | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Cinnabar Heart**        | Alchemist | Golden Orthodoxy  | A narrative shaper who knows truth is a substance that can be refined, diluted, and occasionally poisoned          |
-| **Night Warbler**         | Assassin  | Unaligned         | A professional who strikes from shadow and understands that killing is the second oldest form of transaction       |
-| **Guest Among Forests**   | Elf       | Verdant Path      | An ancient soul who has watched empires rise and fall and speaks with trees older than the Court                   |
-| **Iron Calculation**      | Engineer  | Iron Calculation  | A builder who knows the empire runs on resources, not doctrine, and that indispensability is its own kind of power |
-| **Iron Wall**             | Knight    | Garrison Command  | A bastion who swore an oath to a silent Emperor and now guards truths as steadfastly as walls                      |
-| **Bright Mirror**         | Paladin   | Bright Mirror     | A justicar who serves an ideal, knowing full well that ideals are weapons anyone can pick up                       |
-| **Shadow**                | Rogue     | Independent       | A survivor who has been everywhere, knows everyone, and understands exactly what not to be worth                   |
-| **Duke of Eternal Night** | Vampire   | Crimson Lineage   | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
-| **Iron Bone**             | Werewolf  | Common Flame      | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
-| **Celestial Book**        | Wizard    | Celestial Inquiry | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
-| **Bone Script**           | Druid     | Unregistered      | A hedgewarden from an erased prefecture, carrying four thousand uncounted names carved onto bone                   |
-| **Incense Crown**         | Priestess | Temple            | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests             |
+| Archetype                 | Portrait  | Path             | School            | One Line Pitch                                                                                                     |
+| ------------------------- | --------- | ---------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Cinnabar Heart**        | Alchemist | Alchemist        | Golden Orthodoxy  | A narrative shaper who knows truth is a substance that can be refined, diluted, and occasionally poisoned          |
+| **Night Warbler**         | Assassin  | Shadow Hand      | Unaligned         | A professional who strikes from shadow and understands that killing is the second oldest form of transaction       |
+| **Guest Among Forests**   | Elf       | Long Lived       | Verdant Path      | An ancient soul who has watched empires rise and fall and speaks with trees older than the Court                   |
+| **Iron Calculation**      | Engineer  | Artificer        | Iron Calculation  | A builder who knows the empire runs on resources, not doctrine, and that indispensability is its own kind of power |
+| **Iron Wall**             | Knight    | Bastion          | Garrison Command  | A bastion who swore an oath to a silent Emperor and now guards truths as steadfastly as walls                      |
+| **Bright Mirror**         | Paladin   | Justicar         | Bright Mirror     | A justicar who serves an ideal, knowing full well that ideals are weapons anyone can pick up                       |
+| **Shadow**                | Rogue     | Night Walker     | Independent       | A survivor who has been everywhere, knows everyone, and understands exactly what not to be worth                   |
+| **Duke of Eternal Night** | Vampire   | Blood Cultivator | Crimson Lineage   | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
+| **Iron Bone**             | Werewolf  | Fury Adept       | Common Flame      | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
+| **Celestial Book**        | Wizard    | Archivist        | Celestial Inquiry | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
+| **Bone Script**           | Druid     | Hedgewarden      | Unregistered      | A hedgewarden from an erased prefecture, carrying four thousand uncounted names carved onto bone                   |
+| **Incense Crown**         | Priestess | Oracle           | Temple            | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests             |
 
 Each archetype is built for extensibility. New portraits can become new dossiers. The system scales.
 
@@ -124,7 +125,7 @@ The Celestial Court is divided into six competing schools, each representing a d
 | **Common Flame**     | Power flows upward from the people, not downward from the Court. The empire belongs to those who work it | Werewolf         |
 | **Bright Mirror**    | Purity of purpose above all. The empire must be cleansed of corruption, whatever the cost                | Paladin          |
 
-The Knight and the Assassin stand between schools. The Rogue stands outside them. The Wizard stands above them, watching.
+The Knight and the Assassin stand between schools. The Rogue stands outside them. The Wizard stands above them, watching. The Druid was never counted by them, and the Priestess belongs to something older than all six.
 
 ---
 
@@ -148,7 +149,7 @@ The Codex is written for the Host's eyes only. Guard it well.
 
 The Violet Court Fragments operates on two levels. The surface is dark fantasy: a dying empire, an absent Emperor, a corruption that unmakes reality itself, six competing schools of thought locked in endless struggle. This surface is complete and playable on its own terms.
 
-Beneath it runs a second current. The Court's internal dynamics follow patterns that recur wherever power concentrates and calcifies over centuries. The Harmonization Audit's four phase structure. The way narrative control precedes and enables every other form of power. The rhythm of accumulation, correction, and fragmentation that has repeated for three hundred years. The game never names what these patterns mirror. It does not need to. The Host Codex's guidance is simple: _if you recognize these shapes from other contexts, you are reading the water correctly._
+Beneath it runs a second current. The Court's internal dynamics follow patterns that recur wherever power concentrates and calcifies over centuries. The Harmonization Audit's four phase structure. The way narrative control precedes and enables every other form of power. The rhythm of accumulation, correction, and fragmentation that has repeated for three hundred years. The game never names what these patterns mirror. It does not need to. The Host's Codex guidance is simple: _if you recognize these shapes from other contexts, you are reading the water correctly._
 
 Every political term has been mapped to a fantasy equivalent. Every real world institution has been translated into the language of the Celestial Court. The encryption is complete. What you see in the depths is between you and your table.
 
@@ -156,10 +157,10 @@ Every political term has been mapped to a fantasy equivalent. Every real world i
 
 ## Editions
 
-| Edition | Directory | Contents                                                               |
-| ------- | --------- | ---------------------------------------------------------------------- |
-| English | `en/`     | All 19 documents in pure English. Zero Chinese characters. Zero dashes |
-| Chinese | `cn/`     | All 19 documents in pure Chinese. Zero English words. Zero dashes      |
+| Edition | Directory | Contents                                                                                          |
+| ------- | --------- | ------------------------------------------------------------------------------------------------- |
+| English | `en/`     | All 20 documents in English, including the complete cinematic narrative and full production bible |
+| Chinese | `cn/`     | All 20 documents in Chinese, including the complete cinematic narrative and full production bible |
 
 The two editions are functionally identical. Switch between them at any time. The character portraits work for both.
 

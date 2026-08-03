@@ -4,7 +4,7 @@
 
 ### Core Resolution
 
-**d20 + Facet Modifier + Proficiency (if applicable) vs Target Number**
+**d20 + Facet Modifier + Proficiency Bonus (if applicable) vs Target Number**
 
 | TN  | Difficulty  |
 | --- | ----------- |
@@ -62,24 +62,24 @@ Stabilize: Intellect TN 12 with supplies, or healing.
 - Leverage: Force compliance (stance worsens)
 - Reveal: Share a truth (automatic +1 stance)
 
-### Harmony Scale
+### Ritual Harmony Scale
 
 0-20 Heterodox (investigation imminent)
 21-40 Suspect (no positions, mail opened)
-41-60 Acceptable (normal, vulnerable in Audits)
+41-60 Acceptable (normal, vulnerable in Harmonization Audits)
 61-80 Harmonious (protected, eligible for advancement)
 81-100 Exemplary (shield and target)
 
 ### The Six Schools
 
-| School           | Core Belief                | Key Figure            | Standing Effect                                                                           |
-| ---------------- | -------------------------- | --------------------- | ----------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | Preserve the old ways      | Cinnabar Heart        | High standing: protection from Audits. Low standing: increased scrutiny.                  |
-| Verdant Path     | Adapt or die               | Guest Among Forests   | High standing: access to rare herbs and medicines. Low standing: healers refuse service.  |
-| Iron Calculation | Everything is optimization | Iron Calculation      | High standing: lower prices on goods and services. Low standing: economic sanctions.      |
-| Crimson Lineage  | Blood remembers            | Duke of Eternal Night | High standing: access to noble courts. Low standing: barred from high society.            |
-| Common Flame     | Power to the people        | Iron Bone             | High standing: information networks and safe houses. Low standing: whispers turn hostile. |
-| Bright Mirror    | Purity above all           | Bright Mirror         | High standing: Qi training and artifact access. Low standing: marked for purification.    |
+| School           | Core Belief                | Key Figure            | Faction Standing Effect                                                                                   |
+| ---------------- | -------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------- |
+| Golden Orthodoxy | Preserve the old ways      | Cinnabar Heart        | High Faction Standing: protection from Harmonization Audits. Low Faction Standing: increased scrutiny.    |
+| Verdant Path     | Adapt or die               | Guest Among Forests   | High Faction Standing: access to rare herbs and medicines. Low Faction Standing: healers refuse service.  |
+| Iron Calculation | Everything is optimization | Iron Calculation      | High Faction Standing: lower prices on goods and services. Low Faction Standing: economic sanctions.      |
+| Crimson Lineage  | Blood remembers            | Duke of Eternal Night | High Faction Standing: access to noble courts. Low Faction Standing: barred from high society.            |
+| Common Flame     | Power to the people        | Iron Bone             | High Faction Standing: information networks and safe houses. Low Faction Standing: whispers turn hostile. |
+| Bright Mirror    | Purity above all           | Bright Mirror         | High Faction Standing: Qi training and artifact access. Low Faction Standing: marked for purification.    |
 
 ### Full Weapon Table
 
@@ -121,7 +121,7 @@ Stabilize: Intellect TN 12 with supplies, or healing.
 | Concealable   | Advantage on checks to hide the weapon                                                            |
 | Throwable     | Can be thrown as a ranged attack at listed range                                                  |
 | Loading       | Can only be fired once per turn (reload action required for additional shots)                     |
-| Qi Focus      | Can be used as a channel for Qi techniques (no free hand required)                                |
+| Qi Focus      | Can be used as a channel for Qi Techniques (no free hand required)                                |
 | Brutal        | Reroll damage dice that show 1 (must keep the reroll)                                             |
 | Blunt         | Deals bludgeoning damage; effective against armored targets (+1 to hit if target has Defense 14+) |
 | Staggering    | On a critical hit, target must make Endurance TN 12 or lose their next action                     |
@@ -210,7 +210,7 @@ Stabilize: Intellect TN 12 with supplies, or healing.
 | Stunned                         | Cannot take actions or reactions. Attack rolls against you have Advantage.                                                                                                                |
 | Unconscious                     | Incapacitated. Cannot take actions or reactions. Attack rolls against you have Advantage. Automatic failure on Strength and Swiftness checks.                                             |
 | Blinded                         | Attack rolls have Disadvantage. Attack rolls against you have Advantage. Movement requires Intellect TN 12 to navigate.                                                                   |
-| Deafened                        | Cannot hear. Automatic failure on Perception checks that rely on hearing. Surprise is possible but less likely.                                                                           |
+| Deafened                        | Cannot hear. Automatic failure on Vigilance checks that rely on hearing. Surprise is possible but less likely.                                                                            |
 | Restrained                      | Movement speed is 0. Attack rolls have Disadvantage. Attack rolls against you have Advantage.                                                                                             |
 | Prone                           | Attack rolls have Disadvantage. Attack rolls against you have Advantage within 1 Zone. Standing costs half your movement.                                                                 |
 | Exhaustion (Levels 1 to 6)      | Level 1: Disadvantage on ability checks. Level 2: Speed halved. Level 3: Disadvantage on attack rolls and saves. Level 4: HP maximum halved. Level 5: Speed reduced to 0. Level 6: Death. |
@@ -233,44 +233,63 @@ Stabilize: Intellect TN 12 with supplies, or healing.
 **Treatment and Recovery:**
 
 - Wounds: Bandages and basic first aid (Intellect TN 12) restore 1d4 HP. Usable once per injury.
-- Dusk Corruption Treatment: Requires Intellect TN 16 and 24 hours of rest per level. Qi techniques (Dusk Purge) can accelerate this.
+- Dusk Corruption Treatment: Requires Intellect TN 16 and 24 hours of rest per level. Qi Techniques (Dusk Purge) can accelerate this.
 - Sanity Recovery: Natural recovery (long rest in safe location) restores 1 Sanity per day. Therapy or counseling from a trusted NPC can restore 1d4 Sanity per session. Completing a character goal restores 2d6 Sanity.
 - Poison or Disease: Requires Intellect TN 14 + applicable kit to treat. Untreated poisons or diseases worsen every 24 hours.
 
-### Advancement Costs Table
+### Advancement Points Quick Reference
 
-| Level | XP Required | New Features Unlocked                           |
-| ----- | ----------- | ----------------------------------------------- |
-| 1     | 0           | Starting archetype features                     |
-| 2     | 300         | New Technique Slot, +1 Proficiency              |
-| 3     | 900         | Archetype Feature, +1 Facet Point               |
-| 4     | 1,800       | New Technique Slot, +1 Proficiency              |
-| 5     | 3,000       | Archetype Feature, +1 Facet Point               |
-| 6     | 4,500       | New Technique Slot, +1 Proficiency              |
-| 7     | 6,300       | Archetype Feature, +1 Facet Point               |
-| 8     | 8,400       | New Technique Slot, +1 Proficiency              |
-| 9     | 10,800      | Archetype Feature, +1 Facet Point               |
-| 10    | 13,500      | Capstone Archetype Feature, Legendary Technique |
+Characters grow through experience. The Host awards Advancement Points (AP) at the end of each significant story arc or session:
 
-**Facet Modifier Increase:** Costs XP equal to new modifier x 200 (e.g., increasing a facet from +2 to +3 costs 600 XP).
-**New Proficiency:** Costs 200 XP per proficiency. Maximum starting proficiencies plus one per level.
-**New Technique:** Learned from a teacher, scroll, or meditative discovery. Base cost 200 XP plus roleplaying requirement.
+| Accomplishment                        | AP  |
+| ------------------------------------- | --- |
+| Surviving a session                   | 1   |
+| Completing a significant objective    | 2   |
+| Resolving a major story arc           | 3   |
+| Exceptional roleplaying or cleverness | 1   |
+
+**Spending Advancement Points:**
+
+| Advancement                                     | AP Cost   |
+| ----------------------------------------------- | --------- |
+| Increase one Facet by 1 (max 20)                | 3         |
+| Gain proficiency in a new Skill                 | 5         |
+| Learn a new Technique                           | 4         |
+| Increase max Qi Pool by 5                       | 3         |
+| Gain a special ability from your Archetype tree | 5         |
+| Improve Proficiency Bonus (every 4 levels)      | Automatic |
+
+**Level:** A character's Level is equal to their total AP spent divided by 4, rounded down, plus 1.
+
+| Level | AP Spent | Proficiency Bonus |
+| ----- | -------- | ----------------- |
+| 1     | 0 to 3   | +2                |
+| 2     | 4 to 7   | +2                |
+| 3     | 8 to 11  | +2                |
+| 4     | 12 to 15 | +2                |
+| 5     | 16 to 19 | +3                |
+| 6     | 20 to 23 | +3                |
+| 7     | 24 to 27 | +3                |
+| 8     | 28 to 31 | +3                |
+| 9     | 32 to 35 | +4                |
+
+Level 9 is the ceiling of the advancement trees printed in the character dossiers. Tables that continue past it use the Proficiency progression in Chapter Five: +4 through Level 12, +5 through Level 16.
 
 ### Currency Conversion Quick Reference
 
-| Coin Type        | Value in Copper | Value in Silver | Value in Gold                          |
-| ---------------- | --------------- | --------------- | -------------------------------------- |
-| Copper Piece (C) | 1               | 1/10            | 1/100                                  |
-| Silver Piece (S) | 10              | 1               | 1/10                                   |
-| Gold Piece (G)   | 100             | 10              | 1                                      |
-| Jade Token (J)   | 200             | 20              | 2 (official)                           |
-| Favor Note (F)   | Varies          | Varies          | Varies (worth 1d10 Silver, unreliable) |
+| Coin Type                | Value in Copper | Value in Silver | Value in Gold                          |
+| ------------------------ | --------------- | --------------- | -------------------------------------- |
+| Copper Piece (C)         | 1               | 1/10            | 1/100                                  |
+| Silver Piece (S)         | 10              | 1               | 1/10                                   |
+| Gold Piece (G)           | 100             | 10              | 1                                      |
+| Jade Token (J)           | 200             | 20              | 2 (official)                           |
+| Celestial Favor Note (F) | Varies          | Varies          | Varies (worth 1d10 Silver, unreliable) |
 
 **Exchange Notes:**
 
-- Jade Tokens are the preferred currency for transactions involving Qi techniques, Dusk related materials, or imperial bureaucracy.
-- Favor Notes are IOUs issued by schools or nobles. They are accepted within that school's sphere of influence but worth far less outside it.
-- Harmonized merchants may refuse to accept large payments in copper. Payments over 100 silver should be in gold or jade.
+- Jade Tokens are the preferred currency for transactions involving Qi Techniques, Dusk related materials, or imperial bureaucracy.
+- Celestial Favor Notes are IOUs issued by schools or nobles. They are accepted within that school's sphere of influence but worth far less outside it.
+- Established merchants may refuse to accept large payments in copper. Payments over 100 silver should be in gold or jade.
 
 ### NPC Quick Generator
 
@@ -281,7 +300,7 @@ Roll or choose from each column to create an NPC quickly.
 | 1   | Merchant | Greedy        | Indebted to a school                   | Chews on a toothpick obsessively |
 | 2   | Guard    | Suspicious    | Hates their commanding officer         | Counts under their breath        |
 | 3   | Scholar  | Curious       | Knows a forbidden truth                | Speaks in questions              |
-| 4   | Farmer   | Weary         | Hides a Dusk touched relative          | Touches wood for luck            |
+| 4   | Farmer   | Weary         | Hides a Dusk Touched relative          | Touches wood for luck            |
 | 5   | Official | Officious     | Takes bribes                           | Never makes eye contact          |
 | 6   | Healer   | Compassionate | Was a soldier once                     | Humming constantly               |
 | 7   | Beggar   | Desperate     | Was a noble once                       | Knows everyone's name            |
@@ -363,42 +382,42 @@ Roll or choose from each column to create an NPC quickly.
 **Golden Orthodoxy**
 Core Belief: The old ways must be preserved. Change is corruption.
 Key Figure: Cinnabar Heart
-Standing Effect: High standing protects from Audits and investigations. Low standing attracts scrutiny from Inspectors.
+Faction Standing Effect: High Faction Standing protects from Harmonization Audits and investigations. Low Faction Standing attracts scrutiny from Commission investigators.
 Typical Members: Historians, traditionalists, conservative officials, elders.
 Rival Schools: Bright Mirror (over purity of tradition), Verdant Path (over adaptation).
 
 **Verdant Path**
 Core Belief: Adapt or die. The world changes and so must we.
 Key Figure: Guest Among Forests
-Standing Effect: High standing grants access to rare medicinal herbs, poisons, and treatments. Low standing means healers and herbalists refuse service.
+Faction Standing Effect: High Faction Standing grants access to rare medicinal herbs, poisons, and treatments. Low Faction Standing means healers and herbalists refuse service.
 Typical Members: Healers, alchemists, farmers, survivalists.
 Rival Schools: Golden Orthodoxy (over change), Crimson Lineage (over natural order).
 
 **Iron Calculation**
 Core Belief: Everything is a calculation. Efficiency is the highest virtue.
 Key Figure: Iron Calculation
-Standing Effect: High standing lowers prices on goods, services, and information. Low standing triggers economic sanctions and price gouging.
+Faction Standing Effect: High Faction Standing lowers prices on goods, services, and information. Low Faction Standing triggers economic sanctions and price gouging.
 Typical Members: Merchants, accountants, strategists, logisticians.
 Rival Schools: Common Flame (over people versus numbers), Crimson Lineage (over noble privilege).
 
 **Crimson Lineage**
 Core Belief: Blood remembers what the empire forces itself to forget.
 Key Figure: Duke of Eternal Night
-Standing Effect: High standing opens noble courts and high society. Low standing means barred from social events and noble cooperation.
+Faction Standing Effect: High Faction Standing opens noble courts and high society. Low Faction Standing means barred from social events and noble cooperation.
 Typical Members: Nobility, historians of bloodlines, those who study inherited memory.
 Rival Schools: Common Flame (over class), Bright Mirror (over purity).
 
 **Common Flame**
 Core Belief: Power belongs to the people, not the few.
 Key Figure: Iron Bone
-Standing Effect: High standing grants information networks, safe houses, and people's support. Low standing means whispers turn hostile and crowds become dangerous.
+Faction Standing Effect: High Faction Standing grants information networks, safe houses, and people's support. Low Faction Standing means whispers turn hostile and crowds become dangerous.
 Typical Members: Commoners, laborers, revolutionaries, underground leaders.
 Rival Schools: Crimson Lineage (over nobility), Iron Calculation (over exploitation).
 
 **Bright Mirror**
 Core Belief: Purity above all. The Dusk is a stain that must be cleansed.
 Key Figure: Bright Mirror
-Standing Effect: High standing grants Qi training access and artifact research privileges. Low standing means marked for purification and investigation.
+Faction Standing Effect: High Faction Standing grants Qi training access and artifact research privileges. Low Faction Standing means marked for purification and investigation.
 Typical Members: Qi masters, ascetics, purifiers, investigators.
 Rival Schools: Golden Orthodoxy (over what purity means), Crimson Lineage (over blood purity).
 
