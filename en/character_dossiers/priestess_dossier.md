@@ -78,7 +78,7 @@ You do not know which possibility frightens you more, and you think about it dur
 
 **What you are bad at.** You cannot tolerate being contradicted by someone you respect.
 
-You are famously gracious under insult; a hostile censor can say anything and you will thank him. But when the Bright Mirror disagrees with you on something small, precisely and correctly, you feel it in your chest for two days. You have never let it show. You are aware that a woman whose entire authority rests on being the calm center of a room has organized her life around never being in a room with someone who might be right.
+You are famously gracious under insult; a hostile censor can say anything and you will thank him. But when the Bright Mirror disagrees with you on something small, precisely and correctly, you feel it in your chest for two days. You have never let it show. You are aware that a woman whose entire authority rests on being the calm center of a room has organized his life around never being in a room with someone who might be right.
 
 ---
 
@@ -96,7 +96,7 @@ You are famously gracious under insult; a hostile censor can say anything and yo
 4. To someone frightened, in the shrine, at night:
    "Sit. No, do not kneel, you have been kneeling all day. Sit. I am going to ask you nothing. There is no register here, no form, and no one is going to arrive. You may have this hour and do whatever you like with it, including nothing."
 
-5. When the Bright Mirror questions her loyalty:
+5. When the Bright Mirror questions his loyalty:
    "High Justicar, I have been performing the Continuance for eleven years, which means I am the only person in the empire who has knelt at that door more recently than you have. If you wish to test my loyalty, you will have to define it first, and I do not believe the Court has ever agreed on a definition. I am loyal to the rite. You will have to decide whether that is enough for you."
 
 6. Regarding the two attendants who report on her:
@@ -128,7 +128,7 @@ You are famously gracious under insult; a hostile censor can say anything and yo
 
 **White Reed and Little Pine, your attendants and informants.** Twenty two and seventeen. They report on you weekly to the Commission and you have known since the first week and have never mentioned it. You have taught them both to read. You feed Little Pine harmless truths to file so that her reports stay useful and she stays employed. You are aware that you have made yourself responsible for the welfare of your own surveillance, and that this is either an act of grace or a very sophisticated form of control, and that you cannot tell from inside.
 
-**The Bright Mirror, High Justicar.** She holds the standing order to close the Temple and has not executed it in thirteen years. You have met eleven times, always formally, always with witnesses. Neither of you has ever said anything that could be written down. You believe she is the only genuinely honest person in the Grand Council's orbit, you believe she will destroy the Temple the day the arithmetic changes, and you believe she will be right to and will not forgive herself. You have prayed for her, privately, by name, and would be humiliated if she learned it.
+**The Bright Mirror, High Justicar.** He holds the standing order to close the Temple and has not executed it in thirteen years. You have met eleven times, always formally, always with witnesses. Neither of you has ever said anything that could be written down. You believe he is the only genuinely honest person in the Grand Council's orbit, you believe he will destroy the Temple the day the arithmetic changes, and you believe he will be right to and will not forgive himself. You have prayed for him, privately, by name, and would be humiliated if he learned it.
 
 **The Duke of Eternal Night.** He attended your first Continuance. Afterward he said, "Nine Bells put the rising tone on the eighth phrase. Her teacher did not." He was present when her teacher performed it. He is the only living witness to a version of the rite older than your entire lineage, and he will not tell you which was correct, and you have come to understand that he does not know either, and that this is the closest thing to comfort anyone has offered you.
 
@@ -329,7 +329,7 @@ Spend 6 Qi and perform the naming for a person living or newly dead. If living, 
 | Iron Calculation | -5               | You are an unquantifiable dependency in an otherwise clean model. They hate that. |
 | Crimson Lineage  | +20              | You have performed the last rite for four of their elders. They remember.         |
 | Common Flame     | +10              | The camps know who kneels in the dirt. Word travels without you.                  |
-| Bright Mirror    | 0                | She holds the order to close you. She has not executed it in thirteen years.      |
+| Bright Mirror    | 0                | He holds the order to close you. He has not executed it in thirteen years.      |
 
 ---
 

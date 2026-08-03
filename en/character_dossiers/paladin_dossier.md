@@ -22,7 +22,7 @@ You believe in the Court's founding ideals with an intensity that terrifies ever
 
 **The mother, and the letters.** You were born in a temple of the Golden Orthodoxy to a priestess of fierce faith and fiercer silences, who taught you that the gods speak in the quiet between choices, and who was right about that, and who has not spoken to you in thirty four years.
 
-When you left for the Bright Mirror School at fourteen she said: when you become what he became, do not come back to me.
+When you left for the Bright Mirror School at fourteen he said: when you become what he became, do not come back to me.
 
 You write to her four times a year. The temple returns the letters unopened. The seals are always broken.
 

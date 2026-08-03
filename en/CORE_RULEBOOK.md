@@ -198,25 +198,25 @@ Host: "Critical Failure. The brazier tips as you test your weight on the sheet. 
 
 A player character must convince the Bright Mirror to spare a reformer who has been accused of heterodoxy.
 
-Host: "The Bright Mirror sits motionless on the judgment seat. Her face reveals nothing. The accused kneels to your left, wrists bound. The courtroom is silent except for the drip of water from the ceiling. The Bright Mirror speaks: 'You have one argument. Make it count.'"
+Host: "The Bright Mirror sits motionless on the judgment seat. His face reveals nothing. The accused kneels to your left, wrists bound. The courtroom is silent except for the drip of water from the ceiling. The Bright Mirror speaks: 'You have one argument. Make it count.'"
 
 Player: "I step forward. I do not plead for mercy. I argue that executing this reformer would be strategically unwise. I cite three precedents where the Commission's harshness created martyrs. I keep my voice calm and my arguments precise."
 
 The Host sets the TN at 24 for convincing the Bright Mirror to show mercy. The player rolls a d20, getting a 17. A Duke of Eternal Night with Presence 20 (modifier +5) and proficiency in Persuasion (+2). Total: 17 + 5 + 2 = 24. Exactly meets TN 24.
 
-Host: "The Bright Mirror's expression does not change. For a long moment, the only sound is the dripping water. Then she speaks. 'You argue from strategy rather than sentiment. That is wise. The prisoner will be remanded to house arrest rather than execution. You have saved a life today. I suggest you ensure that life is worth saving.'"
+Host: "The Bright Mirror's expression does not change. For a long moment, the only sound is the dripping water. Then he speaks. 'You argue from strategy rather than sentiment. That is wise. The prisoner will be remanded to house arrest rather than execution. You have saved a life today. I suggest you ensure that life is worth saving.'"
 
 **Example 6: Impossible (TN 28): Lying to the Celestial Book**
 
 A Night Warbler tries to deceive the Keeper of the Imperial Archives, a being who has spent centuries cataloging human falsehood.
 
-Host: "The Celestial Book regards you with eyes that have seen the empire rise and fall and rise again. He knows every document you have ever filed, every request you have ever made, every person you have ever contacted through official channels. He waits."
+Host: "The Celestial Book regards you with eyes that have seen the empire rise and fall and rise again. She knows every document you have ever filed, every request you have ever made, every person you have ever contacted through official channels. She waits."
 
 Player: "I tell him I was in the archives researching the legitimate lineage of a minor noble house. I have a forged writ of authorization. I keep my story simple."
 
 The Host sets the TN at 28 for lying to the Celestial Book. The player rolls a d20, getting a 7. Night Warbler with Presence 14 (modifier +2) and proficiency in Deception (+2). Total: 7 + 2 + 2 = 11. Misses TN 28 by 17.
 
-Host: "The Celestial Book does not accuse you. He simply tilts his head and says, 'You were not in the archives. You were in the Western Repository, which is outside your clearance level. You accessed a file marked with the Crimson Sigil. You have been very busy tonight.' He does not raise his voice. He does not need to. What do you say now?"
+Host: "The Celestial Book does not accuse you. She simply tilts her head and says, 'You were not in the archives. You were in the Western Repository, which is outside your clearance level. You accessed a file marked with the Crimson Sigil. You have been very busy tonight.' She does not raise her voice. She does not need to. What do you say now?"
 
 **Example 7: Advantage from Clever Planning (TN 12)**
 
@@ -296,7 +296,7 @@ Your Archetype provides a baseline array of Facet scores. You then have **six ad
 
 **Facet Modifier:** Your Facet Modifier equals (Facet Score minus 10) divided by 2, rounded down. A Facet of 14 gives a modifier of +2. A Facet of 8 gives a modifier of -1.
 
-**Example assignment.** Mira's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of him.
+**Example assignment.** Mira's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of her.
 
 ### Step Three: Select Skills
 
@@ -360,7 +360,7 @@ _Resolve Skills:_
 
 **Defense:** 10 + Swiftness Modifier. The base TN for attacks targeting you.
 
-**Example calculation.** Mira's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier -1), with no Archetype bonus, so -1. Defense: 10 + (-1) = 9. He is the most fragile character at the table and the hardest to break.
+**Example calculation.** Mira's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier -1), with no Archetype bonus, so -1. Defense: 10 + (-1) = 9. She is the most fragile character at the table and the hardest to break.
 
 ### Step Five: Starting Resources
 
@@ -414,7 +414,7 @@ Here is a complete walkthrough of creating a character from nothing to ready for
 
 **Step 1: Archetype.** Alex reads the Archetype descriptions and picks the Night Warbler. The Shadow Hand appeals because Alex wants to play an infiltrator, someone who moves through the Court unseen and uncovers secrets. The Night Warbler baseline is Swiftness 18, Might 14, Resolve 14, Intellect 14, Endurance 12, Presence 10.
 
-**Step 2: Facets.** Alex has 6 points to distribute. Night Warbler abilities rely on Swiftness and Presence, but Swiftness is already at 18 and cannot be raised with these points. Alex spends all 6 on Presence, raising it from 10 to 16 (modifier +3), because an infiltrator who cannot talk her way back out is a corpse with good shoes. Might stays at 14 (modifier +2). Endurance stays at 12 (modifier +1). Intellect stays at 14 (modifier +2). Resolve stays at 14 (modifier +2).
+**Step 2: Facets.** Alex has 6 points to distribute. Night Warbler abilities rely on Swiftness and Presence, but Swiftness is already at 18 and cannot be raised with these points. Alex spends all 6 on Presence, raising it from 10 to 16 (modifier +3), because an infiltrator who cannot talk his way back out is a corpse with good shoes. Might stays at 14 (modifier +2). Endurance stays at 12 (modifier +1). Intellect stays at 14 (modifier +2). Resolve stays at 14 (modifier +2).
 
 **Step 3: Skills.** The Night Warbler grants Stealth, Larceny, and Deception. Alex chooses two more: Insight (to read people during investigations) and Acrobatics (to escape through windows and across rooftops).
 
@@ -424,7 +424,7 @@ Here is a complete walkthrough of creating a character from nothing to ready for
 
 **Step 6: Truth.** Alex decides: "I know that a senior member of the Golden Orthodoxy has been meeting with a representative of the Crimson Dusk. I witnessed the meeting by accident while following a different target. I have not reported it because I am not sure who to trust."
 
-**Step 7: Faction Standing.** Night Warbler baseline: Neutral with most factions, slightly positive with the Bureau of Internal Harmony (her nominal employer), slightly negative with the Crimson Lineage (she has spied on them before).
+**Step 7: Faction Standing.** Night Warbler baseline: Neutral with most factions, slightly positive with the Bureau of Internal Harmony (his nominal employer), slightly negative with the Crimson Lineage (he has spied on them before).
 
 **Step 8: Name and History.** "My name is Cinder. I was a street child in the capital's outer districts. The Bureau of Internal Harmony recruited me at age fifteen because I could get into places I should not be able to get into. I have served them for twelve years. I am good at my job. I am starting to wonder if I am on the right side."
 
@@ -456,7 +456,7 @@ A Cinnabar Heart who uses her position in the Bureau of Harmonious Narrative to 
 
 A Guest Among Forests who has lived for three centuries and is deeply, profoundly tired. She has seen empires rise and fall. She struggles to care about the current crisis but feels obligated to try.
 
-A Shadow who was once a member of every school and was expelled from all of them. She works alone because she has burned every bridge. She tells herself she prefers it that way.
+A Shadow who was once a member of every school and was expelled from all of them. He works alone because he has burned every bridge. He tells himself he prefers it that way.
 
 ---
 
@@ -1018,7 +1018,7 @@ Jinhai takes 4 psychic damage. Her HP drops from 12 to 8. She is now wounded her
 
 **Example 2: The Dusk Interference.**
 
-Cinder is trying to use Shroud of Shadow to escape from a pursuing group of Dusk Touched hunters. She is in a forest that has been partially consumed by the Crimson Dusk. The air itself is corrupted.
+Cinder is trying to use Shroud of Shadow to escape from a pursuing group of Dusk Touched hunters. He is in a forest that has been partially consumed by the Crimson Dusk. The air itself is corrupted.
 
 Host: "You draw on your Qi to wrap yourself in shadow, but the Dusk saturated air resists your manipulation. The shadows around you writhe, but they do not obey. They are corrupted. You are trying to command something that answers to a different master. Make a Qi Disharmony check."
 
@@ -1260,7 +1260,7 @@ The following concrete examples show how specific actions at the table might aff
 
 5. A Celestial Book is asked to authenticate an ancient scroll for the Commission. She certifies the scroll as orthodox, even though she suspects it contains veiled criticism of the current regime. (+4 Ritual Harmony, now 63. She has compromised her scholarly integrity.)
 
-6. A Night Warbler provides information that leads to the arrest of a Dusk cult cell. The Bureau of Internal Harmony is pleased. (+5 Ritual Harmony, now 60. The cell's members may have information she needs.)
+6. A Night Warbler provides information that leads to the arrest of a Dusk cult cell. The Bureau of Internal Harmony is pleased. (+5 Ritual Harmony, now 60. The cell's members may have information he needs.)
 
 7. An Iron Bone participates in a public flagellation ritual during a holy festival, demonstrating his devotion. (+1 Ritual Harmony, now 48.)
 
@@ -1272,7 +1272,7 @@ The following concrete examples show how specific actions at the table might aff
 
 2. During a routine Harmonization Audit, an Iron Bone questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (-8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
 
-3. A Night Warbler shelters a Dusk refugee in her safe house for three nights. The refugee is a child. The risk of discovery is high. (-8 Ritual Harmony, now 32.)
+3. A Night Warbler shelters a Dusk refugee in his safe house for three nights. The refugee is a child. The risk of discovery is high. (-8 Ritual Harmony, now 32.)
 
 4. A Cinnabar Heart publishes a research paper that includes a factual correction to a widely distributed imperial census. The correction is accurate. It is also politically inconvenient for a faction that benefits from the error. (-15 Ritual Harmony, now 38.)
 
@@ -1282,7 +1282,7 @@ The following concrete examples show how specific actions at the table might aff
 
 7. A Guest Among Forests refuses to endorse an orthodox appointment, citing concerns about the candidate's qualifications. The refusal is seen as political rather than professional. (-6 Ritual Harmony, now 60.)
 
-8. A Bright Mirror's investigation of a corrupt official is blocked by political pressure. She withdraws the investigation. She is seen as weak. (-5 Ritual Harmony, now 55.)
+8. A Bright Mirror's investigation of a corrupt official is blocked by political pressure. He withdraws the investigation. He is seen as weak. (-5 Ritual Harmony, now 55.)
 
 9. A Shadow is caught breaking into the office of a Golden Orthodoxy official. The break was professional and left no trace except one: the official came back early. (-10 Ritual Harmony, now 25.)
 
@@ -2108,11 +2108,11 @@ Timekeeping in the empire follows an ancient calendar divided into Seasons and F
 
 These pre generated characters can be used for one shot sessions or as templates for new players.
 
-**Ember of the Ashen Dawn (Night Warbler).** A courier who carries messages for the Bureau of Internal Harmony. Ember is twenty two years old, quick with a blade and quicker with a lie. She was recruited from the streets at age twelve. She has never lost a package. She has started reading the messages she carries. She has started to wonder what kind of person her employer truly is. Might 14, Swiftness 18, Endurance 14, Intellect 16, Presence 10, Resolve 16.
+**Ember of the Ashen Dawn (Night Warbler).** A courier who carries messages for the Bureau of Internal Harmony. Ember is twenty two years old, quick with a blade and quicker with a lie. He was recruited from the streets at age twelve. He has never lost a package. He has started reading the messages he carries. He has started to wonder what kind of person his employer truly is. Might 14, Swiftness 18, Endurance 14, Intellect 16, Presence 10, Resolve 16.
 
 **Steady Hand Zheng (Iron Wall).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 18, Intellect 12, Presence 16, Resolve 14.
 
-**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of her purpose. She believes the system works. She has not yet encountered a case that made her doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
+**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made his doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
 
 **Old Moss (Guest Among Forests).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers when the Emperor last spoke. She remembers what he said. Might 10, Swiftness 16, Endurance 14, Intellect 16, Presence 16, Resolve 16.
 

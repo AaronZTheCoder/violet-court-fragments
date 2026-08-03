@@ -3304,7 +3304,7 @@ The note proves four things.
 
 It also creates a larger question.
 
-Why did the Shadow place the file where the characters could find it if she truly wanted them to stop?
+Why did the Shadow place the file where the characters could find it if he truly wanted them to stop?
 
 The answer is that she no longer believes stopping will save them.
 
@@ -3332,7 +3332,7 @@ If cornered, the watcher is not the Shadow.
 
 She is an elderly records clerk named Qiao.
 
-She has carried messages for the Shadow for eleven years.
+He has carried messages for the Shadow for eleven years.
 
 She will not reveal a name.
 
