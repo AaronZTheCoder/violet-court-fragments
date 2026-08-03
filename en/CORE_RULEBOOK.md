@@ -1594,7 +1594,7 @@ At 0 HP: Endurance check TN 15 each turn. Three failures = death. Stabilize with
 
 0 to 20 Heterodox | 21 to 40 Suspect | 41 to 60 Acceptable | 61 to 80 Harmonious | 81 to 100 Exemplary
 
-### Social Stance
+### Social Stance at a Glance
 
 Hostile TN 20 | Suspicious TN 16 | Neutral TN 12 | Receptive TN 10 | Allied TN 8
 
