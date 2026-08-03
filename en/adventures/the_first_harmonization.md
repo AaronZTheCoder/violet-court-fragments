@@ -272,7 +272,7 @@ There is no signature. The handwriting is feminine, precise, with a slight tremo
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** You notice the ink on the note has a faint metallic undertone; crushed iron oxide, used in high-grade official ink stocks. The scribe's trembling hands left a thumbprint on the scroll's edge. You could analyze the ink composition (Intellect + Alchemy TN 14) to narrow down which Ministry supply room it came from.
+> **Cinnabar Heart (Alchemist):** You notice the ink on the note has a faint metallic undertone; crushed iron oxide, used in high-grade official ink stocks. The scribe's trembling hands left a thumbprint on the scroll's edge. You could analyze the ink composition (Intellect + Craft TN 14) to narrow down which Ministry supply room it came from.
 >
 > **Night Warbler (Assassin):** You note three things the others miss: the scribe exited left, which leads to the service passages, not the main corridor. The note was folded inward, meaning the writer feared it being read over someone's shoulder. And there is a faint smell of sandalwood on the paper; expensive, imported, not standard issue.
 >
@@ -320,7 +320,7 @@ When the conversation reaches a natural pause, move on to the options below or t
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The fear in this room has a chemical component. The scribe's sweat, the cold candle wax, the old paper; you could synthesize a calming agent from the herbs in your kit. One dose, enough to steady one person before a difficult conversation. Requires Intellect + Alchemy TN 12 and 10 minutes of undisturbed work.
+> **Cinnabar Heart (Alchemist):** The fear in this room has a chemical component. The scribe's sweat, the cold candle wax, the old paper; you could synthesize a calming agent from the herbs in your kit. One dose, enough to steady one person before a difficult conversation. Requires Intellect + Craft TN 12 and 10 minutes of undisturbed work.
 >
 > **Night Warbler (Assassin):** While the others talk, you are mapping exits. The window overlooks a two-storey drop into a courtyard. The corridor has a service door at the end. The ceiling has maintenance access panels. You note three escape routes, one infiltration route, and two places an observer could hide. Share this information with the group.
 >
@@ -332,7 +332,7 @@ When the conversation reaches a natural pause, move on to the options below or t
 >
 > **Bright Mirror (Paladin):** You sense the Alignment of the warning note more clearly now. The writer's intentions are conflicted. They want to help, but they also want something from the players. The note is a hook as much as a warning. What do they want in return?
 >
-> **Shadow (Rogue):** You note that the warning arrived at the perfect time to maximize paranoia. Not too early, not too late. Whoever sent it knows the rhythms of the Court. They know how fear propagates. _If the Shadow is a player character, your contact network might include someone who knows the sender. Make a Presence + Contacts TN 14 check to see if you can identify the source through your own channels._
+> **Shadow (Rogue):** You note that the warning arrived at the perfect time to maximize paranoia. Not too early, not too late. Whoever sent it knows the rhythms of the Court. They know how fear propagates. _If the Shadow is a player character, your contact network might include someone who knows the sender. Make a Presence + Connections TN 14 check to see if you can identify the source through your own channels._
 >
 > **Duke of Eternal Night (Vampire):** The daylight filtering through the window is thin, grey, weak. You are comfortable as long as you stay away from the window. But the corridor outside will be darker, easier for you to move through. If the group needs someone to follow the scribe, you are the natural choice.
 >
@@ -352,7 +352,7 @@ The players have received the warning. They have one week. Here are obvious aven
 
 4. **Do nothing and wait.** This is a valid choice. The week will pass. The Audit will come. The players will face it without preparation. This is not a trap option, but it is a difficult one.
 
-5. **Seek out a faction contact for guidance.** If a player has positive Faction Standing with any school from character creation, they can attempt to arrange a discreet meeting. Presence + Contacts TN 14. On success, they receive general advice about surviving Audits and a warning about which school is currently most active in information gathering. The contact does not reveal their source. The contact does not stay for tea.
+5. **Seek out a faction contact for guidance.** If a player has positive Faction Standing with any school from character creation, they can attempt to arrange a discreet meeting. Presence + Connections TN 14. On success, they receive general advice about surviving Audits and a warning about which school is currently most active in information gathering. The contact does not reveal their source. The contact does not stay for tea.
 
 6. **Visit the Temple of Ancestral Reflection for spiritual preparation.** A player may seek the blessings of the temple before the coming trial. Intellect + Lore TN 12 reveals that the temple offers private meditation sessions and, for a donation, a minor purification ritual that grants +5 temporary Ritual Harmony for the first phase of the Audit. The donation costs 10 silver. The temple does not ask where the money comes from. The temple has seen too many nervous officials before Audits to ask questions.
 
@@ -360,7 +360,7 @@ The players have received the warning. They have one week. Here are obvious aven
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** You could prepare a reagent that reveals hidden writing on old documents. Apply it to the warning note (Intellect + Alchemy TN 14) to see if there is a secondary message written in invisible ink. The Shadow sometimes leaves double messages for those who know to look.
+> **Cinnabar Heart (Alchemist):** You could prepare a reagent that reveals hidden writing on old documents. Apply it to the warning note (Intellect + Craft TN 14) to see if there is a secondary message written in invisible ink. The Shadow sometimes leaves double messages for those who know to look.
 >
 > **Night Warbler (Assassin):** Tracing the delivery chain is your specialty. You know how to follow a paper trail through a bureaucracy because you have done it before, for different reasons. Offer to lead the investigation. Your Swiftness + Stealth is your strongest approach.
 >
@@ -607,7 +607,7 @@ If the players refuse, the official's cordiality evaporates. "I see. The Bureau 
 >
 > **Bright Mirror (Paladin):** You detect the spiritual weight of what Wei is asking. Signing this document is not a bureaucratic act; it is a spiritual one. Each signature is a thread binding you to the fate of the accused. Your Ritual Harmony will shift with each name. You feel this in your bones. Choose carefully.
 >
-> **Shadow (Rogue):** The five names are a test within a test. Wei does not actually need all five. He needs to see who the players are willing to sacrifice. If you sign for all five, he owns you. If you refuse all five, he knows you are dangerous. The optimal move is to offer one name; someone you genuinely believe is guilty; and refuse the rest. This signals cooperation without submission. _If the Shadow is a player character, you have trained in this exact kind of negotiation. You may make a Presence + Intrigue TN 14 check to propose a counter-offer that Wei will accept without losing Faction Standing._
+> **Shadow (Rogue):** The five names are a test within a test. Wei does not actually need all five. He needs to see who the players are willing to sacrifice. If you sign for all five, he owns you. If you refuse all five, he knows you are dangerous. The optimal move is to offer one name; someone you genuinely believe is guilty; and refuse the rest. This signals cooperation without submission. _If the Shadow is a player character, you have trained in this exact kind of negotiation. You may make a Presence + Connections TN 14 check to propose a counter-offer that Wei will accept without losing Faction Standing._
 >
 > **Duke of Eternal Night (Vampire):** Wei's heartbeat is steady, unnaturally so. He is not nervous. He has done this before, many times. But there is a micro-expression when he reads the fifth name (Archivist Chen); a flicker of something. Grief? Recognition? He knows that name personally.
 >
@@ -705,7 +705,7 @@ Suggested approaches for the players:
 
 **Distraction:** One player creates a scene (a complaint about damaged goods, a faked injury, a heated argument with a guard about paperwork). While the guards are occupied, another player guides Tao Chen through. Requires Swiftness + Stealth TN 14 for each player involved in the distraction. On failure, a guard notices the movement and calls for Tao Chen to stop.
 
-**Forged Documents:** Requires Intellect + Forgery TN 16 to create convincing travel papers in a false name. The forgery must match official formatting, include correct seals, and use the right paper stock. On a near failure (TN 12 to 15), the documents are questioned and the players must improvise or bribe their way through.
+**Forged Documents:** Requires Intellect + Craft TN 16 to create convincing travel papers in a false name. The forgery must match official formatting, include correct seals, and use the right paper stock. On a near failure (TN 12 to 15), the documents are questioned and the players must improvise or bribe their way through.
 
 **Bribery:** Presence + Persuasion TN 14. Costs 20 silver to the smoking guard, who looks the other way. The guard remembers the players' faces. If the Golden Orthodoxy investigates later, the guard will identify them.
 
@@ -729,7 +729,7 @@ If the players refuse or report the Verdant Path to the authorities, they gain +
 >
 > **Bright Mirror (Paladin):** Lin's desperation is genuine, but she is keeping something back. You sense she has a personal stake beyond ideology. She is not telling you everything. Your Alignment sense catches a flicker of familial love beneath her words; the fugitive is not just a source of evidence to her. He is family.
 >
-> **Shadow (Rogue):** The smoking guard at the checkpoint is the weakest link. Not because he is corruptible, but because he is bored. Bored guards miss details. If you engage him in conversation about nothing; the weather, the quality of the tobacco, the length of his shift; he will stop watching the crowd. A bored man is a blind man. _If the Shadow is a player character, you may have a contact among the Garrison who can create a diversion at the South Gate. Make a Presence + Contacts TN 14 check to call in this favor._
+> **Shadow (Rogue):** The smoking guard at the checkpoint is the weakest link. Not because he is corruptible, but because he is bored. Bored guards miss details. If you engage him in conversation about nothing; the weather, the quality of the tobacco, the length of his shift; he will stop watching the crowd. A bored man is a blind man. _If the Shadow is a player character, you may have a contact among the Garrison who can create a diversion at the South Gate. Make a Presence + Connections TN 14 check to call in this favor._
 >
 > **Duke of Eternal Night (Vampire):** The checkpoint is busiest at dusk, when travelers rush to beat the gate closure. The low light favors you. Your night vision means you can spot details the guards miss; the list of names has a fresh ink addition at the bottom, added after the original document was prepared. Someone updated it this morning. They are expecting you.
 >
@@ -771,7 +771,7 @@ She composes herself. She takes a breath that shudders at the edges. "I will mee
 >
 > **Zone Layout:**
 >
-> - Zone 1: **Warehouse Entrance** (the door behind the players; locked from outside, requiring Swiftness + Lockpicking TN 16 to reopen or a Strength TN 16 check to force).
+> - Zone 1: **Warehouse Entrance** (the door behind the players; locked from outside, requiring Swiftness + Larceny TN 16 to reopen or a Strength TN 16 check to force).
 > - Zone 2: **The Street** (open cobblestone, 20 paces wide, with abandoned crates providing partial cover on the east side).
 > - Zone 3: **Alley Mouths** (two narrow alleys on the north and south sides of the street, each one pace wide).
 >
@@ -783,7 +783,7 @@ She composes herself. She takes a breath that shudders at the edges. "I will mee
 >
 > **Victory Outcomes:**
 >
-> - **Defeat the attackers:** The players can search the bodies. One carries a messenger pouch with a note in code. Deciphering it (Intellect + Cryptography TN 16) reveals orders to "secure the warehouse and silence any investigators." The orders bear no signature, but the paper is the same high-grade stock used in Crimson Lineage correspondence.
+> - **Defeat the attackers:** The players can search the bodies. One carries a messenger pouch with a note in code. Deciphering it (Intellect + Investigation TN 16) reveals orders to "secure the warehouse and silence any investigators." The orders bear no signature, but the paper is the same high-grade stock used in Crimson Lineage correspondence.
 > - **Capture a blade alive:** Presence + Intimidation TN 16 forces a confession: "We were paid by a middleman. Grey robes. Official seal. Did not show his face." The blade does not know who hired him, only the meeting point (an abandoned teahouse in the Eastern Market).
 > - **Flee:** If the players retreat into the warehouse, they can barricade the door and escape through a window in the Locked Room zone (Swiftness + Stealth TN 14 to reach the street without being seen).
 >
@@ -1036,7 +1036,7 @@ You pass through the market and leave it behind. The smells fade. The sounds dim
 >
 > **Bright Mirror (Paladin):** The moment of the bells, when the entire market paused as one, was a glimpse of something the Court spends its existence trying to manufacture: true Harmony, voluntarily given. Not coerced. Not enforced. Nine heartbeats of shared attention. The city knows how to be harmonious without the Commission. It remembers. The question is whether the Court has forgotten on purpose.
 >
-> **Shadow (Rogue):** The market is full of faces that do not belong. The woman buying bread is too well dressed for this district. The man leaning against the wall near the fish stall keeps checking his sleeve, where a knife is hidden. The Commission has watchers in the market. They are watching everyone, not just the players. The net is wide. _If the Shadow is a player character, you recognize one of the watchers. They are a former associate, someone you worked with before the Court. They are not here for you. They are here for someone else. But they have seen you. Make a Presence + Intrigue TN 12 check to signal them: a gesture, a nod, a shared secret that says "we did not see each other."_
+> **Shadow (Rogue):** The market is full of faces that do not belong. The woman buying bread is too well dressed for this district. The man leaning against the wall near the fish stall keeps checking his sleeve, where a knife is hidden. The Commission has watchers in the market. They are watching everyone, not just the players. The net is wide. _If the Shadow is a player character, you recognize one of the watchers. They are a former associate, someone you worked with before the Court. They are not here for you. They are here for someone else. But they have seen you. Make a Presence + Connections TN 12 check to signal them: a gesture, a nod, a shared secret that says "we did not see each other."_
 >
 > **Duke of Eternal Night (Vampire):** The dawn light is thin and grey, filtered through haze and smoke. You can tolerate it, but it drains you, saps your strength like a slow leak. The other players do not notice how much effort it costs you to walk through this market as if you belonged in the daylight. The baker's rolls smell good, but you cannot eat them. The tea at the stall smells better, but you cannot drink it. You are surrounded by life you cannot touch. This is the cost of what you are.
 >
@@ -1182,7 +1182,7 @@ The shadow is not Ash's. It is something that attached itself to her during her 
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The fluid that leaks from Ash's eyes is not blood; it is a mixture of tears and a dark corrosive agent produced by the Dusk corruption. You could analyze a sample (Intellect + Alchemy TN 16) to determine the stage of her corruption. The shadow's attachment is advanced. She has weeks, not months.
+> **Cinnabar Heart (Alchemist):** The fluid that leaks from Ash's eyes is not blood; it is a mixture of tears and a dark corrosive agent produced by the Dusk corruption. You could analyze a sample (Intellect + Craft TN 16) to determine the stage of her corruption. The shadow's attachment is advanced. She has weeks, not months.
 >
 > **Night Warbler (Assassin):** Ash's shadow moves independently, which means there is something inside her that can be killed. If the shadow is a passenger, it can be separated from the host. You know methods. They are not gentle. They are not approved by any school. But they exist.
 >
@@ -1249,7 +1249,7 @@ She flees before anyone can stop her. She does not look back.
 >
 > **Bright Mirror (Paladin):** Scribe Hui is telling the truth. Every word. Her fear is genuine, her information is accurate, and she is in real danger. The Crimson Lineage seal on the request forms is a smoking gun; but the gun is aimed at her, not at the players. Her courage in coming forward deserves recognition. A small gesture of thanks, sincere and without strings, means more to her than any political favor.
 >
-> **Shadow (Rogue):** The Crimson Lineage requesting all records on your department means they are building a file on everyone, not just the players. They are casting a wide net. This is either paranoia or preparation for a large-scale operation. You know which is more likely. _If the Shadow is a player character, you have a counter-operation: a contact in the records office who can intercept future requests and alert you. Make a Presence + Contacts TN 14 check to activate this asset._
+> **Shadow (Rogue):** The Crimson Lineage requesting all records on your department means they are building a file on everyone, not just the players. They are casting a wide net. This is either paranoia or preparation for a large-scale operation. You know which is more likely. _If the Shadow is a player character, you have a counter-operation: a contact in the records office who can intercept future requests and alert you. Make a Presence + Connections TN 14 check to activate this asset._
 >
 > **Duke of Eternal Night (Vampire):** The watcher at the end of the corridor is not an ordinary agent. Their heartbeat is too slow, their breathing too measured. They have been trained in surveillance; real training, not the Ministry's standard issue. The Crimson Lineage has its own intelligence service, independent of the Commission.
 >
@@ -1381,7 +1381,7 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The Shadow's jade pendant is genuine Commission issue. But there is a hairline fracture near the suspension hole; a flaw that could cause it to break at a critical moment. You could reinforce it with a clear resin (Intellect + Alchemy TN 12) to ensure it holds. The repair is invisible unless inspected closely.
+> **Cinnabar Heart (Alchemist):** The Shadow's jade pendant is genuine Commission issue. But there is a hairline fracture near the suspension hole; a flaw that could cause it to break at a critical moment. You could reinforce it with a clear resin (Intellect + Craft TN 12) to ensure it holds. The repair is invisible unless inspected closely.
 >
 > **Night Warbler (Assassin):** The pendant is a gift, but also a test. The Shadow wants to see what the players do with it. Use it recklessly, and it burns a resource. Use it wisely, and it saves a life. You have seen this kind of test before. The pendant is not the real gift; the real gift is the knowledge that the Shadow is watching and willing to help.
 >
@@ -1441,7 +1441,7 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 > - **Iron Bone (Werewolf):** Can Wolf Rise to fight the Dusk Hounds as a wolf. The hounds recognize the wolf as an equal predator. Make a Resolve TN 14 check to maintain control. On success, one hound hesitates for a round, giving the party a free action.
 > - **Night Warbler (Assassin):** Can use Opening Kill on the lead agent as they enter the room. A successful strike reduces the encounter by one enemy before combat formally begins.
 > - **Iron Wall (Knight):** Can use Immovable to hold the door, buying the party time to prepare. While holding, the Knight can take no other actions but cannot be moved from the threshold.
-> - **Shadow (Rogue):** Can Shadow Step through the corridor (2 zones) to flank the assassins from behind, or escape the quarters and circle around to trap them. _If the Shadow is a player character, you may have anticipated this attack. Make a Presence + Intrigue TN 14 check to have set a minor trap before sleeping; a tripwire, a noise-maker, or a false door; that gives the party a surprise round._
+> - **Shadow (Rogue):** Can Shadow Step through the corridor (2 zones) to flank the assassins from behind, or escape the quarters and circle around to trap them. _If the Shadow is a player character, you may have anticipated this attack. Make a Presence + Connections TN 14 check to have set a minor trap before sleeping; a tripwire, a noise-maker, or a false door; that gives the party a surprise round._
 > - **Guest Among Forests (Elf):** The dead tree in the courtyard has roots that extend into the Ministry foundations. Even dead, it can serve as a limited Wood Walking anchor for a short-range escape to the ground floor.
 > - **Celestial Book (Wizard):** Can cast a blinding flash in the corridor (Intellect + Qi Theory TN 14) to disorient the attackers as they enter, giving the party a full round of free actions.
 >
@@ -1533,7 +1533,7 @@ If the players helped the Verdant Path smuggle the official out, the embezzlemen
 >
 > **Bright Mirror (Paladin):** The embezzlement evidence is a weapon. How you use it defines you. If you use it to save yourself at the expense of another, you become what the Court makes of everyone. If you use it to expose the truth regardless of personal cost, you become something the Court cannot touch. The choice is yours, but the Alignment cost is real.
 >
-> **Shadow (Rogue):** Hiding evidence is an art. You know the best places in the Ministry: behind the loose stone in the third-floor alcove, inside the hollow leg of the reading room table, beneath the floorboard in the unused storage room. The Commission will search standard locations. They will not find what you have hidden. _If the Shadow is a player character, you have a personal cache in the Ministry that no one else knows about. Roll Presence + Intrigue TN 12 to see if you have stashed anything useful there in advance._
+> **Shadow (Rogue):** Hiding evidence is an art. You know the best places in the Ministry: behind the loose stone in the third-floor alcove, inside the hollow leg of the reading room table, beneath the floorboard in the unused storage room. The Commission will search standard locations. They will not find what you have hidden. _If the Shadow is a player character, you have a personal cache in the Ministry that no one else knows about. Roll Presence + Connections TN 12 to see if you have stashed anything useful there in advance._
 >
 > **Duke of Eternal Night (Vampire):** The final night before the Audit, you do not sleep. You stand at the window, watching the stars wheel overhead. The constellations are different here than in your homeland. You have been in Xiaoyuan long enough that the sky is starting to feel familiar. That is dangerous. Familiarity breeds attachment, and attachment breeds vulnerability.
 >
@@ -1792,7 +1792,7 @@ She looks at the player for a long, searching moment. Her professional composure
 > - Zone 1: **The Dais** (raised platform where Justicar Meng sits. Elevated 3 feet above the chamber floor. Provides a commanding view but limited cover.)
 > - Zone 2: **The Chamber Floor** (open stone, 15 paces across. The single chair is the only furniture. Smooth, unobstructed, no cover.)
 > - Zone 3: **The Side Door** (where the grey figures entered. Leads to a corridor that connects to the Ministry's lower levels. Two paces wide, dimly lit. The door is heavy iron, unbarred from this side.)
-> - Zone 4: **The Main Door** (the entrance the player used. Presumably locked from the outside. Swiftness + Lockpicking TN 16 to open, or Strength TN 16 to force.)
+> - Zone 4: **The Main Door** (the entrance the player used. Presumably locked from the outside. Swiftness + Larceny TN 16 to open, or Strength TN 16 to force.)
 >
 > **Enemy Stats:**
 >

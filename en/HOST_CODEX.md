@@ -317,9 +317,9 @@ Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the 
 
 Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has -12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
-On the table, cross-referencing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "High Risk." This means on a d20, Mara is Cleared on 16+, Sanctioned on 8 to 15, and Disappeared on 1 to 7. She has roughly a 40 percent chance of being Sanctioned and a 35 percent chance of Disappearing. Her position is precarious despite her decent Ritual Harmony, because she has not cultivated strong enough faction protection.
+On the table, cross-referencing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "Moderate Risk." This means on a d20, Mara is Cleared on 12+, Sanctioned on 5 to 11, and Disappeared on 1 to 4. She has a 35 percent chance of being Sanctioned and a 20 percent chance of Disappearing. She will probably survive, but better than half her survival is owed to a single faction that has decided she is worth a word in the right room.
 
-If Mara had Ritual Harmony 55 and had cultivated the Verdant Path to +30, she would have Strong Protection and face Low Risk (Cleared on 8+, Sanctioned on 3 to 7, Disappeared on 1 to 2). If she had Ritual Harmony 35 and Enemies, she would face Critical Risk (Cleared on 19+, Sanctioned on 12 to 18, Disappeared on 1 to 11). The wide range of possible outcomes shows why faction management and Ritual Harmony maintenance matter so much in the approach to an Audit.
+If Mara had Ritual Harmony 55 and had cultivated the Verdant Path to +30, she would have Strong Protection and face Low Risk (Cleared on 8+, Sanctioned on 3 to 7, Disappeared on 1 to 2). If she had Ritual Harmony 35 and Enemies, she would face Terminal Risk (Cleared on 20 only, Sanctioned on 15 to 19, Disappeared on 1 to 14). The wide range of possible outcomes shows why faction management and Ritual Harmony maintenance matter so much in the approach to an Audit.
 
 ### Adjusting Risk for Creative Player Actions
 
@@ -329,7 +329,7 @@ The standard Risk calculation assumes typical Audit participation. Players who t
 
 - **Harming the Commission's reputation** through public exposure of investigator misconduct: Increase Risk by two levels if the player is identified. The Commission protects its own. A player who makes the Commission look foolish or corrupt will not be forgiven quickly.
 
-- **Using unconventional skills to aid the investigation** (Qi Theory to authenticate documents, Lore to identify ritual evidence, Medicine to examine a body): Reduce Risk by one level if the contribution is significant and noted by a sympathetic investigator. The Commission does not value your skills directly, but they value results.
+- **Using unconventional skills to aid the investigation** (Qi Theory to authenticate documents, Lore to identify ritual evidence, Craft to identify the tool that made a wound): Reduce Risk by one level if the contribution is significant and noted by a sympathetic investigator. The Commission does not value your skills directly, but they value results.
 
 - **Invoking a high-level patron** (a Grand Council member, a Twelve Figures ally): Reduce Risk by one level if the patron's intervention is credible and public. The patron will likely demand repayment later.
 

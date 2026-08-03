@@ -596,7 +596,7 @@ Allow the following approaches.
 
 > [!CHECK]
 >
-> Intellect plus Alchemy, target 14.
+> Intellect plus Craft, target 14.
 >
 > Success identifies crushed iron oxide found in high quality official ink.
 >
@@ -632,7 +632,7 @@ Allow the following approaches.
 
 > [!CHECK]
 >
-> Presence plus Intrigue, target 14.
+> Presence plus Connections, target 14.
 >
 > Success recognizes a six link delivery chain and a professional dead drop method.
 >
@@ -1160,7 +1160,7 @@ The mechanical terms are clear.
 
 1. Signing all five names raises Golden Orthodoxy Faction Standing by 10 and increases Ritual Harmony by 5.
 
-2. Signing fewer names requires Presence plus Intrigue, target 14, to prevent immediate loss of Golden Orthodoxy Faction Standing.
+2. Signing fewer names requires Presence plus Connections, target 14, to prevent immediate loss of Golden Orthodoxy Faction Standing.
 
 3. Refusing privately lowers Golden Orthodoxy Faction Standing by 10.
 
@@ -1168,7 +1168,7 @@ The mechanical terms are clear.
 
 5. Exposing the document before the Harmonization Audit may protect the named officials, but it immediately raises Risk by two levels unless a powerful patron claims responsibility.
 
-6. Altering the language requires Intellect plus Forgery, target 16.
+6. Altering the language requires Intellect plus Craft, target 16.
 
 7. Counterbinding the signature against its ritual obligation requires Intellect plus Qi Theory, target 16.
 
@@ -2030,7 +2030,7 @@ On failure, a player can intervene with Presence plus Persuasion, target 14, or 
 
 > [!CHECK]
 >
-> Intellect plus Forgery, target 16.
+> Intellect plus Craft, target 16.
 >
 > Success passes immediate inspection.
 >
@@ -2472,7 +2472,7 @@ Five manifests from different provinces carry the same transporter signature.
 
 > [!CHECK]
 >
-> Intellect plus Investigation, Forgery, or an appropriate craft, target 14.
+> Intellect plus Investigation or Craft, target 14.
 >
 > Success proves the signatures were made by one hand in one sitting.
 >
@@ -2822,7 +2822,7 @@ The reserve door is locked from outside.
 
 Forcing it requires Strength, target 16.
 
-Opening the lock requires Swiftness plus Lockpicking, target 16.
+Opening the lock requires Swiftness plus Larceny, target 16.
 
 ### If the Characters Talk
 
@@ -2898,7 +2898,7 @@ Encourage ingenuity while preserving consequence.
 
 ### Copy the Evidence
 
-Creating two convincing copies requires Intellect plus Forgery, target 15.
+Creating two convincing copies requires Intellect plus Craft, target 15.
 
 On success, only close examination reveals the original.
 
@@ -3542,7 +3542,7 @@ If a character studies the red fluid or Dusk resonance:
 
 > [!CHECK]
 >
-> Intellect plus Alchemy or Qi Theory, target 18.
+> Intellect plus Craft or Qi Theory, target 18.
 >
 > Success establishes that the residue around Ash matches the corrupted frequency in the reserve's locked room.
 >
@@ -4176,7 +4176,7 @@ The petal carries a tracking resonance tied to the Feng estate.
 
 > [!CHECK]
 >
-> Intellect plus Alchemy, Survival, or Qi Theory, target 14.
+> Intellect plus Craft, Survival, or Qi Theory, target 14.
 >
 > Success identifies preservation resin from western desert blooms.
 >
@@ -4224,7 +4224,7 @@ Success reduces one player's Risk by one level or opens one restricted door.
 
 Failure raises Risk by two levels.
 
-If repaired by Intellect plus Alchemy, target 12, the cracked suspension ring will not break.
+If repaired by Intellect plus Craft, target 12, the cracked suspension ring will not break.
 
 If used during an escape, it provides one round of hesitation from Commission enforcers.
 
@@ -6124,7 +6124,7 @@ Unbarred from inside.
 
 Locked from outside.
 
-Swiftness plus Lockpicking, target 16, opens it.
+Swiftness plus Larceny, target 16, opens it.
 
 Strength, target 16, forces it.
 
