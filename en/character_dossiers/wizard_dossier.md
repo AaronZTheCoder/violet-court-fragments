@@ -8,6 +8,8 @@
 
 ### Court Role: Senior Ritual Theorist; Keeper of the Imperial Archives
 
+### Default Gender: Female
+
 ---
 
 ## Description
@@ -24,7 +26,7 @@ You forget nothing. You say very little. When you do speak, your words reshape C
 
 The purpose was indexing.
 
-That is the thing nobody expects and you have stopped correcting them about. You were not made to guard a secret or await a prophecy. The Bureau of Celestial Inquiry needed a cataloguer who would not die mid project, because the imperial archive had outgrown the ability of successive mortal archivists to hold a consistent system in mind, and every generation of them had reorganized according to their own scheme, and by the founding era the archive was eleven incompatible schemes stacked on each other.
+That is the thing nobody expects and you have stopped correcting them about. You were not made to guard a secret or await a prophecy. Long before the current empire's founding, the Bureau of Celestial Inquiry needed a cataloger who would not die before finishing the work, because the archive that later became imperial had outgrown the ability of successive mortal archivists to hold a consistent system in mind. Every generation had reorganized it according to a new scheme, and by the current empire's founding era the archive was eleven incompatible schemes stacked on each other.
 
 You were the solution to a filing problem. You have been extraordinarily good at it for a thousand years.
 
@@ -46,23 +48,23 @@ It is also indistinguishable from cowardice, and it is completely indistinguisha
 
 **Year 412.** The Scorch Field assessment crossed your desk.
 
-Not the finding. The prospecting report, eleven years earlier, in Year 403, classified as a mineral anomaly and shelved. You read it, as you read everything. You recognized the description, because you had read something very like it in a pre imperial fragment eight hundred years before.
+Not the finding. The prospecting report, nine years earlier, in Year 403, classified as a mineral anomaly and shelved. You read it, as you read everything. You recognized the description, because eight hundred years earlier you had read something very like it in a fragment that predates the empire.
 
-You did not flag it. Flagging it would have required you to explain how you knew, which would have required disclosing the fragment, which would have opened a line of inquiry into pre imperial records that you have spent centuries keeping closed for reasons you consider excellent.
+You did not flag it. Flagging it would have required you to explain how you knew, which would have required disclosing the fragment, which would have opened a line of inquiry into records that predate the empire and that you have spent centuries keeping closed for reasons you consider excellent.
 
 Four hundred thousand people.
 
-You have never told anyone. Bone Script, who is from a valley two ranges over and lost four thousand names, comes to the archive regularly. You spoke to him once in a corridor and pronounced his prefecture correctly and walked away, and you have avoided him since, and you are aware that this is avoidance and not strategy.
+You have never told anyone. Bone Script, who is from a valley two ranges over and carries four thousand and one names, comes to the archive regularly. You spoke to him once in a corridor and pronounced his prefecture correctly and walked away, and you have avoided him since, and you are aware that this is avoidance and not strategy.
 
 **What being very old actually costs.** You do not forget. This is not a gift.
 
 You have complete recall of every document you have read, which is upward of two million, and of every conversation, and of the faces of approximately eleven thousand people who are dead. They do not fade. A mortal grief becomes a shape and then a smoothness. Yours stay at their original resolution forever.
 
-You have developed a practice of deliberate non retrieval: there are regions of your own memory you have decided not to enter, and you maintain that decision the way a person maintains a diet, and the maintenance itself takes effort every day of your life.
+You have developed a deliberate practice of refusing to retrieve certain memories. There are regions of your own mind you have decided not to enter, and you maintain that decision the way a person maintains a strict diet. The effort continues every day of your life.
 
 **The three questions.** You will answer exactly three questions truthfully and completely, for anyone who asks the right ones.
 
-This is not a game and it is not wisdom. It is a constraint that was built into you, and you did not choose it, and you have never been able to determine whether it is a limitation on your function or a protection installed by someone who was afraid of what a thousand year old archive would do if it could simply speak.
+This is not a game and it is not wisdom. It is a constraint that was built into you, and you did not choose it, and you have never been able to determine whether it is a limitation on your function or a protection installed by someone who was afraid of what an archive a thousand years old would do if it could simply speak.
 
 You have wondered, for six centuries, whether Scholar of the Eastern Peak wrote it.
 
@@ -77,7 +79,7 @@ You have not told anyone this either. You are aware that telling someone would b
 ## Sample Dialogue
 
 When an emissary asks for your endorsement of their school's position:
-"I have read your proposal. I have also read the three previous versions of this same proposal submitted by your predecessors, the counter proposals submitted by your rivals, and the secret correspondence in which your school's leadership admits that this proposal is primarily a political maneuver. I find the entire exercise tedious. You may tell your superiors that I remain neutral. They will not believe you. That is their problem, not mine."
+"I have read your proposal. I have also read the three previous versions of this same proposal submitted by your predecessors, the rival proposals, and the secret correspondence in which your school's leadership admits that this proposal is primarily a political maneuver. I find the entire exercise tedious. You may tell your superiors that I remain neutral. They will not believe you. That is their problem, not mine."
 
 When a younger scholar asks how to become as learned as you:
 "You cannot. I have spent a thousand years accumulating knowledge that you will not live long enough to sample. But you can become learned in your own way. Read everything. Question everything. Assume that every text contains a lie and that the lie is more interesting than the truth it conceals. The Archives will teach you, if you let them. They will also break you, if you let them. The two outcomes are not as different as you might think."
@@ -86,7 +88,7 @@ When the party is about to make a decision based on incomplete information:
 "You are acting on approximately one third of the relevant information. The remaining two thirds is available in the Archives, filed under categories you have not thought to check. I could tell you what you are missing. I will not. You will learn more from your mistakes than from my corrections. But I will say this: the document you need is written in a language that has been dead for six hundred years. If you can find someone to translate it, you will discover that the person you are pursuing is not who you think they are."
 
 When someone asks if you remember them:
-"I remember everyone I have ever met. I remember your name. I remember the first words you spoke to me, which were "Honored Archivist, I am honored to meet you." I remember that you were lying. You were not honored. You were afraid. I remember the precise rate of your heartbeat as you spoke. I remember that you are left handed, that you favor green tea over black, that you have a scar on your left palm from a childhood accident involving a broken jar. You asked if I remembered. I remember everything. It is exhausting."
+"I remember everyone I have ever met. I remember your name. I remember the first words you spoke to me, which were "Honored Archivist, I am honored to meet you." I remember that you were lying. You were not honored. You were afraid. I remember the precise rate of your heartbeat as you spoke. I remember that you write with your left hand, that you favor green tea over black, that you have a scar on your left palm from a childhood accident involving a broken jar. You asked if I remembered. I remember everything. It is exhausting."
 
 When a companion thanks you for your help:
 "Do not thank me. Thank the accumulated knowledge of ten centuries and the countless scholars who contributed to it. I am merely the vessel. The knowledge was here before me and it will be here after I am gone. If you wish to express gratitude, read a book. Add your own knowledge to the collection. That is the only thanks I require."
@@ -106,9 +108,9 @@ When alone, speaking to the empty Archives:
 
 **Duke of Eternal Night (Crimson Lineage Patriarch):** You and the Duke share a bond that neither of you acknowledges in public. You are two of the oldest beings in the Court, and you have learned to tolerate each other's presence over the centuries. The Duke visits the Archives once a decade, always alone, always without announcing his arrival. He reads in your private reading room. He does not borrow books. He does not ask questions. He simply reads, in silence, for hours. You serve him tea, a specific blend that you order from the eastern provinces for these visits. You do not discuss why he comes. You do not discuss why you serve the tea. The ritual is its own meaning.
 
-**Iron Bone (Common Flame Organizer):** You are fascinated by Iron Bone. The wolf spirit that inhabits them is older than you, older than the Archives, older than the empire itself. You have researched its origins, tracing its appearance through folklore and historical records. The wolf has been surfacing for at least two thousand years, always in times of social upheaval, always in a host who was on the verge of death. You have considered telling Iron Bone what you have learned. You have refrained because you are not sure the knowledge would help. The wolf is not a problem to be solved. It is a force to be understood. You are still trying to understand it.
+**Iron Bone (Common Flame Organizer):** You are fascinated by Iron Bone. The wolf spirit that inhabits him is older than you, older than the Archives, older than the empire itself. You have researched its origins, tracing its appearance through folklore and historical records. The wolf has been surfacing for at least two thousand years, always in times of social upheaval, always in a host who was on the verge of death. You have considered telling Iron Bone what you have learned. You have refrained because you are not sure the knowledge would help. The wolf is not a problem to be solved. It is a force to be understood. You are still trying to understand it.
 
-**Shadow (Information Broker):** You have an arrangement with Shadow that dates back seven years, to the night when a stolen document appeared on your desk with a note attached: "I thought you should see this." The document was one you had been looking for. The note had no signature. You investigated, as you investigate everything, and identified the thief within a day. You did not report them. You did not confront them directly. You invited them to tea. You have been meeting irregularly ever since. Shadow brings you information from the streets, the whispers that do not reach the Archives. You provide context, historical background, the deeper patterns that Shadow's sources cannot see. It is an unequal exchange. You give more than you receive. You do not mind. You have been looking for a connection to the living world for centuries. Shadow is the closest you have found.
+**Shadow (Information Broker):** Your arrangement with Shadow began seven years ago, when he stole a document from the Imperial Archives. You recognized the missing pages immediately, identified him within a day, and sent a quiet invitation. When he entered the reading room, the stolen document was already open on the table beside a pot of tea. You asked what he had learned from it. You did not report him or threaten him. You invited him to talk. You have met irregularly ever since. Shadow brings you information from the streets, the whispers that do not reach the Archives. You provide context, historical background, and the deeper patterns that Shadow's sources cannot see. It is an unequal exchange. You give more than you receive. You do not mind. You have been looking for a connection to the living world for centuries. Shadow is the closest you have found.
 
 **Bright Mirror Archivist Lin Wei (your former apprentice):** Twenty years ago, you took an apprentice, a young woman from the Commission for Celestial Purity who had shown exceptional talent in archival research. You taught her everything you could in five years. She left when the Commission recalled her, citing operational needs. You have not seen her since. You know she is alive. You know she is working on a case involving the Crimson Dusk. You know she has accessed restricted sections of the Archives using the knowledge you gave her. You have not stopped her. You are not sure you could stop her. You are not sure you want to. She was the closest thing to a successor you have ever had. You wonder if she thinks of you. You wonder if she remembers the way you taught her to fold documents for storage. You hope she does.
 
@@ -145,7 +147,7 @@ The party has found a fragment of a document, charred and water damaged, barely 
 The party needs information from the forbidden section of the Archives, the third level, where documents too dangerous for general access are kept. The door is sealed with a lock that has defeated every attempt at entry for fifty years. You walk up to it. You place your palm on the surface. The lock recognizes you. It opens. The party follows you into a chamber filled with documents that most people do not know exist. You move through the shelves with confidence. You know exactly where the document they need is located. You have known for years. You have been waiting for them to ask. You do not say this. You simply hand them the document and watch as they read something that will change everything they thought they knew.
 
 **Read the Pattern:**
-The party has been gathering clues for weeks. A murder. A missing person. A conspiracy that seems to involve half the Court. The clues do not seem to connect. They are frustrated. They are ready to give up. You ask them to lay out everything they have found. You listen. You close your eyes. You open them. You tell them to look at the dates. The murders happen on specific days, days that correspond to astrological events. The missing person was last seen on a day when the celestial alignments matched a pattern described in a text from the pre imperial era. The conspiracy is not a conspiracy. It is a ritual. Someone is performing a ritual using the language of conspiracy as cover. The party stares at you. They ask how you knew. You do not answer. You are already thinking about what the ritual is meant to accomplish.
+The party has been gathering clues for weeks. A murder. A missing person. A conspiracy that seems to involve half the Court. The clues do not seem to connect. They are frustrated. They are ready to give up. You ask them to lay out everything they have found. You listen. You close your eyes. You open them. You tell them to look at the dates. The murders happen on specific days, days that correspond to astrological events. The missing person was last seen on a day when the celestial alignments matched a pattern described in a text from before the empire. The conspiracy is not a conspiracy. It is a ritual. Someone is performing a ritual using the language of conspiracy as cover. The party stares at you. They ask how you knew. You do not answer. You are already thinking about what the ritual is meant to accomplish.
 
 ---
 
@@ -155,7 +157,7 @@ The party has been gathering clues for weeks. A murder. A missing person. A cons
 _Complication:_ You know the truth because you helped conceal it. The founding crime, the sealing of the Sun Emperor, the origin of the Crimson Dusk, you were there for all of it. Not as a participant but as a recorder. You were instructed to document the official version and to ensure that no other version survived. You followed your instructions. You have spent centuries ensuring that the truth remains buried. You are the Archive's greatest guardian. You are also its greatest traitor.
 
 **Suggested Truth 2 (Existing):** You have been alive for over a thousand years. You are very tired. You would like to die. But there is something you must finish first.
-_Complication:_ You cannot die. You have tried. You have walked into the Crimson Dusk. You have ingested poisons that would kill a dozen mortals. You have placed yourself in the path of assassins. Your body repairs itself. Your purpose keeps you alive. You are not sure if the purpose is external or internal. You are not sure if you are being kept alive by the empire's magic or by your own inability to let go.
+_Complication:_ You cannot die. You have tried. You have walked into the Crimson Dusk. You have ingested poisons that would kill a dozen mortals. You have placed yourself in the path of assassins. Your body repairs itself. Your purpose keeps you alive. You are not sure if the purpose is external or internal. You are not sure if the empire's Qi sustains you or if your own inability to let go does.
 
 **Suggested Truth 3 (Existing):** There is a sealed room in the deepest level of the Archives. Even you cannot enter it. It has your name carved on the door. You do not remember putting it there.
 _Complication:_ You have entered the room. You entered it four hundred years ago. It was empty. You have been back many times since. The room remains empty. But each time you enter, you lose a memory. Small things at first. Then larger things. You have lost entire years. You have lost the names of people you loved. You continue to enter the room because something draws you there. You do not know what. You do not know if the memory loss is a side effect or the purpose.
@@ -171,7 +173,7 @@ _Complication:_ The Archives have not been whispering. You have been whispering.
 
 ## Daily Life
 
-You do not sleep in the way mortals sleep. You rest, but your consciousness never fully shuts down. Your mind continues to process, to catalogue, to file the day's acquisitions even as your body repairs itself. You have not dreamed in six hundred years. You are not sure if this is a blessing or a loss.
+You do not sleep in the way mortals sleep. You rest, but your consciousness never fully shuts down. Your mind continues to process, to catalog, to file the day's acquisitions even as your body repairs itself. You have not dreamed in six hundred years. You are not sure if this is a blessing or a loss.
 
 You wake, if waking is the right word, before the sun rises. The Archives are quiet at this hour, empty of visitors, filled only with the rustle of pages settling and the distant hum of the preservation wards. You make tea, the same blend you have drunk every morning for centuries. You drink it in your private study, surrounded by the texts you have read and reread. You review the day's tasks: documents to authenticate, requests to process, seals to renew.
 
@@ -179,7 +181,7 @@ The morning is for maintenance. You walk the Archives, checking the wards, the t
 
 Midday brings visitors. Emissaries from the schools, scholars seeking access, researchers pursuing specific documents. You receive them all. You listen to their requests. You grant or deny access based on criteria that you have developed over centuries. You are not unfair. You are not arbitrary. You have rules. You follow them. The visitors do not always understand the rules. They do not need to understand them. They only need to follow them.
 
-Afternoons are for your own research. You read. You cross reference. You pursue the questions that have occupied you for centuries. You are still looking for answers. You have been looking for so long that the search has become its own purpose. You do not expect to find what you are looking for. You continue looking anyway.
+Afternoons are for your own research. You read. You compare sources. You pursue the questions that have occupied you for centuries. You are still looking for answers. You have been looking for so long that the search has become its own purpose. You do not expect to find what you are looking for. You continue looking anyway.
 
 Evenings are quiet. You receive no visitors. The Archives close to the public. You walk the empty halls, checking the doors, the locks, the seals. You visit the restricted sections. You ensure that nothing has been disturbed. You spend an hour in the reading room where you meet the Duke of Eternal Night during his visits. You do not know why you go there. You go there every night.
 
@@ -247,7 +249,7 @@ From the full skill list in the Core Rulebook (Chapter Three).
 
 _You remember everything you have ever read. That is a great many things._
 
-When you encounter a piece of information (a document, a conversation, a symbol, a pattern), the Host will tell you if it connects to something in your memory. You may ask one follow up question about the connection. This ability is always active and costs no Qi. It is also exhausting. You cannot forget anything, including things you would very much like to forget.
+When you encounter a piece of information (a document, a conversation, a symbol, a pattern), the Host will tell you if it connects to something in your memory. You may ask one further question about the connection. This ability is always active and costs no Qi. It is also exhausting. You cannot forget anything, including things you would very much like to forget.
 
 ### Archive Access
 
@@ -269,7 +271,7 @@ Once per session, you may spend 10 Qi to declare that disparate pieces of inform
 - Dragon Spine Staff (1d6, Versatile 1d8, Qi Focus, +2 to Qi Theory checks, carved from the spine of the first dragon)
 - Ancient Text (contains one random secret determined by the Host; may be consulted once per session)
 - Reading Stones (magnify text, detect Qi residue on documents, translate three dead languages)
-- Archive Seal (grants unrestricted access to all non sealed areas of the Imperial Archives)
+- Archive Seal (grants unrestricted access to every unsealed area of the Imperial Archives)
 - 15 Copper Leaves (you have little need for money; the Archives provide)
 
 ---
@@ -300,7 +302,7 @@ Choose one, or create your own with the Host:
 
 ## Advancement
 
-As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
 **Level 3: Speed Reading.** You can read and comprehend a full volume in one minute. The information is retained perfectly via Perfect Memory.
 

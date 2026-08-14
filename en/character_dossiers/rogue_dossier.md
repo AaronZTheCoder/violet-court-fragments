@@ -8,6 +8,8 @@
 
 ### Court Role: Information Broker
 
+### Default Gender: Male
+
 ## Description
 
 You are a shadow in a city built of shadows. You know where the bodies are buried because you helped bury some of them. You trade in secrets the way others trade in grain. You have no school, no patron, no ideology. You have leverage. You have survival instincts so sharp they cut.
@@ -24,11 +26,11 @@ He took money to reclassify a shipment of adulterated grain as fit for distribut
 
 You have never told your mother that you know. She is alive, seventy nine, in a room you pay for, and she talks about him, and you let her.
 
-**What you actually built.** You are not a thief and you have not personally stolen anything in twenty two years. You are an information house, and you should be understood the way a merchant house is understood.
+**What you actually built.** You are no longer a common thief, and you have not stolen for payment in twenty two years. You are an information house, and you should be understood the way a merchant house is understood.
 
 You have between forty and sixty people on standing retainer, depending on the season. Nine of them know they work for you. The rest believe they work for four separate brokers, three of whom do not exist. You maintain those three fictional brokers with the care other people give to children: they have handwriting, preferences, one has a stutter that appears in transcribed messages.
 
-You hold approximately eleven hundred items of leverage, indexed, cross referenced, and physically stored in four locations, none of them where anyone would look, one of which is inside a functioning temple with the knowledge of exactly one priest.
+You hold approximately eleven hundred items of leverage, indexed, linked to related records, and physically stored in four locations, none of them where anyone would look, one of which is inside a functioning temple with the knowledge of exactly one priest.
 
 Your annual turnover exceeds that of most licensed guilds. You cannot spend it in any visible way, which is a problem you have solved through eleven separate legitimate businesses, six of which are genuinely profitable and one of which, a laundry, you have become irrationally fond of.
 
@@ -36,7 +38,7 @@ Your annual turnover exceeds that of most licensed guilds. You cannot spend it i
 
 You have made forty or fifty decisions in your career that ended someone. Not by violence. By transaction: a name to a buyer, a document to an interested party, a location. You know what happens afterward. You have never pretended not to.
 
-You maintain a rule, and the rule is real and you have kept it: nothing that reaches a child. You have declined lucrative work over this, more than once, and it has cost you a great deal, and you consider it the load bearing wall of your entire self conception.
+You maintain a rule, and the rule is real and you have kept it: nothing that reaches a child. You have declined lucrative work over this more than once, and it has cost you dearly. You consider that rule the foundation of your entire understanding of yourself.
 
 You are aware that it is one wall.
 
@@ -58,7 +60,7 @@ She knows sourcing, verification, indexing, the whole craft. What you have not t
 
 You are aware that a broker who cannot do the arithmetic will not survive in this trade, that you are therefore preparing her for a profession she will not be equipped to practice, and that you are doing this because you would like there to be one person in the world who learned everything from you and did not become you.
 
-**The network runs you now.** You built this to be safe. That was the entire original purpose: a girl from the Warrens accumulating enough leverage that nobody would ever find it worth the trouble to hurt her.
+**The network runs you now.** You built this to be safe. That was the entire original purpose: a boy from the Warrens accumulating enough leverage that nobody would ever find it worth the trouble to hurt him.
 
 It worked completely. You have been untouchable for fifteen years.
 
@@ -114,19 +116,19 @@ When alone, going through your files by candlelight:
 
 ## Personal Connections
 
-**Duke of Eternal Night (Crimson Lineage Patriarch):** You have done work for the Duke over the years, mostly discreet inquiries that needed a touch the Lineage could not officially provide. The Duke pays well and asks no questions, which is the highest compliment a patron can offer in your profession. You are not foolish enough to trust an eight hundred year old vampire. But you respect his consistency. He has never betrayed a deal, which is more than you can say for most living patrons. You suspect he knows more about you than he lets on. You suspect he knows everything about everyone. The thought keeps you up some nights.
+**Duke of Eternal Night (Crimson Lineage Patriarch):** You have done work for the Duke over the years, mostly discreet inquiries that needed a touch the Lineage could not officially provide. The Duke pays well and asks no questions, which is the highest compliment a patron can offer in your profession. You are not foolish enough to trust a vampire who has lived eight hundred years. But you respect his consistency. He has never betrayed a deal, which is more than you can say for most living patrons. You suspect he knows more about you than he lets on. You suspect he knows everything about everyone. The thought keeps you up some nights.
 
 **Celestial Book (Archivist):** Seven years ago, you stole a document from the Imperial Archives. You did not know at the time that Celestial Book remembered every document in that collection. You did not know the Archivist could identify a missing page the way a mother identifies a missing child. You were caught, not by guards but by a quiet summons to a reading room where the Archivist sat waiting with your stolen document laid out on the table. There was no confrontation. No threat. The Archivist simply asked what you had learned from it and whether you would like to discuss your findings over tea. You have been an irregular informant ever since. You are not sure if you are the Archivist's spy or the Archivist's pet. You are not sure there is a difference.
 
-**Iron Bone (Common Flame Organizer):** You admire Iron Bone in the way one predator admires another from a different territory. You have provided the Common Flame with information about guard rotations and official movements, always through cutouts, never directly. You have never met Iron Bone face to face. You have seen them speak at rallies from the back of the crowd. You have felt the wolf's presence even from a distance. It scares you. You are not easily scared. You keep providing information because something in you wants to see what the wolf will do when it finally breaks its chains.
+**Iron Bone (Common Flame Organizer):** You admire Iron Bone in the way one predator admires another from a different territory. You have provided the Common Flame with information about guard rotations and official movements, always through cutouts, never directly. You have never met Iron Bone in person. You have seen him speak at rallies from the back of the crowd. You have felt the wolf's presence even from a distance. It scares you. You are not easily scared. You keep providing information because something in you wants to see what the wolf will do when it finally breaks its chains.
 
-**Bright Mirror Commissioner (unnamed, your handler):** You have an arrangement. You provide intelligence on unregistered information brokers, independent agents who threaten the Commission's monopoly on sanctioned information. In exchange, the Commission looks the other way regarding certain aspects of your business. You are not proud of this arrangement. But it is practical. You have given them enough minor players to keep them satisfied while protecting the major contacts who actually matter. The Commissioner is efficient, humorless, and dangerous in the way all bureaucrats are dangerous. They do not hate you. They do not like you. They find you useful. That is the most dangerous relationship of all.
+**Commission Handler (unnamed):** You have an arrangement. You provide intelligence on unregistered information brokers, independent agents who threaten the Commission's monopoly on sanctioned information. In exchange, the Commission looks the other way regarding certain aspects of your business. You are not proud of this arrangement. But it is practical. You have given the Commission enough minor players to keep it satisfied while protecting the major contacts who actually matter. Your handler is efficient, humorless, and dangerous in the way all bureaucrats are dangerous. He does not hate you. He does not like you. He finds you useful. That is the most dangerous relationship of all.
 
-**Your Mother (retired, Warrens resident):** You visit her twice a year, always in disguise, always at the teahouse where she still takes afternoon tea with her friends. You sit at a different table. You watch her laugh, argue, complain about the price of fish. She looks older each time. She looks happy. She has no idea the well dressed stranger in the corner is her child. You want to tell her. You know you cannot. The people who want you dead would use her to reach you. So you sit in corners and watch and leave extra copper with the teahouse owner to cover her tab.
+**Your Mother (retired, Warrens resident):** You visit her twice a year at the teahouse where she still takes afternoon tea with her friends. You arrive in a careful disguise, then remove just enough of it at her table for her to recognize you. She is seventy nine, still sharp, and still happiest when complaining about the price of fish. You pay for her room and keep the arrangement discreet. She talks to you about your father because she does not know that you found the record of his crime. You let her keep the kinder version of him. The people who want you dead could use her to reach you, so every visit is brief, ordinary, and guarded by people she thinks belong to the teahouse.
 
-**The Person You Betrayed (Verdant Path courier, fate unknown):** You do not know her name. You never asked. That was part of the arrangement. You knew her by her route and her schedule. You knew she had a fondness for a specific brand of tea, that she hummed while she walked, that she always checked her left side first when entering a room. You sold those details to the Bright Mirror for one hundred and twenty copper leaves. You spent the money on a safe house that you abandoned within a month. You have tried to find out what happened to her. The records are sealed. The Bright Mirror does not discuss Harmonization Audit cases. You look for her face in crowds. You have not found it.
+**Grey Willow (Verdant Path organizer, held in internal exile):** Nine years ago you sold the Crimson Lineage the location where Grey Willow was sheltering people in the southern prefectures. You knew her routes, her schedule, the tea she preferred, the tune she hummed while walking, and the fact that she always checked the left side of a room first. Those details made the location useful. The Lineage took her in the eleventh month. She survived and remains in internal exile in the north, but her network collapsed and the people under her protection scattered. You know where she is. You have deliberately refused to learn what became of most of the others. You still look for their faces in crowds.
 
-**Old Zheng (the Spice Shop Fence, deceased):** He was your first contact, the man who bought that stolen route schedule when you were twelve. He ran a spice shop in the upper Warrens that was a front for information trading. He taught you the basics of the trade: how to price information, how to protect your sources, how to know when a buyer was setting a trap. He died eight years ago, killed by a rival network that wanted his territory. You attended his funeral disguised as a distant nephew. You were the only mourner who knew what he really did for a living. You still use some of his methods. You still remember his voice telling you that information is the only currency that does not lose value. He was wrong. Information loses value constantly. Old Zheng was not as smart as you thought he was. But he was kind to a twelve year old with a stolen piece of paper, and that kindness has never been repaid.
+**Old Zheng (the Spice Shop Fence, deceased):** He was your first contact, the man who bought that stolen route schedule when you were twelve. He ran a spice shop in the upper Warrens that was a front for information trading. He taught you the basics of the trade: how to price information, how to protect your sources, how to know when a buyer was setting a trap. He died eight years ago, killed by a rival network that wanted his territory. You attended his funeral disguised as a distant nephew. You were the only mourner who knew what he really did for a living. You still use some of his methods. You still remember his voice telling you that information is the only currency that does not lose value. He was wrong. Information loses value constantly. Old Zheng was not as smart as you thought he was. But he was kind to you when you were twelve and carrying a stolen piece of paper, and that kindness has never been repaid.
 
 **Your Stepfather Jaren (dockworker, deceased):** Your mother's second husband was a simple man. He worked the docks. He came home tired every night and still found the energy to ask about your day. He never treated you as anything but his own. He taught you to tie knots that you still use in your work. He taught you to read the weather by the smell of the wind. He was killed in a dock accident two years after the Crimson Lineage incident, crushed between two cargo crates when a winch failed. You know it was not an accident. The winch was tampered with. The tampering was meant for someone else, a foreman who had angered the wrong people. Jaren was simply in the wrong place. You have never told your mother. You have never investigated further. You let him be a dock accident in her memory because she deserves to believe that the world is not as cruel as it is.
 
@@ -166,12 +168,12 @@ _Complication:_ The charter is not a copy. It is the original. You stole it from
 _Complication:_ One of those operatives is a member of your own party. You discovered their identity by accident three sessions ago. You have not told them you know. You are not sure why you are keeping this secret. You are not sure what you will do when it becomes relevant.
 
 **Suggested Truth 3 (Existing):** Someone you trusted sold you out years ago. You survived. They think you are dead. You have been waiting for the right moment to remind them you are not.
-_Complication:_ The person who sold you out is now a high ranking member of the Commission for Celestial Purity. They are not the same person they were. They have a family. They have done good work. You are not sure anymore that they deserve what you have planned for them. This uncertainty infuriates you.
+_Complication:_ The person who sold you out is now a senior member of the Commission for Celestial Purity. They are not the same person they were. They have a family. They have done good work. You are not sure anymore that they deserve what you have planned for them. This uncertainty infuriates you.
 
 **Suggested Truth 4 (Existing):** You have been feeding information to someone outside the Court. You do not know who they work for. The payments arrive on time. The questions they ask are getting more specific.
 _Complication:_ You recently discovered that your mysterious client is paying you with counterfeit coin, coin that traces back to a forgery ring that you helped establish five years ago. You are being paid with your own money. Someone is mocking you. You need to find out who.
 
-**Suggested Truth 5 (New):** You have a younger sibling who believes you died in a factory accident fifteen years ago. They have built a good life. They are married. They have a child. You have watched them from a distance. You have never approached.
+**Suggested Truth 5 (New):** A childhood friend from the Warrens believes you died in a factory accident fifteen years ago. They have built a good life. They are married. They have a child. You have watched them from a distance. You have never approached.
 
 **Suggested Truth 6 (New):** The document your father hid before his death was not a financial record. It was a confession, signed by a current Grand Council member, detailing crimes that would shatter the current administration. You found it five years ago. You have not used it. You have not destroyed it. You keep it in a sealed box under a loose floorboard in a room you have not visited in three years.
 
@@ -193,11 +195,11 @@ You eat one proper meal a day, usually in the evening. You favor a stall in the 
 
 Your primary safe house is a room above a tannery in the Warrens, chosen because the smell keeps curious people away. The tannery's odor seeps into everything you own. You have stopped noticing it. The room has a bed, a table, a locked chest, and a false panel behind the fireplace that leads to a crawl space where you keep your most valuable materials. You sleep with one dagger under your pillow and one within arm's reach on the table. You have not slept a full night in twenty years. You have learned to function on fragments. Your body has adapted. Your dreams have not. They are always set in the Warrens, always in the dark, always searching for something you cannot find.
 
-The crawl space behind the fireplace contains your most valuable inventory: a set of forged identity papers good enough to pass a Bright Mirror inspection, a map of the city's underground passages that you have spent fifteen years refining, a lockbox containing three letters that would each destroy a different Grand Council member if released, and the original imperial charter you stole from the Archives. You visit this space once a week to check that everything is still there. You do not trust your safe houses. You trust nothing. But you trust this crawl space more than most things, because you built it yourself and you have never told anyone it exists. If you ever need to disappear, this is where you will start. The papers will give you a new name. The map will give you a way out. The letters and the charter will give you leverage. You have planned your disappearance for years. You are ready to leave at any moment. You stay because you have not yet found a reason good enough to go.
+The crawl space behind the fireplace contains your most valuable inventory: a set of forged identity papers good enough to pass a Bright Mirror inspection, the hidden master map of the city's underground passages that you have spent fifteen years refining, a lockbox containing three letters that would each destroy a different Grand Council member if released, and a clandestinely obtained copy of the imperial charter. You visit this space once a week to check that everything is still there. You do not trust your safe houses. You trust nothing. But you trust this crawl space more than most things, because you built it yourself and you have never told anyone it exists. If you ever need to disappear, this is where you will start. The papers will give you a new name. The map will give you a way out. The letters and the charter copy will give you leverage. You have planned your disappearance for years. You are ready to leave at any moment. You stay because you have not yet found a reason good enough to go.
 
 What you dread most is a quiet evening with nothing to do. When the deals are done and the network is stable and there is no immediate threat, the silence closes in. You find yourself in a safe house with nothing but your thoughts, and your thoughts are not good company. You have started leaving the safe houses on those evenings, walking the streets until exhaustion forces sleep. The movement helps. The stillness is where the memories live.
 
-You keep a journal, though you would never call it that. It is a record of debts, favors, and leverage points, written in a code that only you understand. But in the margins, in the spaces between the transactions, you have written other things. A line of poetry your father used to recite. The date of your mother's birthday. The name of the Verdant Path courier you betrayed. You do not write these things to preserve them. You write them because the act of writing makes them real, and you need some things to be real in a life where most things are constructed and contingent. The journal is hidden in a waterproofed compartment in the ceiling of a safe house you have not used in two years. You check on it once a month. You add nothing. You simply confirm that it is still there, that the words have not faded, that you have not imagined the entire record of your life. It is a small anchor in a life that has very few anchors. You do not know what you will do with it when you are gone. You do not know if anyone will find it. You keep it anyway. Keeping it is a kind of hope, and hope is the one commodity you have never learned to trade.
+You keep a journal, though you would never call it that. It is a record of debts, favors, and leverage points, written in a code that only you understand. But in the margins, in the spaces between the transactions, you have written other things. A line of poetry your father used to recite. The date of your mother's birthday. Grey Willow's name, followed by the names of every person from her network whose fate you have learned. You do not write these things to preserve them. You write them because the act of writing makes them real, and you need some things to be real in a life where most things are constructed and contingent. The journal is hidden in a waterproofed compartment in the ceiling of a safe house you have not used in two years. You check on it once a month. You add nothing. You simply confirm that it is still there, that the words have not faded, that you have not imagined the entire record of your life. It is a small anchor in a life that has very few anchors. You do not know what you will do with it when you are gone. You do not know if anyone will find it. You keep it anyway. Keeping it is a kind of hope, and hope is the one commodity you have never learned to trade.
 
 ## Expanded Advancement
 
@@ -267,10 +269,10 @@ When an enemy targets you specifically, you may roll Presence + Deception agains
 
 ## Starting Equipment
 
-- Dark Leathers (+1 Defense, silent, concealable under clothing)
+- Concealed Armor (+1 Defense, silent, concealable under clothing)
 - Two Daggers (1d6 each, Concealable, Throwable)
 - Lockpicks (well worn, well loved)
-- Forged Documents (high quality, identity of your choice, good for about two weeks before the forgery becomes detectable)
+- Forged Documents (expertly made, using an identity of your choice, and reliable for about two weeks before detection)
 - Disguise Kit (basic cosmetics, reversible cloak, accent training)
 - Blackmail Material on one minor official (work with the Host to determine who and what)
 - 25 Copper Leaves (stashed in multiple pockets; you never carry all your money in one place)
@@ -297,12 +299,12 @@ Choose one, or create your own with the Host:
 
 ## Advancement
 
-As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
 **Level 3: Quick Exit.** Once per combat, you may flee automatically without a roll. You are simply gone. The Host determines where you reappear, but it will be nearby.
 
 **Level 5: Leverage.** I Know a Person now succeeds on TN 12, and on a failure the contact's price is merely expensive rather than compromising.
 
-**Level 7: Ghost.** While in shadows or dim light, you are invisible to non magical detection. Guards walk past you. Dogs do not bark.
+**Level 7: Ghost.** While in shadows or dim light, ordinary senses and mundane detection cannot notice you. Guards walk past you. Dogs do not bark.
 
 **Level 9: The Final Secret.** Once per campaign, you may ask the Host one question about the campaign's central mystery. The Host must answer truthfully. You may not tell anyone how you know.

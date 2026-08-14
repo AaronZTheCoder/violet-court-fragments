@@ -12,7 +12,7 @@
 
 ### The Pitch
 
-The Violet Court Fragments is a tabletop roleplaying game set in the dying days of the Celestial Empire, a vast and ancient realm ruled for a thousand years by the Celestial Court in the name of the Sun Emperor, who has not spoken in three centuries. The players take on the roles of figures drawn into the Court's web: a brush scribe who discovers a forbidden truth, a soldier who swore an oath to an absent Emperor, a reformer whose ideas are too popular to ignore and too dangerous to tolerate.
+The Violet Court Fragments is a tabletop roleplaying game set in the dying days of the Celestial Empire, a vast and ancient realm ruled for more than four centuries by the Celestial Court in the name of the Sun Emperor, who has not spoken publicly for about one hundred and sixty four years. The players take on the roles of figures drawn into the Court's web: a brush scribe who discovers a forbidden truth, a soldier who swore an oath to an absent Emperor, a reformer whose ideas are too popular to ignore and too dangerous to tolerate.
 
 Beyond the borders, the Crimson Dusk creeps inward, a corruption of reality itself that turns fields to salt and people into hollow things that weep red. Within the capital, six schools of thought compete for control of the Court, each believing they alone know how the empire should be governed. And somewhere in the depths of the Imperial Archives, a truth waits that could save the empire or destroy it.
 
@@ -21,7 +21,7 @@ This is a game about survival in a system more ancient than anyone understands. 
 ### What You Need to Play
 
 - This rulebook
-- At least one twenty sided die (d20), plus a few six sided dice (d6) and eight sided dice (d8)
+- At least one d20, plus a few d6 and d8 dice
 - Pencil and paper for each player
 - Printed character dossiers (one per player, found in the Character Dossiers supplement)
 - A printed copy of the Host's Codex for the person running the game
@@ -40,7 +40,7 @@ When the outcome of an action is uncertain, the dice resolve it. When the outcom
 
 This game rests on three pillars, each equally important:
 
-**Intrigue.** The Court is a labyrinth of competing schools, personal vendettas, and hidden truths. Social encounters are as consequential as combat. A well placed word can end a career. A poorly chosen alliance can end a life.
+**Intrigue.** The Court is a labyrinth of competing schools, personal vendettas, and hidden truths. Social encounters are as consequential as combat. The right word can end a career. A poorly chosen alliance can end a life.
 
 **Discovery.** The empire is full of secrets. The truth about the Sun Emperor's silence. The origin of the Crimson Dusk. The founding crime buried in the Imperial Archives. Finding these truths and deciding what to do with them is a central thread.
 
@@ -52,7 +52,7 @@ Welcome to tabletop roleplaying. If you have never played a game like this befor
 
 A tabletop roleplaying game is a conversation. One person, the Host, describes the world. The players describe what their characters try to do. Sometimes the dice decide whether those attempts succeed or fail. Everything that happens emerges from this conversation. There is no script. There is no screen. There is no winner. The goal is to tell an unforgettable story together.
 
-**What a session looks like.** A typical session runs three to four hours. You gather at a table with your character sheet, a pencil, and your dice. The Host begins by describing where the story picks up. Maybe the characters are standing in a rain soaked courtyard outside the Hall of Harmonious Edicts. Maybe they are huddled in a safe house while Dusk Touched things scratch at the shutters. Maybe they are walking through a market that will be attacked in moments, though they do not know it yet. The Host sets the scene, and the players respond.
+**What a session looks like.** A typical session runs three to four hours. You gather at a table with your character sheet, a pencil, and your dice. The Host begins by describing where the story picks up. Maybe the characters are standing in a courtyard slick with rain outside the Hall of Harmonious Edicts. Maybe they are huddled in a safe house while Dusk Touched things scratch at the shutters. Maybe they are walking through a market that will be attacked in moments, though they do not know it yet. The Host sets the scene, and the players respond.
 
 **How to speak in character.** When you want to say something your character says, speak in first person and use your character's voice. The Host answers as the person you are speaking to. If you want to do something your character does, describe it: "I want to search the desk for hidden drawers," not "Do I find anything?" The Host then tells you what happens.
 
@@ -76,11 +76,11 @@ Host: "The teahouse is quiet. Four other tables are occupied. A merchant and his
 
 Player 2 (Night Warbler): "I step through the door, shaking water from my cloak. I scan the room quickly. I am looking for exits, for threats, for faces that watch too closely."
 
-Player 3 (Celestial Book): "I am right behind them. I close my umbrella and tap it twice on the floor to shake off the water. I nod to the proprietor."
+Player 3 (Celestial Book): "I am right behind him. I close my umbrella and tap it twice on the floor to shake off the water. I nod to the proprietor."
 
-Host: "The proprietor, a thick shouldered woman with graying hair tied in a severe knot, nods back. She gestures to an empty table near the hearth. The warmth of the fire reaches you even from across the room. The Duke of Eternal Night at the window table has not turned to look at you."
+Host: "The proprietor, a sturdy woman with broad shoulders and greying hair tied in a severe knot, nods back. She gestures to an empty table near the hearth. The warmth of the fire reaches you even from across the room. The Duke of Eternal Night at the window table has not turned to look at you."
 
-Player 1: "I have. I turn now. I meet the eyes of the Night Warbler and incline my head slightly. I recognize them. We have worked together before."
+Player 1: "I have. I turn now. I meet the eyes of the Night Warbler and incline my head slightly. I recognize him. We have worked together before."
 
 Host: "Good. The three of you are here because a message found each of you in the night, folded into a plain envelope with no seal. The message said only: 'The Jade Iris blooms at midnight. Ask for the woman who weeps.' Each of you followed the thread here. What do you do next?"
 
@@ -92,7 +92,7 @@ This is the rhythm of the game. The Host sets the scene. The players respond. Th
 
 ### The Resolution Roll
 
-When a player declares an action whose outcome is uncertain, the Host may call for a **Resolution Roll**. The player rolls a twenty sided die (d20), adds modifiers from the relevant Facet and any applicable Skills, and compares the total against a **Target Number** (TN) set by the Host.
+When a player declares an action whose outcome is uncertain, the Host may call for a **Resolution Roll**. The player rolls a d20, adds modifiers from the relevant Facet and any applicable Skills, and compares the total against a **Target Number** (TN) set by the Host.
 
 **d20 + Facet Modifier + Proficiency Bonus versus Target Number**
 
@@ -162,7 +162,7 @@ Host: "Your brush moves smoothly. The clerk takes the forms, stamps them without
 
 A Night Warbler named Kestrel tries to extract information from a neutral clerk in the Hall of Records.
 
-Host: "The clerk is a nervous young woman with ink stained fingers. She is sorting scrolls and clearly eager to be done with her work. She barely glances up when you approach. 'Can I help you?' she asks, in a tone that suggests she hopes the answer is no."
+Host: "The clerk is a nervous young woman with fingers stained by ink. She is sorting scrolls and clearly eager to be done with her work. She barely glances up when you approach. 'Can I help you?' she asks, in a tone that suggests she hopes the answer is no."
 
 Kestrel's player: "I lean against the counter casually and compliment the calligraphy on the scroll she is holding. I ask who the scribe was. I am trying to start a conversation that leads to information about the Director's visitors last night."
 
@@ -178,7 +178,7 @@ Host: "The merchant's smile does not waver. 'I have never met the Director in my
 
 Steelhand's player: "I do not believe him. I study his face, his breathing, the micro expressions he cannot control. I use my Insight."
 
-The Host sets the TN at 16 for detecting a lie told by a trained operative. The player rolls a d20, getting a 14. Steelhand has Resolve 16 (modifier +3) and proficiency in Insight (+2). Total: 14 + 3 + 2 = 19. Beats TN 16 by 3.
+The Host sets the TN at 16 for detecting a lie told by a trained operative. The player rolls a d20, getting a 14. Steelhand has Resolve 12 (modifier +1) and proficiency in Insight (+2). Total: 14 + 1 + 2 = 17. Beats TN 16 by 1.
 
 Host: "You catch it. A tiny flicker in his left eye when he said 'never.' And his hands are too still, a controlled stillness that speaks of someone hiding nerves. He is lying. He has met the Director, and recently. What do you do with this knowledge?"
 
@@ -186,7 +186,7 @@ Host: "You catch it. A tiny flicker in his left eye when he said 'never.' And hi
 
 A Duke of Eternal Night named Veren is trapped on the second floor of a teahouse as fire consumes the structure. Dusk Touched shadows move through the flames below.
 
-Host: "The floorboards groan beneath you. Smoke pours up the stairwell, thick and black. The window overlooks a three story drop to a cobblestone courtyard. The fire is spreading from the kitchen. You have perhaps two minutes before the whole structure collapses. Outside, through the smoke, you can see shapes moving that do not move like people."
+Host: "The floorboards groan beneath you. Smoke pours up the stairwell, thick and black. The window overlooks a drop of three stories to a cobblestone courtyard. The fire is spreading from the kitchen. You have perhaps two minutes before the whole structure collapses. Outside, through the smoke, you can see shapes moving that do not move like people."
 
 Veren's player: "I tear the bedsheet into strips, knot them together, and tie one end to the heavy bronze brazier. I throw the sheet out the window and prepare to climb down."
 
@@ -198,35 +198,35 @@ Host: "Critical Failure. The brazier tips as you test your weight on the sheet. 
 
 A player character must convince the Bright Mirror to spare a reformer who has been accused of heterodoxy.
 
-Host: "The Bright Mirror sits motionless on the judgment seat. Her face reveals nothing. The accused kneels to your left, wrists bound. The courtroom is silent except for the drip of water from the ceiling. The Bright Mirror speaks: 'You have one argument. Make it count.'"
+Host: "The Bright Mirror sits motionless on the judgment seat. His face reveals nothing. The accused kneels to your left, wrists bound. The courtroom is silent except for the drip of water from the ceiling. The Bright Mirror speaks: 'You have one argument. Make it count.'"
 
 Player: "I step forward. I do not plead for mercy. I argue that executing this reformer would be strategically unwise. I cite three precedents where the Commission's harshness created martyrs. I keep my voice calm and my arguments precise."
 
 The Host sets the TN at 24 for convincing the Bright Mirror to show mercy. The player rolls a d20, getting a 17. A Duke of Eternal Night with Presence 20 (modifier +5) and proficiency in Persuasion (+2). Total: 17 + 5 + 2 = 24. Exactly meets TN 24.
 
-Host: "The Bright Mirror's expression does not change. For a long moment, the only sound is the dripping water. Then she speaks. 'You argue from strategy rather than sentiment. That is wise. The prisoner will be remanded to house arrest rather than execution. You have saved a life today. I suggest you ensure that life is worth saving.'"
+Host: "The Bright Mirror's expression does not change. For a long moment, the only sound is the dripping water. Then he speaks. 'You argue from strategy rather than sentiment. That is wise. The prisoner will be remanded to house arrest rather than execution. You have saved a life today. I suggest you ensure that life is worth saving.'"
 
 **Example 6: Impossible (TN 28): Lying to the Celestial Book**
 
 A Night Warbler tries to deceive the Keeper of the Imperial Archives, a being who has spent centuries cataloging human falsehood.
 
-Host: "The Celestial Book regards you with eyes that have seen the empire rise and fall and rise again. He knows every document you have ever filed, every request you have ever made, every person you have ever contacted through official channels. He waits."
+Host: "The Celestial Book regards you with eyes that have seen the empire rise and fall and rise again. She knows every document you have ever filed, every request you have ever made, every person you have ever contacted through official channels. She waits."
 
-Player: "I tell him I was in the archives researching the legitimate lineage of a minor noble house. I have a forged writ of authorization. I keep my story simple."
+Player: "I tell her I was in the archives researching the legitimate lineage of a minor noble house. I have a forged writ of authorization. I keep my story simple."
 
 The Host sets the TN at 28 for lying to the Celestial Book. The player rolls a d20, getting a 7. Night Warbler with Presence 14 (modifier +2) and proficiency in Deception (+2). Total: 7 + 2 + 2 = 11. Misses TN 28 by 17.
 
-Host: "The Celestial Book does not accuse you. He simply tilts his head and says, 'You were not in the archives. You were in the Western Repository, which is outside your clearance level. You accessed a file marked with the Crimson Sigil. You have been very busy tonight.' He does not raise his voice. He does not need to. What do you say now?"
+Host: "The Celestial Book does not accuse you. She simply tilts her head and says, 'You were not in the archives. You were in the Western Repository, which is outside your clearance level. You accessed a file marked with the Crimson Sigil. You have been very busy tonight.' She does not raise her voice. She does not need to. What do you say now?"
 
 **Example 7: Advantage from Clever Planning (TN 12)**
 
-A Guest Among Forests named Ash attempts to follow a target through the night market.
+A Guest Among Forests named Willow attempts to follow a target through the night market.
 
-Host: "The Night Market of Whispers is packed. Stalls crowd every available surface. Lanterns swing overhead. The smell of grilled fish and burning incense fills the air. Your target, a thin man in a gray coat, weaves through the crowd. If you lose sight of him, he is gone."
+Host: "The Night Market of Whispers is packed. Stalls crowd every available surface. Lanterns swing overhead. The smell of grilled fish and burning incense fills the air. Your target, a thin man in a grey coat, weaves through the crowd. If you lose sight of him, he is gone."
 
-Ash's player: "Before we came here, I bought a small jar of pungent fish oil from a vendor. I dabbed some on the inside of my sleeve earlier. When I bumped into the target at the entrance, I transferred a trace to his collar. Now I can follow the smell."
+Willow's player: "Before we came here, I bought a small jar of pungent fish oil from a vendor. I dabbed some on the inside of my sleeve earlier. When I bumped into the target at the entrance, I transferred a trace to his collar. Now I can follow the smell."
 
-The Host grants Advantage for this clever preparation. Ash rolls two d20: a 5 and a 16, taking the 16. Ash has Swiftness 12 (modifier +1) and proficiency in Stealth (+2). Total: 16 + 1 + 2 = 19 against TN 12.
+The Host grants Advantage for this clever preparation. Willow rolls two d20: a 5 and a 16, taking the 16. Willow has Swiftness 12 (modifier +1) and proficiency in Stealth (+2). Total: 16 + 1 + 2 = 19 against TN 12.
 
 Host: "You catch the scent even through the market's chaos. The fish oil is faint but unmistakable. You track him through three turnings, past the spice merchants, past the fortune tellers, to a nondescript door behind a noodle stall. He knocks twice, pauses, knocks three times. The door opens a crack."
 
@@ -256,26 +256,28 @@ The game provides twelve Archetypes, each corresponding to a major figure in the
 
 The twelve Archetypes are:
 
-| Archetype             | Path             | Role in the Empire                     |
-| --------------------- | ---------------- | -------------------------------------- |
-| Cinnabar Heart        | Alchemist        | Bureau of Harmonious Narrative         |
-| Night Warbler         | Shadow Hand      | Bureau of Internal Harmony             |
-| Guest Among Forests   | Long Lived       | Representative of the Northern Expanse |
-| Iron Calculation      | Artificer        | State Planning Commission              |
-| Iron Wall             | Bastion          | Imperial Garrison Command              |
-| Bright Mirror         | Justicar         | Commission for Celestial Purity        |
-| Shadow                | Night Walker     | Independent Intelligence               |
-| Duke of Eternal Night | Blood Cultivator | Crimson Lineage Aristocracy            |
-| Iron Bone             | Fury Adept       | Red Banner Revival Movement            |
-| Celestial Book        | Archivist        | Bureau of Celestial Inquiry            |
-| Bone Script           | Hedgewarden      | None. You have no file.                |
-| Incense Crown         | Oracle           | Temple of Ten Thousand Gods            |
+| Archetype             | Path             | Role in the Empire                     | Default Gender |
+| --------------------- | ---------------- | -------------------------------------- | -------------- |
+| Cinnabar Heart        | Alchemist        | Bureau of Harmonious Narrative         | Male           |
+| Night Warbler         | Shadow Hand      | Bureau of Internal Harmony             | Male           |
+| Guest Among Forests   | Long Lived       | Representative of the Northern Expanse | Female         |
+| Iron Calculation      | Artificer        | State Planning Commission              | Male           |
+| Iron Wall             | Bastion          | Imperial Garrison Command              | Male           |
+| Bright Mirror         | Justicar         | Commission for Celestial Purity        | Male           |
+| Shadow                | Night Walker     | Independent Intelligence               | Male           |
+| Duke of Eternal Night | Blood Cultivator | Crimson Lineage Aristocracy            | Male           |
+| Iron Bone             | Fury Adept       | Red Banner Revival Movement            | Male           |
+| Celestial Book        | Archivist        | Bureau of Celestial Inquiry            | Female         |
+| Bone Script           | Hedgewarden      | None. You have no file.                | Male           |
+| Incense Crown         | Oracle           | Temple of Ten Thousand Gods            | Female         |
 
 Full details for each Archetype are provided in the Character Dossiers supplement.
 
+These defaults govern the named Court figures and every unmarked example in this build. A player may choose any gender for a player character without changing mechanics, history options, or advancement.
+
 **How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or the Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Your Archetype is not your destiny. It is your starting point.
 
-Two of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach them and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. If your table wants a character who is outside the hierarchy rather than inside it, these are the two doors.
+Two of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach him and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. If your table wants a character who is outside the hierarchy rather than inside it, these are the two doors.
 
 **Example choice.** A player named Mira wants to play a character who is a scholar drawn into dangerous politics. She reads the Archetype descriptions. The Celestial Book offers access to forbidden knowledge and a position in the archives, which appeals to her. The Cinnabar Heart offers alchemy and the manipulation of information through the Bureau of Harmonious Narrative. She chooses the Celestial Book, deciding her character is an archivist who found a document she was not meant to see.
 
@@ -288,7 +290,7 @@ Every character has six **Facets** that measure their core capabilities:
 | **Might**     | Physical power, melee combat          | Striking, lifting, breaking, intimidation through strength           |
 | **Swiftness** | Speed, agility, stealth               | Dodging, sneaking, ranged combat, initiative, picking locks          |
 | **Endurance** | Toughness, stamina, resilience        | Resisting damage, surviving harsh conditions, holding breath         |
-| **Intellect** | Knowledge, reasoning, Qi manipulation | Investigation, ritual casting, crafting, recalling lore              |
+| **Intellect** | Knowledge, reasoning, Qi manipulation | Investigation, conducting rituals, crafting, recalling lore          |
 | **Presence**  | Charisma, bearing, social force       | Persuasion, deception, leadership, performance, commanding attention |
 | **Resolve**   | Willpower, courage, perception        | Resisting fear, detecting lies, maintaining sanity, staying focused  |
 
@@ -296,7 +298,7 @@ Your Archetype provides a baseline array of Facet scores. You then have **six ad
 
 **Facet Modifier:** Your Facet Modifier equals (Facet Score minus 10) divided by 2, rounded down. A Facet of 14 gives a modifier of +2. A Facet of 8 gives a modifier of -1.
 
-**Example assignment.** Mira's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of him.
+**Example assignment.** Mira's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of her.
 
 ### Step Three: Select Skills
 
@@ -346,7 +348,7 @@ _Resolve Skills:_
 
 **Pairing a Skill with a different Facet.** The Facet listed beside each Skill is its default, not its only pairing. When the fiction clearly calls for a different one, the Host may pair a Skill with whatever Facet the situation demands: Intimidation with Presence when a character menaces by sheer bearing rather than muscle, Craft with Swiftness when the work is delicate rather than clever, Lore with Resolve when the question is whether you can recall it under interrogation. Proficiency still applies. The Host should name the pairing aloud before the roll so the table can see the logic.
 
-**Example selection.** The Celestial Book Archetype grants proficiency in Lore, Investigation, and Insight. Mira needs to choose two more. Her character is an archivist, but she wants her to have some practical survival skills for when things go wrong. She chooses Vigilance (Resolve) to notice danger early, and Deception (Presence) because archivists who cannot lie do not survive long in the Court. She records these five skills on her dossier.
+**Example selection.** The Celestial Book Archetype grants proficiency in Lore, Investigation, and Qi Theory. Mira needs to choose two more. Her character is an archivist, but she wants her to have some practical skills for when things go wrong. She chooses Insight (Resolve) to read dangerous people, and Deception (Presence) because archivists who cannot lie do not survive long in the Court. She records these five skills on her dossier.
 
 ### Step Four: Determine Derived Values
 
@@ -360,7 +362,7 @@ _Resolve Skills:_
 
 **Defense:** 10 + Swiftness Modifier. The base TN for attacks targeting you.
 
-**Example calculation.** Mira's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier -1), with no Archetype bonus, so -1. Defense: 10 + (-1) = 9. He is the most fragile character at the table and the hardest to break.
+**Example calculation.** Mira's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier -1), with no Archetype bonus, so -1. Defense: 10 + (-1) = 9. She is the most fragile character at the table and the hardest to break.
 
 ### Step Five: Starting Resources
 
@@ -383,7 +385,7 @@ Examples:
 
 Your Truth should be something the Host can use to create personal stakes in the larger story.
 
-**Example Truth.** Mira decides her Celestial Book, named Scholar Jinhai, found a fragment of a journal in the archive stacks. The journal appears to be written in the Sun Emperor's own hand and dated fifty years after he stopped speaking publicly. The fragment mentions something called "the First Omission." Jinhai has told no one about this discovery. She keeps the fragment hidden in her quarters. The Host now has a plot hook: what is the First Omission, and who else is looking for this journal?
+**Example Truth.** Mira decides that her Celestial Book, Scholar Jinhai, found a fragment of a journal in the archive stacks. The journal appears to be written in the Sun Emperor's own hand and dated fifty years after the Sun Emperor withdrew from public life. The fragment mentions something called "the First Omission." Jinhai has told no one about this discovery. She keeps the fragment hidden in her quarters. The Host now has a plot hook: what is the First Omission, and who else is looking for this journal?
 
 ### Step Seven: Faction Standing
 
@@ -416,15 +418,15 @@ Here is a complete walkthrough of creating a character from nothing to ready for
 
 **Step 2: Facets.** Alex has 6 points to distribute. Night Warbler abilities rely on Swiftness and Presence, but Swiftness is already at 18 and cannot be raised with these points. Alex spends all 6 on Presence, raising it from 10 to 16 (modifier +3), because an infiltrator who cannot talk her way back out is a corpse with good shoes. Might stays at 14 (modifier +2). Endurance stays at 12 (modifier +1). Intellect stays at 14 (modifier +2). Resolve stays at 14 (modifier +2).
 
-**Step 3: Skills.** The Night Warbler grants Stealth, Larceny, and Deception. Alex chooses two more: Insight (to read people during investigations) and Acrobatics (to escape through windows and across rooftops).
+**Step 3: Skills.** The Night Warbler grants Stealth, Precision, and Insight. Alex chooses two more: Deception (to maintain a cover story) and Acrobatics (to escape through windows and across rooftops).
 
-**Step 4: Derived Values.** Night Warbler has HP bonus +2 and Qi bonus +3. With Endurance 12 (modifier +1): HP = 10 + 1 + 2 = 13. With Intellect 14 (modifier +2): Qi Pool = 10 + 2 + 3 = 15. Sanity = 20 + Resolve modifier (+2) = 22. Initiative = Swiftness modifier (+4) + Night Warbler bonus (+2) = 6. Defense = 10 + 4 = 14.
+**Step 4: Derived Values.** Night Warbler has HP bonus +2 and Qi bonus +3. With Endurance 12 (modifier +1): HP = 10 + 1 + 2 = 13. With Intellect 14 (modifier +2): Qi Pool = 10 + 2 + 3 = 15. Sanity = 20 + Resolve modifier (+2) = 22. Initiative = Swiftness modifier (+4) + Night Warbler bonus (+2) = 6. Base Defense = 10 + 4 = 14, rising to 15 while she wears concealed armor.
 
-**Step 5: Resources.** Starting equipment: concealed armor, two hidden blades, a set of lockpicks, a dark cloak with many pockets. Plus one personal item: a jade pendant that was her mother's. Plus 20 Copper Leaves.
+**Step 5: Resources.** Starting equipment: concealed armor, two hidden blades, six daggers, a dark cloak, a grappling hook with silk rope, and forged identification papers. Plus one personal item: a jade pendant that belonged to Cinder's mother. Plus 15 Copper Leaves.
 
 **Step 6: Truth.** Alex decides: "I know that a senior member of the Golden Orthodoxy has been meeting with a representative of the Crimson Dusk. I witnessed the meeting by accident while following a different target. I have not reported it because I am not sure who to trust."
 
-**Step 7: Faction Standing.** Night Warbler baseline: Neutral with most factions, slightly positive with the Bureau of Internal Harmony (her nominal employer), slightly negative with the Crimson Lineage (she has spied on them before).
+**Step 7: Faction Standing.** Night Warbler baseline: Neutral with the Golden Orthodoxy and Iron Calculation, slightly positive with the Crimson Lineage, slightly negative with the Verdant Path and Bright Mirror, and strongly negative with the Common Flame. The Bureau of Internal Harmony is Cinder's nominal employer, but it is an institution rather than one of the six Schools.
 
 **Step 8: Name and History.** "My name is Cinder. I was a street child in the capital's outer districts. The Bureau of Internal Harmony recruited me at age fifteen because I could get into places I should not be able to get into. I have served them for twelve years. I am good at my job. I am starting to wonder if I am on the right side."
 
@@ -450,13 +452,13 @@ A character concept is more than a collection of numbers. It is the answer to th
 
 A Duke of Eternal Night who is secretly funding reformist pamphlets because he fell in love with a revolutionary. He hates what he is doing but cannot stop.
 
-An Iron Wall who has never been tested in real combat, only in exercises. She believes she is ready. Everyone else wonders.
+An Iron Wall who has never been tested in real combat, only in exercises. He believes he is ready. Everyone else wonders.
 
-A Cinnabar Heart who uses her position in the Bureau of Harmonious Narrative to hide evidence of imperial crimes. She tells herself she is preserving stability. She is not sure she believes it anymore.
+A Cinnabar Heart who uses his position in the Bureau of Harmonious Narrative to hide evidence of imperial crimes. He tells himself he is preserving stability. He is no longer certain he believes it.
 
-A Guest Among Forests who has lived for three centuries and is deeply, profoundly tired. She has seen empires rise and fall. She struggles to care about the current crisis but feels obligated to try.
+A Guest Among Forests who has lived for more than four centuries and is deeply, profoundly tired. She has seen empires rise and fall. She struggles to care about the current crisis but feels obligated to try.
 
-A Shadow who was once a member of every school and was expelled from all of them. She works alone because she has burned every bridge. She tells herself she prefers it that way.
+A Shadow who was once a member of every school and was expelled from all of them. He works alone because he has burned every bridge. He tells himself he prefers it that way.
 
 ---
 
@@ -548,7 +550,7 @@ Presence governs social interaction of all kinds: persuasion, deception, perform
 
 **Presence 10 (modifier +0).** You are unremarkable in social settings. You can hold a conversation. You can make a request. You can tell a small lie without being obvious. You are neither charismatic nor off putting. You exist in the social space without dominating it.
 
-**Presence 14 (modifier +2).** You are likeable and persuasive. People enjoy talking to you. When you enter a room, some people notice. You can calm a tense situation with a few well chosen words. You are good at reading a room and adjusting your approach. Your lies usually hold.
+**Presence 14 (modifier +2).** You are likeable and persuasive. People enjoy talking to you. When you enter a room, some people notice. You can calm a tense situation with a few carefully chosen words. You are good at reading a room and adjusting your approach. Your lies usually hold.
 
 **Presence 18 (modifier +4).** You are magnetic. When you enter a room, conversation shifts. People want your approval. You can charm information out of hostile sources. You can command a crowd. Your words carry weight. Officials remember you after a single meeting.
 
@@ -570,7 +572,7 @@ Resolve determines Sanity and governs resistance to fear, deception, and superna
 
 **Resolve 18 (modifier +4).** You are iron willed. You have stared into the Dusk and not looked away. You maintain your principles under torture. You detect lies like others detect changes in the weather. You inspire courage in those around you simply by remaining calm.
 
-**Resolve 20 (modifier +5).** You are unshakeable. Your sense of self is so strong that reality warping effects struggle to take hold. You can resist the temptation of the Dusk when others succumb. You walk into hopeless situations without despair because you have accepted the possibility of death. Your calm in the face of annihilation is almost disturbing to witness.
+**Resolve 20 (modifier +5).** You are unshakeable. Your sense of self is so strong that effects which warp reality struggle to take hold. You can resist the temptation of the Dusk when others succumb. You walk into hopeless situations without despair because you have accepted the possibility of death. Your calm in the face of annihilation is almost disturbing to witness.
 
 ---
 
@@ -597,7 +599,7 @@ Anyone can attempt any skill. If you are not proficient, you still add your Face
 
 ### Gaining New Proficiencies
 
-At the Host's discretion, characters may gain new Skill proficiencies through extended training, study, or significant experiences. As a guideline, learning a new Skill proficiency requires dedicating significant downtime (weeks or months) to focused practice with a teacher or through intense self study.
+At the Host's discretion, characters may gain new Skill proficiencies through extended training, study, or significant experiences. As a guideline, learning a new Skill proficiency requires dedicating significant downtime (weeks or months) to focused practice with a teacher or through intense independent study.
 
 ---
 
@@ -644,7 +646,7 @@ On your turn, you may take **one Action** and **one Movement**. You may also tak
 
 Combat in the Violet Court uses abstract **Zones** rather than precise grid measurements. A Zone is a narratively coherent area: "the courtyard," "the archive chamber," "the burning rooftop." Zones are connected to adjacent Zones. Moving from one Zone to another uses your Movement for the turn.
 
-Ranged attacks can target anyone in the same Zone or an adjacent Zone. Attacking someone two Zones away requires a long range weapon and may impose Disadvantage.
+Ranged attacks can target anyone in the same Zone or an adjacent Zone. Attacking someone two Zones away requires a weapon with sufficient range and may impose Disadvantage.
 
 Zones allow the Host to describe combat in vivid terms without counting squares. "The assassin leaps from the balcony Zone down to the courtyard Zone" is more evocative than "the assassin moves 30 feet."
 
@@ -658,16 +660,16 @@ An ally can stabilize a Dying character with a successful Intellect check (TN 12
 
 ### Weapon Reference
 
-| Weapon       | Damage | Properties                                       |
-| ------------ | ------ | ------------------------------------------------ |
-| Unarmed      | 1d4    | Light                                            |
-| Dagger       | 1d6    | Light, Concealable, Throwable                    |
-| Sword        | 1d8    | Versatile (1d10 two handed)                      |
-| Greatsword   | 1d12   | Heavy, Two Handed                                |
-| Bow          | 1d8    | Ranged, Two Handed                               |
-| Crossbow     | 1d10   | Ranged, Two Handed, Loading                      |
-| Staff        | 1d6    | Versatile (1d8 two handed), Qi Focus             |
-| Hidden Blade | 1d4    | Concealable, First Strike (+1d6 on first attack) |
+| Weapon       | Damage | Properties                                                                       |
+| ------------ | ------ | -------------------------------------------------------------------------------- |
+| Unarmed      | 1d4    | Light                                                                            |
+| Dagger       | 1d6    | Light, Concealable, Throwable                                                    |
+| Sword        | 1d8    | Versatile (1d10 with both hands)                                                 |
+| Greatsword   | 1d12   | Heavy, Requires Two Hands                                                        |
+| Bow          | 1d8    | Ranged, Requires Two Hands                                                       |
+| Crossbow     | 1d10   | Ranged, Requires Two Hands, Loading                                              |
+| Staff        | 1d6    | Versatile (1d8 with both hands), Qi Focus                                        |
+| Hidden Blade | 1d4    | Concealable, First Strike (+1d6 on the first round if you act before the target) |
 
 **Properties:**
 
@@ -676,7 +678,7 @@ An ally can stabilize a Dying character with a successful Intellect check (TN 12
 - **Throwable:** Can be used for ranged attacks within the same Zone.
 - **Versatile:** Deals the higher damage die when used with two hands.
 - **Heavy:** Requires Might 13+ to wield effectively. Otherwise, attacks have Disadvantage.
-- **Two Handed:** Requires both hands.
+- **Requires Two Hands:** This weapon requires both hands.
 - **Qi Focus:** Can channel Qi Techniques through this weapon, adding +1 to Technique attack rolls.
 - **First Strike:** On the first round of combat, if you act before your target, this weapon deals additional damage.
 - **Loading:** Requires a Free Interaction to reload between shots.
@@ -687,7 +689,7 @@ An ally can stabilize a Dying character with a successful Intellect check (TN 12
 
 **Zones.** The alley (Zone A). The temple courtyard (Zone B, adjacent). The rooftop (Zone C, above the alley, adjacent to Zone A with a climb).
 
-**Participants.** Cinder (Night Warbler, Swiftness 18). Jinhai (Celestial Book, Intellect 20). Steelhand (Iron Bone, Might 18). Three Orthodoxy thugs (minions). The courier (non combatant).
+**Participants.** Cinder (Night Warbler, Swiftness 18). Jinhai (Celestial Book, Intellect 20). Steelhand (Iron Bone, Might 18). Three Orthodoxy thugs (minions). The courier (noncombatant).
 
 **Round 1.**
 
@@ -697,15 +699,15 @@ Initiatives: Cinder rolls 19 + 6 = 25. Steelhand rolls 14 + 2 = 16. Thugs roll 1
 
 Cinder acts first.
 
-Cinder's player: "I do not wait for them to close the distance. I spin and throw one of my hidden blades at the nearest thug. Then I move toward the courier. If I can grab the documents, this fight becomes pointless."
+Cinder's player: "I do not wait for them to close the distance. I spin and throw a dagger at the nearest thug. Then I move toward the courier. If I can grab the documents, this fight becomes pointless."
 
 Host: "The thug is in the same Zone, so no range penalty. Roll your attack."
 
-Cinder rolls 15 + Swiftness modifier (+4) + Proficiency in Precision (+2) = 21 against the thug's Defense of 12. A hit. Hidden blade damage: 1d4. Rolls a 3, plus First Strike bonus of 1d6. Rolls a 5 on the First Strike die. Total damage: 8. The thug has 10 HP.
+Cinder rolls 15 + Swiftness modifier (+4) + Proficiency in Precision (+2) = 21 against the thug's Defense of 12. A hit. Dagger damage: 1d6. Rolls a 4, plus Swiftness modifier (+4). Total damage: 8. The thug has 10 HP.
 
-Host: "The blade catches him in the shoulder. He staggers but does not fall. Blood spreads across his gray tunic. He snarls and keeps coming. Your hidden blade is now in his shoulder, not your hand."
+Host: "The dagger catches him in the shoulder. He staggers but does not fall. Blood spreads across his grey tunic. He snarls and keeps coming. Your dagger is now in his shoulder, not your hand."
 
-Cinder moves to the courier's Zone. Free Interaction: she draws her second hidden blade.
+Cinder moves to the courier's Zone. Free Interaction: she draws one of her hidden blades.
 
 Steelhand's turn.
 
@@ -721,13 +723,13 @@ Host: "The two remaining thugs move together. One slashes at you, Steelhand, whi
 
 Thug 1 attacks Steelhand: rolls 8 + 1 = 9 against Steelhand's Defense of 12. Miss.
 
-Thug 2 attempts to grapple Cinder: rolls 11 + 1 = 12 against Cinder's Defense of 14. Miss.
+Thug 2 attempts to grapple Cinder: rolls 11 + 1 = 12 against Cinder's Defense of 15, including her concealed armor. Miss.
 
 Host: "The first thug's knife skids off your armored forearm, Steelhand. Sparks fly. The second thug lunges for Cinder but grabs only air as she sidesteps. The courier is backing away, fumbling for something in his coat."
 
 Jinhai's turn.
 
-Jinhai's player: "I am at the back of the alley. I cannot reach the fight directly. But I can see the courier reaching for something. I use Qi Sense to check if he has a Qi charged object on him."
+Jinhai's player: "I am at the back of the alley. I cannot reach the fight directly. But I can see the courier reaching for something. I use Qi Sense to check if he has an object charged with Qi on him."
 
 The Host sets the TN at 12 for basic Qi detection. Jinhai rolls 8 + Intellect modifier (+5) + Proficiency in Qi Theory (+2) = 15. Success.
 
@@ -741,7 +743,7 @@ Cinder's turn.
 
 Cinder's player: "I do not give him time to finish. I close the distance and drive my hidden blade into his wrist, the hand reaching into the coat. I am trying to stop the activation, not kill him."
 
-Cinder rolls 17 + 4 + 2 = 23 against the courier's Defense of 10. A hit. Damage: 1d4 (rolls 2) + First Strike no longer applies. Total: 2 + 4 = 6. The courier has 8 HP.
+Cinder rolls 17 + Might modifier (+2) = 19 against the courier's Defense of 10. A hit. Damage: 1d4 (rolls 2) + Might modifier (+2). First Strike no longer applies. Total: 4. The courier has 8 HP.
 
 Host: "Your blade punches through his sleeve and into his forearm. He screams and drops whatever he was holding. A jade talisman clatters to the wet stones. The glow fades. The courier clutches his arm, blood running between his fingers. The remaining thugs freeze, seeing their principal wounded."
 
@@ -759,21 +761,21 @@ Host: "The thugs exchange a look. One of them drops his knife. It hits the stone
 
 **The Setup.** The player characters are attending a formal reception at the Estate of Far Horizons, hosted by a neutral faction. They are here to gather information about a conspiracy. A rival agent from the Crimson Lineage confronts them publicly, hoping to provoke them into a scene that will get them expelled.
 
-**Zones.** The grand hall (Zone A). The balcony overlooking the hall (Zone B, adjacent). The garden terrace (Zone C, adjacent to Zone A through open doors). The wine table (obstacle in Zone A).
+**Zones.** The grand hall (Zone A). The balcony overlooking the hall (Zone B, adjacent to Zone A by stairs). The garden terrace (Zone C, adjacent to Zone B through open doors). The wine table (obstacle in Zone A).
 
-**Participants.** Cinder (Night Warbler). Jinhai (Celestial Book). Lady Crimson, a Duke of Eternal Night (NPC antagonist). Various guests (non combatants, obstacles).
+**Participants.** Cinder (Night Warbler). Jinhai (Celestial Book). Lady Crimson, a Duke of Eternal Night (NPC antagonist). Various guests (noncombatants and obstacles).
 
 Host: "The hall is magnificent. Candlelight reflects off lacquered pillars. A dozen minor nobles and officials circulate with cups of imported wine. Lady Crimson approaches your group with a smile that does not reach her eyes. She speaks loudly enough for others to hear. 'I heard the most interesting rumor about you, Scholar Jinhai. Something about a document you found in the archives. Something about the Emperor's handwriting.'"
 
 Jinhai's player: "I keep my expression neutral. I say, 'The archives contain many documents. You would need to be more specific.' I try to sound bored rather than defensive."
 
-Host: "Lady Crimson's smile widens. 'A journal fragment, I believe. With handwriting that matches the Sun Emperor's personal correspondence. But that cannot be right, can it? The Emperor has not written anything in three centuries.' She has made this public. Other guests are turning to listen."
+Host: "Lady Crimson's smile widens. 'A journal fragment, I believe. With handwriting that matches the Sun Emperor's personal correspondence. But that cannot be right, can it? No private writing has been verified since the Emperor withdrew.' She has made this public. Other guests are turning to listen."
 
 The Host calls for a social check. This is a social attack. Lady Crimson has chosen to damage Jinhai's standing publicly.
 
-Jinhai's player: "I match her tone. 'If I had found such a document, I would have filed it with the Bureau of Celestial Inquiry, where it would be properly catalogued and studied. Are you suggesting I have not done my duty?' I am trying to shift the narrative from 'I found something secret' to 'I am a professional doing my job.'"
+Jinhai's player: "I match her tone. 'If I had found such a document, I would have filed it with the Bureau of Celestial Inquiry, where it would be properly cataloged and studied. Are you suggesting I have not done my duty?' I am trying to shift the narrative from 'I found something secret' to 'I am a professional doing my job.'"
 
-Roll: Jinhai rolls Presence + Persuasion. d20 shows 14. Jinhai has Presence 13 (modifier +1) and is not proficient in Persuasion. Total: 15 against Lady Crimson's Stance of Suspicious (TN 16 for persuasion). Misses by 1.
+Roll: Jinhai rolls Presence + Persuasion. d20 shows 11. Jinhai has Presence 18 (modifier +4) and is not proficient in Persuasion. Total: 15 against Lady Crimson's Stance of Suspicious (TN 16 for persuasion). Misses by 1.
 
 Host: "Lady Crimson laughs lightly. 'Oh, I am sure you filed it properly. The question is who else has seen it before you filed it. The question is who you showed it to. The question is why a scholar of your modest reputation would be the one to discover something so significant.' The guests are murmuring. She has turned your professionalism into a point against you. You have lost Social Standing."
 
@@ -793,13 +795,13 @@ Initiatives: Cinder 23. Lady Crimson's attendants 18. Lady Crimson 15. Jinhai 9.
 
 Cinder's turn.
 
-Cinder's player: "The balcony is right there. I vault over the railing onto the balcony Zone to get elevation and a better position. From there, I draw a hidden blade and throw it at the nearest attendant."
+Cinder's player: "The balcony is right there. I vault over the railing onto the balcony Zone to get elevation and a better position. From there, I draw a dagger and throw it at the nearest attendant."
 
 Cinder rolls Acrobatics (for the vault). d20 shows 12 + Swiftness modifier (+4) + Proficiency in Acrobatics (+2) = 18 against TN 10 (routine). Success.
 
 Host: "You flow over the railing like water. Guests scatter. You land softly on the balcony and immediately go for your blade."
 
-Cinder attacks: d20 shows 9 + 4 + 2 = 15 against attendant Defense of 12. Hit. Damage: 1d4 (rolls 3) + 4 = 7.
+Cinder attacks: d20 shows 9 + 4 + 2 = 15 against attendant Defense of 12. Hit. Damage: 1d6 (rolls 3) + 4 = 7.
 
 Host: "Your blade catches the attendant in the shoulder. He grunts and keeps coming but is favoring that arm."
 
@@ -807,7 +809,7 @@ Attendants' turn.
 
 Host: "Two attendants move toward Jinhai. Two move toward the balcony stairs to flank Cinder. They draw curved swords."
 
-Attendant 1 attacks Jinhai: d20 shows 14 + 2 = 16 against Jinhai's Defense of 10. Hit. Damage: 1d8 (rolls 5). Jinhai has 16 HP. Now at 11.
+Attendant 1 attacks Jinhai: d20 shows 14 + 2 = 16 against Jinhai's Defense of 9. Hit. Damage: 1d8 (rolls 5). Jinhai has 14 HP. Now at 9.
 
 Host: "The blade opens a cut across Jinhai's forearm. Blood soaks into her robe sleeve. She hisses in pain but stays on her feet."
 
@@ -821,9 +823,9 @@ Jinhai's turn.
 
 Jinhai's player: "I am wounded and not a fighter. I use Bolstered Step (Qi cost 2) to cross two Zones. I move from the grand hall to the garden terrace. I need distance and I need to tend this wound."
 
-Jinhai has Qi Pool 18. Spends 2, remaining 16. She moves two Zones, from the grand hall to the garden terrace.
+Jinhai has Qi Pool 23. Spends 2, remaining 21. She moves two Zones, from the grand hall to the garden terrace.
 
-Host: "Qi flares around your feet and you move faster than should be possible. You are through the doors and onto the terrace before the attendants can react. The night air is cold. You can hear the reception devolving into chaos behind you."
+Host: "Qi flares around your feet and you move faster than should be possible. You race up the balcony stairs, cross the balcony, and pass through the open doors onto the terrace before the attendants can react. The night air is cold. You can hear the reception devolving into chaos behind you."
 
 **Round 2.** The fight continues with Cinder on the balcony, Jinhai on the terrace, and Lady Crimson charging her technique in the hall. The outcome depends on whether the party can disrupt her or escape before the technique completes.
 
@@ -831,11 +833,11 @@ Host: "Qi flares around your feet and you move faster than should be possible. Y
 
 **The Setup.** The party has tracked the source of a corruption to an abandoned temple on the outskirts of the capital. The temple was once dedicated to a forgotten celestial virtue. Now it houses a Dusk Touched creature that has been consuming the memories of local residents. The creature, once a priest, has fused with the temple itself.
 
-**Zones.** The temple entrance (Zone A, rubble strewn, partial cover). The central nave (Zone B, high ceiling, pools of stagnant water on the floor). The altar platform (Zone C, raised three feet above the nave, the creature's starting position). The collapsed eastern wing (Zone D, unstable, falling debris). The underground crypt (Zone E, accessible through a trapdoor in Zone B, dark and cramped).
+**Zones.** The temple entrance (Zone A, strewn with rubble, partial cover). The central nave (Zone B, high ceiling, pools of stagnant water on the floor). The altar platform (Zone C, raised three feet above the nave, the creature's starting position). The collapsed eastern wing (Zone D, unstable, falling debris). The underground crypt (Zone E, accessible through a trapdoor in Zone B, dark and cramped).
 
 **Participants.** Cinder (Night Warbler), Jinhai (Celestial Book), Steelhand (Iron Bone), and the Dusk Priest (boss creature).
 
-**Special mechanics.** The Dusk Priest is anchored to the altar (Zone C). It can use an Action to cause a Zone to become "Dusk Saturated," dealing 1d4 Sanity damage to anyone in that Zone at the start of their turn. The temple has a bell that, if rung, will disrupt the Dusk Priest's connection for one round.
+**Special mechanics.** The Dusk Priest is anchored to the altar (Zone C). It can use an Action to cause a Zone to become "Dusk Saturated," dealing 1d4 Sanity damage to anyone in that Zone at the start of their turn. The temple has a bell that, if rung, suppresses active saturation and prevents new saturation until the end of the Dusk Priest's next turn.
 
 Host: "The temple door hangs askew on broken hinges. Beyond it, darkness deeper than the absence of light. The air is cold and smells of wet stone and something metallic, like old blood. Faint movements ripple across the stagnant water on the floor. On the raised altar at the far end, a figure kneels. It was once a man. Its skin has taken on a crimson sheen. Its eyes, when it opens them, are entirely black."
 
@@ -845,7 +847,7 @@ Cinder's turn.
 
 Cinder's player: "I do not announce myself. I slip through the entrance, keeping to the shadows along the wall. I move toward the eastern pillars where I have cover. I want to get close enough to strike but not stand in the open."
 
-Cinder rolls Stealth. d20 shows 16 + Swiftness modifier (+4) + Proficiency (+2) = 22 against the Dusk Priest's Vigilance of 14 (10 + Resolve modifier +1 + proficiency +2). Success. The Dusk Priest does not notice Cinder's movement.
+Cinder rolls Stealth. d20 shows 16 + Swiftness modifier (+4) + Proficiency (+2) = 22 against the Dusk Priest's Vigilance of 13 (10 + Resolve modifier +1 + proficiency +2). Success. The Dusk Priest does not notice Cinder's movement.
 
 Host: "Your feet find the silent spots on the stone floor. The Dusk Priest's head is bowed. It is murmuring something, a prayer or a chant, in a language that makes your teeth ache. You reach the shadow of a collapsed pillar. You are within striking distance."
 
@@ -859,31 +861,31 @@ Host: "The Dusk Priest stands. The water at its feet begins to steam. Crimson li
 
 Steelhand's turn.
 
-Steelhand's player: "I am in Zone A, the entrance. I do not want to wade into that corrupted water. I look around for something I can use. The bell. I saw a bell pull near the eastern wall when we entered. I move to it, using my Movement to reach the bell pull in Zone A, and I yank it."
+Steelhand's player: "I am in Zone A, the entrance. I do not want to wade into that corrupted water. I look around for something I can use. The bell. I saw a bell pull in a stone alcove just inside Zone B when we entered. I move into the alcove and yank it."
 
-Host: "The bell is old but the mechanism still works. A deep, resonant tone rings through the temple. The sound is pure. It cuts through the Dusk energy like a blade through smoke. The Dusk Priest recoils, clutching its head. The red glow in the water dims. The bell's resonance has broken its concentration. It cannot use its Zone saturation ability until the end of its next turn. Good thinking."
+Host: "The bell is old but the mechanism still works. A deep, resonant tone rings through the temple. The sound is pure. It cuts through the Dusk energy like a blade through smoke. The Dusk Priest recoils, clutching its head. The red glow in the water dims. The bell's resonance suppresses the active saturation and prevents the Priest from creating more until the end of its next turn. Good thinking."
 
 Jinhai's turn.
 
 Jinhai's player: "I am still in Zone A. The bell bought us time. I focus my Qi and use Mending Touch on myself. I need to heal the arm wound from the reception before this fight gets worse."
 
-Jinhai spends 3 Qi (now 13 remaining). Heals 1d8 + Intellect modifier. d8 shows 6. Total healing: 6 + 4 = 10. Jinhai's HP goes from 11 to 16 (full).
+Jinhai spends 3 Qi (now 18 remaining). Heals 1d8 + Intellect modifier. d8 shows 6. Total healing: 6 + 5 = 11. Jinhai's HP goes from 9 to 14 (full).
 
 **Round 2.**
 
 Cinder's turn.
 
-Cinder's player: "I attack from the shadows. The Priest is distracted. I throw a hidden blade at its back, aiming for the base of the skull."
+Cinder's player: "I attack from the shadows. The Priest is distracted. I throw a dagger at its back, aiming for the base of the skull."
 
-Cinder attacks with Advantage (the Priest is distracted and unaware of her position). She rolls two d20: 4 and 18. Takes 18. Total: 18 + 4 + 2 = 24 against the Priest's Defense of 14. Hit. Hidden blade damage: 1d4 (rolls 3) + Swiftness modifier (+4). Plus First Strike (this is Cinder's first attack on the Priest): 1d6 (rolls 5). Total damage: 3 + 4 + 5 = 12.
+Cinder attacks with Advantage (the Priest is distracted and unaware of her position). She rolls two d20: 4 and 18. Takes 18. Total: 18 + 4 + 2 = 24 against the Priest's Defense of 14. Hit. Dagger damage: 1d6 (rolls 3) + Swiftness modifier (+4). Total damage: 7.
 
-Host: "The blade sinks deep into the Priest's neck. It should have dropped any normal creature. The Dusk Priest staggers, black ichor spraying from the wound, but it does not fall. It turns slowly, and its black eyes find your position in the shadows. 'There you are,' it says. The wound begins to close, the flesh knitting itself back together. You realize this creature is regeneration from the altar's power. You need to separate it from the altar."
+Host: "The blade sinks deep into the Priest's neck. It should have dropped any normal creature. The Dusk Priest staggers, black ichor spraying from the wound, but it does not fall. It turns slowly, and its black eyes find your position in the shadows. 'There you are,' it says. The wound begins to close, the flesh knitting itself back together. You realize the creature is drawing its regeneration from the altar. You need to separate it from the altar."
 
 Dusk Priest's turn.
 
 Host: "The Dusk Priest raises its arms. The water in Zone B boils. Crimson tendrils rise from the water like reaching hands. It is going to attack everyone in Zone B. Anyone still in the nave needs to dodge."
 
-Steelhand's player: "I am still in Zone A by the bell pull. I am safe for now."
+Steelhand's player: "I am in the Zone B bell alcove. The stone recess shields me from the tendrils."
 
 Jinhai's player: "I am in Zone A. Safe."
 
@@ -895,15 +897,15 @@ Host: "The crimson tendrils lash out, but you were already moving. One passes cl
 
 Steelhand's turn.
 
-Steelhand's player: "The altar is the key. If I can smash that altar, the Priest loses its regeneration. I charge through Zone B. The water burns but I push through."
+Steelhand's player: "The altar is the key. If I can smash that altar, the Priest loses its regeneration. I leave the bell alcove and charge up to Zone C. The water burns, but I push through."
 
-Steelhand moves from Zone A to Zone B (one Movement). The water deals 1d4 Sanity damage (Starts the turn in Zone B). Steelhand has Resolve 12 (modifier +1) and Sanity of 21. He takes 3 Sanity damage. Sanity now 18.
+Steelhand starts his turn in Zone B, so the water deals 1d4 Sanity damage. Steelhand has Resolve 12 (modifier +1) and Sanity of 21. He takes 3 Sanity damage, reducing his Sanity to 18. He then moves from Zone B to Zone C with one Movement.
 
 Host: "The water is cold and hot at the same time, a contradiction that your mind cannot resolve. It feels like wading through someone else's nightmares. You take 3 Sanity damage. But you reach the base of the altar. You are in Zone C now."
 
-Steelhand's player: "I swing my greatsword at the altar. Two handed. Full force."
+Steelhand's player: "I swing my greatsword at the altar. Both hands. Full force."
 
-Steelhand attacks the altar. The Host sets its structural TN at 16. Steelhand rolls d20 + Might modifier (+2) + Proficiency in Athletics (using the heavy weapon counts, +2). d20 shows 14. Total: 14 + 2 + 2 = 18. Success.
+Steelhand attacks the altar. The Host sets its structural TN at 16. Steelhand rolls d20 + Might modifier (+4) + Proficiency in Athletics (using the heavy weapon counts, +2). d20 shows 14. Total: 14 + 4 + 2 = 20. Success.
 
 Host: "Your greatsword crashes into the altar stone. A shockwave of crimson energy erupts from the impact. The stone splits. The Dusk Priest screams, a sound that is part human and part something else entirely. The regeneration stops. The wounds on its neck remain open. The red glow in the water begins to fade. You have severed the anchor."
 
@@ -911,7 +913,7 @@ Jinhai's turn.
 
 Jinhai's player: "The Priest is vulnerable now. I step into Zone B. I use my staff to channel a Qi sense burst, trying to find any other Dusk energy in the temple. I want to make sure there are no more anchors."
 
-Jinhai uses Qi Sense (Qi cost 1, remaining 12). d20 shows 10 + Intellect modifier (+4) + Proficiency in Qi Theory (+2) = 16 against TN 12. Success.
+Jinhai uses Qi Sense (Qi cost 1, remaining 17). d20 shows 10 + Intellect modifier (+5) + Proficiency in Qi Theory (+2) = 17 against TN 12. Success.
 
 Host: "The Qi sense reveals fading traces in the nave, but the main concentration was the altar. It is dissipating now. There are no other anchors. There is, however, a faint trace in the crypt below. Something was stored there. Something the Priest was protecting."
 
@@ -933,7 +935,7 @@ Your Qi Pool represents your reserve of Celestial Qi. Each Technique you use cos
 
 To use a Technique, you must know it (granted by your Archetype or learned through play) and spend its Qi cost. Unless the Technique specifies otherwise, using a Technique is an Action.
 
-For Techniques that require an attack roll, use d20 + Intellect Modifier + Proficiency Bonus (if proficient in Qi Theory). The TN is the target's Defense for combat Techniques or a TN set by the Host for non combat Techniques.
+For Techniques that require an attack roll, use d20 + Intellect Modifier + Proficiency Bonus (if proficient in Qi Theory). The TN is the target's Defense for combat Techniques or a TN set by the Host for noncombat Techniques.
 
 ### Expanded Technique List
 
@@ -951,13 +953,13 @@ Each Archetype provides three starting Techniques. Additional Techniques can be 
 
 **Combat Techniques**
 
-| Technique         | Qi Cost | Effect                                                                                                                                                                                                       |
-| ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Qi Strike         | 2       | Charge your weapon with Qi. Your next successful melee attack before the end of your next turn deals an additional 2d6 damage. The damage is considered Qi damage and bypasses non magical damage reduction. |
-| Shroud of Shadow  | 3       | Wrap yourself in shadow for one minute. You gain Advantage on Stealth checks. Enemies have Disadvantage on attacks of opportunity against you.                                                               |
-| Iron Skin         | 4       | Your skin hardens for one minute. You gain resistance to non magical bludgeoning, piercing, and slashing damage. Your Defense increases by 2.                                                                |
-| Unbalancing Force | 3       | A wave of Qi erupts from you, affecting all creatures in your Zone. Each must make an Endurance check against your Technique TN or be knocked prone. Allies are not affected.                                |
-| Dancer's Step     | 2       | After making a melee attack, you may immediately move to an adjacent Zone without provoking attacks of opportunity.                                                                                          |
+| Technique         | Qi Cost | Effect                                                                                                                                                                                                             |
+| ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Qi Strike         | 2       | Charge your weapon with Qi. Your next successful melee attack before the end of your next turn deals an additional 2d6 damage. The damage is considered Qi damage and bypasses ordinary physical damage reduction. |
+| Shroud of Shadow  | 3       | Wrap yourself in shadow for one minute. You gain Advantage on Stealth checks. Enemies have Disadvantage on attacks of opportunity against you.                                                                     |
+| Iron Skin         | 4       | Your skin hardens for one minute. You gain resistance to ordinary bludgeoning, piercing, and slashing damage. Your Defense increases by 2.                                                                         |
+| Unbalancing Force | 3       | A wave of Qi erupts from you, affecting all creatures in your Zone. Each must make an Endurance check against your Technique TN or be knocked prone. Allies are not affected.                                      |
+| Dancer's Step     | 2       | After making a melee attack, you may immediately move to an adjacent Zone without provoking attacks of opportunity.                                                                                                |
 
 **Utility Techniques**
 
@@ -965,7 +967,7 @@ Each Archetype provides three starting Techniques. Additional Techniques can be 
 | ---------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bolstered Step         | 2       | Your Movement this turn allows you to cross two Zones instead of one.                                                                                                                                |
 | Unlock the Hidden Path | 3       | For one minute, you can move across difficult terrain (rubble, ice, steep inclines) at normal speed. You can also climb surfaces that would normally require a check.                                |
-| Silence of the Scholar | 2       | Mute all sound within a 10 foot radius around you for one minute. Conversations within the bubble cannot be heard outside it. Useful for private discussions in public places.                       |
+| Silence of the Scholar | 2       | Mute all sound within a radius of 10 feet around you for one minute. Conversations within the bubble cannot be heard outside it. Useful for private discussions in public places.                    |
 | Artificer's Eye        | 2       | For one minute, you can see the structural weak points in objects and architecture. Your next attack or tool use against a structure gains Advantage and deals double damage against that structure. |
 | Memory Echo            | 4       | Touch an object and glimpse its recent history. The Host reveals one significant event involving that object in the past 24 hours. The vision is brief and fragmented.                               |
 
@@ -973,7 +975,7 @@ Each Archetype provides three starting Techniques. Additional Techniques can be 
 
 | Technique        | Qi Cost | Effect                                                                                                                                                                                                                                                                |
 | ---------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Qi Sense         | 1       | Detect the presence and rough intensity of Qi within your Zone. Useful for finding hidden Qi users, Dusk corruption, or enchanted objects.                                                                                                                            |
+| Qi Sense         | 1       | Detect the presence and rough intensity of Qi within your Zone. Useful for finding hidden Qi users, Dusk corruption, or objects bearing a Qi signature.                                                                                                               |
 | Glimmer of Truth | 2       | For one minute, gain Advantage on Insight checks to detect lies. A faint golden shimmer appears in your vision when someone deceives you.                                                                                                                             |
 | Trace the Thread | 5       | Touch a person or object and learn its general direction relative to you, even if it is far away or hidden. The connection lasts for one hour. You know only direction, not distance.                                                                                 |
 | Read the Weave   | 6       | Spend ten minutes in meditation. The Host reveals one piece of information about a future event, a hidden truth, or a character's fate. The information is always true but never complete. The Host decides what fragment you see.                                    |
@@ -987,7 +989,7 @@ Players and Hosts are encouraged to invent new Techniques that fit the themes of
 
 **Set the Qi cost.** As a guideline:
 
-- A minor, single use benefit costs 1 to 2 Qi.
+- A minor benefit that can be used once costs 1 to 2 Qi.
 - A moderate, scene long benefit costs 3 to 4 Qi.
 - A powerful or encounter defining effect costs 5 to 7 Qi.
 - A campaign altering or reality bending effect costs 8 or more Qi and should require a quest to learn.
@@ -1010,7 +1012,7 @@ Jinhai is deep in the crypts beneath the temple. She has already used most of he
 
 Host: "You reach into your Qi Pool and find it nearly empty. You try to draw the energy anyway, pulling harder than you should. The Qi resists. Make a Qi Disharmony check."
 
-Jinhai's player rolls d20 + Intellect modifier (+4) against TN 15. She gets a 6. Total: 10. Failure.
+Jinhai's player rolls d20 + Intellect modifier (+5) against TN 15. She gets a 6. Total: 11. Failure.
 
 Host: "The Qi backlashes. You feel a sharp pain behind your eyes, like a needle driven through your skull. The 2 Qi you had is gone. The technique fails. Steelhand is still bleeding. And you take 1d6 psychic damage from the backlash."
 
@@ -1020,9 +1022,9 @@ Jinhai takes 4 psychic damage. Her HP drops from 12 to 8. She is now wounded her
 
 Cinder is trying to use Shroud of Shadow to escape from a pursuing group of Dusk Touched hunters. She is in a forest that has been partially consumed by the Crimson Dusk. The air itself is corrupted.
 
-Host: "You draw on your Qi to wrap yourself in shadow, but the Dusk saturated air resists your manipulation. The shadows around you writhe, but they do not obey. They are corrupted. You are trying to command something that answers to a different master. Make a Qi Disharmony check."
+Host: "You draw on your Qi to wrap yourself in shadow, but the air, saturated with Dusk, resists your manipulation. The shadows around you writhe, but they do not obey. They are corrupted. You are trying to command something that answers to a different master. Make a Qi Disharmony check."
 
-Cinder's player rolls d20 + Intellect modifier (+1) against TN 15. She gets an 11. Total: 12. Failure.
+Cinder's player rolls d20 + Intellect modifier (+2) against TN 15. She gets an 11. Total: 13. Failure.
 
 Host: "The shadows lash out at you instead of concealing you. Thorny tendrils of darkness scrape across your arm. You take 1d6 psychic damage. The Qi cost is spent. The technique fails. And the Dusk Touched hunters have seen the flash of corrupted energy. They know exactly where you are."
 
@@ -1032,13 +1034,15 @@ Cinder takes 3 psychic damage. Her position is now known. She must find a differ
 
 Steelhand has just witnessed a close ally being taken by the Commission for Celestial Purity. He is furious and desperate. He attempts to use Qi Strike to break through a door and chase after them.
 
+Steelhand spends 2 Qi to use Qi Strike, then drives his greatsword into the barred door. The attack connects, but the emotional strain makes the Qi unstable before the added force can take hold.
+
 Host: "Your Qi is turbulent. Your emotions are feeding into it, making it unstable. The energy crackles along your arm, but it does not focus. It wants to explode, not to enhance. Make a Qi Disharmony check."
 
 Steelhand's player rolls d20 + Intellect modifier (+1, Steelhand has Intellect 12). He gets a 4. Total: 5. Critical Failure.
 
 Host: "The Qi erupts from you uncontrollably. The door does not break. Instead, a shockwave of raw energy throws you backward into a bookshelf. You take 1d6 psychic damage from the backlash. Books and scrolls tumble down around you. The Commission agents, hearing the explosion, double their pace. Your ally is farther away now. And you are on the floor, covered in paper, with a nosebleed from the psychic shock."
 
-Steelhand takes 6 psychic damage, reducing his HP from 14 to 8. The door remains intact. The situation is worse than before.
+Steelhand takes 6 psychic damage, reducing his HP from 20 to 14. The door remains intact. The situation is worse than before.
 
 ---
 
@@ -1099,13 +1103,13 @@ Social Standing recovers between encounters.
 
 **The Setup.** The party needs to move a Dusk refugee through a checkpoint controlled by the Golden Orthodoxy. The guard captain, Commander Fang, is a devout orthodox who believes the Dusk is divine punishment for the empire's moral failings. He will not help out of compassion. He might help if the party can make a convincing argument that serves his interests.
 
-**Participants.** Jinhai (Celestial Book, Presence 16, Persuasion not proficient). Commander Fang (NPC, starting Stance: Suspicious, TN 16).
+**Participants.** Jinhai (Celestial Book, Presence 18, Persuasion not proficient). Commander Fang (NPC, starting Stance: Suspicious, TN 16).
 
-Host: "Commander Fang stands before the checkpoint gate, arms crossed. He is a broad shouldered man in polished armor. Behind him, a line of wagons waits for inspection. He looks at your approach without warmth. 'State your business,' he says."
+Host: "Commander Fang stands before the checkpoint gate, arms crossed. He is a man with broad shoulders in polished armor. Behind him, a line of wagons waits for inspection. He looks at your approach without warmth. 'State your business,' he says."
 
 Jinhai's player: "I step forward and bow formally. 'Commander Fang. My name is Scholar Jinhai of the Bureau of Celestial Inquiry. I am conducting research on the movement patterns of displaced populations. The records I have are incomplete. I was hoping you could assist me.' I am using my official position to establish legitimacy."
 
-This is a Persuade action to shift Stance. The Host determines the approach is reasonable. Jinhai rolls Presence + Persuasion (not proficient, just the modifier +3). d20 shows 12. Total: 15 against TN 16. Failure.
+This is a Persuade action to shift Stance. The Host determines the approach is reasonable. Jinhai rolls Presence + Persuasion (not proficient, just the modifier +4). d20 shows 11. Total: 15 against TN 16. Failure.
 
 Host: "Commander Fang's expression does not change. 'I have no interest in assisting Bureau research. My duty is to secure this checkpoint against Dusk contamination. If you have no official travel papers, you should move along.' His Stance remains Suspicious. He is not convinced."
 
@@ -1117,7 +1121,7 @@ Host: "Commander Fang's eyes narrow. He looks at you both for a long moment. The
 
 Jinhai's player: "'Because you have children, Commander. I see their drawings pinned to the wall of your office through the window there. You understand what it means to protect someone who cannot protect themselves.' I am appealing to his personal experience, not his doctrine."
 
-This is another Persuade action. The TN is now 12 (Neutral Stance). Jinhai rolls d20. Gets a 7. With Presence modifier (+3). Total: 10. Failure.
+This is another Persuade action. The TN is now 12 (Neutral Stance). Jinhai rolls d20. Gets a 6. With Presence modifier (+4). Total: 10. Failure.
 
 Host: "Something flickers in his eyes. Your observation about his children was accurate. But he shakes his head. 'My duty is to the empire. The empire's laws exist for a reason. If I make exceptions for one child, I must make exceptions for all. The checkpoint stays closed.' He is struggling. He wants to help. His doctrine will not let him."
 
@@ -1145,9 +1149,9 @@ Host: "Jaren's eyes narrow. 'You do not know where my family lives. You are gues
 
 Steelhand's player: "He is right. I will not hurt his family. I need a different approach. I stand up and pace. 'You are right. I will not touch your family. But the Commission for Celestial Purity will. If I release you, right now, and you walk out that door, the Commission will pick you up within a day. They know you work for the Crimson Lineage. They are just waiting for the right moment. I am not your enemy, Jaren. I am your only chance to get out ahead of this.'"
 
-This is Persuade, framing the party as the lesser evil. Steelhand rolls again. d20 shows 16. Total: 16 + 2 (Presence) + 2 (Intimidation proficiency, but this is persuasion not intimidation) = 20 against Hostile TN 20. Miss by 2.
+This is Persuade, framing the party as the less dangerous choice. Steelhand rolls again. d20 shows 14. He adds 2 for Presence and 2 for Persuasion proficiency, reaching 18 against Hostile TN 20.
 
-Actually, Intimidation proficiency doesn't apply here since this is persuasion. Recalculating: Steelhand has Presence 14 (+2 modifier), no Persuasion proficiency. Total: 16 + 2 = 18 against TN 20 (Hostile). Failure.
+Steelhand is proficient in Persuasion, but even his full total falls short. Total: 14 + 2 + 2 = 18 against TN 20 (Hostile). Failure.
 
 Host: "Jaren laughs. 'You think I do not know the Commission is watching me? I have known for months. I have been feeding them misinformation the whole time. Your threat is empty, and your offer is not an offer.' He leans back. He is enjoying this. You are not getting what you need from him."
 
@@ -1159,7 +1163,7 @@ Host: "You are not certain about the temple burning down last year. It might hav
 
 Jinhai's player: "I press the advantage. 'You are a liability to them. They do not protect liabilities. The only person in this room who can keep you alive is me.' I am making a Persuade attempt."
 
-Jinhai rolls. d20 shows 15. Jinhai has Presence 16 (modifier +3), not proficient in Persuasion. Total: 18 against TN 20 (Hostile). Still fails by 2.
+Jinhai rolls. d20 shows 14. Jinhai has Presence 18 (modifier +4), not proficient in Persuasion. Total: 18 against TN 20 (Hostile). Still fails by 2.
 
 Host: "Jaren is silent. He is thinking. Your words landed. But he does not speak. The Hostile Stance holds. He will not break in this conversation. You have planted a seed, but it will take time or another approach."
 
@@ -1167,7 +1171,7 @@ The interrogation has stalled. The party has not gotten the information, but the
 
 ### Social Encounter Example 3: Debate Before the Court
 
-**The Setup.** The party's patron, a reformist official named Lady Mei, has been accused of corruption by the Bright Mirror's Commission. The party has been called to testify in her defense before a panel of three judges. The courtroom is packed with officials, clerks, and observers. This is a formal debate with Social Standing at stake.
+**The Setup.** The party's patron, a reformist official named Lady Mei, has been accused of corruption by the Commission for Celestial Purity. The party has been called to testify in her defense before a panel of three judges. The courtroom is packed with officials, clerks, and observers. This is a formal debate with Social Standing at stake.
 
 **Participants.** Cinder (Night Warbler) as the primary speaker. Accuser Voss (Bright Mirror prosecutor, Presence 16, Persuasion proficient). Three judges (neutral, will rule based on which side makes the stronger case).
 
@@ -1179,7 +1183,7 @@ Accuser Voss makes a social attack. His Presence + Persuasion: d20 shows 14 + 3 
 
 Host: "Voss's evidence is compelling. The judges examine the documents. One of them, Judge Hwan, nods slowly. 'The records appear authentic,' he says. You can feel the room shifting against you. Take 4 Social Damage (1d6 rolled 2 + Presence modifier +3 = 5, but reduced by Cinder's defense of her argument)."
 
-Cinder's Social Standing: 13 -> 9.
+Cinder's Social Standing falls from 13 to 9.
 
 Cinder's player: "I step forward. 'Honored judges. The records are authentic. The payments were made. But the conclusion the Accuser draws is false. Lady Mei did fund a printing house. That printing house printed reformist pamphlets. But it also printed the official notices of this very court, the tax collection forms for three districts, and the educational primers for the Imperial Academy. The Accuser has presented one piece of a larger picture and asked you to see only that piece. I ask you to consider the whole.'"
 
@@ -1201,7 +1205,7 @@ Voss attacks again: d20 shows 8 + 3 + 2 = 13 against Cinder's position. Social d
 
 Host: "The question hangs in the air. The judges turn to you. Why that printing house? If you cannot answer, the accusation of deliberate support will stick."
 
-Cinder's player: "I was prepared for this. 'Lady Mei chose that printing house because it is the only one in the district that employs a full time proofreader. The educational primers for the Imperial Academy require precision. A single character error in an official text can change the meaning entirely. Lady Mei prioritized quality over optics. That is not corruption. That is diligence.'"
+Cinder's player: "I was prepared for this. 'Lady Mei chose that printing house because it is the only one in the district with a dedicated proofreader. The educational primers for the Imperial Academy require precision. A single character error in an official text can change the meaning entirely. Lady Mei prioritized quality over optics. That is not corruption. That is diligence.'"
 
 Cinder rolls Persuade. d20 shows 8. Total: 8 + 3 = 11 against TN 12. Failure. Cinder's Social Standing drops from 2 to 0. She is defeated in the debate.
 
@@ -1219,7 +1223,7 @@ Ritual Harmony measures your standing within the Celestial Court's orthodoxy. It
 
 | Score     | Designation | What It Means                                                                                                                                                   |
 | --------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 to 20   | Heterodox   | Under active investigation. The Bright Mirror's Commission is watching. Every action is scrutinized.                                                            |
+| 0 to 20   | Heterodox   | Under active investigation. The Commission for Celestial Purity is watching. Every action is scrutinized.                                                       |
 | 21 to 40  | Suspect     | Cannot hold official positions. Colleagues avoid you. Your mail is opened before delivery.                                                                      |
 | 41 to 60  | Acceptable  | Normal standing. Safe from casual scrutiny but vulnerable during Harmonization Audits.                                                                          |
 | 61 to 80  | Harmonious  | In good standing. Eligible for advancement. Protected in most Audits. People seek your endorsement.                                                             |
@@ -1252,7 +1256,7 @@ The following concrete examples show how specific actions at the table might aff
 
 1. A Bright Mirror publicly recites the Five Pillars of Orthodox Governance during a formal dinner. The performance is flawless. The other guests nod approvingly. (+2 Ritual Harmony, now 52.)
 
-2. A Cinnabar Heart notices a clerk in her department reading a reformist pamphlet. She reports the clerk to the Commission. The clerk is taken away. Her colleagues now fear her. (+5 Ritual Harmony, now 57. She has gained Ritual Harmony but lost trust.)
+2. A Cinnabar Heart notices a clerk in his department reading a reformist pamphlet. He reports the clerk to the Commission. The clerk is taken away. His colleagues now fear him. (+5 Ritual Harmony, now 57. He has gained Ritual Harmony but lost trust.)
 
 3. A Duke of Eternal Night donates a substantial sum to the Temple of Celestial Harmony, a known orthodox institution. The donation is recorded and publicized. (+3 Ritual Harmony, now 64.)
 
@@ -1260,7 +1264,7 @@ The following concrete examples show how specific actions at the table might aff
 
 5. A Celestial Book is asked to authenticate an ancient scroll for the Commission. She certifies the scroll as orthodox, even though she suspects it contains veiled criticism of the current regime. (+4 Ritual Harmony, now 63. She has compromised her scholarly integrity.)
 
-6. A Night Warbler provides information that leads to the arrest of a Dusk cult cell. The Bureau of Internal Harmony is pleased. (+5 Ritual Harmony, now 60. The cell's members may have information she needs.)
+6. A Night Warbler provides information that leads to the arrest of a Dusk cult cell. The Bureau of Internal Harmony is pleased. (+5 Ritual Harmony, now 60. The cell's members may have information he needs.)
 
 7. An Iron Bone participates in a public flagellation ritual during a holy festival, demonstrating his devotion. (+1 Ritual Harmony, now 48.)
 
@@ -1272,7 +1276,7 @@ The following concrete examples show how specific actions at the table might aff
 
 2. During a routine Harmonization Audit, an Iron Bone questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (-8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
 
-3. A Night Warbler shelters a Dusk refugee in her safe house for three nights. The refugee is a child. The risk of discovery is high. (-8 Ritual Harmony, now 32.)
+3. A Night Warbler shelters a Dusk refugee in his safe house for three nights. The refugee is a child. The risk of discovery is high. (-8 Ritual Harmony, now 32.)
 
 4. A Cinnabar Heart publishes a research paper that includes a factual correction to a widely distributed imperial census. The correction is accurate. It is also politically inconvenient for a faction that benefits from the error. (-15 Ritual Harmony, now 38.)
 
@@ -1282,7 +1286,7 @@ The following concrete examples show how specific actions at the table might aff
 
 7. A Guest Among Forests refuses to endorse an orthodox appointment, citing concerns about the candidate's qualifications. The refusal is seen as political rather than professional. (-6 Ritual Harmony, now 60.)
 
-8. A Bright Mirror's investigation of a corrupt official is blocked by political pressure. She withdraws the investigation. She is seen as weak. (-5 Ritual Harmony, now 55.)
+8. A Bright Mirror's investigation of a corrupt official is blocked by political pressure. He withdraws the investigation. He is seen as weak. (-5 Ritual Harmony, now 55.)
 
 9. A Shadow is caught breaking into the office of a Golden Orthodoxy official. The break was professional and left no trace except one: the official came back early. (-10 Ritual Harmony, now 25.)
 
@@ -1377,7 +1381,7 @@ When Sanity reaches 0, the character is permanently broken. They may become cata
 
 ## Chapter Twelve: Death and Legacy
 
-Death in the Violet Court is permanent. There are no resurrection spells, no divine interventions. When a character dies, their story ends. But the campaign continues.
+Death in the Violet Court is permanent. No Qi Technique restores the dead, and no divine intervention reverses death. When a character dies, their story ends. But the campaign continues.
 
 ### When a Character Dies
 
@@ -1439,7 +1443,7 @@ Level 9 is the ceiling of the advancement trees printed in the character dossier
 
 ### Currency
 
-The empire uses a system of jade tokens and paper notes:
+The empire uses four standard denominations:
 
 | Unit        | Value              | Physical Form     |
 | ----------- | ------------------ | ----------------- |
@@ -1456,47 +1460,47 @@ Characters begin with equipment from their Archetype plus 20 Copper Leaves for i
 
 ### Common Equipment
 
-| Item                  | Cost      | Notes                                                                                                                        |
-| --------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Traveler's Robes      | 5 Copper  | Basic clothing, unremarkable                                                                                                 |
-| Official's Attire     | 5 Silver  | Appropriate for Court functions                                                                                              |
-| Concealed Armor       | 3 Silver  | +1 Defense, concealable under clothing                                                                                       |
-| Rations (3 days)      | 1 Silver  | Compact, preserved food                                                                                                      |
-| Lantern and Oil       | 1 Silver  | Illuminates one Zone                                                                                                         |
-| Writing Kit           | 2 Silver  | Brushes, ink, paper for official correspondence                                                                              |
-| Medical Kit           | 5 Silver  | Grants Advantage on stabilization checks                                                                                     |
-| Qi Focus Talisman     | 10 Silver | +1 to Technique attack rolls                                                                                                 |
-| Forged Documents      | 1 Gold    | Variable quality                                                                                                             |
-| Fine Robes            | 1 Gold    | Silk garments suitable for high nobility                                                                                     |
-| Travel Cloak          | 3 Silver  | Heavy wool, waterproofed with wax                                                                                            |
-| Sturdy Boots          | 2 Silver  | Worn for months without failing                                                                                              |
-| Backpack              | 1 Silver  | Leather, holds a week of supplies                                                                                            |
-| Water Flask           | 5 Copper  | Sealed ceramic, keeps water cool                                                                                             |
-| Rope (20 feet)        | 3 Silver  | Hemp rope, braided, holds 400 pounds                                                                                         |
-| Grappling Hook        | 5 Silver  | Iron, three pronged, folds for carrying                                                                                      |
-| Signal Whistle        | 2 Copper  | Heard across three Zones                                                                                                     |
-| Tinderbox             | 1 Silver  | Flint, steel, and treated cloth                                                                                              |
-| Candle Pack (12)      | 2 Copper  | Burns for 2 hours each                                                                                                       |
-| Oil Flask             | 3 Silver  | Lamp oil, also flammable as a thrown weapon (1d4 fire damage)                                                                |
-| Crowbar               | 2 Silver  | Iron, grants Advantage on Might checks to force objects open                                                                 |
-| Lockpicks             | 3 Silver  | Grants proficiency in Larceny for picking locks (if not already proficient)                                                  |
-| Concealed Pocket Vest | 7 Silver  | Contains five hidden pockets. Vigilance check TN 18 to find them.                                                            |
-| Disguise Kit          | 2 Gold    | Wigs, paints, prosthetics. Grants Advantage on Deception checks when impersonating a specific person.                        |
-| Poison Counteragent   | 5 Silver  | Three doses. Grants Advantage on Fortitude checks against ingested poisons.                                                  |
-| Anti Dusk Salve       | 8 Silver  | Applied to the skin. Grants +2 to Resolve checks against Dusk exposure for one hour.                                         |
-| Codex of Common Law   | 1 Gold    | A reference book of imperial statutes. Grants Advantage on Lore checks involving legal matters.                              |
-| Sealed Ink and Paper  | 5 Silver  | High quality materials for official correspondence. Letters sealed with this kit cannot be opened without breaking the seal. |
-| Compass               | 3 Silver  | Points toward the capital. Useless within the Dusk.                                                                          |
-| Surgical Tools        | 2 Gold    | Sterilized steel. Grants Advantage on Medical Kit stabilization checks.                                                      |
-| Portable Alchemy Kit  | 3 Gold    | Compact. Allows brewing of basic potions during rest (requires Craft proficiency).                                           |
-| Fine Perfume          | 1 Silver  | A small vial. Grants Advantage on Presence checks in social situations where presentation matters.                           |
-| Prayer Beads          | 1 Silver  | Carved jade beads. Helps with meditation. Grants +1 Qi recovery during short rests.                                          |
-| Notebook with Lock    | 3 Silver  | Small leather bound book with a brass lock.                                                                                  |
-| Spice Pouch           | 2 Copper  | Mixed spices. Makes bland rations palatable. A small comfort.                                                                |
-| Tea Set (Travel)      | 5 Silver  | Ceramic pot and two cups, wrapped in cloth. Essential for conducting polite business.                                        |
-| Ink and Brush Set     | 1 Silver  | Basic writing tools.                                                                                                         |
-| Map of the Capital    | 2 Silver  | Hand drawn, reasonably accurate. Covers the Inner City and main districts.                                                   |
-| Small Lockbox         | 1 Gold    | Iron box with a quality lock (TN 15 to pick). Protects documents from casual theft.                                          |
+| Item                  | Cost      | Notes                                                                                                                |
+| --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------- |
+| Traveler's Robes      | 5 Copper  | Basic clothing, unremarkable                                                                                         |
+| Official's Attire     | 5 Silver  | Appropriate for Court functions                                                                                      |
+| Concealed Armor       | 3 Silver  | +1 Defense, concealable under clothing                                                                               |
+| Rations (3 days)      | 1 Silver  | Compact, preserved food                                                                                              |
+| Lantern and Oil       | 1 Silver  | Illuminates one Zone                                                                                                 |
+| Writing Kit           | 2 Silver  | Brushes, ink, paper for official correspondence                                                                      |
+| Medical Kit           | 5 Silver  | Grants Advantage on stabilization checks                                                                             |
+| Qi Focus Talisman     | 10 Silver | +1 to Technique attack rolls                                                                                         |
+| Forged Documents      | 1 Gold    | Variable quality                                                                                                     |
+| Fine Robes            | 1 Gold    | Silk garments suitable for high nobility                                                                             |
+| Travel Cloak          | 3 Silver  | Heavy wool, waterproofed with wax                                                                                    |
+| Sturdy Boots          | 2 Silver  | Worn for months without failing                                                                                      |
+| Backpack              | 1 Silver  | Leather, holds a week of supplies                                                                                    |
+| Water Flask           | 5 Copper  | Sealed ceramic, keeps water cool                                                                                     |
+| Rope (20 feet)        | 3 Silver  | Hemp rope, braided, holds 400 pounds                                                                                 |
+| Grappling Hook        | 5 Silver  | Iron, three pronged, folds for carrying                                                                              |
+| Signal Whistle        | 2 Copper  | Heard across three Zones                                                                                             |
+| Tinderbox             | 1 Silver  | Flint, steel, and treated cloth                                                                                      |
+| Candle Pack (12)      | 2 Copper  | Burns for 2 hours each                                                                                               |
+| Oil Flask             | 3 Silver  | Lamp oil, also flammable as a thrown weapon (1d4 fire damage)                                                        |
+| Crowbar               | 2 Silver  | Iron, grants Advantage on Might checks to force objects open                                                         |
+| Lockpicks             | 3 Silver  | Grants proficiency in Larceny for picking locks (if not already proficient)                                          |
+| Concealed Pocket Vest | 7 Silver  | Contains five hidden pockets. Vigilance check TN 18 to find them.                                                    |
+| Disguise Kit          | 2 Gold    | Wigs, paints, prosthetics. Grants Advantage on Deception checks when impersonating a specific person.                |
+| Poison Counteragent   | 5 Silver  | Three doses. Grants Advantage on Fortitude checks against ingested poisons.                                          |
+| Dusk Ward Salve       | 8 Silver  | Applied to the skin. Grants +2 to Resolve checks against Dusk exposure for one hour.                                 |
+| Codex of Common Law   | 1 Gold    | A reference book of imperial statutes. Grants Advantage on Lore checks involving legal matters.                      |
+| Sealed Ink and Paper  | 5 Silver  | Fine materials for official correspondence. Letters sealed with this kit cannot be opened without breaking the seal. |
+| Compass               | 3 Silver  | Points toward the capital. Useless within the Dusk.                                                                  |
+| Surgical Tools        | 2 Gold    | Sterilized steel. Grants Advantage on Medical Kit stabilization checks.                                              |
+| Portable Alchemy Kit  | 3 Gold    | Compact. Allows brewing of basic potions during rest (requires Craft proficiency).                                   |
+| Fine Perfume          | 1 Silver  | A small vial. Grants Advantage on Presence checks in social situations where presentation matters.                   |
+| Prayer Beads          | 1 Silver  | Carved jade beads. Helps with meditation. Grants +1 Qi recovery during short rests.                                  |
+| Notebook with Lock    | 3 Silver  | Small book bound in leather with a brass lock.                                                                       |
+| Spice Pouch           | 2 Copper  | Mixed spices. Makes bland rations palatable. A small comfort.                                                        |
+| Tea Set (Travel)      | 5 Silver  | Ceramic pot and two cups, wrapped in cloth. Essential for conducting polite business.                                |
+| Ink and Brush Set     | 1 Silver  | Basic writing tools.                                                                                                 |
+| Map of the Capital    | 2 Silver  | Hand drawn, reasonably accurate. Covers the Inner City and main districts.                                           |
+| Small Lockbox         | 1 Gold    | Iron box with a quality lock (TN 15 to pick). Protects documents from casual theft.                                  |
 
 ### Services
 
@@ -1539,7 +1543,7 @@ Characters who maintain a consistent lifestyle pay these costs per week:
 | Modest       | 2 Silver       | A private room in a boarding house, three meals a day, basic clothing, occasional tea                                          |
 | Comfortable  | 1 Gold         | A small apartment, good food, decent clothing, a servant once a week, ability to entertain guests modestly                     |
 | Wealthy      | 5 Gold         | A townhouse or estate apartment, fine clothing, personal servants, ability to host dinners, access to exclusive establishments |
-| Aristocratic | 20 Gold        | A manor or estate, full staff, court quality attire, private transportation, invitations to every significant event            |
+| Aristocratic | 20 Gold        | A manor or estate, full staff, attire fit for Court, private transportation, invitations to every significant event            |
 
 A character who maintains a lifestyle above their means draws attention. A clerk living at Wealthy level will be investigated. A noble living at Modest level will be pitied and then targeted.
 
@@ -1554,7 +1558,7 @@ The black market operates in the outer districts and the tunnels beneath the cit
 | Item                          | Black Market Cost | Notes                                                                                        |
 | ----------------------------- | ----------------- | -------------------------------------------------------------------------------------------- |
 | Unregistered Weapon           | 2x list price     | No serial marks, cannot be traced                                                            |
-| Poison                        | 10 to 50 Silver   | Varies by type: slow acting, fast acting, paralytic, hallucinogenic                          |
+| Poison                        | 10 to 50 Silver   | Varies by type: gradual, rapid, paralytic, or hallucinogenic                                 |
 | Dusk Artifact                 | Priceless         | Usually traded for favors rather than coin. Extremely dangerous.                             |
 | Forged Identity Papers        | 5 to 20 Gold      | Quality determines durability under scrutiny                                                 |
 | Restricted Archive Document   | 10 to 50 Gold     | Cost depends on the document's significance                                                  |
@@ -1594,7 +1598,7 @@ At 0 HP: Endurance check TN 15 each turn. Three failures = death. Stabilize with
 
 0 to 20 Heterodox | 21 to 40 Suspect | 41 to 60 Acceptable | 61 to 80 Harmonious | 81 to 100 Exemplary
 
-### Social Stance
+### Social Stance at a Glance
 
 Hostile TN 20 | Suspicious TN 16 | Neutral TN 12 | Receptive TN 10 | Allied TN 8
 
@@ -1644,7 +1648,7 @@ Host: "Chen's hands freeze on the jar he is packing. He does not turn around. 'I
 
 Cinder's player: "I hang back in the shadow of the fortune teller's tent. I watch the surrounding area. I am looking for anyone watching Chen or watching us. I make a Vigilance check."
 
-The Host sets the TN at 12. Cinder rolls d20 + Resolve modifier (+1) + proficiency in Vigilance (+2). d20 shows 16. Total: 19. Success.
+The Host sets the TN at 12. Cinder rolls d20 + Resolve modifier (+2). She is not proficient in Vigilance. d20 shows 16. Total: 18. Success.
 
 Host: "You see them. Two figures at the far end of the alley, partially hidden behind a stacked cart of melons. They are not shopping. They are watching this stall. One of them has his hand inside his coat, gripping something."
 
@@ -1656,7 +1660,7 @@ Host: "You slip behind a stack of empty crates, then behind the bird shop's awni
 
 Steelhand's player: "I stay visible. I walk up to Chen's stall openly, as if I am just another customer. I say, 'Old Chen. I am not here to cause trouble. But those two at the end of the alley might be. Do you know them?' I am trying to get information before things escalate."
 
-Steelhand makes a Presence + Persuasion check. He is not proficient in Persuasion. d20 shows 11 + Presence modifier (+0) = 11 against Chen's starting Stance of Suspicious (TN 16). Failure.
+Steelhand makes a Presence + Persuasion check. He is proficient in Persuasion. d20 shows 10 + Presence modifier (+2) + proficiency (+2) = 14 against Chen's starting Stance of Suspicious (TN 16). Failure.
 
 Host: "Chen glances at the end of the alley and his face goes pale. 'I do not know them. I do not want to know them. Please. Leave. Take your questions somewhere else.' He starts packing faster, fumbling with the jars. He is going to flee."
 
@@ -1684,13 +1688,13 @@ Host: "The man with the knife says, 'You are interfering with a Commission opera
 
 Jinhai's player: "I use Glimmer of Truth to confirm."
 
-Jinhai spends 2 Qi (18 down to 16 remaining). She gains Advantage on Insight checks for one minute.
+Jinhai spends 2 Qi (23 down to 21 remaining). She gains Advantage on Insight checks for one minute.
 
 Host: "Your vision shimmers gold. The man claims to be Commission. You watch him as he speaks. The shimmer flickers. He is lying. He is not Commission."
 
 Steelhand's player: "I step forward, putting myself between Chen and the watchers. 'You are not Commission. You do not have the bearing, you do not have the credentials, and you are wearing the wrong kind of boots. Commission agents wear regulation boots. Yours are civilian. You are kidnappers pretending to be law. And you have picked the wrong alley.'"
 
-Steelhand makes an Intimidation check. d20 shows 14 + Might modifier (+2) + proficiency in Intimidation (+2) = 18 against the watchers' Resolve + Discipline (assumed TN 14). Success.
+Steelhand makes an Intimidation check. d20 shows 14 + Might modifier (+4) + proficiency in Intimidation (+2) = 20 against the watchers' Resolve + Discipline (assumed TN 14). Success.
 
 Host: "The watchers hesitate. They were expecting easy prey. They were not expecting someone who would fight back. The one with the knife takes a step back. 'This is not over,' he says. They retreat around the corner and are gone."
 
@@ -1734,7 +1738,7 @@ Create a new character. The new character inherits the knowledge your previous c
 
 **How long does a campaign last?**
 
-A full campaign of the Violet Court Fragments typically runs 12 to 20 sessions, or about three to six months of regular play. Shorter stories and one session adventures are also possible.
+A full campaign of the Violet Court Fragments typically runs 12 to 20 sessions, or about three to six months of regular play. Shorter stories and adventures designed for one session are also possible.
 
 **Do I need to read the whole rulebook?**
 
@@ -1750,7 +1754,7 @@ The twelve Archetypes are designed to cover the major roles in the Celestial Cou
 
 **What dice do I need?**
 
-You need one twenty sided die (d20) for most actions, and a few six sided dice (d6) and eight sided dice (d8) for damage and healing. Most players own a full set of polyhedral dice. A single d20 is enough to start.
+You need one d20 for most actions, and a few d6 and d8 dice for damage and healing. Most players own a full set of polyhedral dice. A single d20 is enough to start.
 
 **How do I know when to roll?**
 
@@ -1800,7 +1804,7 @@ A session should have peaks and valleys. Intense scenes (combat, interrogation, 
 
 Players will do things you did not plan for. This is normal and good.
 
-**When a player asks about something you have not prepared.** Do not panic. Describe something plausible. If they ask what is in a drawer you did not plan, say "old receipts and a dried up ink bottle." If they need more, they will ask follow up questions.
+**When a player asks about something you have not prepared.** Do not panic. Describe something plausible. If they ask what is in a drawer you did not plan, say "old receipts and a dried up ink bottle." If they need more, they will ask further questions.
 
 **When a player wants to pursue a side quest.** Let them. The main plot will wait. Sometimes the side quest reveals something useful for the main plot. Sometimes it is just a fun diversion.
 
@@ -1853,7 +1857,7 @@ The capital city is the primary setting for most Violet Court campaigns. This ap
 
 ### The Inner City
 
-The Inner City is surrounded by the White Wall, a fifty foot barrier of polished marble that has never been breached. Within it stand the government buildings, the Imperial Palace (empty of the Emperor but full of administrators), and the residences of the high nobility.
+The Inner City is surrounded by the White Wall, a barrier of polished marble fifty feet high that has never been breached. Within it stand the government buildings, the Imperial Palace (empty of the Emperor but full of administrators), and the residences of the high nobility.
 
 **The Celestial Court.** The sprawling complex where the six schools maintain their headquarters. A maze of halls, gardens, and audience chambers. Every corridor has a political dimension. Every doorway leads to a potential ally or enemy.
 
@@ -1863,9 +1867,9 @@ The Inner City is surrounded by the White Wall, a fifty foot barrier of polished
 
 ### The Middle City
 
-The ring between the inner and outer walls. Home to merchants, skilled artisans, mid ranking officials, and the offices of the major guilds.
+The ring between the inner and outer walls. Home to merchants, skilled artisans, officials in the middle ranks, and the offices of the major guilds.
 
-**The Market of Whispers.** The largest open air market in the capital. Anything can be bought here if you know the right vendor. The market has its own laws and its own enforcers. The City Guard does not patrol here.
+**The Market of Whispers.** The largest market under the open sky in the capital. Anything can be bought here if you know the right vendor. The market has its own laws and its own enforcers. The City Guard does not patrol here.
 
 **The Iron District.** The domain of the State Planning Commission. Factories, forges, and workshops produce the goods that keep the empire running. The air smells of coal and metal. The workers move in shifts, day and night.
 
@@ -1909,7 +1913,7 @@ Every adventure can be built by answering three questions:
 
 ### Adventure Structure
 
-A one session adventure follows this shape:
+An adventure designed for one session follows this shape:
 
 1. **Hook (10 minutes).** The players receive a call to action. A messenger, a discovery, an explosion, a request from an ally.
 
@@ -1927,7 +1931,7 @@ A one session adventure follows this shape:
 
 **Investigation.** The bell was forged from ore mined in a province that has since fallen to the Dusk. Someone recently applied a substance to the bell's inner surface that weakened the metal. The substance can be traced to a specific alchemist in the Middle City.
 
-**Complication.** The alchemist is already dead. Killed before the players can question them. Their workshop has been searched. A note with a single word is found: "Archives."
+**Complication.** The alchemist is already dead, killed before the players can question him. His workshop has been searched. A note with a single word is found: "Archives."
 
 **Climax.** The trail leads to the Imperial Archives. Someone is trying to access a record of the bell's original consecration ceremony, which may contain a secret that the Golden Orthodoxy has spent centuries burying.
 
@@ -1985,7 +1989,7 @@ A one session adventure follows this shape:
 
 **Truth.** A secret your character carries that complicates their relationship with the Court.
 
-**Zone.** An abstract area used in combat. Movement between Zones replaces grid based positioning.
+**Zone.** An abstract area used in combat. Movement between Zones replaces positioning on a grid.
 
 ---
 
@@ -2013,7 +2017,7 @@ Beyond the basic social actions, characters can attempt specialized maneuvers:
 
 Social actions work differently in public and private settings.
 
-**Private.** In a one on one conversation, shifts in Stance are genuine. The target walks away believing what you convinced them of. Consequences are personal.
+**Private.** In a private conversation, shifts in Stance are genuine. The target walks away believing what you convinced them of. Consequences are personal.
 
 **Public.** In a crowd or court setting, shifts in Stance are performative. The target may be convinced publicly but remain skeptical privately. Public arguments also affect the audience's perception. A player who wins a public debate gains +2 to their next social action with anyone who witnessed the debate.
 
@@ -2034,7 +2038,7 @@ Each Archetype begins with specific equipment. Here are the starting packages:
 
 **Cinnabar Heart.** Official's robes, alchemy kit (portable), writing kit, Qi Focus Talisman, medical kit, 20 Copper Leaves.
 
-**Night Warbler.** Dark cloak, concealed armor, two hidden blades, lockpicks, disguise kit, 20 Copper Leaves.
+**Night Warbler.** Dark cloak, concealed armor, two hidden blades, six daggers, grappling hook and silk rope, forged identification papers, 15 Copper Leaves.
 
 **Guest Among Forests.** Traveler's robes, staff, survival kit (rations, water flask, tinderbox, rope), preserved herbs from the Northern Expanse, 20 Copper Leaves.
 
@@ -2106,15 +2110,15 @@ Timekeeping in the empire follows an ancient calendar divided into Seasons and F
 
 ## Appendix S: Example Characters
 
-These pre generated characters can be used for one shot sessions or as templates for new players.
+These example characters are ready to use in games lasting one session or as templates for new players.
 
 **Ember of the Ashen Dawn (Night Warbler).** A courier who carries messages for the Bureau of Internal Harmony. Ember is twenty two years old, quick with a blade and quicker with a lie. She was recruited from the streets at age twelve. She has never lost a package. She has started reading the messages she carries. She has started to wonder what kind of person her employer truly is. Might 14, Swiftness 18, Endurance 14, Intellect 16, Presence 10, Resolve 16.
 
 **Steady Hand Zheng (Iron Wall).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 18, Intellect 12, Presence 16, Resolve 14.
 
-**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of her purpose. She believes the system works. She has not yet encountered a case that made her doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
+**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made his doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
 
-**Old Moss (Guest Among Forests).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers when the Emperor last spoke. She remembers what he said. Might 10, Swiftness 16, Endurance 14, Intellect 16, Presence 16, Resolve 16.
+**Old Moss (Guest Among Forests).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers the Emperor's last public judgment in Year 287 and the words He spoke before the assembled Court. Might 10, Swiftness 16, Endurance 14, Intellect 16, Presence 16, Resolve 16.
 
 **Broken Bell (Iron Bone).** A former Commission interrogator who defected to the Red Banner Revival after a case broke his faith in the system. Broken Bell is thirty five, haunted, and looking for redemption through revolution. Might 18, Swiftness 14, Endurance 16, Intellect 14, Presence 14, Resolve 12.
 
@@ -2148,7 +2152,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Philosophy.** The empire must be governed according to ancient tradition. Change is corruption. Innovation is dangerous. The Golden Orthodoxy believes the Emperor's silence is a test of faith. Those who wait patiently will be rewarded. Those who seek answers are heretics.
 
-**Leader.** The Director of the Bureau of Harmonious Narrative, a Cinnabar Heart named Lady Radiant Grace.
+**Leader.** Cinnabar Heart, Director of the Bureau of Harmonious Narrative.
 
 **Allies.** The Commission for Celestial Purity (Bright Mirror). The Imperial Garrison Command (Iron Wall), though the relationship is strained by the Garrison's practical concerns.
 
@@ -2162,7 +2166,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Philosophy.** The empire was founded by great families whose blood carries the empire's strength. Governance is a matter of breeding and inheritance. Commoners cannot rule. The Emperor's silence is a tragedy that must be resolved by finding or creating a worthy heir.
 
-**Leader.** The Grand Council Elder, a Duke of Eternal Night known only as the Crimson Voice.
+**Leader.** The Duke of Eternal Night, a Grand Council Elder and patriarch of the Crimson Lineage.
 
 **Allies.** The Iron Calculation school (they fund each other's projects). Several independent noble houses.
 
@@ -2176,7 +2180,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Philosophy.** The empire belongs to all its people, not just the nobility and the orthodox. The Emperor's silence is an opportunity to reform the empire into something better. The Crimson Dusk is a natural consequence of the empire's sins against the common people.
 
-**Leader.** The organizer of the Red Banner Revival movement, an Iron Bone named Blazing Thorn.
+**Leader.** Iron Bone, organizer of the Red Banner Revival movement.
 
 **Allies.** Informal networks of reformers, disaffected officials, and provincial leaders who feel ignored by the capital.
 
@@ -2190,7 +2194,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Philosophy.** The empire is a machine. Every part must function efficiently. Sentiment, tradition, and bloodlines are irrelevant. Only results matter. The Emperor's silence is a management problem. If the machine is maintained, it can run without an Emperor indefinitely.
 
-**Leader.** The Director of the State Planning Commission, an Iron Calculation artificer named Cog Prime.
+**Leader.** Iron Calculation, Director of the State Planning Commission.
 
 **Allies.** The Crimson Lineage (pragmatic partnership). Any faction that can provide resources or access.
 
@@ -2202,9 +2206,9 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Symbol.** A mirror that reflects only the viewer's eyes.
 
-**Philosophy.** Purity must be enforced. The empire's laws exist to maintain cosmic order. Those who break the laws threaten the stability of reality itself. The Emperor's silence is likely the result of insufficient purity among his subjects.
+**Philosophy.** Purity must be enforced. The empire's laws exist to maintain cosmic order. Those who break the laws threaten the stability of reality itself. The Emperor's silence is likely the result of insufficient purity among His subjects.
 
-**Leader.** The High Justicar of the Commission for Celestial Purity, a Bright Mirror named Verdict Unspoken.
+**Leader.** Bright Mirror, High Justicar of the Commission for Celestial Purity.
 
 **Allies.** The Golden Orthodoxy (shared interest in enforcing orthodoxy).
 
@@ -2218,7 +2222,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Philosophy.** The empire is part of the natural world, not separate from it. The Crimson Dusk is a wound in reality caused by the empire's disconnection from nature. Healing the empire means healing the land first. Politics is a distraction.
 
-**Leader.** The Representative of the Northern Expanse, a Guest Among Forests named Root of the Mountain.
+**Leader.** Guest Among Forests, Representative of the Northern Expanse and Voice of the Verdant Path.
 
 **Allies.** No permanent allies. The Verdant Path cooperates with anyone who advances ecological healing.
 
@@ -2282,7 +2286,7 @@ Combat is not a white room. The environment matters. Encourage players and enemi
 
 **Cover.** Objects in a Zone provide cover. Attacking a target behind cover imposes Disadvantage. Partial cover (a low wall, a table tipped on its side) grants +2 Defense. Full cover (a pillar, a door frame) grants +4 Defense.
 
-**Hazards.** Fire, toxic fog, collapsing structures, and Dusk saturated areas can be used tactically. A character can use their Action to trigger a hazard in an adjacent Zone. This requires a relevant check (Might + Athletics to collapse a pillar, Intellect + Lore to activate a ritual ward).
+**Hazards.** Fire, toxic fog, collapsing structures, and areas saturated with Dusk can be used tactically. A character can use their Action to trigger a hazard in an adjacent Zone. This requires a relevant check (Might + Athletics to collapse a pillar, Intellect + Lore to activate a ritual ward).
 
 **Darkness and light.** In dim light, attacks at range have Disadvantage. In total darkness, melee attacks have Disadvantage and ranged attacks are impossible. A lantern illuminates the user's Zone and adjacent Zones.
 
@@ -2310,7 +2314,7 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 **Sleepwine.** A mild sedative. A dose induces deep sleep for 4 to 6 hours. Difficult to wake the drinker during that time. Costs 5 Silver per dose.
 
-**Stimulant Powder.** Ground from a rare mountain root. Keeps the user awake and alert for 8 hours. After the effect fades, the user suffers a level of exhaustion. Costs 3 Silver per dose.
+**Stimulant Powder.** Ground from a rare mountain root. Keeps the user awake and alert for 8 hours. After the effect fades, the user has Disadvantage on Endurance checks until completing a short rest. Costs 3 Silver per dose.
 
 **Clarity Incense.** Burned during meditation. Restores an additional 1d4 Qi during a short rest. Costs 2 Gold per stick.
 
@@ -2344,7 +2348,7 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 The Celestial Qi that flows through all things can be manipulated by skilled practitioners. In some locations, Qi behaves unpredictably.
 
-### Qi Rich Environments
+### Environments Rich in Qi
 
 In certain places, Qi is abundant and active:
 
@@ -2392,11 +2396,11 @@ Once human. The Dusk consumed their inner selves, leaving only the shell. Hollow
 
 Forms of condensed Dusk energy that resemble humanoid shapes made of smoke and regret. They do not attack physically. They whisper the victim's worst memories into their mind, dealing Sanity damage.
 
-**Defense.** 14. **HP.** 8. **Attacks.** Memory Drain (1d8 Sanity damage, ignores physical armor). **Special.** Whisper Wraiths are immune to non magical damage. Only Qi Techniques, fire, or blessed weapons can harm them. They are vulnerable to loud sounds (a bell, an explosion): stunning them for one round.
+**Defense.** 14. **HP.** 8. **Attacks.** Memory Drain (1d8 Sanity damage, ignores physical armor). **Special.** Whisper Wraiths are immune to ordinary physical damage. Only Qi Techniques, fire, or blessed weapons can harm them. A loud sound, such as a bell or an explosion, stuns them for one round.
 
 ### The Rooted
 
-Humans who spent too long in Dusk saturated areas. Their bodies have partially fused with the surrounding environment. They cannot move far from their anchor point, but within that radius, they control the terrain itself.
+Humans who spent too long in areas saturated with Dusk. Their bodies have partially fused with the surrounding environment. They cannot move far from their anchor point, but within that radius, they control the terrain itself.
 
 **Defense.** 12. **HP.** 25. **Attacks.** Vine Lash (1d8, can target anyone in the same Zone or adjacent Zone). **Special.** The Rooted can cause the ground in its Zone to become difficult terrain. It can also create a wall of thorns (5 HP, blocks movement between Zones). Destroying the Rooted's anchor (a specific object or location in their Zone) halves its HP and prevents it from using terrain abilities.
 
@@ -2454,8 +2458,8 @@ The Celestial Court has a complex system of address:
 
 - "Honored" for officials of equal or slightly higher rank.
 - "Radiant" for senior officials of the Golden Orthodoxy.
-- "Revered" for members of the Bright Mirror's Commission.
-- "Elder" for long lived beings and senior faction leaders.
+- "Revered" for members of the Commission for Celestial Purity.
+- "Elder" for beings with exceptionally long lives and senior faction leaders.
 - "Cousin" among nobles of equal standing.
 - "Friend" among members of the same faction.
 - No title at all for those of lower rank, unless one wishes to be insulting.

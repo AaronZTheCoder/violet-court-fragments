@@ -8,15 +8,17 @@
 
 ### Court Role: Officiant of the Rites the Court Cannot Perform
 
+### Default Gender: Female
+
 ---
 
 ## Description
 
-You wear a crown of pierced silver and river jade, hung with drops that chime at a frequency chosen four hundred years ago to be inaudible to anyone standing further than three paces away. Beneath it, a veil of unbleached silk. Around your throat, six strands of turquoise, amber, and carnelian, each one a completed rite. Your gown is white, which in the Nine Domains is the color of mourning, embroidered at the placket and hem in cinnabar red and gold thread in a pattern that predates the imperial script and has never been satisfactorily translated.
+You wear a crown of pierced silver and river jade, hung with drops that chime at a frequency chosen four hundred years ago to be inaudible to anyone standing further than three paces away. Beneath it, a veil of unbleached silk. Around your throat, six strands of turquoise, amber, and carnelian, each marking one completed stage of your ordination. Your gown is white, which in the Nine Domains is the color of mourning, embroidered at the placket and hem in cinnabar red and gold thread in a pattern that predates the imperial script and has never been satisfactorily translated.
 
 You are beautiful in a way that is entirely constructed and entirely deliberate. Every element of what people see when they look at you was designed, by people long dead, to produce a specific effect on the nervous system of a frightened human being. It works. It has worked for eight centuries. You are the instrument, and you are also the only person alive who knows precisely how the instrument is built.
 
-The Celestial Court is three hundred years into governing without its Emperor. It can seize, tax, imprison, and erase. It has never once managed to manufacture legitimacy. Twice a year it needs a rite performed that predates the Founding Charter, and there are nine people left in the Nine Domains who can perform it correctly, and you are the youngest of them by forty years.
+The Celestial Court has governed without a public word from its Emperor for about one hundred and sixty four years. It can seize, tax, imprison, and erase. It has never once managed to manufacture legitimacy. Twice a year it needs a rite performed that predates the Founding Charter, and there are nine people left in the Nine Domains who can perform it correctly. You are the youngest by more than forty years.
 
 This makes you untouchable. It also makes you a hostage. You have never been entirely certain which is the larger fact.
 
@@ -34,7 +36,7 @@ You had just received the ninth year teaching. You had worked out the arithmetic
 
 You said so. Repeatedly. To her, at length, with citations.
 
-She let you. For six years she let you argue, and she answered when the argument was good and did not when it was not, and she never once used her authority to stop you, and you did not recognize that as an extraordinary act of patience until you were about thirty five.
+She let you. For six years she let you argue, and she answered when the argument was good and did not when it was not, and she never once used her authority to stop you. You did not recognize that as an extraordinary act of patience until your early thirties.
 
 You would like it recorded somewhere that you were not always this composed. There was a version of you that shouted.
 
@@ -42,13 +44,13 @@ You would like it recorded somewhere that you were not always this composed. The
 
 She died at ninety one, four years ago. In the last hour she told you she had never believed a word of it and had never once performed it carelessly, and that these two facts were the whole of her teaching. Then she asked for water and died.
 
-What is not in your usual account of this: you were angry. Not moved. Angry, for months, because she had held that back for thirty years and delivered it as a parting gift when there was no time to ask her a single follow up question, and you have come to understand that this was deliberate, and you are still not sure it was kind.
+What is not in your usual account of this: you were angry. Not moved. Angry, for months, because she had held that back for most of your life and delivered it as a parting gift when there was no time to ask her even one more question. You have come to understand that this was deliberate, and you are still not sure it was kind.
 
 **What the crown is like from inside.** You are the instrument and you know precisely how the instrument is built.
 
 You also enjoy it. That is the part omitted from every account of you, including your own.
 
-You are beautiful and you know the effect and you deploy it, and the deployment is a skill you have refined for twenty years, and there is a real pleasure in walking into a room of powerful men and watching the temperature change before you have said anything. You would not describe this as vanity because you have constructed a professional frame around it. It is vanity.
+You are beautiful and you know the effect and you deploy it, and the deployment is a skill you have refined across eleven years of public rites. There is a real pleasure in walking into a room of powerful men and watching the temperature change before you have said anything. You would not describe this as vanity because you have constructed a professional frame around it. It is vanity.
 
 The first time you used a procedural question to destroy a case, you felt a satisfaction so sharp it alarmed you. It has not stopped feeling good. You are careful about that and you are not sure careful is enough.
 
@@ -128,7 +130,7 @@ You are famously gracious under insult; a hostile censor can say anything and yo
 
 **White Reed and Little Pine, your attendants and informants.** Twenty two and seventeen. They report on you weekly to the Commission and you have known since the first week and have never mentioned it. You have taught them both to read. You feed Little Pine harmless truths to file so that her reports stay useful and she stays employed. You are aware that you have made yourself responsible for the welfare of your own surveillance, and that this is either an act of grace or a very sophisticated form of control, and that you cannot tell from inside.
 
-**The Bright Mirror, High Justicar.** She holds the standing order to close the Temple and has not executed it in thirteen years. You have met eleven times, always formally, always with witnesses. Neither of you has ever said anything that could be written down. You believe she is the only genuinely honest person in the Grand Council's orbit, you believe she will destroy the Temple the day the arithmetic changes, and you believe she will be right to and will not forgive herself. You have prayed for her, privately, by name, and would be humiliated if she learned it.
+**The Bright Mirror, High Justicar.** He holds the standing order to close the Temple and has not executed it in thirteen years. You have met eleven times, always formally, always with witnesses. Neither of you has ever said anything that could be written down. You believe he is the only genuinely honest person in the Grand Council's orbit, you believe he will destroy the Temple the day the arithmetic changes, and you believe he will be right to and will not forgive himself. You have prayed for him, privately, by name, and would be humiliated if he learned it.
 
 **The Duke of Eternal Night.** He attended your first Continuance. Afterward he said, "Nine Bells put the rising tone on the eighth phrase. Her teacher did not." He was present when her teacher performed it. He is the only living witness to a version of the rite older than your entire lineage, and he will not tell you which was correct, and you have come to understand that he does not know either, and that this is the closest thing to comfort anyone has offered you.
 
@@ -148,7 +150,7 @@ You speak slowly and you never fill silence. Silence is your primary instrument.
 
 You are physically still. Trained stillness, ritual stillness, the kind that reads as serenity to observers and is actually enormous sustained effort. Your tell is the third strand of your necklace: when you are calculating, you move one bead. Your attendants have noticed. The Commission has not, because the Commission watches your face.
 
-Play the contradiction and refuse to resolve it. You are a collaborator. You stand beside the Grand Council and lend them the legitimacy they cannot make. You are also running the only functional sanctuary in the capital. Neither of these cancels the other. Do not let the table push you toward being secretly good or secretly compromised. You are publicly compromised and privately decent and the two are load bearing for each other: the collaboration is what makes the sanctuary possible.
+Play the contradiction and refuse to resolve it. You are a collaborator. You stand beside the Grand Council and lend them the legitimacy they cannot make. You are also running the only functional sanctuary in the capital. Neither of these cancels the other. Do not let the table push you toward being secretly good or secretly compromised. You are publicly compromised and privately decent, and each truth makes the other possible: the collaboration is what makes the sanctuary possible.
 
 You do not know if you believe. Play this as a genuinely open question rather than as concealed atheism. Something answered Ash in the shrine. You have knelt at that door twenty two times. You are not a skeptic pretending. You are a person who has deliberately declined to look directly at the thing at the center of her own life, because she suspects that looking would require her to choose, and choosing would end the arrangement that keeps forty one people alive.
 
@@ -193,7 +195,7 @@ Nothing supernatural occurs. You are almost certain nothing supernatural occurs.
 ## Expanded Truths
 
 **Truth One: The rite has an answer.** The Continuance is not a commemoration. You ask a question at a sealed door and you report the answer, and the Court believes the answer is a formula.
-_Complication:_ The answer has changed. It changed four years ago, at your eighth performance. It has been the same new answer three times since. You have reported the old formula each time, because reporting the change would require you to explain how you know there is a difference.
+_Complication:_ The answer changed four years ago, at your fifteenth performance. It has given the same new answer at every Continuance since. You have reported the old formula each time, because reporting the change would require you to explain how you know there is a difference.
 
 **Truth Two: You are hiding people.** The undercroft of the shrine of the drowned currently holds six. It has held as many as nineteen.
 _Complication:_ One of the six is not who they claim to be. You have known for two weeks. You have not yet decided whether they are Commission, a rival school, or something worse, and every day you do not decide is a day the other five are exposed.
@@ -294,7 +296,7 @@ Once per session, when you are formally accused, detained, sanctioned, or subjec
 
 ### Sanctuary of the Ten Thousand
 
-_The Temple is open to everyone. That is not a slogan. It is a load bearing structural fact._
+_The Temple is open to everyone. That is not a slogan. It is a structural fact on which everything depends._
 
 You may declare any consecrated ground a sanctuary. While within it, you and those under your protection cannot be lawfully seized; a search may be conducted only with your presence and consent. Roll Presence + Persuasion (TN 16) to reframe a hostile search party as guests. On success they search politely and find nothing they were not already certain of. On failure they search properly, and you learn what the Commission does when the arithmetic finally changes.
 
@@ -310,13 +312,13 @@ Spend 6 Qi and perform the naming for a person living or newly dead. If living, 
 
 - Crown of Pierced Silver and River Jade (hung with chimes tuned below the threshold of casual hearing)
 - Veil of Unbleached Silk (worn in all public function; removing it before someone is a deliberate act)
-- Six Strand Rite Necklace (turquoise, amber, carnelian; one strand per completed major rite)
+- Six Strand Rite Necklace (turquoise, amber, carnelian; one strand for each completed stage of ordination)
 - White Mourning Gown, Cinnabar Placket (embroidered in a pattern older than the imperial script)
 - Jade Bangles, Paired (your teacher's; you have never removed them)
 - Censer and Sandalwood (the smoke is the boundary of consecrated ground)
 - Liturgical Commonplace Book (six scripts, four dead; the cipher is in the back and nobody has noticed)
 - Inner City Residence Token (grants access most elders do not have)
-- 200 Silver Standards (the stipend; you spend almost none of it on yourself)
+- 2 Jade Slips (the stipend; you spend almost none of it on yourself)
 
 ---
 
@@ -329,7 +331,7 @@ Spend 6 Qi and perform the naming for a person living or newly dead. If living, 
 | Iron Calculation | -5               | You are an unquantifiable dependency in an otherwise clean model. They hate that. |
 | Crimson Lineage  | +20              | You have performed the last rite for four of their elders. They remember.         |
 | Common Flame     | +10              | The camps know who kneels in the dirt. Word travels without you.                  |
-| Bright Mirror    | 0                | She holds the order to close you. She has not executed it in thirteen years.      |
+| Bright Mirror    | 0                | He holds the order to close you. He has not executed it in thirteen years.        |
 
 ---
 
@@ -337,7 +339,7 @@ Spend 6 Qi and perform the naming for a person living or newly dead. If living, 
 
 Choose one, or create your own with the Host:
 
-- The answer at the door changed four years ago and you have reported the old formula three times since, because reporting the change would require explaining how you can tell.
+- The answer at the door changed four years ago at your fifteenth performance, and you have reported the old formula at every Continuance since because reporting the change would require explaining how you can tell.
 - There are six people in the undercroft and one of them is not who they claim to be. You have known for two weeks. Every day you do not act is a day the other five are exposed.
 - You are the youngest of nine ordained officiants and the next is eighty one. You have taken no successor. Certain parties have begun to notice that a hostage with no replacement is worth more than one who has trained a replacement.
 - You are writing the ordination down in a private cipher, one phrase a month. It is the one thing your lineage exists to prevent. You are doing it because you have watched two of the nine die.
@@ -346,7 +348,7 @@ Choose one, or create your own with the Host:
 
 ## Advancement
 
-As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
 **Level 3: The Weight of the Crown.** The Rite That Cannot Lapse may be used to shield one other person instead of yourself.
 

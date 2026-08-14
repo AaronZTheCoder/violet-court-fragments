@@ -1,7 +1,7 @@
 # The Violet Court Fragments
 
-> _A text driven tabletop rogue like adventure set in the twilight of a celestial empire.
-> The Sun Emperor has not spoken in three hundred years.
+> _A tabletop roguelike told through text, set in the twilight of a celestial empire.
+> The Sun Emperor has not spoken publicly for about one hundred and sixty four years.
 > The Court still rules in His name.
 > And something hungry is eating its way inward from the borders._
 
@@ -9,7 +9,7 @@
 
 ## Director's Foreword
 
-Once, the world was whole. The Sun Emperor walked among His people, and the land knew harmony. Then He withdrew into the Spire of Eternal Vigil, and the Celestial Court took up the burden of governance in His absence. That was three centuries ago.
+Once, the world was whole. The Sun Emperor walked among His people, and the land knew harmony. Then He withdrew into the Spire of Eternal Vigil, and the Celestial Court took up the burden of governance in His absence. That was about one hundred and sixty four years ago.
 
 Today, the empire still stands. The Court still issues decrees. The seasons still turn. But something is wrong. The borders are fraying. A corruption called the Crimson Dusk creeps inward, province by province, turning fields to salt and people into hollow things that weep red. The Court calls it a "localized disharmony" and dispatches Harmonization Audits. The provinces that fall are erased from maps. They were never there.
 
@@ -37,7 +37,7 @@ The empire spans a continent divided into nine provinces, each ruled by a Provin
 
 **The Central Province** surrounds the capital. Here sits the Spire of Eternal Vigil, where the Sun Emperor slumbers or watches or waits. The Court's ministries occupy the Inner City. The Outer City teems with merchants, petitioners, spies, and refugees from provinces that no longer officially exist.
 
-When you first approach the Central Province, the road rises through terraced hills covered in mulberry groves. The air smells of wet earth and woodsmoke mixed with the faint metallic tang of Qi-charged stone. Against the pale sky, the Spire of Eternal Vigil rises like a needle threaded with cloud. It is visible from every corner of the province, a constant reminder of the Emperor's presence and His absence. The city walls of Xiaoyuan glow faintly at dusk, their surface inlaid with Qi conductive stone that hums at a frequency just below hearing. You feel it in your back teeth before you hear it with your ears.
+When you first approach the Central Province, the road rises through terraced hills covered in mulberry groves. The air smells of wet earth and woodsmoke mixed with the faint metallic tang of stone charged with Qi. Against the pale sky, the Spire of Eternal Vigil rises like a needle threaded with cloud. It is visible from every corner of the province, a constant reminder of the Emperor's presence and His absence. The city walls of Xiaoyuan glow faintly at dusk, their surface inlaid with stone that conducts Qi and hums at a frequency just below hearing. You feel it in your back teeth before you hear it with your ears.
 
 _Silver Ford._ A market town at the junction of the Jade River and the Imperial Highway. Its great wooden bridge, painted with scenes from the founding of the empire, groans under the weight of carts and caravans day and night. Every third building is a shrine to some aspect of celestial governance. The river here runs slow and thick with silt, and fishermen say the fish taste of ink.
 
@@ -45,7 +45,7 @@ _Harmony Rest._ A fortified village that serves as the outer checkpoint for the 
 
 _Moon Brook._ A spa town built around hot springs said to be warmed by the Emperor's own Qi. Wealthy officials retire here to die gracefully. The water tastes of copper and old stone. The inns serve a delicate mushroom broth that is rumored to extend life by years, though no one has ever proved it.
 
-The people of the Central Province dress in muted colors: greys, browns, faded blues. They speak in careful, measured tones and avoid public displays of strong emotion. Their cuisine is the empire's most refined, emphasizing subtle flavors and elaborate presentation. Rice porridge with pickled vegetables for breakfast, steamed buns with lotus seed paste for midday, and elaborate multi-course dinners of braised fish, bamboo shoots, and silken tofu for the wealthy. They celebrate the Festival of the Silent Throne with quiet candlelit processions through the streets, each participant carrying a single flame cupped in their hands.
+The people of the Central Province dress in muted colors: greys, browns, faded blues. They speak in careful, measured tones and avoid public displays of strong emotion. Their cuisine is the empire's most refined, emphasizing subtle flavors and elaborate presentation. Rice porridge with pickled vegetables for breakfast, steamed buns with lotus seed paste for midday, and elaborate dinners served in several courses of braised fish, bamboo shoots, and silken tofu for the wealthy. They celebrate the Festival of the Silent Throne with quiet candlelit processions through the streets, each participant carrying a single flame cupped in their hands.
 
 They fear two things above all: the Spire awakening or failing to awaken. They fear the Court's displeasure more than they fear the Dusk, because the Dusk is still distant and the Court is always near.
 
@@ -123,7 +123,7 @@ _Old Nest._ The ancestral seat of one of the Eight Great Families (the family na
 
 The Southern Granary eats rice in every form: steamed, fried, boiled into porridge, fermented into wine, ground into flour for noodles and cakes. Meals are often communal, with the whole village sitting on the ground around large platters. The staple accompaniment is a fermented fish sauce that smells terrible and tastes like the sea. People dress in practical but beautiful clothing: dark blue or brown tunics with embroidered hems, the embroidery indicating village and family. The wealthy wear silk of dazzling colors, but only in the privacy of their estates; public display of wealth is considered dangerous.
 
-They celebrate the Planting Festival, when the first seedlings of the season are blessed by a representative of the Crimson Lineage, and the Harvest Festival, a week long celebration of music, dance, and competitive eating that culminates in the Selection, where the year's most beautiful young woman is sent to the capital as a "gift" to the Court.
+They celebrate the Planting Festival, when the first seedlings of the season are blessed by a representative of the Crimson Lineage, and the Harvest Festival, a celebration lasting one week that features music, dance, and competitive eating before culminating in the Selection, where the year's most beautiful young woman is sent to the capital as a "gift" to the Court.
 
 They fear the failure of the rains, the rise of the river, and the Quiet Men who come from the capital to measure fields and count heads. They also fear the old gods of the soil, the ones who were displaced when the Sun Emperor established His order, because those gods are still there, sleeping beneath the roots of the mulberry trees, and they are patient.
 
@@ -149,7 +149,7 @@ The younger generation of the Crimson Lineage is a source of constant anxiety fo
 
 The air changes as you climb into the Western Bulwark. It becomes thin, cold, carrying the scent of snow and stone and the distant tang of Qi sharpened to a blade's edge. The mountains rise in staggered walls of grey granite, and built into every defensible position is a fortress monastery, its walls reinforced with Qi inscribed bricks that glow faintly at night. The sound of martial chanting echoes through the passes, carried on winds that never stop blowing. Banners of red and gold snap in the gale. This is a landscape built for war, shaped by centuries of conflict, and every stone remembers the taste of blood.
 
-_Sky Pillar Garrison._ The largest fortress in the province, built atop a mountain that was sheared flat by Qi magic in the first century of the empire. It houses ten thousand soldiers, their families, their trainers, and their war machines. The garrison is a self contained city with its own forges, farms (terraced and painstaking), and temples. The soldiers here train from age seven. They know nothing else.
+_Sky Pillar Garrison._ The largest fortress in the province, built atop a mountain that was sheared flat by a vast Qi working in the first century of the empire. It houses ten thousand soldiers, their families, their trainers, and their war machines. The garrison is a city unto itself, with its own forges, farms (terraced and painstaking), and temples. The soldiers here train from age seven. They know nothing else.
 
 _The Silent Monastery._ A fortress of contemplative warriors who have taken vows of limited speech, communicating through gesture and written characters. They are the empire's finest tacticians. Their library contains every battle manual ever written in the empire, plus commentaries on each. Rumor says they also contain a copy of every battle that never happened, every plan that was too terrible to execute.
 
@@ -175,7 +175,7 @@ The bond between soldiers in the Bulwark is unlike anything found in the rest of
 
 **The Veterans' Quarter.** In every fortress of the Western Bulwark, there is a section reserved for veterans who have served their time and chosen to remain. These men and women have given their lives to the military and have no place in civilian society. They live in dormitories, receive a small pension, and serve as advisors and trainers to the younger generation. They are the keepers of the Bulwark's memory, the ones who remember battles that have been struck from the records and comrades whose names have been forgotten.
 
-The veterans are a source of unofficial knowledge. They know which officers are corrupt, which strategies have failed in the past, and which threats are real and which are manufactured by the Court to justify military spending. They are also fiercely loyal to the Iron Wall, who they remember as a young soldier who rose through the ranks on merit. If the Court ever moves against him, the veterans will stand with him. The official maps show these lands as blank space, labeled "Unclaimed Territory" in neat calligraphy. The soldiers who have been through the passes tell a different story. They speak of a desert of black sand where the sky is permanently overcast, of a city built from the bones of extinct creatures, of a people who worship a god that is also a disease. The Garrison Command maintains a small intelligence unit that monitors activity in these lands, watching for threats that might emerge from the blank spaces on the maps. The unit's reports are classified at the highest level. The few officials who have read them describe them as "troubling."
+The veterans are a source of unofficial knowledge. They know which officers are corrupt, which strategies have failed in the past, and which threats are real and which are manufactured by the Court to justify military spending. They are also fiercely loyal to the Iron Wall, who they remember as a young soldier who rose through the ranks on merit. If the Court ever moves against him, the veterans will stand with him.
 
 ---
 
@@ -185,7 +185,7 @@ To enter the Northern Expanse is to leave the empire behind. The cultivated land
 
 _Greenroot._ The only settlement large enough to be called a town, built in and around the roots of a tree so massive that its crown is lost among the clouds. The buildings are grown, not built, shaped from living wood sustained by Qi. The paths between them are suspended walkways that sway twenty feet above the forest floor. The people of Greenroot speak the imperial tongue with an accent that sounds like wind through leaves.
 
-_The Glimmering Pools._ A network of bioluminescent ponds deep in the forest, where the Qi concentration is so high that the water glows with a soft blue light. The forest peoples use the Pools for ritual purification and for the treatment of wounds. The water tastes of electricity and mint. The Court sends expeditions to harvest the glowing algae, which is used in high grade Qi restorative elixirs.
+_The Glimmering Pools._ A network of bioluminescent ponds deep in the forest, where the Qi concentration is so high that the water glows with a soft blue light. The forest peoples use the Pools for ritual purification and for the treatment of wounds. The water tastes of electricity and mint. The Court sends expeditions to harvest the glowing algae, which is used in restorative elixirs made with Qi of exceptional purity.
 
 _The Hollow._ A place that is not a settlement but a gathering: a natural amphitheater where the forest peoples convene for the Great Councils every seven years. The Hollow is surrounded by stones carved with pictographs that predate the empire by millennia. No imperial official has ever attended a Great Council. The forest peoples consider this a sign of wisdom.
 
@@ -215,9 +215,9 @@ The most powerful spirit practitioners are the Speakers, who can enter trance st
 
 The four border provinces were named Scorch Field, Amber Shore, Weeping Valley, and Gate's End. Two remain. The names are not important, the Court insists. They were never important.
 
-Scorch Field fell first, thirty eight years ago. It was a dry, hot province of grasslands and herders, where the people lived in portable tents of felt and followed the rains. The Dusk appeared as a brushfire that never went out, advancing at the speed of a walking man, leaving behind a plain of black glass that reflected the red sky. The evacuation was partial. The Court declared the province "resettled" and redirected its military budget. The herders who escaped fled east, carrying stories that no one in the capital wanted to hear.
+Scorch Field fell first, forty years ago. It was a dry, hot province of grasslands and herders, where the people lived in portable tents of felt and followed the rains. The Dusk appeared as a brushfire that never went out, advancing at the speed of a walking man, leaving behind a plain of black glass that reflected the red sky. The evacuation was partial. The Court declared the province "resettled" and redirected its military budget. The herders who escaped fled east, carrying stories that no one in the capital wanted to hear.
 
-Amber Shore fell twenty years later. It was a coastal province of fishing villages and salt flats, known for its amber colored sunsets and the migratory sea creatures that would beach themselves during certain Qi alignments. The Dusk rose from the sea. The water turned red, then thick, then solid. The fishing fleet returned to port one evening with crews who could not remember their own names. The harbor is now a field of rusted ships embedded in red crystal. The Governor sent seventeen reports before the silence. The seventeenth was a single sentence: "The tide does not go out anymore."
+Amber Shore fell fifteen years later. It was a coastal province of fishing villages and salt flats, known for sunsets the color of amber and the migratory sea creatures that would beach themselves during certain Qi alignments. The Dusk rose from the sea. The water turned red, then thick, then solid. The fishing fleet returned to port one evening with crews who could not remember their own names. The harbor is now a field of rusted ships embedded in red crystal. The Governor sent seventeen reports before the silence. The seventeenth was a single sentence: "The tide does not go out anymore."
 
 Weeping Valley and Gate's End remain. Weeping Valley is a narrow, fertile valley between two mountain ranges, known for its waterfalls and its vineyards. The wine from Weeping Valley was once served at the Emperor's own table. Now the valley's eastern third has been consumed by a crimson fog that never lifts, and the winemakers say the grapes that touch the fog produce a wine that tastes of copper and screams. The Governor has begun fortifying the valley's narrow points, building walls of stone and petitioning the capital for military support that never arrives.
 
@@ -247,7 +247,7 @@ The Keeper of the Gate is the most powerful person in the city, though she holds
 
 **The Daily Reality of the Border.** In Weeping Valley, every morning begins with a check of the fog line. Farmers climb to their rooftops and look east, measuring the distance the crimson mist has advanced overnight. Some days it has not moved. Some days it has swallowed another mile. There is no pattern, no predictable schedule, and the unpredictability is worse than steady advance would be. People have learned to live in a state of permanent alertness, their bags packed, their escape routes planned. Children born here have never known a world where the red was not on the horizon.
 
-Gate's End has become something unexpected: a thriving community shaped by crisis. The constant threat has stripped away everything unnecessary. Social hierarchies have flattened. The old divisions between rich and poor, official and commoner, have been replaced by a single distinction: those who will fight and those who will flee. The Keeper of the Gate has instituted a system of universal training, requiring every able bodied person to learn basic combat and survival skills. The result is a population that is harder, more capable, and more united than any other in the empire.
+Gate's End has become something unexpected: a thriving community shaped by crisis. The constant threat has stripped away everything unnecessary. Social hierarchies have flattened. The old divisions between rich and poor, official and commoner, have been replaced by a single distinction: those who will fight and those who will flee. The Keeper of the Gate has instituted a system of universal training, requiring every resident capable of training to learn basic combat and survival skills. The result is a population that is harder, more capable, and more united than any other in the empire.
 
 **The Refugees.** The refugees who have escaped the fallen provinces are scattered across the empire, but the largest concentration is in the camps outside Gate's End. These camps are temporary in name only; some have existed for years. The refugees live in tents of patched canvas, surviving on rations distributed by the Garrison and whatever work they can find. They carry the memories of what they saw, stories that they tell to anyone who will listen and that most listeners wish they had not heard.
 
@@ -257,7 +257,7 @@ The refugees have formed their own communities within the camps, organized aroun
 
 ### Celestial Qi
 
-The world is woven from Qi, a vital energy that flows through earth, sky, flesh, and spirit. The Court's founding doctrine holds that only the Court, through correct ritual practice, can channel Qi safely. Deviation from orthodoxy causes Disharmony, a reality warping catastrophe where the laws of nature become unstable.
+The world is woven from Qi, a vital energy that flows through earth, sky, flesh, and spirit. The Court's founding doctrine holds that only the Court, through correct ritual practice, can channel Qi safely. Deviation from orthodoxy causes Disharmony, a catastrophe that warps reality until the laws of nature become unstable.
 
 This is not entirely false. Disharmony events are real and terrifying. What the Court obscures is whether their monopoly prevents Disharmony or merely controls who gets to define it.
 
@@ -265,13 +265,13 @@ This is not entirely false. Disharmony events are real and terrifying. What the 
 
 Qi is not a single substance but a confluence of five distinct aspects, each with its own nature, its own flow patterns, and its own relationship with the world. The five aspects are not separate energies but dimensions of a single underlying force, like colors of light that combine to form white. A master of Qi can perceive all five simultaneously, reading the world as a constantly shifting pattern of colored flows. Most people perceive only the dominant aspect of their environment, and many perceive nothing at all, their sensitivity dulled by the deadening influence of city life.
 
-The understanding of the five aspects is not universal. Different schools emphasize different aspects, and this emphasis shapes their entire worldview. The Golden Orthodoxy focuses on Binding Qi, seeing stability as the highest good. The Verdant Path reveres Yielding Qi, valuing growth and adaptation. The Iron Calculation harnesses Burning Qi for industry and production. The Bright Mirror channels Piercing Qi in her investigations of truth. The Crimson Lineage, uniquely, cultivates all five through the medium of blood, which they believe contains the essence of all aspects in their purest form.
+The understanding of the five aspects is not universal. Different schools emphasize different aspects, and this emphasis shapes their entire worldview. The Golden Orthodoxy focuses on Binding Qi, seeing stability as the highest good. The Verdant Path reveres Yielding Qi, valuing growth and adaptation. The Iron Calculation harnesses Burning Qi for industry and production. The Bright Mirror channels Piercing Qi in its investigations of truth. The Crimson Lineage, uniquely, cultivates all five through the medium of blood, which they believe contains the essence of all aspects in their purest form.
 
-**The Piercing Aspect.** Qi of clarity, truth, and revelation. Those who cultivate this aspect develop an ability to perceive hidden connections, to see through deception, and to recognize patterns that others miss. At the highest levels, a Piercing adept can perceive the true nature of any person or object, seeing beyond appearance to essence. This is not always a gift. The knowledge of what people truly are can be devastating. Many Piercing adepts withdraw from society, unable to bear what they see. The aspect is associated with the element of wind, which clears away obscuring mists, and its color is silver white. It flows strongest at dawn, when the boundary between dream and waking is thinnest. It is associated with the element of light, the direction of east, and the season of spring. Those who cultivate Piercing Qi can see through lies, perceive hidden connections, and, at the highest levels, glimpse the true shape of reality beneath the veil of appearances. The Bright Mirror school relies heavily on this aspect, using it to detect corruption and Disharmony. In daily life, ordinary people experience Piercing Qi in moments of sudden understanding, when a problem resolves itself in the mind with crystalline clarity.
+**The Piercing Aspect.** Qi of clarity, truth, and revelation. Those who cultivate this aspect learn to notice hidden connections, signs of deception, and patterns that others miss. Even masters do not receive perfect answers. At the highest levels, a Piercing adept can perceive traces, contradictions, and structures concealed beneath appearances, but those impressions still require interpretation and corroboration. This gift can be devastating because seeing that something is wrong does not always reveal what happened or what justice requires. Many Piercing adepts withdraw from society, unable to bear the questions that follow what they see. The aspect is associated with wind and the light it carries at dawn, when moving air clears obscuring mist. Its color is a silvery white. It flows strongest at dawn, when the boundary between dream and waking is thinnest, and it is associated with the east and the season of spring. Those who cultivate Piercing Qi can catch spoken lies, perceive hidden connections, and glimpse structures beneath the veil of appearances. The Bright Mirror school relies heavily on this aspect, using it to find signs of corruption and Disharmony before testing those signs against testimony and physical evidence. In daily life, ordinary people experience Piercing Qi in moments of sudden understanding, when a problem resolves itself in the mind with crystalline clarity.
 
 **The Yielding Aspect.** Qi of growth, healing, and transformation. This aspect governs all processes of change and renewal: the growth of crops, the healing of wounds, the turning of seasons. Cultivators of Yielding Qi are sought after as healers and midwives, but the aspect has martial applications as well. A Yielding adept can accelerate the decay of an opponent's armor, encourage infections in wounds, or cause a building's foundations to rot. The aspect is deeply connected to water, which takes the shape of its container while remaining essentially unchanged. Its color is green. It flows strongest in the humidity of summer rain, and it is associated with water, the west, and the season of autumn. This is the aspect that makes crops grow and wounds heal. The Verdant Path school reveres the Yielding Aspect above all others, seeing it as the fundamental life force of the world. Ordinary people experience Yielding Qi in the feeling of health returning after illness, in the first rain after a drought, in the quiet satisfaction of watching something grow.
 
-**The Binding Aspect.** Qi of structure, law, and permanence. This aspect gives form to matter and stability to institutions. Binding Qi is what holds buildings upright, what makes contracts binding, what keeps the empire from dissolving into chaos. Cultivators of Binding Qi become rigid in their thinking, resistant to change, and deeply committed to established order. This is not necessarily a flaw; the empire depends on such people. The aspect is associated with earth and stone, which endure while everything else changes. Its color is brown, shading to amber in its purest form. It flows strongest at midnight, when the world is still and forms are most fixed. It is associated with earth, the center, and the depth of winter. This is the aspect that gives form to matter, that holds buildings upright, that keeps the empire's bureaucracy running. The Golden Orthodoxy considers the Binding Aspect the most important, because it represents stability and the preservation of established order. Ordinary people experience Binding Qi in the feeling of solid ground beneath their feet, in the weight of a well made tool, in the satisfaction of a completed contract.
+**The Binding Aspect.** Qi of structure, law, and permanence. This aspect gives form to matter and stability to institutions. Binding Qi is what holds buildings upright, what makes contracts binding, what keeps the empire from dissolving into chaos. Cultivators of Binding Qi become rigid in their thinking, resistant to change, and deeply committed to established order. This is not necessarily a flaw; the empire depends on such people. The aspect is associated with earth and stone, which endure while everything else changes. Its color is brown, shading to amber in its purest form. It flows strongest at midnight, when the world is still and forms are most fixed. It is associated with earth, the center, and the depth of winter. This is the aspect that gives form to matter, that holds buildings upright, that keeps the empire's bureaucracy running. The Golden Orthodoxy considers the Binding Aspect the most important, because it represents stability and the preservation of established order. Ordinary people experience Binding Qi in the feeling of solid ground beneath their feet, in the weight of a finely made tool, in the satisfaction of a completed contract.
 
 **The Burning Aspect.** Qi of passion, conflict, and change. This aspect fuels everything that consumes and transforms: fire, industry, combat, desire, ambition. Burning Qi is the most immediately powerful aspect and the most dangerous. It is easy to channel and difficult to control. Cultivators of Burning Qi are prone to outbursts of temper, obsessive behavior, and a condition called Ash Heart, where the passion burns so hot that it consumes the person from within, leaving an empty shell driven by pure habit. The aspect is associated with fire and forge, and its color is red. It flows strongest at noon, when the sun is at its zenith and the world is most alive. It is associated with fire, the south, and high summer. This is the aspect that fuels combat, industry, and desire. The Iron Calculation school harnesses the Burning Aspect in its forges and factories, while the Common Flame channels its heat into revolutionary fervor. Ordinary people experience Burning Qi in the rush of anger, the heat of exertion, the fire of ambition, and the warmth of love.
 
@@ -281,7 +281,7 @@ The understanding of the five aspects is not universal. Different schools emphas
 
 Every person in the empire, from the Grand Council elder to the street sweeper, interacts with Qi constantly, whether they know it or not. Breathing is a Qi practice, though most people do it imperfectly. The imperial standard for proper breathing, taught to all children in Academy schools, involves inhaling through the nose in a measured rhythm and exhaling through the mouth, visualizing the breath moving through the body's channels. Those who breathe incorrectly, the orthodoxy teaches, accumulate stagnant Qi that leads to illness, confusion, and vulnerability to Disharmony.
 
-Morning routines across the empire involve Qi practices. The wealthy employ Qi therapists who perform resonant massage, moving their hands along the body's channels to correct blockages. The poor perform simple self Qi exercises: stretching, tapping certain points on the body, humming at specific frequencies. Tea is never just tea; it is a Qi infusion. Different teas are prescribed for different Qi imbalances. Green tea for excess Burning, white tea for deficient Yielding, black tea for blocked Binding.
+Morning routines across the empire involve Qi practices. The wealthy employ Qi therapists who perform resonant massage, moving their hands along the body's channels to correct blockages. The poor practice simple Qi exercises on their own by stretching, tapping certain points on the body, and humming at specific frequencies. Tea is never just tea; it is a Qi infusion. Different teas are prescribed for different Qi imbalances. Green tea for excess Burning, white tea for deficient Yielding, black tea for blocked Binding.
 
 Sleep is understood as a period when the Veiling Aspect predominates and the soul's Qi drifts loose from the body. Nightmares are considered contact with Disharmonious Qi fields. Waking refreshed is a sign of healthy Qi circulation. The Court mandates that all imperial citizens sleep with their heads pointed north, to align with the flow of celestial Qi. Violations are minor offenses, but they are recorded. Three violations result in a warning. Five violations trigger an investigation into whether the violator is deliberately cultivating Disharmony. The investigation is rarely favorable.
 
@@ -297,15 +297,15 @@ The Court recognizes four approved methods of Qi manipulation.
 
 **Acupuncture and Moxibustion.** The insertion of needles or application of heat at specific points on the body to redirect Qi flow. Practiced by licensed physicians only. The needles are made of different metals depending on which aspect of Qi is being treated: silver for Piercing, copper for Yielding, iron for Binding, gold for Burning, obsidian for Veiling.
 
-**Inscription.** The writing of Qi conductive characters on surfaces. The characters must be written in a specific order, with specific brushstrokes, using ink infused with the appropriate Qi aspect. Inscription is how Qi conduits, fortress walls, and official documents are empowered.
+**Inscription.** The writing of characters that conduct Qi on surfaces. The characters must be written in a specific order, with specific brushstrokes, using ink infused with the appropriate Qi aspect. Inscription is how Qi conduits, fortress walls, and official documents are empowered.
 
 **Meditation and Alignment.** The direct manipulation of one's own internal Qi through mental discipline. This is the most difficult method and the most respected. Masters of meditation can achieve effects that rival the most complex rituals.
 
-Beyond these approved methods lie the forbidden arts. Blood cultivation, the signature practice of the Crimson Lineage, involves the consumption and manipulation of blood to enhance one's Qi. The Lineage claims its methods are hereditary and cannot be learned by outsiders, a claim that is not entirely false but is also convenient for maintaining their monopoly. Spirit binding involves making agreements with non human entities, usually nature spirits or the ghosts of the dead, to borrow their Qi. The agreements are dangerous because the entities have their own agendas and are patient and deceitful negotiators. Qi draining, the most forbidden practice, involves forcibly extracting Qi from another living being and consuming it. The practice is physically addictive, morally corrosive, and ultimately unsustainable because drained Qi carries traces of the original owner's consciousness. Prolonged drainers begin to hear the voices of everyone they have drained, a condition called the Echo Chorus that eventually drives them mad.
+Beyond these approved methods lie the forbidden arts. Blood cultivation, the signature practice of the Crimson Lineage, involves the consumption and manipulation of blood to enhance one's Qi. The Lineage claims its methods are hereditary and cannot be learned by outsiders, a claim that is not entirely false but is also convenient for maintaining their monopoly. Spirit binding involves making agreements with nonhuman entities, usually nature spirits or the ghosts of the dead, to borrow their Qi. The agreements are dangerous because the entities have their own agendas and are patient and deceitful negotiators. Qi draining, the most forbidden practice, involves forcibly extracting Qi from another living being and consuming it. The practice is physically addictive, morally corrosive, and ultimately unsustainable because drained Qi carries traces of the original owner's consciousness. Prolonged drainers begin to hear the voices of everyone they have drained, a condition called the Echo Chorus that eventually drives them mad.
 
-Heterodox methods include blood cultivation (the Crimson Lineage's hereditary practice of enhancing Qi through consumption of blood, ideally from one's own bloodline), spirit binding (forcing agreement with non human entities to borrow their Qi), and the forbidden practice of Qi draining, where one person's Qi is forcibly extracted and consumed by another. Qi draining is punishable by immediate Harmonization. It is also more common than the Court admits.
+Heterodox methods include blood cultivation (the Crimson Lineage's hereditary practice of enhancing Qi through consumption of blood, ideally from one's own bloodline), spirit binding (forcing agreement with nonhuman entities to borrow their Qi), and the forbidden practice of Qi draining, where one person's Qi is forcibly extracted and consumed by another. Qi draining is punishable by immediate Harmonization. It is also more common than the Court admits.
 
-The deepest forbidden knowledge is the Theory of Fundamental Siphon, which suggests that the entire empire is a vast Qi draining apparatus, that the Sun Emperor's original gift was not a gift but a loan, and that the Crimson Dusk is the debt coming due.
+The deepest forbidden knowledge is the Theory of Fundamental Siphon, which suggests that the entire empire is a vast apparatus for draining Qi, that the Sun Emperor's original gift was not a gift but a loan, and that the Crimson Dusk is the debt coming due.
 
 #### Qi Geography
 
@@ -313,13 +313,13 @@ Qi flows through the land in patterns that the Bureau of Celestial Inquiry has m
 
 The Central Province sits on a convergence of all five aspects, which is why the Spire was built there. The convergence creates a zone of unusually stable Qi, ideal for ritual work but vulnerable to stagnation. The Court's rituals constantly stir the Qi to prevent it from pooling.
 
-The Eastern Foundries are rich in Burning and Binding Qi, which makes them ideal for industry but leaves the population prone to Burning aspect imbalances: aggression, burnout, and a condition called forge madness where workers become obsessed with production to the point of self destruction.
+The Eastern Foundries are rich in Burning and Binding Qi, which makes them ideal for industry but leaves the population prone to Burning aspect imbalances: aggression, burnout, and a condition called forge madness in which workers become so obsessed with production that they destroy themselves.
 
 The Southern Granary is dominated by Yielding Qi, which makes the land fertile and the people calm, but also resistant to change. The Crimson Lineage families maintain their power partly through their ability to access the deeper veins of Binding Qi that run beneath the rice paddies.
 
-The Western Bulwark channels Piercing and Burning Qi through its peaks, creating natural amplifiers for combat magic but also making the region prone to sudden storms of wild Qi that can strip a person's memories.
+The Western Bulwark channels Piercing and Burning Qi through its peaks, creating natural amplifiers for combat Techniques while also making the region prone to sudden storms of wild Qi that can strip a person's memories.
 
-The Northern Expanse is the most Qi diverse region, with wild currents of all five aspects flowing in unpredictable patterns. This makes it dangerous for conventional ritual work but invaluable for gathering rare Qi aligned reagents. The forest peoples have learned to ride these currents rather than control them, a skill the Court's ritualists have never mastered.
+The Northern Expanse has the greatest diversity of Qi in the empire, with wild currents of all five aspects flowing in unpredictable patterns. This makes it dangerous for conventional ritual work but invaluable for gathering rare reagents aligned with Qi. The forest peoples have learned to ride these currents rather than control them, a skill the Court's ritualists have never mastered.
 
 Qi geography has practical implications for travel and communication. Moving through regions of mismatched Qi can cause fatigue, confusion, and physical illness. The empire's major roads are built along Qi alignments, following natural channels that minimize resistance. Travelers who stray from these roads can find themselves in pockets of stagnant or wild Qi that produce strange effects: accelerated aging, memory loss, spontaneous Qi manifestation. The Court maintains detailed maps of safe routes and Qi hazards, but these maps are classified and only available to authorized travelers.
 
@@ -341,13 +341,13 @@ The most controversial theory, advanced by a scholar who was subsequently Disapp
 
 The Dusk behaves like Qi in all observable respects, except that it is red, hostile to life, and apparently intelligent. The orthodox theory holds that the Dusk is Disharmony given form, a punishment for heterodox practices in the border provinces. The unorthodox theory, whispered among scholars who value truth over safety, is that the Dusk is what happens when Qi is drained from a place completely, leaving a void that nature abhors and fills with something else.
 
-Celestial Book, who has read every text on the subject, has never offered an opinion. When asked directly, he quoted a text that no one present had ever heard of: "The wine does not turn to vinegar by accident. The cask was built for wine, but it was also built for vinegar, and the cellar master knew this from the beginning."
+Celestial Book, who has read every text on the subject, has never offered an opinion. When asked directly, she quoted a text that no one present had ever heard of: "The wine does not turn to vinegar by accident. The cask was built for wine, but it was also built for vinegar, and the cellar master knew this from the beginning."
 
 ---
 
 ### The Sun Emperor's Silence
 
-Three hundred years ago, the Sun Emperor entered the Spire of Eternal Vigil and sealed the doors behind Him. He has not emerged. His edicts still arrive, inscribed on jade tablets that materialize in the Throne Chamber. The Court executes them without hesitation.
+About one hundred and sixty four years ago, the Sun Emperor entered the Spire of Eternal Vigil and the doors closed behind Him. He has not emerged. His edicts still arrive, inscribed on jade tablets that materialize in the Throne Chamber. The Court executes them without hesitation.
 
 Or so the official narrative maintains.
 
@@ -357,7 +357,7 @@ The truth is one of the central mysteries. Each playthrough may reveal a differe
 
 ### The Sealing
 
-Do not resolve this. Everything below is what people experienced, and none of it explains what happened, because nobody knows what happened, including the Duke of Eternal Night, who was standing eleven paces away.
+Do not resolve this. Everything below is what witnesses experienced. The Duke of Eternal Night, who stood eleven paces away, knows who imposed the political sealing and what the Court did in that chamber. He does not know the Emperor's intent or the sealing's ultimate effect, and neither does anyone else.
 
 What follows is why the empire cannot let go.
 
@@ -365,7 +365,7 @@ What follows is why the empire cannot let go.
 
 He answered questions.
 
-That is the thing three hundred years of theology has almost successfully buried, and it is the only fact that matters for understanding the grief. The Sun Emperor was not a remote divinity attended by intermediaries. For two hundred and eighty seven years, on the first and fifteenth of every month, He sat in the Hall of Open Hearing, and anyone at all could come and ask Him a question, and He would answer it.
+That is the thing a century and a half of theology has almost successfully buried, and it is the only fact that matters for understanding the grief. The Sun Emperor was not a remote divinity attended by intermediaries. For two hundred and eighty seven years, on the first and fifteenth of every month, He sat in the Hall of Open Hearing, and anyone at all could come and ask Him a question, and He would answer it.
 
 Anyone. There was no petition, no rank requirement, no filtering. The queue formed in the night. A woman with a dispute over an irrigation ditch stood behind a Grand Council elder and in front of a boy who wanted to know why his brother had died, and all three were heard, in order, at whatever length the answer required.
 
@@ -395,9 +395,9 @@ In the second month of Year 288 He informed the Grand Council that He would ente
 
 Nobody was alarmed. He had done this before. There are nine recorded retreats in the preceding two centuries, the longest of them fourteen months, and the Court's response was administrative: the Hall of Open Hearing was closed, a notice was posted, the queue was told to come back.
 
-The Duke of Eternal Night was in the room. He has described it exactly twice in three hundred years, both times when very tired, and both accounts agree on three things. The Emperor was carrying nothing. He stopped at the threshold and looked back at the assembled Court for what the Duke estimates was four seconds. And He said something.
+The Duke of Eternal Night was in the room. He has described it exactly twice in one hundred and sixty four years, both times when very tired, and both accounts agree on three things. The Emperor was carrying nothing. He stopped at the threshold and looked back at the assembled Court for what the Duke estimates was four seconds. And He said something.
 
-The Duke does not know what. He was eleven paces away, the acoustics of the antechamber are poor, and he has spent three hundred years being certain that it was addressed to someone specific and never being able to determine who. He will not speculate about the words. If a player pushes him on this he becomes, uncharacteristically, angry, and the anger is not at the player.
+The Duke does not know what. He was eleven paces away, the acoustics of the antechamber are poor, and he has spent one hundred and sixty four years being certain that it was addressed to someone specific and never being able to determine who. He will not speculate about the words. If a player pushes him on this he becomes, uncharacteristically, angry, and the anger is not at the player.
 
 The doors were closed. The watch was set. That was a Tuesday.
 
@@ -419,7 +419,7 @@ The edict appointed a replacement to a vacant Grand Council seat and set the dir
 
 Read that again. The first word from the sealed Emperor in two and a half years, after a nation held its breath, was a personnel decision and an agricultural instruction. No greeting, no explanation, no reference to the silence. It was, in form and tone and handwriting, an entirely routine document of the kind He had issued weekly for centuries.
 
-Nine separate authorities examined the hand. They agreed. They still agree; the Bureau of Celestial Inquiry has reexamined the original four times in three hundred years using progressively better methods and the finding has never changed.
+Nine separate authorities examined the hand. They agreed. They still agree; the Bureau of Celestial Inquiry has reexamined the original four times in one hundred and sixty two years using progressively better methods and the finding has never changed.
 
 Bright Reed was given a stipend and a small house and was interviewed one hundred and forty times over the following decades. She never changed her account, never embellished it, and reportedly grew to hate the sound of her own story. She died at seventy three. Her house still stands in the Inner City and is maintained at Court expense, and nobody lives in it.
 
@@ -451,7 +451,7 @@ They did not want the throne. They wanted to know if He was alive in there.
 
 The Garrison stopped them at the threshold. Nobody died at the Spire. All nine were Disappeared within the month, their names struck, their families reassigned to distant prefectures under new registrations. The Duke of Eternal Night, who knew the attendant well, did not intervene, and this is the one subject on which he cannot be drawn even slightly.
 
-Here is the detail that keeps the Breach alive in whispers for three hundred years. The Garrison report, which is sealed but which Celestial Book has read, records that the doors were already open by the width of a hand when the soldiers arrived, and that the attendant was not pulling at them.
+Here is the detail that has kept the Breach alive in whispers for one hundred and fifty six years. The Garrison report, which is sealed but which Celestial Book has read, records that the doors were already open by the width of a hand when the soldiers arrived, and that the attendant was not pulling at them.
 
 He was standing in front of them. With his arms out. Facing away from the Spire, toward the soldiers.
 
@@ -463,23 +463,23 @@ The following year the Spire's surface became seamless.
 
 There is no account of the moment. Nobody watched it happen. The change was noticed over roughly eleven days by the watch, who reported first that the door frame seemed shallower, then that the seam was difficult to find, then that it could not be found at all. Sixteen days after the first report a mason was brought to confirm, and the mason, having spent an afternoon with his hands on the wall, refused to sign the certification and asked to be reassigned.
 
-The structure is now a single unbroken piece of material that is not any known stone. It does not weather. Nothing grows on it. Birds do not land on it, and this is not folklore; the Bureau of Celestial Inquiry ran an eleven year observational study and the finding is in the Archives, unremarked upon, with no conclusion offered.
+The structure is now a single unbroken piece of material that is not any known stone. It does not weather. Nothing grows on it. Birds do not land on it, and this is not folklore; the Bureau of Celestial Inquiry conducted an observational study lasting eleven years, and the finding is in the Archives, unremarked upon, with no conclusion offered.
 
-The Thirty Six Monks began the same year. They chant continuously, in shifts of six, and the chant has not stopped for one hundred and fifty five years. It did not stop during the Iron Rebellion. It did not stop during the plague. Two monks have died mid phrase and been carried out while the phrase continued around them.
+The Thirty Six Monks began the same year. They chant continuously, in shifts of six, and the chant has not stopped for one hundred and fifty five years. It did not stop during the Iron Rebellion. It did not stop during the plague. Two monks have died in the middle of a phrase and been carried out while the phrase continued around them.
 
 Nobody alive knows what the chant originally sounded like. It has drifted, the way any oral thing drifts across five generations, and the drift is now measurable: the Bureau of Celestial Inquiry has recordings in the form of trained transcribers' notations from four different eras, and the differences are substantial. There is a faction within the Golden Orthodoxy that wants this corrected, and a faction that considers the drift itself sacred, and this argument has consumed more senior clerical careers than the Dusk has.
 
 #### What Is Still True
 
-The meal is still prepared. First and fifteenth, carried to the antechamber, set down, taken away. It has never been rescinded. In three hundred years no official has been willing to be the one who signs the order stopping it, and the annual cost appears in the Ministry budget under an item so old that its original wording is no longer entirely grammatical.
+The meal is still prepared. First and fifteenth, carried to the antechamber, set down, taken away. It has never been rescinded. In one hundred and sixty four years no official has been willing to be the one who signs the order stopping it, and the annual cost appears in the Ministry budget under an item so old that its original wording is no longer entirely grammatical.
 
-The Hall of Open Hearing is maintained. Swept, aired, repaired. The queue markings on the forecourt stones are re cut when they wear down. A stonecutter comes every eleven years. He has no idea why; it is simply on the schedule.
+The Hall of Open Hearing is maintained. Swept, aired, repaired. When the queue markings on the forecourt stones wear down, they are cut again. A stonecutter comes every eleven years. He has no idea why; it is simply on the schedule.
 
 Once or twice a decade someone still comes and stands in the forecourt with a question. They are not moved along. The Garrison has a standing understanding, not an order, that these people are left alone. Guards will tell you privately that it is bad luck to interfere with them, and that the ones who come are almost always very old or very young.
 
-And here is what your players will feel if you play this correctly. The Celestial Court is not a machine for oppressing people. It is a machine for _waiting_, built by people who expected to use it for a few months, and every cruelty in this book is a load bearing part of a structure whose original purpose was to keep the seat warm.
+And here is what your players will feel if you play this correctly. The Celestial Court is not a machine for oppressing people. It is a machine for _waiting_, built by people who expected to use it for a few months, and every cruelty in this book is an essential part of a structure whose original purpose was to keep the seat warm.
 
-They are not usurpers. That would be simpler and much less frightening. They are a room full of people who never received an instruction to stop, doing the last thing they were told, for three hundred years, while the meal goes in and comes back out untouched.
+They are not usurpers. That would be simpler and much less frightening. They are a room full of people who never received an instruction to stop, doing the last thing they were told, for one hundred and sixty four years, while the meal goes in and comes back out untouched.
 
 ---
 
@@ -487,7 +487,7 @@ They are not usurpers. That would be simpler and much less frightening. They are
 
 The Dusk is not an army. It is not a plague. It is a corruption of reality itself. Where it spreads, the sky reddens to the color of old blood. Stone flows like water. The dead do not stay dead. Crops grow mouths and scream. People change into things that are not people, or they simply fade, leaving behind only official dossiers describing their "voluntary relocation."
 
-The Dusk began in the farthest border province fifty years ago. It has been advancing ever since. The Court's official explanation is that it represents "residual Disharmony from insufficient ritual education in peripheral regions." Harmonization Audits have been dispatched. The provinces that fall are removed from maps. Settled. They were never there.
+The first signs of the Dusk appeared in the farthest border province nearly fifty years ago. It has been advancing ever since. The Court's official explanation is that it represents "residual Disharmony from insufficient ritual education in peripheral regions." Harmonization Audits have been dispatched. The provinces that fall are removed from maps. Settled. They were never there.
 
 **The Dusk is the game's clock.** It advances in phases, triggering escalating crises and eventually forcing the endgame. It cannot be outrun, only understood.
 
@@ -521,13 +521,13 @@ Survivors describe the experience of Dusk exposure in stages that follow a consi
 
 #### Dusk Ecology
 
-Life persists in Dusk Touched zones, but it becomes strange. Botanists from the Bureau of Celestial Inquiry have catalogued over three hundred species of plants and fungi that thrive in the red, none of which existed before the Dusk arrived. There are crimson mosses that glow in the dark, trees that bear fruit filled with black liquid that induces prophetic dreams, and a species of mushroom that grows only on the bodies of the Dusk Touched and that, when consumed, allows the eater to perceive the memories of the dead person.
+Life persists in Dusk Touched zones, but it becomes strange. Botanists from the Bureau of Celestial Inquiry have cataloged over three hundred species of plants and fungi that thrive in the red, none of which existed before the Dusk arrived. There are crimson mosses that glow in the dark, trees that bear fruit filled with black liquid that induces prophetic dreams, and a species of mushroom that grows only on the bodies of the Dusk Touched and that, when consumed, allows the eater to perceive the memories of the dead person.
 
 Animal life in the Dusk follows similar patterns of grotesque adaptation. Predators develop new senses, able to perceive fear as a visible aura. Prey animals learn to move through the red mist without leaving traces. Insects in Dusk zones communicate through patterns of red bioluminescence that observers have described as a language, though no one has translated it.
 
 The most disturbing discovery, made by a research expedition from the Bureau of Celestial Inquiry that was subsequently Disappeared for "unsanctioned inquiry," is that the Dusk ecology is not random. It is organized. There are patterns of mutual dependence, predator prey relationships, and something that looks like social structure among the more advanced Dusk creatures. The Dusk is not destroying life. It is replacing one ecosystem with another.
 
-**Classified Species of Dusk Flora.** The Crimson Bloom is a flower that grows only in Dusk Touched soil, its petals the color of dried blood, its center black. When picked, it releases a pollen that induces vivid hallucinations of the person's deepest regrets. The Bureau of Celestial Inquiry has experimented with the pollen as a truth serum, with mixed results. The Red Moss is a fast growing organism that covers surfaces in Dusk zones, absorbing ambient Qi and converting it into a form that Dusk adapted creatures can consume. The moss is warm to the touch and pulses with a slow rhythm, like breathing. The Screaming Vines are mobile plants that hunt by sound, detecting vibrations and moving toward them at surprising speed. They wrap around their prey and inject a digestive fluid that dissolves flesh while keeping the prey conscious.
+**Classified Species of Dusk Flora.** The Crimson Bloom is a flower that grows only in Dusk Touched soil, its petals the color of dried blood, its center black. When picked, it releases a pollen that induces vivid hallucinations of the person's deepest regrets. The Bureau of Celestial Inquiry has experimented with the pollen as a truth serum, with mixed results. The Red Moss spreads quickly across surfaces in Dusk zones, absorbing ambient Qi and converting it into a form that creatures adapted to the Dusk can consume. The moss is warm to the touch and pulses with a slow rhythm, like breathing. The Screaming Vines are mobile plants that hunt by sound, detecting vibrations and moving toward them at surprising speed. They wrap around their prey and inject a digestive fluid that dissolves flesh while keeping the prey conscious.
 
 **Classified Species of Dusk Fauna.** The Quiet Ones are the most feared Dusk creatures. They are humanoid figures that wander out of Dusk zones, wearing the forms of people who died within. They do not speak. They do not eat. They do not sleep. They walk, always walking, following paths that only they can perceive. They sometimes stop at the edge of villages and stand motionless, facing inward, for hours or days before moving on. The Blink Hounds are pack hunters that can teleport short distances, appearing and disappearing in flickering motions that make them nearly impossible to track. They are drawn to strong emotion, especially fear, which they can smell from miles away. The Mirror Moths are beautiful and deadly. Their wings reflect whatever the viewer most desires to see, drawing victims into a trance from which they do not wake. The moths feed on the Qi of the entranced, draining them slowly over days.
 
@@ -539,7 +539,7 @@ Whether the Crimson Dusk possesses intelligence, will, or purpose is the subject
 
 **The Hunger Theory.** The Dusk is a predator. It consumes because that is its nature. It has no malice and no plan, any more than a fire has malice or a flood has a plan. It simply is what it is, and what it is, is hungry.
 
-**The Answer Theory.** The Dusk is a response to a question that the empire asked at its founding. The Sun Emperor performed a great ritual to establish the Celestial Empire, and every ritual has a cost. The Dusk is that cost, finally coming due. It is not attacking the empire. It is completing the transaction.
+**The Answer Theory.** The Dusk is the delayed answer to a question the empire asked at its founding. The founding ritual sacrificed or bound the land's original guardians and installed the Sun Emperor as the new living conduit between Heaven and Earth. When the Court sealed Him one hundred and fifty five years ago, it severed that replacement conduit. The Dusk is the wound left by both acts, only now becoming visible. It is not attacking the empire. It is completing a transaction the founders began.
 
 **The Birth Theory.** The Dusk is not a destruction but a metamorphosis. It is the death throes of one reality and the birth pangs of another. Celestial Book, who has never confirmed or denied this theory, once described the Dusk as "the shape of the world that is trying to be born."
 
@@ -549,13 +549,13 @@ Whether the Crimson Dusk possesses intelligence, will, or purpose is the subject
 
 The following testimonies were recovered from the archives of the Bureau of Border Harmony. They are classified. They are real.
 
-**Account of Lin, former farmer of Scorch Field.** "I walked for eleven days after the fire came. My wife stayed behind. She said someone had to feed the animals. I told her the animals were already gone. She said she knew. I walked east. The sky was red the whole time. It made a sound like a distant bell, constant, never changing. On the third day I stopped being afraid. On the seventh day I realized I could not remember my wife's face. On the ninth day I realized I did not care. I reached the imperial checkpoint on the eleventh day. They asked me questions. I answered them. They gave me new clothes and a new name and sent me to a camp. I have been here for ten years. I still hear the bell."
+**Account of Lin, former farmer of Scorch Field.** "I walked for eleven days after the fire came. My wife stayed behind. She said someone had to feed the animals. I told her the animals were already gone. She said she knew. I walked east. The sky was red the whole time. It made a sound like a distant bell, constant, never changing. On the third day I stopped being afraid. On the seventh day I realized I could not remember my wife's face. On the ninth day I realized I did not care. I reached the imperial checkpoint on the eleventh day. They asked me questions. I answered them. They gave me new clothes and a new name and sent me to a camp. I have been here for forty years. I still hear the bell."
 
 **Account of Doctor Quiet Water, former physician of Amber Shore.** "The first patient arrived at dawn. He was a fisherman. His eyes were red, not bloodshot but actually red, the whites had turned the color of rose petals. He said the sea had spoken to him. He said it had shown him things beneath the waves, cities of coral and bone, cities that had been waiting for a very long time. I treated him for shock and sent him home. The next day, seventeen more arrived with the same condition. By the end of the week, the entire coastal population was affected. They were not distressed. They were ecstatic. They said the sea was calling them home. They walked into the water and did not come back. I was the only physician who refused to follow them. I do not know why I refused. I think about it every day. I think about the city beneath the waves. I think it is beautiful."
 
 **Account of Sergeant Stone Bridge, former garrison soldier of the Western Bulwark, assigned to border patrol.** "We were sent to investigate reports of red frost in the high passes. Six of us. Experienced mountaineers, every one. We found the frost on the third day. It was beautiful. I cannot describe it any other way. It covered the rocks in patterns that looked like writing, like a language we almost understood. Corporal Wei touched it. I told him not to. He touched it anyway. His hand turned red, then clear, then gone. Not destroyed. Simply not there anymore, as though it had been removed from the definition of what a hand is. He looked at the stump. He was not in pain. He was fascinated. He asked me if I could see the patterns in the air. I could not. He described them to me for four hours before he stopped speaking. When we brought him back to the garrison, the physicians said he was in shock. I knew he was not in shock. He was seeing something that the rest of us could not see, and he was trying to explain it, and he could not, because the language for what he was seeing does not exist yet."
 
-**Account of Apprentice Scholar Wei, Bureau of Celestial Inquiry, classified expedition to Weeping Valley.** "We were authorized to study the fog at close range. Three scholars, six guards, equipment for a month of observation. The fog is not uniform. It has currents, eddies, layers of density. It moves like a living thing, or like water animated by a will. On the eighth night, I was on watch. The fog had advanced closer to our camp than it had been at sunset. I could see shapes moving within it. Not people shaped. Something else. I heard a voice. It said my name. It was my mother's voice. She died when I was seven. I knew it could not be her. I stood up anyway. I walked toward the fog. One of the guards tackled me before I reached it. I fought him. I bit him. I tried to kill him to get to the fog. They restrained me. They sent me back to the capital the next morning. I have been in treatment for three months. I still dream about the fog. I still want to go back. I still hear her calling. I know it is not her. I do not care."
+**Account of Apprentice Scholar Wei, Bureau of Celestial Inquiry, classified expedition to Weeping Valley.** "We were authorized to study the fog at close range. Three scholars, six guards, equipment for a month of observation. The fog is not uniform. It has currents, eddies, layers of density. It moves like a living thing, or like water animated by a will. On the eighth night, I was on watch. The fog had advanced closer to our camp than it had been at sunset. I could see shapes moving within it. Not shaped like people. Something else. I heard a voice. It said my name. It was my mother's voice. She died when I was seven. I knew it could not be her. I stood up anyway. I walked toward the fog. One of the guards tackled me before I reached it. I fought him. I bit him. I tried to kill him to get to the fog. They restrained me. They sent me back to the capital the next morning. I have been in treatment for three months. I still dream about the fog. I still want to go back. I still hear her calling. I know it is not her. I do not care."
 
 ---
 
@@ -625,7 +625,7 @@ Here is the part your players need, and it is not a story about a villain.
 
 In the eighth month of Year 412 the Governor of Scorch Field, a woman named Autumn Salt who had held the post for nineteen years and was by all accounts unremarkable and diligent, requested evacuation support: transport, grain, and resettlement authorization for four hundred thousand people.
 
-The request went to the Bureau of Border Harmony, which had been established seven years earlier with a mandate to coordinate existing resources and a budget that did not permit it to coordinate anything. Its director forwarded the request to the Grand Council with a supporting recommendation. This was the correct procedure and it was also the end of the matter, because the request now required an assessment.
+The request passed through the provincial administration and then to the Grand Council, because the Bureau of Border Harmony did not yet exist. A Council secretariat ordered an assessment before transport, grain, or resettlement authority could be considered. This was the correct procedure and it was also the end of the matter.
 
 The assessment team was four people. They were in the province eleven days. Their finding runs to three pages and the operative sentence is this:
 
@@ -661,13 +661,13 @@ The consequence, which nobody intended and nobody could reverse, was that the su
 
 #### The Camps, Which Are Still There
 
-Thirty eight years later there are eleven camps outside the capital's outer wall. They are not camps. They have brick buildings, three generations, a market, four shrines, a smuggling economy, and an internal politics more complex than most prefectures.
+Forty years later there are eleven camps outside the capital's outer wall. They are not camps. They have brick buildings, three generations, a market, four shrines, a smuggling economy, and an internal politics more complex than most prefectures.
 
 They also have no legal existence, which means no assessments, no conscription, no tax, and no Commission office. This is why they are the freest ground in the Nine Domains and why the Court is more frightened of them than of any faction in the Council chamber.
 
 The Scorch Field community keeps goats on thin grass that is not their grass and makes the cheese wrong and knows it. They hold the summer gathering on the correct day. The two singer style is taught to children who have never seen the plain, and the elders correct the pronunciation of place names that no longer exist, harshly, because it is the only enforcement left available to them.
 
-The generation born in the camps is now in its thirties, and it does not remember, and it is angry in a way its parents are not. The parents are grieving. The children are political. Iron Bone came out of exactly this, and so did three quarters of the Common Flame's organizers, and the Court has never once traced the connection in writing, because writing it down would require naming a province that does not exist.
+The generation born in the camps is now in its thirties, and it does not remember, and it is angry in a way its parents are not. The parents are grieving. The children are political. Iron Bone built alliances with exactly this generation, and three quarters of the Common Flame's organizers came from it. The Court has never once traced the connection in writing, because writing it down would require naming a province that does not exist.
 
 #### What Is Still True
 
@@ -677,7 +677,7 @@ There are people in the capital who ate that cheese as children and have not tho
 
 There are three more border provinces. Two remain.
 
-And there is a shelf in the Bureau of Border Harmony's fourth room, the current small room, holding the complete Scorch Field file: the prospecting report, the mineral anomaly classification, the surveyor's careful recommendation, the three page finding, the four petitions, the twelve page final compilation, and the withdrawal of the residence code. It is about a hand's width of paper. It is all in order. Any clerk may request it.
+After the Bureau of Border Harmony was founded in Year 419, the complete Scorch Field file was transferred to a shelf in its fourth room, the current small room: the prospecting report, the mineral anomaly classification, the surveyor's careful recommendation, the finding of three pages, the four petitions, the final compilation of twelve pages, and the withdrawal of the residence code. It is about a hand's width of paper. It is all in order. Any clerk may request it.
 
 Nobody ever does.
 
@@ -689,11 +689,11 @@ Xiaoyuan is the heart of the Celestial Empire, the oldest continuously inhabited
 
 #### The Inner City
 
-The Inner City occupies the highest ground, a natural plateau that was leveled and reshaped by the first generation of Court architects. It is surrounded by a wall sixty feet high and thirty feet thick, inlaid with Qi conductive bronze that glows with a soft amber light after sunset. There are four gates, one for each cardinal direction, and each gate is guarded by a company of the Imperial Garrison in full ceremonial armor. The gates close at dusk and do not open again until dawn. Anyone caught outside the walls after curfew is subject to immediate investigation.
+The Inner City occupies the highest ground, a natural plateau that was leveled and reshaped by the first generation of Court architects. It is surrounded by a wall sixty feet high and thirty feet thick, inlaid with bronze that conducts Qi and glows with a soft amber light after sunset. There are four gates, one for each cardinal direction, and each gate is guarded by a company of the Imperial Garrison in full ceremonial armor. The gates close at dusk and do not open again until dawn. Anyone caught outside the walls after curfew is subject to immediate investigation.
 
 The streets of the Inner City are paved with white stone that has been polished by centuries of footsteps. They are wide enough for six people to walk abreast, deliberately designed to prevent the crowded conditions that breed dissent. The architecture is formal, restrained, and ancient: buildings of grey stone with tiled roofs that curve upward at the corners, their ridges decorated with ceramic guardians. Every building in the Inner City is at least two hundred years old. Construction of new buildings is forbidden without special dispensation from the Grand Council, a rule that has been in effect for a century and a half.
 
-The air of the Inner City is noticeably cleaner than the rest of Xiaoyuan. The Court maintains a network of Qi powered air purifiers that filter smoke, dust, and pollutants from the atmosphere. The technology exists in the Outer City but is not deployed there. The difference in air quality is one of the most visceral markers of class: a person who lives in the Inner City breathes air that smells of flowers and incense; a person who lives in the Outer City breathes air that smells of coal and garbage and the faint copper tang of untreated sewage. The Inner City's residents have difficulty breathing when they travel outside their district. They rarely do. The Qi concentrations are carefully regulated. The sounds are muted: the rustle of silk robes, the clicking of abacuses from open windows, the distant chanting of ritualists in the Ministry of Harmonious Rites quarter. The smell is of old paper, incense, polished wood, and the faint sweetness of the flowering plum trees that line the main avenues.
+The air of the Inner City is noticeably cleaner than the rest of Xiaoyuan. The Court maintains a network of air purifiers powered by Qi that filter smoke, dust, and pollutants from the atmosphere. The technology exists in the Outer City but is not deployed there. The difference in air quality is one of the most visceral markers of class: a person who lives in the Inner City breathes air that smells of flowers and incense; a person who lives in the Outer City breathes air that smells of coal and garbage and the faint copper tang of untreated sewage. The Inner City's residents have difficulty breathing when they travel outside their district. They rarely do. The Qi concentrations are carefully regulated. The sounds are muted: the rustle of silk robes, the clicking of abacuses from open windows, the distant chanting of ritualists in the Ministry of Harmonious Rites quarter. The smell is of old paper, incense, polished wood, and the faint sweetness of the flowering plum trees that line the main avenues.
 
 The Inner City is home to the Court's senior officials, the Eight Great Families' urban mansions, the Grand Council chamber, the Spire of Eternal Vigil, the Imperial Archives, and the ministries. It is also home to the families of the Inner Court: three thousand people who constitute the empire's true ruling class, living in compounds that are cities unto themselves, with their own servants, guards, gardens, and secrets.
 
@@ -701,13 +701,13 @@ The Inner City is home to the Court's senior officials, the Eight Great Families
 
 Beyond the Inner City walls, Xiaoyuan spreads outward in concentric rings of decreasing wealth and increasing density. The Outer City has no wall of its own; it has simply grown, absorbing surrounding villages and towns until the boundaries between city and countryside became meaningless.
 
-The architecture of the Outer City is chaotic and organic. Buildings of different eras stand side by side: a wooden teahouse from the Golden Age next to a Qi heated apartment block from the last century next to a hastily constructed shelter of scrap wood and canvas. The streets are narrow, winding, and often unpaved. They have names like Threadbone Lane, Pot Alley, the Street of a Hundred Lamps, and the Passage That Weeps. The names are not official. They change with the generations.
+The architecture of the Outer City is chaotic and organic. Buildings of different eras stand side by side: a wooden teahouse from the Golden Age next to an apartment block from the last century heated by Qi, then a hastily constructed shelter of scrap wood and canvas. The streets are narrow, winding, and often unpaved. They have names like Threadbone Lane, Pot Alley, the Street of a Hundred Lamps, and the Passage That Weeps. The names are not official. They change with the generations.
 
 The sound of the Outer City is constant. Street vendors call out their wares in a dozen dialects. Children scream and laugh. Arguments erupt and subside. Musicians play for coins on street corners. From the factory districts comes the rhythmic pounding of machinery. And beneath it all, the hum of the Qi grid, the empire's circulatory system, powering lights, heating homes, and keeping the city alive.
 
 The smell changes with every block: frying oil and burning incense, fresh bread and rotting garbage, the sharp tang of medicinal herbs and the sweet decay of the open sewers. The Outer City is alive in a way that the Inner City is not. It is also dying, more slowly, in the dark.
 
-**The Water System.** The Outer City's water system is a marvel of improvisation and a tragedy of neglect. The original Qi powered aqueducts, built during the Golden Age, still function in the Spire District and the Garden Quarter. Beyond those districts, water is delivered by cart, carried in barrels from public wells, or collected from the Jade River, which is also the city's sewer. Waterborne disease is the leading cause of death in the Warrens, the Foundry District, and the Fringe. The Court knows this. The Court has calculated the cost of fixing the water system and decided it is not worth the investment.
+**The Water System.** The Outer City's water system is a marvel of improvisation and a tragedy of neglect. The original aqueducts powered by Qi, built during the Golden Age, still function in the Spire District and the Garden Quarter. Beyond those districts, water is delivered by cart, carried in barrels from public wells, or collected from the Jade River, which is also the city's sewer. Waterborne disease is the leading cause of death in the Warrens, the Foundry District, and the Fringe. The Court knows this. The Court has calculated the cost of fixing the water system and decided it is not worth the investment.
 
 The public wells are maintained by neighborhood associations, which charge a fee for access. The poor who cannot afford the fee collect water from the river or from drainage channels, taking their chances with contamination. During drought years, the wells run low, and the price of water rises beyond what most can pay. Water riots broke out twice in the last decade. Both times, the Garrison restored order. Neither time did the Court address the underlying problem.
 
@@ -719,21 +719,21 @@ The Outer City is divided into eight prefectures, each with its own character, i
 
 **The Ministry Quarter.** A dense warren of office buildings where the empire's actual work is done. Every ministry has its headquarters here, from the Bureau of Harmonious Narrative to the Commission for Weights and Measures. The streets are clogged with couriers, petitioners, and minor officials carrying documents from one building to another. The paper consumption of the Ministry Quarter is estimated at ten thousand sheets per hour. At night, the windows burn with oil lamps as exhausted scribes complete their quotas. The sound is of a million brush strokes, constant and unceasing.
 
-**The Warrens.** The oldest part of the Outer City, built over the foundations of the pre imperial settlement that existed here before the Sun Emperor arrived. The streets are narrow tunnels between buildings that lean together overhead, blocking out the sky. The Warrens are home to the city's poorest, newest arrivals, refugees from the border provinces, and people who have chosen to live outside the empire's systems of registration and taxation. The Court pretends the Warrens do not exist. This is how the Warrens survive.
+**The Warrens.** The oldest part of the Outer City, built over the foundations of the settlement that stood here before the empire and before the Sun Emperor arrived. The streets are narrow tunnels between buildings that lean together overhead, blocking out the sky. The Warrens are home to the city's poorest, newest arrivals, refugees from the border provinces, and people who have chosen to live outside the empire's systems of registration and taxation. The Court pretends the Warrens do not exist. This is how the Warrens survive.
 
-**The Outer Market.** A permanent market covering twenty acres of densely packed stalls, tents, and open air shops. Everything is sold here: food, cloth, tools, drugs, information, bodies. The Outer Market is the empire's largest economy, and none of its transactions are recorded in the Ministry of Revenue's ledgers. The market operates on a system of trust, reputation, and violence that has evolved over centuries into something approaching law. The market wardens, a council of the most successful merchants, settle disputes, enforce contracts, and ensure that the Court's spies do not interfere too directly.
+**The Outer Market.** A permanent market covering twenty acres of densely packed stalls, tents, and uncovered shops. Everything is sold here: food, cloth, tools, drugs, information, bodies. The Outer Market is the empire's largest economy, and none of its transactions are recorded in the Ministry of Revenue's ledgers. The market operates on a system of trust, reputation, and violence that has evolved over centuries into something approaching law. The market wardens, a council of the most successful merchants, settle disputes, enforce contracts, and ensure that the Court's spies do not interfere too directly.
 
 **The Garden Quarter.** A residential prefecture of moderate wealth, home to artisans, merchants, and the more successful members of the Common Flame's support base. The streets here are lined with plane trees. The houses have small gardens. The tea houses are known for their poetry readings and their political discussions, the latter conducted in voices carefully calibrated to carry no farther than the next table.
 
 **The Foundry District.** The industrial heart of the Outer City, where raw materials from the provinces are processed into finished goods. The air is thick with smoke. The noise is unbearable. The workers here are the most militant in the city, and the Common Flame finds its strongest recruits among them.
 
-**The Harbor Prefecture.** Built along the Jade River, where goods from the Southern Granary and the Eastern Foundries arrive by barge. The wharves are a maze of warehouses, brothels, and taverns catering to sailors and river traders. The water smells of fish, fuel, and secrets. The Harbor Prefecture is Shadow's primary operating territory, and she has informants on every dock.
+**The Harbor Prefecture.** Built along the Jade River, where goods from the Southern Granary and the Eastern Foundries arrive by barge. The wharves are a maze of warehouses, brothels, and taverns catering to sailors and river traders. The water smells of fish, fuel, and secrets. The Harbor Prefecture is Shadow's primary operating territory, and he has informants on every dock.
 
 **The Fringe.** The outermost ring of the city, where Xiaoyuan merges with the countryside. Farmland, shantytowns, and the encampments of refugees who have not yet been processed into the imperial system. The Fringe grows every year as the Dusk pushes more people toward the capital. The Court has not decided what to do about this. The decision gets harder every day.
 
 #### Specific Locations
 
-**The Spire of Eternal Vigil.** Visible from every corner of Xiaoyuan, the Spire rises three thousand feet from the center of the Inner City. It is a needle of white stone that seems to absorb light rather than reflect it. No window, no door, no opening of any kind has been seen on its surface for three hundred years. The stone is not any material known to imperial geology. It is warm to the touch, always, even in winter. At the base of the Spire, a circle of thirty six monks from the Golden Orthodoxy maintain a continuous chant that has not stopped since the Emperor's withdrawal. They rotate in shifts. The chant never pauses. Some of the older monks have developed the ability to speak and chant simultaneously, a condition called Forked Voice that is considered a mark of spiritual advancement.
+**The Spire of Eternal Vigil.** Visible from every corner of Xiaoyuan, the Spire rises three thousand feet from the center of the Inner City. It is a needle of white stone that seems to absorb light rather than reflect it. No window, no door, no opening of any kind has been seen on its surface for one hundred and fifty five years. The stone is not any material known to imperial geology. It is warm to the touch, always, even in winter. At the base of the Spire, a circle of thirty six monks from the Golden Orthodoxy maintain a continuous chant that has not stopped since the final sealing. They rotate in shifts. The chant never pauses. Some of the older monks have developed the ability to speak and chant simultaneously, a condition called Forked Voice that is considered a mark of spiritual advancement.
 
 When you stand at the base of the Spire and look up, the perspective is dizzying. The walls curve inward as they rise, creating the illusion that the tower is leaning toward you, or that you are falling toward it. The air around the Spire is charged with static. Your hair rises. Your teeth ache. The chant vibrates in your chest like a second heartbeat. There is a smell, ozone and old stone and something floral that might be coming from the stone itself.
 
@@ -743,17 +743,17 @@ The official story is that the Emperor sits in meditation at the Spire's apex, m
 
 The seven seats of the Grand Council are arranged in a circle at the center of the hall. They are made of black jade, each one carved from a single block. The three vacant seats are covered with white silk. The four occupied seats hold elders who have held power for so long that they have become more symbol than person. The air in the chamber is cold, deliberately cold, to keep the councilors alert. The only sound during sessions is the rustle of silk and the voice of whoever is speaking. Echoes are forbidden by acoustic design. Every word is heard exactly once, exactly where it lands, and then it is gone.
 
-**The Imperial Archives.** A complex of buildings behind the Grand Council chamber that houses every document the empire has ever produced: census records, tax ledgers, ritual texts, military dispatches, Harmonization Audit reports, personal correspondence, and the classified files that the Bureau of Harmonious Narrative has officially destroyed but secretly preserved. The Archives are Celestial Book's domain. He is the only person who has access to every level. The lower levels are said to extend deeper than the Warrens, descending into chambers that have not been opened in centuries, containing documents from before the empire, from before the Sun Emperor, from a time when the world was governed by different laws entirely.
+**The Imperial Archives.** A complex of buildings behind the Grand Council chamber that houses every document the empire has ever produced: census records, tax ledgers, ritual texts, military dispatches, Harmonization Audit reports, personal correspondence, and the classified files that the Bureau of Harmonious Narrative has officially destroyed but secretly preserved. The Archives are Celestial Book's domain. She is the only person who has access to every level. The lower levels are said to extend deeper than the Warrens, descending into chambers that have not been opened in centuries, containing documents from before the empire, from before the Sun Emperor, from a time when the world was governed by different laws entirely.
 
 The smell of the Archives is of paper so old that it has begun to return to pulp, of ink that has faded to the color of dried blood, of dust that contains the ground up remains of books that were destroyed for their content. The temperature drops as you descend. The lights grow dimmer. The silence becomes absolute. In the deepest levels, sound does not travel. The Archives are one of the few places in the empire where the Veiling Aspect of Qi is naturally dominant.
 
 **The Temple of Ten Thousand Gods.** A sprawling complex in the Garden Quarter that predates the empire. Before the Sun Emperor established the state orthodoxy, this was the continent's most important pilgrimage site, dedicated to the worship of every deity that human beings had ever conceived. Now it is a museum, a curiosity, a tolerated anachronism. The priests of the Temple maintain their devotions in secret, meeting at night to perform rites that have been outlawed for three centuries.
 
-The temple consists of ten thousand niches, each one containing a statue of a god. Some of the statues are ancient, carved from stone that has worn smooth by centuries of reverent touch. Some are new, crude images carved by refugees who brought their gods with them. The Court does not officially acknowledge the Temple's continued operation. The Commission for Celestial Purity has raided it seventeen times. Seventeen times, the priests have rebuilt. The Bright Mirror has been ordered to destroy it permanently. She has not yet obeyed the order.
+The temple consists of ten thousand niches, each one containing a statue of a god. Some of the statues are ancient, carved from stone that has worn smooth by centuries of reverent touch. Some are new, crude images carved by refugees who brought their gods with them. The Court does not officially acknowledge the Temple's continued operation. The Commission for Celestial Purity has raided it seventeen times. Seventeen times, the priests have rebuilt. The Bright Mirror has been ordered to destroy it permanently. He has not yet obeyed the order.
 
 **The Bridge of Sighs.** A narrow stone bridge connecting the Spire District to the Ministry Quarter, crossing a canal that was once a river and is now an open sewer. The Bridge of Sighs is where condemned officials take their last walk before their Harmonization Audit judgment is announced. The name comes from the sound that witnesses describe hearing as the condemned crosses the bridge: not crying, not pleading, but a soft exhalation, as though the person is releasing everything they were into the air. The bridge is made of grey stone worn smooth by the feet of the condemned. It is said that on foggy nights, you can still hear the sighs of everyone who crossed it. The sound is a low, collective exhalation, the breath of a thousand souls releasing their final hopes. Those who hear it report feeling a profound sadness that lasts for days.
 
-**The Whispering Gallery.** Not far from the Bridge of Sighs, in an older section of the Ministry Quarter, there is a hallway known as the Whispering Gallery. Its walls are lined with Qi resonant stone that carries sound in strange ways. A whisper at one end of the gallery is clearly audible at the other, creating the illusion that the stones themselves are speaking. The Gallery is used for diplomatic meetings where officials want to be overheard, and for private conversations where they do not. The acoustics are complex enough that a trained listener can distinguish between genuine whispers and the gallery's natural echoes, but the training takes years.
+**The Whispering Gallery.** Not far from the Bridge of Sighs, in an older section of the Ministry Quarter, there is a hallway known as the Whispering Gallery. Its walls are lined with stone that resonates with Qi and carries sound in strange ways. A whisper at one end of the gallery is clearly audible at the other, creating the illusion that the stones themselves are speaking. The Gallery is used for diplomatic meetings where officials want to be overheard, and for private conversations where they do not. The acoustics are complex enough that a trained listener can distinguish between genuine whispers and the gallery's natural echoes, but the training takes years.
 
 The Gallery has a darker reputation. Officials who have been marked for Harmonization are sometimes summoned to meetings in the Gallery that never occur. They enter one end, and they do not exit the other. The Gallery's caretaker, an ancient woman named Echo Keeper, claims to hear their voices still, whispering in the walls, repeating the last words they ever spoke.
 
@@ -771,7 +771,7 @@ A day in Xiaoyuan looks very different depending on who you are.
 
 **For a Brush Scribe of the Eighth Rank.** You rise before dawn, in a rented room in the Spire District that you share with two other scribes. You wash your face with cold water from the communal basin. You dress in your grey official robes, careful to align the rank badges correctly. You eat a hurried breakfast of rice porridge and pickled vegetables at a street stall, standing because there is no time to sit. You walk to the Bureau of Harmonious Records through streets that are already crowded with people doing the same thing. You arrive at your desk before the morning bell. You spend the next twelve to fourteen hours copying documents, filing reports, and performing whatever tasks your supervisor assigns. You eat a midday meal at your desk, a simple box of rice and vegetables. You do not speak unless spoken to. You watch the shadows lengthen. You watch the senior officials walk past with their important documents and their important worries. You leave after the evening bell, exhausted. You eat a bowl of noodles at a street stall. You go to bed. You dream of paper.
 
-**For a Mid Ranking Official of the Fifth Rank.** You live in a modest but private residence in the Spire District. You have one or two servants. You begin your day with tea and meditation, aligning your Qi for the work ahead. You dress in robes of blue or green silk, appropriate to your rank. You walk to your ministry, acknowledging the bows of your subordinates. You spend the morning in meetings, reviewing reports, making decisions that affect the lives of thousands of people who will never know your name. You take an hour for the midday meal, which you eat in a private room with colleagues from other ministries, exchanging information that is not quite gossip and not quite intelligence. You spend the afternoon on correspondence, drafting responses to provincial governors, petitioning the Inner Court for resources, managing the careers of those beneath you. You leave at a reasonable hour. You attend a social function in the evening, a dinner or a poetry reading or a visit to a teahouse where business is conducted in the spaces between words. You return home late. You lie awake wondering which of your colleagues is positioning against you.
+**For an Official of the Fifth Rank.** You live in a modest but private residence in the Spire District. You have one or two servants. You begin your day with tea and meditation, aligning your Qi for the work ahead. You dress in robes of blue or green silk, appropriate to your rank. You walk to your ministry, acknowledging the bows of your subordinates. You spend the morning in meetings, reviewing reports, making decisions that affect the lives of thousands of people who will never know your name. You take an hour for the midday meal, which you eat in a private room with colleagues from other ministries, exchanging information that is not quite gossip and not quite intelligence. You spend the afternoon on correspondence, drafting responses to provincial governors, petitioning the Inner Court for resources, managing the careers of those beneath you. You leave at a reasonable hour. You attend a social function in the evening, a dinner or a poetry reading or a visit to a teahouse where business is conducted in the spaces between words. You return home late. You lie awake wondering which of your colleagues is positioning against you.
 
 **For a Member of the Inner Court.** Your day is not governed by bells. Your residence is a compound in the Inner City, staffed by dozens of servants. You wake when you choose. You are bathed by attendants. You dress in robes of gold or purple, the colors of the highest ranks. Your breakfast is a ceremony involving multiple courses and the presence of a Qi therapist who checks your energy balance. Your morning is occupied with the business of the empire: meetings of the Grand Council or its subcommittees, audiences with provincial representatives, consultations with the heads of the Special Bureaus. You speak with the authority of the Court. Your words become policy. Your midday meal is a formal affair, often with guests from other powers within the empire. You spend the afternoon on the work that truly matters: building alliances, managing rivals, planning for the succession crises and Harmonization Audits that you know are coming. Your evening is given to pleasure or politics, often indistinguishable. You go to sleep knowing that your position is never secure, that the Bright Mirror may be building a case against you, that the shadow of the Spire falls across every room.
 
@@ -785,7 +785,7 @@ Xiaoyuan operates on cycles that have been established for so long that they fee
 
 **The Day Cycle.** The morning bell rings at the fifth hour, marking the opening of the ministries. The midday bell at the eighth hour marks the meal break, when the streets fill with officials seeking food and gossip. The evening bell at the thirteenth hour marks the close of official business. The curfew bell at the fifteenth hour warns the Outer City to clear the streets. The night bell at the seventeenth hour is the final warning; anyone still outside in the Inner City after this bell is subject to arrest.
 
-**The Market Cycle.** The Outer Market operates on a three day rotation. On the first day, food and household goods are the primary trade. On the second day, luxury goods and information. On the third day, everything else: drugs, weapons, forbidden texts, contracts for services that the law does not permit. The third day is called Shadow Market Day, though the term is used with caution.
+**The Market Cycle.** The Outer Market follows a rotation over three days. On the first day, food and household goods are the primary trade. On the second day, luxury goods and information. On the third day, everything else: drugs, weapons, forbidden texts, contracts for services that the law does not permit. The third day is called Shadow Market Day, though the term is used with caution.
 
 **The Festival Cycle.** Xiaoyuan's calendar is punctuated by festivals that break the monotony of imperial routine.
 
@@ -807,17 +807,17 @@ Beneath the streets of Xiaoyuan lies a city that the official maps do not show.
 
 The atmosphere of the Warrens Below is constant: damp, cool, smelling of wet earth and mildew and the distant tang of stagnant water. The walls are a patchwork of ancient stone, modern brick, and packed earth. The tunnels are lit by occasional oil lamps and the phosphorescent glow of fungi that grow on the walls. The sound is of dripping water, distant footsteps, and the occasional scream that might be human or might be something else.
 
-The Warrens Below have their own economy, their own law, their own politics. Shadow controls a significant portion of it, but she is not the only power. There are cults down here, worshipping gods that the Temple of Ten Thousand Gods has forgotten. There are communities of people who have never seen the sun, born and raised in the darkness. There are prisons that the Court does not know about, run by factions that capture and interrogate people for purposes that no one outside the Warrens can guess.
+The Warrens Below have their own economy, their own law, their own politics. Shadow controls a significant portion of it, but he is not the only power. There are cults down here, worshipping gods that the Temple of Ten Thousand Gods has forgotten. There are communities of people who have never seen the sun, born and raised in the darkness. There are prisons that the Court does not know about, run by factions that capture and interrogate people for purposes that no one outside the Warrens can guess.
 
 **The Black Market.** Every major city has a black market. Xiaoyuan's operates openly, in the sense that everyone knows where it is and the Court pretends not to. The true black market, the one that really matters, operates beneath the city, in a complex of chambers beneath the Outer Market called the Hollow Exchange.
 
-The Hollow Exchange is a natural cavern that was expanded over centuries into a trading floor three hundred feet wide. The ceiling is lost in darkness. The floor is packed earth. The stalls are carved into the walls, each one lit by a single lantern. The goods traded here are the ones that cannot be traded above ground: Qi draining devices, the blood of the Crimson Lineage, maps of the Archives' forbidden levels, classified documents from every ministry, the names of people who have died in Harmonization Audits but are officially still alive, and the addresses of their surviving families.
+The Hollow Exchange is a natural cavern that was expanded over centuries into a trading floor three hundred feet wide. The ceiling is lost in darkness. The floor is packed earth. The stalls are carved into the walls, each one lit by a single lantern. The goods traded here are the ones that cannot be traded above ground: devices that drain Qi, the blood of the Crimson Lineage, maps of the Archives' forbidden levels, classified documents from every ministry, the names of people who have died in Harmonization Audits but are officially still alive, and the addresses of their surviving families.
 
 The Hollow Exchange operates on a strict code. No weapons. No violence on the trading floor. No dealings with the Dusk Touched, though everyone knows this rule is broken regularly. The Exchange is governed by a council of seven traders who are known only by their symbols: the Coin, the Scale, the Key, the Mask, the Candle, the Thorn, and the Eye. Shadow is rumored to be one of them, or to know who all of them are, or to be all of them, depending on who you ask.
 
 **The Forgotten Tunnels.** Beneath even the Warrens Below, below the Hollow Exchange, below the deepest levels of the Archives, there are tunnels that no one has mapped. They predate the empire. They predate the civilization that predated the empire. The tunnels are made of a material that is not stone, not metal, not any substance that imperial science can identify. The walls are warm, like living flesh. They pulse. The air in the tunnels is not air as the empire understands it; breathing it produces visions, memories, and for some, the feeling of being dissolved.
 
-The Court knows about the Forgotten Tunnels. The Grand Council has sealed every known entrance with Qi inscriptions and iron doors. The seals are checked annually. Some of them have been broken, and resealed, and broken again. The Court does not discuss what breaks them. The Bright Mirror has investigated and has filed a report so classified that even Celestial Book has not been allowed to read it. The Duke of Eternal Night was present at the original sealing, three hundred years ago. When asked about the tunnels, he changes the subject. He is the only being in the empire who has never changed the subject in his life.
+The Court knows about the Forgotten Tunnels. The Grand Council has sealed every known entrance with Qi inscriptions and iron doors. The seals are checked annually. Some of them have been broken, and resealed, and broken again. The Court does not discuss what breaks them. The Bright Mirror has investigated and has filed a report so classified that even Celestial Book has not been allowed to read it. The Duke of Eternal Night was present when the entrances were originally sealed one hundred and fifty five years ago. When asked about the tunnels, he changes the subject. He is the only being in the empire who has never changed the subject in his life.
 
 ---
 
@@ -847,13 +847,13 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 112, The Imperial Academy System.** The Academy of Celestial Bureaucracy was established in Xiaoyuan, with branch academies in every province. For the first time, education was standardized across the empire. The curriculum was designed to produce loyal, competent officials. It succeeded at the latter.
 
-**Year 134, The Railway Charter.** The first Qi powered railway connected Xiaoyuan to the Eastern Foundries. The Iron Calculation school dates its founding to this year, though the school was not formally recognized until later. The railway reduced travel time from three weeks to two days. The empire shrank.
+**Year 134, The Railway Charter.** The first railway powered by Qi connected Xiaoyuan to the Eastern Foundries. The Iron Calculation school dates its founding to this year, though the school was not formally recognized until later. The railway reduced travel time from three weeks to two days. The empire shrank.
 
 **Year 156, The Great Expansion.** The empire's population reached one hundred million. The census, the most comprehensive ever conducted, recorded every subject by name, occupation, and Qi alignment. The census data was used to optimize tax collection. It was also used to identify children with exceptional Qi potential, who were taken to the capital for specialized training. The families who refused to surrender their children were recorded for future attention.
 
 **Year 189, The War of the Three Passes.** A conflict in the Western Bulwark that lasted seven years. The empire fought an enemy whose name has been erased from the records. The war ended with the complete annihilation of the enemy, the capture of their territory, and the expansion of the Western Bulwark's fortress network. The Iron Bodhisattva first appeared in soldiers' prayers during this war. The military's devotion to the war god dates from this period.
 
-**Year 204, The Founding of the Verdant Path.** A philosopher named Spring Root published "The Green Thesis," arguing that the empire's relationship with the natural world was exploitative and unsustainable. The thesis was banned. Copies circulated in secret. The Verdant Path movement began not as a political school but as a network of readers sharing Spring Root's ideas. The network has never stopped growing.
+**Year 204, The Founding of the Verdant Path.** Guest Among Forests, writing under the name Spring Root, published "The Green Thesis," arguing that the empire's relationship with the natural world was exploitative and unsustainable. The thesis was banned. Copies circulated in secret. The Verdant Path movement began not as a political school but as a network of readers sharing Spring Root's ideas. The network has never stopped growing.
 
 **Year 231, The Alchemical Revolution.** The Bureau of Celestial Inquiry developed the process for synthesizing Qi restorative elixirs. Life expectancy among the Inner Court doubled. The Crimson Lineage's monopoly on longevity was broken, though not destroyed. The Duke of Eternal Night reportedly laughed when he heard the news.
 
@@ -883,33 +883,35 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 351, The Famine of the Red Harvest.** A crop failure in the Southern Granary caused by a Qi imbalance that the Court's ritualists could not correct. The failure was preceded by three years of strange weather: unseasonable frosts, insect swarms, and a blight that turned rice stalks black. The Court's ritualists performed the standard purification ceremonies, but the blight did not respond. The failure was total across half the province. Three hundred thousand people starved before the harvest of the following year. The Crimson Lineage families, who had stored grain against exactly this contingency, sold it at ten times the normal price and became richer than ever. The common people have not forgotten.
 
-**Year 367, The Great Archives Fire.** A fire destroyed a wing of the Imperial Archives, consuming documents from the Founding Era. The fire was ruled an accident. The surviving records show that the fire began in the section containing the original copies of the Founding Charter and the complete records of the First Harmonization. Celestial Book was present at the fire. He was seen carrying armloads of documents from the burning building. He did not save the charter.
+**Year 367, The Great Archives Fire.** A fire destroyed a wing of the Imperial Archives, consuming documents from the Founding Era. The fire was ruled an accident. The surviving records show that the fire began in the section containing the original copies of the Founding Charter and the complete records of the First Harmonization. Celestial Book was present at the fire. She was seen carrying armloads of documents from the burning building. She did not save the charter.
 
 **Year 382, The Second Verdant Path Suppression.** The Verdant Path had reemerged after the first suppression. The Court moved against it again, executing its leadership and burning its texts. The movement survived underground. The Guest Among Forests, already old, was hidden by her people. She watched her friends die. She began to plan.
 
-**Year 398, The Blood Debt Accord.** The Crimson Lineage, facing internal decline as younger generations proved unable to sustain the blood cultivation arts, entered into a formal agreement with the Court. The Lineage would provide its hereditary knowledge in exchange for guaranteed political representation in perpetuity. The Duke of Eternal Night negotiated the accord. He secured favorable terms. His children were not present at the negotiation.
+**Year 398, The Blood Debt Accord.** The Crimson Lineage, facing internal decline as younger generations proved unable to sustain the blood cultivation arts, entered into a formal agreement with the Court. The Lineage would provide its hereditary knowledge in exchange for guaranteed political representation in perpetuity. The Duke of Eternal Night negotiated the accord. He secured favorable terms. Neither his mortal descendants nor his exiled heir were present at the negotiation.
 
 #### The Dusk Era (Years 403 to 452, Present)
 
 **Year 403, The First Sign.** Prospectors in Scorch Field reported patches of ground that had turned red and hot, as though the earth itself were feverish. The reports were filed. No investigation was ordered.
 
-**Year 408, The First Casualty.** A herder in Scorch Field walked into a patch of red ground and did not return. A search party found his body. He had been dead for a week. He was still warm.
+**Year 408, The First Casualty.** A herder named Ten Rivers walked into a patch of red ground and came back out. Over the following months he lost names, faces, and finally his way home. He later walked south at night, and a search party found him dead but still warm.
 
-**Year 412, The Fall of Scorch Field.** The Dusk spread across the province in a matter of months. The Governor requested evacuation assistance. The Court denied the request, citing resource constraints. Scorch Field was struck from official records. The herders who escaped were resettled in camps outside Xiaoyuan. The camps are still there.
+**Year 412, The Fall of Scorch Field.** The Dusk spread across the province in a matter of months. The Governor requested evacuation support through provincial and Grand Council channels. An assessment found that the evidence did not yet meet the threshold for a provincial evacuation. People began leaving without official support, and many eventually formed camps outside Xiaoyuan. The camps are still there.
+
+**Year 414, The Administrative Erasure.** Scorch Field was struck from the official gazetteer and its residence code was withdrawn. Survivors became people from a place that no longer existed in law, unable to renew their papers or pass legal status to their children.
 
 **Year 419, The Bureau of Border Harmony Established.** A new Special Bureau was created to manage the Dusk crisis. It was given minimal funding, minimal authority, and a mandate to "coordinate existing resources." The Bureau's first director requested a budget increase. The request was denied. The director resigned. The Bureau has had seventeen directors in thirty three years.
 
-**Year 427, The Fall of Amber Shore.** The second province fell. The sea turned red. The fishing fleet did not return. The Governor's final message was a single sentence. The Court filed it under "Resolved." The Bureau of Harmonious Narrative prepared a statement explaining that Amber Shore had "completed its transition to a non provincial administrative status." The statement was not released. No statement was necessary because no one was asking.
+**Year 427, The Fall of Amber Shore.** The second province fell. The sea turned red. The fishing fleet did not return. The Governor's final message was a single sentence. The Court filed it under "Resolved." The Bureau of Harmonious Narrative prepared a statement explaining that Amber Shore had "completed its transition out of provincial administration." The statement was not released. No statement was necessary because no one was asking.
 
-**Year 430, The Iron Rebellion.** Workers in the Eastern Foundries, after eighteen years of watching the Court do nothing about Scorch Field and rather more about the people who mentioned it, rose in revolt. The Garrison Command asked the Iron Calculation which facilities could be closed to break the strike with the least production loss, received an accurate answer, and suppressed the rebellion in nineteen days. Iron Bone, then a young organizer already six years out of the penal works, was named among the leaders. The movement spent two years hunting an informer who did not exist.
+**Year 430, The Iron Rebellion.** At age twenty two, Iron Bone called a local safety strike that lasted nine days and helped ignite a wider revolt across the Eastern Foundries. The Garrison Command asked the Iron Calculation which facilities could be closed to break the movement with the least production loss, received an accurate answer, and suppressed the broader rebellion in nineteen days. Iron Bone was captured during the crackdown and sent to the penal works for six years. The movement then spent two years hunting an informer who did not exist.
 
 **Year 433, The Grand Council Vacancies Begin.** The vacancies are the subject of intense speculation throughout the empire. Some believe the vacant elders were removed by rivals within the Grand Council. Some believe they discovered something about the Dusk that the remaining members did not want revealed. Some believe they simply died, and the remaining members chose not to replace them to consolidate power. The truth is unknown, and the mystery is one of the central tensions of the current era. The first of the current Grand Council vacancies occurred when Elder of the Eastern Pillar died under circumstances officially described as "illness." His replacement was appointed but died before assuming office. The seat was left vacant. Two more vacancies followed within five years. The remaining four elders consolidated power. The question of whether the vacancies were natural, engineered, or the result of a power struggle among the remaining members is one of the central political mysteries of the current era.
 
-**Year 439, The Bright Mirror's Appointment.** The current High Justicar was appointed to lead the Commission for Celestial Purity. Her first act was to order an investigation of the Grand Council vacancies. Her second act was to be ordered to cease the investigation. She obeyed the order. She did not destroy the evidence.
+**Year 439, The Bright Mirror's Appointment.** The current High Justicar was appointed to lead the Commission for Celestial Purity. His first act was to order an investigation of the Grand Council vacancies. His second act was to be ordered to cease the investigation. He obeyed the order. He did not destroy the evidence.
 
 **Year 445, The Dusk Reaches Weeping Valley.** The Crimson fog entered the eastern edge of Weeping Valley. The Governor began building walls. The Court was informed. The Court did not respond.
 
-**Year 448, Shadow's Discovery.** Shadow, operating in the Archives, obtained a copy of the original Founding Charter. She read it. She understood its implications. She began selling access to its contents, one person at a time, at prices designed not to enrich herself but to spread the knowledge as widely as possible without triggering a crackdown.
+**Year 448, Shadow's Discovery.** Shadow, operating in the Archives, obtained a copy of the original Founding Charter. He read it. He understood its implications. He began selling access to its contents, one person at a time, at prices designed not to enrich himself but to spread the knowledge as widely as possible without triggering a crackdown.
 
 **Year 450, The Current Harmonization Audit Crisis.** The Golden Orthodoxy, facing mounting evidence that its rituals cannot stop the Dusk, initiated a series of Harmonization Audits targeting the Verdant Path and the Common Flame. The Audits have escalated beyond the Orthodoxy's control. The schools are at an impasse. The Dusk continues to advance. The present year is 452. The empire is in its final phase, though most of its citizens do not know it yet.
 
@@ -919,7 +921,7 @@ The following chronology is compiled from the official records of the Bureau of 
 
 Read this section slowly. It is the spine of the modern empire, and everything your players touch will have been shaped by it.
 
-The Sun Emperor is sealed inside the Spire. He does not speak. Yet edicts continue to appear on jade tablets in the Throne Chamber, written in His hand, and the empire is governed by them. This creates the central problem of the last hundred and fifty years, and the answer to that problem is the only throne that has ever mattered.
+The Sun Emperor is sealed inside the Spire. He does not speak. Yet edicts continue to appear on jade tablets in the Throne Chamber, written in His hand, and the empire is governed by them. This creates the central problem of the 155 years since the final seal, and the answer to that problem is the only throne that has ever mattered.
 
 Someone must carry the tablets out. Someone must read them aloud. Someone must decide what the words mean when the words are ambiguous, and the words are always ambiguous.
 
@@ -953,7 +955,7 @@ The Golden Orthodoxy called it heresy for a decade and then stopped, because by 
 
 He completed the Great Weir, the largest structure ever raised in the Nine Domains, a dam of such scale that it changed the weight distribution of the province behind it. It generates a fifth of the empire's refined Qi. It also drowned four hundred villages. The people of those villages were resettled with compensation that was, on paper, generous. The paper is in the Archives. So are the seventeen thousand petitions filed by people who never received it.
 
-He recovered the southern harbor of Tidegate from the maritime powers who had held it under a hundred year lease, and he did it without firing a shot, and it was, by any measure, the great triumph of his life. He promised the harbor it could keep its own laws, its own courts, and its own customs for fifty years. He meant it. He was not the Steward who would have to keep the promise.
+He recovered the southern harbor of Tidegate from the maritime powers who had held it under a lease lasting one hundred years, and he did it without firing a shot, and it was, by any measure, the great triumph of his life. He promised the harbor it could keep its own laws, its own courts, and its own customs for fifty years. He meant it. He was not the Steward who would have to keep the promise.
 
 **What it cost.** In his fortieth year, an order of breathing adepts called the Quiet Company walked past the Court compound. That is the entire event. They did not stop, chant, or carry banners. They came through the eastern gate at dawn in single file, one at a time, at intervals of perhaps four seconds, and they walked the length of the compound wall and out the western gate, and they did this without pause until dusk.
 
@@ -1075,7 +1077,7 @@ The largest share offering in the history of the world was scheduled for the fol
 
 Every merchant in the empire watched. Every merchant in the empire understood. The Iron Brush had shown that there is no amount of wealth that constitutes a position.
 
-**The Vanishings.** In the twenty second year, the Steward's own foreign minister, his personal protege, stopped appearing at events. Then his defense minister. Then the commanders of the strategic Qi arsenal, one after another. Then, in a single winter, the Vice Chairman of the Grand Council's military commission and the chief of the joint staff.
+**The Vanishings.** In year twenty two, the Steward's own foreign minister, his personal protege, stopped appearing at events. Then his defense minister. Then the commanders of the strategic Qi arsenal, one after another. Then, in a single winter, the Vice Chairman of the Grand Council's military commission and the chief of the joint staff.
 
 No charges were published. The formula was identical each time: serious violations of discipline and law. The Bureau of Harmonious Narrative published the removals as brief notices, in the same typeface as agricultural statistics.
 
@@ -1209,7 +1211,7 @@ The Orthodoxy's power rests on three pillars: control of the official narrative 
 
 _"The Emperor gave us stewardship, not paralysis."_
 
-Reformers. They advocate for openness, decentralization, and recognition that non human peoples exist and have rights. The common folk love them. The Center fears them. Every few decades they are suppressed, and every time they return, because the empire's problems do not go away.
+Reformers. They advocate for openness, decentralization, and recognition that nonhuman peoples exist and have rights. The common folk love them. The Center fears them. Every few decades they are suppressed, and every time they return, because the empire's problems do not go away.
 
 **Strength:** Popular devotion. Connection to natural Qi. Inter provincial goodwill.
 **Weakness:** Perceived as heterodox. First target of every Harmonization Audit.
@@ -1220,11 +1222,11 @@ Reformers. They advocate for openness, decentralization, and recognition that no
 
 **Internal Factions.** The moderates within the Verdant Path believe in working within the system, pushing for reform through advocacy and education. The radicals believe that the system is irredeemable and that only fundamental change will suffice. The moderates have historically held the majority, but the radicals are gaining influence as the Court's repression intensifies. Guest Among Forests walks a careful line between these factions, maintaining unity through her personal authority and the respect she commands from both sides.
 
-**Daily Operations.** A Verdant Path cell operates through secrecy and trust. Members communicate through coded messages and face to face meetings in safe locations. They share information about Court activities, distribute banned texts, and provide mutual support. Some cells engage in direct action: smuggling refugees, hiding fugitives, sabotaging Harmonization Audit investigations. The Path's network extends into every province, every ministry, and every level of society. The Court knows this. The Court cannot stop it.
+**Daily Operations.** A Verdant Path cell operates through secrecy and trust. Members communicate through coded messages and meetings held in person at safe locations. They share information about Court activities, distribute banned texts, and provide mutual support. Some cells engage in direct action: smuggling refugees, hiding fugitives, sabotaging Harmonization Audit investigations. The Path's network extends into every province, every ministry, and every level of society. The Court knows this. The Court cannot stop it.
 
-**Key Texts.** The Green Thesis, Spring Root's original manifesto, remains the Path's foundational document. It argues that the empire's relationship with the natural world is exploitative and unsustainable, that true harmony comes from balance rather than control, and that the Court's monopoly on Qi is a form of theft. The Thesis has been banned for two centuries. Copies are memorized and passed down orally through generations of Path members.
+**Key Texts.** The Green Thesis, which Guest Among Forests published under the name Spring Root, remains the Path's foundational document. It argues that the empire's relationship with the natural world is exploitative and unsustainable, that true harmony comes from balance rather than control, and that the Court's monopoly on Qi is a form of theft. The Thesis has been banned for two centuries. Copies are memorized and passed down orally through generations of Path members.
 
-**The Verdant Path and the Dusk.** Alone among the six schools, the Verdant Path has had some success in slowing the Dusk's advance. The Path's nature based rituals, which draw on the Yielding Aspect of Qi rather than attempting to control it, have been observed to stabilize Dusk affected zones temporarily. The Path has offered to share these techniques with the Court. The Court has refused, because accepting help from a heterodox school would legitimize their methods and challenge the Orthodoxy's monopoly.
+**The Verdant Path and the Dusk.** Alone among the six schools, the Verdant Path has had some success in slowing the Dusk's advance. The Path's rituals rooted in nature, which draw on the Yielding Aspect of Qi rather than attempting to control it, have been observed to stabilize zones affected by Dusk temporarily. The Path has offered to share these techniques with the Court. The Court has refused, because accepting help from a heterodox school would legitimize their methods and challenge the Orthodoxy's monopoly.
 
 #### 3. The Iron Calculation
 
@@ -1255,10 +1257,10 @@ The Eight Great Families who stood beside the Emperor at the empire's founding. 
 
 **Strength:** Ancient power. Generational wealth. Know everyone's secrets.
 **Weakness:** Decadent. Declining. The younger generations are bored, debauched, or reformist.
-**Key Figure:** The Eternal Duke, as its weary patriarch.
+**Key Figure:** The Duke of Eternal Night, as its weary patriarch.
 **Mark:** The Crimson Chalice.
 
-**Organization.** The Eight Great Families are formally equal, but some are more equal than others. The House of the Crimson Chalice, led by the Duke of Eternal Night, is the acknowledged first among equals, the family that signed the original charter and that maintains the strongest blood cultivation tradition. The other families are the House of the Ivory Gate (wealthiest, controlling the Southern Granary), the House of the Obsidian Pillar (oldest, claiming descent from a pre imperial dynasty), the House of the Silver Stream (most numerous, with members in every province), the House of the Golden Thorn (most martial, with strong ties to the Western Bulwark), the House of the Jade Mirror (most cultured, patrons of the arts), the House of the Copper Scale (most mercantile, controlling trade routes), and the House of the Iron Gate (most secretive, rarely seen in public).
+**Organization.** The Eight Great Families are formally equal, but some are more equal than others. The House of the Crimson Chalice, led by the Duke of Eternal Night, is the acknowledged first among equals, the family that signed the original charter and that maintains the strongest blood cultivation tradition. The other families are the House of the Ivory Gate (wealthiest, controlling the Southern Granary), the House of the Obsidian Pillar (oldest, claiming descent from a dynasty that predates the empire), the House of the Silver Stream (most numerous, with members in every province), the House of the Golden Thorn (most martial, with strong ties to the Western Bulwark), the House of the Jade Mirror (most cultured, patrons of the arts), the House of the Copper Scale (most mercantile, controlling trade routes), and the House of the Iron Gate (most secretive, rarely seen in public).
 
 **Internal Factions.** The Traditionalists believe in maintaining the old ways: absolute loyalty to the Lineage, strict adherence to blood cultivation practices, and continued dominance through wealth and inherited power. The Reformists argue that the old ways are unsustainable, that blood cultivation is declining, and that the Lineage must adapt or die. The Duke of Eternal Night is the ultimate authority in all disputes, but he has begun to withdraw from active governance, and no clear successor has emerged.
 
@@ -1275,7 +1277,7 @@ _"The Court serves the people. When it forgets, the people will remind it."_
 Radical egalitarians. The spiritual descendants of the Red Banner movements that periodically sweep the empire. They believe the Court has become a new aristocracy and must be torn down. The Grand Council considers them the most dangerous school because their critique is fundamentally correct.
 
 **Strength:** Numbers. Fury. Can fill the streets in hours.
-**Weakness:** Disorganized. Easily co opted. Leaders tend to become what they hate or be destroyed by it.
+**Weakness:** Disorganized. Rival powers absorb its members with ease. Leaders tend to become what they hate or be destroyed by it.
 **Key Figure:** The Iron Bone, as their charismatic and volatile voice.
 **Mark:** The Red Fist.
 
@@ -1302,13 +1304,13 @@ The Court's conscience and its terror. The Commission for Celestial Purity inves
 
 **Organization.** The Commission for Celestial Purity is small by imperial standards, with only two hundred investigators, but its reach is vast. The Commission operates independently of the ministry structure, reporting directly to the Grand Council (or, in practice, to the Bright Mirror alone). Its investigators are recruited from across the empire, selected for integrity and ability, and trained in investigative techniques that are unique to the Commission. They are taught to follow evidence wherever it leads, regardless of the target's rank or school affiliation. They are taught to resist bribery, intimidation, and coercion. They are taught to be incorruptible, and they are.
 
-**Internal Factions.** The Commission has no formal factions, because the Bright Mirror tolerates no division. There are, however, informal tendencies. The Letter of the Law investigators believe in strict adherence to legal procedure, gathering evidence that will stand up in court and ensuring that every investigation is legally defensible. The Spirit of the Law investigators believe that the Commission's mandate transcends legal technicalities, that purity is a moral rather than a legal standard, and that strict proceduralism protects the guilty. The Bright Mirror herself has never taken sides in this debate, which makes her position on specific cases unpredictable.
+**Internal Factions.** The Commission has no formal factions, because the Bright Mirror tolerates no division. There are, however, informal tendencies. The Letter of the Law investigators believe in strict adherence to legal procedure, gathering evidence that will stand up in court and ensuring that every investigation is legally defensible. The Spirit of the Law investigators believe that the Commission's mandate transcends legal technicalities, that purity is a moral rather than a legal standard, and that strict proceduralism protects the guilty. The Bright Mirror himself has never taken sides in this debate, which makes his position on specific cases unpredictable.
 
 **Daily Operations.** A Commission investigator's day is consumed by paperwork. Every investigation generates reports, evidence logs, interview transcripts, and legal arguments. The investigator must document everything, because any gap in the record can be used by a target's allies to challenge the investigation. The work is tedious, meticulous, and essential. The investigator's relationships suffer; the work is isolating, because Commission members are viewed with suspicion by everyone outside the Commission. They eat alone. They socialize with each other. They have no lives outside their work.
 
-**Key Texts.** The Twenty One Vows are the Commission's founding document, a set of ethical commitments that every investigator recites upon joining. The vows cover personal conduct, investigative procedure, and the relationship between the Commission and the Court. The most important vow is the Ninth: "I will follow the truth wherever it leads, even if it destroys me." The Bright Mirror takes this vow literally. Her investigators know that she expects the same of them.
+**Key Texts.** The Twenty One Vows are the Commission's founding document, a set of ethical commitments that every investigator recites upon joining. The vows cover personal conduct, investigative procedure, and the relationship between the Commission and the Court. The most important vow is the Ninth: "I will follow the truth wherever it leads, even if it destroys me." The Bright Mirror takes this vow literally. His investigators know that he expects the same of them.
 
-**The Bright Mirror and the Dusk.** The Commission has opened an investigation into the Dusk's origin, despite pressure from the Golden Orthodoxy to cease. The investigation is classified at the highest level, and its findings are known only to the Bright Mirror and her most trusted investigators. The preliminary conclusion is that the Dusk is not a natural phenomenon and not a punishment from the Sun Emperor. It is a consequence of human action. The question that the investigation is now pursuing is: whose action, and can it be reversed?
+**The Bright Mirror and the Dusk.** The Commission has opened an investigation into the Dusk's origin, despite pressure from the Golden Orthodoxy to cease. The investigation is classified at the highest level, and its findings are known only to the Bright Mirror and his most trusted investigators. The preliminary conclusion is that the Dusk is not a natural phenomenon and not a punishment from the Sun Emperor. It is a consequence of human action. The question that the investigation is now pursuing is: whose action, and can it be reversed?
 
 #### Hidden Organizations Within the Schools
 
@@ -1324,7 +1326,7 @@ Each school contains secret organizations that operate outside the school's offi
 
 **The Spark Caucus (Common Flame).** A cell within the Common Flame that believes the Iron Bone is too cautious, too concerned with protecting the movement from itself. The Spark Caucus advocates for immediate uprising, believing that the chaos of the Dusk's advance creates opportunities that will not come again. They are planning to force the Iron Bone's hand.
 
-**The Unblinking Eye (Bright Mirror).** A secret network of Commission investigators who report directly to the Bright Mirror, bypassing the Commission's chain of command. They are her most trusted agents, tasked with investigating the investigations, ensuring that no corruption has infiltrated the Commission itself., despite pressure from the Golden Orthodoxy to cease. The investigation is classified at the highest level, and its findings are known only to the Bright Mirror and her most trusted investigators. The preliminary conclusion is that the Dusk is not a natural phenomenon and not a punishment from the Sun Emperor. It is a consequence of human action. The question that the investigation is now pursuing is: whose action, and can it be reversed?
+**The Unblinking Eye (Bright Mirror).** A secret network of Commission investigators who report directly to the Bright Mirror, bypassing the Commission's chain of command. They are his most trusted agents, tasked with investigating the investigations and ensuring that no corruption has infiltrated the Commission itself.
 
 ---
 
@@ -1376,7 +1378,7 @@ Education beyond the Academy is restricted. Advanced Qi Techniques are taught on
 
 The examination system is theoretically meritocratic. In practice, it is heavily influenced by wealth and connections. Candidates from wealthy families can afford years of tutoring and can purchase access to practice examinations that are not available to the poor. Candidates with family connections can secure recommendation letters and informal guidance that give them significant advantages. The system produces the best officials that money and connections can buy, which is not the same as the best officials the empire could produce.
 
-**The Secret Curriculum.** The Academy has a secret curriculum, taught only to students who have been identified as having exceptional potential and proven loyalty. These students receive additional training in advanced Qi Techniques, forbidden history, and the true principles of governance as they are actually practiced rather than as they are officially described. The secret curriculum is designed to produce the next generation of the Inner Court. It is also designed to identify students who might become threats and to neutralize them before they can act. The Bureau of Internal Harmony maintains a list of forbidden works. The list is updated monthly. It currently contains over seven thousand titles.
+**The Secret Curriculum.** The Academy has a secret curriculum, taught only to students who have been identified as having exceptional potential and proven loyalty. These students receive additional training in advanced Qi Techniques, forbidden history, and the true principles of governance as they are actually practiced rather than as they are officially described. The secret curriculum is designed to produce the next generation of the Inner Court. It is also designed to identify students who might become threats and to neutralize them before they can act.
 
 #### Religion and Ritual
 
@@ -1404,11 +1406,11 @@ Food in the Celestial Empire is never just food. It is medicine, ritual, status 
 
 **Tea Culture.** Tea is the empire's universal beverage, consumed at all hours and in all contexts. The preparation and serving of tea is governed by elaborate rituals that vary by region and social class. In the Central Province, tea is served in small cups, multiple infusions from the same leaves, each one revealing a different aspect of the tea's character. In the Eastern Foundries, tea is drunk from large bowls, strong and bitter, served with a piece of rock sugar to balance the taste. In the Southern Granary, tea is often mixed with roasted rice, creating a nutty, comforting beverage that is served with every meal.
 
-The tea trade is one of the empire's largest industries. The best teas come from the misty highlands of the Western Bulwark, where the combination of altitude, soil, and Qi produces leaves of extraordinary complexity. These teas are reserved for the Inner Court and are worth their weight in silver. The common tea of the Outer City is a blend of low grade leaves and stems, mass produced in the Eastern Foundries and sold by weight.
+The tea trade is one of the empire's largest industries. The best teas come from the misty highlands of the Western Bulwark, where the combination of altitude, soil, and Qi produces leaves of extraordinary complexity. These teas are reserved for the Inner Court and are worth their weight in silver. The common tea of the Outer City is a blend of inferior leaves and stems, produced in bulk in the Eastern Foundries and sold by weight.
 
 **The Social Function of Food.** Meals in the empire are opportunities for social bonding, political maneuvering, and the display of status. Inviting someone to share a meal is a sign of favor. Refusing an invitation without good reason is a sign of hostility. The seating arrangement at a formal dinner is determined by rank, with the most senior guest seated at the host's right hand. The dishes are served in a specific order, each one announced by a servant. The conversation follows prescribed patterns, moving from general topics to specific business as the meal progresses.
 
-The wealthiest households employ professional chefs who have trained for years in the culinary arts. These chefs are highly sought after and can command salaries that rival those of mid ranking officials. They guard their recipes as closely as alchemists guard their formulas, passing them down through apprenticeship lines that stretch back centuries.
+The wealthiest households employ professional chefs who have trained for years in the culinary arts. These chefs are highly sought after and can command salaries that rival those of officials of middle rank. They guard their recipes as closely as alchemists guard their formulas, passing them down through apprenticeship lines that stretch back centuries.
 
 **Ritual Meals.** Certain meals have specific ritual significance. The Ceremony of Shared Grain is performed when officials of different schools must work together, each party eating from the same bowl to symbolize temporary unity. The Funeral Feast involves a specific sequence of dishes that correspond to the stages of the soul's journey after death. The Audit Meal is a simple bowl of plain rice and water, served to officials under investigation to remind them of the simplicity they have lost.
 
@@ -1433,8 +1435,6 @@ Clothing in the empire is a language. Rank, school affiliation, wealth, and inte
 **The Making of Clothing.** The empire's clothing industry is one of its largest sectors. Silk comes from the Southern Granary, where silkworms are raised on mulberry leaves and their cocoons are harvested with a precision that borders on the ritualistic. Cotton comes from the Central Province, grown in fields that were once rice paddies. Wool comes from the Western Bulwark, where sheep are raised in the high mountain pastures. Leather comes from the Northern Expanse, where the forest peoples tan hides using a process that has not been shared with imperial tanners.
 
 The tailors of Xiaoyuan are the finest in the empire, capable of creating garments that fit perfectly and move beautifully. The best tailors work exclusively for the Inner Court, their workshops located in the Spire District. Their prices are astronomical. Their waiting lists are years long.
-
-**The Language of Fans.** The fan is an essential accessory for any official of Fifth Rank or above. Unregistered persons wear brown or undyed cloth. Peasants wear blue or grey. The Outer Court wears grey, green, or blue depending on exact rank, with rank badges stitched on the chest. Fifth Rank and above wear silk. Third Rank and above wear silk with gold thread. The Inner Court wears purple, red, or gold. The Grand Council wears white, the color of authority so complete that it needs no ornament.
 
 **School Affiliations.** Members of the Golden Orthodoxy wear a circle emblem on their left sleeve. The Verdant Path wears a branch emblem on the collar. The Iron Calculation wears a gear emblem stitched in metal thread. The Crimson Lineage wears a chalice emblem on a chain around the neck. The Common Flame wears a red fist emblem, discreetly, on the inside of the wrist. The Bright Mirror wears no emblem at all, as a point of pride.
 
@@ -1510,7 +1510,7 @@ Marriage ceremonies vary by class. Peasant weddings involve a feast, the exchang
 
 Divorce is legal but rare and stigmatized. It requires approval from both families and, for officials, from the relevant ministry. The divorced party, especially if female, faces significant social penalties.
 
-**Family Structure.** The empire is patrilineal. Lineage is traced through the male line. Women join their husband's family upon marriage and are considered part of that family's lineage. The ideal family is multi generational, with grandparents, parents, children, and grandchildren living in the same compound. This ideal is rarely achieved among the poor, who cannot afford the space.
+**Family Structure.** The empire is patrilineal. Lineage is traced through the male line. Women join their husband's family upon marriage and are considered part of that family's lineage. The ideal family is multigenerational, with grandparents, parents, children, and grandchildren living in the same compound. This ideal is rarely achieved among the poor, who cannot afford the space.
 
 The head of the family, usually the eldest male, has authority over all members. His decisions regarding marriage, career, and property are final. Disrespecting the family head is a serious offense, punishable by physical discipline and, in extreme cases, expulsion from the family.
 
@@ -1522,17 +1522,17 @@ The Crimson Lineage follows different rules. Among the Eight Great Families, inh
 
 **Adoption.** Adoption is practiced primarily among families who lack male heirs, or among families whose biological children have died or proven unfit. The adopted child must be from the same extended family if possible, and the adoption must be approved by the relevant authorities. Among the Crimson Lineage, adoption is rare because blood cultivation arts require biological descent. The Duke of Eternal Night's search for a worthy heir is complicated by this limitation.
 
-**Coming of Age.** At age fifteen, all children of the empire undergo a coming of age ceremony that marks their transition to adulthood. The ceremony varies by class and region. Among the peasantry, it is a simple affair: the child receives a new set of adult clothing and is given their first adult responsibilities. Among the Outer Court, it involves an examination and a formal ceremony at the local temple. Among the Inner Court, it is an elaborate affair involving multiple ceremonies, gifts from family allies, and the formal assumption of the child's place in the family's political network.
+**Coming of Age.** At age fifteen, all children of the empire undergo a ceremony that marks their transition to adulthood. The ceremony varies by class and region. Among the peasantry, it is a simple affair: the child receives a new set of adult clothing and is given their first adult responsibilities. Among the Outer Court, it involves an examination and a formal ceremony at the local temple. Among the Inner Court, it is an elaborate affair involving multiple ceremonies, gifts from family allies, and the formal assumption of the child's place in the family's political network.
 
-For members of the Crimson Lineage, the coming of age ceremony includes a blood tasting, where the child consumes a drop of preserved blood from an ancestor and experiences that ancestor's memories. This ritual is supposed to bind the child to the family's history and remind them of their responsibilities. It is also a test: children who cannot handle the experience are considered weak and are pushed toward non cultivation roles.
+For members of the Crimson Lineage, the ceremony marking adulthood includes a blood tasting, during which the child consumes a drop of preserved blood from an ancestor and experiences that ancestor's memories. This ritual is supposed to bind the child to the family's history and remind them of their responsibilities. It is also a test: children who cannot handle the experience are considered weak and pushed toward roles outside cultivation.
 
 **Marriage Contracts.** Marriage in the empire is governed by a contract that specifies the terms of the union: the financial arrangements, the inheritance provisions, and the obligations of each party. The contract is negotiated by the families, often over months or years, and is signed in a formal ceremony before witnesses. The marriage itself is a separate ceremony, held after the contract is complete.
 
-The marriage contract is not easily broken. Divorce requires the consent of both families and, for officials, the approval of their ministry. The process is expensive, time consuming, and socially damaging. Most couples remain married regardless of their personal feelings, because the cost of separation is too high.
+The marriage contract is not easily broken. Divorce requires the consent of both families and, for officials, the approval of their ministry. The process is expensive, takes considerable time, and damages both parties socially. Most couples remain married regardless of their personal feelings, because the cost of separation is too high.
 
 **Funeral Rites.** Death in the empire is governed by elaborate ritual. The body is washed, dressed in clean clothes, and placed in a coffin that is kept in the family home for a period of mourning, which lasts seven days for commoners, fourteen for officials, and twenty one for the Inner Court. During this period, the family receives visitors, offers incense, and prays for the soul's journey. On the final day, the coffin is carried in procession to the burial ground, accompanied by professional mourners whose wails are measured in decibels and paid for by the hour. The wealthy are buried in elaborate tombs with grave goods for the afterlife. The poor are buried in mass graves, their names recorded if they are lucky.
 
-The emperor is the only exception to these rites. The Sun Emperor has not died, the official narrative insists. He is merely meditating. There are no provisions for an imperial funeral. There never have been. This is another thing that the Court has never had to deal with and that is becoming increasingly urgent. The adopted child must be from the same extended family if possible, and the adoption must be approved by the relevant authorities. Among the Crimson Lineage, adoption is rare because blood cultivation arts require biological descent. The Duke of Eternal Night's search for a worthy heir is complicated by this limitation.
+The Emperor is the only exception to these rites. The Sun Emperor has not died, the official narrative insists. He is merely meditating. There are no provisions for an imperial funeral. There never have been. This is another thing that the Court has never had to deal with and that is becoming increasingly urgent.
 
 ---
 
@@ -1544,6 +1544,8 @@ Each figure is a potential patron, ally, rival, or executioner. Each belongs to 
 
 ### Cinnabar Heart
 
+**Default Gender:** Male
+
 **Path:** Alchemist
 **School:** Golden Orthodoxy (nominally)
 **Court Role:** Director, Bureau of Harmonious Narrative
@@ -1551,19 +1553,19 @@ Each figure is a potential patron, ally, rival, or executioner. Each belongs to 
 
 **Presence:** Flowing robes of gold and alabaster. An intricate headdress marking bureau rank. Surrounded by the apparatus of his calling: distillation coils, jade vials of glowing elixir, brushes for drafting official accounts. He resembles a sage. He feels like a prisoner.
 
-**His Office.** Cinnabar Heart's office in the Bureau of Harmonious Narrative is a large, well lit room on the third floor of the Ministry building. The walls are lined with shelves containing bound volumes of every official narrative the Bureau has produced during his tenure, thousands of documents that represent the empire's official version of reality. His desk is an enormous piece of carved rosewood, its surface covered with papers, brushes, inkstones, and the small distillation apparatus he uses to prepare his elixirs. The windows face east, overlooking the Avenue of Eternal Peace, and he often stands at them, watching the officials walk below, wondering how many of them believe the words he writes.
+**His Office.** Cinnabar Heart's office in the Bureau of Harmonious Narrative is a large, brightly lit room on the third floor of the Ministry building. The walls are lined with shelves containing bound volumes of every official narrative the Bureau has produced during his tenure, thousands of documents that represent the empire's official version of reality. His desk is an enormous piece of carved rosewood, its surface covered with papers, brushes, inkstones, and the small distillation apparatus he uses to prepare his elixirs. The windows face east, overlooking the Avenue of Eternal Peace, and he often stands at them, watching the officials walk below, wondering how many of them believe the words he writes.
 
-**Story:** Cinnabar Heart was a true believer once. He rose through the Bureau on the strength of his faith, his ability to transmute inconvenient facts into doctrinal gold was legendary. He coined the phrases that justified three Harmonization Audits, two border conflicts, and the "voluntary relocation" of an entire province. Then, thirty years into his tenure, he found something in the archives. He has never spoken of it. He has never been the same.
+**Story:** Cinnabar Heart was a true believer once. He rose through the Bureau on the strength of his faith, and his ability to transmute inconvenient facts into doctrinal gold became legendary. He coined the phrases that justified three Harmonization Audits, two border conflicts, and the "voluntary relocation" of an entire province. At forty two, after thirty years in the Bureau, he found a Founding Era letter in the archives that exposed the true relationship between the Sun Emperor and the Court. He is now sixty two and has carried that knowledge for twenty years.
 
-**Personal History.** Cinnabar Heart was born in the Archive Quarter to two civil servants who did not like each other very much: a father who catalogued petitions nobody would read, and a mother who transcribed the epitaphs of the Disappeared in a hand so fine that senior officials requested her by name. The Bureau took her at twelve. He excelled in rhetoric and ritual theory, graduating at the top of his class. His first posting was as a junior scribe in the Bureau of Harmonious Narrative, where he discovered a talent for framing that bordered on alchemical. He could take the most damning report and reframe it as a testament to the empire's wisdom and mercy. His superiors noticed. He rose quickly.
+**Personal History.** Cinnabar Heart was born in the Archive Quarter to two civil servants who did not like each other very much: a father who cataloged petitions nobody would read, and a mother who transcribed the epitaphs of the Disappeared in a hand so fine that senior officials requested her by name. The Bureau took him at twelve. He excelled in rhetoric and ritual theory, graduating at the top of his class. His first posting was as a junior scribe in the Bureau of Harmonious Narrative, where he discovered a talent for framing that bordered on alchemical. He could take the most damning report and reframe it as a testament to the empire's wisdom and mercy. His superiors noticed. He rose quickly.
 
-She married a hydraulic engineer of the Iron Calculation at twenty six and was genuinely happy for four years. It ended when he took a canal posting in the south and she would not leave the capital, because a woman who is the fourth best narrative shaper in the empire is nobody at all in a river prefecture. She tells colleagues the work destroyed the marriage. That is a better story and it is not true. The discovery in the archives changed everything. It was a document from the Founding Era, a personal letter from a first generation elder to his son, describing the true nature of the Sun Emperor's relationship with the Court. Cinnabar Heart read it. He could not unread it. He has been living with that knowledge for twenty years.
+He married a female hydraulic engineer of the Iron Calculation at twenty six and was genuinely happy for four years. It ended when she accepted a canal posting in the south and he would not leave the capital, because the fourth best narrative shaper in the empire would be nobody at all in a river prefecture. She went south with their two children. Their elder child, Quiet Pearl, later returned to the capital and now works for the Bureau of Celestial Inquiry. He tells colleagues the work destroyed the marriage. That is a better story, and it is not true. At forty two he found a Founding Era letter from an elder of the first generation to his son, describing the true nature of the Sun Emperor's relationship with the Court. Ten years ago he began a private journal of the history he could no longer bear to falsify. Six years ago he prepared the case that sent his former master, Prefect Yan, into internal exile. His journal, Yan's fall, and the letter now form three versions of the same question: whether private truth means anything when public lies remain intact.
 
 **Daily Routine.** Cinnabar Heart wakes at the fourth hour, before dawn. He performs a brief Qi alignment exercise, drinks a cup of bitter tea, and reviews the previous day's dispatches. He arrives at the Bureau by the fifth hour and spends the morning reviewing documents that need his editorial attention: reports from the provinces, accounts of Harmonization Audits, the daily record of the Court's activities. He dictates revisions to his senior scribes, who have learned to read his mood from the subtle shifts in his tone. He takes his midday meal alone in his office, eating simply while reading forbidden texts that he keeps locked in a drawer. The afternoon is given to meetings: with provincial representatives seeking favorable coverage, with school emissaries testing his loyalties, with the occasional petitioner who has managed to reach his level. He leaves the Bureau at the evening bell but does not go home. He walks the streets of the Spire District, observing, thinking. He returns home late. He does not sleep well.
 
 **Inner Circle.** Senior Scribe Iron Quill is his chief deputy, a woman of forty who has served under Cinnabar Heart for fifteen years and who has learned to read the true meaning behind the documents she edits. She knows her superior is hiding something, but she does not know what, and she has decided she does not want to know. Whisper Agent Seven is his contact within the Bureau of Internal Harmony, a nervous man who passes him information about pending investigations. Cinnabar Heart does not trust him, but he needs him. The Alchemist's Daughter, named Quiet Pearl, is the only one of his children who shares his Qi sensitivity. She works as a junior researcher in the Bureau of Celestial Inquiry. She has begun to suspect that her father is not the man he appears to be. She is right.
 
-**Relationships.** Cinnabar Heart and the Bright Mirror share a mutual, wary respect. They both know that the empire's narratives are fabrications, but they have drawn opposite conclusions: she believes the fabrications must be burned away, he believes they must be maintained because the truth is worse. The Duke of Eternal Night amuses him; the Duke has seen enough empires rise and fall to find Cinnabar Heart's crisis of faith quaint. The Iron Bone despises him as a mouthpiece of the oppressor. Cinnabar Heart does not disagree. Shadow has offered to sell him the name of the person who placed the document in the archives for him to find. He has refused to buy it. He is afraid of what he will do when he knows.
+**Relationships.** Cinnabar Heart and the Bright Mirror share a mutual, wary respect. They both know that the empire's narratives are fabrications, but they have drawn opposite conclusions. Bright Mirror believes every fabrication must be burned away so corruption can be exposed. Cinnabar Heart maintains the fabrications because he fears what the truth would unleash. The Duke of Eternal Night amuses him; the Duke has seen enough empires rise and fall to find Cinnabar Heart's crisis of faith quaint. The Iron Bone despises him as a mouthpiece of the oppressor. Cinnabar Heart does not disagree. Shadow has offered to sell him the name of the person who placed the document in the archives for him to find. He has refused to buy it. He is afraid of what he will do when he knows.
 
 **Manner:** Dryly witty, professionally cynical, privately despairing. He knows the Court's narratives are fabrications. He wrote most of them. But he also knows the empire would collapse without them. He maintains the fiction because the truth would destroy everything.
 
@@ -1580,53 +1582,57 @@ She married a hydraulic engineer of the Iron Calculation at twenty six and was g
 
 **What He Knows:** The Emperor's edicts are forged. He has seen the jade carving workshop beneath the Spire. He knows the names of the artisans who carve the tablets, the schedules they follow, and the room in the Bureau of Harmonious Narrative where the texts are composed before being sent to the carvers. He has visited the workshop once. He will not go again.
 
-**Potential Quest: The Jade Workshop.** Cinnabar Heart can reveal the location of the jade carving workshop if he trusts the players sufficiently. The workshop is in a sealed sub basement of the Bureau of Harmonious Narrative, accessible only through a door that requires the Director's Qi signature to open. Inside, the players will find workbenches, tools, and the jade tablets currently being prepared. The artisans are prisoners who have been kept alive for this purpose. Their presence is the most damning evidence imaginable. Getting them out alive is another challenge entirely.
+**Potential Quest: The Jade Workshop.** Cinnabar Heart can reveal the location of the jade carving workshop if he trusts the players sufficiently. The workshop is in a sealed subbasement of the Bureau of Harmonious Narrative, accessible only through a door that requires the Director's Qi signature to open. Inside, the players will find workbenches, tools, and the jade tablets currently being prepared. The artisans are prisoners who have been kept alive for this purpose. Their presence is the most damning evidence imaginable. Getting them out alive is another challenge entirely.
 
 ---
 
 ### Night Warbler
+
+**Default Gender:** Male
 
 **Path:** Shadow Hand
 **School:** None. Serves whoever controls the Bureau of Internal Harmony.
 **Court Role:** Deputy Director, Special Operations, Bureau of Internal Harmony
 **Nature:** The Blade Who Learned to Question
 
-**Presence:** Black and violet combat silks. A half mask that conceals expression but not intent. Blades that seem to surface from shadow itself. She moves like water, or like the instant before a throat opens.
+**Presence:** Black and violet combat silks. A half mask that conceals expression but not intent. Blades that seem to surface from shadow itself. He moves like water, or like the instant before a throat opens.
 
-**Her Safe House.** Night Warbler maintains a safe house in the Warrens, a nondescript room above a tannery that smells of chemicals and old leather. The room contains a bed, a table, a lamp, and a weapons rack. There are no personal effects, no mementos, nothing that would identify her if the room was discovered. The room has two exits: a door to the staircase and a window that opens onto a roof that connects to a network of accessible rooftops across the Warrens. She has never spent more than three consecutive nights in the same location.
+**His Safe House.** Night Warbler maintains a safe house in the Warrens, a nondescript room above a tannery that smells of chemicals and old leather. The room contains a bed, a table, a lamp, and a weapons rack. There are no personal effects, no mementos, nothing that would identify him if the room was discovered. The room has two exits: a door to the staircase and a window that opens onto a roof that connects to a network of accessible rooftops across the Warrens. He has never spent more than three consecutive nights in the same location.
 
-**Story:** Orphaned by a Harmonization Audit, recruited by the Bureau that conducted it, trained to be the perfect instrument. She has removed seventeen "impediments to harmony": ministers, reformers, one Grand Council member. She never questioned an order. Then she was ordered to silence a child, and something fractured. She completed the mission. She has not slept since.
+**Story:** Taken from a village destroyed by a false pacification, raised by the Bureau that found him, and trained to be the perfect instrument. He has removed seventeen "impediments to harmony": ministers, reformers, and one Grand Council member. For years he obeyed without asking who benefited. Now the questions have begun, and he no longer knows whether the Bureau saved him, stole him, or did both.
 
-**Personal History.** Night Warbler does not remember her parents. She remembers the Harmonization Audit that took them: the soldiers arriving at dawn, the screaming, the smell of smoke, the hands that pulled her from her mother's arms. She was six years old. She was taken to a training facility in the Eastern Foundries, a place called the Quiet House, where children were taught to become weapons. The training was brutal. Of the twelve children in her cohort, and four of them became close in violation of everything the program intended. She was the youngest and the most lethal.
+**Personal History.** Night Warbler remembers the destruction of his village as a story he has repeated so often that he can no longer tell memory from rehearsal. He was six. He survived for three days in a root cellar before Inspector Eighth Silence found him and took him to a Bureau training facility called the Quiet House. Eleven years ago he checked the archives and found no record of his family. Instead, he found a resettlement manifest listing nineteen surviving households sent east four days after the operation, with no destination record attached. He has begun the search repeatedly and abandoned it each time. He does not know whether his parents died, survived, or were deliberately removed from the record. At the Quiet House, twelve children were trained as weapons. Four of them became close in defiance of everything the program intended. He was the youngest and the most lethal.
 
-Her first mission was at age fourteen: the elimination of a Verdant Path organizer who had been hiding in the Warrens. She completed it cleanly and efficiently. She felt nothing. For the next fifteen years, she felt nothing. She became the Bureau's most reliable instrument, assigned to the targets that others could not or would not handle. Then came the child. The target was a nine year old boy, the son of a disgraced official, whose existence was an inconvenience to someone in the Inner Court. She completed the mission. She has not been the same since.
+His first mission came at fourteen. He was ordered to kill a captain who had served in the force that destroyed his village. He completed the assignment, vomited in an alley, slept for eleven hours, and was frightened most by how normal he felt afterward. He is now thirty seven and has worked for the Bureau for twenty three years. Seventeen years ago, at age twenty, he killed Council member Wei under an authorization routed through several offices. Wei had once shown him kindness. Night Warbler knows he was the blade, but he still does not know which serving Council member gave the order. Stories that he was once ordered to kill a child may be used as a personal truth, but they are not part of his fixed history.
 
-**Daily Routine.** Night Warbler does not have a routine. Routines are predictable, and predictability is death. She sleeps in different locations each night, always with at least two exits. She wakes before dawn and performs a series of exercises designed to maintain her body at peak readiness. She checks her contact points for messages, each one coded and left in a prearranged location. She spends the morning gathering intelligence, moving through the city in a series of disguises that she changes throughout the day. She eats a single meal in the late afternoon, always in a different place, always something simple. She conducts her operations at night, when the shadows are deep and the witnesses are few. She returns to her sleeping location in the darkest hours, sets her alarms, and lies awake. She has not truly slept since she killed the child. She has learned to function on rest that is not rest.
+**Daily Routine.** Night Warbler claims not to have a routine because routines are predictable and predictability is death. In practice, he wakes before dawn, exercises for exactly thirty minutes, checks coded contact points, and spends the day gathering intelligence without keeping a disguise longer than a brief exchange. He is an exceptional infiltrator but cannot maintain an impersonation for long. Three or four evenings each week, he cooks elaborate meals that no one else has ever tasted. He sleeps in short intervals with a blade in hand and rarely rests well, though the source of his sleeplessness changes from mission to mission.
 
-**Inner Circle.** Quartermaster Lin is the only person in the Bureau who knows her true identity. He supplies her equipment, files her operational reports, and maintains her cover identities. He is loyal because she has saved his life twice and because she knows where his family lives. Contact Ghost is an information broker in the Warrens Below who feeds her intelligence on Court movements. Contact Ghost does not know Night Warbler's identity; they communicate through dead drops and coded messages. The Shadow of Her Former Self is what she calls the person she was before the child, a version of herself that she mourns and cannot return to.
+**Inner Circle.** Quartermaster Lin is the only person in the Bureau who knows Night Warbler's true identity. Lin supplies his equipment, files his operational reports, and maintains his cover identities. Lin is loyal because Night Warbler has twice saved the Quartermaster's life, and because Night Warbler knows where the Quartermaster's family lives. Contact Ghost is an information broker in the Warrens Below who feeds him intelligence on Court movements. Contact Ghost does not know Night Warbler's identity; they communicate through dead drops and coded messages. The Shadow of His Former Self is what he calls the person he was before the child, a version of himself that he mourns and cannot return to.
 
-**Relationships.** Night Warbler and Shadow have an understanding. They operate in the same territory, they sometimes compete for the same information, but they do not kill each other. This is the closest thing to friendship that either of them has. The Iron Wall knows what she is and what she has done. He does not condemn her; he has seen too much war to judge the soldier. The Bright Mirror has investigated her and concluded that she is a tool, not a villain, and has declined to pursue charges. This mercy unsettles Night Warbler more than a death sentence would have.
+**Relationships.** Night Warbler and Shadow have an understanding. They operate in the same territory, they sometimes compete for the same information, but they do not kill each other. This is the closest thing to friendship that either of them has. The Iron Wall knows what he is and what he has done. He does not condemn him; he has seen too much war to judge the soldier. Bright Mirror investigated Night Warbler and learned enough to understand what the Bureau made him, but not enough to prove which operations were his, who authorized them, or where coercion ended and choice began. He declined to bring charges. Night Warbler knows the inquiry never truly ended, and the two men now watch each other with equal care.
 
-**Manner:** Precise, quiet, terrifyingly competent. She speaks in operational language. She is trying to grow a conscience and finding the process agonizing.
+**Manner:** Precise, quiet, terrifyingly competent. He speaks in operational language. He is trying to grow a conscience and finding the process agonizing.
 
-**Hidden Purpose:** Discover who ordered her parents' Harmonization Audit. Decide what to do with that knowledge.
+**Hidden Purpose:** Discover who ordered his parents' Harmonization Audit. Decide what to do with that knowledge.
 
 **Combat Role:** Single Target Annihilation. Stealth, critical strikes, execution techniques. Can remove key threats before battle begins.
 
 **Loyalty Gates:**
 
-- ↑ Give her a choice instead of a command
+- ↑ Give him a choice instead of a command
 - ↑ Show mercy to a defeated opponent
-- ↓ Use her as a threat
-- ↓ Ask her to silence someone who reminds her of the child
+- ↓ Use him as a threat
+- ↓ Ask him to silence someone who reminds him of the child
 
-**What She Knows:** The true circumstances of Grand Council member Wei's death thirty years ago, officially recorded as "natural causes." Wei was killed on the orders of a rival Grand Council member who is still in power. Night Warbler was the killer. She has never told anyone. The knowledge eats at her.
+**What He Knows:** The true circumstances of Grand Council member Wei's death seventeen years ago, officially recorded as "natural causes." Night Warbler carried out the killing at age twenty. He knows he was the blade, but the authorization passed through several offices, and he has narrowed its source only to an unidentified member of the Grand Council who remains in power.
 
-**Potential Quest: The Confession.** Night Warbler struggles with what she has done. If the players build enough trust, she may confess to Wei's murder. What the players do with this information determines their relationship with her and the fate of the Grand Council member who ordered the killing.
+**Potential Quest: The Issuer.** If the players earn enough trust, Night Warbler may admit that he killed Wei and ask for help identifying the Council member who gave the order. What the players do with the truth will determine their relationship with him and the fate of the person who arranged the killing.
 
 ---
 
 ### Guest Among Forests
+
+**Default Gender:** Female
 
 **Path:** Long Lived
 **School:** Verdant Path (founder)
@@ -1637,63 +1643,67 @@ Her first mission was at age fourteen: the elimination of a Verdant Path organiz
 
 **Her Room in the Garden Quarter.** Guest Among Forests maintains a small residence in the Garden Quarter, in a house that she has filled with plants from the Northern Expanse. The walls are covered in living vines. The windows are open to the air. The floor is packed earth rather than tile. She sleeps on a mat of woven grass, not a bed. The room smells of damp earth and green growing things, and the Qi is noticeably different here, wilder, older, resistant to the tamed flow of the city. Visitors find the room calming or unsettling, depending on their sensitivity to Qi.
 
-**Story:** She is over four hundred years old. She remembers the world before the Celestial Empire. She welcomed the Sun Emperor as a unifying force and has watched His Court calcify into the very tyranny He promised to end. She has been subjected to four Harmonization Audits. Four times, her people hid her. Four times, the empire's need for Northern reagents brought her back to the negotiating table. She is tired. She is patient. She is running out of both.
+**Story:** She is over four hundred years old. She remembers the Northern Expanse before it was incorporated into the empire. She welcomed the Sun Emperor as a unifying force and has watched His Court calcify into the very tyranny He promised to end. She has been subjected to four Harmonization Audits. Four times, her people hid her. Four times, the empire's need for Northern reagents brought her back to the negotiating table. She is tired. She is patient. She is running out of both.
 
-**Personal History.** Guest Among Forests was born in the deep Northern Expanse, in a grove that no longer exists, during a time when the forest peoples were the only inhabitants of the continent. She was a child when the first imperial scouts appeared, carrying maps and claiming the land for an Emperor she had never heard of. She learned the imperial tongue from a scout who was kind to her, a young man who taught her to read and write and who was later executed for "fraternizing with non human elements."
+**Personal History.** Guest Among Forests was born in the deep Northern Expanse, in a grove that no longer exists, during a time when the forest peoples still governed that region without imperial rule. She was a child when the first imperial scouts appeared, carrying maps and claiming the land for an Emperor she had never heard of. She learned the imperial tongue from a scout who was kind to her, a young man who taught her to read and write and who was later executed for "fraternizing with nonhuman elements."
 
 She welcomed the Sun Emperor when He arrived in the North, seeing in Him a force that could unify the warring human kingdoms and bring peace. She signed a treaty on behalf of her people, granting the empire access to Northern resources in exchange for autonomy and protection. She watched the treaty be violated, renegotiated, violated again, and finally ignored. She has spent the last three centuries trying to hold the empire to its word, watching each generation of Court officials make promises they had no intention of keeping.
 
-She has outlived four lovers, two children, and everyone she knew before the empire came. She does not form attachments easily anymore. She forms them anyway, because she cannot help herself, and each one is another wound that will eventually scar.
+She has outlived four lovers and one of her two children, along with everyone she knew before imperial rule reached the Northern Expanse. Her surviving child withdrew into a deep forest sanctuary forty years ago, and she has heard nothing from them since. She does not form attachments easily anymore. She forms them anyway, because she cannot help herself, and each one is another wound that will eventually scar.
 
 **Daily Routine.** Guest Among Forests wakes at dawn, rising with the sun. She performs a slow meditation under the open sky, drawing Qi from the earth through her bare feet. She eats a simple breakfast of wild grains and berries, food brought from the North because she cannot stomach the empire's cuisine. She spends the morning in the Verdant Path's safe house in the Garden Quarter, meeting with messengers from the provinces, reading reports on the Dusk's advance, and composing letters to her allies in the Northern Expanse. The afternoon is given to politics: meetings with sympathetic officials, testimony before committees, the endless work of building coalitions that will crumble as soon as they are built. She takes her evening meal alone, in a private garden, watching the stars appear. She writes in her journal before sleeping, recording her observations and her fears. She has filled over two hundred journals in four centuries.
 
-**Inner Circle.** Root Speaker Three Rivers is her most trusted messenger, a young forest woman who travels between the capital and the North using paths that only the forest peoples know. Leaf Reader Silent Wind is a Verdant Path scholar who interprets Qi patterns in falling leaves, a form of divination that the Court considers heretical but cannot prove is practiced. The Last of Her Children, a man named Far Walker, is the great great great grandson of her youngest child. He is a diplomat in training, learning the courtly arts so that he can continue her work after she is gone.
+**Inner Circle.** Root Speaker Three Rivers is her most trusted messenger, a young forest woman who travels between the capital and the North using paths that only the forest peoples know. Leaf Reader Silent Wind is a Verdant Path scholar who interprets Qi patterns in falling leaves, a form of divination that the Court considers heretical but cannot prove is practiced. Far Walker is a fifth generation descendant of the child she lost. He is a diplomat in training, learning the courtly arts so that he can continue her work after she is gone.
 
-**Relationships.** Guest Among Forests and Cinnabar Heart have a strange understanding. He wrote the narratives that justified her persecution, and she knows it. She also knows that he no longer believes in what he writes, and she finds his crisis of faith more interesting than his enmity. The Iron Calculation regards her as an impediment to efficiency, a representative of obsolete systems that must be cleared for progress. The Duke of Eternal Night is one of the few people in the empire who remembers her from before, when they were both young and the world was different. They do not speak of those times. The Iron Bone is her most natural ally, but she finds his rage undisciplined and his wolf unsettling.
+**Relationships.** Guest Among Forests and Cinnabar Heart have a strange understanding. He wrote the narratives that justified her persecution, and she knows it. She also knows that he no longer believes in what he writes, and she finds his crisis of faith more interesting than his enmity. The Iron Calculation regards her as an impediment to efficiency, a representative of obsolete systems that must be cleared for progress. The Duke of Eternal Night is one of the few people in the empire who remembers her from when she was young and the Court was new. They do not speak of those times. The Iron Bone is her most natural ally, but she finds his rage undisciplined and his wolf unsettling.
 
 **Manner:** Calm, maternal, occasionally terrifying in her clarity. She treats court maneuvering as a very long game of weiqi where she alone can see the full board.
 
 **Hidden Purpose:** Secure autonomy for the forest peoples before the Crimson Dusk makes borders meaningless.
 
-**Combat Role:** Ranged Precision and Nature Resonance. Archery, wood walking magic, restoration, terrain manipulation.
+**Combat Role:** Ranged Precision and Nature Resonance. Archery, wood walking, restoration, terrain manipulation.
 
 **Loyalty Gates:**
 
 - ↑ Advocate for those without voices
 - ↑ Think beyond the immediate crisis
-- ↓ Treat non humans as lesser beings
+- ↓ Treat nonhumans as lesser beings
 - ↓ Prioritize Court unity over genuine justice
 
-**What She Knows:** The Crimson Dusk is not a punishment for heterodoxy. It is the consequence of a founding ritual performed at the empire's birth, a ritual that is now unraveling. The ritual involved the sacrifice of the continent's original guardians, the ancient spirits that kept the land balanced. Their deaths created a wound that has been festering for four centuries.
+**What She Knows:** The Crimson Dusk is not a punishment for heterodoxy. At the empire's birth, the founding ritual sacrificed or bound the continent's original guardians and installed the Sun Emperor as the replacement living conduit between Heaven and Earth. Sealing Him one hundred and fifty five years ago severed that conduit. The Dusk is the delayed wound created by both acts, only now becoming visible.
 
-**Potential Quest: The Ritual Site.** Guest Among Forests knows the location where the founding ritual was performed. It is a stone circle in the Northern Expanse, now overgrown and forgotten. Visiting the site reveals Qi traces of the original ritual and evidence of what was sacrificed. The site is protected by the spirits of the guardians, who do not distinguish between the original perpetrators and modern visitors.
+**Potential Quest: The Ritual Site.** Guest Among Forests knows the location where the founding ritual was performed. It is a stone circle in the Northern Expanse, now overgrown and forgotten. Visiting the site reveals Qi traces of the guardians' sacrifice or binding, the installation of the Sun Emperor as their replacement conduit, and the later rupture caused by His sealing. The site is protected by remnants of the guardians, who do not distinguish between the original perpetrators and modern visitors.
 
 ---
 
 ### Iron Calculation
+
+**Default Gender:** Male
 
 **Path:** Artificer
 **School:** Iron Calculation (founder)
 **Court Role:** Director, State Planning Commission
 **Nature:** The System Builder Who Misplaced People
 
-**Presence:** Brass goggles pushed up on a soot smudged brow. A coat heavy with specialized tools. A clockwork abacus at his belt that computes probabilities faster than any oracle. He resembles a man who has not rested since the last five year mandate began.
+**Current Age:** Fifty two
+
+**Presence:** Brass goggles pushed up over a brow smudged with soot. A coat heavy with specialized tools. A clockwork abacus at his belt that computes probabilities faster than any oracle. He resembles a man who has not rested since the current mandate began five years ago.
 
 **His Workshop.** Iron Calculation's private workshop is attached to his office in the State Planning Commission. It is a large room filled with machines in various states of assembly: gears, pistons, conduits, and devices whose purpose is not apparent to the untrained eye. The walls are covered with production charts and efficiency calculations, updated daily. The air smells of oil and metal and the faint ozone tang of active Qi conduits. Iron Calculation spends his evenings here, tinkering, designing, thinking. It is the only place where he seems remotely human.
 
-**Story:** Born in the Eastern Foundries, child of a machinist and a loom worker, he was a prodigy who could optimize production schedules before he could read. The Court identified him at age nine, educated him at the Academy of Celestial Engineering, and placed him in charge of industrial planning at thirty five. He has increased imperial productivity by threefold and decreased worker life expectancy by fifteen years. This is, to him, an acceptable ratio.
+**Story:** Born in the Eastern Foundries, child of a crucible worker and a loom worker, he was a prodigy who could optimize production schedules before he could read. The State Planning Commission tested and admitted him at fourteen, educated him at the Academy of Celestial Engineering, and gave him his first position with real authority at thirty. He has tripled imperial productivity and shortened worker life expectancy by fifteen years. This is, to him, an acceptable ratio.
 
-**Personal History.** His birth name is Seven Coins, a name that reflects his family's poverty. His father worked the bellows at Ember Forge. His mother operated a loom in a textile factory, producing silk for the Inner Court's robes. He has a younger brother, Copper Rest, who still works a crucible and has not spoken to him in nineteen years. He taught himself to read using production manifests that his father brought home from the forge.
+**Personal History.** His birth name is Seven Coins, a name that reflects his family's poverty. His father worked the number two crucible at the Central Smelting Authority for thirty seven years and died with his lungs full of particulate when Iron Calculation was twelve. His mother operated a loom in a textile factory and still lives in the District of Hammers. His younger brother, Copper Rest, is four years younger, still works a crucible, and has not spoken to him in nineteen years. He taught himself to read using production manifests that his father brought home from the foundry.
 
-He was discovered by a State Planning Commission recruiter who noticed that the boy could calculate optimal bellows timing by watching the flame colors. He was taken to Xiaoyuan, enrolled in the Academy of Celestial Engineering, and given a new name: Iron Calculation, the name of his future school. His father died of the foundry when he was twelve. Nineteen years ago he was given authority over foundry standards and redesigned the extraction system that killed him, cutting respiratory mortality at that facility by sixty one percent. He keeps the figure on a card in his desk and has looked at it more often than he has visited the grave.
+He was discovered by a State Planning Commission recruiter who noticed that the boy could calculate optimal bellows timing by watching the flame colors. At fourteen, he was tested for three days, admitted to the Academy of Celestial Engineering, and given a new name: Iron Calculation, the name of his future school. Nineteen years ago he received authority over foundry standards and redesigned the extraction system at Central Smelting, cutting respiratory mortality there by sixty one percent. He keeps the figure on a card in his desk and has looked at it more often than he has visited his father's grave.
 
-At the Academy, he excelled beyond all expectations. He redesigned the curriculum before he graduated. He published papers on Qi conduit optimization that are still required reading. He was appointed to the State Planning Commission at age thirty and became its director at thirty five. He has not taken a vacation since his appointment. He does not understand the concept.
+At the Academy, he excelled beyond all expectations. He redesigned the curriculum before he graduated. He published papers on Qi conduit optimization that are still required reading. At thirty, during the Iron Rebellion, he received his first position with real authority and provided the Garrison with the assessment that broke the revolt in nineteen days. He became director of the State Planning Commission at thirty five. He has not taken a vacation since his appointment. He does not understand the concept.
 
-**Daily Routine.** Iron Calculation wakes at the third hour, two hours before dawn. He does not meditate or exercise. These activities are inefficient. He drinks a measured amount of a nutrient paste developed by the Bureau of Celestial Inquiry, designed to provide maximum sustenance with minimum consumption time. He arrives at the State Planning Commission before the fifth hour and reviews the overnight reports: production figures, resource shipments, labor statistics, efficiency metrics. His mornings are spent in meetings with departmental heads, reviewing their numbers and demanding improvements. His afternoons are spent walking the factory floors of the Eastern Foundries, observing, calculating, identifying waste. He eats a second portion of nutrient paste at his desk in the evening. He works until the thirteenth hour, then reviews the next day's schedule. He sleeps for four hours, precisely measured. He dreams in data.
+**Daily Routine.** Iron Calculation wakes at the third hour, two hours before dawn. He does not meditate or exercise. These activities are inefficient. He drinks a measured amount of a nutrient paste developed by the Bureau of Celestial Inquiry, designed to provide maximum sustenance with minimum consumption time. He arrives at the State Planning Commission before the fifth hour and reviews the overnight reports: production figures, resource shipments, labor statistics, efficiency metrics. His mornings are spent in meetings with departmental heads, reviewing their numbers and demanding improvements. His afternoons are spent walking the factory floors of the Eastern Foundries, observing, calculating, identifying waste. He eats a second portion of nutrient paste at his desk in the evening. He works until late, then reviews the next day's schedule. He sleeps for exactly six hours and twelve minutes. He dreams in data.
 
 **Inner Circle.** Deputy Director Steel Ledger is his right hand, a woman who shares his dedication to efficiency and who has learned to translate his technical language into terms that other officials can understand. Chief Engineer Burning Wire runs the Qi conduit network and reports directly to Iron Calculation on any irregularities in the power grid. The Ghost of His Past, a factory worker named Old Loom who knew his mother, occasionally appears at Commission offices with requests for better working conditions. Iron Calculation grants the reasonable requests and ignores the rest.
 
-**Relationships.** Iron Calculation and the Bright Mirror have no relationship. He is beneath her notice, and she is beneath his interest. The Iron Bone is his opposite in every way, the embodiment of everything he considers inefficient: emotion, spontaneity, resistance to optimization. The Eternal Duke finds him useful and therefore supports him, with the cold calculation of one immortal recognizing another in a different form. Cinnabar Heart and Iron Calculation share a mutual incomprehension: one deals in narratives, the other in numbers, and neither understands why the other's work is considered important.
+**Relationships.** Bright Mirror investigates Iron Calculation's projects whenever their human cost becomes impossible to ignore. He has found ruthless policy, selective assumptions, and no evidence of personal corruption. Iron Calculation considers the Justicar one of the few officials worth answering because he tests claims against evidence, though he regards moral judgment as an inefficient substitute for calculation. The Iron Bone is his opposite in every way, the embodiment of everything he considers inefficient: emotion, spontaneity, resistance to optimization. The Duke of Eternal Night finds him useful and therefore supports him, with the cold calculation of one immortal recognizing another in a different form. Cinnabar Heart and Iron Calculation share a mutual incomprehension: one deals in narratives, the other in numbers, and neither understands why the other's work is considered important.
 
 **Manner:** Brilliant, detached, incapable of casual conversation. He genuinely believes governance is an optimization problem and that sentiment is a variable that should be minimized. He is not cruel. Cruelty is inefficient. He is something more unsettling: indifferent.
 
@@ -1716,24 +1726,26 @@ At the Academy, he excelled beyond all expectations. He redesigned the curriculu
 
 ### Iron Wall
 
+**Default Gender:** Male
+
 **Path:** Bastion
 **School:** Garrison Command (unaligned)
 **Court Role:** Marshal of the Imperial Garrison
 **Nature:** The Soldier Watching His Empire Devour Itself
 
-**Presence:** Massive dark plate armor scarred by a hundred battles. A greatsword that has broken lesser blades. The bearing of someone who has never needed to raise his voice because his presence is authority enough.
+**Presence:** A heavy garrison coat scarred by a hundred battles, with concealed armor beneath it. A greatsword that has broken lesser blades. The bearing of someone who has never needed to raise his voice because his presence is authority enough.
 
-**His Quarters.** Iron Wall lives in a modest set of rooms within the Garrison Command headquarters, a stone building that was once a fortress monastery. His quarters contain a bed, a desk, a bookshelf of military histories, and a shrine to the Iron Bodhisattva that he maintains himself. The walls are bare except for a single painting of the Western Bulwark mountains, the home he left and has never returned to. He eats in the mess hall with his soldiers. He does not employ servants. His armor is maintained by his own hands.
+**His Quarters.** Iron Wall lives in a modest set of rooms within the Garrison Command headquarters, a stone building that was once a fortress monastery. His quarters contain a bed, a desk, a bookshelf of military histories, and a shrine to the Iron Bodhisattva that he maintains himself. The walls are bare except for a single painting of the eastern pass, the home he left and still visits when duty permits. He eats in the mess hall with his soldiers. He does not employ servants. His armor is maintained by his own hands.
 
-**Story:** Forty years of service. Twenty campaigns. The youngest marshal in imperial history, promoted on merit rather than patronage, a fact that makes him an anomaly in the Court's network of favors. He swore an oath to the Sun Emperor, not to the Court, and that technical distinction has defined his career. He has refused to commit the Garrison to factional conflicts. He has refused to endorse Harmonization Audits. He has refused everything except his duty. The schools are running out of patience.
+**Story:** Twenty seven years of service. Twenty campaigns. At forty three, he is the youngest marshal in imperial history, promoted on merit rather than patronage, a fact that makes him an anomaly in the Court's network of favors. He swore an oath to the Sun Emperor, not to the Court, and that technical distinction has defined his career. He has refused to commit the Garrison to factional conflicts. He has refused to endorse Harmonization Audits. He has refused everything except his duty. The schools are running out of patience.
 
-**Personal History.** Iron Wall was born in a garrison town on the eastern frontier where the wall meets the pass. The name on his birth record is the name on the garrison roster going back six generations. His mother died delivering a sibling who also died; he has a memory of her voice that he cannot verify and has never asked his father to confirm. His father is still alive, retired in that same town, and on some days does not recognize him. He learned to read from military manuals and to fight with a stick that she sharpened into a practice blade.
+**Personal History.** Iron Wall was born in a garrison town on the eastern frontier where the wall meets the pass. The name on his birth record is the name on the garrison roster going back six generations. His mother died delivering a sibling who also died; he has a memory of her voice that he cannot verify and has never asked his father to confirm. His father is still alive, retired in that same town, and on some days does not recognize him. He learned to read from military manuals and to fight with a stick that he sharpened into a practice blade.
 
-He enlisted at sixteen, lied about his age to meet the minimum. He was assigned to the Sky Pillar Garrison and spent his first three years cleaning latrines and hauling supplies. He distinguished himself in his first battle, a border skirmish with raiders from beyond the mountains, by holding a breach alone for four hours while reinforcements arrived. He was promoted to sergeant on the field. He has never stopped rising.
+He enlisted at sixteen and lied about his age to meet the minimum. He was assigned to the Sky Pillar Garrison and spent his first year cleaning latrines and hauling supplies. At seventeen, in his first battle, a Dusk warband struck Grey River Ford during a storm. He held a breach alone for four hours and was promoted on the field. He has never stopped rising.
 
-He married a woman from his home province, a blacksmith's daughter named Steady Hand. She died of fever during the Famine of the Red Harvest. He has not remarried. He does not speak of her.
+He married a woman from his home province, a blacksmith's daughter named Steady Hand. She died of fever nine years ago after medicine set aside for the Inner Court never reached the garrison town. He has not remarried. He does not speak of her.
 
-**Daily Routine.** Iron Wall wakes at the fourth hour, before his soldiers. He performs a series of physical exercises in full armor, maintaining the strength that has made him legendary. He inspects the garrison personally, walking through every barracks, every stable, every armory. He knows the names of every soldier under his command, all eight thousand of them. He spends the morning in training drills, leading from the front, demonstrating techniques that younger soldiers struggle to match. He takes his midday meal in the mess hall, eating the same food as his troops. The afternoon is given to administrative work: reviewing reports, signing requisitions, writing letters to the families of fallen soldiers. He meets with school emissaries in the evening, listening to their offers and rejecting them. He walks the walls at night, alone, looking out at the city and the Spire and the distant red glow on the horizon.
+**Daily Routine.** Iron Wall wakes at the fourth hour, before his soldiers. He performs a series of physical exercises in his garrison coat and concealed armor, maintaining the strength that has made him legendary. He inspects the garrison personally, walking through every barracks, every stable, every armory. He knows the names of every soldier under his command, all eight thousand of them. He spends the morning in training drills, leading from the front, demonstrating techniques that younger soldiers struggle to match. He takes his midday meal in the mess hall, eating the same food as his troops. The afternoon is given to administrative work: reviewing reports, signing requisitions, writing letters to the families of fallen soldiers. He meets with school emissaries in the evening, listening to their offers and rejecting them. He walks the walls at night, alone, looking out at the city and the Spire and the distant red glow on the horizon.
 
 **Inner Circle.** Commander Steady Spear is his second in command, a veteran of the same campaigns who has never desired promotion because he does not want Iron Wall's responsibilities. Sergeant Memory Keeper is his adjutant, a young woman who maintains the roster of every soldier who has died under Iron Wall's command, recording their names, their home villages, and the circumstances of their deaths. The Ghost Division is what the Garrison's intelligence unit is called, a team of scouts and spies who report directly to Iron Wall on threats to the capital. They are the best in the empire.
 
@@ -1760,91 +1772,97 @@ He married a woman from his home province, a blacksmith's daughter named Steady 
 
 ### Bright Mirror
 
+**Default Gender:** Male
+
 **Path:** Justicar
 **School:** Bright Mirror (de facto leader)
 **Court Role:** High Justicar, Commission for Celestial Purity
-**Nature:** The Inquisitor Who Cannot Forgive, Herself Included
+**Nature:** The Inquisitor Who Cannot Forgive, Himself Included
 
-**Presence:** Gleaming armor of gold and argent. A massive shield inscribed with the vows of purity enforcement. A blade that has never tasted innocent blood because she has never been wrong about a target. She radiates sanctity like heat from a forge. Standing near her feels like being weighed.
+**Presence:** Gleaming gold and argent ceremonial plates over concealed armor. A massive shield inscribed with the vows of purity enforcement. A blade he once believed had never tasted innocent blood, though the Hearthstone Healer case taught him that certainty is not innocence. He radiates sanctity like heat from a forge. Standing near him feels like being weighed.
 
-**Her Chamber.** The Bright Mirror's personal chamber in the Commission for Celestial Purity is sparse to the point of austerity. A bed of plain wood. A desk and chair. A chest containing her spare armor. A shelf of legal texts. There are no decorations, no luxuries, nothing that could be considered personal. She has stripped her life of comfort to eliminate vulnerabilities. The room's only notable feature is a locked cabinet containing her case files, each one a thread in the web of corruption she has been weaving for a decade.
+**His Chamber.** The Bright Mirror's personal chamber in the Commission for Celestial Purity is sparse to the point of austerity. A bed of plain wood. A desk and chair. A chest containing spare ceremonial plates and concealed armor. A shelf of legal texts. There are no decorations, no luxuries, nothing that could be considered personal. He has stripped his life of comfort to eliminate vulnerabilities. The room's only notable feature is a locked cabinet containing his case files, each one a thread in the web of corruption he has been weaving for a decade.
 
-**Story:** She was a junior inspector who uncovered a corruption network reaching into the Grand Council. Her superiors buried her report. She published it anyway by nailing it to the door of the Council chamber. The resulting Harmonization Audit claimed forty seven senior officials, including her own mentor. She was promoted to High Justicar the next day. She has been incorruptible ever since, not because she is virtuous, but because she knows exactly how corrupt she could become, and the knowledge terrifies her.
+**Story:** He was a junior inspector who uncovered a corruption network reaching into the Grand Council. His superiors buried his report. He published it anyway by nailing it to the door of the Council chamber. The resulting Harmonization Audit claimed forty seven senior officials, including his own mentor. He was promoted to High Justicar the next day. He has been incorruptible ever since, not because he is virtuous, but because he knows exactly how corrupt he could become, and the knowledge terrifies him.
 
-**Personal History.** Her birth name was Pure Orchid. She was born in a temple of the Golden Orthodoxy to a priestess of fierce faith and fiercer silences. Her father was a Bright Mirror investigator whose name she did not learn until she was twelve, on the day he bled out on the temple steps with his throat opened by the targets of his last case. She believed for eleven years that he was a good man killed for getting close to something. At twenty three she pulled his file and found he had been running an unauthorized investigation on a private retainer, and that the people who killed him were competitors of the man paying him.
+**Personal History.** His birth name was Winter Pine. He was born in a temple of the Golden Orthodoxy to a priestess of fierce faith and fiercer silences. His father was a Bright Mirror investigator whom he knew as a child. When Winter Pine was twelve, the man bled out on the temple steps with his throat opened by people connected to his final case. Bright Mirror believed for eleven years that his father was a good man killed for getting close to something. At twenty three he pulled the file and found that his father had been running an unauthorized investigation on a private retainer, and that the men who killed him were competitors of the man paying him.
 
-Her mother has not spoken to her in thirty four years and returns her letters unopened with the seals broken, which requires more effort than either reading them or not returning them. Pure Orchid attended the Academy on a scholarship, studying ritual law and investigative procedure. She graduated near the top of her class and was assigned to the Commission for Celestial Purity as a junior inspector. She was good at her job, methodical and thorough and utterly fearless. She was assigned to investigate a minor case of bribery in the Ministry of Public Works. The case led to a superior, who led to a councilor, who led to a member of the Grand Council. She filed her report. Her superiors buried it. She wrote the report again, this time on parchment that she carried with her own hands, and nailed it to the Grand Council chamber door at dawn.
+His mother has not spoken to him in thirty nine years and returns his letters unopened with the seals broken, which requires more effort than either reading them or not returning them. Winter Pine attended the Academy on a scholarship, studying ritual law and investigative procedure. He graduated near the top of his class and was assigned to the Commission for Celestial Purity as a junior inspector. He was good at his job, methodical and thorough and utterly fearless. He was assigned to investigate a minor case of bribery in the Ministry of Public Works. The case led to a superior, who led to a councilor, who led to a member of the Grand Council. He filed his report. His superiors buried it. He wrote the report again, this time on parchment that he carried with his own hands, and nailed it to the Grand Council chamber door at dawn.
 
-The resulting Harmonization Audit lasted three months and claimed forty seven officials. Among them was the mentor who had trained her, an old inspector named Clear Water who had taught her everything she knew and who had been part of the corruption network she had uncovered. She has never forgiven herself for not seeing it.
+The resulting Harmonization Audit lasted three months and claimed forty seven officials. Among them was the mentor who had trained him, an old justicar named Voss who had taught him everything he knew and who had been part of the corruption network he uncovered. She is not the male Accuser Voss who appears in current Court records. He has never forgiven himself for not seeing his mentor's guilt.
 
-**Daily Routine.** Bright Mirror wakes at the fourth hour, before the sun. She performs a purification ritual involving cold water, specific breathing patterns, and the recitation of the twenty one vows of purity enforcement. She dresses in her armor, which she never removes in public, and inspects herself for any sign of compromise. She arrives at the Commission for Celestial Purity before the sixth hour and reviews the reports that have arrived overnight: allegations of corruption, requests for investigation, intelligence from the Bureau of Internal Harmony. She assigns cases to her inspectors personally, matching each investigator's skills to the specific demands of the case. She conducts her own investigations in the afternoon, often in person, questioning witnesses and examining evidence with the same intensity she brought to her first case. She returns to the Commission in the evening to review her inspectors' findings and prepare the next day's assignments. She eats a simple meal of rice and vegetables. She sleeps five hours, precisely, and dreams of faces she has condemned.
+**Daily Routine.** Bright Mirror wakes at the fourth hour, before the sun. He performs a purification ritual involving cold water, specific breathing patterns, and the recitation of the twenty one vows of purity enforcement. He puts on his concealed armor and ceremonial plates, which he never removes in public, and inspects himself for any sign of compromise. He arrives at the Commission for Celestial Purity before the sixth hour and reviews the reports that have arrived overnight: allegations of corruption, requests for investigation, intelligence from the Bureau of Internal Harmony. He assigns cases to his inspectors personally, matching each investigator's skills to the specific demands of the case. He conducts his own investigations in the afternoon, often in person, questioning witnesses and examining evidence with the same intensity he brought to his first case. He returns to the Commission in the evening to review his inspectors' findings and prepare the next day's assignments. He eats a simple meal of rice and vegetables. He sleeps no more than four hours and dreams of faces he has condemned.
 
-**Inner Circle.** Inspector Clear Water's Ghost is the memory of her mentor, a presence she consults when making difficult decisions. She imagines what he would say, and she does the opposite, because he was wrong about everything that mattered. Junior Inspector Steadfast Reed is her most promising protégé, a young woman who shares her commitment to purity and who may one day succeed her. The Archivist of Confessions is a scribe who maintains the records of every investigation the Commission has conducted. He is the only person who knows the full extent of the corruption the Commission has uncovered and chosen not to pursue for strategic reasons.
+**Inner Circle.** Justicar Voss's Ghost is the memory of his mentor, a presence he consults when making difficult decisions. He imagines what Voss would say, then examines why the answer still appeals to him before choosing his own course. Junior Inspector Steadfast Reed is his most promising protégé, a young woman who shares his commitment to purity and who may one day succeed him. The Archivist of Confessions is a scribe who maintains the records of every investigation the Commission has conducted. He is the only person who knows the full extent of the corruption the Commission has uncovered and chosen not to pursue for strategic reasons.
 
-**Relationships.** Bright Mirror and Iron Wall are the empire's only genuine alliance. She trusts him absolutely, which means she trusts exactly one person. The Duke of Eternal Night is her oldest and most persistent investigation target. She knows he has committed crimes that would merit Harmonization a hundred times over. She has not been able to prove them. She is patient. The Iron Bone she has investigated and found to be, by the strict definition of the law, guilty of treason. She has not moved against him because she believes his cause is just, even if his methods are not. She is still deciding what to do about this contradiction.
+**Relationships.** Bright Mirror and Iron Wall are the empire's only genuine alliance. Bright Mirror trusts him absolutely, which means he trusts exactly one person. The Duke of Eternal Night is his oldest and most persistent investigation target: he is certain the Duke has committed crimes that would merit Harmonization a hundred times over, he has never been able to prove one of them, and he is patient. The Iron Bone he has investigated and found to be, by the strict definition of the law, guilty of treason. He has not moved against the man, because he believes the cause is just even if the methods are not, and he is still deciding what to do about that contradiction.
 
-**Manner:** Intense, absolute, incapable of compromise. She genuinely believes in the Court's founding ideals and will destroy anyone who falls short of them, including herself. The most dangerous person in the empire.
+**Manner:** Intense, exacting, and unwilling to bargain with proven corruption. He genuinely believes in the Court's founding ideals, but the Hearthstone Healer case taught him that certainty must be earned through evidence rather than assumed. Once a case survives every challenge he can devise, he acts without hesitation, even when the finding condemns him. The most dangerous person in the empire.
 
-**Hidden Purpose:** Investigate the Crimson Dusk's origin. She suspects it was caused by the Court's own corruption. If her investigation confirms this, she will publish that finding regardless of consequences.
+**Hidden Purpose:** Investigate the Crimson Dusk's origin. He suspects it was caused by the Court's own corruption. If his investigation confirms this, he will publish that finding regardless of consequences.
 
-**Combat Role:** Sanctified Warrior. Smiting, purifying auras, truth compulsion. Her power scales with the target's corruption level.
+**Combat Role:** Sanctified Warrior. Smiting, purifying auras, truth compulsion. His power scales with the target's corruption level.
 
 **Loyalty Gates:**
 
 - ↑ Confess your own failings honestly
 - ↑ Act with integrity at personal cost
-- ↓ Lie to her. She always knows
+- ↓ Deliberately deceive him or manipulate evidence
 - ↓ Protect the corrupt
 
-**What She Knows:** She possesses a sealed indictment against every living member of the Grand Council. She is waiting for the right moment to unseal them. The indictments cover crimes ranging from corruption to conspiracy to High Disharmony. The evidence is complete. The witnesses have been secured. The only question is timing: unsealing them now would trigger a constitutional crisis that would paralyze the empire at the moment of its greatest danger.
+**What He Knows:** He possesses a sealed indictment against every living member of the Grand Council. He is waiting for the right moment to unseal them. The indictments cover crimes ranging from corruption to conspiracy to High Disharmony. The evidence is complete. The witnesses have been secured. The only question is timing: unsealing them now would trigger a constitutional crisis that would paralyze the empire at the moment of its greatest danger.
 
-**Potential Quest: The Unsealing.** The Bright Mirror is looking for a sign, a signal that the moment has come. What that sign is, she has not revealed. The players must determine what she is waiting for and decide whether to help her find it or to delay the inevitable.
+**Potential Quest: The Unsealing.** The Bright Mirror is looking for a sign, a signal that the moment has come. What that sign is, he has not revealed. The players must determine what he is waiting for and decide whether to help him find it or to delay the inevitable.
 
 ---
 
 ### Shadow
+
+**Default Gender:** Male
 
 **Path:** Night Walker
 **School:** None. Trades with all.
 **Court Role:** Independent Information Broker
 **Nature:** The Survivor Who Knows Where Every Body Is Buried
 
-**Presence:** Dark leathers worn soft by years of movement. An array of knives that seem to multiply the longer you look. A face that is almost familiar, like someone you knew in a past life or a past posting. The kind of person who is already in the room before you notice the window is open.
+**Presence:** Dark traveling clothes worn soft by years of movement. An array of knives that seem to multiply the longer you look. A face that is almost familiar, like someone you knew in a past life or a past posting. The kind of person who is already in the room before you notice the window is open.
 
-**Story:** Born in the Warrens beneath Xiaoyuan, child of a disgraced official and a teahouse worker. Should have died before age five. Instead, she learned to read the secrets people whispered, to trade information for sustenance, to survive by being more useful alive than dead. The Bureau of Internal Harmony swept the Warrens twice while she was growing up and both times judged her not worth the paperwork, which she arranged. She has been trading secrets ever since, and now runs an information house rather than working for one.
+**Story:** Born in the Warrens beneath Xiaoyuan, child of a disgraced official and a teahouse worker. Should have died before age five. Instead, he learned to read the secrets people whispered, to trade information for sustenance, to survive by being more useful alive than dead. The Bureau of Internal Harmony swept the Warrens twice while he was growing up and both times judged him not worth the paperwork, which he arranged. He has been trading secrets ever since, and now runs an information house rather than working for one.
 
-**Personal History.** Her birth name is not Shadow. That name was given to her by the Bureau of Internal Harmony, and she has forgotten the original. She was born in a rented room in the Warrens, the daughter of a woman who worked in a teahouse and a man whose name was never spoken. Her mother died when she was three, of a fever that could have been treated if they had had the money for medicine. She survived by begging, stealing, and learning which adults could be trusted and which could not.
+**Personal History.** His birth name is not Shadow. The name grew around him in the Warrens until it replaced the original, which he has forgotten. He was born in a rented room there, the son of a teahouse worker and a disgraced official. His father had taken money to certify adulterated grain as safe, and eleven people died. His mother is still alive at seventy nine in a room Shadow pays for. He survived childhood by begging, stealing, and learning which adults could be trusted and which could not.
 
-She was never recruited by anyone. The Bureau swept the Warrens twice in her adolescence and both times she was not worth the paperwork, which she engineered. She built what she has from nothing, starting as a child selling overheard conversation for food, and she is now an information house rather than an agent: forty to sixty people on standing retainer, nine of whom know they work for her, the rest believing they work for four brokers, three of whom do not exist. The Bureau's best operative: infiltration, extraction, information gathering. She never killed unless necessary, a distinction that made her valuable for missions where discretion was paramount.
+He was never recruited by anyone. The Bureau swept the Warrens twice in his adolescence and both times he was not worth the paperwork, which he engineered. He built what he has from nothing, starting as a child selling overheard conversation for food, and he is now an information house rather than an agent: forty to sixty people on standing retainer, nine of whom know they work for him, the rest believing they work for four brokers, three of whom do not exist. His independent gifts are infiltration, extraction, and information gathering. He kills only when necessary, a distinction that makes him valuable to clients for whom discretion is paramount.
 
-At age twenty five she was offered a Bureau retainer and declined it, correctly reading the offer as an attempt to convert an uncontrolled asset into a controlled one. She has been untouchable for fifteen years and cannot stop working, because eleven hundred items of leverage require maintenance and the machine she built to keep her safe now runs her. She is forty four and has been selling ever since.
+At age twenty five he was offered a Bureau retainer and declined it, correctly reading the offer as an attempt to convert an uncontrolled asset into a controlled one. He has not left the capital in nineteen years. For the last fifteen, he has been untouchable. He cannot stop working, because eleven hundred items of leverage require maintenance and the machine he built to keep him safe now runs him. He is forty four and has been selling ever since.
 
-**Daily Routine.** Shadow rises at whatever hour she chooses, which is never the same two days in a row. She maintains a network of safe houses across the Outer City, each one stocked with supplies, weapons, and emergency funds. She spends the morning receiving reports from her informants, who number in the hundreds and cover every level of Xiaoyuan society. She spends the afternoon meeting clients, trading information in teahouses, markets, and alleys. She prices her secrets on a sliding scale: cheap for information that hurts the powerful, expensive for information that protects them. She spends the evening maintaining her network, checking in with informants, paying debts, collecting favors. She sleeps in a different location each night, always with a weapon within reach. She has not had a full night's sleep in twenty years.
+**Daily Routine.** Shadow rises at whatever hour he chooses, which is never the same two days in a row. He maintains a network of safe houses across the Outer City, each one stocked with supplies, weapons, and emergency funds. He spends the morning receiving reports from forty to sixty direct retainers and hundreds of indirect sources who cover every level of Xiaoyuan society. He spends the afternoon meeting clients, trading information in teahouses, markets, and alleys. He prices his secrets on a sliding scale: cheap for information that hurts the powerful, expensive for information that protects them. He spends the evening maintaining his network, checking in with informants, paying debts, collecting favors. He sleeps in a different location each night, always with a weapon within reach. He has not had a full night's sleep in twenty years.
 
-**Inner Circle.** The Coin is her contact in the Hollow Exchange, the black market's governing council. The Coin facilitates her trades and takes a cut of her earnings. Blind Wei is an elderly information broker who lives in a permanent state of drug induced Qi sensitivity, able to perceive the emotional states of people around him. Shadow uses him to verify the truthfulness of her clients. The Map Maker is a former cartographer from the Bureau of Harmonious Narrative who was blinded in an industrial accident and who now draws maps of Xiaoyuan's underground from memory, each one more accurate than the official versions.
+**Inner Circle.** The Coin is his contact in the Hollow Exchange, the black market's governing council. The Coin facilitates his trades and takes a cut of his earnings. Blind Wei is an elderly information broker who lives in a permanent state of drug induced Qi sensitivity, able to perceive the emotional states of people around him. Shadow uses him to verify the truthfulness of his clients. The Map Maker is a former cartographer from the Bureau of Harmonious Narrative who was blinded in an industrial accident and who now draws maps of Xiaoyuan's underground from memory, each one more accurate than the official versions.
 
-**Relationships.** Shadow and Night Warbler share a history that neither discusses. They were trained in the same system, they escaped it through different means, and they respect each other's skills. Shadow has sold information to every figure in the Court, and she has also sold information about every figure to their rivals. The Duke of Eternal Night is one of her best customers; he pays in ancient coins that are worth more than their weight in gold. The Bright Mirror is the one figure Shadow will not sell information about, not because she respects her but because she fears her. The Iron Bone she supports with discounted intelligence, believing that the Common Flame needs every advantage it can get.
+**Relationships.** Shadow and Night Warbler share a history that neither discusses. Night Warbler was forged inside the Bureau while Shadow survived beneath its notice. They learned different versions of the same city and respect each other's skills. Shadow has sold information to every figure in the Court, and he has also sold information about every figure to their rivals. The Duke of Eternal Night is one of his best customers; he pays in ancient coins that are worth more than their weight in gold. The Bright Mirror is the one figure Shadow will not sell information about, not because he respects him but because he fears him. The Iron Bone he supports with discounted intelligence, believing that the Common Flame needs every advantage it can get.
 
-**Manner:** Warm, funny, disarmingly honest about her dishonesty. "I will absolutely betray you if the price is right. But I will give you a chance to outbid them first." She is the only figure who treats you as an equal. This should make you more suspicious, not less.
+**Manner:** Warm, funny, disarmingly honest about his dishonesty. "I will absolutely betray you if the price is right. But I will give you a chance to outbid them first." He is the only figure who treats you as an equal. This should make you more suspicious, not less.
 
-**Hidden Purpose:** Survive. Everything else, wealth, comfort, even connection, is secondary to survival. The tragedy is that she has begun to care about certain people, and caring is a vulnerability.
+**Hidden Purpose:** Survive. Everything else, wealth, comfort, even connection, is secondary to survival. The tragedy is that he has begun to care about certain people, and caring is a vulnerability.
 
 **Combat Role:** Stealth and Exploitation. Backstab, trap setting, evasion, escape abilities that work when nothing else will.
 
 **Loyalty Gates:**
 
-- ↑ Save her life. She will resent the debt but she will pay it
+- ↑ Save his life. He will resent the debt but he will pay it
 - ↑ Be genuinely, provably trustworthy over time
-- ↓ Threaten her survival
-- ↓ Judge her for what she has done to stay alive
+- ↓ Threaten his survival
+- ↓ Judge him for what he has done to stay alive
 
-**What She Knows:** She possesses a copy of the original imperial charter. It contradicts every piece of current doctrine. The Court has been violating its own founding document for centuries. The charter establishes limits on the Grand Council's authority that have been systematically ignored. It provides for the Emperor's potential incapacitation and establishes a clear succession process. It also contains a clause that the Court has hidden: the Emperor can be removed from power if a supermajority of the Grand Council agrees. The clause has never been invoked.
+**What He Knows:** He possesses a copy of the original imperial charter. It contradicts every piece of current doctrine. The Court has been violating its own founding document for centuries. The charter establishes limits on the Grand Council's authority that have been systematically ignored. It provides for the Emperor's potential incapacitation and establishes a clear succession process. It also contains a clause that the Court has hidden: the Emperor can be removed from power if a supermajority of the Grand Council agrees. The clause has never been invoked.
 
-**Potential Quest: The Charter's Implications.** Shadow is selling access to the charter, slowly, carefully, one reader at a time. She wants the knowledge to spread before the Court can suppress it. She needs the players to help distribute copies, to protect key readers, and to identify Court agents who are trying to track down the original document.
+**Potential Quest: The Charter's Implications.** Shadow is selling access to the charter, slowly, carefully, one reader at a time. He wants the knowledge to spread before the Court can suppress it. He needs the players to help distribute copies, to protect key readers, and to identify Court agents who are trying to track down the original document.
 
 ---
 
 ### Duke of Eternal Night
+
+**Default Gender:** Male
 
 **Path:** Blood Cultivator
 **School:** Crimson Lineage (patriarch)
@@ -1853,25 +1871,25 @@ At age twenty five she was offered a Bureau retainer and declined it, correctly 
 
 **Presence:** Aristocratic perfection in black and deep red. Skin pale as alabaster. The faintest suggestion of fangs when he smiles, which is often and never warmly. He wears his eight centuries like an exquisitely tailored coat. He is the most beautiful thing you have ever seen. He is also the most dangerous.
 
-**Story:** He was present at the empire's founding. He signed the original charter. He has served every era, every Council configuration, every Harmonization Audit, reformation, and counter reformation. He has outlived his children, his grandchildren, his lovers, his rivals, and his gods. He continues to attend Council sessions because he has nothing else to do, and eternity is very, very long.
+**Story:** He is exactly eight hundred years old. He was present at the empire's founding, signed the original charter, and has served the Court since its first days. Across four hundred and fifty two years of imperial history, he has witnessed every Council configuration, every Harmonization Audit, every reform, and every reaction against reform. He has outlived his wife, old lovers, mortal friends, rivals, and gods, while generations of the family he raised have passed beneath his watch. He continues to attend Council sessions because he has nothing else to do, and eternity is very, very long.
 
-**Personal History.** The Duke of Eternal Night was born Shen Bao, the son of rice farmers in what is now the eastern provinces. He says the name is lost. He remembers it perfectly, and says it is lost because a man who admits he was a farmer's son can be priced. His sire found him at a harvest festival at seventeen and explained the terms over most of a night, accurately and without romance. He asked for until morning, walked, came back, and said yes, because he did not want to inherit a rice field and die at fifty of a cough. Everything since is downstream of a choice made by a boy who was bored. The blood cultivation arts came later, learned rather than inherited, and he was competent at them long before he was devout. Six centuries on, he is the last man alive who remembers being ordinary, and he has never settled whether that is his qualification or his wound.
+**Personal History.** The Duke of Eternal Night was born Shen Bao, the son of rice farmers in what is now the eastern provinces. He says the name is lost. He remembers it perfectly, and says it is lost because a man who admits he was a farmer's son can be priced. His sire found him at a harvest festival at seventeen and explained the terms over most of a night, accurately and without romance. He asked for until morning, walked, came back, and said yes, because he did not want to inherit a rice field and die at fifty of a cough. Everything since is downstream of a choice made by a boy who was bored. The blood cultivation arts came later, learned rather than inherited, and he was competent at them long before he was devout. Seven hundred and eighty three years later, he is the last man alive who remembers being ordinary, and he has never settled whether that is his qualification or his wound.
 
 When the Sun Emperor arrived, the Duke was among the first to recognize His power. He offered his allegiance and his family's knowledge in exchange for a place in the new order. The Sun Emperor accepted. The Duke signed the Founding Charter, witnessed the Unification, and watched his kingdom be absorbed into the empire. He has never regretted this decision, because the alternative was annihilation, but he has often wondered what might have been.
 
-He has married twelve times. Each wife has died, of age, of illness, of violence. He has fathered thirty seven children. He has outlived all of them. His current heir, a great great grandson named Pale Jade, is a disappointment: talented in the blood arts but utterly without wisdom, convinced that immortality means he does not need to learn from the past.
+He married once, to a mortal woman named Ash Bright. He was two hundred and four and she was twenty six. Their marriage lasted sixty seven years, ending when she died at ninety three. He never remarried. He raised two of Ash's children and still protects their descendants. One person he later brought into the blood became his chosen heir, attempted a coup, and now lives in exile.
 
 **Daily Routine.** The Duke wakes at the tenth hour, late by imperial standards, but he is beyond the empire's schedules. He is bathed by attendants who have been trained to perform the task without meeting his eyes. He dresses in robes that are always black and red, the colors of his house. He breakfasts on a preparation that includes a small amount of blood from a donor of his bloodline, a necessary maintenance of his cultivation arts. He spends the morning in his private garden, reading, meditating, and receiving reports from his agents throughout the empire. He holds audiences in the afternoon, receiving petitioners and officials who seek his favor. He attends Grand Council sessions when they are called, which is less and less frequently. He spends his evenings in the company of artists, poets, and musicians, supporting the arts because beauty is one of the few things that still moves him. He sleeps at the third hour, in a chamber sealed against light and sound.
 
-**Inner Circle.** Butler Eternal Silk is the head of his household, a man who has served him for sixty years and who knows every secret of the Duke's domestic arrangements. He is utterly loyal because the Duke has given him everything he has ever wanted. Advisor Thorn Petal is a scholar of blood cultivation theory, one of the few people in the empire who can discuss the arts with the Duke as an equal. The Disappointment, Pale Jade, is his heir apparent, a young man of considerable talent and negligible wisdom. The Duke is trying to decide whether to invest further effort in his training or to seek a different heir entirely.
+**Inner Circle.** Butler Eternal Silk is the head of his household, a man who has served him for sixty years and who knows every secret of the Duke's domestic arrangements. He is utterly loyal because the Duke has given him everything he has ever wanted. Advisor Thorn Petal is a scholar of blood cultivation theory, one of the few people in the empire who can discuss the arts with the Duke as an equal. The Exiled Child is the general the Duke once brought into the blood and trained as an heir. After the failed coup, the Duke spared him and sent him east. Neither has stopped watching the other.
 
-**Relationships.** The Duke and the Bright Mirror have a relationship that defies easy categorization. She has tried to investigate him for centuries and has failed. He respects her integrity and finds her investigation amusing. He could destroy her at any time, but he does not, because she is one of the few people in the empire who is genuine. Guest Among Forests remembers him from before the empire, and they share memories of a world that no longer exists. Cinnabar Heart he finds tedious in his guilt and fascinating in his knowledge. The Iron Calculation is useful, and the Duke supports useful people. The Iron Wall is the only man in the empire whose integrity the Duke genuinely envies.
+**Relationships.** The Duke and the Bright Mirror have a relationship that defies easy categorization. The Justicar has investigated him for thirteen years without finding enough to act. The Duke respects his integrity and finds the inquiry amusing. He could destroy the man at any time and does not, because the Justicar is one of the few people in the empire who is genuine. Guest Among Forests remembers him from the early years of Northern incorporation, when the Court still seemed young. Cinnabar Heart he finds tedious in his guilt and fascinating in his knowledge. The Iron Calculation is useful, and the Duke supports useful people. The Iron Wall is the only man in the empire whose integrity the Duke genuinely envies.
 
 **Manner:** Elegant, bored, unexpectedly kind in small ways. He tips servants extravagantly. He remembers gardeners' birthdays. He is also capable of monstrous acts when the Court's games require them. He is not evil. Evil requires caring enough to choose malice. He is something sadder: a being who has lived so long that morality has become a matter of aesthetic preference.
 
-**Hidden Purpose:** Find a worthy heir. His bloodline is declining, his children are decadent fools, and he refuses to let eight centuries of accumulated wisdom die with him.
+**Hidden Purpose:** Find a worthy heir. His former choice attempted a coup, his mortal family cannot inherit the blood arts, and he refuses to let eight centuries of accumulated wisdom die with him.
 
-**Combat Role:** Blood Resonance and Control. Life drain, charm and domination, regeneration, blood magic that turns enemies against themselves. Vulnerable to the Justicar's sanctified abilities.
+**Combat Role:** Blood Resonance and Control. Life drain, charm and domination, regeneration, and blood Techniques that turn enemies against themselves. Vulnerable to the Justicar's sanctified abilities.
 
 **Loyalty Gates:**
 
@@ -1880,13 +1898,15 @@ He has married twelve times. Each wife has died, of age, of illness, of violence
 - ↓ Bore him. This is the most dangerous thing you can do
 - ↓ Threaten what remains of his bloodline
 
-**What He Knows:** The Sun Emperor is not absent. The Emperor is sealed within the Spire, imprisoned by the first generation of Court elders who decided they would rather rule in His name than serve under His authority. The Duke voted against it. He was outvoted. He has carried the guilt of that vote for three centuries. He has tried to make amends in small ways, protecting those the Court would have destroyed, preserving knowledge the Court would have erased. He knows it is not enough.
+**What He Knows:** The Sun Emperor is not absent. The Emperor is sealed within the Spire, imprisoned by the first generation of Court elders who decided they would rather rule in His name than serve under His authority. The Duke voted against it and was outvoted. He has carried the guilt of failing to stop them for one hundred and fifty five years. He has tried to make amends in small ways, protecting those the Court would have destroyed and preserving knowledge the Court would have erased. He knows it is not enough.
 
 **Potential Quest: The Emperor's Heir.** The Duke believes that the Sun Emperor may have fathered a child before His imprisonment, an heir who was hidden from the Court and raised in secret. The Duke has spent centuries searching for this heir, without success. He has recently received a lead: a woman in the Southern Granary who possesses an artifact that only the Emperor's bloodline could activate.
 
 ---
 
 ### Iron Bone
+
+**Default Gender:** Male
 
 **Path:** Fury Adept
 **School:** Common Flame (leader)
@@ -1895,19 +1915,19 @@ He has married twelve times. Each wife has died, of age, of illness, of violence
 
 **Presence:** Broad shouldered and raw knuckled. A body built by labor and scarred by repression. Eyes that burn with righteous fire. His smile can rally a crowd of ten thousand. When the wolf takes him, when the accumulated rage of a betrayed people flows through his veins, he becomes something else entirely: a towering beast of fur and fang and indiscriminate fury.
 
-**Story:** He was a factory organizer in the Eastern Foundries, leading workers in demanding humane conditions, when a Harmonization Audit labeled his association a "heterodox cell." His spouse was taken. His children were sent to instruction. He was left for dead in a penal works. He survived. The ancient wolf spirit, the embodiment of popular fury, found him in that camp and offered him power. He accepted.
+**Story:** He was a factory organizer in the Eastern Foundries, leading workers in demanding humane conditions, when a Harmonization Audit labeled his association a "heterodox cell." His younger sister Mira was arrested in the same crackdown and sent elsewhere. Iron Bone was sentenced to six years in the penal works. He survived. During his fourth year there, an ancient wolf spirit embodying popular fury found him and offered him power. He accepted. He is now forty four.
 
-**Personal History.** His birth name is Strong Mountain. He was born in the Eastern Foundries, in a company town called Gears Rest that was owned by the Iron Calculation school. His father died in a factory accident when Strong Mountain was six, crushed by a press that had not been maintained because maintenance would have slowed production. His mother worked twelve hour shifts in a textile mill and died of lung disease when he was fourteen.
+**Personal History.** His birth name is Strong Mountain. He was born in the Eastern Foundries, in a company town called Gears Rest that was owned by the Iron Calculation school. His father worked the smelting furnaces. His mother worked the looms. He had four siblings, and two survived childhood. Strong Mountain grew up in company housing where every meal, illness, and funeral was counted against a worker's account.
 
-He worked in the foundries from age fourteen, first as a cleaner, then as a furnace tender, then as a machine operator. He was good at his job and respected by his peers. He worked in those foundries from the age of nine, carrying coal and crawling into spaces too small for adults. He began organizing at nineteen, forming a mutual aid society that pooled resources to support families affected by workplace deaths. The society was peaceful, legal, and effective. The Court labeled it a heterodox cell during a Harmonization Audit sweep. He was arrested. His wife was taken. His children were sent to instruction camps. He was sentenced to hard labor and sent to a camp in the mountains.
+He worked in those foundries from the age of nine, carrying coal and crawling into spaces too small for adults, then as a furnace tender, then as a machine operator. He was good at his job and respected by his peers. He began organizing at nineteen, forming a mutual aid society that pooled resources to support families affected by workplace deaths. At twenty two he called a safety strike that lasted nine days and helped ignite the Iron Rebellion. When the wider revolt was crushed after nineteen days, he and his younger sister Mira were arrested. She was sent to another camp. He was sentenced to six years of hard labor in the mountains.
 
-The wolf found him in the camp, on the night he decided to die. The wolf was ancient, a spirit of rage that had been accumulating for centuries, feeding on the suffering of the oppressed. It offered him a choice: die in the camp, or become its vessel and burn the empire down. He chose to live.
+The wolf found him during his fourth year in the camp, on the night he decided to die. The wolf was ancient, a spirit of rage that had been accumulating for centuries, feeding on the suffering of the oppressed. It offered him a choice: die in the camp, or become its vessel and burn the empire down. He chose to live.
 
 **Daily Routine.** Iron Bone wakes at the fifth hour, in whatever safe house the Common Flame has arranged for him. He eats a simple breakfast of bread and tea, the food of the people he represents. He spends the morning meeting with organizers from across the city, receiving reports on working conditions, arrests, and the mood of the districts. He speaks at public gatherings in the afternoon, usually in the Foundry District or the Fringe, rallying workers and refugees with speeches that are passionate, articulate, and carefully calibrated to inspire action without triggering immediate repression. He meets with school allies in the evening, negotiating support and planning strategy. He spends the night hours alone, meditating, keeping the wolf contained. The wolf is always there, pressing against the inside of his mind, waiting for him to slip.
 
 **Inner Circle.** Organizer Red Banner is his second in command, a former soldier who deserted after refusing to participate in a Harmonization Audit. She handles the Common Flame's military operations with a discipline that Iron Bone cannot provide. Whisper Network is the Flame's intelligence arm, a cell of workers and servants who report on Court activities. The Wolf's Hunger is the part of himself that he tries to suppress, the rage that wants to destroy everything, the voice that tells him that some people cannot be saved and must be eliminated.
 
-**Relationships.** Iron Bone and the Iron Wall respect each other despite being on opposite sides. Iron Bone knows that Iron Wall would kill him if ordered, and he respects that. The Bright Mirror has investigated him and, he suspects, has chosen not to move against him because she believes his cause has merit. This disturbs him more than open hostility would. The Duke of Eternal Night represents everything Iron Bone hates, but the Duke treats him with a courtesy that Iron Bone finds disorienting. Cinnabar Heart he despises as a maker of lies, but he also recognizes that Cinnabar Heart's crisis of faith makes him a potential ally.
+**Relationships.** Iron Bone and the Iron Wall respect each other despite being on opposite sides. Iron Bone knows that Iron Wall would kill him if ordered, and he respects that. The Bright Mirror has investigated him and, he suspects, has chosen not to move against him because the Justicar believes his cause has merit. This disturbs him more than open hostility would. The Duke of Eternal Night represents everything Iron Bone hates, but the Duke treats him with a courtesy that Iron Bone finds disorienting. Cinnabar Heart he despises as a maker of lies, but he also recognizes that Cinnabar Heart's crisis of faith makes him a potential ally.
 
 **Manner:** Two beings share one body. The first is warm, charismatic, funny, the kind of leader who eats with workers and remembers their children's names. The second is the wolf: pure, undifferentiated rage that cannot distinguish between a Grand Council elder and the street sweeper who works outside his palace. Iron Bone is terrified of the wolf. He also knows he needs it.
 
@@ -1922,65 +1942,69 @@ The wolf found him in the camp, on the night he decided to die. The wolf was anc
 - ↓ Act like the aristocrats he despises
 - ↓ Try to control or leash him
 
-**What He Knows:** The Crimson Dusk originated in the empire's penal works. The accumulated suffering of millions concentrated into a wound in the fabric of reality. The empire's crimes literally broke the world. He knows this because he was there. The camp where the wolf found him was the first site of Dusk manifestation outside the border provinces. He saw the red seep from the ground where prisoners had been buried. He saw the first Quiet One rise from a mass grave.
+**What He Knows:** The Crimson Dusk did not originate in the penal works. It later manifested at the camp where he was imprisoned, the first confirmed appearance beyond the border provinces. He saw red seep from ground where prisoners had been buried and watched the first Quiet One there rise from a mass grave. He believes concentrated suffering gave the Dusk a new place to enter the world.
 
-**Potential Quest: The Camp.** The penal works where the Dusk first appeared still exists, though it has been officially decommissioned. It is now a zone of intense Dusk activity, avoided by everyone. Iron Bone believes that something in the camp, something left behind when it was abandoned, could provide evidence of the Court's responsibility for the Dusk. He needs someone to retrieve it.
+**Potential Quest: The Camp.** The penal works where the Dusk first appeared beyond the border provinces still exists, though it has been officially decommissioned. It is now a zone of intense Dusk activity, avoided by everyone. Iron Bone believes that something left behind when it was abandoned could prove that the Court's camps gave the Dusk a path inward. He needs someone to retrieve it.
 
 ---
 
 ### Celestial Book
+
+**Default Gender:** Female
 
 **Path:** Archivist
 **School:** Bureau of Celestial Inquiry (unaligned)
 **Court Role:** Senior Ritual Theorist; Keeper of the Imperial Archives
 **Nature:** The Keeper of Everything We Were Not Meant to Know
 
-**Presence:** Ancient beyond measure, wrapped in robes of deep celestial blue stitched with constellations that shift when you are not looking directly at them. His staff is carved from the spine of the first dragon. His eyes are clouded with cataracts or perhaps with galaxies. He speaks in quotations from texts no one else has ever read.
+**Presence:** Ancient beyond measure, wrapped in robes of deep celestial blue stitched with constellations that shift when you are not looking directly at them. Her staff is carved from the spine of the first dragon. Her eyes are clouded with cataracts or perhaps with galaxies. She speaks in quotations from texts no one else has ever read.
 
-**Story:** He has been Keeper of the Imperial Archives for so long that no one remembers appointing him. He was old when the Crimson Lineage families were young. He reads every document the Court produces, every edict, every confession extracted during a Harmonization Audit, every statistical report. He forgets nothing. He says very little. When he does speak, his words reshape Court doctrine for generations, which is why every school sends emissaries to court his favor. He receives them all. He endorses none.
+**Story:** She has been Keeper of the Imperial Archives for so long that no one remembers appointing her. She was old when the Crimson Lineage families were young. She reads every document the Court produces, every edict, every confession extracted during a Harmonization Audit, every statistical report. She forgets nothing. She says very little. When she does speak, her words reshape Court doctrine for generations, which is why every school sends emissaries to court her favor. She receives them all. She endorses none.
 
-**Personal History.** Celestial Book was made, and he was made to solve a filing problem. The imperial archive had outgrown the ability of successive mortal archivists to hold a consistent system in mind, and by the founding era it was eleven incompatible schemes stacked on each other. The Bureau of Celestial Inquiry needed a cataloguer who would not die mid project. His earliest memory is waking in a chamber of white stone surrounded by texts he could not yet read, and being taught to read them by the lead archivist, a woman called Scholar of the Eastern Peak. He was not appointed by the Sun Emperor and does not claim to have been, though others claim it for him and he has stopped correcting ther this. He has been told that he was once a different person entirely, a scholar named something else, but he does not remember that either.
+**Personal History.** Celestial Book was made long before the current empire's founding, and she was made to solve a filing problem. The archive that later became imperial had outgrown the ability of successive mortal archivists to hold a consistent system in mind. By the founding era of the current empire, it had become eleven incompatible schemes stacked on each other. The Bureau of Celestial Inquiry needed a cataloger who would not die before finishing the work. Her earliest memory is waking in a chamber of white stone surrounded by texts she could not yet read, and being taught to read them by the lead archivist, a woman called Scholar of the Eastern Peak. She was not appointed by the Sun Emperor and does not claim to have been, though others claim it for her and she has stopped correcting them on this. She has been told that she was once a different person entirely, a scholar named something else, but she does not remember that either.
 
-What he does remember is the content of every book he has ever read. Every document, every letter, every note scrawled in the margin, every confession extracted under duress, every whispered secret recorded by a spy. The Archives contain the complete history of the empire, and Celestial Book is the only living being who has read all of it. He knows the truth about the Emperor's imprisonment, the founding crime, the nature of the Dusk, and the fate that awaits the empire. He has been waiting for someone to ask the right questions.
+What she does remember is the content of every book she has ever read. Every document, every letter, every note scrawled in the margin, every confession extracted under duress, every whispered secret recorded by a spy. The Archives contain the complete history of the empire, and Celestial Book is the only living being who has read all of it. She knows the truth about the Emperor's imprisonment, the founding crime, the nature of the Dusk, and the fate that awaits the empire. She has been waiting for someone to ask the right questions.
 
-**Daily Routine.** Celestial Book does not sleep in the conventional sense. He enters a state of restful reading, propped against the shelves, a book open in his lap, absorbing information even in his rest. He wakes at no fixed hour. He begins each day by walking the Archives, checking the condition of the texts, noting which sections have been disturbed, which documents have been misfiled, which seals have been broken. He spends the morning reading new acquisitions, reviewing documents produced by the ministries, adding their contents to his perfect memory. He receives visitors in the afternoon, if he chooses to, which is rare. He answers their questions with quotations from texts they have never heard of, leaving them to interpret the meaning. He spends the evening in the deepest levels of the Archives, reading texts that no one else has opened in centuries, searching for something that even he has not yet found.
+**Daily Routine.** Celestial Book does not sleep in the conventional sense. She enters a state of restful reading, propped against the shelves, a book open in her lap, absorbing information even in her rest. She wakes at no fixed hour. She begins each day by walking the Archives, checking the condition of the texts, noting which sections have been disturbed, which documents have been misfiled, which seals have been broken. She spends the morning reading new acquisitions, reviewing documents produced by the ministries, adding their contents to her perfect memory. She receives visitors in the afternoon, if she chooses to, which is rare. She answers their questions with quotations from texts they have never heard of, leaving them to interpret the meaning. She spends the evening in the deepest levels of the Archives, reading texts that no one else has opened in centuries, searching for something that even she has not yet found.
 
-**Inner Circle.** The Archives themselves are his inner circle. He speaks to the books as though they were people, and he claims they speak back. The Reading Room Attendants, a cadre of scribes who maintain the Archives' physical collection, are the closest thing he has to students. He has taught them to read the oldest scripts, to handle the most fragile texts, to recognize the signs of forbidden knowledge. None of them have learned a fraction of what he knows. The Ghost of the First Archivist is a presence he sometimes speaks of, a predecessor whose notes are preserved in a sealed section. Celestial Book claims that the Ghost still advises him, though he is not clear on whether this is literal or metaphorical.
+**Inner Circle.** The Archives themselves are her inner circle. She speaks to the books as though they were people, and she claims they speak back. The Reading Room Attendants, a cadre of scribes who maintain the Archives' physical collection, are the closest thing she has to students. She has taught them to read the oldest scripts, to handle the most fragile texts, to recognize the signs of forbidden knowledge. None of them have learned a fraction of what she knows. The Ghost of the First Archivist is a presence she sometimes speaks of, a predecessor whose notes are preserved in a sealed section. Celestial Book claims that the Ghost still advises her, though she is not clear on whether this is literal or metaphorical.
 
-**Relationships.** Celestial Book is outside the empire's system of relationships. He is too old, too powerful, and too strange for normal alliances. The Duke of Eternal Night is the only other being in the empire who approaches his age, and they share an understanding of what it means to outlive everything. The Bright Mirror has tried to investigate him and found nothing to investigate; he has done nothing wrong because he has not acted at all. Cinnabar Heart sends him copies of the Bureau of Harmonious Narrative's internal documents, hoping for a reaction. Celestial Book reads them and says nothing.
+**Relationships.** Celestial Book is outside the empire's system of relationships. She is too old, too powerful, and too strange for normal alliances. The Duke of Eternal Night is the only other being in the empire who approaches her age, and they share an understanding of what it means to outlive everything. The Bright Mirror has investigated her but found no wrongdoing he can prove because her interventions leave no trace he can authenticate. Cinnabar Heart sends her copies of the Bureau of Harmonious Narrative's internal documents, hoping for a reaction. Celestial Book reads them and says nothing.
 
-**Manner:** Distant, elliptical, seemingly senile, until a moment of piercing clarity that reveals the senility was a performance. Or the clarity is. No one is certain. He seems to find the Court's factional struggles genuinely amusing, like watching children argue about the rules of a game they have fundamentally misunderstood.
+**Manner:** Distant, elliptical, seemingly senile, until a moment of piercing clarity that reveals the senility was a performance. Or the clarity is. No one is certain. She seems to find the Court's factional struggles genuinely amusing, like watching children argue about the rules of a game they have fundamentally misunderstood.
 
 **Hidden Purpose:** Unknown. Possibly: ensure someone worthy reads the full archives before the Crimson Dusk consumes them. Possibly: complete a ritual that has been in progress for a thousand years. Possibly: die, finally, after so very long.
 
-**Combat Role:** Arcane Catastrophe and Knowledge. Devastating ritual magic, divination, battlefield manipulation. Physically fragile, magically supreme.
+**Combat Role:** Ritual Catastrophe and Knowledge. Devastating Qi rituals, divination, and battlefield manipulation. Physically fragile, supreme in ritual power.
 
 **Loyalty Gates:**
 
-- ↑ Ask genuine questions. He loves curiosity above all
-- ↑ Read the texts he recommends
+- ↑ Ask genuine questions. She loves curiosity above all
+- ↑ Read the texts she recommends
 - ↓ Pretend to understand what you do not
 - ↓ Treat knowledge as a weapon rather than a gift
 
-**What He Knows:** Everything. He has read the entire Imperial Archives. He knows the origin of the Crimson Dusk, the fate of the Sun Emperor, the founding crime of the Court, and what happens next. The question is whether he will tell you, and whether you will understand if he does. He has been waiting for someone who can comprehend the full picture, someone who can carry the knowledge forward after the Archives are gone.
+**What She Knows:** Everything. She has read the entire Imperial Archives. She knows the origin of the Crimson Dusk, the fate of the Sun Emperor, the founding crime of the Court, and what happens next. The question is whether she will tell you, and whether you will understand if she does. She has been waiting for someone who can comprehend the full picture, someone who can carry the knowledge forward after the Archives are gone.
 
-**Potential Quest: The Three Questions.** Celestial Book will answer exactly three questions. They must be the right questions, the ones that unlock the deepest secrets. He will not help the players formulate them. He will not indicate whether a question is good or poor. He will simply answer, and the players must decide what to ask. The answers will reshape their understanding of the empire and determine which endings are possible.
+**Potential Quest: The Three Questions.** Celestial Book will answer exactly three questions. They must be the right questions, the ones that unlock the deepest secrets. She will not help the players formulate them. She will not indicate whether a question is good or poor. She will simply answer, and the players must decide what to ask. The answers will reshape their understanding of the empire and determine which endings are possible.
 
 ### Bone Script
 
+**Default Gender:** Male
+
 **Path:** Hedgewarden
 
-**School:** Verdant Path (suppressed wing, unregistered)
+**School:** Verdant Path (heretical wing, unregistered)
 
 **Court Role:** None. He does not appear in the personnel registry of any Bureau.
 
 **Nature:** Patient, literal, and immovable. He is not brave. He simply does not recognize the point at which other people stop.
 
-**Presence:** A cloak of good work gone shabby, lined with living moss that he waters. A staff of storm fallen ash with raw Qi crystals growing where the branches fork, unset and unpolished. Forty one bone tokens on waxed thread along his belt and harness.
+**Presence:** A cloak of good work gone shabby, lined with living moss that he waters. A staff of ash felled by a storm, with raw Qi crystals growing where the branches fork, unset and unpolished. Forty one bone tokens on waxed thread along his belt and harness. The other three thousand nine hundred and sixty are hidden in caches elsewhere.
 
 **Origin.** He is from Nine Willow Bend, a prefecture in the eastern valleys that was struck from the gazetteer in the Year 441. He is perhaps twenty five. He is the last literate speaker of a script used in one valley for eight hundred years and nowhere else, and he carries forty one bone tokens on his belt, each carved with the name of a person who is not in any registry of the living or the dead.
 
-His mother was the village recorder. When the resettlement office confiscated her ledgers as unauthorized documentation, she had already spent three months copying four thousand names onto bone. She died in the second camp at fifty three. He took the bones and walked into the mountains, and learned unlicensed Qi practice from the remnants of the Verdant Path's suppressed wing, who went up into the high forests three generations ago and never came down.
+His mother was the village recorder. When the resettlement office confiscated her ledgers as unauthorized documentation, she had already spent three months copying names onto bone. She completed about three thousand four hundred before dying in the second camp at fifty three. He took her archive into the mountains and reconstructed the rest from his own memory and the memories of eleven survivors, reaching four thousand and one names, though about two hundred remain uncertain. He also learned unlicensed Qi practice from the remnants of the Verdant Path's heretical wing, who went up into the high forests three generations ago and never came down.
 
 **Why he matters.** Every other figure in this chapter is arguing about how the machine should run. Bone Script is the only one who has seen what it looks like from underneath, after it has finished. He is the empire's conscience in the most literal available sense: he is carrying its uncounted dead around on a piece of leather.
 
@@ -1990,11 +2014,11 @@ He came to Xiaoyuan seven months ago to file a restoration petition. That is the
 
 **Inner Circle.** Clerk Sixth Rank Yuan of the Bureau of Harmonious Records, a tired man at a window who has spent seven months finding the correct form and has never asked for anything. Grandmother Stone Voice, his teacher, somewhere past ninety, still in the high forest. And the camps, which are his practice and his congregation, though he would not use either word aloud.
 
-**Relationships.** The Celestial Book met him once in a corridor, said his prefecture's name aloud correctly with the tonal fall no capital speaker gets right, and walked on. Bone Script has not been able to find him since. The Common Flame wants him as a symbol and he will not be one. The Verdant Path's seated wing finds him embarrassing, because his teachers are the people they abandoned.
+**Relationships.** The Celestial Book met him once in a corridor, said his prefecture's name aloud correctly with the tonal fall no capital speaker gets right, and walked on. Bone Script has not been able to find her since. The Common Flame wants him as a symbol and he will not be one. The Verdant Path's seated wing finds him embarrassing, because his teachers are the people they abandoned.
 
 **Manner:** Plain, slightly slow, because the capital dialect is his third language and he translates before he speaks. He gets honorifics wrong and has stopped trying. When angry he becomes more precise rather than louder, which officials find far more disturbing. He notices plants before people.
 
-**Hidden Purpose:** To have four thousand names entered into the Imperial registry, by any method that leaves them real.
+**Hidden Purpose:** To have four thousand and one names entered into the Imperial registry, by any method that leaves them real.
 
 **Combat Role:** Endurance and Terrain. He does not fight well. He simply does not stop, and the ground tends to help him.
 
@@ -2007,9 +2031,11 @@ He came to Xiaoyuan seven months ago to file a restoration petition. That is the
 
 **What He Knows:** That there are cook fires in Nine Willow Bend. People have gone back into a Dusk zone and are not dying. He is the only person in the capital who knows, and he understands exactly what entering it into any record would summon.
 
-**Potential Quest: The Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Xiaoyuan can give it. Nine would need bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign out of self interest and own him forever. The players will be asked to help him choose.
+**Potential Quest: The Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Xiaoyuan can give it. Nine would need bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign for personal gain and own him forever. The players will be asked to help him choose.
 
 ### Incense Crown
+
+**Default Gender:** Female
 
 **Path:** Oracle
 
@@ -2019,9 +2045,9 @@ He came to Xiaoyuan seven months ago to file a restoration petition. That is the
 
 **Nature:** Gracious, watchful, entirely unhurried. She has been managing her captors for eleven years and has never once raised her voice.
 
-**Presence:** A crown of pierced silver and river jade, hung with drops tuned to be inaudible past three paces. A veil of unbleached silk. Six strands of turquoise, amber, and carnelian at the throat, each one a completed rite. A white gown, which in the Nine Domains is the color of mourning.
+**Presence:** A crown of pierced silver and river jade, hung with drops tuned to be inaudible past three paces. A veil of unbleached silk. Six strands of turquoise, amber, and carnelian at the throat, each marking one completed stage of her ordination. A white gown, which in the Nine Domains is the color of mourning.
 
-**Origin.** She was given to the Temple of Ten Thousand Gods at four. Her family was poor and the Temple fed her, taught her six scripts, and gave her the only education available in the Nine Domains to a girl from a fishing prefecture. She does not remember choosing this. She is now the youngest of nine ordained officiants in the empire, by forty years.
+**Origin.** She was given to the Temple of Ten Thousand Gods at four. Her family was poor and the Temple fed her, taught her six scripts, and gave her the only education available in the Nine Domains to a girl from a fishing prefecture. She does not remember choosing this. She is now the youngest of nine ordained officiants in the empire, by more than forty years.
 
 **Why she matters.** The Celestial Court can seize, tax, imprison, and erase. It has never once managed to manufacture legitimacy. The Rite of the Emperor's Continuance must be performed twice a year by an ordained officiant in unbroken succession, and the Doctrine of Continuous Edict depends on the Emperor being ritually confirmed as living. If the rite lapses, the tablets appearing in the Throne Chamber become, doctrinally, the edicts of a dead man.
 
@@ -2048,7 +2074,7 @@ So they keep her instead: a residence in the Inner City, a stipend, the finest s
 - ↓ Demand she declare for a faction
 - ↓ Call her a collaborator as though she has not already agreed with you
 
-**What She Knows:** The answer at the sealed door changed four years ago. She has reported the old formula three times since, because reporting the change would require explaining how she can tell the difference. She also received the Temple's ninth year teaching, which explains why the Sun Emperor did not abolish it, and she has structured eleven years of her life around never being asked it by someone she cannot refuse.
+**What She Knows:** The answer at the sealed door changed four years ago, at her fifteenth performance. She has reported the old formula at every Continuance since, because reporting the change would require explaining how she can tell the difference. She also received the Temple's ninth year teaching, which explains why the Sun Emperor did not abolish it, and she has structured eleven years of her life around never being asked it by someone she cannot refuse.
 
 **Potential Quest: The Eighth Phrase.** She wants to know whether the rising tone is correct. This sounds like a scholarly triviality. It is not. If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error, and she does not know which possibility frightens her more.
 
@@ -2153,7 +2179,7 @@ How orthodox you are perceived to be, measured from 0 to 100:
 - **0 to 20 (Heterodox):** Subject to immediate investigation. The Bright Mirror is coming.
 - **21 to 40 (Suspect):** Cannot hold any meaningful office. Under quiet observation. The Verdant Path is your only shelter.
 - **41 to 60 (Acceptable):** Normal official range. Safe from casual scrutiny but vulnerable during Harmonization Audits.
-- **61 to 80 (Harmonious):** In good standing. Eligible for mid level positions. Protected in most Harmonization Audits.
+- **61 to 80 (Harmonious):** In good standing. Eligible for positions of middle rank. Protected in most Harmonization Audits.
 - **81 to 100 (Exemplary):** You are the standard against whom others are measured. Also: every school now sees you as either a tool or a threat.
 
 **The Orthodoxy Trap:** Ritual Harmony above 85 makes you dangerous to existing power structures. If you are that pure, you could challenge them, or expose their impurity. High Ritual Harmony is a shield against investigation but a lure for factional attack.
@@ -2162,7 +2188,7 @@ How orthodox you are perceived to be, measured from 0 to 100:
 Your reputation with each of the six schools, measured from -100 (sworn enemy) to +100 (trusted voice). Faction Standing with one school affects Faction Standing with its rivals. Balance is survival.
 
 **Celestial Qi**
-Your pool of magical energy. Spent to perform rituals and activate abilities. Replenished through meditation, Qi rich environments, and certain rare items. Also consumed by Disharmony events and Dusk exposure.
+Your reserve of Celestial Qi. Spent to perform rituals and activate abilities. Replenished through meditation, environments rich in Qi, and certain rare items. Also consumed by Disharmony events and Dusk exposure.
 
 **Connections**
 Favors owed to you and debts you owe to others. A web of obligation that constrains and enables. Helping characters, acquiring leverage, sharing hardship all build connections. Calling in favors, betraying trust, or letting a connected character die burns them.
@@ -2175,8 +2201,8 @@ Mental and spiritual stability, measured from 0 to 100. Rest, meaningful bonds, 
 Periodically, every 15 to 30 days or triggered by major events, a Harmonization Audit sweeps through the Court:
 
 1. **Whisper Phase (3 to 5 days):** Rumors circulate. Schools position themselves. The shrewd prepare exits or alliances.
-2. **Investigation Phase:** The Commission for Celestial Purity (or school controlled investigators) examines officials. Your Ritual Harmony, school protection, and recent actions determine your risk.
-3. **Judgment Phase:** Targets are named. Outcomes range from "self criticism session" (minor) to "instruction through labor" (moderate) to "administrative disappearance" (terminal).
+2. **Investigation Phase:** The Commission for Celestial Purity (or investigators controlled by a school) examines officials. Your Ritual Harmony, school protection, and recent actions determine your risk.
+3. **Judgment Phase:** Targets are named. Outcomes range from a compulsory session of personal denunciation (minor), to "instruction through labor" (moderate), to "administrative disappearance" (terminal).
 4. **Aftermath:** Power vacuums open. Promotions occur. Revenge unfolds. The survivors write the official record.
 
 **Survival paths:**
@@ -2186,7 +2212,7 @@ Periodically, every 15 to 30 days or triggered by major events, a Harmonization 
 - Be too indispensable to remove (Iron Calculation relationship)
 - Be too dangerous to target (Iron Wall relationship)
 - Have already fled (cowardice, but effective)
-- Be genuinely, demonstrably pure (Bright Mirror relationship; she will protect you)
+- Be genuinely, demonstrably pure (Bright Mirror relationship; he will protect you)
 
 ### The Crimson Dusk (Meta Progression)
 
@@ -2222,7 +2248,7 @@ Each of the twelve figures has:
 
 ### Combat System (Tabletop Style)
 
-Turn based tactical combat on an abstract grid:
+Tactical combat unfolds in turns on an abstract grid:
 
 - **Initiative:** Determined by character swiftness plus modifiers
 - **Actions per turn:** Move, Strike, Technique, Item, Guard, Flee
@@ -2291,8 +2317,8 @@ _The price of rising is paid in pieces of yourself._
 - A major school conflict erupts. The Golden Orthodoxy moves against the Verdant Path.
 - The Dusk accelerates. First Dusk Touched entities appear within the inner provinces.
 - Personal threads with the twelve figures become available.
-- You must navigate multi school diplomacy or commit fully to one side.
-- The Bright Mirror begins her investigation into the Dusk's origin.
+- You must navigate diplomacy among several schools or commit fully to one side.
+- The Bright Mirror begins his investigation into the Dusk's origin.
 - One province falls entirely. It is removed from maps.
 
 **The Forking Path:** Maintain loyalty to one school or play all sides? Investigate the hidden truths or remain willfully unknowing?
@@ -2364,7 +2390,7 @@ The Iron Wall maintains a correspondence with a former soldier who now lives in 
 
 A junior scribe in the Ministry of Revenue has discovered a pattern of discrepancies in the tax records for the Eastern Foundries. The discrepancies suggest that the Iron Calculation school is skimming resources for an unknown purpose.
 
-The Bright Mirror visited the Temple of Ten Thousand Gods last week, in civilian clothes, and stayed for three hours. She left through a side door and was seen wiping her eyes.
+The Bright Mirror visited the Temple of Ten Thousand Gods last week, in civilian clothes, and stayed for three hours. He left through a side door and was seen wiping his eyes.
 
 The Duke of Eternal Night purchases a specific brand of tea from a merchant in the Outer Market. The tea is ordinary. The transaction is how he communicates with an agent inside the Common Flame.
 
@@ -2384,7 +2410,7 @@ Name: Faithful Record. Role: Archivist in the Ministry of Revenue. Secret: He ma
 
 Name: Red Lotus. Role: Cook in the Foundry District. Secret: She was a member of the Iron Rebellion and escaped the massacre by hiding in a furnace. She still has the scars. She still believes the revolution is coming.
 
-Name: Cold Wind. Role: Courier for the Bureau of Internal Harmony. Secret: He reads every message he carries and sells the information to Shadow. She pays him in protection, because the Bureau executes couriers who lose messages.
+Name: Cold Wind. Role: Courier for the Bureau of Internal Harmony. Secret: He reads every message he carries and sells the information to Shadow. He pays him in protection, because the Bureau executes couriers who lose messages.
 
 Name: Silent Prayer. Role: Novice monk at the Golden Orthodoxy's main temple. Secret: She has begun to doubt the Orthodoxy's teachings after witnessing a purification ritual fail to stop a minor Disharmony event. She is looking for someone to talk to.
 
@@ -2402,7 +2428,7 @@ Each school has developed unique techniques for channeling Qi. These are some of
 
 **Common Flame: The Solidarity Vein.** A technique that links the Qi of multiple people, allowing them to share strength, pain, and awareness. The technique is used by Common Flame cells to coordinate actions without verbal communication, to share the burden of injuries, and to amplify the power of group rituals. The technique requires trust, because each participant is vulnerable to the emotions and weaknesses of the others.
 
-**Bright Mirror: The Revealing Glare.** An investigative technique that allows the practitioner to perceive Qi traces left by recent events. The practitioner channels Piercing Qi through their eyes, allowing them to see the residual energy of past actions: the heat of a recent argument, the cold of a lie, the shimmer of concealed intent. The technique is exhausting and can only be maintained for short periods, but it has never failed to find the truth.
+**Bright Mirror: The Revealing Glare.** An investigative technique that allows the practitioner to perceive Qi traces left by recent events. The practitioner channels Piercing Qi through their eyes, allowing them to see the residual energy of past actions: the heat of a recent argument, the cold of a lie, the shimmer of concealed intent. The technique is exhausting and can only be maintained for short periods. It reveals traces and contradictions, not a complete account, so a careful practitioner still has to interpret and verify what they see.
 
 **Forbidden Techniques.** Beyond the approved techniques of the six schools, the empire contains arts that have been banned for their danger or their moral implications.
 
@@ -2410,9 +2436,9 @@ The Qi Drain is the forbidden art of extracting Qi from a living being against t
 
 The Memory Carving is the art of inscribing false memories into a person's Qi signature, causing them to believe events that never occurred. The technique is used by the Bureau of Internal Harmony for interrogation and manipulation. It is classified at the highest level and its existence is officially denied.
 
-The Siphon Ritual is a large scale version of the Qi Drain, designed to drain the Qi from an entire region. The ritual requires enormous preparation and leaves permanent damage to the land. It is believed that the Spire of Eternal Vigil itself is powered by a Siphon Ritual that has been running for three centuries.
+The Siphon Ritual is an expanded version of the Qi Drain, designed to drain the Qi from an entire region. The ritual requires enormous preparation and leaves permanent damage to the land. It is believed that the Spire of Eternal Vigil itself is powered by a Siphon Ritual that has been running for one hundred and fifty five years.
 
-The Shattering Technique is a forbidden combat art that uses the practitioner's own Qi as a weapon, overloading their channels to produce a devastating burst of energy. The technique is always fatal to the practitioner. It is taught only to those who are expected to die in service to the empire. The practitioner channels Piercing Qi through their eyes, allowing them to see the residual energy of past actions: the heat of a recent argument, the cold of a lie, the shimmer of concealed intent. The technique is exhausting and can only be maintained for short periods, but it has never failed to find the truth.
+The Shattering Technique is a forbidden combat art that uses the practitioner's own Qi as a weapon, overloading their channels to produce a devastating burst of energy. The technique is always fatal to the practitioner. It is taught only to those who are expected to die in service to the empire.
 
 ### Sample Encounters: Scenes for the Host
 
@@ -2462,11 +2488,11 @@ Soaring orchestral melancholy. Ancient stone and fading light. The beauty of a d
 
 ### Dice System
 
-All uncertain actions use a twenty sided die plus modifier versus a threshold. Advantage and disadvantage follow standard conventions.
+All uncertain actions use a d20 plus a modifier against a threshold. Advantage and disadvantage follow standard conventions.
 
 ### Action Types
 
-- **Bureaucratic:** File reports, request resources, review dossiers. Uses Presence or Intellect. Bureaucratic actions are the most common and the most underestimated. A well filed report can advance a career. A poorly filed report can end it. Bureaucratic actions include: requesting information from archives, filing official complaints, submitting budget proposals, processing paperwork for promotions, and navigating the empire's endless approval processes.
+- **Bureaucratic:** File reports, request resources, review dossiers. Uses Presence or Intellect. Bureaucratic actions are the most common and the most underestimated. A report filed well can advance a career. A report filed poorly can end it. Bureaucratic actions include: requesting information from archives, filing official complaints, submitting budget proposals, processing paperwork for promotions, and navigating the empire's endless approval processes.
 
 **Investigative:** Search for information, interrogate, surveil. Uses Intellect or Resolve. Investigative actions are the heart of the game. Players gather information, follow leads, and uncover secrets. Investigative actions include: searching archives, questioning witnesses, analyzing evidence, conducting surveillance, and performing Qi readings.
 
@@ -2474,7 +2500,7 @@ All uncertain actions use a twenty sided die plus modifier versus a threshold. A
 
 **Operational:** Stealth, combat, sabotage. Uses Swiftness or Might. When subtlety fails, physical action becomes necessary. Operational actions include: moving unseen, disabling security measures, engaging in combat, escaping pursuit, and physical sabotage.
 
-**Ritual:** Qi manipulation, alchemical transmutation, divination. Uses Intellect. Ritual actions tap into the empire's magical system. Ritualists can sense Qi, perform ceremonies, create elixirs, and channel power. Ritual actions include: performing approved ceremonies, reading Qi signatures, creating talismans, brewing elixirs, and attempting forbidden techniques.
+**Ritual:** Qi manipulation, alchemical transmutation, divination. Uses Intellect. Ritual actions draw on the empire's Qi system. Ritualists can sense Qi, perform ceremonies, create elixirs, and channel power. Ritual actions include: performing approved ceremonies, reading Qi signatures, creating talismans, brewing elixirs, and attempting forbidden techniques.
 
 - **Investigative:** Search for information, interrogate, surveil. Uses Intellect or Resolve.
 - **Social:** Persuade, intimidate, charm, deceive. Uses Presence.
@@ -2485,7 +2511,7 @@ All uncertain actions use a twenty sided die plus modifier versus a threshold. A
 
 - **Under Investigation:** Ritual Harmony at risk. Certain actions locked.
 - **Audited:** Awaiting judgment. Cannot act.
-- **Disharmonized:** Magical backlash. Random effects when using Qi.
+- **Disharmonized:** Qi backlash. Random effects when using Qi.
 - **Dusk Touched:** Exposed to the Crimson Dusk. Sanity drain. Potential mutation.
 - **Sheltered:** Under a patron's protection. Bonus Celestial Favor generation.
 - **Branded:** Targeted by a hostile school. Increased Audit vulnerability.
@@ -2501,7 +2527,7 @@ Starting Sanity: 100
 
 ---
 
-## Read-Aloud Setting Descriptions
+## Read Aloud Setting Descriptions
 
 The following passages are designed for the Host to read aloud when players first experience these settings. Each captures the sensory texture, atmosphere, and emotional weight of a specific moment in the Celestial Empire.
 
@@ -2513,7 +2539,7 @@ The air smells of woodsmoke and dew and the distant industrial tang of the Found
 
 ### The Spire at Midnight
 
-The Spire of Eternal Vigil is never dark. Even at midnight, its surface glows with a faint internal light, like embers beneath ash. The stars wheel around it in patterns that seem too deliberate to be natural. The chant of the thirty six monks rises and falls in cycles that have continued uninterrupted for three hundred years: a low, resonant hum that vibrates in the bones of anyone who stands close enough to hear it.
+The Spire of Eternal Vigil is never dark. Even at midnight, its surface glows with a faint internal light, like embers beneath ash. The stars wheel around it in patterns that seem too deliberate to be natural. The chant of the thirty six monks rises and falls in cycles that have continued uninterrupted for one hundred and fifty five years: a low, resonant hum that vibrates in the bones of anyone who stands close enough to hear it.
 
 The air around the Spire is cold and still, colder than the surrounding night. There is no wind here. The Spire creates its own climate, its own atmosphere, its own rules. The stones at its base are worn smooth by the feet of pilgrims who have come to pray and the feet of guards who have come to ensure they do not pray too long. If you press your ear to the stone, you can hear something beneath the monks' chant, a deeper sound, like a heartbeat, or like something breathing.
 
@@ -2523,7 +2549,7 @@ Sometimes, on certain nights, a light appears in one of the Spire's upper window
 
 The village of Willow Ford was home to three hundred people. Now it is home to something else.
 
-The road into the village is marked by the bodies of birds, lying in the dust with their feet curled, as though they fell asleep in mid flight and simply stopped. The air is warm and still and smells of copper and rotting flowers. The houses are intact, the doors standing open, the windows unbroken. Inside, the tables are set for a meal that was never eaten. The hearth fires have burned down to cold ash. A child's doll lies in the street, its painted face smiling at the red sky.
+The road into the village is marked by the bodies of birds, lying in the dust with their feet curled, as though they fell asleep in flight and simply stopped. The air is warm and still and smells of copper and rotting flowers. The houses are intact, the doors standing open, the windows unbroken. Inside, the tables are set for a meal that was never eaten. The hearth fires have burned down to cold ash. A child's doll lies in the street, its painted face smiling at the red sky.
 
 The sky is the color of old blood, a deep crimson that stains everything it touches. The shadows are wrong, falling in directions that do not match the unseen sun. The silence is wrong, too. No birds. No insects. No wind. Only a faint distant hum, like a wire vibrating, that you feel in your teeth before you hear it with your ears.
 
@@ -2547,7 +2573,7 @@ The air is cool and dry and smells of dust and old paper and the faint sweet sce
 
 In the deepest levels, the texts are written in scripts that predate the empire, on materials that predate paper: stone, bone, leather, metal. There are texts here that describe a world before the Sun Emperor, a world of different laws and different gods. There are texts that describe what happened to that world. There are texts that describe what is happening now, written by scholars who understood the Dusk before anyone else, whose warnings were filed and forgotten.
 
-And somewhere in the darkness, Celestial Book is reading. You cannot see him. You cannot hear him. But you know he is there, because the Archives are never truly empty, and they have never been empty, not once, in all the centuries they have existed.
+And somewhere in the darkness, Celestial Book is reading. You cannot see her. You cannot hear her. But you know she is there, because the Archives are never truly empty, and they have never been empty, not once, in all the centuries they have existed.
 
 ### A Teahouse During a Harmonization Audit Scare
 
@@ -2623,7 +2649,7 @@ The texts on these shelves are the oldest in the empire, older than the empire i
 
 At the far end of the chamber, there is a door. It is not a stone door or a metal door. It is a door made of something that looks like light solidified, pale and translucent and humming with a power that you feel in your chest. The door has no handle, no lock, no visible mechanism. It does not need them. The door will open only when it chooses, only for whom it chooses, and only at the time it chooses.
 
-Celestial Book sits on a stone bench before the door, waiting. He has been waiting for a very long time. He does not turn when you enter. He does not need to see who has come. He knew you were coming before you knew yourself.
+Celestial Book sits on a stone bench before the door, waiting. She has been waiting for a very long time. She does not turn when you enter. She does not need to see who has come. She knew you were coming before you knew yourself.
 
 ### The Harbor Prefecture at Night
 
@@ -2631,17 +2657,17 @@ The Jade River at night is a ribbon of black water that reflects the lights of t
 
 The taverns along the waterfront are packed with sailors, dockworkers, and the people who profit from their labor. The music is loud, the wine is cheap, and the fights are frequent. The tavern keepers employ bouncers who are skilled in the kind of violence that does not attract the attention of the night patrols. The night patrols accept bribes not to notice.
 
-Shadow owns half the Harbor Prefecture, or controls it, or has an arrangement with the people who own it. It is difficult to tell the difference. Her informants are everywhere: the woman who sells fried fish from a cart, the boy who runs messages between ships, the harbor master who records arrivals and departures in a ledger that contains a second, invisible set of entries.
+Shadow owns half the Harbor Prefecture, or controls it, or has an arrangement with the people who own it. It is difficult to tell the difference. His informants are everywhere: the woman who sells fried fish from a cart, the boy who runs messages between ships, the harbor master who records arrivals and departures in a ledger that contains a second, invisible set of entries.
 
 On the water, a ship is loading cargo in the dark. Its destination is not recorded. Its crew does not speak. The Harbor Prefecture has many secrets, but this ship carries the kind of secret that could end an empire.
 
 **The Harbor Master's Office.** The Harbor Master is a woman named River Count, who has held her position for twenty years and has never been successfully bribed. She is feared and respected by everyone who works the docks. Her office is a cluttered room above the main wharf, its walls covered with shipping schedules, cargo manifests, and the maps she uses to track the movement of goods across the empire. She knows every captain, every merchant, every smuggler who works the river. She knows which cargoes are legitimate and which are not. She does not report the illegal cargoes, because reporting them would mean explaining why she knows about them, and that would compromise her sources.
 
-River Count is one of Shadow's most valuable contacts. In exchange for protection from the Bureau of Internal Harmony, she provides information on every shipment that passes through the harbor. The arrangement has been in place for fifteen years. Neither party has ever betrayed the other. Its crew does not speak. The Harbor Prefecture has many secrets, but this ship carries the kind of secret that could end an empire.
+River Count is one of Shadow's most valuable contacts. In exchange for protection from the Bureau of Internal Harmony, she provides information on every shipment that passes through the harbor. The arrangement has been in place for fifteen years. Neither party has ever betrayed the other.
 
 ### The Fringe Refugee Camp
 
-The camp stretches as far as you can see, a sea of tents and lean-tos made from whatever materials could be salvaged: canvas, wood, metal sheeting, and the fabric of tents that have been patched so many times that the original material is no longer visible. The paths between the shelters are mud, churned by thousands of feet. The air smells of smoke and sewage and the thin, sour odor of people who have not had enough to eat.
+The camp stretches as far as you can see, a sea of tents and makeshift shelters built from whatever materials could be salvaged: canvas, wood, metal sheeting, and fabric patched so many times that the original material is no longer visible. The paths between the shelters are mud, churned by thousands of feet. The air smells of smoke and sewage and the thin, sour odor of people who have not had enough to eat.
 
 The refugees are from provinces that no longer exist. They carry their homes in their memories and their belongings in whatever they could carry when they fled. They have built a community here, in the shadow of the capital that refuses to acknowledge them. There is a market, of sorts, where goods are traded and stories are sold. There is a healer who uses techniques that she learned in a village that has been consumed by the fog. There is a school where children learn to read and write using texts that the children themselves have written, recording the histories of their lost homes.
 
@@ -2655,21 +2681,19 @@ The chamber is bare. White walls. White floor. A single table. A single chair. Y
 
 The door opens. The Bright Mirror enters.
 
-She is not intimidating in the way a soldier is intimidating. She does not loom. She does not threaten. She simply walks into the room and the room becomes smaller, the air becomes heavier, the light becomes harsher. She is dressed in her armor of gold and argent, her shield on her back, her blade at her hip. She has not drawn the blade. She does not need to.
+He is not intimidating in the way a soldier is intimidating. He does not loom. He does not threaten. He simply walks into the room and the room becomes smaller, the air becomes heavier, the light becomes harsher. Gold and argent ceremonial plates gleam over the concealed armor beneath them, his shield rests on his back, and his blade hangs at his hip. He has not drawn the blade. He does not need to.
 
-She sits across from you. She places a single sheet of paper on the table between you. It contains a list of accusations. Some of them are true. Some of them are false. All of them are dangerous.
+He sits across from you. He places a single sheet of paper on the table between you. It contains a list of accusations. Some of them are true. Some of them are false. All of them are dangerous.
 
-She looks at you. Her eyes are the color of winter sky, pale and clear and without warmth. She does not blink. She does not look away. She waits.
+He looks at you. His eyes are the color of winter sky, pale and clear and without warmth. He does not blink. He does not look away. He waits.
 
-The silence stretches. You can hear your own breathing. You can hear the blood in your ears. You can hear the faint hum of the Qi lights in the ceiling. The Bright Mirror does not speak. She is giving you the opportunity to speak first, and she is watching to see what you will say, and she will remember every word, every hesitation, every shift in your posture.
+The silence stretches. You can hear your own breathing. You can hear the blood in your ears. You can hear the faint hum of the Qi lights in the ceiling. The Bright Mirror does not speak. He is giving you the opportunity to speak first, and he is watching to see what you will say, and he will remember every word, every hesitation, every shift in your posture.
 
 The moment before a Harmonization Audit judgment is the longest moment in the empire. It is a moment in which your entire life, your choices, your alliances, your secrets, all of it converges on a single point. One word from the Bright Mirror and you are gone, erased, your name struck from records, your existence forgotten. One word from you and the moment passes, and you live to face another day in the twilight of a dying empire.
 
-She waits. The paper waits. The room waits.
+He waits. The paper waits. The room waits.
 
 Speak.
-
----
 
 ---
 
@@ -2685,9 +2709,9 @@ The imperial calendar dates from the Sun Emperor's arrival. The current year is 
 
 ### Currency and Trade
 
-The empire's official currency is the Celestial Standard, a silver coin stamped with the Sun Emperor's profile. One Standard is divided into one hundred Bronze Petals. A day laborer earns approximately three to five Petals per day. A bowl of noodles costs one Petal. A good pair of shoes costs ten Standards. A bribe sufficient to redirect a minor investigation costs fifty Standards. A bribe sufficient to stop a Harmonization Audit costs more than most people will earn in a lifetime.
+The empire's official currency uses Copper Leaves, Silver Stems, Gold Blooms, and Jade Slips. Ten Copper Leaves equal one Silver Stem, ten Silver Stems equal one Gold Bloom, and ten Gold Blooms equal one Jade Slip. A day laborer earns only a few Copper Leaves per day. A bowl of noodles costs a Copper Leaf. A bribe large enough to redirect a minor investigation is measured in Gold Blooms. Stopping a Harmonization Audit costs more than most people will earn in a lifetime.
 
-The empire also uses a system of credit notes issued by licensed moneylenders. These notes are transferable and can be used for large transactions. The credit note system is theoretically regulated by the State Planning Commission. In practice, it is controlled by the Eight Great Families, who use it to manage the empire's economy according to their own interests.
+Licensed moneylenders also issue transferable credit notes for large transactions. The system is theoretically regulated by the State Planning Commission. In practice, it is controlled by the Eight Great Families, who manage much of the empire's economy according to their own interests.
 
 Barter remains common in rural areas and in the Warrens. The Outer Market operates on a complex system of credit, barter, and various unofficial currencies that include information, favors, and promises. The Court taxes transactions in the Outer Market on a voluntary basis, which is to say it does not tax them at all, because it cannot.
 
@@ -2695,19 +2719,19 @@ Barter remains common in rural areas and in the Warrens. The Outer Market operat
 
 Travel across the empire is slow, dangerous, and controlled. The official imperial highway network connects all nine provincial capitals, maintained by the State Planning Commission and patrolled by the Imperial Garrison. Travel on the highways requires travel permits, which are issued by the Bureau of Harmonious Records and subject to inspection at checkpoints. Travel without a permit is a crime.
 
-The Qi powered railway network is faster but more restricted. Only three railway lines exist: Xiaoyuan to the Eastern Foundries, Xiaoyuan to the Southern Granary, and Xiaoyuan to the Western Bulwark. The Northern Expanse has no railway. The border provinces have railways that no longer reach their destinations. The railway is reserved for official travel and essential cargo. Private travel on the railway requires authorization from the State Planning Commission, which is rarely granted.
+The railway network powered by Qi is faster but more restricted. Only three railway lines exist: Xiaoyuan to the Eastern Foundries, Xiaoyuan to the Southern Granary, and Xiaoyuan to the Western Bulwark. The Northern Expanse has no railway. The border provinces have railways that no longer reach their destinations. The railway is reserved for official travel and essential cargo. Private travel on the railway requires authorization from the State Planning Commission, which is rarely granted.
 
 The empire's communication system relies on couriers and signal towers. The Courier Service maintains stations every twenty miles along the major roads, where riders can change horses and pass messages to the next rider. A message from Xiaoyuan to the Eastern Foundries takes three days. A message to the Western Bulwark takes five. A message to Gate's End takes two weeks, if it arrives at all.
 
-Qi based communication exists but is limited to the highest levels of the Court. The Qi Resonance Towers, built during the Golden Age, can transmit messages instantly across the empire by creating sympathetic vibrations in paired crystals. The towers require enormous amounts of Qi to operate. The Bureau of Celestial Inquiry controls their use. The cost of a single transmission is equivalent to a year's salary for a mid ranking official.
+Communication through Qi exists but is limited to the highest levels of the Court. The Qi Resonance Towers, built during the Golden Age, can transmit messages instantly across the empire by creating sympathetic vibrations in paired crystals. The towers require enormous amounts of Qi to operate. The Bureau of Celestial Inquiry controls their use. The cost of a single transmission is equivalent to a year's salary for an official of middle rank.
 
 ### Language and Literacy
 
 The official language of the empire is the Imperial Tongue, a standardized form of the central dialect that all officials are required to speak and write. Regional dialects vary significantly. The Southern Granary dialect is slow and musical. The Eastern Foundries dialect is clipped and efficient. The Western Bulwark dialect is harsh and direct. The Northern Expanse dialects are not mutually intelligible with the Imperial Tongue and include sounds that the human throat is not supposed to be able to produce.
 
-Literacy rates are low across the empire, estimated at fifteen percent. Education is restricted to those who can afford it. Officials must be literate, which means that the bureaucracy is drawn from a narrow segment of the population. The Academy system has produced generations of literate, capable administrators, but it has also created a permanent divide between the reading class and the non reading class.
+Literacy rates are low across the empire, estimated at fifteen percent. Education is restricted to those who can afford it. Officials must be literate, which means that the bureaucracy is drawn from a narrow segment of the population. The Academy system has produced generations of literate, capable administrators, but it has also created a permanent divide between those who can read and those who cannot.
 
-Banned languages include the ritual languages of forbidden cults, the coded languages of criminal organizations, and the Old Tongue, the pre imperial language that survives in certain texts in the Archives' deepest levels. Speaking the Old Tongue is illegal. Writing it is a capital offense. It is still taught, in secret, in the Warrens Below.
+Banned languages include the ritual languages of forbidden cults, the coded languages of criminal organizations, and the Old Tongue, a language that predates the empire and survives in certain texts in the Archives' deepest levels. Speaking the Old Tongue is illegal. Writing it is a capital offense. It is still taught, in secret, in the Warrens Below.
 
 ### Medicine and Healing
 
@@ -2721,7 +2745,7 @@ The Bureau of Celestial Inquiry conducts medical research, developing new treatm
 
 **Common Ailments.** The most common ailments treated by imperial physicians are Qi imbalances, respiratory infections from the polluted air of the cities, digestive problems from poor diet, and the various fevers that spread through the crowded districts. Treatment typically involves a combination of herbal remedies, acupuncture, and Qi alignment exercises. The rich receive treatment in clean, quiet rooms with trained attendants. The poor receive treatment in crowded clinics or not at all.
 
-**The Plague Years.** Every few decades, a major epidemic sweeps through the empire. The last one, forty years ago, killed two hundred thousand people in the Eastern Foundries alone. The Court's response was to quarantine the affected areas and let the disease run its course. The Bureau of Celestial Inquiry developed a treatment, but it was expensive and only available to those who could pay. The Common Flame still remembers the Plague Years. The Court still has not apologized. The Bureau's research is classified. Some of it involves experiments that would not be approved by any ethical standard that the empire recognizes.
+**The Plague Years.** Every few decades, a major epidemic sweeps through the empire. The last one, forty years ago, killed two hundred thousand people in the Eastern Foundries alone. The Court's response was to quarantine the affected areas and let the disease run its course. The Bureau of Celestial Inquiry developed a treatment, but it was expensive and only available to those who could pay. The Common Flame still remembers the Plague Years. The Court still has not apologized.
 
 ### Crime and Punishment
 
@@ -2747,9 +2771,9 @@ The Spire of Eternal Vigil is the empire's central mystery. What is inside it? W
 
 **The Mirror Theory.** The Spire is a mirror. It reflects the state of the empire back at itself. The Emperor entered the Spire to see the empire clearly, to perceive its true condition without the distortion of personal involvement. What He saw was so terrible that He chose to remain inside, watching, unable to look away. The Spire grows brighter or dimmer depending on the empire's condition.
 
-**The Anchor Theory.** The Spire is an anchor, holding the empire in place against cosmic forces that would otherwise sweep it away. The Emperor is not the anchor; He is the anchor keeper. His presence within the Spire maintains the connection between the empire and the fundamental laws of reality. If He were to emerge, or die, the empire would drift into chaos. The Crimson Dusk is the first sign that the anchor is slipping. It is not a guard or a jailer. It is a predator. The Emperor entered the Spire to feed it, to sacrifice Himself to a being that requires His continuous attention. The Spire's glow is the light of that feeding. When the feeding is complete, the Spire will go dark, and the empire will end.
+**The Anchor Theory.** The Spire is an anchor, holding the empire in place against cosmic forces that would otherwise sweep it away. The Emperor is not the anchor; He is the anchor keeper. His presence within the Spire maintains the connection between the empire and the fundamental laws of reality. If He were to emerge, or die, the empire would drift into chaos. The Crimson Dusk is the first sign that the anchor is slipping.
 
-**The Waiting Theory.** The Sun Emperor is simply waiting. He is waiting for the Court to prove itself worthy of His return. He is waiting for the empire to reach a state of perfect harmony that will allow Him to emerge. He is waiting for someone to open the door. He has been waiting for three hundred years. He is patient.
+**The Waiting Theory.** The Sun Emperor is simply waiting. He is waiting for the Court to prove itself worthy of His return. He is waiting for the empire to reach a state of perfect harmony that will allow Him to emerge. He is waiting for someone to open the door. He has been waiting for about one hundred and sixty four years. He is patient.
 
 ### The Twelve Figures: Additional Threads
 
@@ -2757,25 +2781,25 @@ Beyond their primary storylines, each figure has additional threads that can be 
 
 **Cinnabar Heart's Forbidden Study.** Cinnabar Heart maintains a private study in his residence that no one else is allowed to enter. The room contains his collection of forbidden texts, his personal journals, and the original document from the archives that shattered his faith. Accessing this room requires bypassing a lock that is keyed to his Qi signature. The journals contain his true thoughts about every major figure in the Court, including assessments of their vulnerabilities and secrets.
 
-**Night Warbler's Family.** Night Warbler's parents were Disappeared when she was five. The official record states that they were heterodox elements. The truth is more complicated. Her father was a minor official who discovered evidence of corruption in the Ministry of Revenue. He was silenced before he could report it. His crime was not heterodoxy but honesty. Recovering the original evidence, which still exists in a sealed file in the Ministry of Revenue's archives, would give Night Warbler both closure and leverage.
+**Night Warbler's Family.** Night Warbler lost his family when he was six, but even that memory may be incomplete. The official record calls his parents heterodox elements. A sealed Ministry of Revenue file links his father to a suspected corruption inquiry, yet the evidence is fragmentary and may have been added after the operation. The resettlement manifest still leaves both parents' fate unresolved. Finding its missing destination record could reveal whether either survived, or whether the manifest itself was another fabrication.
 
 **Guest Among Forests' Lost Grove.** The grove where Guest Among Forests was born no longer exists. It was destroyed by imperial logging operations fifty years ago, cut down to provide timber for the railway expansion. She has never visited the site. She cannot bring herself to see what has become of her birthplace. Characters who visit the site find a barren field, the stumps of ancient trees, and a community of forest peoples who have built a shrine to the grove's memory. The shrine contains a seedling from the original grove's oldest tree, kept alive by the community's care.
 
-**Iron Calculation's Parents.** Iron Calculation has never investigated what happened to his parents after he was taken to the Academy. His father died in a factory accident five years after his departure. His mother died of lung disease ten years after that. Neither death was investigated. Their graves are unmarked. Finding their records in the Counting House's archives would require navigating a system that does not want those records found.
+**Iron Calculation's Family Records.** Iron Calculation's father died of foundry lung when Iron Calculation was twelve. His mother still lives in the District of Hammers and refuses every offer to move. The Counting House holds sealed reports showing that officials knew the foundry's extraction system was failing years before his father's death. Finding those reports would require navigating a system that does not want them found. Iron Calculation has never looked for them.
 
-**Iron Wall's Wife.** Iron Wall's wife, Steady Hand, died of fever during the Famine of the Red Harvest. Her death was recorded as natural causes. The records of the Famine, if examined closely, reveal that the Court had stockpiled medicine that could have treated her fever. The stockpile was reserved for Inner Court officials. The decision to withhold it was made at a level higher than any local administrator.
+**Iron Wall's Wife.** Iron Wall's wife, Steady Hand, died of fever nine years ago. Her death was recorded as natural causes. The records, if examined closely, reveal that the Court had stockpiled medicine that could have treated her fever. The stockpile was reserved for Inner Court officials. The decision to withhold it was made at a level higher than any local administrator.
 
-**Bright Mirror's Father.** The Bright Mirror's father was a minor official who was Disappeared for embezzlement. He was guilty. But his crime was motivated by desperation: he had accumulated debts to a Crimson Lineage family that he could not repay, and the embezzlement was an attempt to pay them off before they took his daughter. The case file contains letters from the family demanding payment. The Bright Mirror has never read the file.
+**Bright Mirror's Father.** A sealed supplemental file sits beside the official record of Bright Mirror's father. It contains payment ledgers and witness statements suggesting that the private retainer was not merely corruption. His father may have accepted the money to enter a network the Commission could not lawfully investigate. The file does not absolve him. It makes his motives uncertain, and it names a surviving witness Bright Mirror has never questioned. Bright Mirror has never opened the supplemental file. Opening it would force him to decide whether truth can complicate a judgment he has treated as settled.
 
-**Shadow's Original Name.** Shadow has forgotten her original name. Her mother called her something, but the memory has faded. The Bureau of Internal Harmony's recruitment records, which are stored in a sealed section of the Ministry of Internal Harmony's archives, contain her intake form with her original name and the names of her parents. Obtaining the record would require a carefully planned operation.
+**Shadow's Original Name.** Shadow has forgotten his original name. His mother called him something, but the memory has faded. During the Bureau of Internal Harmony's sweeps of the Warrens, clerks created a sealed surveillance ledger for children they considered potentially useful, including those they never recruited. One entry contains the name his mother used and fragmentary notes about his parents. The ledger is stored in a sealed section of the Bureau of Internal Harmony's archives. Obtaining it would require a carefully planned operation.
 
-**Duke of Eternal Night's First Love.** Before the empire, before the Sun Emperor, the Duke of Eternal Night loved a woman who was not of his bloodline. She died of age while he remained young. He has not spoken of her in six centuries. A portrait of her hangs in a private room in his compound, a room that no living person has entered. The portrait is said to be so lifelike that visitors feel as though they are being watched.
+**Duke of Eternal Night's Mortal Marriage.** The Duke married Ash Bright when he was two hundred and four and she was twenty six. They remained together for sixty seven years, until she died at ninety three. She has been dead for five hundred and twenty nine years. A portrait of her hangs in a private room in his compound, and he has never remarried.
 
-**Iron Bone's Children.** Iron Bone's children were sent to instruction camps after his arrest. He does not know if they survived. The camps do not maintain records of individual children. The Common Flame has searched for them without success. One of them may still be alive, grown now, working in a factory somewhere, unaware of their parentage.
+**Iron Bone's Sister.** Mira was arrested alongside Iron Bone during the Iron Rebellion and sent to a different camp. He has found no record, witness, or grave. Her name remains on his union ledger as a member in good standing. A sealed transfer list may reveal where she was taken.
 
-**Celestial Book's Real Name.** Celestial Book has a name that predates his appointment as Keeper of the Archives. He has not used it in so long that he may have forgotten it. The original appointment document, signed by the Sun Emperor, is stored in the deepest level of the Archives. It contains his original name, the name of the person he was before he became what he is now.
+**Celestial Book's Real Name.** Celestial Book may have had a name before she became Keeper of the Archives, though she does not remember being anyone else. A sealed assessment from before the empire, kept in the deepest level of the Archives, refers to her only as the indexing subject and includes an erased personal designation. Recovering it may reveal a prior name, or may prove that the person others imagine never existed.
 
-**Bone Script's Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Xiaoyuan can give it. Nine would require bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign out of self interest and own him for the rest of his life. He has narrowed it to those two and has been unable to choose for eleven weeks, and the delay is not indecision. He is waiting to find out which kind of person he is.
+**Bone Script's Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Xiaoyuan can give it. Nine would require bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign for personal gain and own him for the rest of his life. He has narrowed it to those two and has been unable to choose for eleven weeks, and the delay is not indecision. He is waiting to find out which kind of person he is.
 
 **Incense Crown's Eighth Phrase.** She wants to know whether the rising tone is correct. This sounds like a scholarly triviality. It is not. If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error. She does not know which possibility frightens her more, and she has now begun testing it, alone, without authorization, twice a year.
 
@@ -2797,7 +2821,7 @@ Beyond their primary storylines, each figure has additional threads that can be 
 **Table 2: What the Document Says.**
 
 1. A list of names of people who died in a Harmonization Audit that was officially bloodless
-2. A map showing the location of a Dusk free zone beyond the borders
+2. A map showing a zone beyond the borders that the Dusk has not reached
 3. A letter from a dead official confessing to crimes they did not commit
 4. A record of payments from a Crimson Lineage family to a Commission investigator
 5. A description of a ritual that can communicate with the Sun Emperor
@@ -2900,7 +2924,7 @@ Beyond their primary storylines, each figure has additional threads that can be 
 
 **The Unseen Witness.** A member of the Inner Court was murdered in their residence. The killer left no traces. The Commission for Celestial Purity has investigated and found nothing. The victim's family has approached the players privately, offering a reward for information. The only witness is a servant who saw the killer's face. The servant has gone into hiding, afraid that the killer will return.
 
-**The Forbidden Text.** A text from the Archives' sealed collection has been stolen. The theft was discovered by Celestial Book, who has not reported it to the authorities. He has instead approached the players, requesting that they recover the text discreetly. The text contains instructions for a ritual that could communicate with the Sun Emperor. The thief is a member of the Golden Orthodoxy who believes the ritual could end the Dusk.
+**The Forbidden Text.** A text from the Archives' sealed collection has been stolen. The theft was discovered by Celestial Book, who has not reported it to the authorities. She has instead approached the players, requesting that they recover the text discreetly. The text contains instructions for a ritual that could communicate with the Sun Emperor. The thief is a member of the Golden Orthodoxy who believes the ritual could end the Dusk.
 
 **The Double Agent.** An informant has approached the players, claiming to be a double agent working for both the Verdant Path and the Bureau of Internal Harmony. The informant has information about a planned Harmonization Audit that will target the players' school. The informant's loyalty is unclear. The information could be genuine or a trap. The players must determine the truth before the Harmonization Audit begins.
 
@@ -2912,19 +2936,19 @@ Beyond their primary storylines, each figure has additional threads that can be 
 
 ### The Dusk: A Bestiary for the Host
 
-The following creatures have been documented in Dusk affected zones. Each entry provides description, behavior, and suggested game statistics.
+The following creatures have been documented in zones affected by Dusk. Each entry provides description, behavior, and suggested game statistics.
 
 **The Quiet One.** The most common Dusk entity. Quiet Ones are humanoid figures that walk out of the Dusk wearing the faces of the dead. They do not speak, eat, or sleep. They walk, always walking, following paths that only they perceive. They sometimes stop and stand motionless for hours or days. When provoked, they move with terrifying speed and attack with their bare hands, which have become hard as stone. Statistics: Might 14, Swiftness 16, Endurance 20, Intellect 4, Presence 2, Resolve 20. Special ability: Touch of the Dusk, which causes Sanity damage on contact.
 
 **The Blink Hound.** A pack hunter that can teleport short distances, appearing and disappearing in flickering motions. Their eyes are solid red. Their fur is the color of rust. They hunt by smell, tracking prey over miles. They are drawn to strong emotion, especially fear. Statistics: Might 10, Swiftness 18, Endurance 12, Intellect 6, Presence 8, Resolve 10. Special ability: Blink Step, allowing them to teleport up to thirty feet as a move action. They attack in packs of three to five.
 
-**The Mirror Moth.** A beautiful and deadly creature with wings that reflect whatever the viewer most desires. The reflection draws victims into a trance from which they do not wake. The moths feed on the Qi of the entranced. They are slow moving and fragile but nearly impossible to resist for those who look directly at them. Statistics: Might 2, Swiftness 8, Endurance 4, Intellect 14, Presence 16, Resolve 6. Special ability: Alluring Reflection, requiring a Resolve check to avoid entering a trance. Victims in trance are helpless.
+**The Mirror Moth.** A beautiful and deadly creature with wings that reflect whatever the viewer most desires. The reflection draws victims into a trance from which they do not wake. The moths feed on the Qi of the entranced. They move slowly and are fragile, but they are nearly impossible to resist for those who look directly at them. Statistics: Might 2, Swiftness 8, Endurance 4, Intellect 14, Presence 16, Resolve 6. Special ability: Alluring Reflection, requiring a Resolve check to avoid entering a trance. Victims in trance are helpless.
 
 **The Crimson Bloom.** A stationary plant that releases hallucinogenic pollen when disturbed. The pollen induces vivid visions of the victim's deepest regrets. Victims may become catatonic, violent, or suicidal depending on their nature. Statistics: Might 0, Swiftness 0, Endurance 10, Intellect 0, Presence 0, Resolve 0. Special ability: Pollen Cloud, affecting all creatures within twenty feet. Victims must make a Resolve check or experience debilitating visions for one hour.
 
 **The Screaming Vine.** A mobile plant that hunts by sound detection, moving toward vibrations at surprising speed. It wraps around prey and injects a digestive fluid that dissolves flesh while keeping the prey conscious. Statistics: Might 16, Swiftness 6, Endurance 14, Intellect 2, Presence 2, Resolve 10. Special ability: Grappling Vines, requiring a Might check to escape. Inject digestive fluid each round while grappled.
 
-**The Dusk Wraith.** A rare entity that appears as a human shaped patch of deeper red within the Dusk fog. It is intangible, passing through solid matter. It drains warmth and emotion from living beings, leaving them cold and empty. Statistics: Might 0, Swiftness 20, Endurance 6, Intellect 10, Presence 14, Resolve 16. Special ability: Emotion Drain, requiring a Resolve check or lose temporary Presence points. Intangible: cannot be harmed by physical attacks.
+**The Dusk Wraith.** A rare entity that appears as a patch of deeper red with a roughly human outline within the Dusk fog. It is intangible, passing through solid matter. It drains warmth and emotion from living beings, leaving them cold and empty. Statistics: Might 0, Swiftness 20, Endurance 6, Intellect 10, Presence 14, Resolve 16. Special ability: Emotion Drain, requiring a Resolve check or lose temporary Presence points. Intangible: cannot be harmed by physical attacks.
 
 **The Red Walker.** A massive humanoid creature, twelve feet tall, made of fused red crystal. It moves slowly but inexorably. Its touch turns organic matter to crystal. It is found only in the deepest Dusk zones. Statistics: Might 24, Swiftness 4, Endurance 22, Intellect 4, Presence 10, Resolve 18. Special ability: Crystal Touch, organic matter touched must make an Endurance check or begin crystallizing, taking damage each round until the process is stopped.
 
@@ -2932,17 +2956,17 @@ The following creatures have been documented in Dusk affected zones. Each entry 
 
 A selection of substances that players may encounter or use.
 
-**Silver Nectar.** A rare elixir produced by the Bureau of Celestial Inquiry. It temporarily enhances Qi sensitivity, allowing the drinker to perceive Qi flows that are normally invisible. Duration: one hour. Side effects: headache, sensitivity to light, and in rare cases, permanent enhancement of sensory perception. Cost: 100 Standards per dose.
+**Silver Nectar.** A rare elixir produced by the Bureau of Celestial Inquiry. It temporarily enhances Qi sensitivity, allowing the drinker to perceive Qi flows that are normally invisible. Duration: one hour. Side effects: headache, sensitivity to light, and in rare cases, permanent enhancement of sensory perception. Cost: 1 Jade Slip per dose.
 
-**Black Lotus.** A potent sedative derived from a flower that grows only in the Northern Expanse. Induces deep sleep for twelve hours. Used in medicine and in less savory applications. Cost: 30 Standards per dose.
+**Black Lotus.** A potent sedative derived from a flower that grows only in the Northern Expanse. Induces deep sleep for twelve hours. Used in medicine and in less savory applications. Cost: 3 Gold Blooms per dose.
 
-**Red Dust.** A byproduct of Dusk crystal refinement. When inhaled, it induces a state of euphoria and heightened perception. Users become addicted quickly. Prolonged use causes physical transformation into a Dusk Touched state. The substance is illegal, but it circulates in the Warrens and the Hollow Exchange. Cost: 5 Standards per dose on the street, rising with scarcity.
+**Red Dust.** A byproduct of Dusk crystal refinement. When inhaled, it induces a state of euphoria and heightened perception. Users become addicted quickly. Prolonged use causes physical transformation into a Dusk Touched state. The substance is illegal, but it circulates in the Warrens and the Hollow Exchange. Cost: 5 Silver Stems per dose on the street, rising with scarcity.
 
-**Memory Wine.** A rare vintage from Weeping Valley, made from grapes grown in the valley's uncontaminated vineyards. The wine carries faint Qi traces of the memories of the people who tended the vines. Drinking it can induce vivid dreams of the winemakers' lives. The wine is expensive and difficult to obtain. Cost: 200 Standards per bottle.
+**Memory Wine.** A rare vintage from Weeping Valley, made from grapes grown in the valley's uncontaminated vineyards. The wine carries faint Qi traces of the memories of the people who tended the vines. Drinking it can induce vivid dreams of the winemakers' lives. The wine is expensive and difficult to obtain. Cost: 2 Jade Slips per bottle.
 
-**Truth Tear.** An alchemical compound that, when applied to the eyes, allows the user to see Qi traces left by lies. The effect lasts for one hour. The application is painful and causes blurred vision for the following day. Cost: 50 Standards per dose.
+**Truth Tear.** An alchemical compound that, when applied to the eyes, allows the user to see Qi traces left by lies. The effect lasts for one hour. The application is painful and causes blurred vision for the following day. Cost: 5 Gold Blooms per dose.
 
-**Ward Paste.** A mixture of powdered Qi crystals and binding agents that can be applied to surfaces to create temporary Qi wards. The wards last for one week and can be keyed to specific people or purposes. Cost: 20 Standards per application.
+**Ward Paste.** A mixture of powdered Qi crystals and binding agents that can be applied to surfaces to create temporary Qi wards. The wards last for one week and can be keyed to specific people or purposes. Cost: 2 Gold Blooms per application.
 
 ### The Weather and Environment
 
@@ -2968,7 +2992,7 @@ Qi in the empire is not merely a resource. It resonates, creating patterns that 
 
 **Qi Resonance Detection.** A practitioner can detect the Qi signature of a recent event by concentrating on the residual energy. The more recent the event, the stronger the signature. After approximately twenty four hours, the signature fades below the threshold of detection for most practitioners. After three days, it is undetectable except by masters.
 
-**Qi Amplification.** Certain materials and locations amplify Qi resonance. Qi conductive metals, such as silver and copper, can be used to focus and strengthen Qi effects. The Spire of Eternal Vigil is the most powerful Qi amplifier in the empire, capable of magnifying a practitioner's abilities a thousandfold. The Court restricts access to the Spire's base for this reason.
+**Qi Amplification.** Certain materials and locations amplify Qi resonance. Metals that conduct Qi, such as silver and copper, can be used to focus and strengthen Qi effects. The Spire of Eternal Vigil is the most powerful Qi amplifier in the empire, capable of magnifying a practitioner's abilities a thousandfold. The Court restricts access to the Spire's base for this reason.
 
 **Qi Dampening.** Other materials dampen Qi resonance. Lead blocks all Qi transmission. Certain woods, particularly those from the Northern Expanse, absorb Qi resonance without amplifying it. Rooms lined with these materials are used for sensitive meetings that must not be detected by Qi surveillance.
 
@@ -3012,11 +3036,11 @@ The imperial understanding of Qi is incomplete. The following phenomena have bee
 
 **The Glimmering.** A phenomenon observed in the Northern Expanse where the air itself begins to glow with a soft, multicolored light. The Glimmering occurs without warning and lasts for varying periods. Those who stand within the Glimmering report feelings of euphoria, heightened awareness, and in some cases, the ability to perceive the thoughts of those around them. The forest peoples consider the Glimmering a blessing from the spirits. The Court has sent expeditions to study it. The expeditions have not returned with useful data.
 
-**The Echoing.** A phenomenon where sounds from the past are heard in the present, as though time has folded back on itself. Echoing typically occurs in places where strong emotions were experienced: battlefields, execution grounds, sites of tragedy. The echoes repeat the sounds of the original event: screams, prayers, the clash of weapons. Some echoes are recent. Some are centuries old. The oldest echoes, heard in the ruins of pre imperial settlements, are in languages that no one speaks anymore.
+**The Echoing.** A phenomenon where sounds from the past are heard in the present, as though time has folded back on itself. Echoing typically occurs in places where strong emotions were experienced: battlefields, execution grounds, sites of tragedy. The echoes repeat the sounds of the original event: screams, prayers, the clash of weapons. Some echoes are recent. Some are centuries old. The oldest echoes, heard in the ruins of settlements that predate the empire, are in languages that no one speaks anymore.
 
 **The Folding.** A dangerous phenomenon where the physical layout of a location becomes unstable, with rooms changing position, corridors leading to unexpected places, and doors opening onto spaces that should not exist. Folding typically occurs during Disharmony events and in areas where the Qi has been severely disrupted. The Folding is believed to be related to the Veiling Aspect of Qi, but the relationship is not understood. Those who experience Folding often report feeling that they were somewhere else, somewhere that was not the empire, and that they were not alone there.
 
-**The Singing.** A phenomenon where Qi in a specific location begins to vibrate at a frequency that produces audible sound. The Singing is most common in areas of high Qi concentration and near Qi conductive materials. The sound is described as beautiful and deeply unsettling, like a human voice singing a melody that has no recognizable structure. Those who listen to the Singing for too long develop a kind of obsession, unable to think of anything else, drawn back to the location again and again. The Court has declared the Singing a Class Three Anomaly and has restricted access to known Singing sites.
+**The Singing.** A phenomenon where Qi in a specific location begins to vibrate at a frequency that produces audible sound. The Singing is most common in areas of high Qi concentration and near materials that conduct Qi. The sound is described as beautiful and deeply unsettling, like a human voice singing a melody that has no recognizable structure. Those who listen to the Singing for too long develop a kind of obsession, unable to think of anything else, drawn back to the location again and again. The Court has declared the Singing a Class Three Anomaly and has restricted access to known Singing sites.
 
 ### Advice for the Host
 
@@ -3038,7 +3062,7 @@ Running a game in the Celestial Empire requires attention to atmosphere, pacing,
 
 Bribery is universal in the empire. The difference between a gift and a bribe is a matter of phrasing.
 
-**Bribery Etiquette.** Bribes are never offered directly. They are presented as gifts, as tokens of appreciation, as contributions to a worthy cause. The amount must be appropriate to the recipient's rank and the service requested. Too little is insulting. Too much is threatening. The standard rate for a minor administrative favor is one to five Standards. For a significant intervention, such as redirecting an investigation, the rate is fifty to two hundred Standards. For a life saving intervention, such as removing a name from a Harmonization Audit list, the price is negotiable and rarely below a thousand Standards.
+**Bribery Etiquette.** Bribes are never offered directly. They are presented as gifts, as tokens of appreciation, as contributions to a worthy cause. The amount must suit the recipient's rank and the service requested. Too little is insulting. Too much is threatening. A minor administrative favor usually costs one to five Silver Stems. A significant intervention, such as redirecting an investigation, costs five Gold Blooms to two Jade Slips. An intervention that saves a life, such as removing a name from a Harmonization Audit list, is negotiable and rarely costs less than ten Jade Slips.
 
 **The Brokers.** Most bribery is conducted through brokers, intermediaries who handle the transaction and take a percentage. The brokers are usually merchants, teahouse owners, or minor officials who have the connections to arrange meetings and the discretion to keep secrets. The most successful brokers are the ones who work for Shadow, who has a network of intermediaries that covers every ministry.
 
@@ -3050,9 +3074,9 @@ Bribery is universal in the empire. The difference between a gift and a bribe is
 
 A collection of rumors that can be planted in any conversation, teahouse, or market stall. Some are true. Some are false. Some are true in ways that the speaker does not understand.
 
-The Bright Mirror has found evidence linking a Grand Council member to the origin of the Crimson Dusk. She is waiting for the right moment to strike.
+The Bright Mirror has found evidence linking a Grand Council member to the sealing that severed the Sun Emperor's role as the replacement conduit between Heaven and Earth. He now suspects the founding ritual created the first wound and the sealing tore it open. He is waiting for the right moment to strike.
 
-The Celestial Book has begun writing a new text, his first original work in centuries. It is titled "What Comes After."
+The Celestial Book has begun writing a new text, her first original work in centuries. It is titled "What Comes After."
 
 A member of the Crimson Lineage has been born with a rare Qi affinity that allows them to perceive the thoughts of anyone whose blood they have tasted.
 
@@ -3060,7 +3084,7 @@ The Iron Calculation school has developed a weapon that can destroy Dusk entitie
 
 A tunnel connecting the Warrens Below to the Spire of Eternal Vigil has been discovered by a team of smugglers. The smugglers have not emerged.
 
-The Sun Emperor's last jade tablet, delivered fifty years ago, contained a single word: "Wait." The Court has never released this information.
+A jade tablet delivered fifty years ago contained a single word: "Wait." The Court has never released this information.
 
 The Guest Among Forests has begun teaching a human student the secrets of the forest peoples' Qi practices, the first time she has done so in three centuries.
 
@@ -3088,13 +3112,13 @@ A student at the Academy has discovered a text that claims the Sun Emperor was n
 
 The Marshal of the Imperial Garrison, Iron Wall, has been seen meeting with the leader of the Common Flame. The meeting was not official. It was not recorded.
 
-The Celestial Book has stopped eating. He says he no longer needs to.
+The Celestial Book has stopped eating. She says she no longer needs to.
 
 ### The Dusk Survivors: Extended Accounts
 
-The Bureau of Border Harmony has collected hundreds of testimonies from survivors of Dusk affected zones. The following accounts are among the most detailed. They are classified. They are true.
+The Bureau of Border Harmony has collected hundreds of testimonies from survivors of zones affected by Dusk. The following accounts are among the most detailed. They are classified. They are true.
 
-**Account of Master Weaver Chen, Amber Shore, recovered from a refugee camp outside Gate End.** "I was born in Amber Shore. My family had fished these waters for six generations. My father taught me to read the tides when I was five years old. He said the sea was a living thing, that it had moods and preferences, and that a good fisherman learned to read them. I thought he was being poetic. I know now that he was being literal.
+**Account of Master Weaver Chen, Amber Shore, recovered from a refugee camp outside Gate's End.** "I was born in Amber Shore. My family had fished these waters for six generations. My father taught me to read the tides when I was five years old. He said the sea was a living thing, that it had moods and preferences, and that a good fisherman learned to read them. I thought he was being poetic. I know now that he was being literal.
 
 The first sign was the silence. The seabirds left. All of them, in a single day. The harbor was empty of gulls for the first time in living memory. Then the fish stopped biting. Then the water began to change color. It started as a tint, a faint reddish hue that you could only see in certain light. We told ourselves it was algae. We told ourselves it would pass.
 
@@ -3136,13 +3160,13 @@ The empire contains objects of power, knowledge, and danger. The following are a
 
 **The Blade of Sundered Oaths.** A broken sword, its blade snapped in two, that was once wielded by a rebel general during the Census Revolt. The sword is said to have the power to break any oath, any contract, any bond, when its two halves are reunited. The halves are kept separately, one in the Archives, one in the vaults of a Crimson Lineage family. Neither side knows where the other half is kept.
 
-**The Everlasting Candle.** A candle that burns without consuming itself, lit during the Founding Era and never extinguished. It is kept in the Temple of Ten Thousand Gods, in a sealed chamber that only the High Priest may enter. The candle is said to contain a fragment of the Sun Emperor original light. If it is ever extinguished, something terrible will happen.
+**The Everlasting Candle.** A candle that burns without consuming itself, lit during the Founding Era and never extinguished. It is kept in the Temple of Ten Thousand Gods, in a sealed chamber that only the High Priest may enter. The candle is said to contain a fragment of the Sun Emperor's original light. If it is ever extinguished, something terrible will happen.
 
-**The Heart of the Mountain.** A fist sized crystal that pulses with a warm, rhythmic light. It is kept at the center of Ember Forge, embedded in the mountain stone. The Heart provides power to the Forge Qi systems, amplifying the Burning Aspect of the region. It is also the source of the whispers that the Abbot Calculating Wind hears in his dreams. The Heart is alive. It is dreaming. It is dreaming of something that the Abbot does not want to wake.
+**The Heart of the Mountain.** A crystal the size of a fist that pulses with a warm, rhythmic light. It is kept at the center of Ember Forge, embedded in the mountain stone. The Heart provides power to the Forge Qi systems, amplifying the Burning Aspect of the region. It is also the source of the whispers that the Abbot Calculating Wind hears in his dreams. The Heart is alive. It is dreaming. It is dreaming of something that the Abbot does not want to wake.
 
-**The First Brush.** The brush that was used to sign the Founding Charter, a simple instrument of bamboo and horsehair. It is kept in a jade case in the Grand Council Chamber, displayed during major ceremonies. The brush is said to retain the Qi signature of the Sun Emperor Himself, and touching it is said to grant visions of the empire true founding. Those who have touched it report seeing something different, something that the official history does not record. They do not speak of what they saw.
+**The First Brush.** The brush that was used to sign the Founding Charter, a simple instrument of bamboo and horsehair. It is kept in a jade case in the Grand Council Chamber, displayed during major ceremonies. The brush is said to retain the Qi signature of the Sun Emperor Himself, and touching it is said to grant visions of the empire's true founding. Those who have touched it report seeing something different, something that the official history does not record. They do not speak of what they saw.
 
-**The Chime of Forgotten Names.** A set of bronze bells, each one inscribed with a name that has been struck from the official records. When a bell is struck, the person whose name it bears is remembered for one moment, fully and completely, by everyone who hears the sound. The bells are kept in the deepest level of the Archives, in a room that Celestial Book has sealed with his own Qi. He has never explained why he sealed them. He has never explained why he visits the room once a year, on the same day, to strike a single bell.
+**The Chime of Forgotten Names.** A set of bronze bells, each one inscribed with a name that has been struck from the official records. When a bell is struck, the person whose name it bears is remembered for one moment, fully and completely, by everyone who hears the sound. The bells are kept in the deepest level of the Archives, in a room that Celestial Book has sealed with her own Qi. She has never explained why she sealed them. She has never explained why she visits the room once a year, on the same day, to strike a single bell.
 
 ### Sample Play Scenarios
 
@@ -3156,7 +3180,7 @@ The following scenarios provide ready to use frameworks for sessions or campaign
 
 **The Message.** A coded message arrives, addressed to a player in a script that should be impossible to forge. The message is from a figure who is supposed to be dead, a figure who knew things that no living person should know. The message contains a warning and a request. The warning is urgent. The request is impossible.
 
-**The Discovery.** While working in the Archives, the players find a document that should not exist. It is a record of a conversation between the Sun Emperor and a member of the first Grand Council, recorded shortly before the Emperor withdrawal. The conversation reveals that the Emperor knew what the Council was planning. He did not stop it. The question is why.
+**The Discovery.** While working in the Archives, the players find a document that should not exist. It is a record of a conversation between the Sun Emperor and a member of the first Grand Council, recorded shortly before the Emperor's withdrawal. The conversation reveals that the Emperor knew what the Council was planning. He did not stop it. The question is why.
 
 ### The Northern Expanse: Spirit Songs
 
@@ -3252,7 +3276,7 @@ The Imperial Tongue has a rich vocabulary of insults, curses, and expressions of
 "Paper is patient. People are not."
 "The brush that writes the law can also erase it."
 "A thousand documents cannot make a lie true, but they can make it official."
-"The Emperor silence is the loudest voice in the room."
+"The Emperor's silence is the loudest voice in the room."
 
 **On Relationships.**
 "A favor is a debt that never stops accruing interest."
@@ -3295,21 +3319,21 @@ Beneath the official ideology, there are truths that every official knows and no
 
 The Court rules because it has power, not because it has legitimacy. Legitimacy is a story that power tells itself.
 
-The Emperor silence is convenient for the Court. If He returned, they would have to give up their authority.
+The Emperor's silence is convenient for the Court. If He returned, they would have to give up their authority.
 
-The Crimson Dusk is not the empire greatest threat. The empire greatest threat is the Court inability to acknowledge its own failures.
+The Crimson Dusk is not the empire's greatest threat. The empire's greatest threat is the Court's inability to acknowledge its own failures.
 
 The Academy does not educate. It indoctrinates. True education would produce citizens who question authority.
 
 The common people are not ignorant. They are silenced. They know more about the true state of the empire than any official.
 
-The Commission for Celestial Purity is not the empire conscience. It is the empire fear of itself.
+The Commission for Celestial Purity is not the empire's conscience. It is the empire's fear of itself.
 
-The Crimson Lineage will survive the empire collapse. They have survived every collapse. They will survive this one.
+The Crimson Lineage will survive the empire's collapse. They have survived every collapse. They will survive this one.
 
 The Dusk is not a punishment. It is a consequence. The empire caused it. The empire is responsible.
 
-The Sun Emperor may never return. He may be dead. He may have left. He may have been a story that the first generation invented to legitimize their rule. The truth is less important than the belief.
+The Sun Emperor may never return. He may be dead. He may have left. He may have been a story that the first generation invented to legitimize their rule. The truth is less important than belief.
 
 ### Rituals for the Host to Describe
 
@@ -3325,7 +3349,7 @@ The following rituals can be used to add flavor to scenes set in the empire.
 
 **The Apology Ritual.** When an official has committed a minor offense against protocol, they perform the Apology Ritual: kneeling, touching the forehead to the ground, and remaining in that position until the offended party indicates that the apology is accepted. The ritual can last for seconds or for hours. The duration is a measure of the offense gravity and the offended party generosity.
 
-**Consecration of a New Official.** When an official is promoted to a new rank, they undergo a consecration ceremony in which they are formally invested with the authority of their new position. The ceremony involves the recitation of vows, the presentation of new robes and rank badges, and a ritual in which the official Qi signature is recorded in the Bureau of Harmonious Records. The ceremony is witnessed by the official superiors, peers, and subordinates. The new official is expected to host a feast afterward for everyone who attended.
+**Consecration of a New Official.** When an official is promoted to a new rank, they undergo a consecration ceremony in which they are formally invested with the authority of their new position. The ceremony involves the recitation of vows, the presentation of new robes and rank badges, and a ritual in which the official's Qi signature is recorded in the Bureau of Harmonious Records. The ceremony is witnessed by the official's superiors, peers, and subordinates. The new official is expected to host a feast afterward for everyone who attended.
 
 **The Harmonization Audit Proclamation.** When a Harmonization Audit is declared, the Commission for Celestial Purity issues a formal proclamation that is read aloud in the affected district. The proclamation states the charges, the evidence, and the prescribed remedy. The reading is accompanied by the ringing of a bell, once for each person named in the proclamation. The sound of the Harmonization Audit Bell is one of the most feared sounds in the empire. People who hear it from a distance cross the street to avoid the direction it came from.
 
@@ -3339,9 +3363,9 @@ Beyond the ten major endings, the Host may choose to introduce one of the follow
 
 **The Blood Succession (Crimson Lineage + Bright Mirror).** The Duke of Eternal Night and the Bright Mirror reach an understanding. The Duke renounces his corrupt practices and submits to purification. The Bright Mirror spares his life in exchange for his knowledge. Together, they establish a new order based on blood cultivation used for the common good. The Duke lives long enough to see his redemption. He dies at peace.
 
-**The Silence Ends (Celestial Book + All Schools).** Celestial Book reveals the truth about the Sun Emperor imprisonment. The schools, united in purpose, break open the Spire. The Emperor emerges, but He is not what anyone expected. He is ancient, diminished, and not entirely sane. His return does not save the empire. It ends it in a way that no one predicted.
+**The Silence Ends (Celestial Book + All Schools).** Celestial Book reveals the truth about the Sun Emperor's imprisonment. The schools, united in purpose, break open the Spire. The Emperor emerges, but She is not what anyone expected. She is ancient, diminished, and not entirely sane. Her return does not save the empire. It ends it in a way that no one predicted.
 
-**The Forgotten Door (Shadow + The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place outside the empire's reach. She leads a group of refugees through the passage to a land that the Dusk has not touched and the Court does not know. The empire collapses behind them. They are the seeds of something new.
+**The Forgotten Door (Shadow + The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place outside the empire's reach. He leads a group of refugees through the passage to a land that the Dusk has not touched and the Court does not know. The empire collapses behind them. They are the seeds of something new.
 
 **The Quiet Consummation (Dusk Victory).** If the players fail to reach any ending before the Dusk completes its advance, the Consummation occurs. The Dusk covers the entire empire. The world becomes red. The people become Quiet Ones. The last surviving scribe writes the final entry in the Continuing Record. The record ends with three words: "It is done."
 
@@ -3351,19 +3375,19 @@ The following combat techniques are known and used by figures across the empire.
 
 **The Unbroken Circle (Golden Orthodoxy).** A defensive technique that creates a barrier of stabilized Qi around the practitioner. The barrier absorbs damage and reflects minor attacks. It requires continuous concentration and can be maintained for a limited time. The technique is taught to all Golden Orthodoxy ritualists as a last line of defense.
 
-**The Flowing River (Verdant Path).** A grappling technique that uses the opponent momentum against them. The practitioner channels Yielding Qi to become fluid, redirecting attacks rather than blocking them. Masters of the technique can throw opponents across a room without seeming to exert any force.
+**The Flowing River (Verdant Path).** A grappling technique that uses the opponent's momentum against them. The practitioner channels Yielding Qi to become fluid, redirecting attacks rather than blocking them. Masters of the technique can throw opponents across a room without seeming to exert any force.
 
 **The Precise Strike (Iron Calculation).** A technique that channels Burning Qi through a weapon, increasing its cutting power and allowing it to penetrate armor. The technique requires a moment of concentration before each strike. The enhanced strike can sever metal and shatter stone.
 
-**The Blood Surge (Crimson Lineage).** A technique that temporarily enhances the practitioner physical capabilities by consuming a small amount of their own blood. The surge increases strength, speed, and endurance for a short period. The aftereffect is exhaustion and temporary weakness. Overuse can cause permanent damage.
+**The Blood Surge (Crimson Lineage).** A technique that temporarily enhances the practitioner's physical capabilities by consuming a small amount of their own blood. The surge increases strength, speed, and endurance for a short period. The aftereffect is exhaustion and temporary weakness. Overuse can cause permanent damage.
 
 **The Solidarity Charge (Common Flame).** A technique that allows a group of fighters to coordinate their movements perfectly, attacking and defending as a single unit. The technique requires trust and practice. Groups that master it can fight units twice their size.
 
-**The Purifying Light (Bright Mirror).** A technique that channels Piercing Qi through the practitioner weapon, causing it to emit a blinding light that reveals hidden enemies and disrupts Dusk energies. The light is painful to Dusk Touched creatures and can drive them back.
+**The Purifying Light (Bright Mirror).** A technique that channels Piercing Qi through the practitioner's weapon, causing it to emit a blinding light that reveals hidden enemies and disrupts Dusk energies. The light is painful to Dusk Touched creatures and can drive them back.
 
 **The Shadow Step (Independent).** A technique that allows the practitioner to move short distances instantaneously by passing through the Veiling Aspect of Qi. The technique is difficult to learn and dangerous to perform; a mistimed step can leave the practitioner stranded between spaces. Shadow and Night Warbler are both masters of this technique.
 
-**The Wolf Transformation (Iron Bone Only).** A unique technique that allows Iron Bone to transform into a massive wolf like creature. The transformation is involuntary when triggered by extreme emotion and voluntary when Iron Bone chooses to release the wolf. In wolf form, Iron Bone gains immense strength and speed but loses control over his actions.
+**The Wolf Transformation (Iron Bone Only).** A unique technique that allows Iron Bone to transform into a massive creature resembling a wolf. The transformation is involuntary when triggered by extreme emotion and voluntary when Iron Bone chooses to release the wolf. In wolf form, Iron Bone gains immense strength and speed but loses control over his actions.
 
 ### The Imperial Calendar: Months and Days
 
@@ -3399,22 +3423,22 @@ The Hinge. Five days at the end of the year when the normal rules are suspended.
 
 The following are current prices in the Hollow Exchange for various goods and services.
 
-Information about a minor official: 5 to 15 Standards
-Information about a mid ranking official: 20 to 50 Standards
-Information about a Grand Council member: 500 to 2000 Standards
-A forged travel permit: 10 Standards
-A forged identity document: 30 Standards
-A forged official proclamation: 100 Standards
-A dose of Red Dust: 5 Standards
-A dose of Silver Nectar: 100 Standards
-A map of the Warrens Below: 20 Standards
-A map of the Archives forbidden levels: 200 Standards
-A map of the Forgotten Tunnels: 1000 Standards
-A night with a trained assassin: 300 Standards
-A human life (accidental death): 100 Standards
-A human life (complete disappearance): 1000 Standards
-A single page from a sealed Ritual Harmony file: 150 to 500 Standards
-A sample of Crimson Lineage blood: 500 Standards
+Information about a minor official: 5 to 15 Silver Stems
+Information about an official in the middle ranks: 2 to 5 Gold Blooms
+Information about a Grand Council member: 5 to 20 Jade Slips
+A forged travel permit: 1 Gold Bloom
+A forged identity document: 3 Gold Blooms
+A forged official proclamation: 1 Jade Slip
+A dose of Red Dust: 5 Silver Stems
+A dose of Silver Nectar: 1 Jade Slip
+A map of the Warrens Below: 2 Gold Blooms
+A map of the Archives forbidden levels: 2 Jade Slips
+A map of the Forgotten Tunnels: 10 Jade Slips
+A night with a trained assassin: 3 Jade Slips
+A human life (accidental death): 1 Jade Slip
+A human life (complete disappearance): 10 Jade Slips
+A single page from a sealed Ritual Harmony file: 15 Gold Blooms to 5 Jade Slips
+A sample of Crimson Lineage blood: 5 Jade Slips
 A genuine edict from the Sun Emperor: Not available at any price
 
 ### The Ghosts of the Empire
@@ -3425,7 +3449,7 @@ The empire is haunted. The following ghosts are among those that appear in stori
 
 **The General Who Lost the Battle.** A ghost that appears on the walls of Iron Gate, staring east, watching for an enemy that will never come. It is said to be the spirit of a commander who lost a battle during the War of the Three Passes and was executed for his failure. He waits for a second chance that will never arrive. Soldiers claim they have seen him nod in approval when a new fortification is well built.
 
-**The Mother Who Was Not Saved.** A ghost that wanders the refugee camps, looking for a child that she lost during the evacuation of Amber Shore. She approaches mothers traveling with children, peers at the child face, and moves on when she does not recognize it. She has been searching for years. She will never stop.
+**The Mother Who Was Not Saved.** A ghost that wanders the refugee camps, looking for a child that she lost during the evacuation of Amber Shore. She approaches mothers traveling with children, peers at the child's face, and moves on when she does not recognize it. She has been searching for years. She will never stop.
 
 **The Ritualist Who Made a Mistake.** A ghost that haunts the ruins of a temple in the Central Province, a temple that was destroyed in a botched ritual that killed everyone inside. The ritualist ghost repeats the failed ritual endlessly, each time making the same mistake, each time watching his colleagues die. The Qi residue from the disaster is so strong that visitors can hear the ritual chanting when they approach the ruins.
 
@@ -3488,9 +3512,9 @@ Beyond the ten major endings, the Host may introduce variant endings triggered b
 
 **The Blood Succession (Crimson Lineage plus Bright Mirror).** The Duke of Eternal Night and the Bright Mirror reach an understanding. The Duke renounces his corrupt practices and submits to purification. They establish a new order based on blood cultivation used for the common good.
 
-**The Silence Ends (Celestial Book plus All Schools).** Celestial Book reveals the truth about the Emperor imprisonment. The schools break open the Spire. The Emperor emerges, but He is not what anyone expected. His return does not save the empire. It ends it.
+**The Silence Ends (Celestial Book plus All Schools).** Celestial Book reveals the truth about the Emperor's imprisonment. The schools break open the Spire. The Emperor emerges, but She is not what anyone expected. Her return does not save the empire. It ends it.
 
-**The Forgotten Door (Shadow plus The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place outside the empire reach. She leads refugees through the passage to a land the Dusk has not touched. They are the seeds of something new.
+**The Forgotten Door (Shadow plus The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place beyond the empire's reach. He leads refugees through the passage to a land the Dusk has not touched. They are the seeds of something new.
 
 **The Quiet Consummation (Dusk Victory).** The Dusk covers the entire empire. The last surviving scribe writes the final entry in the Continuing Record. The record ends with three words: It is done.
 
@@ -3504,7 +3528,7 @@ The empire runs on negotiation. Every interaction, from buying a bowl of noodles
 
 **The Face Saving Exit.** Every negotiation must leave both parties with a way to retreat without losing face. The empire has developed elaborate formulas for this purpose. "I see that I have misunderstood the situation" is a standard retreat that allows the speaker to concede without admitting error. "The situation has changed" is another, useful when new information has emerged that justifies a change in position.
 
-**The Mediator.** When negotiations reach an impasse, a mediator is called. The mediator is usually a neutral third party with high status: a senior official, a respected elder, or, in extreme cases, a member of the Grand Council. The mediator does not impose a solution but facilitates an agreement. The mediator judgment is theoretically non binding. In practice, rejecting the mediator judgment is an insult that can escalate the conflict.
+**The Mediator.** When negotiations reach an impasse, a mediator is called. The mediator is usually a neutral third party with high status: a senior official, a respected elder, or, in extreme cases, a member of the Grand Council. The mediator does not impose a solution but facilitates an agreement. The mediator's judgment is theoretically advisory. In practice, rejecting that judgment is an insult that can escalate the conflict.
 
 **The Contract.** Agreements are recorded in writing and sealed with the parties Qi signatures. A Qi signed contract is binding under imperial law, and breaking it can result in Harmonization. The language of contracts is precise and technical, designed to leave no room for interpretation. The empire has a class of specialized lawyers who draft contracts and argue over their meaning. They are among the most well paid and least trusted professionals in the empire.
 
@@ -3514,9 +3538,9 @@ Most inhabitants of the empire never interact with the Inner Court or the Grand 
 
 **The Commute.** A minor official in the Spire District lives in a rented room within walking distance of their ministry. The rent consumes a third of their salary. The room is small, with space for a bed, a desk, and a chest for clothing. Cooking is not possible. Meals are taken at street stalls or communal kitchens.
 
-**The Workday.** The workday begins at the fifth hour and ends at the thirteenth hour, with a one hour break at midday. The work is repetitive and demanding: copying documents, filing reports, processing requests. The work is also essential; if the minor officials stopped working, the empire would grind to a halt within a week.
+**The Workday.** The workday begins at the fifth hour and ends at the thirteenth hour, with a break of one hour at midday. The work is repetitive and demanding: copying documents, filing reports, processing requests. The work is also essential; if the minor officials stopped working, the empire would grind to a halt within a week.
 
-**The Supervisor.** Each minor official reports to a supervisor, a mid ranking official who assigns tasks and evaluates performance. The supervisor has enormous power over the official career. A favorable evaluation can lead to promotion. An unfavorable evaluation can lead to demotion or dismissal. The relationship between official and supervisor is one of careful deference on one side and casual authority on the other.
+**The Supervisor.** Each minor official reports to a supervisor, an official in the middle ranks who assigns tasks and evaluates performance. The supervisor has enormous power over the official's career. A favorable evaluation can lead to promotion. An unfavorable evaluation can lead to demotion or dismissal. The relationship between official and supervisor is one of careful deference on one side and casual authority on the other.
 
 **The Social Life.** Minor officials socialize with each other, forming friendships and rivalries that shape their careers. They meet in teahouses after work, discussing news, sharing information, and building alliances. The social network of the Outer Court is as important as the formal hierarchy, and officials who neglect it find themselves isolated when they need support.
 
@@ -3596,11 +3620,11 @@ The bureaucracy of the Celestial Empire is legendary for its complexity. The fol
 
 **Form Q12: Declaration of Qi Usage.** Required for any ritual or Qi manipulation that exceeds the daily allowance. The form must be submitted in advance and approved by a licensed Qi inspector. Unauthorized Qi usage is a crime. The form is also used to track Qi consumption across the empire, providing data for the State Planning Commission.
 
-**Form P3: Personnel Evaluation.** Completed annually for every official in the Outer Court. The evaluation includes a self assessment, a supervisor assessment, and a review of the official performance metrics. The evaluation determines eligibility for promotion and pay increases. A negative evaluation can trigger a performance improvement plan that may lead to demotion.
+**Form P3: Personnel Evaluation.** Completed annually for every official in the Outer Court. The evaluation includes the official's own assessment, a supervisor's assessment, and a review of performance metrics. The evaluation determines eligibility for promotion and pay increases. A negative evaluation can trigger a performance improvement plan that may lead to demotion.
 
 **Form H22: Report of Disharmonious Activity.** The form used to report suspected heterodoxy or Disharmony. The form is confidential and can be submitted anonymously. False reports are theoretically punishable, but the punishment is rarely enforced. The form is the most feared document in the empire, because a single report can trigger an investigation that destroys a career.
 
-**The Approval Chain.** Most decisions require multiple levels of approval. A request to reassign a mid ranking official, for example, requires approval from the official current supervisor, the receiving department head, the Ministry of Personnel, and, in some cases, the Grand Council. Each level of approval adds time and uncertainty.
+**The Approval Chain.** Most decisions require multiple levels of approval. A request to reassign an official in the middle ranks, for example, requires approval from the official's current supervisor, the receiving department head, the Ministry of Personnel, and, in some cases, the Grand Council. Each level of approval adds time and uncertainty.
 
 **The Filing System.** Documents are filed in the Bureau of Harmonious Records, which maintains a classification system that spans thousands of categories. Finding a document requires knowledge of the classification system, which is taught only to archivists. Outsiders who need to find a document must hire an archivist. The archivists are a guild within the bureaucracy, and they protect their knowledge jealously.
 
@@ -3608,31 +3632,31 @@ The bureaucracy of the Celestial Empire is legendary for its complexity. The fol
 
 The Imperial Garrison is the most powerful military force on the continent. Its doctrine has been developed over centuries of warfare.
 
-**The Principle of Overwhelming Force.** The empire does not fight fair. When the Garrison commits to battle, it commits overwhelming force, using numerical superiority, superior equipment, and Qi enhanced weapons to crush the enemy quickly. The goal is not to win but to annihilate, to make an example that discourages future resistance.
+**The Principle of Overwhelming Force.** The empire does not fight fair. When the Garrison commits to battle, it commits overwhelming force, using numerical superiority, superior equipment, and weapons enhanced with Qi to crush the enemy quickly. The goal is not to win but to annihilate, to make an example that discourages future resistance.
 
 **The Principle of Defense in Depth.** The Western Bulwark is a demonstration of this principle. Multiple lines of fortification, each one a killing ground, designed to slow and exhaust an invading force. The defender retreats from position to position, trading space for time, until the enemy is exhausted and vulnerable to counterattack.
 
-**The Principle of Qi Integration.** Every imperial soldier receives basic Qi training, enough to enhance their physical capabilities and to resist Qi based attacks. Elite units receive advanced training, allowing them to channel Qi through their weapons and armor. The Garrisons Qi integration program is one of the empire greatest military advantages.
+**The Principle of Qi Integration.** Every imperial soldier receives basic Qi training, enough to enhance their physical capabilities and to resist attacks powered by Qi. Elite units receive advanced training, allowing them to channel Qi through their weapons and armor. The Garrison's Qi integration program is one of the empire's greatest military advantages.
 
-**The Principle of Logistics.** The empire fights with its supply lines as much as its soldiers. The Qi powered railway network allows rapid movement of troops and supplies. The granaries of the Southern Granary ensure that the army never goes hungry. The forges of the Eastern Foundries produce weapons and armor at a rate that no enemy can match.
+**The Principle of Logistics.** The empire fights with its supply lines as much as its soldiers. The railway network powered by Qi allows rapid movement of troops and supplies. The granaries of the Southern Granary ensure that the army never goes hungry. The forges of the Eastern Foundries produce weapons and armor at a rate that no enemy can match.
 
-**The Principle of Psychological Warfare.** The empire understands that battles are won in the mind before they are won on the field. The Garrisons propaganda arm produces stories of imperial invincibility that spread ahead of the army. The Harmonization Audit system is a form of psychological warfare, demonstrating the consequences of resistance. The Dusk itself is used as a threat: the empire may be terrible, but the alternative is worse.
+**The Principle of Psychological Warfare.** The empire understands that battles are won in the mind before they are won on the field. The Garrison's propaganda arm produces stories of imperial invincibility that spread ahead of the army. The Harmonization Audit system is a form of psychological warfare, demonstrating the consequences of resistance. The Dusk itself is used as a threat: the empire may be terrible, but the alternative is worse.
 
 ### The Last Testament of the Sun Emperor
 
 The following text, allegedly recovered from the sealed chambers of the Spire, circulates in the underground. Its authenticity is unverified. Its contents are considered the most dangerous knowledge in the empire.
 
-"When you read this, I will be gone. The Court will tell you that I am meditating, that I am waiting, that I will return. This is a lie. I have known the Court lies from the beginning, because the Court was built on a lie.
+"When you read this, I will be beyond your reach. The Court will tell you that I am meditating, that I am waiting, and that I will return. Those words conceal the truth. The Court began by concealing the first wound, and every generation since has inherited that silence.
 
-The truth is this: I am not a god. I am a man who found a source of power that no one had found before, a vein of Qi so deep and so pure that it seemed infinite. I used this power to unite the continent, to bring order to chaos. I believed I was doing right. I was wrong.
+The truth is this: I am not a god. At the founding, we seized a current of Qi that joined Heaven to Earth. To bind the land into the empire, the rite sacrificed or bound the guardians who had carried that current and placed me in their stead. I called it unification. I told myself the order we built justified the wound beneath it. I was wrong.
 
-The power I found was not infinite. It was alive. It had a will. It chose me because it needed a vessel, a hand to shape the world according to its design. I was not the master of the power. I was its instrument.
+From that day onward, I was not merely an emperor. I was the replacement living conduit. The empire drew strength through me while the wounded world endured what we had done. The first wound never closed. It waited beneath every road, field, and law we laid above it.
 
-The Court suspects this. The first generation knew, and they sealed me in the Spire not to protect me but to contain the power that uses me. They cannot destroy it. They can only delay it. The delay is ending.
+The first generation knows this. They are sealing me in the Spire against my will. They believe my confinement will preserve the empire. Instead, when the seal is complete, it will sever the conduit that has held Heaven and Earth together since the founding. What they lock inside this tower will not end with me.
 
-The Crimson Dusk is the power stirring. It is hungry. It has been patient, but its patience is exhausted. When it wakes fully, it will consume everything, and it will use my body to do it.
+The Crimson Dusk is the delayed wound left by both acts. The founding cut the world. The sealing will tear open what remained joined. It has no single will and no hunger that can be bargained with. It is reality trying to close around a break we made and destroying itself in the attempt.
 
-You have been warned. The question is not whether you can stop what is coming. The question is whether you can survive it."
+You have been warned. Do not ask how to defeat it. Restore what was severed, answer for what was sacrificed, or watch the wound widen until nothing remains untouched."
 
 The text breaks off here. The remaining pages have not been recovered.
 
@@ -3644,7 +3668,7 @@ The best sessions are the ones where the players face impossible choices: loyalt
 
 The Dusk is not the villain. The Court is not the villain. The Sun Emperor is not the villain. The villain is the system itself, the machine that grinds people into resources and calls it harmony. The question the game asks is not whether the players can defeat the system. It is whether they can survive it with their humanity intact.
 
-The answer, for most characters, will be no. That is the tragedy of the empire. That is also its beauty. In a world where survival requires compromise, the choice to hold onto one principles is the only real victory.
+The answer, for most characters, will be no. That is the tragedy of the empire. That is also its beauty. In a world where survival requires compromise, the choice to hold onto one's principles is the only real victory.
 
 Play the empire. Love the empire. Mourn the empire. And when it falls, as it must, write the record of its passing. That is what scribes are for.
 

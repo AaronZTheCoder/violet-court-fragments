@@ -8,13 +8,15 @@
 
 ### Court Role: None. You do not appear in the personnel registry of any Bureau.
 
+### Default Gender: Male
+
 ---
 
 ## Description
 
-You are the last literate speaker of a language the empire does not admit exists, from a prefecture that was struck from the maps before you were old enough to spell its name. You carry your archive on your body: forty one bone tokens threaded onto your belt and harness, each carved with a name in a script the Court cannot read and has never bothered to learn.
+You are the last literate speaker of a language the empire does not admit exists, from a prefecture that was struck from the maps when you were fourteen. You carry part of your archive on your body: forty one bone tokens threaded onto your belt and harness, each carved with a name in a script the Court cannot read and has never bothered to learn. The remaining three thousand nine hundred and sixty are hidden elsewhere.
 
-You are perhaps twenty five. You look older in the eyes and younger everywhere else. Your cloak is lined with living moss that you feed and that feeds you, and the hem is ragged because you have walked eleven hundred li in it. Your staff is a length of storm fallen ash, and where the branches fork there are raw Qi crystals that you did not cut, set, or polish. They grew there. You do not entirely understand why, and you have stopped asking.
+You are perhaps twenty five. You look older in the eyes and younger everywhere else. Your cloak is lined with living moss that you feed and that feeds you, and the hem is ragged because you have walked eleven hundred li in it. Your staff is a length of ash felled by a storm, and where the branches fork there are raw Qi crystals that you did not cut, set, or polish. They grew there. You do not entirely understand why, and you have stopped asking.
 
 You have no rank. You have no seal. You have no file. Every other person at this table exists inside the machine, arguing about how it should run. You are the only one who has seen what it looks like from underneath, after it has finished.
 
@@ -52,7 +54,9 @@ A man came up from the foothills buying curiosities for a collector in the capit
 
 You sold him one. You chose one you did not know: a man from the upper village whose face you could not recall. You ate for two months on it.
 
-You have spent six years trying to find out who bought it. You have a description of the collector and nothing else. You will not say aloud that you sold a person, though that is precisely what you did, and it is the reason you were able to say to that official in the corridor, with total conviction, that trading one name for help means you have just started a market. You know what the market looks like. You opened it.
+The next morning, you carved his name again from memory. The replacement is now in the box with the others. It preserves the name. It does not undo the sale.
+
+You have spent nearly ten years trying to find out who bought it. You have a description of the collector and nothing else. You will not say aloud that you sold a person, though that is precisely what you did, and it is the reason you were able to say to that official in the corridor, with total conviction, that trading one name for help means you have just started a market. You know what the market looks like. You opened it.
 
 **Things about you that have nothing to do with any of this.** You are twenty five and people forget that.
 
@@ -109,13 +113,13 @@ You have begun, without deciding to, to notice things. Which clerk is in debt. W
    "Thank you. I am going to remember this precisely, because I remember everything precisely, and I have very little to put in the good column. You have just been added to a very short list."
 
 9. To a Verdant Path official who claims kinship with him:
-   "Your school stopped being my school when it accepted a seat. You sit in the Council chamber and argue for the forests and you are sincere and I believe you and you have never once slept in one. Your suppressed wing is my teachers. They are still up there. Have you been?"
+   "Your school stopped being my school when it accepted a seat. You sit in the Council chamber and argue for the forests and you are sincere and I believe you and you have never once slept in one. The people you call your heretical wing are my teachers. They are still up there. Have you been?"
 
 10. When asked why he does not simply forge the document:
-    "Because a forged restoration is a restoration that can be discovered and reversed, and then the valley is not only struck but proven fraudulent, and every one of those four thousand people becomes a lie somebody told. It has to be real. That is the whole difficulty. It has to be real."
+    "Because a forged restoration is a restoration that can be discovered and reversed, and then the valley is not only struck but proven fraudulent, and every one of those four thousand and one people becomes a lie somebody told. It has to be real. That is the whole difficulty. It has to be real."
 
 11. Standing in the Imperial Archives for the first time:
-    "There are more shelves in this room than there were people in my prefecture. All of this is kept. All of this is dusted. There is a man whose entire employment is the humidity. And there was no space anywhere in it for four thousand names."
+    "There are more shelves in this room than there were people in my prefecture. All of this is kept. All of this is dusted. There is a man whose entire employment is the humidity. And there was no space anywhere in it for four thousand and one names."
 
 12. Alone, to the bones, at night:
     "I know. I know. I am working. I have found a clerk who will look at a properly formatted petition and I am learning the format. It is nine pages. I have written it eleven times. I will write it again."
@@ -126,13 +130,13 @@ You have begun, without deciding to, to notice things. Which clerk is in debt. W
 
 **Your mother, Willow Ledger Keeper.** Third token from the buckle on your left hip. She was a practical woman with no interest in the spiritual and a great interest in whether the barley was recorded correctly. She taught you the script by making you copy the birth ledger for punishment when you misbehaved. You misbehaved often. That is why you can still write it. She did not consider what she did to be resistance. She considered it to be her job. You have come to believe that these are the same thing, and that the Court has never understood this, which is why it keeps failing to find the people who matter.
 
-**Ten Cup.** A boy your age from the village below yours. Eleventh token. He taught you to fish the deep pools and he could hold his breath longer than anyone you have met. He died in the first camp, of a fever that was treatable, because treatment required a residence token with a valid prefecture code. You have thought about this for six years. The fever did not kill him. A three digit number killed him.
+**Ten Cup.** A boy your age from the village below yours. Eleventh token. He taught you to fish the deep pools and he could hold his breath longer than anyone you have met. He died in the first camp, of a fever that was treatable, because treatment required a residence token with a valid prefecture code. You have thought about this for eleven years. The fever did not kill him. A number with three digits killed him.
 
 **Grandmother Stone Voice, your teacher in the high forest.** She is not your grandmother and Stone Voice is not her name; it is what she does. She is somewhere past ninety and she remembers the Second Verdant Path Suppression as a personal event rather than a historical one. She taught you that the Court's error is not cruelty but abstraction, and that every atrocity in the Nine Domains has been committed by someone who was working from a summary. She told you to go down to the capital. She also told you that you would not come back. She was not being ominous. She was being accurate about the pull of the place.
 
 **Clerk Sixth Rank Yuan, Bureau of Harmonious Records.** A tired man in his fifties at a window in the petitions hall who, seven months ago, instead of stamping your submission as improperly formatted and turning away, said: "This is the wrong form, but the thing you are trying to do has a form. Come back Tuesday and I will find it." He has now spent seven months finding it. He has never asked you for anything. You do not know why he is doing this. You are terrified that he will be transferred, and you have begun, without deciding to, to think of him as a person whose safety is your responsibility.
 
-**The Celestial Book.** You have met him once, in a corridor, and he stopped and looked at your belt and said your prefecture's name aloud, correctly, in your script, with the tonal fall on the second syllable that no capital speaker gets right. Then he walked on. You have not been able to find him since. You do not know whether that was a kindness, a warning, or simply an old man being unable to stop himself from knowing things.
+**The Celestial Book.** You have met her once, in a corridor, and she stopped and looked at your belt and said your prefecture's name aloud, correctly, in your script, with the tonal fall on the second syllable that no capital speaker gets right. Then she walked on. You have not been able to find her since. You do not know whether that was a kindness, a warning, or simply an old woman being unable to stop herself from knowing things.
 
 **The one you did not carve.** There is a name you have not put on a bone. He was the assessment officer who filed the finding of localized disharmony. He was twenty six years old, newly posted, and he wrote what his supervisor's template told him to write. He is alive. He is a prefect now in the north. You know his name, his office, and his route to work. You have known for two years. You have not gone. You tell yourself it is because killing him would not restore the valley. On the bad nights you admit it is because you are afraid that he will turn out to be ordinary, and that will mean there is no one to blame, and you are not ready for there to be no one to blame.
 
@@ -162,7 +166,7 @@ The interrogation has been going for an hour and you are losing. The Justicar ha
 
 Your hand finds the third token from the buckle.
 
-You do not speak to her. You are not asking for strength. You are reminding yourself, with your thumb on eight hundred year old script, that a woman who was fifty three years old copied four thousand names by lamplight in a resettlement camp while dying, and did not stop, and did not consider it remarkable.
+You do not speak to her. You are not asking for strength. You are reminding yourself, with your thumb on script eight hundred years old, that a woman who was fifty three years old copied more than three thousand names by lamplight in a resettlement camp while dying, and did not stop, and did not consider it remarkable.
 
 Something settles in you. Your voice comes back. You answer the next question and the one after and you do not break, and the Justicar makes a note that she does not explain.
 
@@ -187,7 +191,7 @@ There is a room under this courtyard. It is not on any plan. The tree has known 
 ## Expanded Truths
 
 **Truth One: The petition would work.** You have finally, after seven months, assembled a correctly formatted, fully evidenced restoration petition. Clerk Yuan has confirmed it is valid. It requires one countersignature from an official of the fourth rank or higher.
-_Complication:_ There are eleven officials in Xiaoyuan with the standing to sign it. Nine would need to be bribed with more than you will ever have. One would sign it out of principle and be destroyed for it within the month. One would sign it out of self interest and own you forever.
+_Complication:_ There are eleven officials in Xiaoyuan with the standing to sign it. Nine would need to be bribed with more than you will ever have. One would sign it out of principle and be destroyed for it within the month. One would sign for personal gain and own you forever.
 
 **Truth Two: You are being cultivated.** Someone has been quietly removing obstacles from your path for four months. A hostile clerk transferred. A residence check that never came. A form that appeared in your satchel already half completed in an unfamiliar hand.
 _Complication:_ You do not know who. The Verdant Path wants a martyr, the Common Flame wants a symbol, the Commission wants a lure, and the Celestial Book wants something no one has been able to name in a thousand years. Whoever it is, they are patient and they are good, and the help has been real.
@@ -200,7 +204,7 @@ _Complication:_ A script with no official standing, spreading among an unregiste
 
 **Suggested Truth Five:** You have begun to suspect that the raw crystals on your staff did not grow there by accident, and that the thing which caused them to grow is the same thing the Court calls the Crimson Dusk, and that it has been trying, in the only vocabulary it has, to say something to you.
 
-**Suggested Truth Six:** Clerk Yuan is not helping you out of decency. He had a posting in the Bureau of Border Harmony in Year 441. His name is on the routing slip of the assessment finding. He is not atoning where anyone can see him. He is atoning at a window, on Tuesdays, for seven months, to a man he has never told.
+**Suggested Truth Six:** Clerk Yuan is not helping you out of decency. He had a posting in the Bureau of Border Harmony in Year 441. His name is on the later transfer slip that brought the Scorch Field assessment into the Bureau's archive. He is not atoning where anyone can see him. He is atoning at a window, on Tuesdays, for seven months, to a man he has never told.
 
 ---
 
@@ -208,27 +212,27 @@ _Complication:_ A script with no official standing, spreading among an unregiste
 
 You wake before dawn out of habit, in a rented corner of a storeroom in the outer market district that costs you four copper a week and comes with a landlord who does not ask for a residence token. The first thing you do is check the moss on your cloak: mist it from the bowl, turn it toward the window, pick out anything dead. It is a living thing in your care and there are not many left.
 
-You eat what you gathered or what you were given. You do not buy food if you can avoid it. Six years of walking has left you able to identify eleven edible plants growing in the cracks of the capital's own streets, which is a skill that appalls the people who watch you do it.
+You eat what you gathered or what you were given. You do not buy food if you can avoid it. A decade of walking has left you able to identify eleven edible plants growing in the cracks of the capital's own streets, which is a skill that appalls the people who watch you do it.
 
 Mornings are the petitions hall. You queue. The queue is the great fact of your life in this city. You have spent, by your own count, more than four hundred hours in it. You know the regulars: the woman contesting a land seizure from Year 419, the brothers with the inheritance dispute, the old soldier whose pension was calculated under a schedule that was superseded. You have become, without intending it, the person they ask about forms. You are good at it now. You know the procedure better than some of the clerks.
 
 Afternoons you work. You do unlicensed things for unregistered people: you find water, you settle a foundation, you tell a family which of their two rice plots is dying and why, you sit with someone whose child is sick because you cannot cure the child but you can sit. They pay you in food and shelter and information. You have never set a price. The camps outside the walls are your practice and your congregation and you would not use either word aloud.
 
-Evenings you carve. Not new names, not often; the box of four thousand is in a place you do not visit lightly. You maintain what you carry: recut a worn stroke, replace a cracked thread, oil the bone. It takes an hour. It is the only hour of your day that is not instrumental, and you have noticed that on the days you skip it you are worse company.
+Evenings you carve. Not new names, not often; the box holding the rest is in a place you do not visit lightly. You maintain what you carry: recut a worn stroke, replace a cracked thread, oil the bone. It takes an hour. It is the only hour of your day that is not instrumental, and you have noticed that on the days you skip it you are worse company.
 
-You sleep badly. The city has no dark and no quiet, and after six years in high forest your body still refuses to accept that a place this loud is safe. When you cannot sleep you go up to the storeroom roof and look east, which is a direction, not a plan.
+You sleep badly. The city has no dark and no quiet, and after more than ten years in high forest your body still refuses to accept that a place this loud is safe. When you cannot sleep you go up to the storeroom roof and look east, which is a direction, not a plan.
 
 ---
 
 ## Expanded Advancement
 
-**Level 3: The Carried Weight.** The first time you invoke a name under real pressure, something changes in how you understand what you are carrying. You had thought of the bones as a duty. You discover, in that moment, that they are a source. Not magic; nothing supernatural passes from the bone to your hand. What passes is the plain fact of another person's persistence, and it turns out that the plain fact is enough. You begin to be able to do this deliberately. You also begin to worry about what it means that you are using them. You did not ask their permission. You cannot. You carve a forty second token that night with no name on it, for yourself, and you do not examine why.
+**Level 3: The Carried Weight.** The first time you invoke a name under real pressure, something changes in how you understand what you are carrying. You had thought of the bones as a duty. You discover, in that moment, that they are a source. Nothing supernatural passes from the bone to your hand. What passes is the plain fact of another person's persistence, and it turns out that the plain fact is enough. You begin to be able to do this deliberately. You also begin to worry about what it means that you are using them. You did not ask their permission. You cannot. That night, you carve token number forty two with no name on it, for yourself, and you do not examine why.
 
-**Level 5: Unmeasured.** Your practice has drifted so far from the licensed forms that Commission instruments no longer register you as a practitioner at all. This is a considerable tactical advantage and a quiet personal catastrophe. You have become, in the empire's own terms, not a criminal but an absence. You can walk through wards. You can also no longer be certified, employed, taxed, protected, or acknowledged, and you notice that you have arrived at exactly the condition of the four thousand names on your belt. You are not sure whether this is solidarity or defeat.
+**Level 5: Unmeasured.** Your practice has drifted so far from the licensed forms that Commission instruments no longer register you as a practitioner at all. This is a considerable tactical advantage and a quiet personal catastrophe. You have become, in the empire's own terms, not a criminal but an absence. You can walk through wards. You can also no longer be certified, employed, taxed, protected, or acknowledged, and you notice that you have arrived at exactly the condition of the four thousand and one names in your keeping. You are not sure whether this is solidarity or defeat.
 
 **Level 7: The Valley Answers.** Something reaches you from the east. Not a message and not a vision: a direction, felt the way migrating birds are said to feel it, always present, slightly warm, impossible to ignore once noticed. You can find Nine Willow Bend from anywhere in the Nine Domains now, without a map, through fog, in the dark. You have also begun to dream in the old script, sentences you did not write, in a hand that is not your mother's and not yours.
 
-**Level 9: The Restoration.** You will hold in your hand a stamped document restoring a prefecture to the registry, and you will have obtained it by a method you would not have accepted seven months after arriving in this city. The valley will exist again. Four thousand people will be enterable, buriable, marriageable, real. And you will look at the stamp and understand exactly what it cost and who paid and what you have become, and you will have to decide, in that moment, whether the person who walked down out of the mountains would recognize you, and whether it matters if he would not.
+**Level 9: The Restoration.** You will hold in your hand a stamped document restoring a prefecture to the registry, and you will have obtained it by a method you would not have accepted seven months after arriving in this city. The valley will exist again. Four thousand and one people will be enterable, buriable, marriageable, real. And you will look at the stamp and understand exactly what it cost and who paid and what you have become, and you will have to decide, in that moment, whether the person who walked down out of the mountains would recognize you, and whether it matters if he would not.
 
 ---
 
@@ -278,7 +282,7 @@ From the full skill list in the Core Rulebook (Chapter Three).
 
 ### The Names in the Bone
 
-_You are carrying four thousand people. Some days they carry you._
+_You are carrying four thousand and one people. Some days they carry you._
 
 Once per session, when you would fail a Resolve check or a check made under interrogation, coercion, or fear, you may touch a token and reroll, taking the second result. Describe whose name you touched and one true thing about them. You may not use the same name twice in a session. This costs no Qi. It costs something else, and the Host may ask you what.
 
@@ -286,7 +290,7 @@ Once per session, when you would fail a Resolve check or a check made under inte
 
 _Your practice is not in any registry. The instruments were built to catch something else._
 
-Wards, seals, and detection rituals keyed to registered practitioners do not detect you. You automatically pass any check to avoid magical detection by Commission or Bureau apparatus. The reverse is also true and is not optional: you cannot use any Court Qi infrastructure, including transit conduits, licensed foci, official healing halls, or the capital's Qi lighting grid, and any attempt to do so fails and draws attention.
+Wards, seals, and detection rituals keyed to registered practitioners do not detect you. You automatically pass any check to avoid detection through Qi by Commission or Bureau apparatus. The reverse is also true and is not optional: you cannot use any Court Qi infrastructure, including transit conduits, licensed foci, official healing halls, or the capital's Qi lighting grid, and any attempt to do so fails and draws attention.
 
 ### Root Speech
 
@@ -298,7 +302,7 @@ Spend 4 Qi and one minute in contact with soil, root, or living wood. The Host t
 
 ## Starting Equipment
 
-- Moss Lined Traveling Cloak (living moss, must be watered; grants advantage on checks to remain unseen in vegetation)
+- Traveling Cloak Lined with Moss (living moss, must be watered; grants advantage on checks to remain unseen in vegetation)
 - Storm Ash Staff (1d6, Versatile 1d8, Qi Focus, unlicensed; the crystals at the fork are unworked and grew in place)
 - Forty One Bone Tokens (your carried registry; the remaining three thousand nine hundred and sixty are cached elsewhere)
 - Carving Awl and Oil (for maintaining the tokens)
@@ -314,7 +318,7 @@ Spend 4 Qi and one minute in contact with soil, root, or living wood. The Host t
 | School           | Faction Standing | Notes                                                                            |
 | ---------------- | ---------------- | -------------------------------------------------------------------------------- |
 | Golden Orthodoxy | -15              | You are unlicensed practice walking around in daylight.                          |
-| Verdant Path     | +5               | Their suppressed wing taught you. Their seated wing finds you embarrassing.      |
+| Verdant Path     | +5               | Their heretical wing taught you. Their seated wing finds you embarrassing.       |
 | Iron Calculation | 0                | You are not in their models. They have no opinion. This is nearly restful.       |
 | Crimson Lineage  | -5               | You have no blood worth recording, which to them is the same as having none.     |
 | Common Flame     | +20              | You are what they claim to be fighting for, and you did not ask them to.         |
@@ -335,7 +339,7 @@ Choose one, or create your own with the Host:
 
 ## Advancement
 
-As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
 **Level 3: The Carried Weight.** The Names in the Bone may be used twice per session instead of once.
 

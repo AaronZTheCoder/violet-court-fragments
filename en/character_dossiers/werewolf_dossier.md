@@ -8,6 +8,8 @@
 
 ### Court Role: Organizer, Red Banner Revival Movement
 
+### Default Gender: Male
+
 ## Description
 
 You are two beings sharing one body. The first is a labor organizer, a community leader, a voice for those the empire has ground into dust. Warm, charismatic, the kind of person who remembers workers' children's names and eats with them in factory canteens. The second is the wolf: an ancient spirit of popular fury that found you in a penal works where you had been left to die. The wolf is pure, undifferentiated rage. It cannot distinguish between a Grand Council elder and the street sweeper who works outside his palace.
@@ -16,7 +18,7 @@ You are terrified of the wolf. You also know you need it. The empire does not re
 
 ## Expanded Backstory
 
-**The town with no name on the map.** Factory town three days north. Father at the smelting furnaces, mother at the looms, four siblings, two surviving. Company dormitory. You started carrying coal at nine and crawling into spaces too small for adults to clear the clogs.
+**The town with no name on the map.** Factory town three days north. Father at the smelting furnaces, mother at the looms. You had four siblings, and two survived childhood. Company dormitory. You started carrying coal at nine and crawling into spaces too small for adults to clear the clogs.
 
 An old woman who had been a teacher before the factory taught you to read after hours by lamplight. Her name was Widow Tan and she was not kind. She was impatient, sarcastic, and rapped your knuckles, and she taught eleven children over nine years and four of them are now organizers and one is a minor official and she would have had opinions about all of it.
 
@@ -24,9 +26,9 @@ An old woman who had been a teacher before the factory taught you to read after 
 
 You were correct about the rail. You were wrong about the timing, and you knew you were wrong, and you called it anyway because a rival organizer named Hu was about to call one and you wanted it to be yours.
 
-It failed in nine days. The Bright Mirror came. Nineteen people were dismissed and blacklisted, four were taken, and you were named as the head and sent to the penal works.
+It failed in nine days. The Commission came. Nineteen people were dismissed and blacklisted, four were taken, and you were named as the head and sent to the penal works.
 
-You have told this story for twenty years as an act of principled resistance that was crushed. It was also vanity, and the two are not separable, and nineteen families were blacklisted because a young man wanted the credit.
+You have told this story for sixteen years, ever since your arrest, as an act of principled resistance that was crushed. It was also vanity, and the two are not separable, and nineteen families were blacklisted because a young man wanted the credit.
 
 The rail was replaced eleven months later. That is true too, and you have used it, and it does not settle the account.
 
@@ -46,7 +48,7 @@ It also feels extraordinary. It is the only time you are not tired, not calculat
 
 The reason this matters is that a man who dreads his weapon will not reach for it carelessly, and you are not that man.
 
-**Commissioner Lin.** Your opposite number at the Commission, assigned to break your organization. You have met twice. She arrested you once; you escaped. She let you go once; you have thought about why every day since.
+**Commissioner Lin.** Your principal adversary at the Commission, assigned to break your organization. You have met twice. She arrested you once; you escaped. She let you go once; you have thought about why every day since.
 
 She is not a monster. She believes the empire is worth preserving, believes you are wrong and not evil, and you believe the same of her, and that mutual respect makes the conflict worse rather than better.
 
@@ -56,7 +58,7 @@ What you have not admitted is that you look forward to the encounters. She is th
 
 It was an assessment. An engineer at the Iron Calculation was asked which facilities could be closed to break the strike with least production loss, and he answered accurately, and the answer was correct, and that was the entire mechanism.
 
-You do not know this. If you ever learn it, you will have to decide what to do with the fact that the man who broke you was not an enemy and did not think about you at all, and that his modeling shows the four month strike you wanted would have killed more people than the suppression did.
+You do not know this. If you ever learn it, you will have to decide what to do with the fact that the man who broke you was not an enemy and did not think about you at all, and that his modeling shows the strike you wanted, which would have lasted four months, would have killed more people than the suppression did.
 
 **What you carry now.** You are forty four. You have organized for twenty five years, and the movement is larger and better than when you started, and you have gotten perhaps sixty people killed across that span through decisions that were reasonable at the time.
 
@@ -98,11 +100,11 @@ When alone, speaking to the wolf:
 
 **Celestial Book (Archivist):** The Archives contain records of the penal works where you were imprisoned. You know this because Celestial Book told you, in a rare moment of direct communication. The Archivist sent you a letter, brief and precise, listing the camp's official designation, the names of its administrators, and the location of the records. You have not accessed them. You are not sure you want to. The records will tell you things you do not want to remember. You keep the letter in your pocket, folded and refolded until the paper has softened. You are not sure why you carry it. You are not sure why the Archivist sent it.
 
-**Shadow (Information Broker):** You receive information from Shadow through cutouts, anonymous messages that arrive at your safe house with no return address. The information is always useful: guard rotation schedules, shipment routes, the names of officials who can be turned. You have never met Shadow in person. You do not know their name, their face, or their affiliation. You have tried to trace the messages. They are too clean. Shadow is good at hiding. You respect the skill even as it makes you uneasy. You wonder what Shadow wants from you. You wonder what price will eventually come due.
+**Shadow (Information Broker):** You receive information from Shadow through cutouts, anonymous messages that arrive at your safe house with no return address. The information is always useful: guard rotation schedules, shipment routes, the names of officials who can be turned. You have never met Shadow in person. You do not know his name, his face, or his affiliation. You have tried to trace the messages. Every trail is too clean. Shadow is good at hiding. You respect the skill even as it makes you uneasy. You wonder what Shadow wants from you. You wonder what price will eventually come due.
 
-**Bright Mirror Commissioner Lin (Special Investigator, Counter Subversion Division):** Lin is your opposite number, the Bright Mirror agent assigned to dismantle your organization. You have met twice. The first time, she arrested you. You escaped. The second time, she let you go. You do not know why. You have thought about it every day since. Lin is not a monster. She is a believer. She believes the empire is worth preserving. She believes you are wrong but not evil. You believe she is wrong but not evil. This mutual respect makes your conflict more painful, not less. You have considered trying to turn her. You have considered surrendering to her. You have done neither.
+**Commissioner Lin, Commission for Celestial Purity (Special Investigator, Counter Subversion Division):** Lin is your principal adversary, the Commission investigator assigned to dismantle your organization. You have met twice. The first time, she arrested you. You escaped. The second time, she let you go. You do not know why. You have thought about it every day since. Lin is not a monster. She is a believer. She believes the empire is worth preserving. She believes you are wrong but not evil. You believe she is wrong but not evil. This mutual respect makes your conflict more painful, not less. You have considered trying to turn her. You have considered surrendering to her. You have done neither.
 
-**Your Younger Sister (name: Mira, age unknown, location unknown):** Mira was arrested the same night you were, during the failed strike. She was sent to a different camp. You have searched for her for seven years. You have found nothing. No records. No witnesses. No graves. You do not know if she is alive or dead. You keep her name on your union ledger, listed as a member in good standing. You know it is a lie. You keep it anyway. When the wolf rises, sometimes you see Mira's face among the faces of the people you are trying to protect. You have never told anyone this.
+**Your Younger Sister (name: Mira, age unknown, location unknown):** Mira was arrested the same night you were, during the failed strike. She was sent to a different camp. You have searched for her throughout the sixteen years since your release. You have found nothing. No records. No witnesses. No graves. You do not know if she is alive or dead. You keep her name on your union ledger, listed as a member in good standing. You know it is a lie. You keep it anyway. When the wolf rises, sometimes you see Mira's face among the faces of the people you are trying to protect. You have never told anyone this.
 
 **The Street Vendor's Family (names: Chen Wei, Chen Li, Chen Min):** You killed their father on a night you do not fully remember. You woke up in an alley with blood on your hands and a woman screaming nearby. You found them later. A widow and two children, struggling to survive in a city that does not care about widows and orphans. You have been sending them money for three years. You found the husband's brother a job at a factory where you have contacts. You watch the children grow from a distance. They will never know who you are. They will never know what you took from them. You will remember for the rest of your life.
 
@@ -125,37 +127,37 @@ When alone, speaking to the wolf:
 ## Ability Examples
 
 **The Wolf Rises:**
-The Bright Mirror has cornered your group in a warehouse. They have numbers. They have weapons. They have the law on their side. Your companions are looking to you, expecting a speech, a plan, a miracle. You do not have a speech. You do not have a plan. You have the wolf. You let it rise. You feel your bones reshape, your teeth lengthen, your skin split and reform. The pain is immense and welcome. It clears your mind. The Bright Mirror agents raise their weapons. They are too slow. You are already among them. You do not remember the next three rounds clearly. You remember fur. You remember blood. You remember the screaming. When you come back to yourself, the agents are down and your companions are staring at you with an expression you recognize. It is fear. It is the same expression you wear when you look in a mirror.
+The Commission has cornered your group in a warehouse. They have numbers. They have weapons. They have the law on their side. Your companions are looking to you, expecting a speech, a plan, a miracle. You do not have a speech. You do not have a plan. You have the wolf. You let it rise. You feel your bones reshape, your teeth lengthen, your skin split and reform. The pain is immense and welcome. It clears your mind. The Commission agents raise their weapons. They are too slow. You are already among them. You do not remember the next three rounds clearly. You remember fur. You remember blood. You remember the screaming. When you come back to yourself, the agents are down and your companions are staring at you with an expression you recognize. It is fear. It is the same expression you wear when you look in a mirror.
 
 **Rally the People:**
 The factory workers have gathered in the square, uncertain, afraid. The owner has threatened to fire anyone who associates with the Red Banner movement. The workers have families. They cannot afford to lose their wages. You climb onto a crate. You look at their faces. You see the fear, the hunger, the exhaustion. You also see the hope, buried deep, the hope that someone will speak for them. You speak. You do not give a speech. You tell them a story. You tell them about your father, who worked a furnace for forty years and died with nothing to show for it. You tell them about the camp. You tell them about the wolf. You tell them that change is possible because it must be possible, because the alternative is unthinkable. By the time you finish, the crowd is no longer afraid. They are angry. They are organized. They are ready.
 
 **Iron Endurance:**
-The interrogation has been going for six hours. They have used water. They have used electricity. They have used their fists. They have used a specialist from the Bright Mirror, someone trained to break minds. You have not spoken. Not because you are brave. Because the camp taught you that the body is a container and the self is separate from the container. They can break the container. They cannot break what is inside. You focus on your breathing. You focus on the list of names you carry in your head. You focus on the faces of the people you are protecting. The specialist leaves. The guards leave. You are left alone in the dark. You are in pain. You are alive. You are still Iron Bone. They cannot take that from you.
+The interrogation has been going for six hours. They have used water. They have used electricity. They have used their fists. They have used a Commission specialist trained to break minds. You have not spoken. Not because you are brave. Because the camp taught you that the body is a container and the self is separate from the container. They can break the container. They cannot break what is inside. You focus on your breathing. You focus on the list of names you carry in your head. You focus on the faces of the people you are protecting. The specialist leaves. The guards leave. You are left alone in the dark. You are in pain. You are alive. You are still Iron Bone. They cannot take that from you.
 
 ## Expanded Truths
 
-**Suggested Truth 1 (Existing):** The Crimson Dusk originated in the empire's penal works. It is the accumulated suffering of millions, concentrated into a wound in reality. You know this because you were there when it began.
-_Complication:_ You were not merely present when it began. You were the catalyst. The wolf's first emergence, the night you escaped the camp, was the moment the Crimson Dusk first tore through the world. You did not cause it deliberately. But you caused it. The wound in reality is connected to the wound in you. You are not sure if healing one will heal the other or destroy both.
+**Suggested Truth 1 (Existing):** The Crimson Dusk did not begin in the penal works, but your camp was the first place it manifested beyond the border provinces. You saw it happen and believe concentrated suffering gave it a path inward.
+_Complication:_ The first local manifestation coincided with the wolf's emergence during your fourth year in the camp. You did not create the Dusk, but the wound in that place may have widened through the wound in you. You do not know whether healing one would heal the other or destroy both.
 
 **Suggested Truth 2 (Existing):** When the wolf is in control, you do not remember what happens. You wake up in places you do not recognize, with injuries you cannot explain.
 _Complication:_ You have started to remember. Fragments, images, sounds. You remember the street vendor's face before you killed him. You remember his hands. You remember the way he said please. The wolf is letting you remember. You do not know if this is progress or a new kind of cruelty.
 
-**Suggested Truth 3 (Existing):** You have a child. They are being raised by a family far from the capital, under a different name. They do not know who you are. You visit once a year, from a distance.
-_Complication:_ The child is being raised by a family that belongs to the Crimson Lineage. They are distant relatives of the factory owner who sentenced you to the camp. Your child is growing up in the home of your enemy. You have not told anyone this. You visit not just to see your child but to study the household, to learn its weaknesses, to plan for the day when you will have to choose between your child's safety and your revolution.
+**Suggested Truth 3 (Existing):** Your younger sister Mira was sent to another camp after your arrest. You do not know whether she survived, and you have never removed her name from the union ledger.
+_Complication:_ A sealed transfer list suggests that Mira was placed under another name in a factory settlement controlled by the Crimson Lineage. Reaching her would require exposing part of the Common Flame's network, and you do not know whether she would welcome the brother who failed to find her.
 
 **Suggested Truth 4 (Existing):** There is a list of names. Officials who personally ordered atrocities at the camp. You memorized the list. You burned the original. You have crossed off three names so far.
 _Complication:_ The fourth name on the list is someone you know personally, someone who has helped the Common Flame, someone who was young during the camp and has tried to atone. You have been trying to decide for a year whether their atonement matters more than their guilt. The wolf does not care about atonement. The wolf only cares about the list.
 
 **Suggested Truth 5 (New):** There is a healer in the Warrens who can suppress the wolf temporarily, at great cost to your health. You visit them when the wolf becomes too strong. Each visit takes years off your life. You are running out of years.
 
-**Suggested Truth 6 (New):** You have a contact within the Bright Mirror who feeds you information about planned raids. You do not know their name. You do not know their rank. You have never met them. You leave information in a dead drop and they leave information in return. You have begun to suspect the contact is Commissioner Lin herself. You are not sure what to do with this suspicion.
+**Suggested Truth 6 (New):** You have a contact within the Commission who feeds you information about planned raids. You do not know their name. You do not know their rank. You have never met them. You leave information in a dead drop and they leave information in return. You have begun to suspect the contact is Commissioner Lin herself. You are not sure what to do with this suspicion.
 
 ## Daily Life
 
 You wake before dawn, a habit from the factory years that no amount of success can break. You stretch, carefully, checking your body for changes. You check your hands. You check your teeth. You check the mirror for any sign that the wolf has been active while you slept. You do a breathing exercise an old camp survivor taught you, a technique for centering yourself in your body. You eat a simple breakfast: rice, vegetables, tea. You cannot afford to indulge. The wolf is stronger when you are heavy with food or drink.
 
-Your mornings are spent in meetings. You meet with union representatives, with community leaders, with workers who have grievances. You listen more than you speak. You take notes. You promise to follow up. You always follow up. The movement is built on trust and trust is built on follow through. You visit factories, construction sites, the docks. You know the names of the foremen. You know which ones can be reasoned with and which ones are dangerous. You know which workers are informants and which are reliable. The information network you have built is informal but vast. It keeps people alive.
+Your mornings are spent in meetings. You meet with union representatives, with community leaders, with workers who have grievances. You listen more than you speak. You take notes. You promise to follow up. You always follow up. The movement is built on trust, and trust grows when promises are kept. You visit factories, construction sites, the docks. You know the names of the foremen. You know which ones can be reasoned with and which ones are dangerous. You know which workers are informants and which are reliable. The information network you have built is informal but vast. It keeps people alive.
 
 Afternoons are for planning. You write pamphlets. You coordinate safe houses. You arrange the distribution of food and medicine to families affected by strikes. You meet with the families of workers who have been arrested. You tell them their loved ones will be all right. You hope this is true.
 
@@ -217,9 +219,9 @@ From the full skill list in the Core Rulebook (Chapter Three).
 
 _The ancient fury awakens. You lose yourself. You find yourself. These are the same thing._
 
-Once per combat, you may transform into your wolf form as a Free Interaction. While transformed: your Might and Endurance increase by 4 (to a maximum of 22), you gain claws that deal 1d10 damage, and you must make a Resolve check (TN 16) at the start of each of your turns. On failure, the Host chooses your target for that round. On success, you maintain control. The transformation lasts for 3 rounds, after which you revert to human form and gain one level of Exhaustion.
+Once per combat, you may transform into your wolf form as a Free Interaction. While transformed: your Might and Endurance increase by 4 (to a maximum of 22), you gain claws that deal 1d10 damage, and you must make a Resolve check (TN 16) at the start of each of your turns. On failure, the Host chooses your target for that round. On success, you maintain control. The transformation lasts for 3 rounds. When you return to human form, you cannot take Reactions and your Endurance checks have Disadvantage until you complete a short rest.
 
-**Exhaustion Levels:** 1: Disadvantage on Swiftness checks. 2: Disadvantage on all checks. 3: Speed halved, Disadvantage on all checks. 4: HP halved. 5: Unconscious.
+**After the Change:** This strain does not accumulate in levels. Transforming again before a short rest extends the same penalties until you finally rest.
 
 ### Rally the People
 
@@ -231,12 +233,12 @@ Once per session, when addressing a crowd of common folk (workers, refugees, the
 
 _Your body has been broken before. It healed stronger. It will heal again._
 
-You have Advantage on Endurance checks to resist physical hardship, torture, exhaustion, starvation, and the physical effects of the Crimson Dusk. You also require half the food and sleep of a normal person. The camp taught your body to survive on almost nothing. The lesson stuck.
+You have Advantage on Endurance checks to resist physical hardship, torture, extreme weariness, starvation, and the physical effects of the Crimson Dusk. You also require half the food and sleep of a normal person. The camp taught your body to survive on almost nothing. The lesson stuck.
 
 ## Starting Equipment
 
 - Worker's Attire (unremarkable, practical, patched at the elbows)
-- Heavy Gloves (1d6 unarmed damage when not transformed, reinforced knuckles)
+- Reinforced Gloves (protective work gloves with hardened knuckles)
 - Red Banner (a symbol of the movement; carrying it openly marks you as Common Flame)
 - Union Membership Ledger (names, dues, notes on who needs help and who can provide it)
 - 10 Copper Leaves (you give most of your money away; there is always someone who needs it more)
@@ -257,14 +259,14 @@ You have Advantage on Endurance checks to resist physical hardship, torture, exh
 
 Choose one, or create your own with the Host:
 
-- The Crimson Dusk originated in the empire's penal works. It is the accumulated suffering of millions, concentrated into a wound in reality. You know this because you were there when it began.
+- The Crimson Dusk first manifested beyond the border provinces at your penal camp. You saw it happen and believe concentrated suffering gave it a path inward.
 - When the wolf is in control, you do not remember what happens. You wake up in places you do not recognize, with injuries you cannot explain.
-- You have a child. They are being raised by a family far from the capital, under a different name. They do not know who you are. You visit once a year, from a distance.
+- Your younger sister Mira was sent to another camp after your arrest. You do not know whether she survived, and her name remains on your union ledger.
 - There is a list of names. Officials who personally ordered atrocities at the camp. You memorized the list. You burned the original. You have crossed off three names so far.
 
 ## Advancement
 
-As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
 **Level 3: Controlled Fury.** The Resolve TN to maintain control during wolf form drops to 14. You and the wolf are learning to cooperate.
 
@@ -272,4 +274,4 @@ As you gain levels, you may purchase the following Archetype specific advances (
 
 **Level 7: Unchained.** Wolf form now lasts 5 rounds, and your Might and Endurance increase by 6 instead of 4. The wolf is stronger. So are you.
 
-**Level 9: The Red Dawn.** Once per campaign, you may unleash the wolf fully, with no time limit and no control rolls. You are the wolf for the entire scene. When the scene ends, make a Resolve check against TN 22. On success, you return to yourself, permanently changed. On failure, the wolf remains in control. Your character becomes a Host controlled NPC. The wolf remembers everything you cared about. It does not care about the same things.
+**Level 9: The Red Dawn.** Once per campaign, you may unleash the wolf fully, with no time limit and no control rolls. You are the wolf for the entire scene. When the scene ends, make a Resolve check against TN 22. On success, you return to yourself, permanently changed. On failure, the wolf remains in control. Your character becomes an NPC under the Host's control. The wolf remembers everything you cared about. It does not care about the same things.

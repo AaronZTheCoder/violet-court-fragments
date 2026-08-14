@@ -2,7 +2,7 @@
 
 ## Starter Adventure: Full Cinematic Story
 
-# THE FIRST HARMONIZATION
+# The First Harmonization
 
 ## A Playable Tragedy in Seven Bells
 
@@ -536,7 +536,7 @@ Read enough for normality to become obscene.
 
 Clipped beneath the briefing is a smaller note.
 
-The handwriting is feminine, precise, and strained by a tremor that appears only on certain words.
+The handwriting is precise and practiced, with a tremor that appears only on certain words.
 
 Hand a folded sheet to the nearest player if possible.
 
@@ -584,9 +584,9 @@ It is about the shape of trust before the story tests it.
 >
 > The warning came from the Shadow.
 >
-> She has sent similar notes for decades.
+> He has sent similar notes for many years.
 >
-> She chose the characters because their newness makes them difficult to predict and because at least one of them has already shown an unwillingness to look away.
+> He chose the characters because their newness makes them difficult to predict and because at least one of them has already shown an unwillingness to look away.
 
 ## Scene 7.4: Reading the Paper
 
@@ -596,9 +596,9 @@ Allow the following approaches.
 
 > [!CHECK]
 >
-> Intellect plus Alchemy, target 14.
+> Intellect plus Craft, target 14.
 >
-> Success identifies crushed iron oxide found in high quality official ink.
+> Success identifies crushed iron oxide found in official ink of exceptional quality.
 >
 > Exceptional success reveals a trace of sandalwood oil used in riverside offices.
 >
@@ -610,7 +610,7 @@ Allow the following approaches.
 >
 > Intellect plus Investigation, target 16.
 >
-> Success identifies an educated career bureaucrat with decades of practice.
+> Success identifies an educated hand with decades of practice in official forms, or in imitating them precisely.
 >
 > The tremor appears around the words Commission, names, and never.
 >
@@ -632,7 +632,7 @@ Allow the following approaches.
 
 > [!CHECK]
 >
-> Presence plus Intrigue, target 14.
+> Presence plus Connections, target 14.
 >
 > Success recognizes a six link delivery chain and a professional dead drop method.
 >
@@ -676,7 +676,7 @@ If the characters search Ren's quarters later, read:
 >
 > The official shoes remain beneath the bed.
 >
-> A chipped bowl sits beside a jar containing three copper petals.
+> A chipped bowl sits beside a jar containing three Copper Leaves.
 >
 > There are no clothes.
 >
@@ -804,7 +804,7 @@ If shown the warning note, Xun studies it without touching it.
 >
 > "People call the writer the Shadow."
 >
-> "Knowing her name is a debt I am too old to afford."
+> "Knowing his name is a debt I am too old to afford."
 
 If asked how to survive:
 
@@ -1016,7 +1016,7 @@ Wei bows exactly as much as rank requires.
 >
 > "I apologize for arriving without notice."
 >
-> "The matter is time sensitive."
+> "The matter is urgent."
 
 He waits for acknowledgment.
 
@@ -1160,7 +1160,7 @@ The mechanical terms are clear.
 
 1. Signing all five names raises Golden Orthodoxy Faction Standing by 10 and increases Ritual Harmony by 5.
 
-2. Signing fewer names requires Presence plus Intrigue, target 14, to prevent immediate loss of Golden Orthodoxy Faction Standing.
+2. Signing fewer names requires Presence plus Connections, target 14, to prevent immediate loss of Golden Orthodoxy Faction Standing.
 
 3. Refusing privately lowers Golden Orthodoxy Faction Standing by 10.
 
@@ -1168,7 +1168,7 @@ The mechanical terms are clear.
 
 5. Exposing the document before the Harmonization Audit may protect the named officials, but it immediately raises Risk by two levels unless a powerful patron claims responsibility.
 
-6. Altering the language requires Intellect plus Forgery, target 16.
+6. Altering the language requires Intellect plus Craft, target 16.
 
 7. Counterbinding the signature against its ritual obligation requires Intellect plus Qi Theory, target 16.
 
@@ -1522,11 +1522,11 @@ If the players ask whether the room is safe:
 
 If asked about the Shadow:
 
-> "I do not know her true name."
+> "I do not know his true name."
 >
-> "I know she warned you."
+> "I know he warned you."
 >
-> "She does not spend warnings on people who cannot change an outcome."
+> "He does not spend warnings on people who cannot change an outcome."
 
 If accused of using them:
 
@@ -1886,7 +1886,7 @@ He offers three truths.
 
 1. The Golden Orthodoxy diverted reconstruction money into Crimson Lineage accounts.
 
-2. The Crimson Lineage used those accounts to conceal purchases of high grade refined Qi.
+2. The Crimson Lineage used those accounts to conceal purchases of refined Qi of exceptional purity.
 
 3. The transfers accelerate before Harmonization Audits.
 
@@ -1932,7 +1932,7 @@ Lin knows boatmen who move grain east before dawn.
 
 The route avoids the gate but requires reaching the jetty through streets patrolled after curfew.
 
-The boatmen demand thirty silver or a future Verdant Path favor.
+The boatmen demand three Gold Blooms or a future Verdant Path favor.
 
 ### The Temple Procession
 
@@ -2030,7 +2030,7 @@ On failure, a player can intervene with Presence plus Persuasion, target 14, or 
 
 > [!CHECK]
 >
-> Intellect plus Forgery, target 16.
+> Intellect plus Craft, target 16.
 >
 > Success passes immediate inspection.
 >
@@ -2040,7 +2040,7 @@ On failure, a player can intervene with Presence plus Persuasion, target 14, or 
 
 If suspicion rises, the document holder may use Presence plus Intimidation, target 16, to claim urgent authority.
 
-They may also offer twenty silver through Presence plus Persuasion, target 14.
+They may also offer two Gold Blooms through Presence plus Persuasion, target 14.
 
 The smoking guard accepts.
 
@@ -2124,7 +2124,7 @@ If the characters choose the river, use darkness, sound, and uncertainty.
 >
 > Its captain has one blind eye and no interest in heroism.
 >
-> "Thirty silver," she says.
+> "Three Gold Blooms," she says.
 >
 > "Or one favor from the Verdant Path."
 >
@@ -2472,7 +2472,7 @@ Five manifests from different provinces carry the same transporter signature.
 
 > [!CHECK]
 >
-> Intellect plus Investigation, Forgery, or an appropriate craft, target 14.
+> Intellect plus Investigation or Craft, target 14.
 >
 > Success proves the signatures were made by one hand in one sitting.
 >
@@ -2528,7 +2528,7 @@ The air tastes of ozone and burnt metal.
 
 Sensitive characters feel pressure in their teeth.
 
-The residue is high grade refined Qi used for ritual work rather than common industry.
+The residue is refined Qi of exceptional purity, used for ritual work rather than common industry.
 
 That distinction matters.
 
@@ -2820,9 +2820,9 @@ Crates provide partial cover.
 
 The reserve door is locked from outside.
 
-Forcing it requires Strength, target 16.
+Forcing it requires Might, target 16.
 
-Opening the lock requires Swiftness plus Lockpicking, target 16.
+Opening the lock requires Swiftness plus Larceny, target 16.
 
 ### If the Characters Talk
 
@@ -2830,7 +2830,7 @@ Presence plus Intimidation, target 16, can convince one blade that the contract 
 
 Presence plus Deception, target 17, can make them believe Commission reinforcements are approaching.
 
-Payment of forty silver makes the least loyal attacker leave and identifies the others' employer as a grey robed official using a Crimson Lineage seal.
+Payment of four Gold Blooms persuades the least loyal attacker to leave and reveal that the others were hired by an official in grey robes using a Crimson Lineage seal.
 
 ### If the Characters Flee
 
@@ -2898,7 +2898,7 @@ Encourage ingenuity while preserving consequence.
 
 ### Copy the Evidence
 
-Creating two convincing copies requires Intellect plus Forgery, target 15.
+Creating two convincing copies requires Intellect plus Craft, target 15.
 
 On success, only close examination reveals the original.
 
@@ -2922,7 +2922,7 @@ The Commission cannot quietly bury the matter without creating an internal recor
 
 Golden Orthodoxy Faction Standing falls by 10 if the source becomes known.
 
-Commission for Celestial Purity Faction Standing rises by 10.
+Bright Mirror Faction Standing rises by 10.
 
 ### Blackmail Wei
 
@@ -3190,7 +3190,7 @@ Do not rush the dates.
 >
 > _Subject was found to have engaged in heterodox associations._
 >
-> _Subject Disappeared on the twenty second day of the sixth month._
+> _Subject Disappeared on day twenty two of the sixth month._
 >
 > _The position has been filled four times since._
 >
@@ -3216,7 +3216,7 @@ That object now carries memory.
 
 > [!HOST]
 >
-> Yun Shu discovered the same pattern thirty years ago.
+> Yun Shu discovered the same pattern fifteen years ago.
 >
 > The Court did not merely punish a person.
 >
@@ -3294,7 +3294,7 @@ Read it in full.
 
 The note proves four things.
 
-1. The Shadow has operated inside the Court for at least thirty years.
+1. The Shadow has operated inside the Court for at least fifteen years.
 
 2. Yun Shu found the same financial pattern as Tao and Zhang.
 
@@ -3304,11 +3304,11 @@ The note proves four things.
 
 It also creates a larger question.
 
-Why did the Shadow place the file where the characters could find it if she truly wanted them to stop?
+Why did the Shadow place the file where the characters could find it if he truly wanted them to stop?
 
-The answer is that she no longer believes stopping will save them.
+The answer is that he no longer believes stopping will save them.
 
-She is choosing successors.
+He is choosing successors.
 
 ## Scene 3.6: The Watcher Between Shelves
 
@@ -3322,7 +3322,7 @@ The players may pursue.
 >
 > Swiftness plus Stealth, target 15.
 >
-> Success corners a grey robed watcher near the roof stair.
+> Success corners a watcher in grey robes near the roof stair.
 >
 > Exceptional success reaches the stair first and sees the watcher remove a silver mask.
 >
@@ -3396,7 +3396,7 @@ Give the players space to discuss what they learned.
 
 Then ask:
 
-> **If the Shadow has failed for thirty years, what would make your attempt different?**
+> **If the Shadow has failed for fifteen years, what would make your attempt different?**
 
 Do not correct pessimism.
 
@@ -3542,7 +3542,7 @@ If a character studies the red fluid or Dusk resonance:
 
 > [!CHECK]
 >
-> Intellect plus Alchemy or Qi Theory, target 18.
+> Intellect plus Craft or Qi Theory, target 18.
 >
 > Success establishes that the residue around Ash matches the corrupted frequency in the reserve's locked room.
 >
@@ -3832,7 +3832,7 @@ Place each clue physically or name it one at a time.
 >
 > Yun Shu's personnel file.
 >
-> The Shadow's thirty year old apology.
+> The Shadow's apology from fifteen years ago.
 >
 > Ash's red thumbprint.
 >
@@ -3844,7 +3844,7 @@ Place each clue physically or name it one at a time.
 
 State the sentence:
 
-> **The Commission receives hidden high grade Qi before Harmonization Audits, while officials who discover the transfers are selected for narrative erasure.**
+> **The Commission secretly receives refined Qi of exceptional purity before Harmonization Audits, while officials who discover the transfers are selected for narrative erasure.**
 
 This is what the characters can prove.
 
@@ -3886,9 +3886,9 @@ The Crimson Lineage targets Zhang and one player.
 
 A secure transfer requires ten Celestial Favor, a Commission contact, or use of the Shadow's network.
 
-Commission for Celestial Purity Faction Standing rises by 10.
+Bright Mirror Faction Standing rises by 10.
 
-Meng may receive a partial copy before the interrogation.
+Meng may receive a partial copy before the interrogation only if the characters have already given the Bright Mirror evidence or choose this option now.
 
 ### Give It to the Shadow
 
@@ -3924,7 +3924,7 @@ Ash's red thumbprint remains visible in the ash.
 
 The original proof is lost.
 
-Hui's copy and Zhang's analysis can still support accusation, but neither is enough alone.
+Hui's copied request page and any analysis Zhang already completed can still support an accusation, but neither is enough alone.
 
 ## Scene 3.19: The City Answers
 
@@ -4038,11 +4038,11 @@ Ask who folds it.
 
 Ask who destroys it.
 
-The Commission already holds a copy.
+The Commission already holds its own copy of the summons.
 
 ## Scene 2.3: The Final Day Clock
 
-The day proceeds through six movements.
+The day proceeds through seven movements.
 
 Announce each hour.
 
@@ -4176,15 +4176,15 @@ The petal carries a tracking resonance tied to the Feng estate.
 
 > [!CHECK]
 >
-> Intellect plus Alchemy, Survival, or Qi Theory, target 14.
+> Intellect plus Craft, Survival, or Qi Theory, target 14.
 >
 > Success identifies preservation resin from western desert blooms.
 >
-> Exceptional success follows the magical trace to the Feng family greenhouse.
+> Exceptional success follows the technique's trace to the Feng family greenhouse.
 >
 > Failure leaves the tracking mark active.
 
-The players may report the intrusion, counter threaten the family, ask the Shadow for protection, or accept the message.
+The players may report the intrusion, threaten the family in return, ask the Shadow for protection, or accept the message.
 
 Reporting gains 5 Ritual Harmony but invites a Commission search.
 
@@ -4224,7 +4224,7 @@ Success reduces one player's Risk by one level or opens one restricted door.
 
 Failure raises Risk by two levels.
 
-If repaired by Intellect plus Alchemy, target 12, the cracked suspension ring will not break.
+If repaired by Intellect plus Craft, target 12, the cracked suspension ring will not break.
 
 If used during an escape, it provides one round of hesitation from Commission enforcers.
 
@@ -4244,13 +4244,13 @@ If Lin was also captured, the note arrives in another hand with one line crossed
 >
 > _He reached the eastern road._
 >
-> _The Bright Mirror has received a copy of the evidence._
+> _Tao sent word to a Bright Mirror contact, but no documents._
 >
-> _She has not acted._
+> _What happens to the evidence is still your choice._
 >
-> _She is watching._
+> _The Bright Mirror is watching, but he has not acted._
 >
-> _If the Harmonization Audit turns against you, speak her name._
+> _If the Harmonization Audit turns against you, speak his name._
 >
 > _Truth creates debts even among people who pretend to owe nothing._
 >
@@ -4272,7 +4272,7 @@ If Lin was also captured, the note arrives in another hand with one line crossed
 >
 > _I know there are lower cells._
 >
-> _I know the procurement office receives high grade Qi._
+> _I know the procurement office receives Qi of exceptional purity._
 >
 > _If you survive tomorrow, help me find the door._
 >
@@ -4292,7 +4292,7 @@ The handwriting belongs to the Shadow.
 
 ## Scene 2.8: Zhang's Authentication
 
-If Zhang holds evidence or trusts the characters, he arrives in person.
+If the characters gave Zhang evidence or asked him to authenticate a copy, he arrives in person.
 
 This is the only time he enters their office.
 
@@ -4688,7 +4688,7 @@ When killed, they collapse into black smoke and leave collars marked with the Fe
 
 ### Golden Orthodoxy Attack
 
-Two Commission assassins enter in messenger uniforms.
+Two assassins disguised as Commission messengers enter in stolen or forged uniforms.
 
 Each has Combat 14, Defense 12, Resilience 6, and 2 Wounds.
 
@@ -4702,7 +4702,7 @@ They target the character who refused Wei and protected Tao.
 
 One carries orders bearing a Crimson Lineage seal.
 
-The combination proves cooperation between factions without showing who commanded whom.
+The combination suggests a link between the Golden Orthodoxy and the Crimson Lineage without proving who hired the killers or whether the Commission was involved.
 
 ## Scene 2.17: The Quarters as Battlefield
 
@@ -4796,7 +4796,7 @@ Ask who finishes the cold tea.
 
 Ask whether anyone apologizes.
 
-## Scene 2.20: Meng at Thirty Nine
+## Scene 2.20: Meng at Ritual Harmony 39
 
 > [!CUTAWAY]
 >
@@ -4900,7 +4900,7 @@ Do not let its vibration fade before beginning the next scene.
 >
 > The market awnings do not move.
 >
-> Grey clad agents wait outside your door.
+> Agents dressed in grey wait outside your door.
 >
 > They do not bind your hands.
 >
@@ -5228,7 +5228,7 @@ If the player owns the fear:
 
 > "Fear recognized is not innocence."
 >
-> "It is merely accurate self assessment."
+> "It is merely an accurate assessment of myself."
 
 If the player transforms the answer:
 
@@ -5380,7 +5380,7 @@ Meng asks:
 
 Meng places one of several objects before the player.
 
-If the original was found, she may present a copy.
+If the characters' custody choice allowed the Commission to receive or create a copy, she may present it.
 
 If it was hidden, she presents Hui's request page.
 
@@ -5404,7 +5404,7 @@ Meng's posture changes.
 
 > "The High Justicar is not a shield you may invoke casually."
 >
-> "What debt do you claim she owes?"
+> "What debt do you claim he owes?"
 
 If they name the Shadow:
 
@@ -5450,7 +5450,7 @@ Then test the weakest link.
 >
 > Intellect plus Investigation or Presence plus Persuasion, target 16.
 >
-> Success authenticates enough of the chain to force a one hour recess.
+> Success authenticates enough of the chain to force a recess of one hour.
 >
 > Exceptional success reduces the player's Risk by one level and another player's Risk by one level.
 >
@@ -6124,9 +6124,9 @@ Unbarred from inside.
 
 Locked from outside.
 
-Swiftness plus Lockpicking, target 16, opens it.
+Swiftness plus Larceny, target 16, opens it.
 
-Strength, target 16, forces it.
+Might, target 16, forces it.
 
 The Shadow's pendant creates one hesitation.
 
@@ -6490,7 +6490,7 @@ Workers begin cutting the dead tree.
 >
 > Names cover the inner wings.
 
-The birds were placed across thirty years by Yun Shu, the Shadow, Xun, frightened clerks, and people who refused to let a record become the only memory.
+The birds were placed across thirty years by Xun, Yun Shu, the Shadow, frightened clerks, and people who refused to let a record become the only memory.
 
 If the players buried evidence beneath the tree, it is found among the roots by someone they trust.
 
@@ -6652,7 +6652,7 @@ It could also reveal every hidden identity the Court has protected.
 
 The Harmonization Audit is partly political theater and partly a concealed harvest.
 
-Before major Audits, high grade Qi is routed beneath the Commission.
+Before major Audits, Qi of exceptional purity is routed beneath the Commission.
 
 The Qi powers a process that extracts memory, spiritual resonance, and identity from selected people.
 
@@ -6712,7 +6712,7 @@ Each essential conclusion has at least three routes.
 
 1. Yun Shu's personnel file.
 
-2. The Shadow's thirty year old note.
+2. The Shadow's note from fifteen years ago.
 
 3. Annual wear on the hidden volume.
 
@@ -6774,7 +6774,7 @@ Apply these shifts when the action is substantial and witnessed.
 
 9. Surrender Ash: Verdant Path minus 5 and Ritual Harmony plus 5.
 
-10. Deliver evidence to the Bright Mirror: Commission for Celestial Purity plus 10.
+10. Deliver evidence to the Bright Mirror: Bright Mirror plus 10.
 
 11. Threaten the Feng family successfully: Crimson Lineage minus 10, with private respect.
 
@@ -7026,7 +7026,7 @@ Ask:
 
 ### Celestial Book
 
-Archive wards, dampening fields, memory rituals, and the underground pulse reveal the hidden magical structure of narrative erasure.
+Archive wards, dampening fields, memory rituals, and the underground pulse reveal the hidden ritual structure of narrative erasure.
 
 Ask:
 

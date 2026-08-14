@@ -8,19 +8,21 @@
 
 ### Court Role: State Planning Commission
 
+### Default Gender: Male
+
 ## Description
 
-You are an artificer: an engineer of both machines and systems. The State Planning Commission controls the empire's resources: Qi, grain, labor, steel. You understand that governance is not about ideology. It is about throughput. You wear brass goggles and carry a clockwork abacus that computes probabilities faster than any oracle. You have increased imperial productivity by several hundred percent. You have also decreased worker life expectancy. This is, to you, an acceptable ratio. You are not cruel. Cruelty is inefficient.
+You are an artificer: an engineer of both machines and systems. The State Planning Commission controls the empire's resources: Qi, grain, labor, steel. You understand that governance is not about ideology. It is about throughput. You wear brass goggles and carry a clockwork abacus that computes probabilities faster than any oracle. You have tripled imperial productivity. You have also shortened worker life expectancy by fifteen years. This is, to you, an acceptable ratio. You are not cruel. Cruelty is inefficient.
 
 ## Expanded Backstory
 
-**The question they asked you at fourteen.** The Iron Calculation tested you for three days. At the end they asked how you felt about the workers whose jobs your machines would eliminate.
+**The question they asked you at fourteen.** The State Planning Commission tested you for three days. At the end they asked how you felt about the workers whose jobs your machines would eliminate.
 
 You asked what the throughput improvement was.
 
 They admitted you that afternoon. You have since sat on the other side of that examination nine times and you ask the same question, and you have admitted four candidates, and you are aware of exactly what you are selecting for.
 
-**Your father, and the number.** He worked the number two crucible at the Central Smelting Authority for thirty seven years and died when you were twelve with his lungs full of particulate. The Commission sent a form letter. You still have it. It has a printing error in the third line.
+**Your father, and the number.** He worked the number two crucible at the Central Smelting Authority for thirty seven years and died when you were twelve with his lungs full of particulate. The State Planning Commission sent a form letter. You still have it. It has a printing error in the third line.
 
 Here is what you did about it, and it is the key to you.
 
@@ -34,11 +36,11 @@ You feel things at ordinary intensity. What you do not do is allow feeling to en
 
 You would rather be the man who does the arithmetic. You are aware this makes you unpleasant. You have made peace with it more thoroughly than most people make peace with anything.
 
-**The Iron Rebellion, and the answer you gave.** Twenty two years ago the foundry workers rose. You were thirty and had just been given your first real authority.
+**The Iron Rebellion, and the answer you gave.** Twenty two years ago, in Year 430, the foundry workers rose. You were thirty and had just been given your first real authority.
 
 The Garrison asked you for an assessment of which facilities could be shut down to break the strike with the least production loss. You provided it. It was accurate. Three of the four facilities you named were shut, the strike broke in nineteen days instead of an estimated four months, and the suppression that followed killed perhaps two hundred people.
 
-Your assessment did not kill them. A four month strike would have caused a grain distribution failure in two prefectures and the modeling on that is not ambiguous: somewhere between eleven and forty thousand dead, most of them children, most of them nowhere near a foundry.
+Your assessment did not kill them. A strike lasting four months would have caused a grain distribution failure in two prefectures and the modeling on that is not ambiguous: somewhere between eleven and forty thousand dead, most of them children, most of them nowhere near a foundry.
 
 You have shown this modeling to exactly two people. Both accepted it. Both stopped seeking your company.
 
@@ -142,7 +144,7 @@ You spend 3 Qi and the abacus glows. "Archer to the ridge on the left. Swordsman
 
 ### Infrastructure Access
 
-The door to the Qi distribution hub is sealed with a lock that would take hours to pick. You do not pick it. You press your Commission Seal to the reader. The mechanism hesitates. You are not authorized for this sector. But you know the authorization protocols because you helped design them. You lean close to the reader and speak the override code in a calm, flat voice. The lock clicks open.
+The door to the Qi distribution hub is sealed with a lock that would take hours to pick. You do not pick it. You press your State Planning Commission Seal to the reader. The mechanism hesitates. You are not authorized for this sector. But you know the authorization protocols because you helped design them. You lean close to the reader and speak the override code in a calm, flat voice. The lock clicks open.
 
 Inside, you find the records you need. A ledger showing Qi transfers that do not match any known distribution route. A manifest signed by a name that does not appear in the personnel database. You photograph each page with the crystal in your goggles. You are not supposed to be here. The system knows you are here. Someone will be watching. That is acceptable. You have what you came for. Before leaving, you check the hub's Qi condenser for efficiency. It is running at 78 percent. You adjust a valve and bring it to 94 percent on your way out. You cannot help yourself.
 
@@ -251,7 +253,7 @@ Your Commission credentials grant you access to areas most officials cannot ente
 - Tool Kit (wrenches, calipers, wire, small gears, basic components for constructs)
 - Qi Measurement Device (detects Qi levels in a Zone; 3 uses per day)
 - Staff (1d6, Versatile 1d8, Qi Focus)
-- Commission Seal (authorizes access to imperial infrastructure)
+- State Planning Commission Seal (authorizes access to imperial infrastructure)
 - 30 Copper Leaves
 
 ## Starting Faction Standing

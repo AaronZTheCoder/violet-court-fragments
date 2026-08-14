@@ -8,6 +8,8 @@
 
 ### Court Role: Bureau of Harmonious Narrative
 
+### Default Gender: Male
+
 ---
 
 ## Description
@@ -94,7 +96,7 @@ When you invoke orthodox doctrine to support your position during a social encou
 - Official's Attire (robe of gold and alabaster, marked with Bureau insignia)
 - Writing Kit (brushes, ink, official seals, blank scrolls)
 - Alchemical Kit (portable distillation apparatus, 3 empty vials, basic reagents)
-- 1 dose of Clarity Elixir (pre prepared)
+- 1 dose of Clarity Elixir (prepared in advance)
 - Dagger (1d6, Concealable)
 - 20 Copper Leaves
 - Bureau identification seal (forgery is a capital offense)
@@ -107,7 +109,7 @@ When you invoke orthodox doctrine to support your position during a social encou
 | ---------------- | ---------------- | ------------------------------------------------------------ |
 | Golden Orthodoxy | +20              | You are one of theirs. For now.                              |
 | Verdant Path     | -10              | Reformers distrust narrative shapers.                        |
-| Iron Calculation | +5               | They appreciate competent record keeping.                    |
+| Iron Calculation | +5               | They value accurate and orderly records.                     |
 | Crimson Lineage  | +10              | Old families respect institutional knowledge.                |
 | Common Flame     | -15              | They see you as a propagandist. They are not entirely wrong. |
 | Bright Mirror    | +5               | The Commission respects those who work with documents.       |
@@ -118,7 +120,7 @@ When you invoke orthodox doctrine to support your position during a social encou
 
 **The family.** You were born in the Archive Quarter to two civil servants who did not like each other very much.
 
-Your father catalogued petitions that would never be read. He was a gentle, unambitious man who was good at his work and content with it, and your mother could not forgive him for that. She transcribed death records, wrote the final epitaphs of the Disappeared in a hand so fine that senior officials requested her by name, and she understood exactly how far that talent could have taken a man. She was not bitter about her own ceiling. She was bitter about his floor.
+Your father cataloged petitions that would never be read. He was a gentle, unambitious man who was good at his work and content with it, and your mother could not forgive him for that. She transcribed death records, wrote the final epitaphs of the Disappeared in a hand so fine that senior officials requested her by name, and she understood exactly how far that talent could have taken a man. She was not bitter about her own ceiling. She was bitter about his floor.
 
 You learned to read at four because she taught you early and hard. You understood by six that you were the instrument of a plan, and that the plan was aimed at your father as much as at the world. You have never entirely stopped resenting her for this, and you have also built an entire career on the foundation she laid, and both of those are true every day of your life.
 
@@ -128,7 +130,7 @@ You told your father that night. Understand why: not moral alarm, not fear. You 
 
 He went white and told you never to speak of it. And what you learned was not that words make truth. What you learned was that certain knowledge makes adults afraid of you, and that being feared a little is not entirely unpleasant.
 
-You would describe that discovery today as the moment you understood the world was made of words. That description is retrospective, self flattering, and about forty percent true, and you have told it enough times that you no longer have access to the original memory.
+You would describe that discovery today as the moment you understood the world was made of words. That description was composed after the fact, flatters you considerably, and is about forty percent true. You have told it enough times that you can no longer reach the original memory.
 
 **The apprenticeship, and the fact that you loved it.** The Bureau took you at twelve. You were thrilled. This is the part that later becomes difficult to explain to people who did not live it.
 
@@ -160,11 +162,11 @@ You made money. You still make money. You own a set of four inkstones that cost 
 
 You were happy. That is the thing that makes the rest of it a tragedy rather than a misfortune. Nobody trapped you. You were having a wonderful time.
 
-**Zhao Wen.** You married another official at twenty six. He was a hydraulic engineer from the Iron Calculation, competent and uncomplicated and kind, and he made you laugh, and for four years you were genuinely happy in a way you have never adequately explained to yourself.
+**Zhao Wen.** You married another official at twenty six. She was a hydraulic engineer from the Iron Calculation, competent and uncomplicated and kind, and she made you laugh, and for four years you were genuinely happy in a way you have never adequately explained to yourself.
 
-It ended over something ordinary. He was offered a canal posting in the south and wanted to take it, and wanted you to come, and you did not want to go. Not because of your work, though that is what you said. Because the capital is the only place where being extremely good at what you do means anything, and a woman who is the fourth best narrative shaper in the empire is nobody at all in a river prefecture.
+It ended over something ordinary. She was offered a canal posting in the south and wanted to take it, and wanted you to come, and you did not want to go. Not because of your work, though that is what you said. Because the capital is the only place where being extremely good at what you do means anything, and a man who is the fourth best narrative shaper in the empire is nobody at all in a river prefecture.
 
-He went. He writes twice a year. He remarried and has two children and his letters are warm and contain no reproach of any kind, which you find much harder to bear than reproach would be.
+She went south with your two children. She writes twice a year, and her letters are warm and contain no reproach of any kind, which you find much harder to bear than reproach would be. Quiet Pearl, your elder child, later returned to the capital and now works as a junior researcher in the Bureau of Celestial Inquiry. You see her often enough to know that she has begun to suspect you are not the man you appear to be.
 
 You have told colleagues that the marriage failed because of the work. That is a better story and it is not true.
 
@@ -230,19 +232,19 @@ You are aware of this. Awareness has turned out to be nothing like a solution, w
 You once prepared a batch of Clarity Elixir for the Duke at the request of the Crimson Lineage. It was a trivial favor, the kind of small debt that accumulates between schools. He received you in his private study, a room that smelled of old roses and older blood. He asked you how the Bureau was treating you. He asked it in a tone that suggested he already knew the answer. You have never been able to forget the way he looked at you: like you were a book he had already finished reading. You are terrified of him. You are also fascinated. When he speaks, you find yourself wanting to impress him, even though you know that his attention is the most dangerous thing you could attract. You suspect he knows about your private journal. You cannot prove it. But he mentioned, once, that he has always admired people who keep their own records.
 
 **The Night Warbler (Assassin of the Bureau of Internal Harmony):**
-You have crossed paths with the Night Warbler three times. The first was in a hallway where neither of you was supposed to be. The second was in a dead drop location you had both been sent to use. The third was during a Bureau function where they were posing as a junior clerk. You recognized them each time. They recognized you. There is a silent understanding between you: you work for different branches of the same system, and the system does not care which of you dies first. You do not trust them. They do not trust you. But you share the knowledge of how the Court really operates, and that knowledge creates a bond that is almost friendship. You have never spoken more than ten words to each other. You have never needed to.
+You have crossed paths with the Night Warbler three times. The first was in a hallway where neither of you was supposed to be. The second was in a dead drop location you had both been sent to use. The third was during a Bureau function where he was posing as a junior clerk. You recognized him each time. He recognized you. There is a silent understanding between you: you work for different branches of the same system, and the system does not care which of you dies first. You do not trust him. He does not trust you. But you share the knowledge of how the Court really operates, and that knowledge creates a bond that is almost friendship. You have never spoken more than ten words to each other. You have never needed to.
 
 **The Guest Among Forests (Verdant Path Representative):**
-You admire the elf deeply and have never told them. During a diplomatic incident three years ago, the Bureau attempted to alter the record of a treaty negotiation to favor the Golden Orthodoxy. The Guest Among Forests noticed the discrepancy within hours. They did not accuse the Bureau. They simply provided their own account, written in perfect calligraphy, and let the two versions sit side by side. The Council was forced to investigate. The truth emerged. You were the one who wrote the Bureau's false version. The elf's quiet correction of your work was the most elegant professional defeat you have ever experienced. You want to apologize, but you cannot explain why you wrote the false version without implicating yourself. So you say nothing. You suspect the elf knows anyway.
+You admire the elf deeply and have never told her. During a diplomatic incident three years ago, the Bureau attempted to alter the record of a treaty negotiation to favor the Golden Orthodoxy. The Guest Among Forests noticed the discrepancy within hours. She did not accuse the Bureau. She simply provided her own account, written in perfect calligraphy, and let the two versions sit side by side. The Council was forced to investigate. The truth emerged. You were the one who wrote the Bureau's false version. The elf's quiet correction of your work was the most elegant professional defeat you have ever experienced. You want to apologize, but you cannot explain why you wrote the false version without implicating yourself. So you say nothing. You suspect the elf knows anyway.
 
 **The Iron Calculation Artificer:**
-You worked together on a joint project six months ago: a census of Qi distribution across the capital's industrial districts. You were there to ensure the numbers told an acceptable story. The Artificer was there to ensure the numbers were accurate. You clashed constantly. They accused you of fudging data to make the Golden Orthodoxy's policies look more effective. You accused them of having no imagination. But by the end of the project, you had developed a grudging respect. The Artificer is the most honest person you have ever worked with. Their honesty is terrifying. It is also refreshing. You have started meeting for tea once a month. Neither of your schools knows. You talk about nothing important. You think they are the closest thing you have to a friend outside the Bureau.
+You worked together on a joint project six months ago: a census of Qi distribution across the capital's industrial districts. You were there to ensure the numbers told an acceptable story. The Artificer was there to ensure the numbers were accurate. You clashed constantly. He accused you of fudging data to make the Golden Orthodoxy's policies look more effective. You accused him of having no imagination. But by the end of the project, you had developed a grudging respect. The Artificer is the most honest person you have ever worked with. His honesty is terrifying. It is also refreshing. You have started meeting for tea once a month. Neither of your schools knows. You talk about nothing important. You think he is the closest thing you have to a friend outside the Bureau.
 
 **The Bright Mirror Justicar:**
-You have been interviewed by the Justicar twice. Both times were related to document authentication cases. The Justicar is the only person who makes you feel like your skills are useless. You can lie to anyone. You cannot lie to them. They do not have to do anything. They simply stand there, radiating judgment, and the truth falls out of you like water from a broken cup. You fear them more than you fear the Duke of Eternal Night, because the Duke's attention is a choice and the Justicar's attention is a force of nature. You have started preparing notes before every interaction with them, writing down exactly what you can and cannot say, memorizing your cover stories. You still stumble. They still notice. You do not know if they have reported you. You suspect they are waiting for you to cross a line they have not told you about.
+You have been interviewed by the Justicar twice. Both interviews concerned document authentication. He is the only person who makes your usual methods feel useless. You can deceive almost anyone, but with him every omission becomes a question and every polished answer invites a request for its source. He does not need to threaten you. He simply stands there, radiating judgment, while your prepared story comes apart under patient verification. You fear him more than you fear the Duke of Eternal Night, because the Duke's attention is a choice and the Justicar's attention feels like a force of nature. Before every meeting, you write down what you know, what you infer, and what you cannot safely disclose. You still stumble. He still notices. You do not know whether he has reported you. You suspect he is waiting to see what the evidence proves.
 
 **Your Former Master, Prefect Yan:**
-Prefect Yan is still alive, still working in the Bureau's west wing, still scarred by acid and still smiling with her eyes. You see her once a week in the course of your duties. She speaks to you exactly as she did when you were her apprentice: with calm, professional warmth that contains no affection. You have never confronted her about the death certificate. You do not know if she remembers the specific one. You have often wondered if she was testing you that day, if she was waiting to see if you would refuse. You did not refuse. You have never forgiven yourself. You have also never stopped wanting her approval.
+Prefect Yan is still alive in internal exile in the far north. Your last clear memory of her is of hands scarred by acid and a smile that never reached her eyes. You have not seen her in six years. A terse quarterly notice from the Bureau confirms only that she remains alive. She has never written to you, and you have never written to her. You still wonder whether she was testing you when she gave you that death certificate and whether she was waiting for you to refuse. You did not refuse. You have never forgiven yourself. You have also never stopped wanting her approval.
 
 ---
 
@@ -311,7 +313,7 @@ Your workday is divided into three parts. Mornings are for correspondence: readi
 
 You leave the Bureau at sunset. You do not stay late. Staying late suggests you care too much. The Bureau does not trust people who care too much. You walk home the same route in reverse. You eat dinner alone. You write in your private journal. You read by candlelight until your eyes tire. You sleep. You dream of paper. You dream of ink. You dream of all the names you have written and all the names you have erased.
 
-The task you dread most: the quarterly audit of death records. Every three months, you must cross-reference the Bureau's Harmonization Audit list with the actual census data. The numbers never match. You are the one who makes them match. You do this work in silence, with a flask of strong tea at your elbow and a tightness in your chest that does not go away until the audit is submitted and approved.
+The task you dread most: the quarterly audit of death records. Every three months, you must compare the Bureau's Harmonization Audit list with the actual census data. The numbers never match. You are the one who makes them match. You do this work in silence, with a flask of strong tea at your elbow and a tightness in your chest that does not go away until the audit is submitted and approved.
 
 ---
 
@@ -348,7 +350,7 @@ Choose one, or create your own with the Host:
 
 ## Advancement
 
-As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
 **Level 3: Mass Transmutation.** You may use Transmutation of Truth on events you did not personally witness, provided you have access to the relevant records.
 

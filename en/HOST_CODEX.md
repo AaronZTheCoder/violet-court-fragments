@@ -16,9 +16,9 @@ Your job is not to defeat the players. It is to present them with hard choices, 
 
 ### Principles
 
-**Be a fan of the characters.** Want them to succeed, even as you place obstacles in their path. The most satisfying victories are hard won.
+**Be a fan of the characters.** Want them to succeed, even as you place obstacles in their path. The most satisfying victories demand real effort.
 
-_In Practice._ Consider a player whose character, a low ranked scribe from the Outer Court, decides to forge a document to gain access to the Grand Council's restricted records. The player rolls well and succeeds. Instead of saying "you forge the document and get inside," describe it as a triumph. "Your brush moves with a confidence you did not know you possessed. The seal comes out perfect. The guard barely glances at it. You step into the corridor and realize your heart is pounding. You are inside. No one has ever done this before." Let them savor that victory. Then let the consequences arrive. When things later go wrong because of this act, and they should go wrong because every act has consequences, the player will remember that moment of triumph. They will work twice as hard to survive because they earned that moment. Being a fan means you want the characters to succeed so that their failures carry weight. When they fall, it matters because you and they both wanted them to soar.
+_In Practice._ Consider a player whose character, a junior scribe from the Outer Court, decides to forge a document to gain access to the Grand Council's restricted records. The player rolls well and succeeds. Instead of saying "you forge the document and get inside," describe it as a triumph. "Your brush moves with a confidence you did not know you possessed. The seal comes out perfect. The guard barely glances at it. You step into the corridor and realize your heart is pounding. You are inside. No one has ever done this before." Let them savor that victory. Then let the consequences arrive. When things later go wrong because of this act, and they should go wrong because every act has consequences, the player will remember that moment of triumph. They will work twice as hard to survive because they earned that moment. Being a fan means you want the characters to succeed so that their failures carry weight. When they fall, it matters because you and they both wanted them to soar.
 
 **Let the dice matter.** When a roll is called for, respect the result. If you are not willing to accept failure, do not call for a roll. Narrate the success and move on.
 
@@ -26,11 +26,11 @@ _In Practice._ The players are negotiating with a minor official who holds a cru
 
 **Prepare situations, not plots.** A plot says "the players will go to the archive and find the document." A situation says "a document that could destroy a Grand Council member is hidden in the archive, and three different factions are looking for it." The players decide how to engage with the situation. You react.
 
-_In Practice._ You have prepared a situation: a disgraced scholar possesses a journal containing evidence that the current Director of the Bureau of Harmonious Narrative was present at the founding crime. The scholar is hiding in the Warrens, the labyrinthine slums beneath the capital. Two factions, the Golden Orthodoxy and the Iron Calculation, know the scholar exists and want the journal. The Golden Orthodoxy wants to destroy it to preserve the narrative. The Iron Calculation wants to use it as leverage. Now the players enter the scene. They could find the scholar and bargain for the journal. They could sell the location to one of the factions for a price. They could let the factions fight while they slip in and steal it. They could protect the scholar and become a target themselves. They could forge a copy and sell it to both factions. You have no idea what they will do. That is the point. Your preparation is not a script. It is a sandbox with moving parts. When the players act, you determine how the factions react. The scholar reacts. The environment reacts. The story emerges from the collision between player agency and your prepared situation. This approach requires trust. You must trust that the players will engage with interesting situations. They, in turn, must trust that you will honor their creative solutions. When that trust exists, the game becomes something none of you could have designed alone.
+_In Practice._ You have prepared a situation: a disgraced scholar possesses a journal containing evidence that the current Director of the Bureau of Harmonious Narrative concealed an eyewitness account of the founding crime. The scholar is hiding in the Warrens, the labyrinthine slums beneath the capital. Two factions, the Golden Orthodoxy and the Iron Calculation, know the scholar exists and want the journal. The Golden Orthodoxy wants to destroy it to preserve the narrative. The Iron Calculation wants to use it as leverage. Now the players enter the scene. They could find the scholar and bargain for the journal. They could sell the location to one of the factions for a price. They could let the factions fight while they slip in and steal it. They could protect the scholar and become a target themselves. They could forge a copy and sell it to both factions. You have no idea what they will do. That is the point. Your preparation is not a script. It is a sandbox with moving parts. When the players act, you determine how the factions react. The scholar reacts. The environment reacts. The story emerges from the collision between player agency and your prepared situation. This approach requires trust. You must trust that the players will engage with interesting situations. They, in turn, must trust that you will honor their creative solutions. When that trust exists, the game becomes something none of you could have designed alone.
 
 **The Court is a web, not a ladder.** Every character is connected to others through obligation, history, and interest. When the players pull on one thread, the whole web trembles. Track who owes what to whom.
 
-_In Practice._ The players have discovered that a mid level clerk in the Ministry of Rites is secretly funneling information to the Verdant Path. They decide to confront the clerk. Before the session, you check your relationship map. The clerk is the nephew of the Iron Calculation's chief accountant. The chief accountant owes a favor to the Night Warbler. The Night Warbler has been investigating the same clerk independently. This means that when the players confront the clerk, the web reacts. The clerk threatens them with his uncle's position. The uncle learns of the confrontation within hours. The uncle asks the Night Warbler for information about the players. The Night Warbler now knows the players are interested in the same target she is pursuing. She may approach them as a potential ally or as a rival, depending on her assessment of their usefulness. The players' simple act of confronting a clerk has rippled through four layers of the Court. You did not plan this. The web produced it naturally. This is why you maintain the map. This is why you update it between sessions. The web is the Court's immune system. When the players act, the web responds in ways that feel organic because the connections exist independently of any single scene.
+_In Practice._ The players have discovered that a clerk of middle rank in the Ministry of Rites is secretly funneling information to the Verdant Path. They decide to confront the clerk. Before the session, you check your relationship map. The clerk is the nephew of the Iron Calculation's chief accountant. The chief accountant owes a favor to the Night Warbler. The Night Warbler has been investigating the same clerk independently. This means that when the players confront the clerk, the web reacts. The clerk threatens them with his uncle's position. The uncle learns of the confrontation within hours. The uncle asks the Night Warbler for information about the players. The Night Warbler now knows the players are interested in the same target he is pursuing. He may approach them as a potential ally or as a rival, depending on his assessment of their usefulness. The players' simple act of confronting a clerk has rippled through four layers of the Court. You did not plan this. The web produced it naturally. This is why you maintain the map. This is why you update it between sessions. The web is the Court's immune system. When the players act, the web responds in ways that feel organic because the connections exist independently of any single scene.
 
 **The Dusk does not negotiate.** The Crimson Dusk is the one force in the game that cannot be reasoned with, bribed, or outmaneuvered. It advances at the pace you decide. Use it to create urgency when the intrigue grows too comfortable.
 
@@ -38,7 +38,7 @@ _In Practice._ The players have spent three sessions navigating Court politics, 
 
 **Every truth has a cost.** The game is full of secrets. When players uncover one, ask yourself: who does not want this known? What will they do to bury it? The discovery is the beginning of the story, not the end.
 
-_In Practice._ The players have found evidence that the current Star of the Court, the figurehead leader of the Grand Council, was not elected but installed by a cabal within the Golden Orthodoxy. This is a significant discovery. The player who found it is excited, proud of their investigative work. This is the moment when many Hosts would let the discovery stand as a victory. Instead, pause and ask who is harmed by this truth. The Golden Orthodoxy's leadership would be destroyed if this became public. The Star herself would be revealed as a puppet. The Bright Mirror would have grounds for a mass Harmonization Audit. All of these parties now have reason to act. Within a day of the players' discovery, they receive a polite invitation to dinner from a Golden Orthodoxy minister. A junior clerk, visibly terrified, slips a note under their door warning them to drop the investigation. An attempt is made on the life of a contact who helped them find the evidence. The players now possess a truth that is also a target painted on their backs. They must decide what to do with it. Publishing it would destroy the Golden Orthodoxy and destabilize the Court. Suppressing it would protect them but betray their principles. Trading it would make them powerful but complicit. The truth is not a reward. It is a responsibility. Make the players feel its weight.
+_In Practice._ The players have found evidence that the current Star of the Court, the figurehead leader of the Grand Council, was not elected but installed by a cabal within the Golden Orthodoxy. This is a significant discovery. The player who found it is excited, proud of their investigative work. This is the moment when many Hosts would let the discovery stand as a victory. Instead, pause and ask who is harmed by this truth. The Golden Orthodoxy's leadership would be destroyed if this became public. The Star herself would be revealed as a puppet. The Bright Mirror would have grounds to open a focused inquiry into the appointment and everyone who arranged it. All of these parties now have reason to act. Within a day of the players' discovery, they receive a polite invitation to dinner from a Golden Orthodoxy minister. A junior clerk, visibly terrified, slips a note under their door warning them to drop the investigation. An attempt is made on the life of a contact who helped them find the evidence. The players now possess a truth that is also a target painted on their backs. They must decide what to do with it. Publishing it would destroy the Golden Orthodoxy and destabilize the Court. Suppressing it would protect them but betray their principles. Trading it would make them powerful but complicit. The truth is not a reward. It is a responsibility. Make the players feel its weight.
 
 ### Common Host Mistakes
 
@@ -48,7 +48,7 @@ Even experienced Hosts make errors. Here are the most common pitfalls specific t
 
 **Mistake Two: Overusing Audits.** Harmonization Audits are the Violet Court's signature event. They are also devastating to the players' resources and relationships. If you run an Audit every four sessions, they cease to be special. The players become numb to them. They stop caring about Ritual Harmony because they assume they will be punished regardless. Limit Audits to two or three per campaign. Let them be watershed moments that change the direction of the story. An Audit that arrives after ten sessions of careful play has ten times the impact of an Audit that arrives after three.
 
-**Mistake Three: Making the Crimson Dusk a Background Detail.** The Dusk is easy to forget. It is distant, abstract, and slow moving. If you only mention it when it advances on the map, the players will treat it as weather: something that happens outside their concern. Bring the Dusk into every session, even briefly. A refugee in the market. A report of a Dusk Touched oracle speaking prophecy. A shipment of supplies being diverted to the front. A character's dream of red light seeping under a door. The Dusk should be a constant presence, like a low note that never stops playing.
+**Mistake Three: Making the Crimson Dusk a Background Detail.** The Dusk is easy to forget. It is distant, abstract, and advances slowly. If you only mention it when it spreads across the map, the players will treat it as weather: something that happens outside their concern. Bring the Dusk into every session, even briefly. A refugee in the market. A report of a Dusk Touched oracle speaking prophecy. A shipment of supplies being diverted to the front. A character's dream of red light seeping under a door. The Dusk should be a constant presence, like a low note that never stops playing.
 
 **Mistake Four: Forgetting the Web.** When players interact with a figure, the other figures in the web should react. If the players meet with the Guest Among Forests, the Bright Mirror should learn of it. If the players help the Iron Calculation, the Golden Orthodoxy should take notice. The simplest way to implement this is to end each session by asking yourself: which three figures in the web would care about what just happened? Then have them act between sessions. A message arrives. A favor is called in. A relationship on the map changes color. The players learn that their actions have observers.
 
@@ -56,9 +56,9 @@ Even experienced Hosts make errors. Here are the most common pitfalls specific t
 
 **Mistake Six: Ignoring Player Backstories.** The character creation chapter encourages players to embed their characters in the Court's fabric. A player who chose the "family indebted to the Crimson Lineage" background has given you a hook. Use it. Have a member of the family call in the debt. Have a rival family emerge seeking revenge. Have the Iron Bone mention in passing that he knew the player's grandfather. Every detail in a character's backstory is a gift. It is an invitation to make the world personal. A threat to a character's family is more compelling than a threat to a random village. A revelation about a character's past is more powerful than a revelation about a stranger's.
 
-**Mistake Seven: Resisting Player Ideas.** A player says "I want to start a rumor that the Bright Mirror is corrupt. I have a plan." Your instinct might be to protect your vision. You have prepared the Bright Mirror as an incorruptible figure. A rumor that she is corrupt undermines that. Resist the instinct to say no. Instead, ask: how do you do this? Who do you approach first? What evidence do you plant? The Court is a system of perception and belief. If the players invest resources in changing what people believe, let them. The Bright Mirror will eventually learn who started the rumor. She will respond. But the rumor itself can change the Court's dynamics in ways you never anticipated. The players will feel powerful. The Bright Mirror will become a more complex figure: someone whose reputation can be damaged despite her actual purity. This is interesting.
+**Mistake Seven: Resisting Player Ideas.** A player says "I want to start a rumor that the Bright Mirror is corrupt. I have a plan." Your instinct might be to protect your vision. You have prepared the Bright Mirror as an incorruptible figure. A rumor that he is corrupt undermines that. Resist the instinct to say no. Instead, ask: how do you do this? Who do you approach first? What evidence do you plant? The Court is a system of perception and belief. If the players invest resources in changing what people believe, let them. The Bright Mirror will eventually learn who started the rumor. He will respond. But the rumor itself can change the Court's dynamics in ways you never anticipated. The players will feel powerful. The Bright Mirror will become a more complex figure: someone whose reputation can be damaged despite his actual purity. This is interesting.
 
-**Mistake Eight: Running the Game Alone.** The Violet Court is complex. You do not need to carry it alone. Delegate. Ask a player to track the relationship map. Ask another to manage the Celestial Favor tracker. If you are unsure about a rule, ask the table: "what feels right here?" The players are your collaborators. They want the game to be good. Lean on them. A Host who tries to control everything ends up controlling nothing. A Host who shares the burden ends up with a table of invested, engaged players who co own the story.
+**Mistake Eight: Running the Game Alone.** The Violet Court is complex. You do not need to carry it alone. Delegate. Ask a player to track the relationship map. Ask another to manage the Celestial Favor tracker. If you are unsure about a rule, ask the table: "what feels right here?" The players are your collaborators. They want the game to be good. Lean on them. A Host who tries to control everything ends up controlling nothing. A Host who shares the burden ends up with a table of invested, engaged players who shape the story together.
 
 ---
 
@@ -98,7 +98,7 @@ Each school is not merely a school of thought. It is a coherent answer to the qu
 
 **The Golden Orthodoxy** believes in continuity. The old ways worked. Deviation invites disaster. The Crimson Dusk is proof that they were right. Their weakness: the old ways demonstrably do not work against the Dusk. Their rituals fail. Their doctrine cannot explain what is happening. A worldview built on the premise that you already have all the answers cannot survive contact with a question you have never seen before.
 
-**The Verdant Path** believes in adaptation. The empire must change or die. Decentralization, openness to non human peoples, reform of the Court's most rigid structures. Their weakness: they are always one Audit away from annihilation. Their ideas are popular. Popularity is threatening.
+**The Verdant Path** believes in adaptation. The empire must change or die. Decentralization, openness to nonhuman peoples, reform of the Court's most rigid structures. Their weakness: they are always one Audit away from annihilation. Their ideas are popular. Popularity is threatening.
 
 **The Iron Calculation** believes in optimization. Governance is engineering. Doctrine is a variable to be tuned. If the Court would simply let them run the empire as a machine, everything would work. Their weakness: people are not machines. A system optimized for efficiency rather than humanity eventually grinds the humanity out of everyone in it.
 
@@ -106,20 +106,20 @@ Each school is not merely a school of thought. It is a coherent answer to the qu
 
 **The Common Flame** believes in the people. The Court exists to serve, not to rule. When it forgets this, the people have the right to remind it. With fire, if necessary. Their weakness: rage is not a governance plan. Burning down the old order is easy. Building something better is hard. The wolf does not build.
 
-**The Bright Mirror** believes in purity. The Court's founding ideals were noble. The problem is that people keep falling short of them. If everyone could simply be made pure, the empire would heal. Their weakness: no one is pure. Not the Mirror herself, though she comes closer than anyone. A system that demands perfection from imperfect people eventually devours itself.
+**The Bright Mirror** believes in purity. The Court's founding ideals were noble. The problem is that people keep falling short of them. If everyone could simply be made pure, the empire would heal. Their weakness: no one is pure. Not the Mirror himself, though he comes closer than anyone. A system that demands perfection from imperfect people eventually devours itself.
 
 ### What the Crimson Dusk Represents
 
 _This section is for the Host's understanding. The players should discover it through play, or not at all._
 
-The Crimson Dusk is not an external threat. It is a consequence. The empire was founded on an act that violated the natural order. The Sun Emperor was not merely the ruler. He was the living conduit between Heaven and Earth. When the first generation of Court elders sealed Him in the Spire, they severed that connection. The Crimson Dusk is the wound left behind: a slow, spreading corruption of reality caused by three centuries of a severed world trying to heal itself.
+The Crimson Dusk is not an external threat. It is a consequence. At the empire's founding, a ritual sacrificed or bound the land's original guardians and installed the Sun Emperor as their replacement, the new living conduit between Heaven and Earth. When the first generation of Court elders completed His sealing in the Spire one hundred and fifty five years ago, they severed that replacement conduit. The Crimson Dusk is the delayed wound left by both acts, a slow corruption of reality that became visible only later as the severed world tried to heal itself.
 
 This truth is the game's central mystery. Different figures know different pieces of it:
 
-- The Celestial Book knows everything. He has read the original charter. He knows what was done.
+- The Celestial Book knows everything. She has read the original charter. She knows what was done.
 - The Duke of Eternal Night knows the Emperor is imprisoned. He was there when the vote was taken.
-- The Guest Among Forests knows the Dusk is a consequence of a founding ritual, not a punishment for heterodoxy.
-- The Iron Bone knows the Dusk originated in the empire's penal works: places of concentrated suffering.
+- The Guest Among Forests knows the Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal, not a punishment for heterodoxy.
+- The Iron Bone knows the Dusk first manifested beyond the border provinces in his penal camp, where concentrated suffering gave it a path inward.
 - The Cinnabar Heart knows the Emperor's edicts are forged, though he does not know why.
 - The Bright Mirror suspects the Court's corruption caused the Dusk and is investigating.
 
@@ -172,25 +172,25 @@ _What the players sense as they enter:_ The temperature drops noticeably. The co
 
 _Interactive elements:_
 
-1. The Index Keeper: A gaunt woman with ink stained fingers who sits at a desk near the entrance. She does not ask what the players want. She asks what they are authorized to see. She knows every document's location and every loophole in the access rules. She can be reasoned with, bribed, or threatened, but she has seen it all before and is unimpressed by any of it. She responds best to those who treat the archive with reverence.
-2. The Reading Room: A high ceilinged chamber with long oak tables. Scholars and officials sit reading under the dim light of Qi lamps. A player who attempts to remove a document from this room triggers a silent alarm. The doors lock. Guards arrive within three minutes. The only way to avoid this is to have the Index Keeper's personal seal on the borrowing slip.
+1. The Index Keeper: A gaunt woman with fingers stained by ink who sits at a desk near the entrance. She does not ask what the players want. She asks what they are authorized to see. She knows every document's location and every loophole in the access rules. She can be reasoned with, bribed, or threatened, but she has seen it all before and is unimpressed by any of it. She responds best to those who treat the archive with reverence.
+2. The Reading Room: A chamber with a high ceiling and long oak tables. Scholars and officials sit reading under the dim light of Qi lamps. A player who attempts to remove a document from this room triggers a silent alarm. The doors lock. Guards arrive within three minutes. The only way to avoid this is to have the Index Keeper's personal seal on the borrowing slip.
 3. The Stacks: Deep within the Ministry, the shelves grow older and dustier. Some sections have not been visited in living memory. The oldest documents are written on materials that predate paper: silk, bamboo, bone. In these depths, the players may find things that were never meant to be found. They may also find things that have been waiting.
 
-_Hidden secret:_ In the sub basement, behind a shelf that appears to be structural, there is a sealed chamber containing the original charter of the Court, predating the current founding documents by seventy years. It mentions a thirteenth school that was erased from all records. The twelfth school was the Alchemists. No one knows what the thirteenth was called.
+_Hidden secret:_ In the subbasement, behind a shelf that appears to be structural, there is a sealed chamber containing the original charter of the Court, predating the current founding documents by seventy years. It mentions a thirteenth school that was erased from all records. The twelfth school was the Alchemists. No one knows what the thirteenth was called.
 
 ### The Grand Council Chamber
 
 _Read aloud when the players first enter:_
 
-"You step through a curtain of heavy silk and the world changes. The Grand Council Chamber is a vast rotunda that could hold five hundred people standing. The ceiling is a painted cosmos: stars, constellations, the great celestial currents that the empire believes flow through all things. In the center of the painted sky, a space has been left deliberately empty. That is where the Emperor should be. The floor is black marble polished to a mirror finish. You can see your own face looking up at you from beneath your feet. The Council seats are arranged in a circle: twelve high backed chairs of dark wood, each carved with the symbol of a school. Eleven are occupied. The twelfth, the Alchemist's seat, stands empty and draped in dusty silk. The air is cold and still. You feel the weight of a hundred generations watching you."
+"You step through a curtain of heavy silk and the world changes. The Grand Council Chamber is a vast rotunda that could hold five hundred people standing. Its dome bears a vast mural of the empire's founding. The Sun Emperor stands above conquered chaos, the first elders kneel at His feet, and the Nine Domains spread below like a garden. The mural has been retouched so often that some provinces vanish beneath newer paint. The floor is black marble polished to a mirror finish. You can see your own face looking up at you from beneath your feet. Seven seats of black jade stand in a circle, each carved from a single block. Four are occupied. Three are vacant and covered with white silk. The air is cold and still. You feel the weight of a hundred generations watching you."
 
-_What the players sense as they enter:_ The room amplifies sound strangely. A whisper at one end carries clearly to the other. Footsteps echo and overlap. The temperature is several degrees colder than the corridor outside. The lighting comes from Qi crystals set into the walls, casting a pale blue glow that makes everyone look slightly ill. The Council members do not turn to face newcomers. They watch from the corners of their eyes. The silence when you speak is absolute. Every word you say is remembered.
+_What the players sense as they enter:_ The room suppresses echoes with unnatural precision. A whisper reaches only its intended listener. A footstep sounds once and vanishes. The temperature is several degrees colder than the corridor outside. The lighting comes from Qi crystals set into the walls, casting a pale blue glow that makes everyone look slightly ill. The Council members do not turn to face newcomers. They watch from the corners of their eyes. The silence when you speak is absolute. Every word lands clearly, exactly once, and is remembered.
 
 _Interactive elements:_
 
 1. The Speaker's Stone: A small raised platform in the center of the floor. Only those standing on it are formally recognized. Off the stone, your words are not part of the record. On the stone, everything you say is transcribed by scribes in the alcoves above. Players must decide: speak safely from the floor, or commit to the record from the stone.
 2. The Alcoves of Record: High in the walls, behind grilles, sit the Scribes of the Bureau of Harmonious Narrative. They write everything. They never stop. They never react. If a player looks up at them, one scribe may pause and make a note of the player's name. This note goes into a permanent file.
-3. The Empty Seat: The Alchemist's chair. A player who approaches it will be stopped by guards unless they have specific authorization. The chair is draped in silk that has not been disturbed in decades. Some say the Alchemist's ghost still sits there during sessions. Others say the ghost is the least disturbing thing about that chair.
+3. The Vacant Seats: Three black jade chairs stand beneath white silk. A player who approaches them will be stopped by guards without specific authorization. Each vacancy has an official explanation: illness, retirement, or ritual seclusion. None of the explanations accounts for why the silk has gathered decades of dust.
 
 _Hidden secret:_ Beneath the Speaker's Stone, there is a hollow space accessible only by a mechanism that requires three specific Council members to activate simultaneously. Inside is a sealed urn containing the ashes of the first Alchemist, who was executed after the vote to imprison the Emperor. His dying words were carved into the urn's lid: "You have sealed the sky. You will never see it clear again."
 
@@ -214,7 +214,7 @@ _Hidden secret:_ Beneath a particular fruit stall there is a trapdoor leading to
 
 _Read aloud when the players first approach:_
 
-"The Teahouse of Whispered Petitions is easy to miss. It sits on a narrow street off a narrow alley, its entrance no wider than a door. There is no sign. You would walk past it a hundred times without noticing. But those who know look for the single red lantern hanging above the door, always lit, even at midday. Inside, the teahouse is a single long room lit by paper lanterns that cast a warm golden light. The floor is raised tatami. The walls are simple, undecorated white plaster. There is no furniture except low tables and cushions. It is always quiet, even when full. People do not come here to be heard. They come here to speak without being overheard. The proprietress is a middle aged woman named Mistress Lien who moves with the grace of someone who was once a warrior. She remembers every face that has crossed her threshold. She has never repeated a confidence."
+"The Teahouse of Whispered Petitions is easy to miss. It sits on a narrow street off a narrow alley, its entrance no wider than a door. There is no sign. You would walk past it a hundred times without noticing. But those who know look for the single red lantern hanging above the door, always lit, even at midday. Inside, the teahouse is a single long room lit by paper lanterns that cast a warm golden light. The floor is raised tatami. The walls are simple, undecorated white plaster. There is no furniture except low tables and cushions. It is always quiet, even when full. People do not come here to be heard. They come here to speak without being overheard. The proprietress is a woman in middle age named Mistress Lien who moves with the grace of someone who was once a warrior. She remembers every face that has crossed her threshold. She has never repeated a confidence."
 
 _What the players sense as they enter:_ The quiet is the first thing you notice. The street noise vanishes when the door closes. The air smells of jasmine tea and incense. The cushions are worn soft by years of use. Other patrons do not look up when you enter. They have learned not to. Mistress Lien greets each guest with a slight bow and a question: "Would you prefer a table near the window or near the fire?" The window tables are for those who want to be seen. The fire tables are for those who do not. The distinction is never explained. It is simply understood.
 
@@ -224,23 +224,23 @@ _Interactive elements:_
 2. The Walls Have Ears: Some of the teahouse's patrons are not patrons. They are listeners employed by various schools. A player who speaks too openly at a window table will find their words have traveled before their tea goes cold. The fire tables are safer but not safe. Only the private room in the back, which Mistress Lien grants only to those she trusts implicitly, is truly secure.
 3. The Message Drop: A regular patron who sits at the same table every evening is a courier for the Underground Network. Players who leave a specific token on their table will receive a message in return. The token changes weekly. The password changes daily. The Underground Network has survived four Harmonization Audits. They are very, very good at staying hidden.
 
-_Hidden secret:_ Behind the wall of the private room, there is a listening post built by the Alchemists and rediscovered by the Bright Mirror. The Bright Mirror has been monitoring every conversation held in that room for the past three years. She has never acted on what she has heard. She is waiting. She does not know what she is waiting for. But she will know when it arrives.
+_Hidden secret:_ Behind the wall of the private room, there is a listening post built by the Alchemists and rediscovered by the Bright Mirror. The Bright Mirror has been monitoring every conversation held in that room for the past three years. He has never acted on what he has heard. He is waiting. He does not know what he is waiting for. But he will know when it arrives.
 
 ### The Spire of Eternal Vigil (Exterior)
 
 _Read aloud when the players first see it:_
 
-"The Spire of Eternal Vigil dominates the capital's skyline. It is not a building. It is a wound in the shape of a building, a needle of black stone that pierces the sky at the exact center of the Celestial Court. No window breaks its surface. No door marks its base. It is seamless, as though it was carved from a single piece of night. The Spire is taller than anything around it. Taller than the Grand Council Chamber. Taller than the Imperial Palace. Taller than anything has a right to be. The sky around it is always strange. Clouds do not cross it. Birds do not fly near it. Rain falls around it in a perfect circle, as though the Spire itself repels water. At night, a faint red light pulses from within, slow and regular, like a heartbeat. The people of the capital do not look at the Spire. They have learned not to. Those who stare too long develop headaches. Those who stare longer develop nosebleeds. Those who stare longest develop questions that the Commission for Celestial Purity does not want them to ask."
+"The Spire of Eternal Vigil dominates the capital's skyline. It is not a building. It is a wound in the shape of a building, a needle of white stone that drinks the light around it at the exact center of the Celestial Court. No window breaks its surface. No door marks its base. It is seamless, as though it were carved from one unbroken piece of pale stone. The Spire is taller than anything around it. Taller than the Grand Council Chamber. Taller than the Imperial Palace. Taller than anything has a right to be. The sky around it is always strange. Clouds do not cross it. Birds do not fly near it. Rain falls around it in a perfect circle, as though the Spire itself repels water. At night, a faint red light pulses beneath the white surface, slow and regular, like an ember under ash. The people of the capital do not look at the Spire. They have learned not to. Those who stare too long develop headaches. Those who stare longer develop nosebleeds. Those who stare longest develop questions that the Commission for Celestial Purity does not want them to ask."
 
-_What the players sense as they approach:_ The closer you get, the more wrong it feels. The air grows colder. The hair on your arms stands up. A pressure builds behind your eyes. You hear a low hum that you feel in your teeth more than your ears. The guards at the perimeter are not regular soldiers. They are the Shrouded, elite warriors who never speak and never remove their masks. They do not patrol. They stand still as statues, facing the Spire, not outward. They are not guarding against intruders. They are guarding against whatever is inside.
+_What the players sense as they approach:_ The closer you get, the more wrong it feels. The stone gives off a steady warmth even in winter, yet the hair on your arms rises. A pressure builds behind your eyes. You hear a low hum that you feel in your teeth more than your ears. It is the combined chant of the thirty six monks at the base, carried through the stone. The perimeter guards face outward and watch every visitor. Their task is not mysterious. They prevent anyone from touching the seal or interrupting the chant.
 
 _Interactive elements:_
 
-1. The Perimeter: A line of polished black stones marks the boundary that unauthorized persons cannot cross. The boundary is not physical. It is a Qi barrier. Those who cross it without authorization feel their Qi drain rapidly. If they do not retreat within thirty seconds, they collapse. The Shrouded do not intervene. They simply watch. The barrier has never been breached.
-2. The Pilgrims: A small group of monks from a forgotten sect maintains a permanent vigil at a shrine located exactly one hundred steps from the Spire's base. They chant day and night. They claim the chanting keeps the Spire stable. The Court tolerates them because they have been there since before the founding and removing them would attract attention. The monks know more about the Spire than they admit.
-3. The Celestial Book's Balcony: From the Archive tower, which is the only building that overlooks the Spire's perimeter, there is a balcony where the Celestial Book sometimes stands. He does not watch the Spire. He watches those who watch the Spire. If a player catches his eye, he raises his hand in a gesture that could be a greeting or a warning. It has never been clear which.
+1. The Perimeter: A line of polished black stones marks the boundary that unauthorized persons cannot cross. The boundary is not physical. It is a Qi barrier. Those who cross it without authorization feel their Qi drain rapidly. If they do not retreat within thirty seconds, they collapse. The guards do not intervene unless someone continues toward the chanting circle.
+2. The Thirty Six Monks: Thirty six Golden Orthodoxy monks maintain the chant begun when the final seal was completed in Year 297. Six chant at any given time while the others rest, eat, study, or prepare to take their place. The sound has not stopped for one hundred and fifty five years. The oldest monks can speak while sustaining their part of the chant, a discipline called Forked Voice.
+3. The Celestial Book's Balcony: From the Archive tower, which is the only building that overlooks the Spire's perimeter, there is a balcony where the Celestial Book sometimes stands. She does not watch the Spire. She watches those who watch the Spire. If a player catches her eye, she raises her hand in a gesture that could be a greeting or a warning. It has never been clear which.
 
-_Hidden secret:_ The Spire is not, as commonly believed, a prison that holds the Emperor. It is a seal that holds something that was imprisoned with the Emperor and that the Emperor agreed to contain. The Spire is not keeping the Emperor in. It is keeping something else from getting out. The Emperor stays inside voluntarily. He is the lock. The red pulse is the thing testing the lock. Every night, it tests. Every night, the seal holds. Every night, it is slightly weaker than it was the night before.
+_Hidden secret:_ The Spire is a prison. The first generation of Court elders sealed the Sun Emperor inside against His will and completed the outer seal in Year 297. At the founding, the sacrifice or binding of the land's original guardians made the Emperor a replacement living conduit between Heaven and Earth. The final sealing severed that conduit. The Crimson Dusk is the delayed wound left by both acts. The chant maintains the prison, not an act of worship. The red pulse is the wounded world pressing against the broken channel, and the pressure grows stronger as the seal weakens.
 
 ## Part Four: Harmonization Audits
 
@@ -317,9 +317,9 @@ Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the 
 
 Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has -12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
-On the table, cross-referencing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "High Risk." This means on a d20, Mara is Cleared on 16+, Sanctioned on 8 to 15, and Disappeared on 1 to 7. She has roughly a 40 percent chance of being Sanctioned and a 35 percent chance of Disappearing. Her position is precarious despite her decent Ritual Harmony, because she has not cultivated strong enough faction protection.
+On the table, comparing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "Moderate Risk." This means on a d20, Mara is Cleared on 12+, Sanctioned on 5 to 11, and Disappeared on 1 to 4. She has a 35 percent chance of being Sanctioned and a 20 percent chance of Disappearing. She will probably survive, but better than half her survival is owed to a single faction that has decided she is worth a word in the right room.
 
-If Mara had Ritual Harmony 55 and had cultivated the Verdant Path to +30, she would have Strong Protection and face Low Risk (Cleared on 8+, Sanctioned on 3 to 7, Disappeared on 1 to 2). If she had Ritual Harmony 35 and Enemies, she would face Critical Risk (Cleared on 19+, Sanctioned on 12 to 18, Disappeared on 1 to 11). The wide range of possible outcomes shows why faction management and Ritual Harmony maintenance matter so much in the approach to an Audit.
+If Mara had Ritual Harmony 55 and had cultivated the Verdant Path to +30, she would have Strong Protection and face Low Risk (Cleared on 8+, Sanctioned on 3 to 7, Disappeared on 1 to 2). If she had Ritual Harmony 35 and Enemies, she would face Terminal Risk (Cleared on 20 only, Sanctioned on 15 to 19, Disappeared on 1 to 14). The wide range of possible outcomes shows why faction management and Ritual Harmony maintenance matter so much in the approach to an Audit.
 
 ### Adjusting Risk for Creative Player Actions
 
@@ -329,17 +329,17 @@ The standard Risk calculation assumes typical Audit participation. Players who t
 
 - **Harming the Commission's reputation** through public exposure of investigator misconduct: Increase Risk by two levels if the player is identified. The Commission protects its own. A player who makes the Commission look foolish or corrupt will not be forgiven quickly.
 
-- **Using unconventional skills to aid the investigation** (Qi Theory to authenticate documents, Lore to identify ritual evidence, Medicine to examine a body): Reduce Risk by one level if the contribution is significant and noted by a sympathetic investigator. The Commission does not value your skills directly, but they value results.
+- **Using unconventional skills to aid the investigation** (Qi Theory to authenticate documents, Lore to identify ritual evidence, Craft to identify the tool that made a wound): Reduce Risk by one level if the contribution is significant and noted by a sympathetic investigator. The Commission does not value your skills directly, but they value results.
 
-- **Invoking a high-level patron** (a Grand Council member, a Twelve Figures ally): Reduce Risk by one level if the patron's intervention is credible and public. The patron will likely demand repayment later.
+- **Invoking a senior patron** (a Grand Council member, a Twelve Figures ally): Reduce Risk by one level if the patron's intervention is credible and public. The patron will likely demand repayment later.
 
-- **Drawing attention from the Bright Mirror**: If the Bright Mirror takes a personal interest in a player during the Audit, increase Risk by one level regardless of other factors. Her interest is never casual.
+- **Drawing attention from the Bright Mirror**: If the Bright Mirror takes a personal interest in a player during the Audit, increase Risk by one level regardless of other factors. His interest is never casual.
 
 - **Being caught in a lie to an investigator**: If the lie is discovered, increase Risk by one level. If the lie was about something directly relevant to the Audit, increase by two levels.
 
 - **Making a deal with a Dusk Touched entity during the Audit**: Increase Risk by two levels. The Commission notices the taint on a character's Qi even if the deal was not observed.
 
-The goal of these adjustments is to reward engagement with the Audit process. A player who takes creative, story-driven actions should feel that their choices matter. A player who treats the Audit as an inconvenience to be waited out should feel the tension of passivity.
+The goal of these adjustments is to reward engagement with the Audit process. A player who takes creative actions rooted in the story should feel that their choices matter. A player who treats the Audit as an inconvenience to be waited out should feel the tension of passivity.
 
 ### Player Actions During an Audit
 
@@ -364,15 +364,15 @@ This example assumes the players saw the Audit coming and took steps to protect 
 
 ### Example Audit: The Unprepared Players
 
-This example assumes the players ignored the warnings and were caught flat footed.
+This example assumes the players ignored the warnings and were caught unprepared.
 
 **Phase One: The Whisper.** Rumors of an imminent Audit reach the players through casual conversation. An ally mentions that the Commission has been unusually active. The players are busy pursuing their own goals: one is investigating a personal lead about the Dusk, another is courting a contact in the Golden Orthodoxy, the third is recovering from a failed Qi experiment. They acknowledge the rumor and file it away. They do not act. No documents are hidden. No favors are called. No deals are made. The Whisper fades into background noise.
 
 **Phase Two: The Investigation.** The Audit is announced without warning. A scroll bearing the Commission's seal arrives at the players' residence at dawn. They are to present themselves for questioning within the hour. They arrive flustered and unprepared. The interrogation room is cold and windowless. The investigator is a Senior Justicar named Sheng, a man with a reputation for finding what you least want him to find. He has done his homework. He knows about the player's Dusk investigation. He knows about the failed Qi experiment. He knows about the meeting with the Golden Orthodoxy contact. He asks questions in a calm, unhurried voice, and he already knows the answers. The players stumble. They contradict each other. One player loses their temper and threatens Sheng, which is exactly the reaction he was hoping for. He notes it. The interview ends. The players leave knowing they have done poorly.
 
-**Phase Three: The Judgment.** The names are published at sunset. One player is Sanctioned: loss of 15 Celestial Favor, loss of 8 Ritual Harmony, demoted from their current position to a filing clerk in a sub basement office that nobody visits. The second player is Sanctioned more lightly: a fine of 10 Celestial Favor and a formal warning placed in their permanent record. The third player, the one who threatened Sheng, has Disappeared. The other players search for them. They find nothing. The Commission denies knowing the name. The player's former residence has been sealed. It is as though they never existed. The third player's player must create a new character, beginning the legacy cycle.
+**Phase Three: The Judgment.** The names are published at sunset. One player is Sanctioned: loss of 15 Celestial Favor, loss of 8 Ritual Harmony, demoted from their current position to a filing clerk in a subbasement office that nobody visits. The second player is Sanctioned more lightly: a fine of 10 Celestial Favor and a formal warning placed in their permanent record. The third player, the one who threatened Sheng, has Disappeared. The other players search for them. They find nothing. The Commission denies knowing the name. The player's former residence has been sealed. It is as though they never existed. The third player's player must create a new character, beginning the legacy cycle.
 
-**Phase Four: The Aftermath.** The surviving players are shaken. They have lost their colleague, their Faction Standing, and their momentum. The demoted player now works in a sub basement office where documents are sent to be forgotten. In that office, they discover something interesting: a stack of unresolved correspondence from a decade ago, involving someone whose name they recognize from the Court's founding records. The Sanction was devastating. But it has also placed the player exactly where a piece of the larger mystery is hidden. Every setback is also an opportunity. The players must now decide how to rebuild. They are bruised. They are diminished. They are not dead.
+**Phase Four: The Aftermath.** The surviving players are shaken. They have lost their colleague, their Faction Standing, and their momentum. The demoted player now works in a subbasement office where documents are sent to be forgotten. In that office, they discover something interesting: a stack of unresolved correspondence from a decade ago, involving someone whose name they recognize from the Court's founding records. The Sanction was devastating. But it has also placed the player exactly where a piece of the larger mystery is hidden. Every setback is also an opportunity. The players must now decide how to rebuild. They are bruised. They are diminished. They are not dead.
 
 ### At the Table: Running Your First Audit
 
@@ -469,9 +469,11 @@ The twelve figures are not stat blocks. They are people with histories, wounds, 
 
 ### Cinnabar Heart
 
+**Default Gender:** Male
+
 **Voice:** Dry, precise, given to quoting bureaucratic regulations as a form of humor. He speaks as though every sentence is being recorded, because it is.
 
-**Physical Tell:** He touches his temples when troubled. He has a headache that has lasted thirty years.
+**Physical Tell:** He touches his temples when troubled. He has suffered the same recurring headache since he was thirty two.
 
 **What He Wants From the Players:** Someone who asks genuine questions. He is surrounded by people who recite doctrine. He craves intellectual honesty the way a drowning man craves air.
 
@@ -479,7 +481,7 @@ The twelve figures are not stat blocks. They are people with histories, wounds, 
 
 **Scene Seed:** The players are summoned to his office. He serves them his private reserve tea, which means this meeting is not being recorded. He asks them a question that is clearly a test: "If you discovered that something the Court teaches is doctrine is... inaccurate, what would you do?"
 
-_First Impression._ The players are shown into an office that is aggressively ordinary. Filing cabinets. A chipped tea set. A window that looks out on a brick wall. The Cinnabar Heart sits behind a desk covered in paperwork that appears to have been there for years. He is a thin man in his late fifties with sallow skin and the exhausted eyes of someone who has not slept well since before the players were born. He does not stand to greet them. He gestures to chairs that are slightly lower than his own. The interview begins with a long silence while he finishes writing something. He does not look up. When he finally speaks, it is to ask a question that sounds bureaucratic but is not. "The Bureau of Harmonious Narrative's quarterly report cites a seven percent reduction in doctrinal deviation. Do you consider this a success or a failure?" There is a correct answer. There is also a true answer. He is listening for the difference.
+_First Impression._ The players are shown into an office that is aggressively ordinary. Filing cabinets. A chipped tea set. A window that looks out on a brick wall. The Cinnabar Heart sits behind a desk covered in paperwork that appears to have been there for years. He is a thin man of sixty two with sallow skin and the exhausted eyes of someone who has not slept well since before the players were born. He does not stand to greet them. He gestures to chairs that are slightly lower than his own. The interview begins with a long silence while he finishes writing something. He does not look up. When he finally speaks, it is to ask a question that sounds bureaucratic but is not. "The Bureau of Harmonious Narrative's quarterly report cites a seven percent reduction in doctrinal deviation. Do you consider this a success or a failure?" There is a correct answer. There is also a true answer. He is listening for the difference.
 
 _Sample Quotes for the Host._
 
@@ -504,17 +506,19 @@ _Additional Scene Seeds._
 
 ### Night Warbler
 
-**Voice:** Quiet, measured, uses as few words as possible. She does not make threats. She states facts. "If the Director wanted you dead, you would be dead. The Director has not expressed this desire. Yet."
+**Default Gender:** Male
 
-**Physical Tell:** She never sits with her back to a door. She counts exits constantly. It is not paranoia if they really are trying to kill you.
+**Voice:** Quiet, measured, uses as few words as possible. He does not make threats. He states facts. "If the Director wanted you dead, you would be dead. The Director has not expressed this desire. Yet."
 
-**What She Wants From the Players:** Someone who treats her as a person rather than a weapon. She has been an instrument for so long she has forgotten she is also human.
+**Physical Tell:** He never sits with his back to a door. He counts exits constantly. It is not paranoia if they really are trying to kill you.
 
-**What She Fears:** That she will never find out who ordered her parents' death. That if she does find out, she will not know what to do with the knowledge.
+**What He Wants From the Players:** Someone who treats him as a person rather than a weapon. He has been an instrument for so long he has forgotten he is also human.
 
-**Scene Seed:** The players encounter her in an unexpected place: a teahouse garden, off duty, mask lowered. She is watching songbirds. She speaks more openly than usual, which is to say she asks a personal question instead of an operational one.
+**What He Fears:** That he will never learn what happened to his parents. That if he does learn, the answer will prove that the person who raised him manufactured the grievance that shaped his life.
 
-_First Impression._ The players do not see the Night Warbler before she sees them. They enter the teahouse garden and feel eyes on them before they locate their source. She is seated on a bench near a small pond, dressed in simple grey traveling clothes, her face uncovered. She is smaller than they expected. Her hands are still. Her posture is relaxed in the way a coiled spring is relaxed. She does not smile when they approach. She inclines her head a fraction of an inch, which from her is a warm greeting. The songbirds in the garden have gone quiet. They sense something their instincts recognize. The players feel the weight of her attention, the sense of being assessed, catalogued, filed away for future reference. She waits for them to speak first. She will answer any question they ask. She will not answer more than they ask.
+**Scene Seed:** The players encounter him in an unexpected place: a teahouse garden, off duty, mask lowered. He is watching songbirds. He speaks more openly than usual, which is to say he asks a personal question instead of an operational one.
+
+_First Impression._ The players do not see the Night Warbler before he sees them. They enter the teahouse garden and feel eyes on them before they locate their source. He is seated on a bench near a small pond, dressed in simple grey traveling clothes, his face uncovered. He is smaller than they expected. His hands are still. His posture is relaxed in the way a coiled spring is relaxed. He does not smile when they approach. He inclines his head a fraction of an inch, which from him is a warm greeting. The songbirds in the garden have gone quiet. They sense something their instincts recognize. The players feel the weight of his attention, the sense of being assessed, cataloged, filed away for future reference. He waits for them to speak first. He will answer any question they ask. He will not answer more than they ask.
 
 _Sample Quotes for the Host._
 
@@ -524,20 +528,22 @@ _Sample Quotes for the Host._
 4. "I am not your enemy. I am also not your friend. I am someone who has not yet decided which of those categories you belong to. Your next action will help me decide."
 5. "The songbirds do not sing when I am near. I have stopped apologizing for it. Some fears are rational."
 
-_What She Is Doing Right Now._ The Night Warbler is pursuing three threads simultaneously. First, she is investigating the death of Council member Wei, the only person who ever showed her kindness. She has traced the assassination order to a high ranking figure but has not yet identified them. Second, she is running a parallel intelligence network that reports only to her, independent of the Commission. These agents are loyal to her personally and would not transfer to any successor. Third, she is slowly, carefully building a case file on the Bright Mirror. She does not suspect the Mirror of wrongdoing. She suspects the Mirror of being too clean. In the Night Warbler's experience, anyone who appears incorruptible is hiding something.
+_What He Is Doing Right Now._ The Night Warbler is pursuing three threads simultaneously. First, he is investigating the death of Council member Wei, the only member of the Grand Council who ever showed him kindness. He knows he was the blade, but the order passed through several offices, and he has not identified the Council member who issued it. Second, he is running a parallel intelligence network that reports only to him, independent of the Bureau of Internal Harmony. These agents are loyal to him personally and would not transfer to any successor. Third, he is slowly, carefully building a case file on the Bright Mirror. He does not suspect the Mirror of wrongdoing. He suspects the Mirror of being too clean. In the Night Warbler's experience, anyone who appears incorruptible is hiding something.
 
-_If the Players Ally With Her._ She becomes their most reliable source of actionable intelligence. She does not offer friendship. She offers competence. If a player is in genuine danger, she warns them. If a player is being followed, she identifies the follower. If a player needs someone to disappear, she can arrange it. Her loyalty, once earned, is absolute. She will die before she betrays a confidence. She has proven this before.
+_If the Players Ally With Him._ He becomes their most reliable source of actionable intelligence. He does not offer friendship. He offers competence. If a player is in genuine danger, he warns them. If a player is being followed, he identifies the follower. If a player needs someone to disappear, he can arrange it. His loyalty, once earned, is absolute. He will die before he betrays a confidence. He has proven this before.
 
-_If the Players Oppose Her._ They will never see her coming. She does not confront enemies directly. She follows them. She learns their routines. She identifies their vulnerabilities. And then, when they least expect it, she acts. The first sign that a player has made an enemy of the Night Warbler is a small thing: a document goes missing, a door is unlocked that should have been locked, a witness recants. The second sign is more direct. The player wakes to find a single feather on their pillow. A grey feather. From a night warbler.
+_If the Players Oppose Him._ They will never see his coming. He does not confront enemies directly. He follows them. He learns their routines. He identifies their vulnerabilities. And then, when they least expect it, he acts. The first sign that a player has made an enemy of the Night Warbler is a small thing: a document goes missing, a door is unlocked that should have been locked, a witness recants. The second sign is more direct. The player wakes to find a single feather on their pillow. A grey feather. From a night warbler.
 
-_If the Players Ignore Her._ She continues her work independently. She may approach them later if their interests align with hers. She may not. She is not invested in their story. She is invested in her own. The players will encounter her in the background of other scenes, always watching, always present, never intervening. At a crucial moment, she may step forward and offer information that changes everything. Or she may not. She is a wild card that the Host deploys when the story needs an unpredictable element.
+_If the Players Ignore Him._ He continues his work independently. He may approach them later if their interests align with his. He may not. He is not invested in their story. He is invested in his own. The players will encounter him in the background of other scenes, always watching, always present, never intervening. At a crucial moment, he may step forward and offer information that changes everything. Or he may not. He is a wild card that the Host deploys when the story needs an unpredictable element.
 
 _Additional Scene Seeds._
 
-1. A player wakes to find the Night Warbler standing at the foot of their bed. She has been watching them sleep. "You talk in your sleep," she says. "Nothing compromising. But you should know." She leaves a folder on their bedside table. "The person you are looking for. I found them. They are in the Eastern District. You have three days before they move."
-2. The players discover that the Night Warbler has been following one of them for weeks. When confronted, she does not deny it. "Your father asked me to watch over you before he died. I told him I would. I keep my promises." She has never mentioned this before. She never would have mentioned it if she had not been caught.
+1. A player wakes to find the Night Warbler standing at the foot of their bed. He has been watching them sleep. "You talk in your sleep," he says. "Nothing compromising. But you should know." He leaves a folder on their bedside table. "The person you are looking for. I found them. They are in the Eastern District. You have three days before they move."
+2. The players discover that the Night Warbler has been following one of them for weeks. When confronted, he does not deny it. "Your father asked me to watch over you before he died. I told him I would. I keep my promises." He has never mentioned this before. He never would have mentioned it if he had not been caught.
 
 ### Guest Among Forests
+
+**Default Gender:** Female
 
 **Voice:** Warm and unhurried. She speaks as though there is always enough time, even when there is not. Her laughter is genuine and slightly sad.
 
@@ -545,21 +551,21 @@ _Additional Scene Seeds._
 
 **What She Wants From the Players:** Allies who think in centuries, not in days. She is playing a very long game. She needs people who understand that some victories look like defeats until you zoom out far enough.
 
-**What She Fears:** That she is wrong. That reform is impossible. That the Court will always crush anyone who tries to change it. That her four hundred years of struggle have accomplished nothing.
+**What She Fears:** That she is wrong. That reform is impossible. That the Court will always crush anyone who tries to change it. That her centuries of struggle have accomplished nothing.
 
 **Scene Seed:** She invites the players to walk with her in the Imperial Gardens. As they walk, she points out plants that have survived every Harmonization Audit, every regime change, every disaster. "They bend," she says. "That is the secret. They bend, and they keep growing."
 
-_First Impression._ The Guest Among Forests is not what the players expect. She is not ancient and frail. She is a woman who appears to be in her late forties, with weathered skin, strong hands, and grey streaked hair pulled back in a practical knot. She wears simple clothing, no jewelry, no official insignia. She could be a farmer or a merchant. She moves with the ease of someone who has lived in her body for a very long time. When she meets the players, she looks at them as though she has all the time in the world. She asks their names and then repeats them, committing them to memory. She touches each player on the shoulder as she greets them, a gesture so warm that it feels almost improper in the cold environment of the Court. Her eyes are what stay with the players. They are the eyes of someone who has seen four centuries of human cruelty and has not stopped hoping.
+_First Impression._ The Guest Among Forests is not what the players expect. She is not ancient and frail. She is a woman who appears to be in her late forties, with weathered skin, strong hands, and hair streaked with grey and pulled back in a practical knot. She wears simple clothing, no jewelry, no official insignia. She could be a farmer or a merchant. She moves with the ease of someone who has lived in her body for a very long time. When she meets the players, she looks at them as though she has all the time in the world. She asks their names and then repeats them, committing them to memory. She touches each player on the shoulder as she greets them, a gesture so warm that it feels almost improper in the cold environment of the Court. Her eyes are what stay with the players. They are the eyes of someone who has seen more than four centuries of human cruelty and has not stopped hoping.
 
 _Sample Quotes for the Host._
 
 1. "I remember when this building was a forest. I remember when the Grand Council Chamber was a clearing where the elders met under the stars. The building is not an improvement."
 2. "The Court believes it controls the empire. The empire does not need the Court. The empire needs food, water, shelter, and meaning. The Court provides none of these things. It only provides permissions."
 3. "You are worried about your career. Your faction. Your reputation. All of these things will be dust in fifty years. What will remain is what you built, who you loved, and whether you walked the path of harm reduction."
-4. "The Bright Mirror and I have never agreed on anything. But I respect her. She believes. That is rarer than you know. Most people in the Court believe in nothing except their own advancement."
-5. "I have survived three Harmonization Audits. Each time I survived by becoming smaller, quieter, less visible. I am tired of being small. I think I will be large again soon. The timing must be right."
+4. "The Bright Mirror and I have never agreed on anything. But I respect him. He believes. That is rarer than you know. Most people in the Court believe in nothing except their own advancement."
+5. "I have survived four Harmonization Audits. Each time I survived by becoming smaller, quieter, less visible. I am tired of being small. I think I will be large again soon. The timing must be right."
 
-_What She Is Doing Right Now._ The Guest Among Forests is orchestrating three long term projects. First, she is building an underground network of reformers across all six schools, people who are willing to work across faction lines for gradual change. The network is designed to survive her death. Second, she is secretly funding agricultural research into crops that can survive in Dusk Touched soil. She believes the empire will need to feed itself from contaminated land within a generation. Third, she is preparing a contingency: a hidden archive of Court knowledge that would survive a total collapse. She has recruited archivists, scholars, and farmers to this project. None of them know the full scope of what they are building.
+_What She Is Doing Right Now._ The Guest Among Forests is orchestrating three projects meant to shape the years ahead. First, she is building an underground network of reformers across all six schools, people who are willing to work across faction lines for gradual change. The network is designed to survive her death. Second, she is secretly funding agricultural research into crops that can survive in Dusk Touched soil. She believes the empire will need to feed itself from contaminated land within a generation. Third, she is preparing a contingency: a hidden archive of Court knowledge that would survive a total collapse. She has recruited archivists, scholars, and farmers to this project. None of them know the full scope of what they are building.
 
 _If the Players Ally With Her._ She becomes a patron of extraordinary patience and wisdom. She does not ask the players to join the Verdant Path. She asks them to think for themselves. She provides resources, introductions, and strategic advice. She never pressures them to act before they are ready. She warns them when they are about to make a mistake, but she does not stop them. "Some lessons must be learned through failure," she says. "I cannot save you from every wound. I can only help you survive the ones that matter."
 
@@ -574,11 +580,13 @@ _Additional Scene Seeds._
 
 ### Iron Calculation
 
+**Default Gender:** Male
+
 **Voice:** Precise, technical, slightly impatient. He uses numbers constantly. "There is a seventy three percent probability that this alliance will fail within eighteen months. The expected cost in lives is..."
 
 **Physical Tell:** His fingers move constantly, as though operating an invisible abacus. He cannot stop calculating.
 
-**What He Wants From the Players:** Competence. He does not care about their factional alignment. He cares whether they can execute. He has a hundred projects that need capable hands.
+**What He Wants From the Players:** Competence. He does not care about their faction affiliation. He cares whether they can execute. He has a hundred projects that need capable hands.
 
 **What He Fears:** That the numbers do not add up. That the empire's Qi reserves will run out before he can complete his grand infrastructure. That everything he built was just triage, not progress.
 
@@ -588,7 +596,7 @@ _First Impression._ The Iron Calculation's office looks like the control room of
 
 _Sample Quotes for the Host._
 
-1. "The empire's Qi reserves will last another forty three years at current consumption rates. If the Dusk continues to advance, the reserves will be needed for stabilization efforts. That reduces the timeline to twenty eight years. You understand why I am concerned."
+1. "The empire's Qi reserves will be exhausted in Year 476, twenty four years from now. If the Dusk continues to advance, emergency stabilization may shorten that timeline. You understand why I am concerned."
 2. "You think the Court runs on doctrine. It runs on grain. When the grain runs out, doctrine becomes irrelevant. I am the person who tracks the grain."
 3. "I have calculated the probability of the empire's survival under every possible reform scenario. The best case is forty seven percent. The worst case is twelve percent. Neither is acceptable. I am working on a third option."
 4. "Your faction is inefficient. You spend seventy percent of your resources on internal politics and thirty percent on actual governance. Reverse those numbers and you would be twice as effective. You will not reverse them. I know this. I have seen it a hundred times."
@@ -609,11 +617,13 @@ _Additional Scene Seeds._
 
 ### Iron Wall
 
+**Default Gender:** Male
+
 **Voice:** Low, deliberate, economical. He speaks in declarative sentences. He does not qualify or hedge. When he gives his word, the conversation is over.
 
 **Physical Tell:** He stands very still. He does not fidget, pace, or gesture. Conserving energy. Always.
 
-**What He Wants From the Players:** Proof that someone in the Court still has honor. He has watched the civilian officials play their games for forty years. He is tired of being the only person who keeps his oaths.
+**What He Wants From the Players:** Proof that someone in the Court still has honor. He has watched civilian officials play their games for twenty seven years. He is tired of being the only person who keeps his oaths.
 
 **What He Fears:** That he will have to execute Operation Empty Throne. That the Court will collapse and he will have to choose between martial law and watching the empire burn.
 
@@ -644,17 +654,19 @@ _Additional Scene Seeds._
 
 ### Bright Mirror
 
-**Voice:** Clear, resonant, utterly certain. She speaks in absolutes. She does not use qualifiers like "perhaps" or "maybe." When she is in the room, everyone else's voice drops half a register.
+**Default Gender:** Male
 
-**Physical Tell:** She does not blink as often as she should. It is deeply unsettling.
+**Voice:** Clear, resonant, utterly certain. He speaks in absolutes. He does not use qualifiers like "perhaps" or "maybe." When he is in the room, everyone else's voice drops half a register.
 
-**What She Wants From the Players:** Honesty. This sounds easy. It is not. She wants the kind of honesty that costs you something. Confess your failings to her, genuinely, and you earn something rare: her respect.
+**Physical Tell:** He does not blink as often as he should. It is deeply unsettling.
 
-**What She Fears:** That she is corrupt. That her incorruptibility is itself a kind of corruption. That she has become so pure she has forgotten what she was purifying herself from.
+**What He Wants From the Players:** Honesty. This sounds easy. It is not. He wants the kind of honesty that costs you something. Confess your failings to him, genuinely, and you earn something rare: his respect.
 
-**Scene Seed:** She summons a player who has been less than truthful in their official reports. The interview room is bare. Her shield is mounted on the wall behind her. The player can see their own reflection in it. She asks: "Tell me something true. Something that matters. Something it would be easier to keep hidden."
+**What He Fears:** That he is corrupt. That his incorruptibility is itself a kind of corruption. That he has become so pure he has forgotten what he was purifying himself from.
 
-_First Impression._ The Bright Mirror's presence fills the room before she enters it. When the door opens, the light seems to shift toward her, as though even the sun acknowledges her authority. She is tall, angular, dressed in pure white that does not have a single wrinkle or stain. Her face is beautiful in the way a blade is beautiful: everything serves a purpose, nothing is decorative. Her eyes are the color of pale jade, and they do not blink on the expected schedule. She looks at the players as though she can see through their skin, through their words, through the stories they tell themselves about who they are. She does not greet them. Greetings are social fictions. She does not waste time on fictions. She sits. She waits. The silence is not uncomfortable. It is a test. She is watching to see who breaks first.
+**Scene Seed:** He summons a player who has been less than truthful in their official reports. The interview room is bare. His shield is mounted on the wall behind him. The player can see their own reflection in it. He asks: "Tell me something true. Something that matters. Something it would be easier to keep hidden."
+
+_First Impression._ The Bright Mirror's presence fills the room before he enters it. When the door opens, the light seems to shift toward him, as though even the sun acknowledges his authority. He is tall, angular, dressed in pure white that does not have a single wrinkle or stain. His face is beautiful in the way a blade is beautiful: everything serves a purpose, nothing is decorative. His eyes are the color of pale jade, and they do not blink on the expected schedule. He looks at the players as though he can see through their skin, through their words, through the stories they tell themselves about who they are. He does not greet them. Greetings are social fictions. He does not waste time on fictions. He sits. He waits. The silence is not uncomfortable. It is a test. He is watching to see who breaks first.
 
 _Sample Quotes for the Host._
 
@@ -664,55 +676,59 @@ _Sample Quotes for the Host._
 4. "You think I am harsh. You are correct. You think I enjoy being harsh. You are incorrect. I do what I do because the empire has no one else who will do it. If you wish to relieve me of this burden, become pure. Then I can rest."
 5. "I have sealed indictments on every member of the Grand Council. Every one. Including those who believe they are my allies. I do not have allies. I have purposes."
 
-_What She Is Doing Right Now._ The Bright Mirror is engaged in three investigations. First, she is tracing the origin of the forged edicts. She has identified the forger as someone within the Bureau of Harmonious Narrative but has not yet identified the person who gave the order. Second, she is compiling a master dossier on the Crimson Dusk's progression, correlating it with historical records of Harmonization Audits. She is beginning to suspect a pattern: Audits accelerate the Dusk. Third, she is conducting interviews with every living member of the founding families, hoping to find someone who will tell her what happened the night the Emperor was sealed. The Duke of Eternal Night has refused her requests for an interview seven times.
+_What He Is Doing Right Now._ The Bright Mirror is engaged in three investigations. First, he is tracing the origin of the forged edicts. He has identified the forger as someone within the Bureau of Harmonious Narrative but has not yet identified the person who gave the order. Second, he is compiling a master dossier on the Crimson Dusk's progression, correlating it with historical records of Harmonization Audits. He is beginning to suspect a pattern: Audits accelerate the Dusk. Third, he is conducting interviews with every living member of the founding families, hoping to find someone who will tell him what happened the night the Emperor was sealed. The Duke of Eternal Night has refused his requests for an interview seven times.
 
-_If the Players Ally With Her._ She is the most dangerous ally in the Court. She does not offer protection. She offers purpose. Players who prove their integrity to her gain access to information no one else has, influence that transcends factional lines, and the knowledge that they are on the side of truth. The cost is that she will hold them to an impossible standard. One lie, one betrayal, one act of cowardice, and her approval is revoked permanently. She does not give second chances. Purity is not negotiable.
+_If the Players Ally With Him._ He is the most dangerous ally in the Court. He does not offer protection. He offers purpose. Players who prove their integrity to him gain access to information no one else has, influence that transcends factional lines, and the knowledge that they are on the side of truth. The cost is that he will test every claim they make and expect them to correct the record when they are wrong. Deliberate deception, betrayal, or cowardice that endangers others can cost his trust, but honest error does not. He respects people who admit a mistake before the evidence corners them. To him, purity means loyalty to truth, not freedom from human frailty.
 
-_If the Players Oppose Her._ She does not attack them. She investigates them. She compiles a file. She watches. And then, when they least expect it, she publishes everything she has found. The Bright Mirror's investigations are always complete, always accurate, and always devastating. A player who becomes her enemy does not face assassination. They face exposure. The Court's judgment is far crueler than any blade.
+_If the Players Oppose Him._ He does not attack them. He investigates them. He compiles a file. He watches. He tests each allegation, follows contradictions, and withholds judgment until he believes the record can withstand challenge. If he confirms deliberate wrongdoing, he publishes what he can prove. A player who becomes his enemy does not face assassination. They face exposure supported by evidence, and the Court's judgment is far crueler than any blade.
 
-_If the Players Ignore Her._ She continues her investigations. She may approach them later if their actions draw her attention. She is patient. She has been pursuing the truth for decades. She can wait a little longer. If the players eventually cross her path, she will judge them based on their actions, not their history. She holds no grudges. She holds only facts.
+_If the Players Ignore Him._ He continues his investigations. He may approach them later if their actions draw his attention. He is patient. He has been pursuing the truth for decades. He can wait a little longer. If the players eventually cross his path, he will judge them based on their actions, not their history. He holds no grudges. He holds only facts.
 
 _Additional Scene Seeds._
 
-1. The Bright Mirror summons the entire party to her chamber. "One of you is lying to me. I do not know which one yet. I will find out. If the liar confesses now, they will receive a lesser sanction. If they force me to discover the truth, the sanction will be severe." She waits. The silence stretches. She is completely serious.
-2. A player discovers that their personal records have been flagged by the Bright Mirror's office. The flag is not an accusation. It is an invitation. She wants to meet them. When they arrive, she asks a single question: "You have been investigating the same matter I have been investigating. I want to know what you have found. I will trade you something of equal value."
+1. The Bright Mirror summons the entire party to his chamber. "One of you gave me an account that does not match the evidence. I do not yet know whether it was a lie, a mistake, or information planted by someone else. I will find out. Tell me what each of you actually knows, and distinguish fact from inference." He waits. The silence stretches. He is completely serious.
+2. A player discovers that their personal records have been flagged by the Bright Mirror's office. The flag is not an accusation. It is an invitation. He wants to meet them. When they arrive, he asks a single question: "You have been investigating the same matter I have been investigating. I want to know what you have found. I will trade you something of equal value."
 
 ### Shadow
 
-**Voice:** Conversational, irreverent, fond of deflecting serious questions with jokes. She is the only person in the empire who will tease a Grand Council elder to their face. This is her privilege. They need her too much to kill her.
+**Default Gender:** Male
 
-**Physical Tell:** She is always slightly closer than you remember her being. You turn, and she is there. You did not hear her move.
+**Voice:** Conversational, irreverent, fond of deflecting serious questions with jokes. He is the only person in the empire who will tease a Grand Council elder to their face. This is his privilege. They need him too much to kill him.
 
-**What She Wants From the Players:** Proof that someone can be trusted. She has been betrayed by everyone who ever mattered. She wants to believe, against all evidence, that loyalty is possible.
+**Physical Tell:** He is always slightly closer than you remember him being. You turn, and he is there. You did not hear his move.
 
-**What She Fears:** That she will die alone. That everything she did to survive was not worth the cost. That she traded her soul for safety and got neither.
+**What He Wants From the Players:** Proof that someone can be trusted. He has been betrayed by everyone who ever mattered. He wants to believe, against all evidence, that loyalty is possible.
 
-**Scene Seed:** She contacts the players with an offer: information they need, in exchange for information they have. The negotiation is friendly. She laughs. She pours drinks. She is also counting every card in their hand. At the end, she leans forward. "One more thing. Off the books. Someone is planning to move against you. I can tell you who. But you will owe me. Not Celestial Favor. A real debt. The kind I collect in person."
+**What He Fears:** That he will die alone. That everything he did to survive was not worth the cost. That he traded his soul for safety and got neither.
 
-_First Impression._ The Shadow appears without appearing. The players are in a room, and then they are not alone, and they cannot say exactly when that changed. She is leaning against a wall they checked moments ago, smiling at them with the patient amusement of someone watching children play a game they have already solved. She is unremarkable in every way: average height, average build, clothing that would not stand out in any crowd. Her face is pleasant without being memorable. This is her greatest weapon. She can be anywhere because no one looks twice at her. When she speaks, her voice is warm and conversational, as though they are old friends catching up. "I have been watching you," she says, as though admitting to a shared hobby. "You are interesting. Most people in the Court are not interesting. I want to know more about you." She makes it sound like a compliment. It is also a threat.
+**Scene Seed:** He contacts the players with an offer: information they need, in exchange for information they have. The negotiation is friendly. He laughs. He pours drinks. He is also counting every card in their hand. At the end, he leans forward. "One more thing. Off the books. Someone is planning to move against you. I can tell you who. But you will owe me. Not Celestial Favor. A real debt. The kind I collect in person."
+
+_First Impression._ The Shadow appears without appearing. The players are in a room, and then they are not alone, and they cannot say exactly when that changed. He is leaning against a wall they checked moments ago, smiling at them with the patient amusement of someone watching children play a game they have already solved. He is unremarkable in every way: average height, average build, clothing that would not stand out in any crowd. His face is pleasant without being memorable. This is his greatest weapon. He can be anywhere because no one looks twice at him. When he speaks, his voice is warm and conversational, as though they are old friends catching up. "I have been watching you," he says, as though admitting to a shared hobby. "You are interesting. Most people in the Court are not interesting. I want to know more about you." He makes it sound like a compliment. It is also a threat.
 
 _Sample Quotes for the Host._
 
-1. "The Bright Mirror thinks she knows all my secrets. She knows the ones I want her to know. There is a difference."
+1. "The Bright Mirror thinks he knows all my secrets. He knows the ones I want him to know. There is a difference."
 2. "I have walked into every secure room in the capital. The Grand Council Chamber. The Commission archives. The Iron Calculation's private study. I left something in each of them. A note. A token. Proof that I was there. They have never found any of them."
-3. "You are wondering if you can trust me. The answer is no. You can trust me to act in my own self interest. My self interest currently aligns with yours. That may change."
+3. "You are wondering if you can trust me. The answer is no. You can trust me to protect my own interests. At present, those interests align with yours. That may change."
 4. "I was not born into the Court. I crawled in through a crack in the foundation. That crack is still there. I use it when I need to leave quickly."
 5. "The Celestial Book knows everything. The Duke remembers everything. I know where everything is hidden. Which of these skills do you think is most useful at three in the morning when you need to disappear?"
 
-_What She Is Doing Right Now._ The Shadow is managing three complex operations. First, she is maintaining a network of safe houses across the capital, properties registered to names that do not exist. These are for her use and for anyone she deems worth protecting. Second, she is systematically mapping the underground tunnels and forgotten passages of the Celestial Court, creating a comprehensive guide that she keeps only in her memory. Third, she is playing a long game with the Night Warbler. The Shadow knows the Night Warbler is investigating her. She is allowing the investigation to continue, subtly steering it away from her actual activities and toward a false trail that leads to a fabricated conspiracy. When the Night Warbler finally acts on the information, the Shadow will know exactly who else has been watching.
+_What He Is Doing Right Now._ The Shadow is managing three complex operations. First, he is maintaining a network of safe houses across the capital, properties registered to names that do not exist. These are for his use and for anyone he deems worth protecting. Second, he is systematically mapping the underground tunnels and forgotten passages of the Celestial Court. He keeps the working guide in memory and periodically transfers verified changes to a hidden master map. Third, he is playing a long game with the Night Warbler. The Shadow knows the Night Warbler is investigating him. He is allowing the investigation to continue, subtly steering it away from his actual activities and toward a false trail that leads to a fabricated conspiracy. When the Night Warbler finally acts on the information, the Shadow will know exactly who else has been watching.
 
-_If the Players Ally With Her._ She is mercurial but effective. She provides information, access, and escape routes. She never lies to them, though she frequently omits crucial details. She expects the same treatment. A player who betrays her trust will find that their secrets have a way of becoming public at the worst possible moment. A player who proves trustworthy will find that the Shadow has been protecting them from threats they never knew existed.
+_If the Players Ally With Him._ He is mercurial but effective. He provides information, access, and escape routes. He never lies to them, though he frequently omits crucial details. He expects the same treatment. A player who betrays his trust will find that their secrets have a way of becoming public at the worst possible moment. A player who proves trustworthy will find that the Shadow has been protecting them from threats they never knew existed.
 
-_If the Players Oppose Her._ They will never succeed. She knows where they sleep. She knows who they love. She knows what they are afraid of. She does not use this knowledge to threaten them. She uses it to ensure that their plans fail in small, inexplicable ways. A document goes missing. A contact does not show up. A door that should be unlocked is locked. The Shadow does not make enemies. She makes obstacles.
+_If the Players Oppose Him._ They will never succeed. He knows where they sleep. He knows who they love. He knows what they are afraid of. He does not use this knowledge to threaten them. He uses it to ensure that their plans fail in small, inexplicable ways. A document goes missing. A contact does not show up. A door that should be unlocked is locked. The Shadow does not make enemies. He makes obstacles.
 
-_If the Players Ignore Her._ She continues her work. She may approach them later if they become useful. She may not. She has many projects and many interests. The players are one thread in a very large web. She will pull on them when she needs them. Until then, she watches.
+_If the Players Ignore Him._ He continues his work. He may approach them later if they become useful. He may not. He has many projects and many interests. The players are one thread in a very large web. He will pull on them when he needs them. Until then, he watches.
 
 _Additional Scene Seeds._
 
 1. A player wakes to find a note pinned to their pillow. It is written in a script they do not recognize. It reads: "Your contact in the Bureau is compromised. Do not trust anything they tell you after today. You will know this is true when they fail to recognize you tomorrow." The note is unsigned. The player's door was locked from the inside.
-2. The Shadow appears at a player's elbow during a crowded social event. She does not look at them. She speaks in a low murmur. "In approximately three minutes, a messenger will arrive with news that will upset you. When you react, watch the person standing by the east pillar. They will smile. That smile will tell you who has been working against you."
+2. The Shadow appears at a player's elbow during a crowded social event. He does not look at them. He speaks in a low murmur. "In approximately three minutes, a messenger will arrive with news that will upset you. When you react, watch the person standing by the east pillar. They will smile. That smile will tell you who has been working against you."
 
 ### Duke of Eternal Night
+
+**Default Gender:** Male
 
 **Voice:** Cultured, amused, faintly melancholy. He speaks in complete paragraphs. He references events that happened before anyone else in the room was born. He is lonely in a way that eight centuries of life makes inevitable.
 
@@ -728,17 +744,17 @@ _First Impression._ The Duke of Eternal Night's estate is a museum of things tha
 
 _Sample Quotes for the Host._
 
-1. "I was there when the vote was taken. I was the seventh voice in favor of the sealing. I would vote differently now. But that is the tragedy of longevity, is it not? You must live with the decisions your younger self made."
+1. "I was there when the vote was taken. I voted against the sealing. I lost, and then I failed to stop what followed. That is the tragedy of longevity, is it not? You must live not only with what you chose, but with what your courage failed to prevent."
 2. "The food is safe. I cannot eat it myself, but my chef is the finest in the empire. I hire only the best. I have had eight centuries to learn what excellence looks like."
-3. "You are wondering what I am. It is a reasonable question. I am not a demon. I am not a spirit. I am a consequence. The ritual that sealed the Emperor had side effects. I am one of them."
+3. "You are wondering what I am. It is a reasonable question. I am not a demon. I am not a spirit. I entered the blood centuries before the Emperor was sealed, by choice, with the terms explained plainly. I have regretted many things. That choice is not among them."
 4. "My family has served the empire since before the empire was an empire. We were here when the first foundation stone was laid. We will be here when the last stone falls. Assuming we do not fall first."
-5. "The Celestial Book believes knowledge is power. He is wrong. Knowledge is the memory of power. True power is the willingness to act on what you know. I have acted. I regret much of it."
+5. "The Celestial Book believes knowledge is power. She is wrong. Knowledge is the memory of power. True power is the willingness to act on what you know. I have acted. I regret much of it."
 
-_What He Is Doing Right Now._ The Duke is pursuing three long term objectives. First, he is searching for a successor. His children do not want the burden of the Crimson Lineage. He is looking for someone outside his bloodline who could inherit his knowledge and his responsibilities. The players may be candidates. Second, he is monitoring the Spire of Eternal Vigil for signs of change. He knows the seal is weakening. He is calculating how much time remains before it fails. Third, he is maintaining a secret correspondence with the Celestial Book, the Guest Among Forests, and the Cinnabar Heart. These four share a secret: they know what was done to the Emperor. They do not agree on what should be done about it.
+_What He Is Doing Right Now._ The Duke is pursuing three objectives for the years ahead. First, he is searching for a successor. The one person he brought into the blood as an heir attempted a coup and now lives in exile. He is looking for someone who can inherit his knowledge and responsibilities without repeating that failure. The players may be candidates. Second, he is monitoring the Spire of Eternal Vigil for signs of change. He knows the seal is weakening. He is calculating how much time remains before it fails. Third, he is maintaining a secret correspondence with the Celestial Book, the Guest Among Forests, and the Cinnabar Heart. These four share a secret: they know what was done to the Emperor. They do not agree on what should be done about it.
 
 _If the Players Ally With Him._ He becomes a patron of extraordinary resources and knowledge. He provides access to lost history, ancient artifacts, and connections that span centuries. He asks for little in return: only that the players surprise him, challenge him, remind him that the world is still capable of novelty. His protection is absolute within his sphere of influence. Outside it, he cannot help. His power is real but bounded.
 
-_If the Players Oppose Him._ He is not threatened by them. He has seen a thousand enemies rise and fall. He does not retaliate. He waits. He knows that time is on his side. A player who makes an enemy of the Duke will find that doors close, invitations stop arriving, and allies grow distant. The Duke does not destroy his enemies. He outlives them. He has been doing it for eight hundred years.
+_If the Players Oppose Him._ He is not threatened by them. He has seen a thousand enemies rise and fall. He does not retaliate. He waits. He knows that time is on his side. A player who makes an enemy of the Duke will find that doors close, invitations stop arriving, and allies grow distant. The Duke does not destroy his enemies. He outlives them. He has been doing it for centuries.
 
 _If the Players Ignore Him._ He watches with mild interest. He may invite them again in a year, or a decade. He is patient. He has time that the players cannot imagine. If they never return, he will remember them with the vague fondness one feels for a passing acquaintance.
 
@@ -748,6 +764,8 @@ _Additional Scene Seeds._
 2. A player receives a gift from the Duke: an ancient scroll case made of jade and silver. Inside is a single sheet of paper with a name written on it. The name is the player's own, written in a script that predates the current Court. On the back, in the Duke's handwriting: "I have been expecting you. I was expecting your ancestor. The name passes down. The debt passes with it."
 
 ### Iron Bone
+
+**Default Gender:** Male
 
 **Voice:** Two voices. The first is warm, passionate, the voice of a leader who genuinely loves his people. The second is a growl that vibrates in the chest, the voice of the wolf. He shifts between them without warning.
 
@@ -767,9 +785,9 @@ _Sample Quotes for the Host._
 2. "I have a voice inside me that wants to burn everything down. Every day I choose not to listen to it. Some days the choice is harder than others. Today is a hard day."
 3. "You ask what I want. I want the foundries to be safe. I want the workers to be paid enough to feed their families. I want the children to grow up without the fear of the Commission. These are not radical demands. They are basic decency."
 4. "The wolf is not my enemy. The wolf is my anger, given form. Anger is not evil. It is information. It tells you when something is wrong. The question is what you do with the information."
-5. "The Golden Orthodoxy says the Dusk is a punishment for heresy. Let me tell you something they will never say in public: the Dusk started in the penal works. The camps where the Court sends people it wants to forget. The Dusk came from suffering, not from sin."
+5. "The Golden Orthodoxy says the Dusk is a punishment for heresy. It did not begin in the camps. I know that. But I watched it enter one. The Court gathered suffering in one place until the red found a way through. Sin did not call it inward. Our cruelty did."
 
-_What He Is Doing Right Now._ The Iron Bone is organizing on three fronts. First, he is building a clandestine network of worker councils across the capital's industrial districts. These councils are designed to coordinate action when the moment comes. They are not revolutionary cells. They are mutual aid societies that happen to have a political edge. Second, he is investigating the history of the penal works where the Dusk first appeared. He has found witnesses, survivors, and partial records. He is piecing together what happened. Third, he is managing the wolf. He meditates daily. He performs rituals of containment. He has not lost control in seven years. He is not sure how much longer he can maintain that record.
+_What He Is Doing Right Now._ The Iron Bone is organizing on three fronts. First, he is building a clandestine network of worker councils across the capital's industrial districts. These councils are designed to coordinate action when the moment comes. They are not revolutionary cells. They are mutual aid societies that happen to have a political edge. Second, he is investigating the history of the penal works where the Dusk first appeared beyond the border provinces. He has found witnesses, survivors, and partial records. He is piecing together what happened. Third, he is managing the wolf. He meditates daily. He performs rituals of containment. He has had no public loss of control in seven years, though private memory gaps still frighten him. He is not sure how much longer he can maintain the public record.
 
 _If the Players Ally With Him._ He welcomes them as equals, not followers. He shares everything he knows. He introduces them to his network. He asks for their skills, their ideas, their criticism. He is the least hierarchical leader in the Court. He genuinely believes that the movement belongs to everyone, not to him. He will follow the players' lead if they demonstrate better judgment. This is not humility. It is strategy. He knows he is a weapon. He wants to be aimed by people he trusts.
 
@@ -784,17 +802,19 @@ _Additional Scene Seeds._
 
 ### Celestial Book
 
-**Voice:** Ancient, papery, given to long silences. When he speaks, it is often in quotations from texts no one else has ever read. Sometimes the quotations contradict each other. Sometimes they contradict themselves.
+**Default Gender:** Female
 
-**Physical Tell:** He occasionally loses focus, as though listening to something no one else can hear. Then he snaps back with a remark so precise it makes you wonder if the distraction was real.
+**Voice:** Ancient, papery, given to long silences. When she speaks, it is often in quotations from texts no one else has ever read. Sometimes the quotations contradict each other. Sometimes they contradict themselves.
 
-**What He Wants From the Players:** Curiosity. The genuine, hungry desire to understand. He has spent a thousand years accumulating knowledge. He wants to share it with someone who will appreciate it, not weaponize it.
+**Physical Tell:** She occasionally loses focus, as though listening to something no one else can hear. Then she snaps back with a remark so precise it makes you wonder if the distraction was real.
 
-**What He Fears:** That the knowledge will die with him. That no one is worthy to inherit the Archives. That the truth about the Emperor and the Dusk and the founding crime will be lost, and the empire will collapse not because it was destroyed but because it forgot what it was.
+**What She Wants From the Players:** Curiosity. The genuine, hungry desire to understand. She has spent a thousand years accumulating knowledge. She wants to share it with someone who will appreciate it, not weaponize it.
 
-**Scene Seed:** A player who has shown genuine intellectual curiosity is granted access to the Imperial Archives. The Celestial Book is there, shelving scrolls. He seems frail. He seems confused. Then he hands the player a specific volume, open to a specific page, and says: "This is what you were looking for, I believe. You did not know you were looking for it. But you were. Read. I will be in the next aisle if you have questions."
+**What She Fears:** That the knowledge will die with her. That no one is worthy to inherit the Archives. That the truth about the Emperor and the Dusk and the founding crime will be lost, and the empire will collapse not because it was destroyed but because it forgot what it was.
 
-_First Impression._ The Imperial Archives are overwhelming: endless shelves stretching into darkness, the smell of paper and dust and time. The Celestial Book is part of the architecture. He is small and stooped, dressed in robes that may once have been a specific color but have faded to something indeterminate. His hair is white and thin. His hands are spotted with age. He moves slowly, touching the shelves as he walks, as though drawing strength from the knowledge around him. When he speaks, his voice is papery, like something that has been read too many times. He does not look directly at the players at first. He looks past them, at something only he can see. Then, suddenly, he focuses. His eyes are shockingly sharp. "Ah," he says. "You. I have been expecting you. I have been expecting you for a very long time. You are late." He smiles. It is not clear whether he is joking. He may not be sure himself.
+**Scene Seed:** A player who has shown genuine intellectual curiosity is granted access to the Imperial Archives. The Celestial Book is there, shelving scrolls. She seems frail. She seems confused. Then she hands the player a specific volume, open to a specific page, and says: "This is what you were looking for, I believe. You did not know you were looking for it. But you were. Read. I will be in the next aisle if you have questions."
+
+_First Impression._ The Imperial Archives are overwhelming: endless shelves stretching into darkness, the smell of paper and dust and time. The Celestial Book is part of the architecture. She is small and stooped, dressed in robes that may once have been a specific color but have faded to something indeterminate. Her hair is white and thin. Her hands are spotted with age. She moves slowly, touching the shelves as she walks, as though drawing strength from the knowledge around her. When she speaks, her voice is papery, like something that has been read too many times. She does not look directly at the players at first. She looks past them, at something only she can see. Then, suddenly, she focuses. Her eyes are shockingly sharp. "Ah," she says. "You. I have been expecting you. I have been expecting you for a very long time. You are late." She smiles. It is not clear whether she is joking. She may not be sure herself.
 
 _Sample Quotes for the Host._
 
@@ -802,15 +822,15 @@ _Sample Quotes for the Host._
 2. "The truth about the Emperor is written in three places. One is in this archive. One is in the Duke's estate. One is in a place that no longer exists. You must find the first two to learn where the third was."
 3. "You ask if the Court can be saved. That is the wrong question. The correct question is: should it be saved? The Court is a machine for extracting value from human lives. Machines can be redesigned. They can also be dismantled."
 4. "I knew your great grandmother. She asked better questions than you do. But you are younger. You have time to improve."
-5. "The Crimson Dusk is not a punishment. It is not a natural disaster. It is a symptom. The empire has been poisoning itself for three hundred years. The Dusk is the fever breaking. Fevers can kill you. They can also cleanse you."
+5. "The Crimson Dusk is not a punishment. It is not a natural disaster. It is a symptom. The first wound was struck at the founding. One hundred and fifty five years ago, the completed seal tore it open again. The Dusk is the fever that followed. Fevers can kill you. They can also cleanse you."
 
-_What He Is Doing Right Now._ The Celestial Book is engaged in three monumental tasks. First, he is reorganizing the Archives according to a system only he understands, a system that encodes a hidden message about the Emperor's true fate. He is racing to complete this before he dies. Second, he is training a successor: a young archivist who does not know she is being trained. He believes she has the capacity to inherit the knowledge if she can survive the Court long enough. Third, he is slowly, methodically destroying the false records that the Bureau of Harmonious Narrative has planted. He replaces them with accurate copies that differ in specific, crucial details. He has been doing this for two centuries. No one has noticed.
+_What She Is Doing Right Now._ The Celestial Book is engaged in three monumental tasks. First, she is reorganizing the Archives according to a system only she understands, a system that encodes a hidden message about the Emperor's true fate. She is racing to complete this before she dies. Second, she is training a successor: a young archivist who does not know she is being trained. She believes she has the capacity to inherit the knowledge if she can survive the Court long enough. Third, she is slowly, methodically destroying the false records that the Bureau of Harmonious Narrative has planted. She replaces them with accurate copies that differ in specific, crucial details. She has been doing this for two centuries. No one has noticed.
 
-_If the Players Ally With Him._ He becomes a source of unparalleled knowledge. He answers questions directly, though often elliptically. He provides documents, clues, and historical context. He does not offer protection or resources. He offers understanding. A player who earns his trust is given access to the restricted sections of the Archives, where the real history of the Court is preserved. He asks only that they use the knowledge wisely and share it with no one until the time is right.
+_If the Players Ally With Her._ She becomes a source of unparalleled knowledge. She answers questions directly, though often elliptically. She provides documents, clues, and historical context. She does not offer protection or resources. She offers understanding. A player who earns her trust is given access to the restricted sections of the Archives, where the real history of the Court is preserved. She asks only that they use the knowledge wisely and share it with no one until the time is right.
 
-_If the Players Oppose Him._ He does not fight them. He does not need to. He simply stops helping them. The information they need becomes just out of reach. The document they were looking for has been moved. The reference they needed has been misfiled. The passage that would have explained everything is in a book that is currently being restored. The Celestial Book does not make enemies. He simply becomes unavailable to them. The silence of the Archives is his weapon.
+_If the Players Oppose Her._ She does not fight them. She does not need to. She simply stops helping them. The information they need becomes just out of reach. The document they were looking for has been moved. The reference they needed has been misfiled. The passage that would have explained everything is in a book that is currently being restored. The Celestial Book does not make enemies. She simply becomes unavailable to them. The silence of the Archives is her weapon.
 
-_If the Players Ignore Him._ He continues his work. He may reach out to them if their actions suggest they are ready for certain knowledge. He does not pursue them. He has waited a thousand years. He can wait a little longer for the right students to find him.
+_If the Players Ignore Her._ She continues her work. She may reach out to them if their actions suggest they are ready for certain knowledge. She does not pursue them. She has waited a thousand years. She can wait a little longer for the right students to find her.
 
 _Additional Scene Seeds._
 
@@ -819,17 +839,19 @@ _Additional Scene Seeds._
 
 ### Bone Script
 
+**Default Gender:** Male
+
 **Voice:** Plain and slightly slow, because the capital dialect is his third language and he assembles each sentence before he releases it. He gets honorifics wrong and has stopped apologizing for it. When he is angry he becomes more precise rather than louder, which officials find far more disturbing than shouting.
 
 **Physical Tell:** His hand goes to his belt and counts tokens without his eyes following. He does it when he is thinking, when he is frightened, and when someone says something he intends to remember. He also looks at the plants in a room before he looks at the people.
 
 **What He Wants From the Players:** Accuracy. Not sympathy, not donations, not outrage on his behalf. He wants someone to say a name correctly and not need to be told twice. Everything else he can arrange himself.
 
-**What He Fears:** That the four thousand will be made into a symbol. A symbol can be argued with, adopted, printed on a banner, and eventually retired. A name in a registry cannot. He has watched the Common Flame try to turn him into a cause, and he understands that the cause would outlive the names and replace them.
+**What He Fears:** That the four thousand and one will be made into a symbol. A symbol can be argued with, adopted, printed on a banner, and eventually retired. A name in a registry cannot. He has watched the Common Flame try to turn him into a cause, and he understands that the cause would outlive the names and replace them.
 
 **Scene Seed:** The petitions hall, sixth hour, a queue of ninety people. A player waiting on unrelated business notices that the man three places ahead is not waiting like the others. He is not anxious. He has a folded cloth on his knees, a stack of forms squared at the corners, and the specific stillness of someone who has done this four hundred times. When the window closes for the day without reaching him, he stands, thanks the clerk by name, and leaves. He will be back before dawn.
 
-_First Impression._ He does not look like a threat and he does not look like a beggar, which makes him hard to place, and being hard to place in the capital is itself a kind of danger. The cloak is good work gone shabby, lined with living moss that he waters. The staff is storm fallen ash with raw Qi crystals growing where the branches fork, unset and unpolished, which no licensed practitioner would tolerate. Forty one bone tokens hang along his belt and harness on waxed thread. He is perhaps twenty five. He looks older in the eyes and younger everywhere else. When he speaks to the players he takes a moment first, and the moment is not hesitation. It is translation.
+_First Impression._ He does not look like a threat and he does not look like a beggar, which makes him hard to place, and being hard to place in the capital is itself a kind of danger. The cloak is good work gone shabby, lined with living moss that he waters. The staff is ash felled by a storm, with raw Qi crystals growing where the branches fork, unset and unpolished, which no licensed practitioner would tolerate. Forty one bone tokens hang along his belt and harness on waxed thread. He is perhaps twenty five. He looks older in the eyes and younger everywhere else. When he speaks to the players he takes a moment first, and the moment is not hesitation. It is translation.
 
 _Sample Quotes for the Host._
 
@@ -850,9 +872,11 @@ _If the Players Ignore Him._ The Court is manufacturing him. Every refusal, ever
 _Additional Scene Seeds._
 
 1. A player who has earned some trust is invited to watch him do the evening maintenance: recutting a worn stroke, replacing a cracked thread, oiling the bone. It takes an hour. He does not narrate it. Partway through he hands the player a token and a knife and says the name aloud, twice, waiting for the player to repeat it. Whether the player gets it right is not the test. Whether they try is.
-2. The Common Flame stages a rally and puts his name on the banners without asking. He arrives, stands at the back, and does not speak. Afterward an organizer explains warmly that the movement can get his petition signed within a week. It is true. The price is that the four thousand become the movement's dead rather than his valley's dead. The players are present when he answers.
+2. The Common Flame stages a rally and puts his name on the banners without asking. He arrives, stands at the back, and does not speak. Afterward an organizer explains warmly that the movement can get his petition signed within a week. It is true. The price is that the four thousand and one become the movement's dead rather than his valley's dead. The players are present when he answers.
 
 ### Incense Crown
+
+**Default Gender:** Female
 
 **Voice:** Unfailingly gracious, which is a technique and not a warmth. She speaks slowly and never fills a silence. Officials trained on the Court's verbal fencing find themselves talking into her pauses and saying appreciably more than they intended, and then leaving convinced the conversation went well.
 
@@ -874,7 +898,7 @@ _Sample Quotes for the Host._
 4. "The empire can take a province. It cannot take a rite. That is the whole of my position, and I would ask you to notice that it is a position I did not choose and cannot resign."
 5. "The Duke told me my predecessor put a rising tone on the eighth phrase and her teacher did not. He will not say which was correct. I have come to understand that he does not know either. Neither does anyone. We have been doing it both ways for a hundred and forty years and nothing has happened, and I would very much like to know what that means."
 
-_What She Is Doing Right Now._ She is writing down the ordination. Not the liturgy, which exists, but the part that is transmitted only in person and that nine people alive still carry. She is doing it in fragments, in a script she invented, distributed across objects nobody would search, and she is racing the actuarial table: the other eight officiants are all past seventy. She is also, in the third hour of every afternoon while her attendants eat, running a sanctuary in the shrine of the drowned that does not officially exist and that has now sheltered something over two hundred people.
+_What She Is Doing Right Now._ She is writing down the ordination. Not the liturgy, which exists, but the part that is transmitted only in person and that nine people alive still carry. She is doing it in fragments, in a script she invented, distributed across objects nobody would search, and she is racing the actuarial table: the other eight officiants are all eighty one or older. She is also, in the third hour of every afternoon while her attendants eat, running a sanctuary in the shrine of the drowned. It currently holds six people, has held as many as nineteen at once, and has sheltered more than two hundred people over eleven years.
 
 _If the Players Ally With Her._ She offers what nothing else in the campaign offers: legitimate immunity. A rite she is willing to perform can stop a proceeding that armies could not, because to interrupt it is to interrupt the Emperor's continuance, and no official in the Nine Domains wants that entry in the record next to their name. She will spend this for people, not for causes, and never twice for the same person.
 
@@ -889,7 +913,7 @@ _Additional Scene Seeds._
 
 ---
 
-## Part Five-B: Running Each Archetype
+## Part Five, Section Two: Running Each Archetype
 
 ### Cinnabar Heart (Alchemist)
 
@@ -931,17 +955,17 @@ _Additional Scene Seeds._
 
 **Core Fantasy.** The Guest Among Forests player wants to feel ancient and wise, someone who has seen empires rise and fall. Their power comes from patience, perspective, and a deep connection to the natural world. They think in centuries, not days, and they know that most crises are temporary when viewed from a sufficient distance.
 
-**What to Track.** Track the player's connections in the Verdant Path and among non-human peoples. Note promises made, favors owed, and debts owed to them. Monitor the state of their forest bonds and plant allies. Keep a timeline of events relative to their long lifespan, so you can draw on their character's personal history when relevant.
+**What to Track.** Track the player's connections in the Verdant Path and among nonhuman peoples. Note promises made, favors owed, and debts owed to them. Monitor the state of their forest bonds and plant allies. Keep a timeline of events relative to their long lifespan, so you can draw on their character's personal history when relevant.
 
 **Scene Hooks.**
 
 1. A forest the player has a bond with is threatened by Dusk contamination or industrial logging. The player must choose between protecting the forest and pursuing their current mission.
 2. Someone from the player's distant past reappears, carrying a message or a debt that has waited decades to be collected.
-3. The player is asked to mediate a dispute between non-human peoples and a Court faction. Both sides trust the player, and the outcome will shape regional politics for years.
+3. The player is asked to mediate a dispute between nonhuman peoples and a Court faction. Both sides trust the player, and the outcome will shape regional politics for years.
 
 **Common Pitfalls.** Do not treat the player's long lifespan as a source of omnipotent ancient knowledge. They know much, but their knowledge is centuries old and may be outdated. Avoid making every scene about how old the character is. Their age is context, not content. Use it sparingly for maximum impact.
 
-**Making Personal Connections Matter.** The Guest Among Forests figure is a kindred spirit, an elder who understands the player's burden. The player's former home in the Northern Expanse can be threatened by Court politics. A non-human friend or mentor who taught the player their ways can be endangered, forcing the player to move on a human timescale rather than their natural one.
+**Making Personal Connections Matter.** The Guest Among Forests figure is a kindred spirit, an elder who understands the player's burden. The player's former home in the Northern Expanse can be threatened by Court politics. A nonhuman friend or mentor who taught the player their ways can be endangered, forcing the player to move on a human timescale rather than their natural one.
 
 **Spotlight Moment.** The Court is deadlocked, two factions at an impasse, violence imminent. The Guest Among Forests player steps forward and describes a similar crisis from three centuries ago, in another kingdom that no longer exists. They explain what happened then, what was learned, and what might be done differently now. The Council listens. The player's wisdom changes the course of the debate.
 
@@ -975,7 +999,7 @@ _Additional Scene Seeds._
 2. A former comrade appears, now fighting for a different faction or the Dusk. The player must confront someone they once fought beside.
 3. Operation Empty Throne is mentioned in their presence, and they must decide whether to investigate or report the mention to their superiors.
 
-**Common Pitfalls.** Do not sideline the Iron Wall in intrigue-heavy sessions. Their honor and presence matter even in social scenes; a soldier who stands at attention and speaks plainly commands respect. Avoid making every conflict physical; the Iron Wall's true strength is their integrity, and tests of that integrity are more interesting than tests of their blade.
+**Common Pitfalls.** Do not sideline the Iron Wall in sessions focused on intrigue. Their honor and presence matter even in social scenes; a soldier who stands at attention and speaks plainly commands respect. Avoid making every conflict physical; the Iron Wall's true strength is their integrity, and tests of that integrity are more interesting than tests of their blade.
 
 **Making Personal Connections Matter.** The Iron Wall figure is a commanding officer whose respect the player craves or has already earned. The player's family legacy of military service creates expectations and burdens. A soldier the player once commanded now serves in a dangerous posting, and the player feels responsible for their safety.
 
@@ -983,9 +1007,9 @@ _Additional Scene Seeds._
 
 ### Bright Mirror (Justicar)
 
-**Core Fantasy.** The Bright Mirror player wants to be the investigator who cannot be fooled, the judge who cannot be corrupted, the light that exposes every shadow. Their power is certainty: they know what is true, and they act on that knowledge without hesitation.
+**Core Fantasy.** The Bright Mirror player wants to be the investigator who cannot be fooled, the judge who cannot be corrupted, the light that exposes every shadow. Their power is disciplined judgment: they test every claim until they know what holds, then act on that conclusion without hesitation.
 
-**What to Track.** Maintain a dossier of the player's active investigations, with clues found, witnesses interviewed, and leads remaining. Track their Truth Sight usage and what they have learned. Monitor their Faction Standing with the Commission and which officials have reason to fear or resent them. Note any past cases where the player made a call that later proved wrong.
+**What to Track.** Maintain a dossier of the player's active investigations, with clues found, witnesses interviewed, and leads remaining. Track their Truth Sight usage and what they have learned. Monitor their Faction Standing with Bright Mirror and which Commission officials have reason to fear or resent them. Note any past cases where the player made a call that later proved wrong.
 
 **Scene Hooks.**
 
@@ -1080,12 +1104,12 @@ _Additional Scene Seeds._
 **Scene Hooks.**
 
 1. The petition finally reaches an official with the authority to sign, and that official wants something in exchange that would compromise exactly the thing the petition is for.
-2. Someone offers to have the four thousand names entered immediately, as a group, under a single collective designation. It is faster. It is legal. It erases the names in the act of recording them.
+2. Someone offers to have the four thousand and one names entered immediately, as a group, under a single collective designation. It is faster. It is legal. It erases the names in the act of recording them.
 3. A survivor of the character's prefecture turns up in the capital, alive, and is not on the bone. The character has to decide what a completed archive means now.
 
 **Common Pitfalls.** Do not let the character become the party's designated conscience, delivering moral verdicts on everyone else's choices. He is not above the table; he is beneath it, and he knows things the others do not because of where he has been standing. Also resist making his grief the only thing about him. He is funny, oddly practical, and better at bureaucratic procedure than anyone expects, because he has had four hundred hours to study it.
 
-**Making Personal Connections Matter.** Clerk Sixth Rank Yuan is the relationship that matters most, and it should be underplayed: a tired man at a window who has spent seven months looking for the correct form and has never asked for anything. Grandmother Stone Voice, past ninety and still in the high forest, is the character's teacher and the only person who can tell him he is wrong. The Celestial Book said his prefecture's name correctly once, in a corridor, and then vanished, and the character has been unable to find him since.
+**Making Personal Connections Matter.** Clerk Sixth Rank Yuan is the relationship that matters most, and it should be underplayed: a tired man at a window who has spent seven months looking for the correct form and has never asked for anything. Grandmother Stone Voice, past ninety and still in the high forest, is the character's teacher and the only person who can tell him he is wrong. The Celestial Book said his prefecture's name correctly once, in a corridor, and then vanished, and the character has been unable to find her since.
 
 **Spotlight Moment.** The party needs something the empire's records cannot provide: a road that was decommissioned, a well that was filled in, the real boundary of a district that no longer has a name. Everyone's research fails. The Bone Script player says: "I have been there." Not read about it. Been there. What follows is not a skill check. It is testimony, and for one scene the character is the only authoritative source in the room.
 
@@ -1118,13 +1142,13 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Where It Takes Place.** A narrow corridor in the Bureau of Harmonious Records, third floor, west wing. The door is unmarked, indistinguishable from a dozen others. "The corridor narrows here. The Qi lamps on the walls have burned out, leaving only the faint blue glow from a crack beneath a door at the end. The dust on the floor is undisturbed. No one has walked this hallway in a very long time. The door is slightly ajar. You see a sliver of light inside."
 
-**NPC.** A night clerk named Huan, a young man with ink stained fingers and circles under his eyes. He is in the room, startled by the players' entrance. He has a stack of documents he is clearly not supposed to have. "Please. You were not supposed to be here. I was not supposed to be here. If you report me, I am dead. If I do not complete this work, I am also dead. I do not know which death comes faster."
+**NPC.** A night clerk named Huan, a young man with fingers stained by ink and circles under his eyes. He is in the room, startled by the players' entrance. He has a stack of documents he is clearly not supposed to have. "Please. You were not supposed to be here. I was not supposed to be here. If you report me, I am dead. If I do not complete this work, I am also dead. I do not know which death comes faster."
 
 **Complication.** Huan is forging travel permits for refugees trying to flee the Dusk. He is breaking the law for a good reason. If the players report him, he is Disappeared. If they help him, they become accessories to forgery. If they walk away, someone else will find him before the night is over.
 
-**Archetype Specific Twists.** A Cinnabar Heart recognizes the forgery technique as one they use themselves. A Bright Mirror detects the lie in Huan's voice when he says he is working alone. An Iron Bone feels the wolf stir at the injustice of a man being punished for saving lives.
+**Twists for Specific Archetypes.** A Cinnabar Heart recognizes the forgery technique as one he uses himself. A Bright Mirror detects the lie in Huan's voice when he says he is working alone. An Iron Bone feels the wolf stir at the injustice of a man being punished for saving lives.
 
-**Possible Outcome.** The players help Huan finish the permits and escape before the night patrol arrives. They gain a grateful contact in the lower bureaucracy and a stack of blank permits they could use themselves. Or they report him and gain Faction Standing with the Commission, but lose the trust of everyone who hears about it.
+**Possible Outcome.** The players help Huan finish the permits and escape before the night patrol arrives. They gain a grateful contact in the lower bureaucracy and a stack of blank permits they could use themselves. Or they report him and gain Faction Standing with Bright Mirror, but lose the trust of everyone who hears about it.
 
 ### Scene Two: The Debt Collector
 
@@ -1136,7 +1160,7 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Complication.** The box contains a Dusk Touched object. Delivering it will spread Dusk contamination to the location. Not delivering it means the debt collector will take something else: a memory, a name, a year of life. The player must choose which price to pay.
 
-**Archetype Specific Twists.** A Celestial Book recognizes the box's markings as originating from a pre Court dynasty. A Duke of Eternal Night recognizes the debt collector's family name and knows they always collect. A Guest Among Forests senses the faint vibration of something alive inside the box.
+**Twists for Specific Archetypes.** A Celestial Book recognizes the box's markings as originating from a dynasty that predates the Court. A Duke of Eternal Night recognizes the debt collector's family name and knows they always collect. A Guest Among Forests senses the faint vibration of something alive inside the box.
 
 **Possible Outcome.** The player delivers the box and a new Dusk pocket forms in the heart of the capital. Or the player refuses and loses an important personal resource, but gains the debt collector's grudging respect and a warning: "The Court will ask you to do worse. Remember that you had a choice today."
 
@@ -1150,7 +1174,7 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Complication.** The execution is public. Intervening means exposing yourself before the entire Court. The Commission guards are numerous. The crowd is watching. But Ren's wife is in the crowd, and she is looking at the players with desperate hope. She knows they know the truth.
 
-**Archetype Specific Twists.** A Night Warbler can spot three Commission agents in the crowd who are watching for anyone who reacts too strongly. A Bright Mirror can see that the Commission herald's hands are shaking as he reads the charges. An Iron Wall recognizes the executioner as a former soldier who was discharged for refusing an order.
+**Twists for Specific Archetypes.** A Night Warbler can spot three Commission agents in the crowd who are watching for anyone who reacts too strongly. A Bright Mirror can see that the Commission herald's hands are shaking as he reads the charges. An Iron Wall recognizes the executioner as a former soldier who was discharged for refusing an order.
 
 **Possible Outcome.** The players do nothing and gain nothing but the memory of Ren's wife's face. Or they cause a distraction that lets Ren escape, making a powerful enemy in the faction that wanted him dead. Or they produce evidence of his innocence at the last moment, turning the execution into a political crisis.
 
@@ -1158,13 +1182,13 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Hook.** A routine tea meeting becomes a confession.
 
-**Where It Takes Place.** A small teahouse in the Outer Market, known for its cheap tea and its thick walls. Rain spatters against the paper windows. "The teahouse is nearly empty. A lone merchant reads a newspaper in the corner. The proprietress waves you to a table near the back, where the light is dim and the voices do not carry. You ordered tea. What arrived is a person. She sits down across from you without asking. Her robes are those of a mid level functionary. Her hands are white knuckled around a cup she has not drunk from. She speaks without preamble. 'I know who killed Council member Wei. I have known for three months. I have been too afraid to speak. I am still afraid. But I am more afraid of what will happen if I stay silent.'"
+**Where It Takes Place.** A small teahouse in the Outer Market, known for its cheap tea and its thick walls. Rain spatters against the paper windows. "The teahouse is nearly empty. A lone merchant reads a newspaper in the corner. The proprietress waves you to a table near the back, where the light is dim and the voices do not carry. You ordered tea. What arrived is a person. She sits down across from you without asking. Her robes mark her as a functionary of middling rank. Her knuckles are white around a cup she has not drunk from. She speaks without preamble. 'I know who arranged Council member Wei's death. I have known for three months. I have been too afraid to speak. I am still afraid. But I am more afraid of what will happen if I stay silent.'"
 
-**NPC.** Her name is Lijuan. She is a records keeper in the Commission for Celestial Purity. She witnessed the assassination because she was in the building filing a report after hours. She saw the killer leave. She knows the killer's face, their school affiliation, and the weapon they used. She has told no one. She has been waiting for someone who could do something about it.
+**NPC.** Her name is Lijuan. She is a records keeper in the Commission for Celestial Purity. While filing a report after hours, she saw a sealed authorization enter the liaison office used by the Bureau of Internal Harmony. She recognized the private seal, the routing marks, and the Council clerk who delivered it. She cannot identify the operative who carried out the killing. She can identify the office that arranged it. She has told no one. She has been waiting for someone who could do something about it.
 
-**Complication.** Lijuan does not want the players to act on this information immediately. She wants them to confirm it first. She gives them a piece of evidence: a fragment of fabric torn from the killer's sleeve during the struggle. The fabric is from a robe that only three people in the capital have access to. One of them is a Grand Council member.
+**Complication.** Lijuan does not want the players to act on this information immediately. She wants them to confirm it first. She gives them a piece of evidence: a copied fragment of the routing slip attached to the authorization. Its paper and registration code were available to only three offices in the capital. One belongs to a member of the Grand Council.
 
-**Archetype Specific Twists.** A Cinnabar Heart recognizes that the fabric is months out of date. The evidence was planted. A Shadow knows that Lijuan is being watched and has been followed to this meeting. A Celestial Book has read a similar account in an old file: someone else witnessed a Council member's death and disappeared before they could testify.
+**Twists for Specific Archetypes.** A Cinnabar Heart recognizes that the registration code was retired months ago. The evidence was planted. A Shadow knows that Lijuan is being watched and has been followed to this meeting. A Celestial Book has read a similar account in an old file: someone else witnessed a Council member's death and disappeared before they could testify.
 
 **Possible Outcome.** The players follow the evidence and uncover a conspiracy within the Commission itself. Or they confront the Grand Council member directly, forcing a political crisis. Or they tell Lijuan she is being used, and she flees the capital, sending them a coded message from the road.
 
@@ -1172,15 +1196,15 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Hook.** An official is found dead in a room locked from the inside.
 
-**Where It Takes Place.** A private study on the fourth floor of the Ministry of Rites. The door is solid oak, bolted from within. "The crowd in the corridor parts for you. The guards have broken down the door, but they found the bolt still thrown. Someone locked this room from inside before they died. The study is small, cluttered with scrolls and half finished calligraphy. The body is slumped over the desk, a brush still in the hand. The cause of death is not obvious. No blood. No wounds. The face is calm, as though the official simply stopped living mid sentence. The window is sealed with wax. The walls are solid. There is no other exit. You are looking at an impossible death."
+**Where It Takes Place.** A private study on the fourth floor of the Ministry of Rites. The door is solid oak, bolted from within. "The crowd in the corridor parts for you. The guards have broken down the door, but they found the bolt still thrown. Someone locked this room from inside before they died. The study is small, cluttered with scrolls and unfinished calligraphy. The body is slumped over the desk, a brush still in the hand. The cause of death is not obvious. No blood. No wounds. The face is calm, as though the official simply stopped living in the middle of a sentence. The window is sealed with wax. The walls are solid. There is no other exit. You are looking at an impossible death."
 
 **NPC.** The investigating guard captain is named Sergeant Deng. She is competent, tired, and suspicious of everyone. She does not trust the players but she needs their help because the dead official was connected to their bureau. "I have sealed the room. No one enters or leaves until we understand what happened. If you can tell me how this was done, I will owe you. If you cannot, I will have to report that I found you here, which is already an irregularity."
 
 **Complication.** The death was caused by a Qi Technique that stops the heart. The technique is rare and only known to a specific school. The dead official was investigating that school's financial records. The killer is likely still in the building.
 
-**Archetype Specific Twists.** An Iron Calculation notices that the ink in the brush is still wet, but the body is cold. The death occurred after the writing stopped, not during. A Bright Mirror sees a faint residue on the official's neck, invisible to the naked eye, a trace of the killer's Qi. A Night Warbler finds a hairline crack in the window seal, invisible from the corridor, a possible entry for a thin wire or blade.
+**Twists for Specific Archetypes.** An Iron Calculation notices that the ink in the brush is still wet, but the body is cold. The death occurred after the writing stopped, not during. A Bright Mirror sees a faint residue on the official's neck, invisible to the naked eye, a trace of the killer's Qi. A Night Warbler finds a hairline crack in the window seal, invisible from the corridor, a possible entry for a thin wire or blade.
 
-**Possible Outcome.** The players identify the killer as a senior accountant in the school the victim was investigating. The accountant admits the murder but claims it was in self defense: the dead official was about to destroy evidence of a larger conspiracy. The truth is now in the players' hands.
+**Possible Outcome.** The players identify the killer as a senior accountant in the school the victim was investigating. The accountant admits the murder but claims he acted to defend himself because the dead official was about to destroy evidence of a larger conspiracy. The truth is now in the players' hands.
 
 ### Scene Six: The Fugitive Scholar
 
@@ -1192,7 +1216,7 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Complication.** The Commission knows Scholar Heng is in the capital. They are searching for him. He has three hours before they narrow the search to this district. He needs the players to get him out of the city. He will not leave without his research, which fills two heavy satchels.
 
-**Archetype Specific Twists.** A Celestial Book has read Scholar Heng's earlier work and knows he is meticulous but prone to overinterpretation. His discovery may be real or may be wishful thinking. An Iron Bone recognizes the scholar's description of the ritual from folklore the Common Flame has preserved. A Duke of Eternal Night knows the scholar's patron and warns that the patron is unreliable.
+**Twists for Specific Archetypes.** A Celestial Book has read Scholar Heng's earlier work and knows he is meticulous but prone to overinterpretation. His discovery may be real or may be wishful thinking. An Iron Bone recognizes the scholar's description of the ritual from folklore the Common Flame has preserved. A Duke of Eternal Night knows the scholar's patron and warns that the patron is unreliable.
 
 **Possible Outcome.** The players smuggle Scholar Heng out of the capital. He establishes a hidden study in a border town and sends them occasional letters with new discoveries. Or he is captured, and his research falls into the Commission's hands. Or the players read his work and learn a truth that changes their understanding of the Emperor's fate.
 
@@ -1206,7 +1230,7 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Complication.** The blackout was not an accident. Someone sabotaged the Qi lamps. The saboteur is still in the crowd. The panic is spreading. If the players do not restore order, people will be trampled. If they chase the saboteur, people will be hurt in their absence.
 
-**Archetype Specific Twists.** A Shadow recognizes the sabotage technique: it requires access to the Qi grid that only three people in the capital have. An Iron Wall can see the crowd's panic forming predictable patterns and can direct people to safety through the most efficient routes. A Guest Among Forests notices that the plants in the plaza's central garden are wilting, a sign that the Dusk's influence is physically present.
+**Twists for Specific Archetypes.** A Shadow recognizes the sabotage technique: it requires access to the Qi grid that only three people in the capital have. An Iron Wall can see the crowd's panic forming predictable patterns and can direct people to safety through the most efficient routes. A Guest Among Forests notices that the plants in the plaza's central garden are wilting, a sign that the Dusk's influence is physically present.
 
 **Possible Outcome.** The players restore order and capture the saboteur, who is a member of a doomsday cult that believes the Dusk is divine judgment. From the saboteur's confession, they learn that the cult has agents throughout the capital and plans to accelerate the Dusk's advance through ritual vandalism of Qi infrastructure.
 
@@ -1216,11 +1240,11 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Where It Takes Place.** The players' assigned worktable in the Bureau of Correspondence. A long room filled with desks, each piled with documents. "The morning post has arrived. Your stack is larger than usual. You sort through permits, requests, and notifications. Near the bottom, a letter sealed with gold wax catches your eye. It is addressed to you, but the handwriting is unfamiliar. The seal is from the Bureau of Harmonious Narrative, but it is not the standard seal. It is a personal seal. Someone used their private chop on official correspondence. That is unusual. That is deliberate."
 
-**NPC.** The letter is from a mid level editor in the Bureau named Chen. He wrote it in a panic and addressed it to the wrong person. The letter confesses that he has been ordered to rewrite the records of a recent Audit, removing the names of three officials who were Sanctioned and replacing them with three different names. He does not know why. He is afraid. He wrote to the one person he thought might help.
+**NPC.** The letter is from an editor of middle rank in the Bureau named Chen. He wrote it in a panic and addressed it to the wrong person. The letter confesses that he has been ordered to rewrite the records of a recent Audit, removing the names of three officials who were Sanctioned and replacing them with three different names. He does not know why. He is afraid. He wrote to the one person he thought might help.
 
 **Complication.** The three officials whose names were removed are alive and well. The three whose names were inserted have already been arrested and are awaiting transportation to a penal works. The switch was made to protect the original three, who are connected to a powerful faction. Chen is now a liability. The faction that ordered the switch will want to silence him.
 
-**Archetype Specific Twists.** A Cinnabar Heart sees the handwriting pattern of the letter and recognizes it as a forgery. Chen did not write this. Someone wants the players to discover this discrepancy. A Bright Mirror can detect that the personal seal on the letter is not Chen's. It belongs to someone in the Commission who is using Chen as bait. An Iron Calculation cross references the dates and finds that the original three officials have already left the capital. They are not in danger. They are already gone.
+**Twists for Specific Archetypes.** A Cinnabar Heart sees the handwriting pattern of the letter and recognizes it as a forgery. Chen did not write this. Someone wants the players to discover this discrepancy. A Bright Mirror can detect that the personal seal on the letter is not Chen's. It belongs to someone in the Commission who is using Chen as bait. An Iron Calculation compares the dates and finds that the original three officials have already left the capital. They are not in danger. They are already gone.
 
 **Possible Outcome.** The players confront Chen (or his impersonator) and uncover a network of officials who have been falsifying Audit records for years. The network is bipartisan, drawing members from every school except the Bright Mirror. The players must decide: expose the network and trigger a political earthquake, or join it and gain a powerful shield against future Audits.
 
@@ -1232,23 +1256,23 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **NPC.** The dead woman is a Commission agent named Fuyan. She was the Bright Mirror's personal assistant. She has been stabbed with a blade that is still in the wound. The blade is a standard issue Commission dagger. The Bright Mirror's own weapon.
 
-**Complication.** The Bright Mirror was seen entering the gardens last night. She was seen leaving, alone, at midnight. The dagger is hers. The evidence points to her. But the Bright Mirror is the most incorruptible figure in the Court. If the players report this, they set in motion a crisis that could destroy the Commission. If they conceal it, they become accessories to a potential murder.
+**Complication.** The Bright Mirror was seen entering the gardens last night. He was seen leaving, alone, at midnight. The dagger is his. The evidence points to him. But the Bright Mirror is the most incorruptible figure in the Court. If the players report this, they set in motion a crisis that could destroy the Commission. If they conceal it, they become accessories to a potential murder.
 
-**Archetype Specific Twists.** A Night Warbler notices that the body was moved after death. The blood pattern is wrong. Fuyan was killed elsewhere and brought here. A Cinnabar Heart finds a single sheet of paper in Fuyan's sleeve, a note that reads: "I found what she is hiding. It is worse than we thought. Meet me at the old plum tree." A Guest Among Forests touches the tree and senses that it witnessed the arrival, not the killing. The tree's memory is of a body being placed, not a life ending.
+**Twists for Specific Archetypes.** A Night Warbler notices that the body was moved after death. The blood pattern is wrong. Fuyan was killed elsewhere and brought here. A Cinnabar Heart finds a single sheet of paper in Fuyan's sleeve, a note that reads: "I found what he is hiding. It is worse than we thought. Meet me at the old plum tree." A Guest Among Forests touches the tree and senses that it witnessed the arrival, not the killing. The tree's memory is of a body being placed, not a life ending.
 
-**Possible Outcome.** The players investigate and discover that Fuyan had discovered the Bright Mirror's secret investigation into the forged edicts. Fuyan was killed by a third party who wanted to frame the Bright Mirror and stop her investigation. The real killer is a senior figure in the Golden Orthodoxy who was about to be exposed.
+**Possible Outcome.** The players investigate and discover that Fuyan had discovered the Bright Mirror's secret investigation into the forged edicts. Fuyan was killed by a third party who wanted to frame the Bright Mirror and stop his investigation. The real killer is a senior figure in the Golden Orthodoxy who was about to be exposed.
 
 ### Scene Ten: The Offer You Cannot Refuse
 
 **Hook.** A faction makes the players an offer that is generous, dangerous, and impossible to decline politely.
 
-**Where It Takes Place.** A private dining room in the Golden Orthodoxy's compound. Silk hangings. Low tables. The scent of expensive incense. "The dinner was unexpected. The invitation arrived on gold edged paper, sealed with the Golden Orthodoxy's personal chop. The messenger waited for your reply. Dinner is at the eighth hour. Attendance is mandatory. Not by law. By implication. You arrive to find a room of severe elegance. Black lacquer furniture. A single calligraphy scroll on the wall, bearing a quote from the founding doctrine. Your host enters. He is a Minister of the Inner Circle, a man who has never spoken to anyone below the rank of Bureau Director. He is speaking to you. This is an honor. It is also a message."
+**Where It Takes Place.** A private dining room in the Golden Orthodoxy's compound. Silk hangings. Low tables. The scent of expensive incense. "The dinner was unexpected. The invitation arrived on paper edged in gold, sealed with the Golden Orthodoxy's personal chop. The messenger waited for your reply. Dinner is at the eighth hour. Attendance is mandatory. Not by law. By implication. You arrive to find a room of severe elegance. Black lacquer furniture. A single calligraphy scroll on the wall, bearing a quote from the founding doctrine. Your host enters. He is a Minister of the Inner Circle, a man who has never spoken to anyone below the rank of Bureau Director. He is speaking to you. This is an honor. It is also a message."
 
 **NPC.** Minister Feng is a man in his seventies, immaculately dressed, with the calm confidence of someone who has never been contradicted in public. He serves the players tea himself, a gesture of extreme respect that puts them in his debt. "I have been watching your work. You are competent. You are discreet. You have principles, which is rare and valuable. I want to offer you a position in the Golden Orthodoxy's inner secretariat. The pay is five times your current stipend. The protection is absolute. The work is simple: you will review documents for doctrinal consistency and flag anything that deviates from the founding principles. In return, the Golden Orthodoxy will be your shield, your patron, and your family."
 
 **Complication.** The simple work is censorship. The Golden Orthodoxy wants to use the players to identify and suppress any documents that contradict their preferred narrative. The position comes with enormous power and enormous moral compromise. If the players refuse, Minister Feng will not threaten them. He will simply remember. And his memory is very long.
 
-**Archetype Specific Twists.** A Celestial Book recognizes the calligraphy scroll as a forgery of a famous work. The quote on the wall is not from the founding doctrine. It is from a later addition that was never formally adopted. The Golden Orthodoxy is testing whether the players will notice. A Shadow has heard rumors that three previous occupants of this position have all died unexpectedly. The position may not be as safe as it sounds. A Bright Mirror notices that Minister Feng's hands are perfectly still, unnaturally still, as though he is holding himself in check. He is afraid of something. He is not the one in control here.
+**Twists for Specific Archetypes.** A Celestial Book recognizes the calligraphy scroll as a forgery of a famous work. The quote on the wall is not from the founding doctrine. It is from a later addition that was never formally adopted. The Golden Orthodoxy is testing whether the players will notice. A Shadow has heard rumors that three previous occupants of this position have all died unexpectedly. The position may not be as safe as it sounds. A Bright Mirror notices that Minister Feng's hands are perfectly still, unnaturally still, as though he is holding himself in check. He is afraid of something. He is not the one in control here.
 
 **Possible Outcome.** The players accept the position and gain a powerful patron, but find themselves complicit in the Golden Orthodoxy's censorship apparatus. They must balance their conscience against their safety. Or they refuse gracefully, making an enemy of the Minister but preserving their integrity. Or they refuse rudely, triggering immediate consequences and a very interesting session.
 
@@ -1262,7 +1286,7 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Complication.** The other buyer has posted watchers around the Night Market. The players are being watched right now. If they leave the market openly, they will be followed. If they try to confront the watchers, they start a fight in neutral territory. Empty Lantern offers a solution: a tunnel exit beneath his stall that leads to a neighboring district. The tunnel is dark, narrow, and not entirely safe. But it is an exit.
 
-**Archetype Specific Twists.** A Night Warbler can identify the lead watcher as a former colleague from a previous assignment. A Shadow has used this tunnel before and knows it connects to a safe house she controls. A Duke of Eternal Night recognizes the surveillance technique as one used by the Crimson Lineage's intelligence arm.
+**Twists for Specific Archetypes.** A Night Warbler can identify the lead watcher as a former colleague from a previous assignment. A Shadow has used this tunnel before and knows it opens beneath one of his safe houses. A Duke of Eternal Night recognizes the surveillance technique as one used by the Crimson Lineage's intelligence arm.
 
 **Possible Outcome.** The players use the tunnel and escape. They have the information, but their enemies know they have it. The timeline has just shortened. Or they confront the watchers directly, turning the Night Market into a scene of chaos, and gain a reputation as people who do not back down.
 
@@ -1270,13 +1294,13 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Hook.** A dying archivist asks the players to complete a task she cannot finish.
 
-**Where It Takes Place.** The infirmary of the Bureau of Harmonious Records, a quiet room with white walls and the smell of medicinal herbs. "The woman in the bed is barely visible beneath the blankets. Her face is sunken. Her hands, resting on the coverlet, are covered in ink stains that will never fade. She is younger than you expected. The disease that is killing her has aged her prematurely, but her eyes are still sharp. She recognizes you. She has been waiting for you. Her voice is a whisper that costs her visible effort. 'I have something to give you. A key. A real key, not a metaphor. It opens a lock in the sub basement that no one has opened since the Alchemist era. I was supposed to open it before I died. I cannot. You must.'"
+**Where It Takes Place.** The infirmary of the Bureau of Harmonious Records, a quiet room with white walls and the smell of medicinal herbs. "The woman in the bed is barely visible beneath the blankets. Her face is sunken. Her hands, resting on the coverlet, are covered in ink stains that will never fade. She is younger than you expected. The disease that is killing her has aged her prematurely, but her eyes are still sharp. She recognizes you. She has been waiting for you. Her voice is a whisper that costs her visible effort. 'I have something to give you. A key. A real key, not a metaphor. It opens a lock in the subbasement that no one has opened since the Alchemist era. I was supposed to open it before I died. I cannot. You must.'"
 
-**NPC.** Archivist Suling has worked in the Ministry for forty years. She knows the location of every document, every hidden compartment, every forgotten room. She is dying of a lung disease contracted from decades of breathing archive dust. She has no family. Her life's work has been preserving knowledge that the Court wanted destroyed. "The room behind that lock contains the personal correspondence of the first Alchemist. He wrote letters to someone outside the Court. Someone who was not human. The correspondence continued after he was sealed. Someone on the outside wrote back. I do not know who. I could not read the final letter. It is in a language I do not recognize. You will need someone who can read what should not be readable."
+**NPC.** Archivist Suling has worked in the Ministry for forty years. She knows the location of every document, every hidden compartment, every forgotten room. She is dying of a lung disease contracted from decades of breathing archive dust. She has no family. Her life's work has been preserving knowledge that the Court wanted destroyed. "The room behind that lock contains the personal correspondence of the first Alchemist. He wrote letters to someone outside the Court. Someone who was not human. The correspondence continued after the Emperor was sealed. Someone on the outside wrote back. I do not know who. I could not read the final letter. It is in a language I do not recognize. You will need someone who can read what should not be readable."
 
 **Complication.** The key activates a silent alarm in the Commission's monitoring office. The players have approximately fifteen minutes from the moment they use it before a response team arrives. The correspondence is extensive: hundreds of letters. They cannot take everything. They must choose what to carry and what to leave behind.
 
-**Archetype Specific Twists.** A Celestial Book recognizes the language of the final letter as one that predates the empire entirely. A Cinnabar Heart notices that the lock mechanism has been tampered with recently. Someone else has been here. A Guest Among Forests senses that the non human recipient of the letters is still alive somewhere, and that the letters are keeping a connection open.
+**Twists for Specific Archetypes.** A Celestial Book recognizes the language of the final letter as one that predates the empire entirely. A Cinnabar Heart notices that the lock mechanism has been tampered with recently. Someone else has been here. A Guest Among Forests senses that the nonhuman recipient of the letters is still alive somewhere, and that the letters are keeping a connection open.
 
 **Possible Outcome.** The players retrieve the correspondence and learn that the Alchemist was in contact with an entity that predates the founding of the Court. The entity's final letter contains a warning: "The seal will not hold. It was never meant to hold. It was meant to buy time. You have run out of time." The players must decide who to share this information with and what to do about it.
 
@@ -1288,7 +1312,7 @@ Thirty snippets of dialogue ready for the Host to speak when players approach of
 
 ### Helpful
 
-1. "The door you want is three floors up and two corridors west. I did not tell you this. The guard who should be watching that corridor has a fondness for steamed dumplings from the stall on Plum Street. He takes his break at the half hour. You have twelve minutes."
+1. "The door you want is three floors up and two corridors west. I did not tell you this. The guard who should be watching that corridor has a fondness for steamed dumplings from the stall on Plum Street. He takes his break thirty minutes past the hour. You have twelve minutes."
 
 2. "I can approve your request. It will take three weeks through normal channels. Or I can approve it today if you agree to forget you ever met me when someone asks where you got your information."
 
@@ -1366,7 +1390,7 @@ Thirty snippets of dialogue ready for the Host to speak when players approach of
 
 29. "You want to know a secret? Everyone pretends that the Grand Council makes decisions based on doctrine and debate. They do not. They make decisions based on who had the best tea that morning. The Golden Orthodoxy's tea is terrible. That is why they never get their way."
 
-30. "The Celestial Book once bet the Duke of Eternal Night that he could hide a scroll so well that even the Duke could not find it. The Duke spent three months looking. The scroll was in the Celestial Book's sleeve the entire time. The Duke has never forgiven him. That was two hundred years ago. They are both still angry about it."
+30. "The Celestial Book once bet the Duke of Eternal Night that she could hide a scroll so well that even the Duke could not find it. The Duke spent three months looking. The scroll was in the Celestial Book's sleeve the entire time. The Duke has never forgiven her. That was two hundred years ago. They are both still angry about it."
 
 ---
 
@@ -1404,7 +1428,7 @@ Fifteen atmospheric descriptions of Xiaoyuan at different times and in different
 
 ### The Warrens at Night
 
-"Below the city, another city breathes. The Warrens are a labyrinth of tunnels and chambers carved into the earth over centuries. The air is thick and warm. The only light comes from braziers and the occasional Qi lamp that someone has jury rigged to a tapped line. People live here. Families. Entire communities of those who fell through the cracks of the Court above. A child stares at you from a doorway. An old woman offers to read your fortune, her eyes milky white, her hands steady. The walls sweat. The floor is uneven. The Warrens remember every foot that has walked them. They remember yours now, too."
+"Below the city, another city breathes. The Warrens are a labyrinth of tunnels and chambers carved into the earth over centuries. The air is thick and warm. The only light comes from braziers and the occasional Qi lamp that someone has improvised from a tapped line. People live here. Families. Entire communities of those who fell through the cracks of the Court above. A child stares at you from a doorway. An old woman offers to read your fortune, her eyes milky white, her hands steady. The walls sweat. The floor is uneven. The Warrens remember every foot that has walked them. They remember yours now, too."
 
 ### The Spire at Night
 
@@ -1424,7 +1448,7 @@ Fifteen atmospheric descriptions of Xiaoyuan at different times and in different
 
 ### The Grand Council Chamber in Session
 
-"The doors are closed. You stand in the antechamber with a dozen other petitioners, all of you pretending not to listen to the voices raised inside. The walls are thick, but anger travels through stone. You catch fragments: a school accused of corruption, a budget denied, a motion to censure. The voices rise and fall like a storm. Then silence. The doors open. A scribe emerges, pale faced, and calls the next name. The chamber inside is exactly as you left it. The faces around the circle are exactly as they were. But something has shifted. You can feel it in the air, like the pressure before lightning."
+"The doors are closed. You stand in the antechamber with a dozen other petitioners, all of you pretending not to listen to the voices raised inside. The walls are thick, but anger travels through stone. You catch fragments: a school accused of corruption, a budget denied, a motion to censure. The voices rise and fall like a storm. Then silence. The doors open. A scribe emerges, the color drained from his face, and calls the next name. The chamber inside is exactly as you left it. The faces around the circle are exactly as they were. But something has shifted. You can feel it in the air, like the pressure before lightning."
 
 ### Xiaoyuan When a Dusk Warning Sounds
 
@@ -1448,7 +1472,7 @@ Fifteen atmospheric descriptions of Xiaoyuan at different times and in different
 
 ### The Rise: Act by Act Breakdown
 
-**Act One: The Outer Court.** The players are newly appointed minor officials in the vast machinery of the Celestial Court. They have a modest shared residence, a small stipend of Celestial Favor, and no real power. Their first assignments are deliberately tedious: filing reports, delivering messages, attending ceremonies. This is not punishment. It is immersion. During this act, the players learn the rhythms of the Court. They encounter minor figures who will become allies or enemies. They choose their first factional leanings. The Crimson Dusk is a distant concern mentioned in dispatches from the border.
+**Act One: The Outer Court.** The players are newly appointed minor officials in the vast machinery of the Celestial Court. They have a modest shared residence, a small stipend of Celestial Favor, and no real power. Their first assignments are deliberately tedious: filing reports, delivering messages, attending ceremonies. This is not punishment. It is immersion. During this act, the players learn the rhythms of the Court. They encounter minor figures who will become allies or enemies. They choose their first faction affiliations. The Crimson Dusk is a distant concern mentioned in dispatches from the border.
 
 _Situation._ The Ministry of Rites has lost an important document. The players are tasked with finding it. The document is not lost. It was stolen by a clerk who is selling information to a rival school. The players must investigate, make choices about whom to trust, and decide whether to recover the document or use its absence as leverage.
 
@@ -1484,7 +1508,7 @@ _Situation._ The players discover a document that proves the Cinnabar Heart has 
 
 _Key NPCs Involved._ The Cinnabar Heart, the Celestial Book (who provides context), the Duke of Eternal Night (who provides historical perspective).
 
-_Three Possible Player Approaches._ 1) Join the conspiracy and help uncover the full truth. 2) Report the conspiracy to the Bright Mirror and gain her trust. 3) Use the knowledge for personal advantage, blackmailing the conspirators.
+_Three Possible Player Approaches._ 1) Join the conspiracy and help uncover the full truth. 2) Report the conspiracy to the Bright Mirror and gain his trust. 3) Use the knowledge for personal advantage, blackmailing the conspirators.
 
 _Two Complications._ 1) One of the players is related to a figure who was involved in the original sealing. 2) The Dusk accelerates, making the conspiracy seem suddenly less important than survival.
 
@@ -1532,17 +1556,17 @@ _Two Complications._ 1) The village has been destroyed by the Dusk. 2) The Disap
 
 **Act Three: The Choice.** The players have enough information to understand the conspiracy's scope. They know about the forged edicts, the Emperor's imprisonment, or the Dusk's true nature. They must choose what to do with this knowledge.
 
-_Situation._ The Celestial Book confirms the players' findings and reveals the full truth: the Emperor was imprisoned by the founding elders, the edicts are forgeries, and the Dusk is the consequence. The players must decide: reveal the truth, suppress it, or use it.
+_Situation._ The Celestial Book confirms the players' findings and reveals the full truth: the founding ritual sacrificed or bound the original guardians and installed the Emperor as their replacement conduit between Heaven and Earth. The founding elders later imprisoned Him, the edicts are forgeries, and completing His seal severed that replacement conduit. The Dusk is the delayed wound created by both acts. The players must decide: reveal the truth, suppress it, or use it.
 
-_Key NPCs Involved._ The Celestial Book, the Duke of Eternal Night (who provides the historical account), the Bright Mirror (who must not learn what the players know, or she will act).
+_Key NPCs Involved._ The Celestial Book, the Duke of Eternal Night (who provides the historical account), the Bright Mirror (whose response depends on whether the players can establish authenticity and a reliable chain of custody).
 
-_Three Possible Player Approaches._ 1) Share the truth with the Bright Mirror, knowing she will launch a mass Harmonization Audit. 2) Share the truth with the Common Flame, knowing they will start a revolution. 3) Keep the secret and work within the system to gradually reform it.
+_Three Possible Player Approaches._ 1) Share the evidence with the Bright Mirror, accepting the rigorous verification and focused investigation that will follow. 2) Share the truth with the Common Flame, knowing they will start a revolution. 3) Keep the secret and work within the system to gradually reform it.
 
 _Two Complications._ 1) A Commission agent has been following the players and knows how much they have learned. 2) The players discover that one of their own was planted by a faction to monitor them.
 
 **Act Four: The Consequence.** The players' choice has consequences. The Court reacts. Factions align and realign. The players are now major figures, whether they wanted to be or not.
 
-_Situation._ Depending on the players' choice, the Court is now in chaos. If they told the Bright Mirror, Audits are everywhere. If they told the Common Flame, uprisings have begun. If they kept the secret, the conspiracy brings them into its inner circle.
+_Situation._ Depending on the players' choice, the Court is now in turmoil. If they approached the Bright Mirror, his investigators are authenticating the evidence and pursuing a narrow inquiry, with wider Audits possible only if corroborated proof exposes systemic crimes. If they told the Common Flame, uprisings have begun. If they kept the secret, the conspiracy brings them into its inner circle.
 
 _Key NPCs Involved._ All figures, depending on the choice.
 
@@ -1552,13 +1576,13 @@ _Two Complications._ 1) A player is captured by the Commission and must be rescu
 
 **Act Five: The Endgame.** The conspiracy reaches its climax. The players must confront the central mystery directly.
 
-_Situation._ The players have a chance to enter the Spire of Eternal Vigil, confront the Emperor, or meet the Dusk face to face. The ending depends on everything they have done.
+_Situation._ The players have a chance to enter the Spire of Eternal Vigil, confront the Emperor, or meet the Dusk directly. The ending depends on everything they have done.
 
 _Key NPCs Involved._ Whoever has survived. The Celestial Book provides final guidance. The Duke provides final warnings.
 
 _Three Possible Player Approaches._ 1) Enter the Spire and attempt to free the Emperor. 2) Enter the Spire and attempt to communicate with the Dusk. 3) Refuse to enter the Spire and instead try to reform the Court in the Emperor's absence.
 
-_Two Complications._ 1) The Bright Mirror has been watching and intercepts the players at the Spire's entrance. 2) The Celestial Book dies, taking crucial knowledge with him.
+_Two Complications._ 1) The Bright Mirror has been watching and intercepts the players at the Spire's entrance. 2) The Celestial Book dies, taking crucial knowledge with her.
 
 ### The Collapse: Act by Act Breakdown
 
@@ -1598,11 +1622,11 @@ _Situation._ The capital is under siege by the Dusk. The walls hold, but the sit
 
 _Key NPCs Involved._ The Iron Wall (leading the defense), the Bright Mirror (hunting traitors), the Cinnabar Heart (burning documents).
 
-_Three Possible Player Approaches._ 1) Fight on the walls, holding back the Dusk physically. 2) Search for a magical or ritual solution to push back the Dusk. 3) Attempt to negotiate with the Dusk or the Emperor, seeking an end to the siege.
+_Three Possible Player Approaches._ 1) Fight on the walls, holding back the Dusk physically. 2) Search for a solution rooted in Qi or ritual to push back the Dusk. 3) Attempt to negotiate with the Dusk or the Emperor, seeking an end to the siege.
 
 _Two Complications._ 1) A player begins to show signs of Dusk touch. 2) The food stores are discovered to have been poisoned, or stolen, or never existed.
 
-**Act Five: The End.** The walls fall, or they hold. The Emperor is freed, or he is not. The Dusk consumes the capital, or it recedes. The players face the final consequences of their choices.
+**Act Five: The End.** The walls fall, or they hold. The Emperor is freed, or He is not. The Dusk consumes the capital, or it recedes. The players face the final consequences of their choices.
 
 _Situation._ The final confrontation. The Spire is the last stronghold, or the Dusk recedes when a specific condition is met, or the Emperor emerges and makes a final judgment.
 
@@ -1610,7 +1634,7 @@ _Key NPCs Involved._ Whoever remains. The survivors gather at the Spire, in the 
 
 _Three Possible Player Approaches._ 1) Make a final stand against the Dusk, buying time for others to escape. 2) Enter the Spire and confront whatever is inside. 3) Lead a mass evacuation through a hidden passage, saving as many as possible.
 
-_Two Complications._ 1) A figure the players trusted betrays them at the final moment. 2) The players discover that the Dusk was created by a ritual that can be reversed, but the cost is one of their lives.
+_Two Complications._ 1) A figure the players trusted betrays them at the final moment. 2) The players discover that the Dusk arose from both the founding ritual and the later sealing, and that healing the wound may require one of them to take the place of the severed conduit.
 
 ### Pacing the Crimson Dusk
 
@@ -1659,7 +1683,7 @@ Roll a d20 when you need something to happen:
 17. A school offers the players a significant promotion. The position they would fill was recently vacated. They are not told why it was vacated.
 18. A natural phenomenon (comet, earthquake, unseasonable frost) is interpreted as an omen. Two different schools interpret it in contradictory ways. Both demand the players endorse their interpretation.
 19. A figure from a player's past appears in the capital. They are in trouble. Helping them would be visible. Not helping them would be final.
-20. The Bright Mirror requests a private meeting with one of the players. She does not explain why. She does not need to.
+20. The Bright Mirror requests a private meeting with one of the players. He does not explain why. He does not need to.
 
 ### Rumor Table (d12)
 
@@ -1671,12 +1695,12 @@ What the players hear in teahouses, corridors, and the spaces between:
 4. "The Duke of Eternal Night hasn't been seen at Council sessions for three weeks. His staff says he is in seclusion. His rivals say he is in decline."
 5. "A delegation from the Northern Expanse arrived yesterday. They did not come through the main gate. They did not announce themselves."
 6. "There is a book circulating. A prohibited text. It claims the Emperor never existed. The Commission is offering a reward for information."
-7. "The Iron Wall cancelled a military exercise last week. He has never cancelled an exercise. Something is happening."
+7. "The Iron Wall canceled a military exercise last week. He has never canceled an exercise. Something is happening."
 8. "The Crimson Dusk has reached the Western Bulwark's outer fortresses. The garrison is holding. For now."
 9. "A Justicar from the Commission has been seen meeting with the Verdant Path. That should not happen. The Commission does not take meetings."
 10. "Someone is buying up all the Qi Focus Talismans in the city. The price has tripled. Whoever it is, they are preparing for something big."
 11. "The Iron Bone spoke in the Outer Market yesterday. Thousands came. The City Watch was 'monitoring the situation.' They did not intervene."
-12. "The Celestial Book has been seen in the public areas of the Archives. He never leaves the restricted section. Something drew him out."
+12. "The Celestial Book has been seen in the public areas of the Archives. She never leaves the restricted section. Something drew her out."
 
 ### NPC Quick Generator
 
@@ -1716,7 +1740,7 @@ Roll a d20 for more events when the first table runs dry or you need variety:
 1. A messenger delivers an invitation to a funeral for an official no one remembers. Attendance is sparse. The widow seems relieved.
 2. A child approaches a player in the street and hands them a folded note. The note reads: "The person you are looking for is in the city. They arrived last night. They are staying at the Blue Lotus. They are afraid."
 3. A player's handwriting appears on a document they never wrote. The forgery is perfect. Even they cannot tell the difference.
-4. A food shipment meant for the Outer Market is discovered to be contaminated with a slow acting poison. The trail leads to a faction the players trust.
+4. A food shipment meant for the Outer Market is discovered to contain a poison that acts slowly. The trail leads to a faction the players trust.
 5. A minor earthquake damages a section of the Bureau of Harmonious Records. In the rubble, a hidden compartment is revealed containing documents from the Alchemist era.
 6. The Bureau of Harmonious Narrative announces a new holiday celebrating the founding of the Court. Attendance is mandatory. The holiday falls on the day the Emperor was sealed.
 7. A player is accused of a crime they did not commit. The evidence is convincing. The accuser refuses to name their source.
@@ -1764,25 +1788,25 @@ When players find a scroll, document, or letter, roll to determine its contents:
 More specific rumors that players might overhear in the Teahouse of Whispered Petitions:
 
 1. "The Cinnabar Heart has a private archive in his home. Not official documents. Personal correspondence. He has been collecting letters for forty years."
-2. "The Night Warbler was seen crying in the garden. No one knows why. She has not cried in public since she was twelve years old."
+2. "The Night Warbler was seen crying in the garden. No one knows why. He has not cried in public since he was twelve years old."
 3. "The Guest Among Forests is growing something in the Imperial Gardens. Something that should not grow here. Something from beyond the Dusk line."
 4. "The Iron Calculation has not slept in eleven days. He is running out of time. His model is incomplete and he knows it."
-5. "The Iron Wall has a son. He does not speak of him. The son is a prisoner in the Commission's custody. Has been for years."
-6. "The Bright Mirror visited the Spire last night. Alone. She stood at the perimeter for three hours. She did not enter. She did not move."
-7. "The Shadow was seen leaving the Duke of Eternal Night's estate at dawn. She was carrying something. She was not invited."
+5. "The Iron Wall still keeps his wife's forge hammer beneath his bed. He has refused every offer to move it since her death nine years ago."
+6. "The Bright Mirror visited the Spire last night. Alone. He stood at the perimeter for three hours. He did not enter. He did not move."
+7. "The Shadow was seen leaving the Duke of Eternal Night's estate at dawn. He was carrying something. He was not invited."
 8. "The Duke of Eternal Night is selling his possessions. Quietly. One piece at a time. He is settling his affairs."
 9. "The Iron Bone is losing control. The wolf comes closer every day. His inner circle is afraid. They are making contingency plans."
-10. "The Celestial Book has stopped eating. He says food distracts him from his work. His assistants are worried. He is a thousand years old. He cannot afford to stop eating."
+10. "The Celestial Book has stopped eating. She says food distracts her from her work. Her assistants are worried. She is more than a thousand years old. She cannot afford to stop eating."
 11. "The old Alchemist's apprentice is still alive. Living in the Warrens. He knows things that were sealed with his master."
 12. "The Emperor's seal was not the first. There was another seal, before the Emperor, before the Court, before the empire. That seal is what the Spire is built on."
 13. "The Commission for Celestial Purity has a secret prison. Not for criminals. For people who know too much. The prison is beneath the Bureau of Harmonious Records."
-14. "There is a way to enter the Spire without triggering the seal. The Alchemists built it. They used it to communicate with the Emperor after he was sealed."
+14. "There is a way to enter the Spire without triggering the seal. The Alchemists built it. They used it to communicate with the Emperor after He was sealed."
 15. "The Crimson Dusk is not advancing. It is being pulled. Something in the capital is calling it. Something that was buried when the Emperor was sealed."
 16. "The scroll that the Cinnabar Heart keeps in his private safe is not a document. It is a key. A key to something that has not been opened since the founding."
 17. "The Iron Wall's Operation Empty Throne is not a military plan. It is an evacuation plan. He intends to save as many people as possible before the fall."
 18. "The Shadow is not one person. The Shadow is a title. There have been seven Shadows since the founding. The current one is the longest serving."
 19. "The Guest Among Forests can speak to the Dusk. She denies it. But the plants she grows near the Dusk line do not wither. They thrive."
-20. "The Celestial Book wrote a true history of the empire. He hid it in the Archives. He does not remember where. He hid it too well."
+20. "The Celestial Book wrote a true history of the empire. She hid it in the Archives. She does not remember where. She hid it too well."
 
 ### NPC Quirks and Mannerisms (d20)
 
@@ -1821,7 +1845,7 @@ Set the scene with weather that reflects the Violet Court's mood:
 6. A dust storm from the Western Wastes sweeps through the capital. Grit gets into everything. The sky turns the color of old bone. People stay indoors.
 7. The first snow of winter. It muffles the city in white. The usual noise is softened. The world feels new, fragile, temporary.
 8. A thunderstorm rages over the capital. Lightning strikes the Spire of Eternal Vigil. The red light inside pulses faster during the storm.
-9. A blood red sunset that lingers for hours. The sky looks wounded. The people are uneasy. The Commission issues a statement that it is a natural phenomenon.
+9. A sunset the color of blood that lingers for hours. The sky looks wounded. The people are uneasy. The Commission issues a statement that it is a natural phenomenon.
 10. A wind that carries sounds from impossible distances. You hear conversations happening miles away. You hear the Dusk whispering. You hear the dead.
 11. A still, silent morning. No birds. No wind. No distant voices. The city waits. Something is about to happen.
 12. A double rainbow after a storm, arching directly over the Spire. The monks at the shrine interpret it as a sign. They disagree about what the sign means.
@@ -1836,13 +1860,13 @@ When an Audit is in progress, roll for unexpected complications:
 4. A junior official offers to testify against a player in exchange for immunity. The testimony is false. The official is being coerced.
 5. The Audit is broadcast to the entire Court. Normally secret proceedings are now public. Everyone is watching.
 6. A player's ally is also named in the Audit. They must choose: defend their ally and increase their own risk, or abandon them.
-7. The Bright Mirror appears as an observer. Her presence changes the dynamic. Investigators become more aggressive. Witnesses become more truthful.
+7. The Bright Mirror appears as an observer. His presence changes the dynamic. Investigators become more aggressive. Witnesses become more truthful.
 8. A Dusk event occurs in a nearby district during the Audit. The investigation is interrupted. Some investigators are recalled. Others become more urgent.
 9. A prisoner who was going to testify escapes custody. They are on the run. The players must decide whether to recapture them or help them flee.
 10. The Celestial Book sends a message to the players during the Audit. The message offers advice. Accepting it means the Book now has leverage over them.
 11. One of the investigators is murdered. The players are suspects. The investigation continues while they are under suspicion.
 12. A sealed document is opened during the proceedings. It contains evidence that implicates a Grand Council member. The room goes silent.
-13. The Shadow is revealed to have been manipulating the Audit from the beginning. She has her own agenda. She has been using the players as pieces.
+13. The Shadow is revealed to have been manipulating the Audit from the beginning. He has his own agenda. He has been using the players as pieces.
 14. A player's faction formally disavows them. The protection they thought they had is gone. They are alone.
 15. A minor official confesses to everything, taking the blame for crimes they did not commit. Their sacrifice is genuine. Accepting it would save others.
 16. The Duke of Eternal Night makes a rare public appearance. He speaks on behalf of the players. His endorsement carries weight. It also attracts attention.
@@ -1903,7 +1927,7 @@ _Outcome._ The player rolled a 14. They failed the check. Their voice disappeare
 
 _What the Rules Say._ Social skills against other players are not covered by the standard rules. The system assumes players cooperate.
 
-_How the Host Adjudicated._ The Host paused the game and talked to both players privately. They confirmed that both were comfortable with in character conflict. The Host then set a contested roll: the accusing player's Presence plus Persuasion against the targeted player's Presence plus Deception. The Host announced the stakes: if the accusation succeeded, the target would lose 10 Celestial Favor and be flagged for investigation. If it failed, the accuser would lose standing with the NPC.
+_How the Host Adjudicated._ The Host paused the game and talked to both players privately. They confirmed that both were comfortable with conflict between their characters. The Host then set a contested roll: the accusing player's Presence plus Persuasion against the targeted player's Presence plus Deception. The Host announced the stakes: if the accusation succeeded, the target would lose 10 Celestial Favor and be flagged for investigation. If it failed, the accuser would lose standing with the NPC.
 
 _Outcome._ The accusing player rolled well. The targeted player rolled poorly. The NPC believed the accusation. The targeted player was investigated for two sessions, losing Celestial Favor and access. The conflict created excellent roleplay. The targeted player eventually cleared their name and sought revenge. The table agreed afterward that the conflict had made the game better.
 
@@ -1919,7 +1943,7 @@ _Outcome._ The reveal happened during a tense Council scene. The other players w
 
 _What the Rules Say._ Standard combat rules would resolve this as a normal fight. The character would likely die without achieving much.
 
-_How the Host Adjudicated._ The Host declared this a "Last Stand" scene, using a special rule created on the spot. The player would make a series of three rolls: Attack, Defense, and Willpower. Each success would kill one investigator and buy time for the player's allies elsewhere. Each failure would reduce the number of investigators the player could hold off. The player would die at the end of the scene regardless of the rolls, but their success determined how much their sacrifice achieved.
+_How the Host Adjudicated._ The Host declared this a "Last Stand" scene, using a special rule created on the spot. The player would make a series of three rolls: Attack, Defense, and Resolve. Each success would kill one investigator and buy time for the player's allies elsewhere. Each failure would reduce the number of investigators the player could hold off. The player would die at the end of the scene regardless of the rolls, but their success determined how much their sacrifice achieved.
 
 _Outcome._ The player rolled two successes and one failure. They killed three investigators and wounded a fourth before falling. The time they bought allowed their allies to escape a trap. The player's new character entered the next session, having been inspired by the legendary last stand of their predecessor.
 
@@ -1937,21 +1961,21 @@ _What the Rules Say._ The difficulty would normally make this effectively imposs
 
 _How the Host Adjudicated._ The Host did not say no. They asked the players to come up with a plan. If the players could describe a method that addressed the wards, the guards, and the document's location, the Host would set reasonable TNs. The Host also hinted that there might be alternative approaches: blackmail a Commission official, create a diversion requiring a school's resources, or wait until the Bright Mirror was called away.
 
-_Outcome._ The players spent an entire session planning. They recruited a disgruntled Commission clerk, bribed a guard, triggered a false Dusk alarm that drew the Bright Mirror away, and used a Qi dampening talisman to bypass the wards. The heist succeeded. The document revealed that the Bright Mirror had been investigating the same conspiracy the players were investigating. She was not their enemy. She was their unknowing ally.
+_Outcome._ The players spent an entire session planning. They recruited a disgruntled Commission clerk, bribed a guard, triggered a false Dusk alarm that drew the Bright Mirror away, and used a talisman that dampens Qi to bypass the wards. The heist succeeded. The document revealed that the Bright Mirror had been investigating the same conspiracy the players were investigating. He was not their enemy. He was their unknowing ally.
 
-**Scenario Seven: The Impossible Persuasion.** A player wants to convince the Duke of Eternal Night to reveal what he knows about the Emperor's imprisonment. The Duke has kept this secret for eight centuries. He has refused every request from every major figure.
+**Scenario Seven: The Impossible Persuasion.** A player wants to convince the Duke of Eternal Night to reveal what he knows about the Emperor's imprisonment. The Duke has kept this secret for roughly a century and a half. He has refused every request from every major figure.
 
 _What the Rules Say._ Persuasion rules exist but are designed for ordinary interactions. This is not ordinary.
 
 _How the Host Adjudicated._ The Host told the player that a single Persuasion roll would not work. This would require a longer process. The player needed to earn the Duke's trust through multiple interactions: share a secret of their own, do him a genuine service without asking for payment, demonstrate that they understand the weight of what they are asking. Only after these conditions were met would the Host allow a single final Persuasion roll at TN 18.
 
-_Outcome._ The player spent three sessions building the relationship. They shared a personal secret about their past. They retrieved a lost heirloom for the Duke. They demonstrated that they understood the consequences of the knowledge. On the third session, the Duke finally told them the truth: the Emperor was not imprisoned by enemies but by allies who believed they were saving the empire. The Duke was one of those allies. He has regretted it every day since.
+_Outcome._ The player spent three sessions building the relationship. They shared a personal secret about their past. They retrieved a lost heirloom for the Duke. They demonstrated that they understood the consequences of the knowledge. On the third session, the Duke finally told them the truth: the Emperor was not imprisoned by enemies but by allies who believed they were saving the empire. The Duke voted against them, failed to stop the sealing, and later failed to help the rescue attempt. He has regretted both failures ever since.
 
 **Scenario Eight: The Chaotic Party Split.** Half the players are in a Council session trying to prevent a war vote. The other half are breaking into the Commission archives. Both halves need simultaneous resolution.
 
 _What the Rules Say._ Standard turn order cannot handle simultaneous scenes in different locations.
 
-_How the Host Adjudicated._ The Host split the table physically, sending half the players to a separate room (or separate end of the table) with a notepad. The Host bounced between the two groups in ten minute intervals, resolving three to four rounds of action at a time. The groups could not communicate with each other. The players in the Council session had to stall. The players in the archives had to find what they needed and escape.
+_How the Host Adjudicated._ The Host split the table physically, sending half the players to a separate room (or separate end of the table) with a notepad. The Host moved between the two groups at intervals of ten minutes, resolving three to four rounds of action at a time. The groups could not communicate with each other. The players in the Council session had to stall. The players in the archives had to find what they needed and escape.
 
 _Outcome._ The Council group succeeded in delaying the vote by introducing a procedural motion. The archive group found the evidence they needed but triggered an alarm in the process. The alarm reached the Council chamber just as the vote was about to begin. The resulting chaos gave the players exactly the opening they needed. The two groups reunited triumphantly, each having succeeded because of the other's actions.
 
@@ -1965,21 +1989,21 @@ _Outcome._ The character survived with a limp and a reduced Swiftness score. The
 
 **Scenario Ten: The Unexpected Alliance.** A player proposes an alliance between the Common Flame and the Crimson Lineage, two schools that have been enemies for generations. The player has contacts in both schools. They want to bring them together against the Dusk.
 
-_What the Rules Say._ No rules cover forming cross faction alliances. The faction system assumes schools operate independently.
+_What the Rules Say._ No rules cover forming alliances across factions. The faction system assumes schools operate independently.
 
 _How the Host Adjudicated._ The Host asked the player to describe how they would approach each school. For the Common Flame, the player emphasized practical cooperation: the Dusk does not care about lineage or ideology. For the Crimson Lineage, the player appealed to legacy: if the empire falls, the lineage falls with it. The Host set a Presence plus Persuasion roll for each school, TN 16. Both rolls were needed.
 
 _Outcome._ The player succeeded on both rolls. The alliance formed, tentatively. The Common Flame provided workers and supplies. The Crimson Lineage provided ancient knowledge and Qi resources. The alliance held for three sessions before internal tensions broke it apart. But during those three sessions, the players accomplished more than any single school could have. The alliance became a model for what the empire could become if it set aside its divisions.
 
-**Scenario Eleven: Non-Presence Social Approach.** The player wants to convince a suspicious merchant to share information about a smuggling operation. Instead of using Presence (Persuasion or Deception) as the rules default, the player argues their character would use Swiftness to demonstrate a physical skill, impressing the merchant through action rather than words.
+**Scenario Eleven: Alternative Facet Social Approach.** The player wants to convince a suspicious merchant to share information about a smuggling operation. Instead of using Presence (Persuasion or Deception) as the rules default, the player argues their character would use Swiftness to demonstrate a physical skill, impressing the merchant through action rather than words.
 
-_What the Rules Say._ Social encounters default to Presence-based skills. The player is proposing a different Facet entirely, which is not covered by the standard social interaction rules.
+_What the Rules Say._ Social encounters default to skills governed by Presence. The player is proposing a different Facet entirely, which is not covered by the standard social interaction rules.
 
 _How the Host Adjudicated._ The Host agreed that demonstration of skill can be a legitimate social approach, just an unconventional one. The player described their character picking the merchant's complex lockbox in three seconds flat, opening it, closing it, and handing it back without taking anything. The Host set the action as Swiftness plus Larceny against TN 16. The stakes were different from a standard Persuasion roll: success would not make the merchant friendly, but it would make them impressed and cautious. They would share information because they wanted the skilled operative on their side rather than against them. Failure would not merely fail to impress; it would make the merchant afraid and defensive, calling for guards instead of talking.
 
 _Outcome._ The player rolled a 17. The lock clicked open in their hands. The merchant's eyes widened. "I could use someone with your talents," they said, and slid a document across the table. "This is the shipping schedule you want. I ask only that you remember who helped you." The player gained the information without making a social promise or creating a debt, but the merchant now knows what the player is capable of and will spread that reputation through the underground. The unconventional approach succeeded, but it changed how the NPC sees the player.
 
-**Scenario Twelve: Combat Ability in a Non-Combat Context.** The player, an Iron Bone, wants to use their Wolf Rises ability during an interrogation of a captured Commission agent. The ability is mechanically designed for combat transformation, but the player argues that the threat of the wolf is a social tool, not just a weapon.
+**Scenario Twelve: Combat Ability Outside Combat.** The player, an Iron Bone, wants to use their Wolf Rises ability during an interrogation of a captured Commission agent. The ability is mechanically designed for combat transformation, but the player argues that the threat of the wolf is a social tool, not just a weapon.
 
 _What the Rules Say._ Wolf Rises is a combat Technique that transforms the character and has defined mechanical effects for combat only. It has no explicit social application in the rules.
 
@@ -1993,7 +2017,7 @@ _What the Rules Say._ No rules cover a situation where a player's archetype dupl
 
 _How the Host Adjudicated._ The Host paused and reworked the plot rather than telling the player their chosen archetype broke the adventure. The Shadow NPC became a different entity: the previous holder of the Shadow title who had emerged from retirement, now using the player's identity for their own purposes. The player's character now had a personal stake in the confrontation: this imposter was not just an obstacle, but someone actively damaging the reputation the player had built. The Host also seeded a deeper mystery: perhaps the adventure's assumed NPC was always meant to be this player's character, and the written framework was merely predicting a role the player would naturally fill.
 
-_Outcome._ The player became the center of the arc rather than a participant in someone else's. The pretender Shadow was revealed to be a former apprentice who had stolen the player's methods and identity after the player escaped the Warrens for the Court. The confrontation was personal and emotional, not a simple negotiation with an anonymous informant. The other players rallied around their ally, and the adventure's information was obtained through a dramatic reckoning rather than a transactional exchange. The Host's flexibility turned a potential plot hole into the campaign's most character-driven arc.
+_Outcome._ The player became the center of the arc rather than a participant in someone else's. The pretender Shadow was revealed to be a former apprentice who had stolen the player's methods and identity after the player escaped the Warrens for the Court. The confrontation was personal and emotional, not a simple negotiation with an anonymous informant. The other players rallied around their ally, and the adventure's information was obtained through a dramatic reckoning rather than a transactional exchange. The Host's flexibility turned a potential plot hole into the campaign arc with the strongest focus on a single character.
 
 ---
 
@@ -2025,26 +2049,26 @@ d20 + Facet Modifier + Proficiency Bonus (if applicable) vs TN
 | Iron Calculation | Efficiency   | Irrelevance          | Technical indispensability |
 | Crimson Lineage  | Continuity   | Extinction           | Ancient knowledge          |
 | Common Flame     | Justice      | The wolf             | Mass mobilization          |
-| Bright Mirror    | Purity       | Her own corruption   | Investigation              |
+| Bright Mirror    | Purity       | His own corruption   | Investigation              |
 
 ### The Twelve Figures' Truths
 
 - Cinnabar Heart: The edicts are forged.
-- Night Warbler: She knows who killed Council member Wei.
-- Guest Among Forests: The Dusk is a consequence of a founding ritual.
+- Night Warbler: He knows he was the blade and is hunting the Council member who gave the order.
+- Guest Among Forests: The Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal.
 - Iron Calculation: The Qi reserves are running out.
 - Iron Wall: Operation Empty Throne exists.
-- Bright Mirror: She has sealed indictments on the entire Grand Council.
+- Bright Mirror: He has sealed indictments on the entire Grand Council.
 - Shadow: The original charter contradicts all current doctrine.
 - Duke of Eternal Night: The Emperor is imprisoned, not absent.
-- Iron Bone: The Dusk originated in the penal works.
-- Celestial Book: He knows everything. All of it.
+- Iron Bone: The Dusk first manifested beyond the border provinces in his penal camp.
+- Celestial Book: She knows everything. All of it.
 - Bone Script: There are cook fires burning inside a declared Dusk zone, and the people who went back are not dying.
-- Incense Crown: The answer at the sealed door changed four years ago, and she has reported the old formula three times since.
+- Incense Crown: The answer at the sealed door changed four years ago at her fifteenth performance, and she has reported the old formula at every Continuance since.
 
 ---
 
-## Part Nine: Your First Session: A Step by Step Guide
+## Part Nine: A Guide to Your First Session
 
 ### The Night Before
 
@@ -2062,7 +2086,7 @@ Place three items in the center of the table: a candle (lit, if the space allows
 
 Begin with these exact words, or something close to them. Read them aloud. Let the silence settle afterward.
 
-"You are in the Celestial Court. The empire has existed for three hundred years without its Emperor. The Crimson Dusk spreads slowly across the border provinces. The Grand Council governs in the Emperor's absence. The Six Schools compete for influence. And you are here, in the heart of it all, as minor officials in a vast machine that does not know your name. Yet."
+"You are in the Celestial Court. The empire has gone about one hundred and sixty four years without hearing its Emperor speak in public. The Crimson Dusk spreads slowly across the border provinces. The Grand Council governs in the Emperor's absence. The Six Schools compete for influence. And you are here, in the heart of it all, as minor officials in a vast machine that does not know your name. Yet."
 
 Pause. Let the players feel the weight.
 
@@ -2124,7 +2148,7 @@ If the players are stuck because they missed a clue, do not let the story stall.
 
 Combat in the Violet Court is not the primary focus, but it happens. If a fight is too easy, end it quickly. Narrate the final blows. "You cut through the last guard. The remaining three throw down their weapons." Do not drag out a decided encounter.
 
-If a fight is too hard, offer the players an out. A door they did not notice. A negotiation opportunity. A character who offers to surrender in exchange for information. You can also lower enemy stats mid combat. The players do not have your notes. They will not know that the guard captain originally had more health. They will only know that the fight was tense but winnable.
+If a fight is too hard, offer the players an out. A door they did not notice. A negotiation opportunity. A character who offers to surrender in exchange for information. You can also lower enemy stats during combat. The players do not have your notes. They will not know that the guard captain originally had more health. They will only know that the fight was tense but winnable.
 
 ### When a Player Is Dominating the Table
 
@@ -2152,7 +2176,7 @@ You have options. Offer a permanent consequence instead of death, as described i
 
 If the player genuinely wants the character to die despite the unfairness, make the death meaningful. Give them a final scene. Let them say goodbye. Let them choose how they fall. A character who dies saving an ally, or delivering a crucial message, or cursing their killer with their last breath, does not die unfairly. They die memorably.
 
-Then help the player create a new character who is connected to the party. The new character arrives with a purpose, a secret, and a reason to trust the surviving players. The dead character is mourned in game and remembered out of game. Their death becomes part of the story.
+Then help the player create a new character who is connected to the party. The new character arrives with a purpose, a secret, and a reason to trust the surviving players. The dead character is mourned within the game and remembered away from the table. Their death becomes part of the story.
 
 ### How to Handle Sensitive Content
 
@@ -2162,7 +2186,7 @@ Before the campaign begins, use the Consent Checklist from the core book. Identi
 
 During play, use the "pause and check" technique. If a scene is approaching a sensitive topic, pause and ask: "Is everyone comfortable continuing this scene?" Give players permission to say no. The response "I think we should fade to black here" should always be honored without question.
 
-If a player becomes visibly uncomfortable during a scene, pause the game. Check in with them privately. Offer to retcon, skip, or alter the scene. The player's well being is more important than the story. Always.
+If a player becomes visibly uncomfortable during a scene, pause the game. Check in with them privately. Offer to retcon, skip, or alter the scene. The player's wellbeing is more important than the story. Always.
 
 Use the "X Card" system: place a card in the center of the table. Any player can tap it at any time to stop a scene that is bothering them. No explanation is needed. No questions are asked. The scene ends. This is not a criticism of the Host. It is a tool for table safety.
 
@@ -2180,7 +2204,7 @@ Some adventures assume specific archetypes will handle certain challenges. When 
 
 **No infiltrator available.** If the adventure expects a Shadow or Night Warbler to sneak into a location but no player has those skills, change the nature of the challenge. The infiltration becomes a social engineering problem: who can be bribed, blackmailed, or persuaded to grant access? Create an NPC who needs the players' help and whose access can be borrowed. The obstacle changes from "how do we get in unseen" to "who do we know who can get us in." The same dramatic tension remains, but the approach shifts to strengths the table actually possesses.
 
-**No investigator available.** If the adventure expects a Celestial Book or Bright Mirror to unravel a mystery but your table lacks dedicated investigators, make the clues more accessible through other means. A witness offers testimony unprompted because they recognize a player's reputation. A document arrives with an anonymous annotation explaining its significance. The mystery does not need to be easier; it needs to be findable by the skills at the table. Let combat characters intimidate witnesses for information. Let social characters charm answers out of reluctant sources. Let the Iron Calculation brute-force the problem through data analysis.
+**No investigator available.** If the adventure expects a Celestial Book or Bright Mirror to unravel a mystery but your table lacks dedicated investigators, make the clues more accessible through other means. A witness offers testimony unprompted because they recognize a player's reputation. A document arrives with an anonymous annotation explaining its significance. The mystery does not need to be easier; it needs to be findable by the skills at the table. Let combat characters intimidate witnesses for information. Let social characters charm answers out of reluctant sources. Let the Iron Calculation solve the problem through raw data analysis.
 
 **No martial character available.** If the adventure includes combat encounters but your table has no Iron Wall or Iron Bone, transform those encounters. The armed guards become a puzzle: how do we get past them without fighting? The assassin becomes a target for social manipulation: who hired them, and can we flip them? The physical confrontation becomes an environmental hazard: the collapsing bridge must be crossed, and no one is trained to hold it. Each of these maintains the dramatic stakes while respecting the party's capabilities.
 
@@ -2188,13 +2212,13 @@ Some adventures assume specific archetypes will handle certain challenges. When 
 
 **The principle is simple.** Translate the challenge into a Facet someone at the table excels at. The obstacle and its stakes remain; the method changes. Players should feel that their choices of archetype matter, and that the world adapts to who they are rather than demanding they be someone else.
 
-### Adding Combat Beats for Martial Characters in Intrigue-Heavy Sessions
+### Adding Combat Beats for Martial Characters During Intrigue Sessions
 
-Intrigue-heavy sessions can leave combat-focused players feeling sidelined. These players chose their archetype because they enjoy moments of physical danger and decisive action. Even in a session dominated by politics and conversation, you can create moments that showcase their abilities:
+Sessions dominated by intrigue can leave players who favor combat feeling sidelined. These players chose their archetype because they enjoy moments of physical danger and decisive action. Even in a session dominated by politics and conversation, you can create moments that showcase their abilities:
 
 **The duel of honor.** A minor official insults the party or a faction they represent. The only acceptable response in Court etiquette is a formal challenge. The martial character steps forward. The duel is bound by rules: first blood, submission, or a specific number of exchanges. This is not a fight to the death. It is a demonstration of skill that carries social weight. The outcome affects how the faction views the entire party.
 
-**The sudden ambush.** In the middle of a negotiation or investigation, attackers strike. They may be rivals who want to eliminate competition, or a faction sending a message. The martial character's combat readiness saves the party. The fight should be brief but dramatic, three or four rounds at most, showcasing the character's abilities before the enemy retreats or is defeated. The non-martial characters contribute through tactics, support, or protecting the objective.
+**The sudden ambush.** In the middle of a negotiation or investigation, attackers strike. They may be rivals who want to eliminate competition, or a faction sending a message. The martial character's combat readiness saves the party. The fight should be brief but dramatic, three or four rounds at most, showcasing the character's abilities before the enemy retreats or is defeated. The other characters contribute through tactics, support, or protecting the objective.
 
 **The physical obstacle.** A door that must be forced open. A collapse that must be held while others escape. A pursuit through the city rooftops. These are not combat encounters, but they require the physical capabilities that martial characters possess. Describe them with the same intensity as a fight. The Iron Wall holding a falling ceiling while others escape is as dramatic as any battle.
 
@@ -2210,7 +2234,7 @@ The Shadow NPC occupies a unique position in the Violet Court: a major figure wh
 
 **The Shadow is a legacy title.** The player holds the title and role, but a previous holder of the title still exists and may emerge from retirement. Adventure references to "the Shadow" refer to the previous holder, not the player. The player's actions build their own reputation separate from the legacy. This creates interesting dynamics: does the player live up to the title, exceed it, or reject it? Does the previous holder approve of the player's choices?
 
-**There is a pretender.** Someone else is using the Shadow's name and reputation to accomplish their own goals. The player must decide whether to expose the pretender, co-opt their operation, or let them continue and take credit for their successes. This creates a unique antagonist who is a dark mirror of the player character, someone who wants what the player has without earning it.
+**There is a pretender.** Someone else is using the Shadow's name and reputation to accomplish their own goals. The player must decide whether to expose the pretender, absorb their operation, or let them continue and take credit for their successes. This creates a unique antagonist who is a dark mirror of the player character, someone who wants what the player has without earning it.
 
 **The Shadow is a construct of reputation.** The Shadow is not a single person but a collection of deeds attributed to a mythical figure. Multiple operatives over the years have committed acts credited to "the Shadow." The player is the latest in this tradition. Adventures referencing the Shadow reference the legend, not any specific individual. The player must decide whether to maintain the legend, reveal the truth, or reshape what the Shadow means.
 

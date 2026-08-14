@@ -8,6 +8,8 @@
 
 ### Court Role: Bureau of Internal Harmony, Special Operations
 
+### Default Gender: Male
+
 ## Description
 
 You are trained in the arts of shadow: infiltration, elimination, and the delicate craft of being somewhere without anyone knowing you were there. The Bureau of Internal Harmony handles the Court's special cases. When a problem cannot be solved with memoranda, it comes to you. You are very good at solving problems. You are less good at living with the solutions afterward. You wear black and violet combat silks. You carry blades that seem to materialize from shadow. You move like water. You sleep poorly.
@@ -27,14 +29,14 @@ You are trained in the arts of shadow: infiltration, elimination, and the delica
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 2 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 3 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier + 2      | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 14        |
-| Proficiency Bonus | Level 1                     | +2        |
+| Value             | Calculation                         | Base      |
+| ----------------- | ----------------------------------- | --------- |
+| Hit Points        | 10 + Endurance Modifier + 2         | Calculate |
+| Qi Pool           | 10 + Intellect Modifier + 3         | Calculate |
+| Sanity            | 20 + Resolve Modifier               | Calculate |
+| Initiative        | Swiftness Modifier + 2              | Calculate |
+| Defense           | 10 + Swiftness Modifier + 1 (armor) | 15        |
+| Proficiency Bonus | Level 1                             | +2        |
 
 ## Proficiencies
 
@@ -65,8 +67,8 @@ You recognize the signs of your profession: the way someone stands relative to e
 ## Starting Equipment
 
 - Concealed Armor (+1 Defense, concealable under clothing)
-- Two Hidden Blades (1d4, Concealable, First Strike: +1d6 on first attack)
-- Set of Throwing Knives (1d4, Throwable, 6 knives)
+- Two Hidden Blades (1d4, Concealable, First Strike: +1d6 on the first round if you act before the target)
+- Six Daggers (1d6, Concealable, Throwable)
 - Dark Cloak (Advantage on Stealth checks to hide in shadows)
 - Grappling Hook and Silk Rope
 - Forged Identification Papers (moderate quality)
@@ -105,11 +107,11 @@ The old version of this story ends with you feeling nothing.
 
 You felt a great deal. You threw up in an alley four streets away and then you were extremely hungry, which shocked you more than the vomiting did. Then you slept eleven hours. Then you were fine, and being fine was the part that frightened you and still does.
 
-He had a daughter. She was nine. She is forty six now, a records clerk of the Fifth Rank in the Ministry of Rites, competent and unremarkable, with two sons and a husband who drinks a little.
+He had a daughter. She was nine. She is thirty two now, a records clerk of the Fifth Rank in the Ministry of Rites, competent and unremarkable, with two sons and a husband who drinks a little.
 
-You have followed her career for thirty two years. Twice you have quietly removed obstacles from it: a supervisor reassigned, a complaint that never reached a desk. You did this without deciding to, the way you do most things now.
+You have followed her career for twenty three years. Twice you have quietly removed obstacles from it: a supervisor reassigned, a complaint that never reached a desk. You did this without deciding to, the way you do most things now.
 
-You do not think of it as guilt. You have examined it and guilt does not fit; you would kill her father again tomorrow and you know it. It is closer to bookkeeping. You took something out of the world and you have been putting small things back, in the wrong denomination, into an account that does not exist, for three decades.
+You do not think of it as guilt. You have examined it and guilt does not fit; you would kill her father again tomorrow and you know it. It is closer to bookkeeping. You took something out of the world and for twenty three years you have been putting small things back, in the wrong denomination, into an account that does not exist.
 
 **The profession, which you are good at and do not hate.** You are thirty seven. You have been working for twenty three years. You are, by any measure available, near the top of a very small field.
 
@@ -144,7 +146,7 @@ You have not told anyone that you have begun, in a way you would not yet call a 
 ## Sample Dialogue
 
 **When asked about their past:**
-"There is nothing before the Bureau. I was created by the Bureau. The person I was before does not exist anymore. I killed her myself. She was my first target and my cleanest."
+"There is nothing before the Bureau. I was created by the Bureau. The person I was before does not exist anymore. I killed him myself. He was my first target and my cleanest."
 
 **To an ally who hesitates in a fight:**
 "Your body knows what to do. Your mind is the problem. Your mind is telling you that you are a good person and good people do not do this. Your mind is wrong. There is no good. There is only alive or dead. Choose alive."
@@ -159,7 +161,7 @@ You have not told anyone that you have begun, in a way you would not yet call a 
 "You have three choices. You can try to stop me, in which case at least two of you will die before I do. You can let me leave, in which case no one dies tonight. Or you can pretend none of this happened, go back to your posts, and forget you saw me. I recommend the third one. It is easiest on everyone."
 
 **A rare moment of sincerity with a close companion:**
-"I have killed forty seven people for the Bureau. I remember all of their faces. I remember what they were wearing. I remember the last thing they saw before they died. Most of them saw nothing. They died in their sleep or in a crowd or walking down a dark street. Only three of them saw me. Only one of them said anything I understood. They said 'I forgive you.' I do not know why. I have never stopped wondering."
+"I have killed seventeen people for the Bureau. I remember all of their faces. I remember what they were wearing. I remember the last thing they saw before they died. Most of them saw nothing. They died in their sleep or in a crowd or walking down a dark street. Only three of them saw me. Only one of them said anything I understood. They said 'I forgive you.' I do not know why. I have never stopped wondering."
 
 **When someone thanks them for protection:**
 "Do not thank me. I did not protect you because I care about you. I protected you because I was ordered to. If I was ordered to kill you tomorrow, I would do that too. That is what I am. That is all I am. The sooner you understand that, the safer you will be."
@@ -182,25 +184,25 @@ You have not told anyone that you have begun, in a way you would not yet call a 
 ## Personal Connections
 
 **The Cinnabar Heart Alchemist:**
-You have encountered the Alchemist three times in circumstances that should have been secret. They recognized you each time. You recognized them. You have never spoken about it. You have watched them work from a distance. You respect their precision. They edit reality the way you edit lives: cleanly, professionally, without visible hesitation. You sometimes leave information where they will find it, information that might help them, information that would be dangerous for you to deliver directly. You do not know why you do this. You tell yourself it is because a useful asset is worth protecting. You are not sure that is the whole truth. You are not sure you want to examine the rest.
+You have encountered the Alchemist three times in circumstances that should have been secret. He recognized you each time. You recognized him. You have never spoken about it. You have watched him work from a distance. You respect his precision. He edits reality the way you edit lives: cleanly, professionally, without visible hesitation. You sometimes leave information where he will find it, information that might help him, information that would be dangerous for you to deliver directly. You do not know why you do this. You tell yourself it is because a useful asset is worth protecting. You are not sure that is the whole truth. You are not sure you want to examine the rest.
 
 **The Iron Wall Knight (Garrison Commander):**
-The Knight is the only person in the capital who has ever made you feel safe. This is absurd. You are a trained killer. You could kill the Knight in their sleep. But the Knight has a quality you do not: they believe in something. They believe in their oath. They believe in the empire. They believe that honor is real and that it matters. You do not share this belief. But standing near someone who holds it is like standing near a fire. You do not intend to burn. You simply want to feel the warmth. You have never told the Knight this. You have never told anyone. You sometimes patrol near the Garrison barracks at night, just to see the Knight's silhouette in the watchtower. You do not know what you would say if they saw you. You always leave before they turn around.
+The Knight is the only person in the capital who has ever made you feel safe. This is absurd. You are a trained killer. You could kill the Knight in his sleep. But the Knight has a quality you do not: he believes in something. He believes in his oath. He believes in the empire. He believes that honor is real and that it matters. You do not share this belief. But standing near someone who holds it is like standing near a fire. You do not intend to burn. You simply want to feel the warmth. You have never told the Knight this. You have never told anyone. You sometimes patrol near the Garrison barracks at night, just to see the Knight's silhouette in the watchtower. You do not know what you would say if he saw you. You always leave before he turns around.
 
 **The Iron Bone Werewolf (Common Flame Organizer):**
-You were once ordered to surveil the Werewolf during a labor rally. You spent three days watching them speak to crowds, meeting with workers, distributing food to families in the Warrens. You were supposed to identify vulnerabilities. Instead, you found yourself admiring their courage. They stand in front of crowds and tell the truth. You have never told the truth to anyone about anything important. You did not file a complete report. You left out the Werewolf's kindnesses, the moments of genuine warmth, the way they remembered the names of children. You do not know why you omitted these details. You only know that when you read your report afterward, it made the Werewolf sound like exactly what the Bureau thinks they are: a dangerous radical. You were not sure you believed that anymore. You have not been assigned to them since. You are grateful and ashamed in equal measure.
+You were once ordered to surveil the Werewolf during a labor rally. You spent three days watching him speak to crowds, meet with workers, and distribute food to families in the Warrens. You were supposed to identify vulnerabilities. Instead, you found yourself admiring his courage. He stands in front of crowds and tells the truth. You have never told the truth to anyone about anything important. You did not file a complete report. You left out the Werewolf's kindnesses, the moments of genuine warmth, the way he remembered the names of children. You do not know why you omitted these details. You only know that when you read your report afterward, it made the Werewolf sound exactly like the dangerous radical the Bureau insists he is. You were not sure you believed that anymore. You have not been assigned to him since. You are grateful and ashamed in equal measure.
 
 **The Bright Mirror Justicar:**
-The Justicar has been tracking you for years. You know this because you have been tracking them back. It is a dance. They know you exist. They know what you do. They have not caught you because you are better at hiding than they are at finding. But they are getting closer. You have found their traces at three of your past operation sites. They are learning your patterns. You have started varying your methods not because you need to but because you want to stay ahead of them. There is a part of you that almost wants to be caught, just to see what happens when the law finally meets the shadow. You imagine the conversation. You imagine the look on their face when they realize you do not care about being judged because you have already judged yourself and found yourself guilty of everything they could possibly charge you with.
+The Justicar investigated you years ago and declined to bring charges. He learned enough to understand what the Bureau made you, but not enough to prove which operations were yours, who authorized them, or where coercion ended and choice began. His restraint unsettles you more than pursuit would have. You know he still watches because you have found his traces at three of your past operation sites, and you watch him in return. You vary your methods partly to stay ahead of him and partly to see whether he notices. There is a part of you that wants the conversation at last, not because you expect mercy, but because you have already judged yourself guilty of every charge he might prove and you need to know whether his judgment will be more precise than your own.
 
 **Inspector Eighth Silence (Your Mentor):**
-Inspector Eighth Silence is still alive. He is old now, too old for fieldwork, retired to a minor administrative role in the Bureau's personnel division. You visit him twice a year. You bring him tea from the eastern district, the kind he likes. He talks about the weather. He never talks about the village. You have never asked. You know that he saved your life by taking you from that cellar. You also know that he shaped you into a weapon because he needed one. The love you feel for him is genuine. The resentment you feel is equally genuine. They coexist in you the way two knives share the same sheath: touching, sometimes sharp against each other, never drawn at the same time. You wonder if he thinks about the village. You wonder if he remembers the name of it. You will never ask.
+Inspector Eighth Silence is eighty one and lives in a small house in the eastern district with a paid carer. You visit every eleven days and bring food you cooked yourself, though you tell him a colleague made it. On good days he talks about the weather. On bad days he calls you Seven and assigns missions that ended fifteen years ago. You know he saved your life by taking you from that cellar. You also know he shaped you into a weapon because he needed one. Your love for him is real. Your resentment is just as real. You have twice arrived intending to ask about the village and twice chosen to preserve the version of him you can still keep.
 
 **The Records Keeper's Widow:**
 You found her name in the Bureau's files after you killed her husband. You told yourself you were being thorough, that understanding the target's family was part of the professional assessment. You were lying. You wanted to know who Lin Wei had loved. You found her in a small apartment in the eastern district, working as a seamstress, raising two children alone. She does not know what happened to her husband. The official record says he was killed by a robber. She believes this. You have watched her from a distance, six times now, always from the shadows, always leaving before you are noticed. You have left money twice, slipped under her door in an envelope with no return address. You do not know if this is penance or obsession. You do not know if there is a difference.
 
-**The Child Who Survived:**
-You were ordered to eliminate a family five years ago, a minor noble who had crossed the wrong faction. The order included the children. You completed the mission. You thought you had completed it. But you have recently learned that the youngest child, a girl of four, survived. She was hidden by a servant who died protecting her. She is now living in a temple on the outskirts of the capital, being raised by the Orthodoxy. You have seen her once, playing in the temple garden. She looked happy. She did not look like a target. She looked like a child. You have not told the Bureau. You have not told anyone. You do not know why you are protecting her. You only know that you will not be the one who finishes what was started.
+**The Witness You Let Live:**
+Five years ago, you were ordered to eliminate a minor noble who had crossed the wrong faction. As you left, a household servant saw your face. Bureau procedure was clear: no witnesses. She was unarmed, terrified, and old enough to understand exactly what you were. You lowered your blade and walked away. She now keeps accounts at a temple outside the capital. You have seen her once since then. She recognized you, or you think she did, but gave no sign. You never told the Bureau. You do not know whether you spared her out of mercy, fear, or a simple refusal to add one more name to your book. You only know that if the Bureau learns she is alive, both of you will be in danger.
 
 ## Roleplaying Guide
 
@@ -239,11 +241,11 @@ Add these to the existing list:
 
 Complications for existing truths:
 
-**For "You know who ordered the death of a specific senior official thirty years ago. It was recorded as natural causes. It was not."**
-Complication: The person who ordered the death is still alive and active in the Court. You have been watching them for years. They recently requested a meeting with you through official channels. They do not know you know. You do not know if the meeting is a test or a coincidence.
+**For "You carried out the killing of a senior official seventeen years ago. The death was recorded as natural causes. You still do not know which Council member issued the order."**
+Complication: You have narrowed the order to one of three Council members who remain alive and active in the Court. One of them recently requested a meeting with you through official channels. You do not know whether the meeting is a test or a coincidence.
 
-**For "Your parents were Disappeared when you were a child. You do not know who gave the order. You have been looking for twenty years."**
-Complication: You have found the person who signed the order. It was Inspector Eighth Silence. You have confirmed this through multiple independent sources. You have not confronted him. You are not sure you want to know why he signed it. You are not sure you want to know if he signed it before or after he decided to recruit you.
+**For "Your parents were Disappeared when you were a child. You do not know who gave the order. For twenty years, you have repeatedly begun the search and then abandoned it."**
+Complication: On your latest attempt, you found the person who signed the order. It was Inspector Eighth Silence. You have confirmed this through multiple independent sources. You have not confronted him. You are not sure you want to know why he signed it. You are not sure you want to know if he signed it before or after he decided to recruit you.
 
 **For "You were ordered to kill a child once. You completed the mission. You have not slept a full night since."**
 Complication: You have recently learned that the child did not die. The target had a body double. The real child survived and is now an adult working in the capital as a clerk in the Bureau of Harmonious Records. You have seen them in person. They do not know who you are. They do not know they were ever a target.
@@ -305,8 +307,8 @@ What it feels like: You have always known you would die in service to the Bureau
 
 Choose one, or create your own with the Host:
 
-- You know who ordered the death of a specific senior official thirty years ago. It was recorded as natural causes. It was not.
-- Your parents were Disappeared when you were a child. You do not know who gave the order. You have been looking for twenty years.
+- You carried out the killing of a senior official seventeen years ago. The death was recorded as natural causes. You still do not know which Council member issued the order.
+- Your parents were Disappeared when you were a child. You do not know who gave the order. For twenty years, you have repeatedly begun the search and then abandoned it.
 - You were ordered to kill a child once. You completed the mission. You have not slept a full night since.
 - You hold a sealed file containing the operational history of the Bureau for the last decade. If released, it would end several careers and at least two lives.
 
@@ -314,7 +316,7 @@ Choose one, or create your own with the Host:
 
 ## Advancement
 
-As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
 **Level 3: Vanish.** Once per session, you may disappear from a scene as a Free Interaction. You are simply gone. The Host determines where you reappear, but it will be somewhere you could plausibly have reached.
 

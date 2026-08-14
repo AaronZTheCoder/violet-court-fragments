@@ -8,11 +8,13 @@
 
 ### Court Role: Grand Council Elder; Patriarch of the Crimson Lineage
 
+### Default Gender: Male
+
 ---
 
 ## Description
 
-You are old in a way that numbers cannot capture. You were present at the empire's founding. You signed the original charter. You have served every era, every Council configuration, every Harmonization Audit and reformation and counter reformation. You have outlived your children, your grandchildren, your lovers, your rivals, and your gods.
+You are exactly eight hundred years old, yet the number still fails to capture what that means. You were present at the empire's founding. You signed the original charter. Across four hundred and fifty two years of imperial history, you have witnessed every Council configuration, every Harmonization Audit, every reform, and every reaction against reform. You have outlived your wife, old lovers, mortal friends, rivals, and gods, while generations of the family you raised have passed beneath your watch.
 
 You continue to attend Council sessions because you have nothing else to do, and eternity is very, very long. You are elegant, bored, and capable of both shocking kindness and monstrous cruelty depending on which seems more interesting at the moment. You are not evil. Evil requires caring enough to choose malice. You are something sadder: a being who has lived so long that morality has become a matter of aesthetic preference.
 
@@ -22,15 +24,15 @@ You continue to attend Council sessions because you have nothing else to do, and
 
 **The name, which you have not forgotten.** It is usually said that you discarded your birth name and no longer recall it.
 
-You recall it perfectly. It was Shen Bao. Your father called you Bao Bao until you were nine and then stopped because you asked him to, in front of company, and you have thought about the look on his face for three hundred and eleven years.
+You recall it perfectly. It was Shen Bao. Your father called you Bao Bao until you were nine and then stopped because you asked him to, in front of company, and you have thought about the look on his face for seven hundred and ninety one years.
 
 You say the name is lost because that is the correct thing for a Duke of the Crimson Lineage to say, and because a man who admits he remembers being a rice farmer's son can be priced.
 
 **What you actually agreed to.** Your sire found you at a harvest festival at seventeen. The story as told is that you were taken.
 
-You were offered. He explained the terms over most of a night, accurately and without romance, including the feeding, the sunlight, and the fact that you would watch your family age out. You asked for until morning. You spent it walking, and you came back, and you said yes.
+You were offered. She explained the terms over most of a night, accurately and without romance, including the feeding, the sunlight, and the fact that you would watch your family age out. You asked for until morning. You spent it walking, and you came back, and you said yes.
 
-You were not seduced or tricked. You were seventeen and you did not want to inherit a rice field and die at fifty of a cough, and a very old man offered you an alternative and you took it with your eyes open.
+You were not seduced or tricked. You were seventeen and you did not want to inherit a rice field and die at fifty of a cough, and a very old woman offered you an alternative and you took it with your eyes open.
 
 Everything since is downstream of a choice made by a boy who was bored.
 
@@ -40,21 +42,21 @@ The Crimson Lineage was ascendant, you were beautiful and new and had no memory 
 
 You have almost no memory of individual years from that period and you do not regret them, and when younger vampires ask you about the great days you tell them the truth, which is that the great days were largely spent drunk in beautiful rooms and that you would do it again.
 
-**Ninety one years of marriage.** You married a mortal woman named Ash Bright when you were two hundred and four and she was twenty six. She knew what you were before she agreed.
+**Sixty seven years of marriage.** You married a mortal woman named Ash Bright when you were two hundred and four and she was twenty six. She knew what you were before she agreed.
 
-You were together ninety one years. She aged. You did not.
+You were together sixty seven years. She aged. You did not.
 
 There is no polite way to describe the last decade of that. She was ninety three and you had the face you have now, and she had stopped being able to introduce you to people, and the arrangement that had been a romance and then a partnership had become something with no name, in which a very old woman was cared for by a young man who was not young and whom she had loved when she was able to lift her own arms.
 
 She asked you, near the end, whether you were staying out of love or obligation. You said love. That was true and it was also not the whole answer, and the rest of the answer is that you had no idea how to be someone who leaves.
 
-She has been dead for ninety seven years. You have not remarried, not from devotion, but because you ran the arithmetic and concluded that you cannot do it again and be decent, and that doing it again while not being decent is available and would work, and you do not want to find out that you would take it.
+She has been dead for five hundred and twenty nine years. You have not remarried, not from devotion, but because you ran the arithmetic and concluded that you cannot do it again and be decent, and that doing it again while not being decent is available and would work, and you do not want to find out that you would take it.
 
 **Your descendants.** You have a family line. Her children were not yours, but they were hers, and you raised two of them, and their descendants are now a minor merchant family in the eastern quarter numbering perhaps forty people.
 
 None of them know. To them you are a patron of the house, an old family connection, a portrait. You attend perhaps one wedding a decade under a plausible identity. You have quietly funded them through three bad generations.
 
-There is a nineteen year old in that family now who has your wife's exact laugh, which is not inheritance, since there is no blood between you, and is therefore something worse: a coincidence you cannot stop looking at.
+Someone in that family is nineteen now and has your wife's exact laugh, which is not inheritance, since there is no blood between you, and is therefore something worse: a coincidence you cannot stop looking at.
 
 **What you have done to stay comfortable.** You are not a witness. You are a participant, and you have been on the winning side of three centuries.
 
@@ -62,9 +64,9 @@ You have fed on people. Not metaphorically. The Lineage's arrangements are civil
 
 You have also, four times, declined to intervene when intervening would have cost you position. The most recent was six years ago and involved a family you had known for two generations. You made the calculation quickly and you were correct about the cost, and you did nothing, and they were correct to expect better of you.
 
-**The Sealing, and the eleven paces.** You were in the antechamber. You were among the first generation of elders who stood the watch.
+**The Sealing, and the eleven paces.** You voted against the Sealing and lost. You were in the antechamber among the first generation of elders who stood the watch.
 
-He stopped at the threshold, looked back for about four seconds, and said something. You were eleven paces away. The acoustics were poor. You have spent three hundred years certain it was addressed to one specific person and unable to determine who, and you will not speculate about the words, and if a player presses you on it you become angry in a way that surprises everyone including you.
+He stopped at the threshold, looked back for about four seconds, and said something. You were eleven paces away. The acoustics were poor. You have spent one hundred and sixty four years certain it was addressed to one specific person and unable to determine who, and you will not speculate about the words, and if a player presses you on it you become angry in a way that surprises everyone including you.
 
 Eight years later his personal attendant led eight others to the Spire with tools. You knew that man for forty years. You had eaten at his table.
 
@@ -72,7 +74,7 @@ You were told what was planned. Two days in advance, by him, in confidence, beca
 
 You said you would think about it. Then you did nothing, and said nothing, and they were stopped, and Disappeared, and their names struck.
 
-You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had three hundred years to make peace with probably and have not managed it.
+You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had one hundred and fifty six years to make peace with probably and have not managed it.
 
 **Why you are still here.** You are the last person alive who remembers the empire with the Emperor in it. Not the last who has read about it. The last who stood in a room with Him.
 
@@ -95,13 +97,13 @@ When confronted with a moral choice that seems difficult:
 "I have killed more people than you have met. I have saved more lives than I have taken. Neither statistic makes me good or evil. They are both simply true. The question is not whether an action is moral. The question is whether you can live with the memory of it. Eternity is a long time to live with a memory."
 
 When someone comments on your apparent boredom:
-"You mistake stillness for boredom. I am not bored. I am watching. I have been watching this Court for eight hundred years. I know what every person in this room will do before they do it. The only interesting question is whether I will be surprised. So far tonight, none of you have surprised me."
+"You mistake stillness for boredom. I am not bored. I am watching. I have watched this Court since its founding. I know what every person in this room will do before they do it. The only interesting question is whether I will be surprised. So far tonight, none of you have surprised me."
 
 When asked about love:
 "I have loved. I have loved deeply and disastrously and repeatedly. I have loved mortals who aged and died while I remained unchanged. I have loved vampires who tried to kill me. I have loved people who loved me back and people who only loved what I could give them. Love is not a solution to immortality. It is a complication. It is a beautiful complication. I recommend it, despite everything."
 
-When a bright eyed reformer suggests the Court can be improved:
-"You remind me of myself. Eight hundred years ago, I believed the same thing. I believed that if I just found the right lever, the right alliance, the right word at the right moment, I could make the system work better. I did not understand that the system is not broken. It is working exactly as intended. It is working to preserve itself. That is the only thing systems do. You cannot reform a system. You can only replace it. And replacement takes more than good intentions."
+When an idealistic reformer suggests the Court can be improved:
+"You remind me of myself when the Court was young. I believed the same thing. I believed that if I just found the right lever, the right alliance, the right word at the right moment, I could make the system work better. I did not understand that the system is not broken. It is working exactly as intended. It is working to preserve itself. That is the only thing systems do. You cannot reform a system. You can only replace it. And replacement takes more than good intentions."
 
 When a companion asks if you fear death:
 "I fear boredom. I fear meaninglessness. I fear outliving everyone I care about for the sixth time and discovering that the seventh time does not get easier. Death is a door. I have been standing in front of it for centuries. I am not ready to open it. But I am no longer certain I want to spend eternity standing in this hallway."
@@ -112,13 +114,13 @@ When a companion asks if you fear death:
 
 **Celestial Book (Archivist):** You and Celestial Book have an understanding. You are two of the oldest beings in the Court, and you share a kind of exhausted camaraderie that younger creatures cannot access. You meet once a century, in the Archives, and drink tea that is older than most nations. You do not discuss current politics. You discuss history, philosophy, the nature of time, the things you have read and the things you have done. Celestial Book is the only creature in the world who remembers some of the same things you remember. You trust the Archivist as much as you trust anyone, which is to say not entirely, but more than you trust most.
 
-**Iron Bone (Common Flame Organizer):** You find Iron Bone fascinating in the way a naturalist finds a fascinating species of predator. The wolf spirit that inhabits them is ancient, older than you, older than the empire. You have considered trying to feed on Iron Bone, not for the blood but for the experience of tasting something that old. You have refrained because you are not certain you would survive the encounter. You have watched Iron Bone speak at rallies. You have felt the wolf's presence reaching toward you. You have felt something in yourself respond, something older than your vampire nature, something that recognizes the wolf as kin. This disturbs you. You have not mentioned it to anyone.
+**Iron Bone (Common Flame Organizer):** You find Iron Bone fascinating in the way a naturalist finds a fascinating species of predator. The wolf spirit that inhabits him is ancient, older than you, older than the empire. You have considered trying to feed on Iron Bone, not for the blood but for the experience of tasting something that old. You have refrained because you are not certain you would survive the encounter. You have watched Iron Bone speak at rallies. You have felt the wolf's presence reaching toward you. You have felt something in yourself respond, something older than your vampire nature, something that recognizes the wolf as kin. This disturbs you. You have not mentioned it to anyone.
 
-**Shadow (Information Broker):** You employ Shadow occasionally for tasks that require discretion the Lineage cannot officially provide. You pay well and ask no questions. You respect Shadow's professionalism. You also know more about Shadow than Shadow realizes. You know the location of every safe house. You know the contents of every blackmail file. You know about the sister, the mother, the stolen charter. You have not used this knowledge because having it is more valuable than using it. Shadow is useful. Shadow is also predictable. You find this slightly disappointing.
+**Shadow (Information Broker):** You employ Shadow occasionally for tasks that require discretion the Lineage cannot officially provide. You pay well and ask no questions. You respect Shadow's professionalism. You also know more about Shadow than Shadow realizes. You know the location of every safe house. You know the contents of every blackmail file. You know about his disgraced father, his living mother, and the courier he betrayed. You have not used this knowledge because having it is more valuable than using it. Shadow is useful. Shadow is also predictable. You find this slightly disappointing.
 
-**Bright Mirror Commissioner Valerius (Director of Internal Affairs):** You have been playing a game with Valerius for forty years. He wants to find enough evidence to bring you before the Commission. You want him to keep trying because his investigations amuse you. You leave him clues, false trails, tantalizing hints of crimes you may or may not have committed. He follows each one with religious dedication. You have watched him age from a young idealist to a grizzled veteran. You will watch him die. You have already chosen the wine you will drink at his funeral. You will attend in disguise. You will pay your respects. You will miss the game.
+**Bright Mirror (Justicar):** Bright Mirror has investigated you for thirteen years. He wants enough evidence to bring you before the Commission for Celestial Purity. You want him to keep trying because his discipline amuses you. You leave him clues, false trails, and hints of crimes you may or may not have committed. He follows each one with relentless care. You respect his integrity and know that he is one of the few officials who might surprise you. If he dies before the inquiry ends, you will attend his funeral in disguise, pay your respects, and miss the game.
 
-**Your Eldest Child (name unknown, currently in hiding):** You turned your eldest child in your fourth century, a general in the imperial army who had impressed you with his tactical mind. You loved him more than you have loved any of your progeny. You taught him everything. You gave him lands, titles, a place on the Council. He repaid you by attempting to organize a coup. You exiled him instead of killing him, which surprised everyone including yourself. You tell yourself you spared him because he was useful. You know this is a lie. You spared him because you could not bear to lose another child. He is somewhere in the eastern provinces, building power, waiting for his moment. You are waiting too.
+**Your Turned Child (name unknown, currently in hiding):** In your fourth century you turned a general in the imperial army who had impressed you with his tactical mind. You loved him more than any other person you brought into the blood. You taught him everything. You gave him lands, titles, and a place on the Council. He repaid you by attempting a coup. You exiled him instead of killing him, which surprised everyone including yourself. You tell yourself you spared him because he was useful. You know this is a lie. You spared him because you could not bear another loss. He is somewhere in the eastern provinces, building power and waiting for his moment. You are waiting too.
 
 **Your Sire (deceased, blood consumed):** You do not think about her often. You do not think about her deliberately. She appears in your dreams, in the spaces between thoughts, in the taste of certain vintages of blood. She was magnificent and cruel and she made you what you are. You killed her as surely as if you had driven the stake yourself. The cup you drank from is preserved in your private study. You have never been able to destroy it. You have never been able to look at it for more than a few seconds.
 
@@ -128,7 +130,7 @@ When a companion asks if you fear death:
 
 **Internal Conflict:** You are a creature of immense power who has become paralyzed by the weight of your own history. You could reshape the Court with a word. You do not because you have reshaped it so many times before and nothing ever changes. You believe in nothing because you have seen every belief system rise, dominate, and crumble. You love no one because everyone you have loved has died or betrayed you. And yet you continue. Somewhere beneath the centuries of accumulated weariness, there is still a person who wants to believe, to love, to matter. That person is buried very deep. The player's journey is about deciding whether to let that person out or entomb them forever.
 
-**What Keeps You Up at Night:** The silence of your empty estate. The faces of your dead children. The dream in which your sire asks you why you let her die. The growing suspicion that you have become the villain of a story you no longer remember the beginning of. The fear that you have been wrong about everything and that the truth, when it comes, will arrive too late for you to change.
+**What Keeps You Up at Night:** The silence of your empty estate. The faces of Ash Bright and the generations you watched grow old. The dream in which your sire asks you why you let her die. The growing suspicion that you have become the villain of a story you no longer remember the beginning of. The fear that you have been wrong about everything and that the truth, when it comes, will arrive too late for you to change.
 
 **How You Treat Allies:** You treat allies the way a king treats courtiers: with courtesy, with distance, and with the implicit understanding that loyalty is a transaction. You are generous with your resources and your knowledge. You will protect your allies from external threats. You will not protect them from the consequences of their own choices. You are not their parent. You have been a parent. You are not doing that again.
 
@@ -157,11 +159,11 @@ The assassin's blade finds your heart. You feel the steel part flesh, muscle, th
 
 ## Expanded Truths
 
-**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for three hundred years.
-_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting three centuries to be vindicated. Your pride may have doomed the empire.
+**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
+_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and fifty five years to be vindicated. Your pride may have doomed the empire.
 
-**Suggested Truth 2 (Existing):** Your eldest child is plotting to usurp your position. You have known for years. You are letting them try, to see if they are worthy. You are not certain you want them to succeed.
-_Complication:_ Your child has discovered something you have kept hidden for centuries, a truth about the Crimson Lineage's founding that would destroy the family if revealed. Your child is not planning to kill you. Your child is planning to expose you. The coup is a distraction. The real weapon is the truth.
+**Suggested Truth 2 (Existing):** The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
+_Complication:_ Your exiled heir has discovered something you have kept hidden for centuries, a truth about the Crimson Lineage's founding that would destroy the family if revealed. He is not planning to kill you. He is planning to expose you. His renewed bid for power is a distraction. The real weapon is the truth.
 
 **Suggested Truth 3 (Existing):** You have been feeding on a specific senior official for decades. They do not know. They believe they have a chronic illness. You have grown fond of them.
 _Complication:_ The official recently discovered the truth. They have not confronted you. They have been feeding you false memories, tainted blood, information designed to mislead you. You have been drinking lies for six months. The official is working with someone you do not know.
@@ -169,7 +171,7 @@ _Complication:_ The official recently discovered the truth. They have not confro
 **Suggested Truth 4 (Existing):** The Crimson Dusk is a wound in the world. You know what caused it. You helped cause it. Not intentionally. But intentions matter less than consequences, and you have lived long enough to know that.
 _Complication:_ You know how to heal the Crimson Dusk. The method would require the death of every living member of the Crimson Lineage. You have never shared this knowledge. You are not sure if your reluctance is loyalty or fear or something else entirely.
 
-**Suggested Truth 5 (New):** You have a mortal descendant, seven generations removed, who has no idea of their heritage. You have been watching them for years. They have the same smile as your sire. You have not fed on them. You have not revealed yourself. You do not know why you are hesitating.
+**Suggested Truth 5 (New):** A descendant of Ash Bright's family, seven generations removed, has no idea that you helped raise their forebears. You have watched them for years. They have Ash Bright's smile. You have not approached them or revealed your place in the family's history. You do not know why you are hesitating.
 
 **Suggested Truth 6 (New):** The Commission for Celestial Purity has a file on you that contains information you have never told anyone. You do not know how they obtained it. You have considered destroying the file. You have considered destroying the Commission. You have done neither because you want to know how much they know and who told them. The waiting is excruciating. You are not sure you will like the answer.
 
@@ -179,7 +181,7 @@ _Complication:_ You know how to heal the Crimson Dusk. The method would require 
 
 You rise at sunset, as is proper. Your servants have prepared your evening meal, a single cup of blood drawn from the estate's blood bank, which is maintained by voluntary donors who are paid handsomely for their contribution. You drink it in your study while reviewing the day's correspondence. There is always correspondence. Petitions, threats, marriage proposals, invitations, intelligence reports. You sort them into piles: urgent, interesting, tedious, and the pile for things that will become urgent if ignored long enough. You dictate responses to your secretary, a mortal woman who has served you for thirty years and who has never once asked about the hours you keep.
 
-Your evenings are spent in Council, usually, or in meetings with Lineage officials, or in the endless social obligations that come with your position. You attend parties you do not enjoy. You make small talk with people whose names you have forgotten. You smile. You nod. You say things that will be quoted for weeks. You are very good at this. You have been doing it for eight hundred years.
+Your evenings are spent in Council, usually, or in meetings with Lineage officials, or in the endless social obligations that come with your position. You attend parties you do not enjoy. You make small talk with people whose names you have forgotten. You smile. You nod. You say things that will be quoted for weeks. You are very good at this. You have been doing it since the Court's first days.
 
 You take a walk at midnight, alone, through the streets of the capital. You do not hunt. You do not feed. You simply walk, observing the city as it sleeps, noting the changes, the new buildings, the faded signs, the faces of the night watchmen who have learned to nod as you pass. This is the only time you feel anything approximating peace.
 
@@ -268,7 +270,7 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 ## Starting Equipment
 
 - Aristocratic Attire (impeccably tailored, centuries out of fashion but somehow timeless)
-- Ancestral Rapier (1d8, elegant, Qi Focus, has been in your family since before the empire)
+- Ancestral Sword (1d8, Versatile, Qi Focus, has been in your family since before the empire)
 - Blood Vial (your own preserved blood, drinking it restores 1d8 HP, one use only)
 - Signet Ring of the Crimson Lineage (opens doors that do not officially exist)
 - Estate Seal (you own property in the capital; the servants maintain it in your absence)
@@ -278,14 +280,14 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                                                    |
-| ---------------- | ---------------- | ---------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | +15              | You built the structure they preserve.                                                   |
-| Verdant Path     | -15              | Reform would diminish your family's power.                                               |
-| Iron Calculation | 0                | Efficiency is useful. You appreciate useful things.                                      |
-| Crimson Lineage  | +30              | You are the Lineage.                                                                     |
-| Common Flame     | -20              | You are everything they want to burn.                                                    |
-| Bright Mirror    | -10              | The Commission has tried to investigate you for centuries. They have never found enough. |
+| School           | Faction Standing | Notes                                                                                                                                                         |
+| ---------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Golden Orthodoxy | +15              | You built the structure they preserve.                                                                                                                        |
+| Verdant Path     | -15              | Reform would diminish your family's power.                                                                                                                    |
+| Iron Calculation | 0                | Efficiency is useful. You appreciate useful things.                                                                                                           |
+| Crimson Lineage  | +30              | You are the Lineage.                                                                                                                                          |
+| Common Flame     | -20              | You are everything they want to burn.                                                                                                                         |
+| Bright Mirror    | -10              | The Commission has investigated your Lineage for centuries. The current Bright Mirror has pursued you for thirteen years and still lacks a case he can prove. |
 
 ---
 
@@ -293,8 +295,8 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 Choose one, or create your own with the Host:
 
-- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for three hundred years.
-- Your eldest child is plotting to usurp your position. You have known for years. You are letting them try, to see if they are worthy. You are not certain you want them to succeed.
+- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
+- The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 - You have been feeding on a specific senior official for decades. They do not know. They believe they have a chronic illness. You have grown fond of them.
 - The Crimson Dusk is a wound in the world. You know what caused it. You helped cause it. Not intentionally. But intentions matter less than consequences, and you have lived long enough to know that.
 
@@ -302,7 +304,7 @@ Choose one, or create your own with the Host:
 
 ## Advancement
 
-As you gain levels, you may purchase the following Archetype specific advances (5 AP each):
+As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
 **Level 3: Sanguine Healing.** While you have fed on living blood in the last 24 hours, you regenerate 2 HP at the start of each of your turns.
 

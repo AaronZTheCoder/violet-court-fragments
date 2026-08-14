@@ -14,17 +14,17 @@ Every Dusk encounter is a story. A fight against Dusk creatures is never only a 
 
 Horror: The Dusk is at its most effective when it is not charging at the party but watching them. A Dusk Weeper that ignores the players entirely as it relives its death. A Crimson Gardener that does not defend itself but continues planting seeds even as it burns. The horror of the Dusk is that it does not care about the players. It has its own terrible purpose. Let the players witness something they cannot stop. Let them hear sounds from places where nothing should be making sound. Let them find evidence of the Dusk's work and realize it is already too late to prevent what is coming.
 
-Tragedy: Every Dusk creature was something else first. The Tide Walker was a person with a name and a family and a reason to live. The Dusk Hound was a loyal companion or a protector. When the players fight Dusk creatures, they are fighting the remains of people and things the empire failed. Describe what the creature used to be. Let the players find clues to its former life. A child's toy in the lair of a Dusk Hound. A half written letter in a Tide Walker's pocket. A wedding band fused into the flesh of a Hollow Official. The question is not whether the players can kill the creature. The question is whether they can mourn it afterward.
+Tragedy: Every Dusk creature was something else first. The Tide Walker was a person with a name and a family and a reason to live. The Dusk Hound was a loyal companion or a protector. When the players fight Dusk creatures, they are fighting the remains of people and things the empire failed. Describe what the creature used to be. Let the players find clues to its former life. A child's toy in the lair of a Dusk Hound. An unfinished letter in a Tide Walker's pocket. A wedding band fused into the flesh of a Hollow Official. The question is not whether the players can kill the creature. The question is whether they can mourn it afterward.
 
-Action: Sometimes the Dusk must be fought. When combat is inevitable, make it feel desperate. Dusk creatures do not tire. They do not negotiate. They flow and shift and press forward. Use the environment. Let the Dusk warp the battlefield mid combat. Let the ground pulse with red veins. Let the sky weep crimson during the fight. Give the players something to protect beyond themselves. A person they must evacuate. A relic they must retrieve. A ritual they must complete while the Dusk throws everything at them.
+Action: Sometimes the Dusk must be fought. When combat is inevitable, make it feel desperate. Dusk creatures do not tire. They do not negotiate. They flow and shift and press forward. Use the environment. Let the Dusk warp the battlefield during combat. Let the ground pulse with red veins. Let the sky weep crimson during the fight. Give the players something to protect beyond themselves. A person they must evacuate. A relic they must retrieve. A ritual they must complete while the Dusk throws everything at them.
 
 **Scaling for Party Level**
 
-Low Level parties (Level 1 to 3): Single creatures or small groups of Wisps and Hounds. The Dusk is a mystery they are just beginning to understand. Encounters should be survivable but unsettling. The goal is not to kill the players but to make them afraid of what they do not yet understand.
+Parties at Low Levels (Level 1 to 3): Single creatures or small groups of Wisps and Hounds. The Dusk is a mystery they are just beginning to understand. Encounters should be survivable but unsettling. The goal is not to kill the players but to make them afraid of what they do not yet understand.
 
-Mid Level parties (Level 4 to 6): Tide Walkers, Crimson Effigies, Tide Callers. The players have seen enough to know how dangerous the Dusk is. Encounters should test their resources and their resolve. Start introducing moral choices. A Tide Walker they might save. A Dusk Market they must decide whether to trade with.
+Parties at Middle Levels (Level 4 to 6): Tide Walkers, Crimson Effigies, Tide Callers. The players have seen enough to know how dangerous the Dusk is. Encounters should test their resources and their resolve. Start introducing moral choices. A Tide Walker they might save. A Dusk Market they must decide whether to trade with.
 
-High Level parties (Level 7 to 8): Memory Thieves, The Unwritten. The Dusk is now a known threat with unknown depths. Encounters should cost the players something. A memory. A relationship. A piece of their humanity. Every victory should feel earned and expensive.
+Parties at High Levels (Level 7 to 8): Memory Thieves, The Unwritten. The Dusk is now a known threat with unknown depths. Encounters should cost the players something. A memory. A relationship. A piece of their humanity. Every victory should feel earned and expensive.
 
 Endgame parties (Level 9): The Dusk Made Manifest. This is the final confrontation. Everything the players have learned, every bond they have forged, every truth they have uncovered prepares them for this moment. The encounter should draw on the campaign's specific history. Use details from the players' own actions. Let the Manifestation speak in the voices of people the players failed to save.
 
@@ -40,25 +40,25 @@ Let the players' actions shape the encounter. If they try to communicate with a 
 
 ### Dusk Phenomena
 
-The Dusk does not always manifest as creatures. Sometimes it manifests as changes to the world itself. Roll or choose from the table below when the players enter a Dusk saturated area.
+The Dusk does not always manifest as creatures. Sometimes it manifests as changes to the world itself. Roll or choose from the table below when the players enter an area saturated with Dusk.
 
 | d20 | Phenomenon                | Effect                                                                                                                                                                                                                                                                                                                                                                                              |
 | --- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | The Sky Weeps             | Red rain falls in the area. It tastes of copper and salt. Characters exposed for more than one hour must make Endurance TN 12 or gain one level of Fatigue. The rain is not water. It is something else.                                                                                                                                                                                            |
+| 1   | The Sky Weeps             | Red rain falls in the area. It tastes of copper and salt. Characters exposed for more than one hour must make Endurance TN 12 or have Disadvantage on Endurance checks until completing a short rest. The rain is not water. It is something else.                                                                                                                                                  |
 | 2   | Time Loop                 | A moment repeats. A bird falls from the sky three times. A conversation plays twice. The players may notice the loop or they may not. If they attempt to change the loop's outcome, the universe resists. Resolve TN 16 to act differently.                                                                                                                                                         |
 | 3   | Shadows Detach            | The shadows of living things separate and move independently. They do not attack but they watch. They point. They mimic gestures one second behind the original. Resolve TN 14 or gain 1 Sanity loss from the uncanny wrongness.                                                                                                                                                                    |
 | 4   | Voices from Nowhere       | The air fills with whispers. They speak in languages the players know and languages they do not. Among the whispers, each player hears their own name spoken by a voice they recognize. Finding the source requires Intellect TN 18. The source is never there.                                                                                                                                     |
 | 5   | Gravity Reverses          | For one hour, up becomes down. Characters must make Swiftness TN 14 to avoid falling upward. Ranged attacks are impossible. Melee attacks are made at Disadvantage. Moving requires climbing across the underside of surfaces.                                                                                                                                                                      |
 | 6   | Memory Bleed              | Strong emotions left in the area become perceptible. Players experience flashes of what happened here. A battle. A death. A betrayal. A wedding. The Host should prepare one specific memory tied to the location. All present must make Resolve TN 14 or be overwhelmed for one round.                                                                                                             |
-| 7   | The Color Drains          | All color drains from the world except red. Everything is grey, black, white, or crimson. This lasts for 1d4 hours. Vigilance based checks suffer Disadvantage during this time as depth perception and distance become unreliable.                                                                                                                                                                 |
-| 8   | Doors Lead Elsewhere      | Every door or archway in the area opens onto a place it should not. A cellar door opens onto a rooftop. A city gate opens onto a forest. A wardrobe opens onto a Dusk corrupted version of the room it stands in. Intellect TN 16 to recognize a door is wrong before stepping through.                                                                                                             |
+| 7   | The Color Drains          | All color drains from the world except red. Everything is grey, black, white, or crimson. This lasts for 1d4 hours. Checks based on Vigilance suffer Disadvantage during this time as depth perception and distance become unreliable.                                                                                                                                                              |
+| 8   | Doors Lead Elsewhere      | Every door or archway in the area opens onto a place it should not. A cellar door opens onto a rooftop. A city gate opens onto a forest. A wardrobe opens onto a version of the room corrupted by Dusk. Intellect TN 16 to recognize a door is wrong before stepping through.                                                                                                                       |
 | 9   | The Earth Breathes        | The ground rises and falls as though the earth itself is breathing. Movement costs double. Ranged attacks have Disadvantage. Characters standing still feel a rhythmic vibration through their bones. Resolve TN 12 to sleep in this area.                                                                                                                                                          |
 | 10  | Echoes of the Dead        | The dead do not stay buried here. Bodies rise and perform fragments of their daily routines. A corpse sweeps a floor. A skeleton tends a field. They are not hostile but they are deeply wrong. Witnessing them costs 1 Sanity. Interacting with them may reveal information about their deaths.                                                                                                    |
 | 11  | Red Flowers Bloom         | A patch of vibrant red flowers grows where no flowers should grow. They are beautiful. They are also feeding on something in the soil. Touching them deals 1d4 psychic damage and shows the player a vision of the Dusk spreading across the province. A character with Qi Sense can feel the flowers drawing Qi from the earth.                                                                    |
-| 12  | Silence                   | All sound stops. Voices make no noise. Footsteps make no noise. Weapons clash in perfect silence. This lasts 1d6 rounds. During this time, creatures that hunt by sound are blind. Creatures that communicate by sound cannot coordinate. Spell like effects that require spoken components cannot be used.                                                                                         |
+| 12  | Silence                   | All sound stops. Voices make no noise. Footsteps make no noise. Weapons clash in perfect silence. This lasts 1d6 rounds. During this time, creatures that hunt by sound are blind. Creatures that communicate by sound cannot coordinate. Techniques that require speech cannot be used.                                                                                                            |
 | 13  | The Map Lies              | Compasses spin. Maps show wrong geography. Landmarks move when not observed. Characters attempting to navigate must succeed on Intellect TN 16 or become lost. Being lost in a Dusk zone attracts unwanted attention. The Host should roll on this table again every hour the party remains lost.                                                                                                   |
 | 14  | False Dawn                | The sky brightens as though dawn is breaking. It is not dawn. It is the Dusk's imitation of light. During this false dawn, Dusk creatures gain +2 to all defenses. They are more confident. They hunt more aggressively. The false dawn lasts 2d4 hours.                                                                                                                                            |
-| 15  | A Door That Should Not Be | A door stands alone in an empty space. A field. A hallway. A mountainside. It is made of red tinged wood or bone colored stone. It is locked. Attempting to open it requires a key the players do not have. If they force it open, something on the other side takes notice. The Host should decide what waits behind and whether it is better or worse than what the players expect.               |
+| 15  | A Door That Should Not Be | A door stands alone in an empty space. A field. A hallway. A mountainside. It is made of wood tinged red or stone the color of bone. It is locked. Attempting to open it requires a key the players do not have. If they force it open, something on the other side takes notice. The Host should decide what waits behind and whether it is better or worse than what the players expect.          |
 | 16  | The Stars Are Wrong       | The night sky rearranges itself. Constellations the players recognize are gone. New constellations have formed, depicting events that have not happened yet. A character with astronomical knowledge can attempt Intellect TN 20 to read the new constellations. Success reveals a glimpse of a future Dusk event. Failure reveals nothing except the certainty that the sky is no longer friendly. |
 | 17  | Animals Know              | Every animal in the area has gone silent or fled. Birds do not sing. Dogs do not bark. Horses refuse to move forward. Insects have burrowed underground. The absence of animal life is a warning. The Host should describe the unnatural stillness before anything hostile appears.                                                                                                                 |
 | 18  | Refractions               | Water in the area reflects things that are not there. A puddle shows a different sky. A river shows people walking on the banks who are not present. Drinking the water causes 1d4 psychic damage and shows the drinker a vision of the Dusk's birth. The vision is different for each person who drinks.                                                                                           |
@@ -100,7 +100,7 @@ Once a dog, or a wolf, or a person who crawled on all fours until they forgot ho
 **Attack:** Bite (1d8 + Might), Claw (1d6 + Might, may attack twice if both attacks target different creatures)
 **Special:** Pack Hunter. Advantage on attacks against targets adjacent to another Dusk Hound.
 **Special:** Howl. Once per combat, all creatures in 3 Zones must make a Resolve check TN 14 or lose their next Movement.
-**Encounter:** 3 to 5 Hounds. A serious combat threat for low level parties.
+**Encounter:** 3 to 5 Hounds. A serious combat threat for parties at low levels.
 
 **Read Aloud**
 
@@ -110,7 +110,7 @@ _The sound reaches you before the shape does. It is a sound like wet leather bei
 
 Dusk Hounds circle their prey before engaging. They do not charge directly. They spread out, flank, and wait for an opening. When one Hound finds an advantage, the others move to support it instantly, as though connected by a shared mind. They do not eat what they kill. They have no need for food. They kill because the Dusk tells them to kill and they no longer have the will to refuse.
 
-When not hunting, Dusk Hounds can be found standing still in groups, facing outward in a watch formation. They do not sleep. They do not tire. They stand guard over Dusk saturated areas, waiting for anything living to cross their territory. Some Dusk Hounds retain a fragment of their former loyalty. A Hound that once guarded a home may still circle that home, keeping living things away not out of malice but out of the last echo of its protective instinct.
+When not hunting, Dusk Hounds can be found standing still in groups, facing outward in a watch formation. They do not sleep. They do not tire. They stand guard over areas saturated with Dusk, waiting for anything living to cross their territory. Some Dusk Hounds retain a fragment of their former loyalty. A Hound that once guarded a home may still circle that home, keeping living things away not out of malice but out of the last echo of its protective instinct.
 
 **Story Seed**
 
@@ -129,7 +129,7 @@ A humanoid figure that has been Dusk Touched but not fully consumed. Tide Walker
 
 **Read Aloud**
 
-_The figure stands at the edge of the Dusk haze. It is human shaped. It is wearing clothes that might have been fine once but are now stained and torn and wrong. Its skin has a reddish undertone like a sunburn that never healed. Its eyes are the worst part. They are still human eyes. They still hold recognition. They hold pain and confusion and a desperate grasping at something the figure can no longer quite remember. It opens its mouth and a voice comes out that cracks between registers. It says something. A word. A name. Please. It repeats the word like a prayer it is afraid to forget. Then its face shifts and the human thing retreats and something else looks out through those eyes. Something that does not remember names._
+_The figure stands at the edge of the Dusk haze. Its outline is human. It is wearing clothes that might have been fine once but are now stained and torn and wrong. Its skin has a reddish undertone like a sunburn that never healed. Its eyes are the worst part. They are still human eyes. They still hold recognition. They hold pain and confusion and a desperate grasping at something the figure can no longer quite remember. It opens its mouth and a voice comes out that cracks between registers. It says something. A word. A name. Please. It repeats the word like a prayer it is afraid to forget. Then its face shifts and the human thing retreats and something else looks out through those eyes. Something that does not remember names._
 
 **Behavioral Details**
 
@@ -175,9 +175,9 @@ _For endgame encounters only._
 A concentration of Dusk energy that has achieved a terrible consciousness. It speaks in the voices of everyone it has consumed. It remembers everything the empire has tried to forget.
 
 **Stats:** HP 80, Defense 16, Might 20, Swiftness 16, Endurance 22, Intellect 18, Presence 20, Resolve 20
-**Attack:** Manifest Strike (2d10 + Might, reaches across 2 Zones), Memory Eater (target must make Resolve TN 18 or lose one significant memory, permanently. The Manifestation gains 10 temporary HP.)
+**Attack:** Manifest Strike (2d10 + Might, reaches across 2 Zones), Memory Eater (target must make Resolve TN 18 or permanently lose one significant memory. The Manifestation gains 10 HP above its normal maximum. This extra HP is lost first.)
 **Special:** Legion Voice. The Manifestation knows everything known by anyone it has consumed. It will reveal secrets. It will use the players' own truths against them. The Host should prepare specific revelations for this encounter.
-**Special:** Unmaking. Once per round, as a reaction to being attacked, the Manifestation may attempt to unmake the attacker's weapon or armor. Item makes a "Resolve check" (d20 + item quality modifier) against TN 16 or is destroyed.
+**Special:** Unmaking. Once per round, as a reaction to being attacked, the Manifestation may attempt to unmake the attacker's weapon or armor. The item makes a "Resolve check" (d20 + its quality modifier) against TN 16 or is destroyed.
 **Encounter:** The campaign's final battle, or close to it. This is not just a combat. It is the moment when everything the players have learned confronts them in physical form.
 
 **Read Aloud**
@@ -200,7 +200,7 @@ The Dusk Made Manifest cannot be created by the Dusk alone. It requires an invit
 
 Not all Dusk entities are hostile. Some are simply trapped. The Dusk Weeper is a spirit locked in an eternal reenactment of its own death. It does not attack. It does not react. It repeats its final moments on a loop, unaware of anything outside its own suffering.
 
-**Stats:** HP cannot be reduced by normal means, Defense 0, Might 0, Swiftness 0, Endurance -, Intellect -, Presence 18, Resolve -
+**Stats:** HP cannot be reduced by normal means, Defense 0, Might 0, Swiftness 0, Endurance not applicable, Intellect not applicable, Presence 18, Resolve not applicable
 **Attack:** None. The Weeper does not attack.
 **Special:** Endless Dying. The Weeper relives its death every 10 to 15 minutes. All creatures who witness the full cycle must make Resolve TN 16 or gain 1 Sanity loss. Each subsequent viewing increases the TN by 2.
 **Special:** Residual Sorrow. The area around a Weeper is saturated with grief. Characters within 2 Zones have Disadvantage on checks involving joy, hope, or comfort. Emotional effects that create positive emotions cost double the normal Qi or resources.
@@ -231,18 +231,18 @@ A Crimson Gardener is a Dusk entity that does not hunt living creatures. It cult
 **Attack:** Sowing Touch (1d6 + Might, and plants a Dusk seed in the target. The seed grows over 1d4 days, dealing 1 damage per day until removed.)
 **Special:** Tend the Garden. The Gardener can accelerate the growth of any Dusk corruption within 3 Zones. An Effigy that would take months to form can be grown in days with a Gardener's attention.
 **Special:** Dusk Bloom. Once per day, the Gardener can cause all Dusk seeds within 3 Zones to bloom simultaneously. Each seed deals 1d6 damage to the creature carrying it and creates a Dusk Wisp at that location.
-**Special:** Not Worth Fighting. The Gardener does not prioritize self preservation. If threatened, it attempts to flee and continue its work elsewhere. Fighting it is a distraction from its true purpose.
+**Special:** Not Worth Fighting. The Gardener does not prioritize its own survival. If threatened, it attempts to flee and continue its work elsewhere. Fighting it is a distraction from its true purpose.
 **Encounter:** 1 Gardener and its corrupted garden. A chase and investigation encounter. The Gardener is not the real threat. The garden it is growing is the threat.
 
 **Read Aloud**
 
-_Among the twisted red landscape, one figure moves with purpose. It is humanoid but too thin, limbs too long, fingers too many. It moves slowly, deliberately, stopping to touch the ground or a plant or a stone. Where it touches, red lines spread like roots. It is dressed in tattered robes that might once have been gardener's clothes. A wide brimmed hat shades a face that is featureless except for a mouth that moves constantly, silently, as though reciting instructions to itself. It carries a watering can. The watering can contains something dark and thick that drips with a sound like blood hitting dry earth. It is tending to something. You realize with a chill that what it is tending to is the ground beneath your feet._
+_Among the twisted red landscape, one figure moves with purpose. It is humanoid but too thin, limbs too long, fingers too many. It moves slowly, deliberately, stopping to touch the ground or a plant or a stone. Where it touches, red lines spread like roots. It is dressed in tattered robes that might once have been gardener's clothes. A hat with a wide brim shades a face that is featureless except for a mouth that moves constantly, silently, as though reciting instructions to itself. It carries a watering can. The watering can contains something dark and thick that drips with a sound like blood hitting dry earth. It is tending to something. You realize with a chill that what it is tending to is the ground beneath your feet._
 
 **Behavioral Details**
 
 The Crimson Gardener ignores creatures that do not interfere with its work. It will walk past a party of armed adventurers to water a patch of corrupted soil. It does not speak but it hums. The tune is distorted and wrong, missing notes that should be there and including notes that should not exist. It follows a specific route through its territory, visiting each of its plantings in order. Observant players can predict its movements and avoid it or ambush it.
 
-Gardeners collect things. Seeds. Stones. Bones. They store these in a central location, their nursery. A Gardener's nursery is a site of concentrated Dusk growth, filled with half formed Effigies and corrupted plant life. The nursery is where the Gardener is most dangerous and most vulnerable.
+Gardeners collect things. Seeds. Stones. Bones. They store these in a central location, their nursery. A Gardener's nursery is a site of concentrated Dusk growth, filled with Effigies that have only partly formed and corrupted plant life. The nursery is where the Gardener is most dangerous and most vulnerable.
 
 **Story Seed**
 
@@ -296,17 +296,17 @@ _The figure stands apart from the Dusk corruption, untouched by the red light th
 
 Tide Callers are always in conversation. They speak to the Dusk and the Dusk speaks back. To an observer, this appears as muttering, long pauses while the Caller listens to silence, and sudden shifts in mood based on what the Dusk tells them. They are never truly alone. Even when no summoned creatures are visible, the Dusk is with them, coiled around them, ready to respond.
 
-They have a distinctive physical marker of their pact. A pattern of red lines on their skin, always present, always pulsing. They cannot hide what they are. Tide Callers are outcasts by necessity. They live at the edges of society, in Dusk contaminated zones where their power is strongest. Some Tide Callers believe they are using the Dusk. The Dusk knows better.
+They have a distinctive physical marker of their pact. A pattern of red lines on their skin, always present, always pulsing. They cannot hide what they are. Tide Callers are outcasts by necessity. They live at the edges of society, in zones contaminated by the Dusk where their power is strongest. Some Tide Callers believe they are using the Dusk. The Dusk knows better.
 
 **Story Seed**
 
-A Tide Caller has approached a Border Wall garrison with an offer. They will control the Dusk creatures in the region, keeping them away from the wall, in exchange for food, shelter, and isolation. The garrison commander has accepted. The deal has held for six months. But the Tide Caller's control is slipping. They are making mistakes. Summoning creatures they cannot dismiss. Talking to presences that the garrison's Qi sensitive officers can feel but cannot name. The garrison wants the players to assess the Tide Caller and determine if they are a threat. The Tide Caller knows they are losing control. They want the players to help them sever their connection to the Dusk before it is too late. But severing the connection may kill them.
+A Tide Caller has approached a Border Wall garrison with an offer. They will control the Dusk creatures in the region, keeping them away from the wall, in exchange for food, shelter, and isolation. The garrison commander has accepted. The deal has held for six months. But the Tide Caller's control is slipping. They are making mistakes. Summoning creatures they cannot dismiss. Talking to presences that the garrison's officers who sense Qi can feel but cannot name. The garrison wants the players to assess the Tide Caller and determine if they are a threat. The Tide Caller knows they are losing control. They want the players to help them sever their connection to the Dusk before it is too late. But severing the connection may kill them.
 
 ---
 
 ### Hollow Official
 
-A bureaucrat who was consumed by the Dusk mid task. They do not know they are dead. They continue processing paperwork, issuing permits, and enforcing regulations in the Dusk zone where they fell. Their work means nothing. They do not know that either.
+A bureaucrat who was consumed by the Dusk in the middle of a task. They do not know they are dead. They continue processing paperwork, issuing permits, and enforcing regulations in the Dusk zone where they fell. Their work means nothing. They do not know that either.
 
 **Stats:** HP 20, Defense 10, Might 8, Swiftness 8, Endurance 16, Intellect 14, Presence 10, Resolve 20
 **Attack:** Stamp of Authority (1d4 + Intellect, against Resolve)
@@ -317,7 +317,7 @@ A bureaucrat who was consumed by the Dusk mid task. They do not know they are de
 
 **Read Aloud**
 
-_In the middle of a Dusk corrupted ruin, there is a desk. The desk is clean. The desk is organized. Behind the desk sits a person in imperial robes that should have rotted years ago but are somehow still pristine. The person is writing. Their hand moves steadily across the page, filling line after line with perfect calligraphy. They do not look up when you enter. They do not acknowledge your presence at all until you step past a certain invisible boundary. Then they speak without raising their head. Your voice is flat. Your words are the same words you must have spoken a thousand times. Do you have an appointment? Do you have the proper forms? This office is for authorized personnel only. Please present your documentation or vacate the premises. The person still has not looked at you. You are not sure they have eyes anymore._
+_In the middle of a ruin corrupted by Dusk, there is a desk. The desk is clean. The desk is organized. Behind the desk sits a person in imperial robes that should have rotted years ago but are somehow still pristine. The person is writing. Their hand moves steadily across the page, filling line after line with perfect calligraphy. They do not look up when you enter. They do not acknowledge your presence at all until you step past a certain invisible boundary. Then they speak without raising their head. Their voice is flat. Their words are the same words they must have spoken a thousand times. Do you have an appointment? Do you have the proper forms? This office is for authorized personnel only. Please present your documentation or vacate the premises. The person still has not looked at you. You are not sure they have eyes anymore._
 
 **Behavioral Details**
 
@@ -339,19 +339,19 @@ Red Rain is not a creature. It is a weather phenomenon that occurs when Dusk con
 
 **Mechanical Effects:**
 
-- Exposure: Creatures caught in Red Rain must make Endurance TN 14 every hour or gain one level of Dusk Corruption (cumulative).
-- Dusk Corruption Level 1: Mild nausea and headache. Disadvantage on concentration checks.
-- Dusk Corruption Level 2: Skin reddens and becomes sensitive to light. Sanity checks suffer Disadvantage.
-- Dusk Corruption Level 3: Hallucinations begin. The affected creature sees Dusk entities that may or may not be real.
-- Dusk Corruption Level 4: The creature begins to hear the Dusk's voice. It must make Resolve TN 16 to resist following the voice's instructions.
-- Dusk Corruption Level 5: Transformation begins. The creature becomes a Tide Walker over 1d4 days unless treated with intensive Qi therapy.
-- Treatment: Each level of Dusk Corruption requires a successful Intellect TN 16 check and 24 hours of rest to remove. Qi Techniques that purify can accelerate this.
+- Exposure: Creatures caught in Red Rain must make Endurance TN 14 every hour or gain one stage of Red Rain Exposure. These stages are cumulative and apply only to this hazard.
+- Red Rain Exposure Stage 1: Mild nausea and headache. Disadvantage on concentration checks.
+- Red Rain Exposure Stage 2: Skin reddens and becomes sensitive to light. Sanity checks suffer Disadvantage.
+- Red Rain Exposure Stage 3: Hallucinations begin. The affected creature sees Dusk entities that may or may not be real.
+- Red Rain Exposure Stage 4: The creature begins to hear the Dusk's voice. It must make Resolve TN 16 to resist following the voice's instructions.
+- Red Rain Exposure Stage 5: Transformation begins. The creature becomes a Tide Walker over 1d4 days unless treated with intensive Qi therapy.
+- Treatment: Removing each stage of Red Rain Exposure requires a successful Intellect TN 16 check and 24 hours of rest. Qi Techniques that purify can accelerate this process.
 
 **Environmental Effects:**
 
 - Red Rain accelerates the growth of Dusk flora. Plants touched by the rain develop red veins and sharp thorns within hours.
 - Structures exposed to Red Rain for more than a day begin to pulse with faint red light. They become slightly warm to the touch.
-- Water sources contaminated by Red Rain become undrinkable. Animals that drink from contaminated sources develop Dusk Corruption within days.
+- Water sources contaminated by Red Rain become undrinkable. Animals that drink from contaminated sources show signs of Red Rain Exposure within days.
 - The rain is persistent. It can last for hours or days. During a Red Rain event, the sky remains red even at night.
 
 **Read Aloud**
@@ -366,9 +366,9 @@ A Red Rain event has begun in a major city. It is the first time Red Rain has fa
 
 ### Dusk Market
 
-The Dusk Market appears without warning in Dusk saturated areas. It is a gathering of vendors, stalls, and customers who have been changed by the Dusk. They sell things that should not exist. They accept payment in things that should not be spent.
+The Dusk Market appears without warning in areas saturated with Dusk. It is a gathering of vendors, stalls, and customers who have been changed by the Dusk. They sell things that should not exist. They accept payment in things that should not be spent.
 
-**Nature:** The Dusk Market is semi sentient. It wants to trade. It does not care about morality, law, or consequence. It cares about exchange. It appears when there are enough Dusk Touched beings in one area to form a community. It disappears when the sun rises or when the last customer leaves.
+**Nature:** The Dusk Market possesses a dim awareness. It wants to trade. It does not care about morality, law, or consequence. It cares about exchange. It appears when there are enough Dusk Touched beings in one area to form a community. It disappears when the sun rises or when the last customer leaves.
 
 **What the Market Sells (roll d10):**
 
@@ -412,7 +412,7 @@ A player character's lost loved one appears in the Dusk Market. They are not a v
 
 The Unwritten exists in the space between what the official records say happened and what actually happened. It is the empire's lies made manifest. It haunts historians, archivists, and anyone who knows the truth and has been forced to forget it.
 
-**Stats:** HP 35, Defense variable (see special), Might -, Swiftness -, Endurance -, Intellect 18, Presence 20, Resolve -
+**Stats:** HP 35, Defense variable (see special), Might not applicable, Swiftness not applicable, Endurance not applicable, Intellect 18, Presence 20, Resolve not applicable
 **Attack:** None. The Unwritten does not attack directly.
 **Special:** Cannot Be Fought. The Unwritten has no physical stats because it is not physical. Attacks pass through it. It cannot be harmed by weapons, Qi Techniques, or any form of direct violence.
 **Special:** Truth Cost. The Unwritten can be harmed only by speaking a truth that the empire has suppressed. Each truth told deals 1d10 psychic damage to the Unwritten and costs the speaker 1 Sanity (the truth hurts to speak).
@@ -452,7 +452,7 @@ The Need: Every Dusk Touched person wants something they cannot achieve alone. S
 
 **Example NPC 1: Lin the Preserver**
 
-Lin was a mid level archivist in the Imperial Library when the Dusk reached her district. She barricaded herself in the rare documents room for eleven days, surviving on water from the building's pipes and the desperation of a woman who refused to die. The Dusk did not consume her. It passed through her. She emerged changed.
+Lin was an archivist in the middle ranks of the Imperial Library when the Dusk reached her district. She barricaded herself in the rare documents room for eleven days, surviving on water from the building's pipes and the desperation of a woman who refused to die. The Dusk did not consume her. It passed through her. She emerged changed.
 
 The Mark: Lin's left eye has turned permanently red. The iris is the color of dried blood. She wears an eye patch and claims she lost the eye to infection. Those who look beneath the patch see the red eye watching them with unsettling awareness.
 

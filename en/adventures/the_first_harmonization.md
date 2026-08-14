@@ -4,14 +4,14 @@
 
 # THE FIRST HARMONIZATION
 
-> **Recommended full story:** Use [The First Harmonization: Complete Cinematic Narrative](./the_first_harmonization_cinematic_cut.md) for the complete long form, story driven table narrative. This document remains the full production bible and mechanical reference.
+> **Recommended full story:** Use [The First Harmonization: Complete Cinematic Narrative](./the_first_harmonization_cinematic_cut.md) for the complete table narrative presented in extended story form. This document remains the full production bible and mechanical reference.
 
 > _An introductory adventure for one Host and three to six players._
 > _Designed for new characters. Estimated playing time: two to three sessions._
 
 ## Adventure Overview
 
-The players are newly assigned officials in the Outer Court of Xiaoyuan. They have been in the capital less than a month. They know the basic shape of the Court: the six schools, the major figures, the constant low grade terror of saying the wrong thing to the wrong person. They have not yet been tested.
+The players are newly assigned officials in the Outer Court of Xiaoyuan. They have been in the capital less than a month. They know the basic shape of the Court: the six schools, the major figures, the constant background dread of saying the wrong thing to the wrong person. They have not yet been tested.
 
 This adventure tests them.
 
@@ -51,7 +51,8 @@ Each player begins with Faction Standing values derived from their character dos
 - **Verdant Path** (reformist/underground network)
 - **Iron Calculation** (State Planning Commission)
 - **Crimson Lineage** (old families)
-- **Commission for Celestial Purity** (Audit authority)
+- **Common Flame** (workers and refugee organizers)
+- **Bright Mirror** (Commission for Celestial Purity)
 
 Consult each player's dossier for specific starting Faction Standing values. Default starting positions, if not specified in a dossier, place all major factions at +0, with up to +10 from background choices.
 
@@ -131,7 +132,7 @@ The following zones define the key locations in this adventure. Zones enable spa
 
 - Zone 1: **Office.** The entrance area with a clerk's desk. A single oil lamp. Ledgers on shelves. Doors lead outside and to the Storage Floor.
 - Zone 2: **Storage Floor.** A large open space filled with crates and Qi containers, thirty feet high. Iron doors, no windows. Stacked crates provide cover and climbing opportunities. Dimly lit by hanging lanterns.
-- Zone 3: **Locked Room.** A small room at the back with a scratched-out nameplate on the door. Contains sealed manifests and ledgers. The key is held by the night inventory supervisor.
+- Zone 3: **Locked Room.** A small room at the back with a nameplate scratched beyond recognition. Contains sealed manifests and ledgers. The key is held by the night inventory supervisor.
 - _Wood Walking: No living plants. The storage floor has wooden crates but nothing rooted and alive._
 
 **The Judgment Chamber (Commission for Celestial Purity)**
@@ -143,7 +144,7 @@ The following zones define the key locations in this adventure. Zones enable spa
 **The Teahouse of Whispered Petitions (Eastern Market)**
 
 - Zone 1: **Main Room.** A small front room with a few tables, warm air, jasmine scent. Dim lighting from paper lanterns. A back door leads to the private alcove.
-- Zone 2: **Private Alcove.** A screened-off space at the rear with a single table. Paper walls, bamboo mat flooring. A window overlooks a narrow alley.
+- Zone 2: **Private Alcove.** A screened space at the rear with a single table. Paper walls, bamboo mat flooring. A window overlooks a narrow alley.
 - _Wood Walking: Possible. The teahouse has bamboo matting and living plants in decorative pots in the main room, providing anchor points._
 
 ### Atmosphere Reference: Expanded Read Aloud Passages
@@ -228,7 +229,7 @@ The light comes from the open door and from two oil lamps hung from the ceiling 
 
 ### The Morning Briefing
 
-The adventure opens on a gray morning in the Outer Court. The players are gathered in their shared office, a cramped chamber in the Bureau of Harmonious Records.
+The adventure opens on a grey morning in the Outer Court. The players are gathered in their shared office, a cramped chamber in the Bureau of Harmonious Records.
 
 **Read Aloud:**
 
@@ -266,31 +267,31 @@ But clipped to the scroll is a smaller, unsealed note, handwritten in a rushed s
 
 > _"It begins in seven days. The Commission has already started collecting names. Burn this after reading. If anyone asks, you never received it."_
 
-There is no signature. The handwriting is feminine, precise, with a slight tremor on the downstrokes.
+There is no signature. The handwriting is precise, with a slight tremor on the downstrokes.
 
-**Host Note:** The note was sent by the Shadow. She sends these warnings to people she considers potentially useful. The players do not know this yet. Let them speculate.
+**Host Note:** The note was sent by the Shadow. He sends these warnings to people he considers potentially useful. The players do not know this yet. Let them speculate.
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** You notice the ink on the note has a faint metallic undertone; crushed iron oxide, used in high-grade official ink stocks. The scribe's trembling hands left a thumbprint on the scroll's edge. You could analyze the ink composition (Intellect + Alchemy TN 14) to narrow down which Ministry supply room it came from.
+> **Cinnabar Heart (Alchemist):** You notice the ink on the note has a faint metallic undertone; crushed iron oxide, used in premium official ink stocks. The scribe's trembling hands left a thumbprint on the scroll's edge. You could analyze the ink composition (Intellect + Craft TN 14) to narrow down which Ministry supply room it came from.
 >
 > **Night Warbler (Assassin):** You note three things the others miss: the scribe exited left, which leads to the service passages, not the main corridor. The note was folded inward, meaning the writer feared it being read over someone's shoulder. And there is a faint smell of sandalwood on the paper; expensive, imported, not standard issue.
 >
-> **Guest Among Forests (Elf):** The dead tree in the courtyard. You feel its presence even through the window glass. It has been dead a long time, but something about it is not at rest. If you touch the bark (reach through the window or step outside), you sense a faint resonance: this tree was cut down during the last Harmonization Audit, thirty years ago. It remembers.
+> **Guest Among Forests (Elf):** The dead tree in the courtyard. You feel its presence even through the window glass. It has been dead a long time, but something about it is not at rest. If you touch the bark (reach through the window or step outside), you sense a faint resonance: this tree was poisoned during an earlier Harmonization Audit, thirty years ago. It remembers.
 >
 > **Iron Calculation (Engineer):** The office layout is inefficient. The desk faces the wall instead of the door. The window latch is broken. You note structural details that could become useful: the ceiling beams are old but solid, the corridor turns sharply left ten paces from the door, creating a blind spot. Useful for future movement.
 >
 > **Iron Wall (Knight):** You position yourself between the scribe and the door without thinking. Old habit. But you notice the scribe flinched when you moved; not at you, but at the door behind you. Someone was in the corridor when the scribe fled. You did not see them. But the scribe did.
 >
-> **Bright Mirror (Paladin):** Your innate sense of Alignment registers something about the warning note: it was written by someone whose Ritual Harmony is strained. The writer is not entirely selfless. They have their own reasons for sending this warning. But there is genuine fear in the tremor.
+> **Bright Mirror (Paladin):** Truth Sight cannot read a written note, but your training can. The tremor deepens around references to the Audit and nearly vanishes in the practical instructions. The writer was afraid of specific consequences, not of writing itself. The careful delivery method also suggests that the warning serves a purpose beyond simple kindness. Record those as inferences until other evidence confirms them.
 >
 > **Shadow (Rogue):** You recognize the method. A note slipped into a scroll, delivered by a terrified intermediary, no signature, no return path. This is professional tradecraft. The sender knows how to move information without being traced. Respect the craft. And start planning how you would do it differently. _If the Shadow is a player character, this note was sent by an ally or contact from their background rather than by the Shadow NPC. Adjust accordingly: the handwriting might be familiar, or the method matches one the player themselves has used._
 >
 > **Duke of Eternal Night (Vampire):** The cold in this room is not entirely from the morning air. There is a chill that follows certain presences. The scribe was touched by something cold before they arrived. Not a person; a place. They were sent from a room that does not feel the sun.
 >
-> **Iron Bone (Werewolf):** Your senses catch something beneath the ink and paper: fear-sweat from the scribe, but also a deeper, older scent clinging to the scroll. Someone handled this document before the scribe; someone whose hands were cold and whose breath carried the faint copper tang of old money. Make a Resolve TN 12 check to keep your wolf still; the scent triggers a protective instinct.
+> **Iron Bone (Werewolf):** Your senses catch something beneath the ink and paper: the scribe's fear sweat, but also a deeper, older scent clinging to the scroll. Someone handled this document before the scribe; someone whose hands were cold and whose breath carried the faint copper tang of old money. Make a Resolve TN 12 check to keep your wolf still; the scent triggers a protective instinct.
 >
-> **Celestial Book (Wizard):** You detect a faint residue of Qi on the paper. Not harmful. A trace. The writer handled this note while in a heightened emotional state, and their Qi bled into the fibers. A Qi-sight spell (Intellect + Qi Theory TN 14) could reveal the writer's emotional signature: fear, determination, and something else; guilt.
+> **Celestial Book (Wizard):** You detect a faint residue of Qi on the paper. Not harmful. A trace. The writer handled this note while in a heightened emotional state, and their Qi bled into the fibers. A Qi sight technique (Intellect + Qi Theory TN 14) could reveal the writer's emotional signature: fear, determination, and something else; guilt.
 
 ### The First Decision
 
@@ -320,25 +321,25 @@ When the conversation reaches a natural pause, move on to the options below or t
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The fear in this room has a chemical component. The scribe's sweat, the cold candle wax, the old paper; you could synthesize a calming agent from the herbs in your kit. One dose, enough to steady one person before a difficult conversation. Requires Intellect + Alchemy TN 12 and 10 minutes of undisturbed work.
+> **Cinnabar Heart (Alchemist):** The fear in this room has a chemical component. The scribe's sweat, the cold candle wax, the old paper; you could synthesize a calming agent from the herbs in your kit. One dose, enough to steady one person before a difficult conversation. Requires Intellect + Craft TN 12 and 10 minutes of undisturbed work.
 >
-> **Night Warbler (Assassin):** While the others talk, you are mapping exits. The window overlooks a two-storey drop into a courtyard. The corridor has a service door at the end. The ceiling has maintenance access panels. You note three escape routes, one infiltration route, and two places an observer could hide. Share this information with the group.
+> **Night Warbler (Assassin):** While the others talk, you are mapping exits. The window overlooks a drop of two stories into a courtyard. The corridor has a service door at the end. The ceiling has maintenance access panels. You note three escape routes, one infiltration route, and two places an observer could hide. Share this information with the group.
 >
 > **Guest Among Forests (Elf):** You feel the tension in the room like a physical pressure. The dead tree outside is not just dead; it was poisoned. The roots go deep. Someone killed it deliberately, years ago, to prevent something from growing near this office. You do not know what. But the ground beneath the courtyard holds a secret.
 >
-> **Iron Calculation (Engineer):** You pull out a small notebook and start sketching a timeline. Seven days. Three unknowns. You calculate the probability of each approach yielding useful information. The numbers suggest the Archives lead has the highest information-to-risk ratio. Present your analysis to the group.
+> **Iron Calculation (Engineer):** You pull out a small notebook and start sketching a timeline. Seven days. Three unknowns. You calculate the probability of each approach yielding useful information. The numbers suggest the Archives lead offers the most information for the least risk. Present your analysis to the group.
 >
 > **Iron Wall (Knight):** Your instincts tell you this is the calm before violence. You check your equipment, ensure your armor is secure, and take a position near the door. No one will enter this room without going through you first.
 >
-> **Bright Mirror (Paladin):** You sense the Alignment of the warning note more clearly now. The writer's intentions are conflicted. They want to help, but they also want something from the players. The note is a hook as much as a warning. What do they want in return?
+> **Bright Mirror (Paladin):** A second reading gives you no supernatural answer, only a stronger investigative question. The note offers useful information while steering the players toward action, and the sender has hidden every path back to them. Treat it as both warning and invitation. What response might the sender be trying to provoke?
 >
-> **Shadow (Rogue):** You note that the warning arrived at the perfect time to maximize paranoia. Not too early, not too late. Whoever sent it knows the rhythms of the Court. They know how fear propagates. _If the Shadow is a player character, your contact network might include someone who knows the sender. Make a Presence + Contacts TN 14 check to see if you can identify the source through your own channels._
+> **Shadow (Rogue):** You note that the warning arrived at the perfect time to maximize paranoia. Not too early, not too late. Whoever sent it knows the rhythms of the Court. They know how fear propagates. _If the Shadow is a player character, your contact network might include someone who knows the sender. Make a Presence + Connections TN 14 check to see if you can identify the source through your own channels._
 >
 > **Duke of Eternal Night (Vampire):** The daylight filtering through the window is thin, grey, weak. You are comfortable as long as you stay away from the window. But the corridor outside will be darker, easier for you to move through. If the group needs someone to follow the scribe, you are the natural choice.
 >
 > **Iron Bone (Werewolf):** The tension makes your skin prickle. Your wolf stirs, sensing danger in the air. Make a Resolve TN 12 check to keep control. On a failure, your voice drops an octave and your eyes darken for a moment. The others notice. The animal is close to the surface.
 >
-> **Celestial Book (Wizard):** You could cast a simple divination to sense the direction of the danger. Intellect + Qi Theory TN 14. On success, you sense that the greatest threat is not in this room or even this building; it is coming from the north, from the direction of the Commission headquarters. The Audit's shadow precedes it.
+> **Celestial Book (Wizard):** You could use a simple divination technique to sense the direction of the danger. Intellect + Qi Theory TN 14. On success, you sense that the greatest threat is not in this room or even this building; it is coming from the north, from the direction of the Commission headquarters. The Audit's shadow precedes it.
 
 ### What the Players Can Do Now
 
@@ -346,13 +347,13 @@ The players have received the warning. They have one week. Here are obvious aven
 
 1. **Visit the Imperial Archives to research Audits.** They will find general information about Harmonization Audit procedures (Intellect + Lore TN 10) and may notice that an unusual number of officials from their department have been audited in the past decade (Intellect + Investigation TN 14). This is a seed for Part Three.
 
-2. **Attempt to identify the handwriting on the note.** Intellect + Investigation TN 16 reveals the hand is educated, female, and belongs to someone who has written thousands of official documents. The tremor on the downstrokes suggests fear or illness. This does not reveal the Shadow's identity but confirms she is a career bureaucrat.
+2. **Attempt to identify the handwriting on the note.** Intellect + Investigation TN 16 reveals an educated, disciplined hand with the practiced forms of someone who has studied thousands of official documents or learned to imitate them precisely. The tremor on the downstrokes suggests fear or illness. This does not reveal the Shadow's identity, but it confirms that the writer knows Court documents intimately.
 
 3. **Try to trace how the note was delivered.** The junior scribe was sent through a chain of intermediaries. Tracing them back requires Swiftness + Stealth TN 18 and leads to a dead end: an empty room in an unused wing of the Ministry. The room contains a single burned candle, a writing desk, and the ashes of several papers. The ashes are too degraded to read. Someone has been using this room recently. They are gone now.
 
 4. **Do nothing and wait.** This is a valid choice. The week will pass. The Audit will come. The players will face it without preparation. This is not a trap option, but it is a difficult one.
 
-5. **Seek out a faction contact for guidance.** If a player has positive Faction Standing with any school from character creation, they can attempt to arrange a discreet meeting. Presence + Contacts TN 14. On success, they receive general advice about surviving Audits and a warning about which school is currently most active in information gathering. The contact does not reveal their source. The contact does not stay for tea.
+5. **Seek out a faction contact for guidance.** If a player has positive Faction Standing with any school from character creation, they can attempt to arrange a discreet meeting. Presence + Connections TN 14. On success, they receive general advice about surviving Audits and a warning about which school is currently most active in information gathering. The contact does not reveal their source. The contact does not stay for tea.
 
 6. **Visit the Temple of Ancestral Reflection for spiritual preparation.** A player may seek the blessings of the temple before the coming trial. Intellect + Lore TN 12 reveals that the temple offers private meditation sessions and, for a donation, a minor purification ritual that grants +5 temporary Ritual Harmony for the first phase of the Audit. The donation costs 10 silver. The temple does not ask where the money comes from. The temple has seen too many nervous officials before Audits to ask questions.
 
@@ -360,25 +361,25 @@ The players have received the warning. They have one week. Here are obvious aven
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** You could prepare a reagent that reveals hidden writing on old documents. Apply it to the warning note (Intellect + Alchemy TN 14) to see if there is a secondary message written in invisible ink. The Shadow sometimes leaves double messages for those who know to look.
+> **Cinnabar Heart (Alchemist):** You could prepare a reagent that reveals hidden writing on old documents. Apply it to the warning note (Intellect + Craft TN 14) to see if there is a secondary message written in invisible ink. The Shadow sometimes leaves double messages for those who know to look.
 >
 > **Night Warbler (Assassin):** Tracing the delivery chain is your specialty. You know how to follow a paper trail through a bureaucracy because you have done it before, for different reasons. Offer to lead the investigation. Your Swiftness + Stealth is your strongest approach.
 >
-> **Guest Among Forests (Elf):** The Archives have a reading room with a small garden; one of the few living plant patches in the Ministry. You could use Wood Walking to move between the garden and other planted areas in the city, if you know where they are. Establish a mental map of plant-life anchors now, before you need them.
+> **Guest Among Forests (Elf):** The Archives have a reading room with a small garden; one of the few living plant patches in the Ministry. You could use Wood Walking to move between the garden and other planted areas in the city, if you know where they are. Establish a mental map of living plant anchors now, before you need them.
 >
-> **Iron Calculation (Engineer):** The handwriting analysis is a matter of pattern recognition. You approach it as you would a faulty ledger: look for the inconsistency, the thing that does not fit. The tremor on the downstrokes is real, but it appears only on certain letters. The writer was afraid of specific words, not of writing in general. Which words? Cross-reference with the content of the note.
+> **Iron Calculation (Engineer):** The handwriting analysis is a matter of pattern recognition. You approach it as you would a faulty ledger: look for the inconsistency, the thing that does not fit. The tremor on the downstrokes is real, but it appears only on certain letters. The writer was afraid of specific words, not of writing in general. Which words? Compare them with the content of the note.
 >
 > **Iron Wall (Knight):** If the group splits up, you should accompany anyone going to dangerous locations. The Archives are safe. The abandoned room is not. Offer to guard the investigators who trace the delivery route.
 >
-> **Bright Mirror (Paladin):** Your sense of truth tells you something about the Shadow's note: the writer believes they are doing the right thing, but they are also protecting themselves. The warning is genuine. The lack of signature is not cowardice; it is survival. A corrupt system forces good people to hide their goodness. This is worth noting for the Audit.
+> **Bright Mirror (Paladin):** The note's physical evidence supports two conclusions. The warning names a real danger with enough detail to be tested, and the delivery chain was built to protect the sender. Neither conclusion proves the writer is good or selfless. It does show that fear and caution shaped the message. Keep fact, inference, and moral judgment separate as you investigate.
 >
-> **Shadow (Rogue):** You know a dozen ways to trace a message in a bureaucracy. The junior scribe was the last link in a chain. Count the links backward: the courier, the dispatcher, the writer. Each link is a person who can be found, watched, or turned. _If the Shadow is a player character, you recognize the dead-drop method; an unused room, a burned candle, ashes. This is how you would have done it. The sender might be a former student of yours, or someone who learned from the same teacher._
+> **Shadow (Rogue):** You know a dozen ways to trace a message in a bureaucracy. The junior scribe was the last link in a chain. Count the links backward: the courier, the dispatcher, the writer. Each link is a person who can be found, watched, or turned. _If the Shadow is a player character, you recognize the dead drop method; an unused room, a burned candle, ashes. This is how you would have done it. The sender might be a former student of yours, or someone who learned from the same teacher._
 >
 > **Duke of Eternal Night (Vampire):** The abandoned room where the trail ends; you could search it at night, when your senses are sharpest. The dark does not hinder you. You might find details the daylight hides: a scrap of fabric, a hair, a scratch on the floor that matches a specific chair leg.
 >
 > **Iron Bone (Werewolf):** The scent trail. The abandoned room will still hold the sender's scent, even days later. If you can reach it before it is cleaned, you can identify distinguishing markers: the type of oil in their lamp, the paper they used, the tea they drank while writing. Make an Intellect + Survival TN 14 check to track the scent back through the Ministry corridors.
 >
-> **Celestial Book (Wizard):** You could cast a simple recall spell on the note's paper; not to read the writer's mind, but to sense the room where it was written. Intellect + Qi Theory TN 16. On success, you see a brief impression: a small room, a single desk, a window facing north. The distant sound of water. A riverside office. This narrows the search considerably.
+> **Celestial Book (Wizard):** You could use a simple recall technique on the note's paper, not to read the writer's mind, but to sense the room where it was written. Intellect + Qi Theory TN 16. On success, you see a brief impression: a small room, a single desk, a window facing north. The distant sound of water. A riverside office. This narrows the search considerably.
 
 ### NPCs the Players Might Consult
 
@@ -392,15 +393,15 @@ His dialogue:
 
 If asked about Audits: "The Audit is a name for a process that has no name. They come every few years. They take who they take. The rest of us pretend we did not see. You want my advice? Make yourself small. Make yourself useful. Make sure someone above you wants you to stay. That is the only protection that works."
 
-If pressed about the handwriting on the note: "That script. That tremor. I have seen it before. On old files. On records from thirty years ago. There is a woman in the Court. Has been for decades. She works in the shadows. She writes warnings. I do not know her name. I do not want to. Knowing her name would be a liability I cannot afford at my age."
+If pressed about the handwriting on the note: "That script. That tremor. I have seen it before. On old files. On records from fifteen years ago. There is a man in the Court. He has worked in the shadows for years. He writes warnings. I do not know his name. I do not want to. Knowing his name would be a liability I cannot afford at my age."
 
-If asked who the woman is: "She is called the Shadow by those who know of her. She has been here longer than I have. She sees things. She knows things. She tries to warn people. Sometimes they listen. Sometimes they cannot be saved. I have never met her. I have seen her work."
+If asked who the man is: "He is called the Shadow by those who know of him. He knows this place better than I do. He sees things. He knows things. He tries to warn people. Sometimes they listen. Sometimes they cannot be saved. I have never met him. I have seen his work."
 
 **Xun's Expanded Dialogue:**
 
 _If the players challenge his authority or accuse him of withholding information:_
 
-He does not flinch. His ink stained hands remain still on the table. He looks at the speaker with the patience of someone who has been looked at this way before. "You are young. You have been in the Court for weeks. I have been in the Court for forty seven years. I have seen people who asked the wrong questions disappear from their desks before lunch. I have seen people who pushed too hard reassigned to border posts where the Dusk eats them from the outside in. I am not withholding information. I am withholding danger. If you cannot tell the difference, you will not last until your first anniversary."
+He does not flinch. His hands, stained with ink, remain still on the table. He looks at the speaker with the patience of someone who has been looked at this way before. "You are young. You have been in the Court for weeks. I have been in the Court for forty seven years. I have seen people who asked the wrong questions disappear from their desks before lunch. I have seen people who pushed too hard reassigned to border posts where the Dusk eats them from the outside in. I am not withholding information. I am withholding danger. If you cannot tell the difference, you will not last until your first anniversary."
 
 _If the players show genuine empathy, asking about his health, his sleep, the toll of forty seven years:_
 
@@ -408,11 +409,11 @@ His eyes change. Something flickers behind the distant gaze. He is quiet for a l
 
 _If the players offer a creative solution (such as asking him to secretly copy records or provide a safe place to hide documents):_
 
-He considers. He does not answer immediately. He picks up his brush, dips it in ink, and writes a single character on a scrap of paper. He turns it so the players can see. The character means "listen." "I am a scribe. I copy documents. That is my function. No one notices what a scribe copies because no one believes a scribe understands what they write. I have been copying documents for forty seven years. I have copies of things that would burn this Ministry to the ground. I do not show them to anyone because showing them would mean choosing a side. I have avoided choosing a side for forty seven years. That is how I have survived. If you ask me to choose one now, you ask me to end a streak that has kept me alive through five Emperors, six Audits, and the deaths of everyone I ever worked with. I will think about it. Do not ask me again until I have decided."
+He considers. He does not answer immediately. He picks up his brush, dips it in ink, and writes a single character on a scrap of paper. He turns it so the players can see. The character means "listen." "I am a scribe. I copy documents. That is my function. No one notices what a scribe copies because no one believes a scribe understands what they write. I have been copying documents for forty seven years. I have copies of things that would burn this Ministry to the ground. I do not show them to anyone because showing them would mean choosing a side. I have avoided choosing a side for forty seven years. That is how I have survived. If you ask me to choose one now, you ask me to end a streak that has carried me through five sweeping reorganizations of the Court, six Audits, and the deaths of everyone I ever worked with. I will think about it. Do not ask me again until I have decided."
 
 _His mask slips. His true feelings emerge:_
 
-He is writing when he says it, not looking up, as if he is talking to the paper instead of the players. His brush moves in steady strokes. "You want to know what I really think? I think the Court is a machine that turns people into fuel. I think the Golden Orthodoxy knows this and uses it. I think the Verdant Path knows this and tries to stop it. I think neither of them will succeed because the machine does not care about intentions. It only cares about momentum. I have copied the records of a thousand Audits. I have seen the same patterns repeat for decades. The names change. The accusations change. The outcome never changes. Someone is always taken. The machine is always fed. And I am still here, copying the same words, knowing they will not save anyone. The ink on my hands is not ink. It is the residue of everything I have failed to prevent." He stops. He sets down his brush. He does not look up. "I said too much. Forget what I just said. I am an old man who talks to himself. It means nothing."
+He is writing when he says it, not looking up, as if he is talking to the paper instead of the players. His brush moves in steady strokes. "You want to know what I really think? I think the Court is a machine that turns people into fuel. I think the Golden Orthodoxy knows this and uses it. I think the Verdant Path knows this and tries to stop it. I think neither of them will succeed because the machine does not care about intentions. It only cares about momentum. I have copied more Audit records than I can count. I have seen the same patterns repeat for decades. The names change. The accusations change. The outcome never changes. Someone is always taken. The machine is always fed. And I am still here, copying the same words, knowing they will not save anyone. The ink on my hands is not ink. It is the residue of everything I have failed to prevent." He stops. He sets down his brush. He does not look up. "I said too much. Forget what I just said. I am an old man who talks to himself. It means nothing."
 
 **Officer Tien (Consultation NPC)**
 
@@ -446,25 +447,25 @@ He is walking away when he stops. His back is to the players. His voice is rough
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** Master Scribe Xun's ink-stained hands suggest years of contact with low-grade ink. The stains have a particular color; iron-gall black, the cheapest ink in the Ministry. He is not as important as he pretends to be. But the older ink on his sleeves is different: archival quality, expensive. He was someone once.
+> **Cinnabar Heart (Alchemist):** Master Scribe Xun's hands are deeply stained from years of contact with cheap ink. The stains have a particular color; iron gall black, the cheapest ink in the Ministry. He is not as important as he pretends to be. But the older ink on his sleeves is different: archival quality, expensive. He was someone once.
 >
 > **Night Warbler (Assassin):** Officer Tien stands with his weight on his back foot, ready to flee. He is nervous not because he knows something dangerous, but because he is afraid of knowing it. If you push him too hard, he will run. If you need him to stay useful, give him a reason to feel brave. A small gift. A show of trust.
 >
 > **Guest Among Forests (Elf):** Xun's eyes have the distant look of someone who has been touched by the Dusk, however briefly. He has seen the Grey. He was near the border, once. That is why he hides in the Archives. He is not just old; he is hiding.
 >
-> **Iron Calculation (Engineer):** Officer Tien mentioned three officials transferred from your department in the last month. That is a statistical anomaly. You calculate the probability of three coincidental transfers in a thirty-person department at less than 2%. The transfers were orchestrated. Someone is clearing the department of people who would ask questions.
+> **Iron Calculation (Engineer):** Officer Tien mentioned three officials transferred from your department in the last month. That is a statistical anomaly. You calculate the probability of three coincidental transfers in a department of thirty people at less than 2%. The transfers were orchestrated. Someone is clearing the department of people who would ask questions.
 >
 > **Iron Wall (Knight):** Officer Tien is the kind of soldier you recognize; someone who joined for honorable reasons and found himself in a system that does not reward honor. A few words of genuine respect from you will strengthen his resolve more than threats ever could.
 >
 > **Bright Mirror (Paladin):** When Xun says "Make yourself small, make yourself useful," he is not being cynical. He is describing survival. But he also said "Make sure someone above you wants you to stay." That is the part that troubles you. He is advising the players to find a patron. In a just system, no one needs a patron.
 >
-> **Shadow (Rogue):** Xun knows more than he is saying. He recognized the handwriting immediately. He knows the Shadow's name. He will not say it aloud because he is protecting her, not himself. They have an arrangement. _If the Shadow is a player character, Xun is one of your contacts. He has been feeding you information for years. Adjust his dialogue accordingly: he does not speak of you in third person, but addresses you with familiarity._
+> **Shadow (Rogue):** Xun knows more than he is saying. He recognized the handwriting immediately. He knows the Shadow's name. He will not say it aloud because he is protecting him, not himself. They have an arrangement. _If the Shadow is a player character, Xun is one of your contacts. He has been feeding you information for years. Adjust his dialogue accordingly: he does not speak of you in third person, but addresses you with familiarity._
 >
 > **Duke of Eternal Night (Vampire):** Officer Tien's pulse is rapid but steady. He is afraid, but he is not lying. Everything he says is true as he understands it. You can hear the truth in the rhythm of his heart.
 >
 > **Iron Bone (Werewolf):** The Ministry corridors carry thousands of scents. But Xun carries one you recognize: the smell of a specific incense used in Dusk Touched areas. He has been near the Grey recently. Not at the border; here, in the capital. There is Dusk contamination in Xiaoyuan itself. Make a Resolve TN 12 check to keep this knowledge from shaking your composure.
 >
-> **Celestial Book (Wizard):** The Archives where Xun works have a specific magical signature: old, layered, sedimented like geological strata. Each decade of the Court's history has left its own imprint. If you return to the Archives later, you could use this knowledge to find records from specific time periods by following the magical residue.
+> **Celestial Book (Wizard):** The Archives where Xun works have a distinct Qi signature: old, layered, and sedimented like geological strata. Each decade of the Court's history has left its own imprint. If you return later, you could follow that residue to find records from a specific period.
 
 ### Part One Faction Standing Texture
 
@@ -477,7 +478,7 @@ As Part One concludes, the world shifts subtly based on the players' actions and
 
 ### Weather and Time: The Second Morning
 
-The Host may read this passage at the start of the second in game day, after the players have had a night to process the warning.
+The Host may read this passage at the start of the second day of play, after the players have had a night to process the warning.
 
 Dawn comes slowly to Xiaoyuan. The haze that hangs over the capital does not lift with the sun; it thins, like milk stirred into water, revealing the shapes of buildings and towers without ever quite showing them clearly. The light is the color of old linen, grey with a tinge of yellow at the eastern edge where the sun burns behind the curtain of smoke and mist.
 
@@ -515,15 +516,15 @@ Through the paper walls, you hear the sounds of the market beginning its day: a 
 >
 > **Iron Wall (Knight):** The peace of this place feels fragile, like a held breath. You find yourself scanning the room for threats even as you try to relax. The old woman at the counter meets your eyes for a fraction of a second longer than necessary. She knows what you are doing. She approves. A guardian recognizes another guardian.
 >
-> **Bright Mirror (Paladin):** The teahouse has an Alignment, of sorts. Not the Alignment of a person, but the accumulated spiritual residue of everyone who has eaten here in peace. This room has hosted kindness. It has hosted confessions. It has hosted moments of truth between people who trust each other. You feel it as a warmth beneath the calm. This place is sacred in a way the temples are not.
+> **Bright Mirror (Paladin):** Small details tell you what kind of room this has been. The alcoves offer privacy without isolation. The old woman watches the door while giving every guest space. Repairs have been made often and without display. People have trusted one another here, but that conclusion comes from accumulated signs, not revelation. This place feels sacred in a way the temples do not.
 >
 > **Shadow (Rogue):** The private alcove has a hidden panel behind the bamboo matting. You noticed it when you sat down; the matting does not lie flat against the wall. Behind it, a small space contains a rolled scroll, a dried inkstick, and a knife. Standard emergency cache. Every Verdant Path safe house has one. Do not mention it aloud. Do not look at it again. Just know it is there. _If the Shadow is a player character, you have placed caches like this yourself. You know the protocol: if you need to leave a message, use the scroll. If you need to leave quickly, take the knife. If you need to signal danger, break the inkstick over the threshold._
 >
 > **Duke of Eternal Night (Vampire):** The tea is the first warm thing you have held in days that did not feel like a compromise. The jasmine scent masks the smell of the city, the blood, the old stone. You allow yourself a moment of something close to peace. The old woman glances at you. She knows what you are. She has served your kind before. She does not fear you. That is more unsettling than fear would be.
 >
-> **Iron Bone (Werewolf):** The smells in this room are overwhelming after the sterile corridors of the Ministry: food, tea, wood, paper, the faint sweat of the other patrons, the river scent from the market beyond. It is a good overwhelm, the kind that reminds you you are alive. Your wolf settles, for the first time in days. This place is safe. The wolf knows safe. Make a Resolve TN 10 check to let yourself relax fully. On success, you gain a +1 bonus to your next Presence based roll, the calm lingering like the aftertaste of good tea.
+> **Iron Bone (Werewolf):** The smells in this room are overwhelming after the sterile corridors of the Ministry: food, tea, wood, paper, the faint sweat of the other patrons, the river scent from the market beyond. It is a good overwhelm, the kind that reminds you that you are alive. Your wolf settles, for the first time in days. This place is safe. The wolf knows safe. Make a Resolve TN 10 check to let yourself relax fully. On success, you gain a +1 bonus to your next roll based on Presence, the calm lingering like the aftertaste of good tea.
 >
-> **Celestial Book (Wizard):** The teahouse has a subtle warding, old and layered, built up over decades of quiet magic. It is not a barrier against physical threats. It is a barrier against scrying, against magical eavesdropping, against the kind of observation that the Commission specializes in. Someone has been enchanting this room for a very long time. The wards are so old that they have become part of the building's fabric. You are safe here from magical surveillance. You are not safe from anything else.
+> **Celestial Book (Wizard):** The teahouse has a subtle web of wards, old and layered, built up over decades of quiet ritual work. It is not a barrier against physical threats. It is a barrier against divination, against eavesdropping conducted through Qi, against the kind of observation that the Commission specializes in. Someone has been reinforcing this room for a very long time. The wards are so old that they have become part of the building's fabric. You are safe here from ritual surveillance. You are not safe from anything else.
 
 ## Part Two: The Three Demands
 
@@ -539,7 +540,7 @@ The knock at your door is precise: three taps, evenly spaced, exactly one second
 
 **Censor Wei's Opening Dialogue:**
 
-"Good morning. I am Senior Censor Wei of the Bureau of Harmonious Narrative. I apologize for the unannounced visit. The matter is time sensitive."
+"Good morning. I am Senior Censor Wei of the Bureau of Harmonious Narrative. I apologize for the unannounced visit. The matter is urgent."
 
 He waits for acknowledgment before continuing.
 
@@ -555,7 +556,7 @@ If the players ask what happens to the five:
 
 If the players hesitate:
 
-His tone shifts. It does not become loud. It becomes quieter. Colder. "Let me be clear. This is not a request for assistance. This is an invitation to demonstrate your Alignment with orthodox doctrine. The Bureau is watching. The Commission will see your name either on this document or on another document. The difference is which side of the page your name appears."
+His tone shifts. It does not become loud. It becomes quieter. Colder. "Let me be clear. This is not a request for assistance. This is an invitation to demonstrate your loyalty to orthodox doctrine. The Bureau is watching. The Commission will see your name either on this document or on another document. The difference is which side of the page your name appears."
 
 If the players ask who the five are:
 
@@ -605,15 +606,15 @@ If the players refuse, the official's cordiality evaporates. "I see. The Bureau 
 >
 > **Iron Wall (Knight):** The five names on the document are people you have seen in the corridors, shared meals with, exchanged nods with. You know their faces. You know that Second Archivist Yu has a child who is ill and that Scribe Min brings extra tea for the night shift. These are not abstract targets. They are people. The knight in you knows what honor demands.
 >
-> **Bright Mirror (Paladin):** You detect the spiritual weight of what Wei is asking. Signing this document is not a bureaucratic act; it is a spiritual one. Each signature is a thread binding you to the fate of the accused. Your Ritual Harmony will shift with each name. You feel this in your bones. Choose carefully.
+> **Bright Mirror (Paladin):** You read the document as evidence, not ceremony. Each accusation is phrased to sound final, yet none cites a witness, date, or supporting record. Your signature would turn an unsupported claim into official testimony and bind you to whatever follows. The effect on your Ritual Harmony is written into the act itself. Choose carefully.
 >
-> **Shadow (Rogue):** The five names are a test within a test. Wei does not actually need all five. He needs to see who the players are willing to sacrifice. If you sign for all five, he owns you. If you refuse all five, he knows you are dangerous. The optimal move is to offer one name; someone you genuinely believe is guilty; and refuse the rest. This signals cooperation without submission. _If the Shadow is a player character, you have trained in this exact kind of negotiation. You may make a Presence + Intrigue TN 14 check to propose a counter-offer that Wei will accept without losing Faction Standing._
+> **Shadow (Rogue):** The five names are a test within a test. Wei does not actually need all five. He needs to see who the players are willing to sacrifice. If you sign for all five, he owns you. If you refuse all five, he knows you are dangerous. The optimal move is to offer one name; someone you genuinely believe is guilty; and refuse the rest. This signals cooperation without submission. _If the Shadow is a player character, you have trained in this exact kind of negotiation. You may make a Presence + Connections TN 14 check to propose a revised offer that Wei will accept without losing Faction Standing._
 >
-> **Duke of Eternal Night (Vampire):** Wei's heartbeat is steady, unnaturally so. He is not nervous. He has done this before, many times. But there is a micro-expression when he reads the fifth name (Archivist Chen); a flicker of something. Grief? Recognition? He knows that name personally.
+> **Duke of Eternal Night (Vampire):** Wei's heartbeat is steady, unnaturally so. He is not nervous. He has done this before, many times. But a fleeting expression crosses his face when he reads the fifth name (Archivist Chen). Grief? Recognition? He knows that name personally.
 >
 > **Iron Bone (Werewolf):** Your instincts scream that Wei is a predator, but not a physical one. He is the kind who destroys with paper and ink. Your wolf does not know what to do with this; it wants a tangible enemy to fight. Make a Resolve TN 12 check to focus your aggression into controlled attention rather than restless pacing.
 >
-> **Celestial Book (Wizard):** The Denunciation Document has a subtle magical binding woven into its characters. It is not a spell per se, but a ritual document; signing it creates a minor spiritual obligation. You could, with effort, counter-bind your signature (Intellect + Qi Theory TN 16) to sign without creating the spiritual obligation, though the physical ink will still be on the page.
+> **Celestial Book (Wizard):** The Denunciation Document has a subtle ritual binding woven into its characters. It is a ritual document, and signing it creates a minor spiritual obligation. With effort, you could bind your signature against the document's spiritual force (Intellect + Qi Theory TN 16), though the physical ink would remain on the page.
 
 **Censor Wei's Expanded Dialogue:**
 
@@ -671,7 +672,7 @@ If the players ask his name:
 
 If the players ask why she trusts them:
 
-"I do not trust you. I trust that you received the warning note from the Shadow. Anyone she warned is worth taking a risk on. She does not waste her warnings on people who do not matter."
+"I do not trust you. I trust that you received the warning note from the Shadow. Anyone he warned is worth taking a risk on. He does not waste his warnings on people who do not matter."
 
 If the players ask what they need to do:
 
@@ -705,15 +706,19 @@ Suggested approaches for the players:
 
 **Distraction:** One player creates a scene (a complaint about damaged goods, a faked injury, a heated argument with a guard about paperwork). While the guards are occupied, another player guides Tao Chen through. Requires Swiftness + Stealth TN 14 for each player involved in the distraction. On failure, a guard notices the movement and calls for Tao Chen to stop.
 
-**Forged Documents:** Requires Intellect + Forgery TN 16 to create convincing travel papers in a false name. The forgery must match official formatting, include correct seals, and use the right paper stock. On a near failure (TN 12 to 15), the documents are questioned and the players must improvise or bribe their way through.
+**Forged Documents:** Requires Intellect + Craft TN 16 to create convincing travel papers in a false name. The forgery must match official formatting, include correct seals, and use the right paper stock. On a near failure (TN 12 to 15), the documents are questioned and the players must improvise or bribe their way through.
 
-**Bribery:** Presence + Persuasion TN 14. Costs 20 silver to the smoking guard, who looks the other way. The guard remembers the players' faces. If the Golden Orthodoxy investigates later, the guard will identify them.
+**Bribery:** Presence + Persuasion TN 14. The smoking guard looks the other way for 2 Gold Blooms. He remembers the players' faces. If the Golden Orthodoxy investigates later, he will identify them.
 
 **Authority:** If a player has a legitimate reason to be moving someone through the gate (claiming Tao Chen is an informant being transferred to a Garrison post, for example), Presence + Intimidation TN 16. The guards check with their superior. The players have a brief window while the message travels.
 
-If the players help, they gain +10 Faction Standing with the Verdant Path and +5 Ritual Harmony (for appearing to assist in "maintaining order"). They also gain a contact in the Verdant Path network and knowledge of the embezzlement evidence. They lose 5 Faction Standing with the Golden Orthodoxy if their involvement is discovered (Swiftness + Stealth TN 16 to avoid detection).
+If the players help and Tao escapes, they gain +10 Faction Standing with the Verdant Path. They also gain a contact in the Verdant Path network and receive the embezzlement evidence. If their involvement is discovered, they lose 5 Faction Standing with the Golden Orthodoxy and 5 Ritual Harmony. Swiftness + Stealth TN 16 keeps their role hidden.
 
-If the players refuse or report the Verdant Path to the authorities, they gain +10 Faction Standing with the Golden Orthodoxy but lose 15 Faction Standing with the Verdant Path. The smuggled official is captured and disappears. The embezzlement evidence is buried.
+If the players help but Tao is captured, they gain +5 Faction Standing with the Verdant Path for making the attempt. If they are identified, they also lose 5 Faction Standing with the Golden Orthodoxy and 5 Ritual Harmony. Lin escapes unless the players exposed her, and a duplicate packet remains hidden, so the evidence is endangered but not erased.
+
+If the players simply refuse and keep Lin's confidence, they gain no standing with the Golden Orthodoxy and lose 5 Faction Standing with the Verdant Path. Lin seeks another route. Tao's fate remains open and should follow from later player choices, any useful advice the players already gave, and the strength of Lin's remaining network rather than becoming an automatic capture.
+
+If the players report Lin or deliberately betray Tao's location, they gain +10 Faction Standing with the Golden Orthodoxy and lose 15 Faction Standing with the Verdant Path. Tao is captured unless the players warn Lin in time or stage a rescue. The authorities seize any packet they find at the safe house, but copies already entrusted to the players remain in circulation, along with any copy the players independently chose to give Commissioner Zhang.
 
 > **ARCHETYPE THREADS**
 >
@@ -723,13 +728,13 @@ If the players refuse or report the Verdant Path to the authorities, they gain +
 >
 > **Guest Among Forests (Elf):** The teahouse has living bamboo in decorative pots at the corners of the main room. You establish a Wood Walking anchor here. If you need to return to this location quickly, you can step through any living plant within the Eastern Market district to arrive at this spot.
 >
-> **Iron Calculation (Engineer):** Smuggling someone through a checkpoint is a logistics problem. You calculate: four guards, one barrier, one list of names. The optimal solution is not distraction or forgery; it is timing. The guards change shifts at the hour of the Dog (7-9 PM). During the handoff, coverage drops to two guards for approximately four minutes. That is the window.
+> **Iron Calculation (Engineer):** Smuggling someone through a checkpoint is a logistics problem. You calculate: four guards, one barrier, one list of names. The optimal solution is not distraction or forgery; it is timing. The guards change shifts at the hour of the Dog, from seven to nine in the evening. During the handoff, coverage drops to two guards for approximately four minutes. That is the window.
 >
 > **Iron Wall (Knight):** If this goes wrong, someone will have to fight. The South Gate is not defensible; open ground, limited cover, armed guards who can call reinforcements. If violence becomes necessary, the goal is not victory but delay. Buy time for Tao Chen to reach the Far Side zone.
 >
-> **Bright Mirror (Paladin):** Lin's desperation is genuine, but she is keeping something back. You sense she has a personal stake beyond ideology. She is not telling you everything. Your Alignment sense catches a flicker of familial love beneath her words; the fugitive is not just a source of evidence to her. He is family.
+> **Bright Mirror (Paladin):** If Lin says, "Tao Chen is only an evidence source to me," Truth Sight marks the statement as false. It does not tell you why. Her repeated use of his given name, her knowledge of his sleeping habits, and the way she says "we" when discussing his escape support a personal connection. With careful questioning, you can infer that he is family, but the ability alone does not reveal the relationship.
 >
-> **Shadow (Rogue):** The smoking guard at the checkpoint is the weakest link. Not because he is corruptible, but because he is bored. Bored guards miss details. If you engage him in conversation about nothing; the weather, the quality of the tobacco, the length of his shift; he will stop watching the crowd. A bored man is a blind man. _If the Shadow is a player character, you may have a contact among the Garrison who can create a diversion at the South Gate. Make a Presence + Contacts TN 14 check to call in this favor._
+> **Shadow (Rogue):** The smoking guard at the checkpoint is the weakest link. Not because he is corruptible, but because he is bored. Bored guards miss details. If you engage him in conversation about nothing; the weather, the quality of the tobacco, the length of his shift; he will stop watching the crowd. A bored man is a blind man. _If the Shadow is a player character, you may have a contact among the Garrison who can create a diversion at the South Gate. Make a Presence + Connections TN 14 check to call in this favor._
 >
 > **Duke of Eternal Night (Vampire):** The checkpoint is busiest at dusk, when travelers rush to beat the gate closure. The low light favors you. Your night vision means you can spot details the guards miss; the list of names has a fresh ink addition at the bottom, added after the original document was prepared. Someone updated it this morning. They are expecting you.
 >
@@ -743,7 +748,7 @@ _If the players challenge her, accusing her of using them or withholding the ful
 
 Her face flushes. She grips her teacup so hard her knuckles go white. "You are right. I am not telling you everything. I am telling you what I can. The difference matters. The Verdant Path is not an army. We are a network of people who share information carefully because sharing it recklessly gets people killed. I am giving you the most important piece: a man's life. If you need to know everything else before you act, you will never act at all. Some of us cannot afford that luxury."
 
-_If the players show genuine empathy, asking about her well being, her fear, what drives her to take this risk:_
+_If the players show genuine empathy, asking about her wellbeing, her fear, and what drives her to take this risk:_
 
 She looks down at her tea. The steam has stopped rising. The cup is cold in her hands. "I joined the Verdant Path because I read a book that was not on the approved list. It was a history. An old one. It described the Court as it was before the Harmonization Audits began. Do you know what the difference is? There is no difference. The Court has always been this way. The machine has always needed fuel. I read that book and I could not unread it. I could not pretend I did not know. So I started meeting people who also knew. People who wanted to do something about it. I am not brave. I am not special. I am just someone who cannot look away anymore. That is all the Verdant Path is: people who cannot look away."
 
@@ -771,7 +776,7 @@ She composes herself. She takes a breath that shudders at the edges. "I will mee
 >
 > **Zone Layout:**
 >
-> - Zone 1: **Warehouse Entrance** (the door behind the players; locked from outside, requiring Swiftness + Lockpicking TN 16 to reopen or a Strength TN 16 check to force).
+> - Zone 1: **Warehouse Entrance** (the door behind the players; locked from outside, requiring Swiftness + Larceny TN 16 to reopen or a Might TN 16 check to force).
 > - Zone 2: **The Street** (open cobblestone, 20 paces wide, with abandoned crates providing partial cover on the east side).
 > - Zone 3: **Alley Mouths** (two narrow alleys on the north and south sides of the street, each one pace wide).
 >
@@ -783,7 +788,7 @@ She composes herself. She takes a breath that shudders at the edges. "I will mee
 >
 > **Victory Outcomes:**
 >
-> - **Defeat the attackers:** The players can search the bodies. One carries a messenger pouch with a note in code. Deciphering it (Intellect + Cryptography TN 16) reveals orders to "secure the warehouse and silence any investigators." The orders bear no signature, but the paper is the same high-grade stock used in Crimson Lineage correspondence.
+> - **Defeat the attackers:** The players can search the bodies. One carries a messenger pouch with a note in code. Deciphering it (Intellect + Investigation TN 16) reveals orders to "secure the warehouse and silence any investigators." The orders bear no signature, but the paper is the same premium stock used in Crimson Lineage correspondence.
 > - **Capture a blade alive:** Presence + Intimidation TN 16 forces a confession: "We were paid by a middleman. Grey robes. Official seal. Did not show his face." The blade does not know who hired him, only the meeting point (an abandoned teahouse in the Eastern Market).
 > - **Flee:** If the players retreat into the warehouse, they can barricade the door and escape through a window in the Locked Room zone (Swiftness + Stealth TN 14 to reach the street without being seen).
 >
@@ -831,7 +836,7 @@ He still has not looked at you. He does not need to. The numbers are all that ma
 
 **Ledger Examination Scene 1: The Receiving Records**
 
-Commissioner Zhang leads the players to a windowless room in the State Planning Commission. The walls are lined with shelves, each shelf packed with identical leather bound ledgers. He points to a table where three ledgers are already open.
+Commissioner Zhang leads the players to a windowless room in the State Planning Commission. The walls are lined with shelves, each shelf packed with identical ledgers bound in leather. He points to a table where three ledgers are already open.
 
 **Read Aloud:**
 
@@ -909,19 +914,19 @@ If the players decline the assignment, the Iron Calculation is disappointed but 
 >
 > **Guest Among Forests (Elf):** The ledgers themselves have a history written in their wear. The ledger for the third quarter is less worn than the fourth quarter ledger, even though it is older. Someone has been consulting the fourth quarter ledger repeatedly, running their fingers over the same pages. The Qi theft was discovered before it was hidden.
 >
-> **Iron Calculation (Engineer):** Numbers do not lie. The 800-unit discrepancy, the forged signatures, the warehouse records; you connect them faster than the others. Commissioner Zhang recognizes a kindred mind. He gives you a curt nod of respect; the highest praise he offers. You may add +1 to your next Intellect + Investigation roll related to this investigation.
+> **Iron Calculation (Engineer):** Numbers do not lie. The discrepancy of 800 units, the forged signatures, the warehouse records; you connect them faster than the others. Commissioner Zhang recognizes a kindred mind. He gives you a curt nod of respect; the highest praise he offers. You may add +1 to your next Intellect + Investigation roll related to this investigation.
 >
 > **Iron Wall (Knight):** The warehouse district is dangerous. The streets are empty because the old families have cleared them. You stand guard while the others examine the records, your hand never leaving your weapon. The clerk Wei Liang notices your readiness. It is the only reason he opens up to the party; he knows you could hurt him but chooses not to.
 >
-> **Bright Mirror (Paladin):** The clerk Wei Liang is not just afraid; he is ashamed. He knows what he is doing is wrong, and the shame is eating him alive. Your presence, your bearing, reminds him of the person he used to be before fear broke him. If you speak to him with compassion rather than threats, he may provide more information than he initially offers.
+> **Bright Mirror (Paladin):** Wei Liang avoids the forged signatures but keeps looking at the dead supervisor's name. His answers become shorter whenever responsibility comes close to him, and he corrects one detail that only a participant would know. Fear is plain. Shame is a reasonable inference, not a verdict. If you speak with compassion and give him room to correct the record, he may offer more than threats would uncover.
 >
 > **Shadow (Rogue):** The name Sun Jiao, the dead transport supervisor. You know how to make a dead man's signature. You have done it yourself, in other contexts, for other reasons. The forgery is good but not perfect; the pressure on the downstrokes is too even. A real signature varies slightly each time. The forger was competent but not an artist. _If the Shadow is a player character, you recognize the forger's technique. It matches a style taught in a specific corner of the underworld. You could trace the forger through your contacts._
 >
 > **Duke of Eternal Night (Vampire):** The warehouse is cold, windowless, and dark; an environment you find comfortable. While the others strain to read ledgers in dim lamplight, your vision is perfect. You notice something they miss: a single shelf has been moved recently. The dust pattern is wrong. Behind it, a loose stone in the wall. A hiding place.
 >
-> **Iron Bone (Werewolf):** The scent in the warehouse is overwhelming; refined Qi smells like ozone and burnt metal to your sensitive nose. It makes your head ache. But beneath that, you catch a thread of something else: fear-sweat from the clerk, and another scent, older, dried into the floorboards. Blood. Someone was hurt here, recently. Not killed; the blood is not enough for death. But hurt badly enough to bleed.
+> **Iron Bone (Werewolf):** The scent in the warehouse is overwhelming; refined Qi smells like ozone and burnt metal to your sensitive nose. It makes your head ache. But beneath that, you catch a thread of something else: the clerk's fear sweat, and another scent, older, dried into the floorboards. Blood. Someone was hurt here, recently. Not killed; the blood is not enough for death. But hurt badly enough to bleed.
 >
-> **Celestial Book (Wizard):** The Qi residue in the warehouse has a particular vibrational frequency. Different grades of refined Qi emit different frequencies. The Qi that passed through here was not standard-grade; it was high-grade, the kind used for ritual work, not industrial applications. The theft was not about quantity. It was about quality.
+> **Celestial Book (Wizard):** The Qi residue in the warehouse has a particular vibrational frequency. Different grades of refined Qi emit different frequencies. The Qi that passed through here was not standard grade; it was of exceptional purity, the kind used for ritual work rather than industrial applications. The theft was not about quantity. It was about quality.
 
 **Commissioner Zhang's Expanded Dialogue:**
 
@@ -935,7 +940,7 @@ He sets down his brush. For the first time, he looks directly at the speaker. Hi
 
 _If the players offer a creative solution, such as a new way to trace the stolen Qi or a contact who can access restricted records:_
 
-He listens without interrupting. When they finish, he picks up his brush again and writes a single note on a scrap of paper. He folds it precisely and hands it to the speaker. "That is the address of a man who owes me a favor. He works in the Imperial Qi Registry. He can access records that are supposed to be sealed. Show him that note and tell him I sent you. He will give you the distribution records for the last five years. Cross reference them with the warehouse receipts I showed you. The stolen Qi will appear as a gap between what was delivered and what was recorded. That gap is our evidence." He hesitates. "I do not offer this lightly. This man is putting himself at risk by helping us. If you misuse this information, or if you expose him, I will hold you personally responsible. Do we understand each other?"
+He listens without interrupting. When they finish, he picks up his brush again and writes a single note on a scrap of paper. He folds it precisely and hands it to the speaker. "That is the address of a man who owes me a favor. He works in the Imperial Qi Registry. He can access records that are supposed to be sealed. Show him that note and tell him I sent you. He will give you the distribution records for the last five years. Compare them with the warehouse receipts I showed you. The stolen Qi will appear as a gap between what was delivered and what was recorded. That gap is our evidence." He hesitates. "I do not offer this lightly. This man is putting himself at risk by helping us. If you misuse this information, or if you expose him, I will hold you personally responsible. Do we understand each other?"
 
 _His mask slips. His true feelings emerge:_
 
@@ -957,7 +962,7 @@ Players are resourceful. They may attempt approaches not covered above. Here is 
 
 ### The Choice
 
-The players can, with creativity, satisfy two of the three requests. Satisfying all three is nearly impossible: the Golden Orthodoxy and Verdant Path requests are in direct conflict. The Iron Calculation's request is orthogonal but time consuming.
+The players can, with creativity, satisfy two of the three requests. Satisfying all three is nearly impossible: the Golden Orthodoxy and Verdant Path requests are in direct conflict. The Iron Calculation's request is unrelated to that conflict but requires considerable time.
 
 Let the players strategize. Do not rush them. This is the adventure's central decision point.
 
@@ -973,15 +978,15 @@ Let the players strategize. Do not rush them. This is the adventure's central de
 >
 > **Iron Wall (Knight):** You have done what you can to prepare. You have watched every door, every corridor, every face. If the Audit takes someone, it will not be because you failed to stand between them and danger. You take a position near the most vulnerable member of the party. You do not need to explain why.
 >
-> **Bright Mirror (Paladin):** The players have made their choices. Now you make yours. You reflect on what each decision says about the party's Alignment as a whole. The Golden Orthodoxy tests obedience. The Verdant Path tests compassion. The Iron Calculation tests truth. Which tests did you pass? Which did you fail? The answer defines who you are.
+> **Bright Mirror (Paladin):** The players have made their choices. Now you make yours. Consider what those decisions reveal about the party's shared principles. The Golden Orthodoxy tests obedience. The Verdant Path tests compassion. The Iron Calculation tests truth. Which tests did you pass? Which did you fail? The answer defines who you are.
 >
-> **Shadow (Rogue):** A good operation leaves multiple exits. You have collected favors, information, and leverage. Now you assess which of these can be converted into protection during the Audit. A secret is worth more than a sword in this Court. _If the Shadow is a player character, you have been tracking every favor owed and every secret learned. You may spend one accumulated secret to reduce one player's Risk by one level during the Audit, representing a well-timed piece of leverage._
+> **Shadow (Rogue):** A good operation leaves multiple exits. You have collected favors, information, and leverage. Now you assess which of these can be converted into protection during the Audit. A secret is worth more than a sword in this Court. _If the Shadow is a player character, you have been tracking every favor owed and every secret learned. You may spend one accumulated secret to reduce one player's Risk by one level during the Audit, representing leverage applied at precisely the right moment._
 >
 > **Duke of Eternal Night (Vampire):** The Audit happens during the day. The Commission chose dawn deliberately; it is the hour when your kind is weakest. You will face judgment in full daylight, under the gaze of a sun that does not care about your titles or your lineage. Prepare yourself for that. The others do not understand what that costs you.
 >
 > **Iron Bone (Werewolf):** The waiting is the hardest part. Your wolf paces beneath your skin, restless, wanting to run, to fight, to do something. The Audit is a trial of words, not claws. Make a Resolve TN 14 check each hour of the Final Day to keep the wolf contained. On failure, you snap at a colleague or pace visibly. The Commission notices uncontrolled behavior.
 >
-> **Celestial Book (Wizard):** You could cast a warding ritual on the party's shared quarters before the Audit. Intellect + Qi Theory TN 14. On success, the ward provides a small protective resonance that each player can feel; not physical protection, but spiritual. Each player gains +1 to their first Resolve check during the Audit.
+> **Celestial Book (Wizard):** You could perform a warding ritual on the party's shared quarters before the Audit. Intellect + Qi Theory TN 14. On success, the ward provides a small protective resonance that each player can feel, not physical protection, but spiritual. Each player gains +1 to their first Resolve check during the Audit.
 
 ### Part Two Faction Standing Texture
 
@@ -990,6 +995,7 @@ As Part Two concludes, the factional landscape shifts in visible and invisible w
 - **If the players gained Faction Standing with the Golden Orthodoxy (signed the document):** Colleagues you pass in the corridor drop their gaze. Not in respect; in fear. They know what you did. The five names on that document have families, friends, allies. You have made enemies among your peers even as you gained favor with the orthodoxy.
 - **If the players lost Faction Standing with the Golden Orthodoxy (refused to sign):** Senior Censor Wei's words spread through the Ministry grapevine within hours. You notice colleagues avoiding your gaze in corridors. A few; the brave ones; nod almost imperceptibly. They know you refused. They will not thank you publicly. They will remember privately.
 - **If the players helped the Verdant Path (Tao Chen escaped):** A stranger in a teahouse nods almost imperceptibly as you pass. You do not recognize them. They do not speak. But you feel the acknowledgment. The Verdant Path network is invisible, but it sees you.
+- **If the players declined but kept Lin's confidence:** No one thanks you and no one threatens you. A week later, you hear that Tao may have left the city by another route. The rumor is too uncertain to confirm, and Lin does not contact you again.
 - **If the players reported the Verdant Path:** Junior Archivist Lin's desk is empty the next day. No one comments on it. No one explains. You know what happened. The silence around you is heavier than it was before.
 - **If the players investigated the Qi theft (Iron Calculation):** Commissioner Zhang's report reaches certain ears. A senior clerk you have never met stops you in the hall and says, without preamble: "Be careful which ledgers you open. Some doors should stay closed." They walk away before you can respond.
 - **If the players made no clear factional choice:** The Court treats you as unaligned, which means untrustworthy to everyone. No one approaches. No one warns you. You are a blank page in a city that reads people by their alliances. This is the loneliest path.
@@ -1006,7 +1012,7 @@ As you cross the courtyard, you notice a group of workers gathered around the ba
 
 ### Small Moment: The Outer Market at Dawn
 
-Insert this scene on the morning of the fourth day, after the Weather and Time passage above. It provides a quiet, sensory rich transition into the investigation phase. The players may be heading to the Archives, the warehouse, or any other location. This scene takes place as they pass through the market.
+Insert this scene on the morning of the fourth day, after the Weather and Time passage above. It provides a quiet transition rich in sensory detail as the investigation begins. The players may be heading to the Archives, the warehouse, or any other location. This scene takes place as they pass through the market.
 
 **Read Aloud:**
 
@@ -1036,13 +1042,13 @@ You pass through the market and leave it behind. The smells fade. The sounds dim
 >
 > **Bright Mirror (Paladin):** The moment of the bells, when the entire market paused as one, was a glimpse of something the Court spends its existence trying to manufacture: true Harmony, voluntarily given. Not coerced. Not enforced. Nine heartbeats of shared attention. The city knows how to be harmonious without the Commission. It remembers. The question is whether the Court has forgotten on purpose.
 >
-> **Shadow (Rogue):** The market is full of faces that do not belong. The woman buying bread is too well dressed for this district. The man leaning against the wall near the fish stall keeps checking his sleeve, where a knife is hidden. The Commission has watchers in the market. They are watching everyone, not just the players. The net is wide. _If the Shadow is a player character, you recognize one of the watchers. They are a former associate, someone you worked with before the Court. They are not here for you. They are here for someone else. But they have seen you. Make a Presence + Intrigue TN 12 check to signal them: a gesture, a nod, a shared secret that says "we did not see each other."_
+> **Shadow (Rogue):** The market is full of faces that do not belong. The woman buying bread is too well dressed for this district. The man leaning against the wall near the fish stall keeps checking his sleeve, where a knife is hidden. The Commission has watchers in the market. They are watching everyone, not just the players. The net is wide. _If the Shadow is a player character, you recognize one of the watchers. They are a former associate, someone you worked with before the Court. They are not here for you. They are here for someone else. But they have seen you. Make a Presence + Connections TN 12 check to signal them: a gesture, a nod, a shared secret that says "we did not see each other."_
 >
 > **Duke of Eternal Night (Vampire):** The dawn light is thin and grey, filtered through haze and smoke. You can tolerate it, but it drains you, saps your strength like a slow leak. The other players do not notice how much effort it costs you to walk through this market as if you belonged in the daylight. The baker's rolls smell good, but you cannot eat them. The tea at the stall smells better, but you cannot drink it. You are surrounded by life you cannot touch. This is the cost of what you are.
 >
 > **Iron Bone (Werewolf):** The market overwhelms your senses in the best way: a thousand overlapping scents, the warmth of the baker's oven, the cold glitter of the fish, the murmur of a hundred conversations. Your wolf stirs, not in alarm, but in something like pleasure. This is what the world should be: alive, messy, ungoverned. The Ministry stifles. The market breathes. File this feeling away. When the walls of the Court close in, you can return here in your memory.
 >
-> **Celestial Book (Wizard):** The temple bells have a magical component. Not a spell, but a resonance, a frequency that clears the mind and settles the Qi. The bell ringers know what they are doing. They are maintaining a low grade enchantment over the market district, a subtle Harmony that keeps the area stable even when the Court above it is in chaos. The bell ringers are probably not aware of what they are doing. The knowledge is in their hands, passed down through generations, not in their minds. There is a lesson in that.
+> **Celestial Book (Wizard):** The temple bells carry a ritual resonance, a frequency that clears the mind and settles the Qi. The bell ringers know what they are doing. They are maintaining a gentle field of Harmony over the market district, keeping the area stable even when the Court above it is in chaos. The bell ringers are probably not aware of the full effect. The knowledge is in their hands, passed down through generations, not in their minds. There is a lesson in that.
 
 ## Part Three: The Investigation
 
@@ -1056,9 +1062,9 @@ The Imperial Archives occupy the entire west wing of the Ministry complex. The c
 
 The archivist on duty is asleep at their desk, head pillowed on a stack of papers. Dust motes drift through the yellow light. The silence is absolute. You could take almost anything from these shelves and no one would notice.
 
-And that is when you see it. A volume shelved incorrectly. It is a personnel record from thirty years ago, shoved between two unrelated texts as if someone was in a hurry to hide it. The name on the spine catches your eye. You know that name. You do not know why.
+And that is when you see it. A volume shelved incorrectly. It is a personnel record from fifteen years ago, shoved between two unrelated texts as if someone was in a hurry to hide it. The name on the spine catches your eye. You know that name. You do not know why.
 
-The volume is a personnel record from thirty years ago. It belongs to an official who was Disappeared. The official's name is familiar but the player cannot immediately place why.
+The volume is a personnel record from fifteen years ago. It belongs to an official who was Disappeared. The official's name is familiar but the player cannot immediately place why.
 
 Investigating further (Intellect + Investigation TN 14) reveals that this official was the player's predecessor in their current position. They held the exact same posting. They were Disappeared during an Audit very similar to this one. The stated reason was "heterodox associations."
 
@@ -1093,15 +1099,15 @@ Deeper investigation (Intellect + Investigation TN 18) uncovers a second, sealed
 >
 > _The Shadow._
 
-**Host Note:** The Shadow has been doing this for decades. She tries to warn people. Sometimes they listen. Sometimes they cannot be saved. The name Sun Jiao connects this note to the Iron Calculation's investigation in Part Two. The players are following the same path their predecessor followed. The question is whether they will meet the same end.
+**Host Note:** The Shadow has been doing this for years. He tries to warn people. Sometimes they listen. Sometimes they cannot be saved. The name Sun Jiao connects this note to the Iron Calculation's investigation in Part Two. The players are following the same path their predecessor followed. The question is whether they will meet the same end.
 
 This discovery gives the players a connection to the Shadow and a piece of the larger puzzle: the Harmonization Audits are not random. They are targeted. The question is: by whom, and why?
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The old file has a faint chemical smell; camphor, yes, but also something else. A preservative used in archival storage that was discontinued twenty years ago. This file has not been opened in decades. It was placed here recently, by someone who knew the older storage methods. The Shadow herself may have placed it.
+> **Cinnabar Heart (Alchemist):** The old file has a faint chemical smell; camphor, yes, but also something else. A preservative used in archival storage that was discontinued twenty years ago. This file has not been opened in many years. It was placed here recently, by someone who knew the older storage methods. The Shadow himself may have placed it.
 >
-> **Night Warbler (Assassin):** The mis-shelved volume is staged. You have planted evidence before; you recognize the signs. The book was placed deliberately, not hidden carelessly. The angle, the shelf gap, the visible spine; someone wanted the players to find this. The question is not what the file contains, but who wanted them to read it.
+> **Night Warbler (Assassin):** The deliberately misplaced volume is staged. You have planted evidence before; you recognize the signs. The book was placed deliberately, not hidden carelessly. The angle, the shelf gap, the visible spine; someone wanted the players to find this. The question is not what the file contains, but who wanted them to read it.
 >
 > **Guest Among Forests (Elf):** The Archives have a small, hidden garden on the roof. The old archivist tends it; jasmine and mint, growing in the grey light. You sense it through the stone and wood above you. If you need to return to this place unseen, the garden is your anchor.
 >
@@ -1109,9 +1115,9 @@ This discovery gives the players a connection to the Shadow and a piece of the l
 >
 > **Iron Wall (Knight):** The name Yun Shu belonged to someone who sat where you now sit. They did their job for twelve years and were destroyed for it. You feel a strange kinship with this dead stranger. Their fate is a warning. Their memory is a responsibility. You touch the faded red cloth of the file and make a silent promise: you will not let their fate be forgotten.
 >
-> **Bright Mirror (Paladin):** The Shadow's note to Yun Shu carries a spiritual weight that makes your chest ache. She tried to save them. She failed. She has been carrying that failure for thirty years. The guilt in her words is older than some of the players. You feel the echo of her grief in the faded ink.
+> **Bright Mirror (Paladin):** The Shadow's note to Yun Shu is evidence of an old failure, not a window into his soul. The repeated apologies, the warning to stop, and the same hiding method used fifteen years later show that he tried to intervene and still follows the pattern born from that loss. Grief and guilt fit the record, but you mark them as conclusions to test if you meet him.
 >
-> **Shadow (Rogue):** The dead-drop method used to hide this file in the Archives matches the technique used for the warning note. Same sender, same methodology. The Shadow has been operating in this building for decades, using the same routes, the same hiding places. You could, with time, map her entire network by finding other mis-shelved volumes. _If the Shadow is a player character, you know this hiding place. You have used it yourself. The file was not placed by the Shadow NPC; it was placed by you, or by an ally who uses your methods._
+> **Shadow (Rogue):** The dead drop method used to hide this file in the Archives matches the technique used for the warning note. Same sender, same methodology. The Shadow has been operating in this building for many years, using the same routes, the same hiding places. You could, with time, map his entire network by finding other deliberately misplaced volumes. _If the Shadow is a player character, you know this hiding place. You have used it yourself. The file was not placed by the Shadow NPC; it was placed by you, or by an ally who uses your methods._
 >
 > **Duke of Eternal Night (Vampire):** The silence of the Archives is different from the silence of the grave. It is a living silence, held in the breath of the sleeping archivist. But beneath it, you hear something else. A heartbeat. Not the archivist's. Someone else is in the stacks, watching. They are very still. They are very patient.
 >
@@ -1182,7 +1188,7 @@ The shadow is not Ash's. It is something that attached itself to her during her 
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The fluid that leaks from Ash's eyes is not blood; it is a mixture of tears and a dark corrosive agent produced by the Dusk corruption. You could analyze a sample (Intellect + Alchemy TN 16) to determine the stage of her corruption. The shadow's attachment is advanced. She has weeks, not months.
+> **Cinnabar Heart (Alchemist):** The fluid that leaks from Ash's eyes is not blood; it is a mixture of tears and a dark corrosive agent produced by the Dusk corruption. You could analyze a sample (Intellect + Craft TN 16) to determine the stage of her corruption. The shadow's attachment is advanced. She has weeks, not months.
 >
 > **Night Warbler (Assassin):** Ash's shadow moves independently, which means there is something inside her that can be killed. If the shadow is a passenger, it can be separated from the host. You know methods. They are not gentle. They are not approved by any school. But they exist.
 >
@@ -1192,13 +1198,13 @@ The shadow is not Ash's. It is something that attached itself to her during her 
 >
 > **Iron Wall (Knight):** Ash is not a threat. She is a victim. But her shadow is something else. You position yourself between her and the party, hand near your weapon. Not to threaten her; to protect her from anyone who might see her as a danger and act rashly.
 >
-> **Bright Mirror (Paladin):** The Dusk corruption registers on your Alignment sense as a wound, not a sin. Ash did not choose this. She is not guilty. But the thing attached to her; the shadow; registers as something else. Not evil in the human sense. Something older. Something hungry.
+> **Bright Mirror (Paladin):** Truth Sight offers no moral verdict on Ash or her shadow. Instead, examine what is present: restraint marks on Ash's wrists, defensive wounds, and changes consistent with prolonged exposure rather than willing initiation. Those signs support that she was harmed, not that she chose this. The shadow reacts to secrets and proximity, but its age, motives, and morality remain open questions.
 >
-> **Shadow (Rogue):** Ash's shadow told her your secrets. This means the shadow has access to information it should not have. Either it can read minds, or it has access to a network of information that extends beyond Ash's perception. A shadow that knows things is a shadow that can be interrogated. _If the Shadow is a player character, you recognize the shadow's behavior; this is not a random Dusk attachment. It is a specific entity, known in certain circles as a Whisper-Shade. It feeds on secrets and grows stronger the more it learns._
+> **Shadow (Rogue):** Ash's shadow told her your secrets. This means the shadow has access to information it should not have. Either it can read minds, or it has access to a network of information that extends beyond Ash's perception. A shadow that knows things is a shadow that can be interrogated. _If the Shadow is a player character, you recognize the shadow's behavior; this is not a random Dusk attachment. It is a specific entity, known in certain circles as a Whisper Shade. It feeds on secrets and grows stronger the more it learns._
 >
 > **Duke of Eternal Night (Vampire):** The shadow is drawn to you. Not in aggression; in recognition. It knows what you are. The Dusk and the night share a border, and things cross between them. The shadow whispers to Ash in a language you almost understand. It is ancient. It predates the Court.
 >
-> **Iron Bone (Werewolf):** Ash's scent is wrong. The corruption has permeated her entirely, but beneath it, your nose detects something familiar: the same ozone-and-burnt-metal smell from the Qi warehouse. The Dusk and the stolen Qi share a chemical signature. Make a Resolve TN 14 check to file this connection without reacting visibly. This is important information.
+> **Iron Bone (Werewolf):** Ash's scent is wrong. The corruption has permeated her entirely, but beneath it, your nose detects something familiar: the same smell of ozone and burnt metal from the Qi warehouse. The Dusk and the stolen Qi share a chemical signature. Make a Resolve TN 14 check to file this connection without reacting visibly. This is important information.
 >
 > **Celestial Book (Wizard):** The shadow attached to Ash is not a spirit. It is a fragment of the Dusk itself; a piece of a larger consciousness that was shattered when the Grey expanded. If you could communicate with it (Intellect + Qi Theory TN 18), you might learn something about the nature of the Dusk that the Court has spent centuries suppressing.
 
@@ -1208,7 +1214,7 @@ Three days before the Audit, a junior official approaches one of the players in 
 
 **Read Aloud:**
 
-A woman in the grey robes of a junior scribe intercepts you in the corridor. She is breathing hard. Her sleeves are ink stained. She looks like she has not slept in days.
+A woman in the grey robes of a junior scribe intercepts you in the corridor. She is breathing hard. Her sleeves are stained with ink. She looks like she has not slept in days.
 
 She presses a folded piece of paper into your hand without preamble and whispers: "You investigated the Qi reserves. You talked to Wei Liang at the northern warehouse. They know. They have been watching you since you left. I know because I processed the gate records that day. I saw your names on the log. It was flagged for the Commission within six hours."
 
@@ -1237,31 +1243,31 @@ She flees before anyone can stop her. She does not look back.
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** Scribe Hui's ink-stained sleeves are not from her own work. The stains are too high on the forearm, the angle wrong for a writer. She has been handling documents that were stored in a damp place; the ink has transferred from old records, not fresh writing. She has been accessing archived gate logs, not current ones. She went looking for evidence before coming to you.
+> **Cinnabar Heart (Alchemist):** The ink stains on Scribe Hui's sleeves did not come from her own work. The stains are too high on the forearm, the angle wrong for a writer. She has been handling documents that were stored in a damp place; the ink has transferred from old records, not fresh writing. She has been accessing archived gate logs, not current ones. She went looking for evidence before coming to you.
 >
 > **Night Warbler (Assassin):** Scribe Hui is being followed. You notice it before she does: a figure at the far end of the corridor who turns away when you look. Commission agent, or Crimson Lineage watcher. Either way, the conversation with Hui has been observed. You have maybe ten minutes before the watcher reports in.
 >
 > **Guest Among Forests (Elf):** The corridor where Hui intercepts you has a window box with dying herbs. They are not dying from neglect; they have been poisoned. Someone put a slow toxin in the soil, keyed to release a specific Qi frequency. The same frequency you felt in the Qi warehouse. The Crimson Lineage is marking its territory.
 >
-> **Iron Calculation (Engineer):** The request file Hui describes; all records related to your department for the past month; represents a systematic intelligence-gathering operation. Someone is building a profile of every person in your department. Not just political enemies; everyone. This is not about silencing opposition. This is about identifying leverage.
+> **Iron Calculation (Engineer):** The request file Hui describes; all records related to your department for the past month; represents a systematic intelligence collection operation. Someone is building a profile of every person in your department. Not just political enemies; everyone. This is not about silencing opposition. This is about identifying leverage.
 >
 > **Iron Wall (Knight):** You should escort Scribe Hui to safety. She has put herself at risk by speaking to you. She will not accept protection, but you can make sure no one follows her when she leaves. Your presence in the corridor, visible and watchful, will deter any immediate reprisal.
 >
-> **Bright Mirror (Paladin):** Scribe Hui is telling the truth. Every word. Her fear is genuine, her information is accurate, and she is in real danger. The Crimson Lineage seal on the request forms is a smoking gun; but the gun is aimed at her, not at the players. Her courage in coming forward deserves recognition. A small gesture of thanks, sincere and without strings, means more to her than any political favor.
+> **Bright Mirror (Paladin):** While Truth Sight is active, none of Hui's spoken claims registers as a lie. That does not prove her information is accurate. Her copied reference numbers match the gate log format, and the seal impression can be checked against official examples. Those details make her account credible and give you a path to verify it. Her decision to come forward deserves recognition, but protect her before assuming you know what she needs.
 >
-> **Shadow (Rogue):** The Crimson Lineage requesting all records on your department means they are building a file on everyone, not just the players. They are casting a wide net. This is either paranoia or preparation for a large-scale operation. You know which is more likely. _If the Shadow is a player character, you have a counter-operation: a contact in the records office who can intercept future requests and alert you. Make a Presence + Contacts TN 14 check to activate this asset._
+> **Shadow (Rogue):** The Crimson Lineage requesting all records on your department means they are building a file on everyone, not just the players. They are casting a wide net. This is either paranoia or preparation for a major operation. You know which is more likely. _If the Shadow is a player character, you have a countermove: a contact in the records office who can intercept future requests and alert you. Make a Presence + Connections TN 14 check to activate this asset._
 >
 > **Duke of Eternal Night (Vampire):** The watcher at the end of the corridor is not an ordinary agent. Their heartbeat is too slow, their breathing too measured. They have been trained in surveillance; real training, not the Ministry's standard issue. The Crimson Lineage has its own intelligence service, independent of the Commission.
 >
-> **Iron Bone (Werewolf):** The watcher's scent reaches you on the stale corridor air. They have been eating well, sleeping regularly, and washing with expensive soap. This is not a street-level operative. This is someone with rank. The Crimson Lineage sent a supervisor to watch the players. You are being taken seriously.
+> **Iron Bone (Werewolf):** The watcher's scent reaches you on the stale corridor air. They have been eating well, sleeping regularly, and washing with expensive soap. This is not a junior operative. This is someone with rank. The Crimson Lineage sent a supervisor to watch the players. You are being taken seriously.
 >
-> **Celestial Book (Wizard):** You could place a minor tracing ward on Scribe Hui before she leaves. Not to spy on her; to protect her. The ward would trigger if someone uses magic to compel or harm her. Intellect + Qi Theory TN 14. On success, you will know if she is taken against her will. On failure, the ward is too weak to last more than a day.
+> **Celestial Book (Wizard):** You could place a minor tracing ward on Scribe Hui before she leaves. Not to spy on her, but to protect her. The ward would trigger if someone uses a Qi Technique to compel or harm her. Intellect + Qi Theory TN 14. On success, you will know if she is taken against her will. On failure, the ward is too weak to last more than a day.
 
 ### Part Three Faction Standing Texture
 
 As the investigation deepens, the world around the players responds:
 
-- **If the players discovered the predecessor's file and the Shadow's note:** The Archivist on duty when you visited is transferred the next day. No explanation. Her replacement is young, silent, and never meets your eyes. The Archives have been locked down. You will not find another hidden file in this building.
+- **If the players discovered the predecessor's file and the Shadow's note:** The Archivist on duty when you visited is transferred the next day. No explanation. His replacement is young, silent, and never meets your eyes. The Archives have been locked down. You will not find another hidden file in this building.
 - **If the players helped Ash (the Dusk refugee):** A small package appears at your door: dried herbs wrapped in cloth, with a note in an unsteady hand: "For tea. It helps with the dreams." Ash is still free. She remembers you.
 - **If the players turned Ash over to the authorities:** The market gossip changes. People speak of a woman taken by the Commission, her screams heard from underground. The stories grow each day. By the end of the week, she has become a legend; the woman who saw the Grey and brought it back with her.
 - **If the players spoke to Scribe Hui:** The day after your conversation, Scribe Hui's desk is empty. Officially, she has been granted emergency leave for a family illness. Unofficially, her chair is still warm when you pass. The gate records office is now staffed by a Commission agent in scribe's robes.
@@ -1315,9 +1321,9 @@ Use this timeline to pace the session and create a sense of mounting pressure. E
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The Commission agent who catalogued your documents wore gloves treated with a chemical preservative; standard for handling evidence. But they touched your personal effects without gloves. They were not looking for documents. They were leaving something behind. Check your belongings for a listening device or tracking mark.
+> **Cinnabar Heart (Alchemist):** The Commission agent who cataloged your documents wore gloves treated with a chemical preservative; standard for handling evidence. But they touched your personal effects without gloves. They were not looking for documents. They were leaving something behind. Check your belongings for a listening device or tracking mark.
 >
-> **Night Warbler (Assassin):** The curfew patrol pattern is predictable. Commission agents move in pairs, covering the east-west corridor every twelve minutes, the north-south every eight. If someone needs to move during curfew, the gaps are in the north-south patrol cycle; a two-minute window every eight minutes.
+> **Night Warbler (Assassin):** The curfew patrol pattern is predictable. Commission agents move in pairs, covering the corridor from east to west every twelve minutes and the corridor from north to south every eight. If someone needs to move during curfew, the gaps are in the north to south patrol cycle; a window of two minutes every eight minutes.
 >
 > **Guest Among Forests (Elf):** The quiet before the Audit affects the city's plants. The herbs in the window boxes have stopped growing. The courtyard tree, already dead, seems more still than before. Nature feels the tension of the Court. You spend a moment grounding yourself against the bark of a living tree in the Ministry's hidden garden. You will need this calm tomorrow.
 >
@@ -1327,7 +1333,7 @@ Use this timeline to pace the session and create a sense of mounting pressure. E
 >
 > **Bright Mirror (Paladin):** In the final quiet hour, you meditate on the choices that led here. Each decision was a thread in a tapestry you can now see clearly. The Audit will judge you, but the truer judgment has already happened; in the moments when you chose fear over courage, or courage over fear. Align yourself with what you believe, regardless of the outcome.
 >
-> **Shadow (Rogue):** The night before an operation is when nerves fray. You have been here before, in other contexts, with other stakes. You know the rhythm: the long wait, the dry mouth, the inventory of contingencies. You check your hidden tools one last time. A blade in the boot. A lockpick in the lining. A forged document in the secret pocket. You are ready. _If the Shadow is a player character, the night before the Audit is when you receive a final message from your contact network. A single sentence, delivered by a street child: "The Bright Mirror has been seen in the Commission headquarters. She will observe the Audit personally."_
+> **Shadow (Rogue):** The night before an operation is when nerves fray. You have been here before, in other contexts, with other stakes. You know the rhythm: the long wait, the dry mouth, the inventory of contingencies. You check your hidden tools one last time. A blade in the boot. A lockpick in the lining. A forged document in the secret pocket. You are ready. _If the Shadow is a player character, the night before the Audit is when you receive a final message from your contact network. A single sentence, delivered by a street child: "The Bright Mirror has been seen in the Commission headquarters. He will observe the Audit personally."_
 >
 > **Duke of Eternal Night (Vampire):** The night is your time of power, but this night is different. Tomorrow's dawn will bring the Audit; the hour of your greatest vulnerability. You feel the sun's approach hours before it arrives, a pressure at the edge of your awareness. The others sleep. You do not. You wait for the grey light that will test you.
 >
@@ -1345,7 +1351,7 @@ A knock at your door, late in the afternoon. No one is there when you open it. B
 
 It is a jade pendant carved with the seal of the Commission for Celestial Purity. You recognize it. It is authentic. It is the kind of pendant worn by Commission agents to identify themselves during investigations. If you wear it during the Audit, you might be mistaken for Commission staff. This could help. It could also get you killed. There is no note. But you recognize the wrapping. It is the same quality of paper as the warning note you received seven days ago.
 
-**Host Note:** The Shadow is watching. She cannot intervene directly, but she can provide tools. The pendant allows a player to attempt a deception during the Audit: a contested Presence + Deception vs the Justicar's Insight (14). On success, the player is briefly mistaken for Commission staff and gains a momentary advantage. Risk decreases by one level. On failure, the deception is discovered. Risk increases by two levels.
+**Host Note:** The Shadow is watching. He cannot intervene directly, but he can provide tools. The pendant allows a player to attempt a deception during the Audit: a contested Presence + Deception vs the Justicar's Insight (14). On success, the player is briefly mistaken for Commission staff and gains a momentary advantage. Risk decreases by one level. On failure, the deception is discovered. Risk increases by two levels.
 
 **Last Minute Scene 2: The Verdant Path's Gratitude**
 
@@ -1355,9 +1361,9 @@ A street child finds you in the market. She is eight, maybe nine, with dirt on h
 
 The note is from Junior Archivist Lin. The handwriting is still hurried, still nervous, but there is something steadier in it now.
 
-> _Tao Chen is safe. He made it through the South Gate. He is on the river road heading east. Before he left, he asked me to tell you that the evidence is with the Bright Mirror now. She has not acted on it yet. She is waiting. Watching. But she knows. She knows about the embezzlement. She knows about the Golden Orthodoxy. She knows about the Crimson Lineage accounts._
+> _Tao Chen is safe. He took the route you chose and is now east of the city. Before he left, he sent a sealed packet for you. It contains the evidence he promised. He also sent word to a Bright Mirror contact, but no documents. What happens to the evidence is your choice._
 >
-> _If the Audit goes badly for you, mention her name. The Bright Mirror owes a debt to anyone who brings her truth. She may not save you, but she will remember you._
+> _If the Audit goes badly for you, say Tao's name and say that you can prove what he found. The Bright Mirror may not save you, but he cannot ignore verified truth placed before him._
 >
 > _I owe you a debt as well. A personal one. If you need me, ask for Lin at the Eastern Repository. I will come. I am not afraid anymore._
 >
@@ -1381,25 +1387,25 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** The Shadow's jade pendant is genuine Commission issue. But there is a hairline fracture near the suspension hole; a flaw that could cause it to break at a critical moment. You could reinforce it with a clear resin (Intellect + Alchemy TN 12) to ensure it holds. The repair is invisible unless inspected closely.
+> **Cinnabar Heart (Alchemist):** The Shadow's jade pendant is genuine Commission issue. But there is a hairline fracture near the suspension hole; a flaw that could cause it to break at a critical moment. You could reinforce it with a clear resin (Intellect + Craft TN 12) to ensure it holds. The repair is invisible unless inspected closely.
 >
 > **Night Warbler (Assassin):** The pendant is a gift, but also a test. The Shadow wants to see what the players do with it. Use it recklessly, and it burns a resource. Use it wisely, and it saves a life. You have seen this kind of test before. The pendant is not the real gift; the real gift is the knowledge that the Shadow is watching and willing to help.
 >
-> **Guest Among Forests (Elf):** Lin's note mentions the Bright Mirror. You have never met her, but you have felt her presence in the city; a presence like clean water in a stagnant pool. She is not corrupted by the Court. She is rare. The Verdant Path has delivered the evidence to the one person who might actually use it.
+> **Guest Among Forests (Elf):** Lin's note mentions the Bright Mirror. You have never met him, but you have felt his presence in the city, like clean water in a stagnant pool. He is not untouched by the Court, but he still responds to evidence. Tao has trusted the players to decide whether the documents should reach him.
 >
 > **Iron Calculation (Engineer):** Wei's final offer reveals a key piece of intelligence: the Bureau knows about the warehouse visit, the Verdant Path smuggling, AND Commissioner Zhang's investigation. They have a source inside the Iron Calculation. Someone on Zhang's team is reporting to the Golden Orthodoxy. This information is worth more than any deal.
 >
 > **Iron Wall (Knight):** Censor Wei's final visit feels like the moment before a battle when the enemy commander offers surrender terms. The honorable response is to refuse. But honor does not fill empty desks. You weigh your oath against your duty to protect the party. There is no clean answer.
 >
-> **Bright Mirror (Paladin):** Wei's final words carry a spiritual weight; he genuinely believes he is offering mercy. That is the tragedy of the Golden Orthodoxy: its servants believe they are saving the empire. They do not see the monster they serve because they are inside it. You feel pity for him, despite everything.
+> **Bright Mirror (Paladin):** If Wei says, "I believe this is mercy," Truth Sight marks no lie. That establishes only his stated belief, not whether the offer is merciful or whether he has told the whole story. His practiced wording and refusal to name the consequences show how completely institutional logic frames his judgment. You may pity him, but keep compassion separate from exoneration.
 >
-> **Shadow (Rogue):** The Shadow's gift; the pendant; is a masterstroke. It provides plausible deniability and a tactical option without forcing the players' hand. This is how you build trust with assets: give them tools, not orders. File this lesson away. _If the Shadow is a player character, you may recognize the specific seal on the pendant; it is a replica of an older Commission design, before the current standardization. The Shadow has been collecting these for decades. She has a whole collection._
+> **Shadow (Rogue):** The Shadow's gift; the pendant; is a masterstroke. It provides plausible deniability and a tactical option without forcing the players' hand. This is how you build trust with assets: give them tools, not orders. File this lesson away. _If the Shadow is a player character, you may recognize the specific seal on the pendant; it is a replica of an older Commission design, before the current standardization. The Shadow has been collecting these for decades. He has a whole collection._
 >
 > **Duke of Eternal Night (Vampire):** The street child who delivered Lin's note has the hollow look of an orphan of the border wars. Her Qi is faint, depleted. She will not live to see thirty unless someone intervenes. The Verdant Path uses children as messengers because they are invisible and expendable. The Court consumes everyone eventually.
 >
 > **Iron Bone (Werewolf):** Censor Wei's scent changes when he makes his final offer. The cold politeness drops for a fraction of a second, and beneath it you smell fear. He is afraid too. Not of the players; of whoever is above him. He is under pressure from above, and the players are his last chance to deliver what his superiors demand. Make a Resolve TN 12 check to keep a predatory smile from crossing your face when you sense his weakness.
 >
-> **Celestial Book (Wizard):** The jade pendant has a faint enchantment; not a spell, but a resonance. It has been worn by someone with Authority in the Commission. The residual Qi might be enough to fool a casual inspection but not a dedicated magical scan. Use it for quick deception, not sustained impersonation.
+> **Celestial Book (Wizard):** The jade pendant carries a faint ritual resonance. It has been worn by someone with Authority in the Commission. The residual Qi might be enough to fool a casual inspection but not a dedicated Qi scan. Use it for quick deception, not sustained impersonation.
 
 > **OPTIONAL COMBAT ENCOUNTER: Assassination Attempt During the Night**
 >
@@ -1414,7 +1420,7 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 > **Zone Layout:**
 >
 > - Zone 1: **Players' Quarters** (a single room with cots, a table, a window overlooking the courtyard. The door is the only entrance. Window is two storeys up; Swiftness + Athletics TN 14 to jump safely, or use the dead tree as a climbing aid.)
-> - Zone 2: **Corridor** (the Ministry hallway outside the quarters. Narrow, stone-walled, poorly lit. Doors to other quarters are locked. A service stairwell at the far end leads down to the ground floor.)
+> - Zone 2: **Corridor** (the Ministry hallway outside the quarters. Narrow, poorly lit, with stone walls. Doors to other quarters are locked. A service stairwell at the far end leads down to the ground floor.)
 > - Zone 3: **Courtyard Below** (accessible from the window. The dead tree provides a partial anchor for descent. Contains the dead, poisoned tree; the only landmark in the open space.)
 >
 > **Enemy Stats:**
@@ -1422,16 +1428,16 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 > **Option A: Dusk Hounds (if the Crimson Lineage is the attacker)**
 >
 > - **Dusk Hound (x2):** Combat 12, Defense 8, Resilience 8, Wounds 4. Twisted creatures; once human, now corrupted by exposure to refined Qi. They fight with claws (Damage 1d8) and have a disturbing howl that causes Fear (Resolve TN 12 or lose one action).
-> - **Tactics:** The hounds attempt to break the door down. They ignore all non-threatening targets to reach the player who led the Iron Calculation investigation.
+> - **Tactics:** The hounds attempt to break the door down. They ignore every target that poses no threat and charge the player who led the Iron Calculation investigation.
 >
-> **Option B: Crimson Lineage Agents (if the Golden Orthodoxy is the attacker)**
+> **Option B: Assassins Disguised as Commission Messengers (if the Golden Orthodoxy arranged the attack)**
 >
-> - **Commission-Assassin (x2):** Combat 14, Defense 12, Resilience 6, Wounds 2. Human agents wearing Commission messenger uniforms. Armed with poisoned blades (Damage 1d6+2, plus Resolve TN 14 or lose 1d4 Sanity from the poison's hallucinogenic effect).
-> - **Tactics:** They enter quietly, targeting the player who refused to sign. If discovered, they attempt to escape rather than fight to the death. One carries a message bearing the seal of the Crimson Lineage, ordering the "silencing of witnesses."
+> - **Disguised Assassin (x2):** Combat 14, Defense 12, Resilience 6, Wounds 2. Human agents wearing stolen or forged Commission messenger uniforms. Their actual employer is not evident. They carry poisoned blades (Damage 1d6+2, plus Resolve TN 14 or lose 1d4 Sanity from the poison's hallucinogenic effect).
+> - **Tactics:** They enter quietly and target the player who refused the denunciation and protected Tao. If discovered, they try to escape rather than fight to the death. One carries orders bearing a Crimson Lineage seal and demanding that the witnesses be silenced. The evidence suggests a link between the Golden Orthodoxy and the Crimson Lineage, but it does not establish who hired the killers or whether the Commission was involved at all.
 >
 > **Victory Outcomes:**
 >
-> - **Defeat the assassins (Dusk Hounds):** The hounds dissolve into black smoke when killed, leaving only collars marked with a Crimson Lineage crest. The players now have physical evidence that the old families are using Dusk-corrupted creatures within the city walls. This evidence can be used during the Audit to redirect suspicion.
+> - **Defeat the assassins (Dusk Hounds):** The hounds dissolve into black smoke when killed, leaving only collars marked with a Crimson Lineage crest. The players now have physical evidence that the old families are using creatures corrupted by the Dusk within the city walls. This evidence can be used during the Audit to redirect suspicion.
 > - **Defeat the assassins (Agents):** One agent can be captured alive. Interrogation (Presence + Intimidation TN 16) reveals the meeting point and the name of a middleman. The agent does not know who ultimately hired them. Capturing an assassin alive also provides the poisoned blade as evidence.
 > - **The assassins escape:** The players have no proof, only the certainty that someone tried to kill them. The threat remains. One player's Risk increases by one level as the Commission learns of the "disturbance" and attributes it to the player's "unreliable associates."
 > - **Flee through the window:** The party escapes into the courtyard, raising the alarm. Commission agents arrive and find the assassins gone. The players are questioned about why they were outside their quarters during curfew. Each player's Risk increases by one level.
@@ -1441,9 +1447,9 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 > - **Iron Bone (Werewolf):** Can Wolf Rise to fight the Dusk Hounds as a wolf. The hounds recognize the wolf as an equal predator. Make a Resolve TN 14 check to maintain control. On success, one hound hesitates for a round, giving the party a free action.
 > - **Night Warbler (Assassin):** Can use Opening Kill on the lead agent as they enter the room. A successful strike reduces the encounter by one enemy before combat formally begins.
 > - **Iron Wall (Knight):** Can use Immovable to hold the door, buying the party time to prepare. While holding, the Knight can take no other actions but cannot be moved from the threshold.
-> - **Shadow (Rogue):** Can Shadow Step through the corridor (2 zones) to flank the assassins from behind, or escape the quarters and circle around to trap them. _If the Shadow is a player character, you may have anticipated this attack. Make a Presence + Intrigue TN 14 check to have set a minor trap before sleeping; a tripwire, a noise-maker, or a false door; that gives the party a surprise round._
-> - **Guest Among Forests (Elf):** The dead tree in the courtyard has roots that extend into the Ministry foundations. Even dead, it can serve as a limited Wood Walking anchor for a short-range escape to the ground floor.
-> - **Celestial Book (Wizard):** Can cast a blinding flash in the corridor (Intellect + Qi Theory TN 14) to disorient the attackers as they enter, giving the party a full round of free actions.
+> - **Shadow (Rogue):** Can Shadow Step through the corridor (2 zones) to flank the assassins from behind, or escape the quarters and circle around to trap them. _If the Shadow is a player character, you may have anticipated this attack. Make a Presence + Connections TN 14 check to have set a minor trap before sleeping; a tripwire, a noise maker, or a false door; that gives the party a surprise round._
+> - **Guest Among Forests (Elf):** The dead tree in the courtyard has roots that extend into the Ministry foundations. Even dead, it can serve as a limited Wood Walking anchor for an escape over a short distance to the ground floor.
+> - **Celestial Book (Wizard):** Can use a blinding flash technique in the corridor (Intellect + Qi Theory TN 14) to disorient the attackers as they enter, giving the party a full round of free actions.
 >
 > **Faction Standing Changes:**
 >
@@ -1467,7 +1473,7 @@ On your pillow, a single object: a crimson flower petal. Fresh. Perfectly preser
 
 - **Report the threat to the Garrison Command.** They gain the Iron Wall's attention, but he cannot intervene in civilian matters. He makes a note. He cannot spare any soldiers for personal protection. The threat remains.
 
-- **Ask the Shadow for protection.** She agrees, for a favor to be named later. The player's quarters are watched by unseen eyes. Nothing happens that night. But the debt remains. The Shadow does not forget.
+- **Ask the Shadow for protection.** He agrees, for a favor to be named later. The player's quarters are watched by unseen eyes. Nothing happens that night. But the debt remains. The Shadow does not forget.
 
 - **Do nothing and accept the increased Audit risk.** One player's Risk increases by one level. The Crimson Lineage interprets inaction as weakness. They will act again.
 
@@ -1479,9 +1485,9 @@ On your pillow, a single object: a crimson flower petal. Fresh. Perfectly preser
 >
 > **Night Warbler (Assassin):** The search of your quarters was professional. Nothing was broken. Nothing was taken. They were not looking for documents or valuables; they were leaving a message. The message is that they can enter your locked room at any time. The petal is the period at the end of the sentence.
 >
-> **Guest Among Forests (Elf):** The flower petal is fresh, but the plant it came from grows in a specific climate; arid, high-altitude. There is only one greenhouse in the capital that can sustain such plants. It belongs to the Feng family estate. The Crimson Lineage is telling you exactly which family you are dealing with.
+> **Guest Among Forests (Elf):** The flower petal is fresh, but the plant it came from grows in a specific climate; arid and high in elevation. There is only one greenhouse in the capital that can sustain such plants. It belongs to the Feng family estate. The Crimson Lineage is telling you exactly which family you are dealing with.
 >
-> **Iron Calculation (Engineer):** The search was conducted by someone who knows lock mechanisms. Your lock shows no signs of force. They either had a key or a pick of exceptional quality. Given the Ministry's standard-issue locks, a skilled operative could open it in under thirty seconds. The security gap is not personal; it is systemic.
+> **Iron Calculation (Engineer):** The search was conducted by someone who knows lock mechanisms. Your lock shows no signs of force. They either had a key or a pick of exceptional quality. Given the standard locks issued by the Ministry, a skilled operative could open one in under thirty seconds. The security gap is not personal; it is systemic.
 >
 > **Iron Wall (Knight):** This is an act of war. Not the open kind, but war nonetheless. The crimson petal is a declaration that the old families consider the players targets. You respond by doubling your watch, checking every lock, and sleeping in your armor. The Court may not recognize open conflict, but you know what this is.
 >
@@ -1493,15 +1499,15 @@ On your pillow, a single object: a crimson flower petal. Fresh. Perfectly preser
 >
 > **Iron Bone (Werewolf):** The intruder's scent lingers. Expensive soap, a specific brand used by the upper echelons of the old families. And beneath that, a faint metallic tang; not blood, but the oil used to maintain fine weapons. The intruder was armed, wealthy, and confident enough to not rush. You could track this scent through the Ministry if given a chance.
 >
-> **Celestial Book (Wizard):** The petal has a faint enchantment; a tracking mark. If you hold it and cast a detection spell (Intellect + Qi Theory TN 14), you can follow the magical thread back to its source. It leads to the Feng family estate in the Jade District. The petal is not just a message. It is a beacon.
+> **Celestial Book (Wizard):** The petal carries a faint tracking mark. If you hold it and use a detection technique (Intellect + Qi Theory TN 14), you can follow the Qi thread back to its source. It leads to the Feng family estate in the Jade District. The petal is not just a message. It is a beacon.
 
 ### Complication: The Embezzlement Evidence
 
-If the players helped the Verdant Path smuggle the official out, the embezzlement evidence reaches them (the official sends it as thanks). This evidence implicates a mid ranking Golden Orthodoxy figure. The players can:
+If the players helped the Verdant Path smuggle the official out, the embezzlement evidence reaches them (the official sends it as thanks). This evidence implicates a Golden Orthodoxy figure in the middle ranks. The players can:
 
 - **Use it as leverage during the Audit** (reduces one player's Risk by one level). They present the evidence to the Justicar, redirecting attention from themselves to the corrupt official.
 
-- **Deliver it to the Bright Mirror** (gain her attention and +10 Faction Standing with the Commission, but the Golden Orthodoxy will eventually learn who provided the evidence). The Bright Mirror thanks them formally. She will remember their service. So will the Golden Orthodoxy.
+- **Deliver it to the Bright Mirror** (gain his attention and +10 Faction Standing with Bright Mirror, but the Golden Orthodoxy will eventually learn who provided the evidence). The Bright Mirror thanks them formally. He will remember their service. So will the Golden Orthodoxy.
 
 - **Destroy it and never speak of it.** The evidence is gone. The players cannot be linked to it. But the knowledge remains. They know what the Golden Orthodoxy has done. That knowledge is heavy.
 
@@ -1527,13 +1533,13 @@ If the players helped the Verdant Path smuggle the official out, the embezzlemen
 >
 > **Guest Among Forests (Elf):** The Auspice of the city shifts as dawn approaches. The plants in the Ministry garden are curling into themselves, reacting to the tension. You spend a moment in the garden, breathing with them. The calm you find there will sustain you through the Audit.
 >
-> **Iron Calculation (Engineer):** The Celestial Favor economy is a resource like any other. You calculate the optimal allocation: spending 5 Celestial Favor to reduce Risk is mathematically sound if the player's base Risk is Moderate or higher. For Minimal Risk players, Celestial Favor is better saved. Present this analysis to the party as a cost-benefit breakdown.
+> **Iron Calculation (Engineer):** The Celestial Favor economy is a resource like any other. You calculate the optimal allocation: spending 5 Celestial Favor to reduce Risk is mathematically sound if the player's base Risk is Moderate or higher. For Minimal Risk players, Celestial Favor is better saved. Present this analysis to the party as a comparison of cost and benefit.
 >
 > **Iron Wall (Knight):** If someone must throw another to the wolves to save the party, you will not be the one to do it. You will also not stop someone else from doing it. Survival in the Court requires compromises you do not like. You stand apart, silent, as the others make their final calculations.
 >
-> **Bright Mirror (Paladin):** The embezzlement evidence is a weapon. How you use it defines you. If you use it to save yourself at the expense of another, you become what the Court makes of everyone. If you use it to expose the truth regardless of personal cost, you become something the Court cannot touch. The choice is yours, but the Alignment cost is real.
+> **Bright Mirror (Paladin):** The embezzlement evidence is a weapon. How you use it defines you. If you use it to save yourself at another person's expense, you become what the Court makes of everyone. If you expose the truth regardless of personal cost, you become something the Court cannot touch. The choice is yours, and the moral cost is real.
 >
-> **Shadow (Rogue):** Hiding evidence is an art. You know the best places in the Ministry: behind the loose stone in the third-floor alcove, inside the hollow leg of the reading room table, beneath the floorboard in the unused storage room. The Commission will search standard locations. They will not find what you have hidden. _If the Shadow is a player character, you have a personal cache in the Ministry that no one else knows about. Roll Presence + Intrigue TN 12 to see if you have stashed anything useful there in advance._
+> **Shadow (Rogue):** Hiding evidence is an art. You know the best places in the Ministry: behind the loose stone in the alcove on the third floor, inside the hollow leg of the reading room table, beneath the floorboard in the unused storage room. The Commission will search standard locations. They will not find what you have hidden. _If the Shadow is a player character, you have a personal cache in the Ministry that no one else knows about. Roll Presence + Connections TN 12 to see if you have stashed anything useful there in advance._
 >
 > **Duke of Eternal Night (Vampire):** The final night before the Audit, you do not sleep. You stand at the window, watching the stars wheel overhead. The constellations are different here than in your homeland. You have been in Xiaoyuan long enough that the sky is starting to feel familiar. That is dangerous. Familiarity breeds attachment, and attachment breeds vulnerability.
 >
@@ -1604,27 +1610,27 @@ She does not introduce herself. She does not explain the procedure. She begins i
 
 "State your name, your position, and the names of everyone in your immediate department."
 
-Follow Up: "You hesitated on the last name. Why? The Commission notices hesitation. Hesitation is a form of speech. What were you thinking about in that moment before you spoke?"
+Further Question: "You hesitated on the last name. Why? The Commission notices hesitation. Hesitation is a form of speech. What were you thinking about in that moment before you spoke?"
 
 **Question 2:**
 
 "How long have you held your current position?"
 
-Follow Up: "And before that? Where did you serve? Who was your superior? What was their opinion of your work? Do you have a letter of reference from them?"
+Further Question: "And before that? Where did you serve? Who was your superior? What was their opinion of your work? Do you have a letter of reference from them?"
 
 **Question 3:**
 
 "Do you know why you are here today?"
 
-Follow Up (if yes): "Then you understand the seriousness of this proceeding. Tell me what you believe we have found. Tell me in your own words. I will compare your account to ours."
+Further Question (if yes): "Then you understand the seriousness of this proceeding. Tell me what you believe we have found. Tell me in your own words. I will compare your account to ours."
 
-Follow Up (if no): "Then let me explain. The Commission has received reports regarding your activities during the past week. We are here to determine their veracity. Your answers will determine your fate."
+Further Question (if no): "Then let me explain. The Commission has received reports regarding your activities during the past week. We are here to determine their veracity. Your answers will determine your fate."
 
 **Question 4:**
 
 "Have you, at any time during your service, expressed views that could be interpreted as critical of the Harmonious Way?"
 
-Follow Up: "I ask again. Have you expressed such views? Silence is not an answer. The Commission interprets silence as confirmation. Speak."
+Further Question: "I ask again. Have you expressed such views? Silence is not an answer. The Commission interprets silence as confirmation. Speak."
 
 **Question 5:**
 
@@ -1633,43 +1639,43 @@ Follow Up: "I ask again. Have you expressed such views? Silence is not an answer
 She holds up a page. The content depends on what the players have done:
 
 - If they investigated the Qi siphoning, it is a copy of the warehouse log with their names circled.
-- If they helped the Verdant Path, it is a witness statement describing someone matching their description at the South Gate.
+- If they helped the Verdant Path, it is a witness statement describing people matching them near the route they actually used, either the South Gate or the Riverside jetty.
 - If they signed the denunciation, it is a copy of the document they signed.
 - If they did nothing, it is simply their personnel file, marked with underlines and question marks.
 
-Follow Up: "Where did you obtain this? Who gave it to you? What did you do with it after you had it?"
+Further Question: "Where did you obtain this? Who gave it to you? What did you do with it after you had it?"
 
 **Question 6:**
 
 "Who is your patron in the Court? Name them."
 
-Follow Up: "And what favors have you asked of them recently? What have they asked of you? The Commission is interested in the flow of obligations. Obligations reveal alignment. Alignment reveals truth."
+Further Question: "And what favors have you asked of them recently? What have they asked of you? The Commission is interested in the flow of obligations. Obligations reveal loyalties. Loyalties reveal motive."
 
 **Question 7:**
 
 "During the week before this Audit, you were observed meeting with individuals associated with the Verdant Path. Describe the nature of those meetings."
 
-Follow Up: "I have witnesses. Do not waste my time with denials. The Commission has eyes everywhere. The Commission has ears in every room. The Commission has memory that does not fade."
+Further Question: "I have witnesses. Do not waste my time with denials. The Commission has eyes everywhere. The Commission has ears in every room. The Commission has memory that does not fade."
 
 **Question 8:**
 
 "Your predecessor held this same position. Do you know what happened to them?"
 
-Follow Up: "Do you know why they were Disappeared? Do you know what they were doing in the weeks before their Audit? Have you followed a similar path? Think carefully before you answer."
+Further Question: "Do you know why they were Disappeared? Do you know what they were doing in the weeks before their Audit? Have you followed a similar path? Think carefully before you answer."
 
 **Question 9:**
 
 "What do you know about the Crimson Lineage's activities in this city?"
 
-Follow Up: "I ask because your name appears on several documents that mention the family. Explain the connection. If there is no connection, explain why your name appears."
+Further Question: "I ask because your name appears on several documents that mention the family. Explain the connection. If there is no connection, explain why your name appears."
 
 **Question 10:**
 
 "Is there anything you wish to confess before the Commission reaches its conclusion?"
 
-Follow Up (if yes): "Then speak. This is your only opportunity to offer a full accounting. The Commission values confession. Confession is the first step toward reintegration."
+Further Question (if yes): "Then speak. This is your only opportunity to offer a full accounting. The Commission values confession. Confession is the first step toward reintegration."
 
-Follow Up (if no): "Very well. You have made your choice. The Commission will now deliberate."
+Further Question (if no): "Very well. You have made your choice. The Commission will now deliberate."
 
 **Question 11 (Final):**
 
@@ -1693,11 +1699,11 @@ If the player refuses to answer: "Refusal to answer is an answer. It has been re
 >
 > **Guest Among Forests (Elf):** The Judgment Chamber has no windows and no plants, but you sense the world outside through the stone. Dawn is breaking. The birds in the Ministry courtyard are beginning to sing, unaware of the judgment happening below. The contrast between the living world and this dead room sharpens your focus. Nature continues, indifferent to the Court's power.
 >
-> **Iron Calculation (Engineer):** The interrogation is a system with known parameters. The Justicar reads from a script, with deviations based on the player's responses. You reverse-engineer the pattern: the first three questions establish baseline. Questions 4-7 probe specific areas of vulnerability. Questions 8-10 test for deeper connections. Question 11 is a trap, not an information-gathering tool. Knowing the structure gives you an advantage.
+> **Iron Calculation (Engineer):** The interrogation is a system with known parameters. The Justicar reads from a script, with deviations based on the player's responses. You infer the pattern: the first three questions establish a baseline. Questions 4 through 7 probe specific areas of vulnerability. Questions 8 through 10 test for deeper connections. Question 11 is a trap, not a tool for gathering information. Knowing the structure gives you an advantage.
 >
 > **Iron Wall (Knight):** In the chair, facing the dais, you feel the weight of every choice that brought you here. The Justicar's questions are designed to find weakness, but you have trained your whole life to show none. You answer directly, without elaboration, without flinching. You do not beg. You do not bargain. If the Court judges you, it will judge you as you are.
 >
-> **Bright Mirror (Paladin):** Justicar Meng hides it well, but you sense something beneath her professional mask. Her Ritual Harmony is low; lower than it should be for someone in her position. She is not interrogating you because she believes in the Commission's righteousness. She is interrogating you because she is afraid. If her Ritual Harmony drops much further, she will be the one in this chair next.
+> **Bright Mirror (Paladin):** Meng's professional mask is disciplined, but evidence leaks through it. Her collar bears the pale residue left by repeated purification rites, her script includes a warning normally reserved for officials under review, and her hand pauses whenever the side door opens. These signs suggest that her Ritual Harmony is under scrutiny and that fear shapes this interrogation. They do not reveal her exact score or erase any belief she may still hold in the Commission.
 >
 > **Shadow (Rogue):** The hidden side door. The grey figures. The single chair in the center of the room. The Chamber is designed to disorient, to strip away context and support. You have been in rooms like this before, on the other side of the table. You know the tricks: the deliberate silences, the repeated questions, the sudden shifts in tone. Meng is competent but predictable. _If the Shadow is a player character, you have a contingency: a message has been left with a contact outside, to be delivered if you do not emerge within four hours. The message contains everything you know about the Crimson Lineage's Qi theft. If you fall, you will not fall silently._
 >
@@ -1705,7 +1711,7 @@ If the player refuses to answer: "Refusal to answer is an answer. It has been re
 >
 > **Iron Bone (Werewolf):** The tension in the chamber presses on your chest. The Justicar's questions are designed to provoke, to unsettle, to make you slip. Your wolf wants to answer with a snarl. Make a Resolve TN 14 check to maintain composure. On a failure, your voice drops to a growl on one answer, and Meng's pen pauses for a fraction of a second. She noticed. She will note it.
 >
-> **Celestial Book (Wizard):** The Judgment Chamber has a dampening field woven into the stone; a ritual barrier that suppresses active magic. You cannot cast spells freely here. But the field has a specific frequency, and you could, with concentration (Intellect + Qi Theory TN 18), create a momentary gap in the barrier, just large enough to cast a single cantrip undetected.
+> **Celestial Book (Wizard):** The Judgment Chamber has a dampening field woven into the stone, a ritual barrier that suppresses active techniques. You cannot use techniques freely here. But the field has a specific frequency, and with concentration (Intellect + Qi Theory TN 18), you could create a momentary gap in the barrier, just large enough to use one minor technique undetected.
 
 ### Interrogation Variations
 
@@ -1743,7 +1749,7 @@ Mechanical effect: A single detected lie increases Risk by one level. Multiple l
 >
 > **Guest Among Forests (Elf):** The Cooperative and Defiant variations mirror natural cycles. Meng is not a monster; she is a function of the system, like a tree shaped by prevailing wind. Bend with her, and she passes over you. Resist, and you break. You have seen this pattern in nature. You know which strategy survives.
 >
-> **Iron Calculation (Engineer):** The three variations represent three different optimization strategies. Cooperative = minimize conflict, accept reduced scrutiny. Defiant = draw fire, burn brightly but briefly. Deceptive = accept high risk for potential high reward. Each is valid in different circumstances. Recommend the party coordinate their approaches rather than acting independently.
+> **Iron Calculation (Engineer):** The three variations represent three different optimization strategies. Cooperative = minimize conflict, accept reduced scrutiny. Defiant = draw fire, burn brightly but briefly. Deceptive = accept considerable risk for a potentially great reward. Each is valid in different circumstances. Recommend the party coordinate their approaches rather than acting independently.
 >
 > **Iron Wall (Knight):** The cooperative path feels like surrender, but it is not. It is strategy. You can stand straight and answer honestly without groveling. The knight does not beg, but the knight also does not waste strength fighting a battle that cannot be won. Save your defiance for a fight that matters.
 >
@@ -1755,7 +1761,7 @@ Mechanical effect: A single detected lie increases Risk by one level. Multiple l
 >
 > **Iron Bone (Werewolf):** The Defiant variation is the most dangerous for you. Hostility triggers your wolf. If the party chooses defiance, you should not be the one to speak. Let someone else take point. Make a Resolve TN 14 check to stay silent during the hostile exchanges.
 >
-> **Celestial Book (Wizard):** The Cooperative variation has a hidden benefit that only a wizard would notice: Meng's magical guard drops when she is engaged in a respectful conversation. If the players need to perform a subtle magical observation (reading her aura, detecting her true emotional state), the Cooperative approach provides the best opportunity.
+> **Celestial Book (Wizard):** The Cooperative variation has a hidden benefit that only a wizard would notice: Meng's Qi guard drops when she is engaged in a respectful conversation. If the players need to make a subtle Qi reading of her aura or emotional state, the Cooperative approach provides the best opportunity.
 
 **Justicar Meng's Expanded Dialogue:**
 
@@ -1769,7 +1775,7 @@ She is quiet for a moment. Her pen hovers above the page. Then she sets it down 
 
 _If the players offer a creative solution, such as presenting evidence that redirects the investigation toward the actual perpetrators:_
 
-She examines the evidence carefully. She turns each page. She reads every word. When she finishes, she sets the papers down and looks at the player with a new expression: respect. "This is well organized. You have done thorough work. If the claims in this document are substantiated, they would shift the focus of this investigation significantly. However, I must verify this information through my own channels. That will take time. I will recess the proceeding for one hour. During that time, you will remain in the antechamber. Do not leave the building. Do not speak to anyone. If the evidence proves genuine, your standing in this Audit will be reconsidered." She pauses. "I hope, for your sake, that it is genuine. I would rather investigate a corrupt official than Harmonize someone who was trying to expose corruption."
+She examines the evidence carefully. She turns each page and reads every word. If the players worked with Commissioner Zhang, she checks his seal against the State Planning Commission registry and sends for the reserve ledgers and bank transfer records tied to the listed accounts. Otherwise, she marks each account and date for independent verification. When she finishes, she sets the papers down and looks at the player with a new expression: respect. "This evidence is carefully assembled. If these claims are verified, they will change the direction of this investigation. I must confirm them through the relevant registries, and through Commissioner Zhang's authentication if you obtained it. I will recess the proceeding for one hour. During that time, you will remain in the antechamber. Do not leave the building. Do not speak to anyone. If the evidence proves genuine, your standing in this Audit will be reconsidered." She pauses. "I hope it is genuine. I would rather investigate a corrupt official than Harmonize someone who tried to expose corruption."
 
 _Her mask slips. Her true feelings emerge:_
 
@@ -1792,14 +1798,14 @@ She looks at the player for a long, searching moment. Her professional composure
 > - Zone 1: **The Dais** (raised platform where Justicar Meng sits. Elevated 3 feet above the chamber floor. Provides a commanding view but limited cover.)
 > - Zone 2: **The Chamber Floor** (open stone, 15 paces across. The single chair is the only furniture. Smooth, unobstructed, no cover.)
 > - Zone 3: **The Side Door** (where the grey figures entered. Leads to a corridor that connects to the Ministry's lower levels. Two paces wide, dimly lit. The door is heavy iron, unbarred from this side.)
-> - Zone 4: **The Main Door** (the entrance the player used. Presumably locked from the outside. Swiftness + Lockpicking TN 16 to open, or Strength TN 16 to force.)
+> - Zone 4: **The Main Door** (the entrance the player used. Presumably locked from the outside. Swiftness + Larceny TN 16 to open, or Might TN 16 to force.)
 >
 > **Enemy Stats:**
 >
 > **Commission Enforcers (x2):**
 >
-> - Combat 14, Defense 12, Resilience 8, Wounds 3. Armed with short batons (Damage 1d6, non-lethal) and trained in restraint. They attempt to subdue, not kill.
-> - **Special:** One enforcer carries a set of narrative erasure cuffs; inscribed iron bands that suppress Qi when locked on a target. If the player is cuffed, they cannot use any Qi-based abilities and take a -2 penalty to all actions.
+> - Combat 14, Defense 12, Resilience 8, Wounds 3. Armed with short batons (Damage 1d6, intended to incapacitate) and trained in restraint. They attempt to subdue, not kill.
+> - **Special:** One enforcer carries a set of narrative erasure cuffs; inscribed iron bands that suppress Qi when locked on a target. If the player is cuffed, they cannot use any abilities powered by Qi and take a −2 penalty to all actions.
 >
 > **Justicar Meng (if she joins):**
 >
@@ -1808,7 +1814,7 @@ She looks at the player for a long, searching moment. Her professional composure
 >
 > **Victory Outcomes:**
 >
-> - **Subdue the enforcers and escape:** The player reaches the corridor beyond the side door. They have a 30-second head start before reinforcements arrive. The player escapes the Ministry but is now a fugitive. Their character becomes an NPC (or a solo adventurer, if the rest of the party is willing to play a fugitive arc). The remaining players face increased scrutiny but may claim ignorance of the escape.
+> - **Subdue the enforcers and escape:** The player reaches the corridor beyond the side door. They have a head start of thirty seconds before reinforcements arrive. The player escapes the Ministry but is now a fugitive. Their character becomes an NPC (or a solo adventurer, if the rest of the party is willing to play a fugitive arc). The remaining players face increased scrutiny but may claim ignorance of the escape.
 > - **Hold out until reinforcements arrive:** The player is subdued and taken away. The Disappeared outcome stands. The combat was futile but not meaningless; the player fought, and that choice carries weight for future stories.
 > - **The other players intervene:** If the remaining players choose to fight alongside the condemned, they become fugitives as well. The entire party is now hunted. This is a drastic outcome that changes the campaign into an escape/survival arc. The Host should ensure players understand the consequences before they act.
 >
@@ -1819,7 +1825,7 @@ She looks at the player for a long, searching moment. Her professional composure
 > - **Iron Bone (Werewolf):** Can Wolf Rise in the enclosed chamber. The transformation terrifies the enforcers (Resolve TN 12 or they spend a round frozen). Control check TN 16 due to the stress of the situation.
 > - **Shadow (Rogue):** Can Shadow Step to the main door and attempt to unlock it from the inside while the others hold off the enforcers. _If the Shadow is a player character, you may have sabotaged the main door lock earlier, during your own interrogation. Roll Swiftness + Stealth TN 12 to confirm. On success, the door is already unlocked._
 > - **Guest Among Forests (Elf):** Even without plants, your heightened senses allow you to detect the rhythm of approaching reinforcements through the stone floor. You can time the escape.
-> - **Celestial Book (Wizard):** Can cast a barrier spell on the side door (Intellect + Qi Theory TN 14) to delay reinforcements for an additional round.
+> - **Celestial Book (Wizard):** Can use a barrier technique on the side door (Intellect + Qi Theory TN 14) to delay reinforcements for an additional round.
 > - **Duke of Eternal Night (Vampire):** Can use supernatural speed to grab the condemned player and move them across the room in a single action, bypassing the enforcers' reach.
 > - **Cinnabar Heart (Alchemist):** Can throw a blinding powder or smoke bomb to cover the escape. Create one dose before the Audit (requires 10 minutes and basic materials).
 
@@ -1927,7 +1933,7 @@ You will be useful. Or you will be next.
 >
 > **Iron Bone (Werewolf):** The aftermath makes the wolf howl. Not in victory; in grief. The pack is smaller than it was. One of your people is gone. You feel the absence as a physical ache. Make a Resolve TN 14 check to keep the wolf from taking over. On a failure, you excuse yourself abruptly, finding a private corner where you can let the grief out in silence.
 >
-> **Celestial Book (Wizard):** The Court's erasure of the Disappeared is a ritual of its own. The silence, the sealed files, the empty desks; these are not bureaucratic procedures. They are magical acts, designed to sever the Disappeared from the world's memory. The names are spoken less and less until they are not spoken at all, and the person becomes a ghost. You know a counter-ritual, a simple one, that preserves a name in writing. You write the name of the fallen in your personal grimoire. They will not be entirely forgotten.
+> **Celestial Book (Wizard):** The Court's erasure of the Disappeared is a ritual of its own. The silence, sealed files, and empty desks are more than bureaucratic procedures. They are ritual acts designed to sever the Disappeared from the world's memory. Their names are spoken less and less until no one speaks them at all, and the person becomes a ghost. You know a simple opposing rite that preserves a name in writing. You record the fallen person's name in your private ritual book. They will not be entirely forgotten.
 
 The adventure concludes with the players' Faction Standing altered. They have made choices. They have made enemies. They have learned something about the way the Court works. The Shadow's note, the predecessor's fate, the web of factional obligations: these threads continue.
 
@@ -1937,7 +1943,7 @@ As the Audit concludes and the dust settles, the world reshapes itself around th
 
 - **If the player was Cleared:** You are free, but you are watched. The Commission's file on you now has a notation: "Cleared; monitor." A junior clerk you have never seen before appears at the edge of your vision in every corridor. They are always there. They never speak.
 - **If the player was Sanctioned:** The border posting is a punishment, but it is also an opportunity. The officials who sent you there expect you to vanish into obscurity. They do not know that the border is where the Dusk is closest, where secrets are cheapest, and where a person with nothing left to lose can become very dangerous.
-- **If the player was Disappeared:** The silence is absolute. Your name is not spoken. Your desk is cleared before the day ends. But somewhere in the city, the Shadow makes a note of your name. She will remember. In future adventures, a fragment of your fate may surface; a message, a clue, a whisper from the depths of the Commission's facilities. The Disappeared are not always gone forever.
+- **If the player was Disappeared:** The silence is absolute. Your name is not spoken. Your desk is cleared before the day ends. But somewhere in the city, the Shadow makes a note of your name. He will remember. In future adventures, a fragment of your fate may surface; a message, a clue, a whisper from the depths of the Commission's facilities. The Disappeared are not always gone forever.
 - **If the players gained Faction Standing with a school during the Audit:** A formal invitation arrives within a week. The school wants to debrief, to thank, to bind you closer. The invitation is polite, but the subtext is clear: you owe them, and they intend to collect.
 - **If the players lost Faction Standing with a school during the Audit:** That school's agents watch from a distance. They do not approach. They do not threaten. They wait. In Xiaoyuan, patience is a weapon, and the old families and schools have centuries of practice.
 - **Regardless of outcome:** The city continues. The markets reopen. The scribes return to their scrolls. The dead tree in the courtyard is removed and replaced with a new sapling; a gesture of renewal that feels obscene in its optimism. The new tree will grow in poisoned soil. Everyone knows this. No one comments on it. The Court does not acknowledge its failures.
@@ -1948,19 +1954,19 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 **Immediate Hooks (Next Session):**
 
-1. **The Shadow's Summons.** A player finds a black marked envelope under their door. Inside is a single sentence: "The person who warned you would like to meet. Come alone. Come at midnight. Come to the Archive." This begins the next adventure, introducing the Shadow as a major figure and potential ally.
+1. **The Shadow's Summons.** A player finds an envelope marked in black under their door. Inside is a single sentence: "The person who warned you would like to meet. Come alone. Come at midnight. Come to the Archive." This begins the next adventure, introducing the Shadow as a major figure and potential ally.
 
 2. **The Crimson Lineage's Revenge.** If the players investigated the Qi siphoning, Lady Feng does not forget. A player's relative in the provinces is taken. A message arrives: "We have something of yours. You have something of ours. The records you copied. Return them." This creates immediate personal stakes for the next adventure.
 
-3. **The Bright Mirror's Interest.** If the embezzlement evidence reached her, the Bright Mirror summons the players. She has questions. She has been watching them. She offers a choice: work for the Commission as her agents, or become the Commission's next target. The players have caught the attention of the most dangerous figure in the Court.
+3. **The Bright Mirror's Interest.** If the embezzlement evidence reached him, the Bright Mirror summons the players for a rigorous review. He asks where every page came from, who authenticated it, and what the players want done with it. If their account holds, he offers formal cooperation and an exchange of verified information. Refusing the offer does not make them targets, but lying to him or manipulating the evidence will earn his scrutiny. The players have caught the attention of one of the most exacting figures in the Court.
 
 4. **The Fugitive's Return.** Tao Chen, if he escaped, does not stay hidden. He resurfaces with more evidence. The Golden Orthodoxy wants him silenced permanently. The Verdant Path wants him protected. The players find themselves caught between the schools again, this time with higher stakes and fewer options.
 
-**Long Term Hooks (Campaign Arc):**
+**Campaign Hooks:**
 
 5. **The Dusk Breach.** Ash is only the beginning. Reports arrive from the border: the Dusk is spreading faster than predicted. Towns are falling. Refugees are arriving with stories of something moving in the Grey. The Court is not prepared. The players may be sent to investigate, or the Dusk may come to Xiaoyuan itself. The stolen Qi from the Crimson Lineage warehouses may be connected to the Dusk's advance. Someone has been stockpiling refined Qi, and the Dusk has been growing stronger. The two facts cannot be unrelated.
 
-6. **The Predecessor's Legacy.** The Disappeared official Yun Shu had a family. A sibling arrives in the capital, asking questions. They know the players now hold the position their sibling once held. They want answers. They want justice. They may become allies or enemies, depending on how the players respond. The sibling carries a sealed letter from Yun Shu, written before the Audit, containing a name the Shadow did not include in her warning. A name that connects the Qi theft, the Golden Orthodoxy, and the Crimson Lineage in a single thread.
+6. **The Predecessor's Legacy.** The Disappeared official Yun Shu had a family. A sibling arrives in the capital, asking questions. They know the players now hold the position their sibling once held. They want answers. They want justice. They may become allies or enemies, depending on how the players respond. The sibling carries a sealed letter from Yun Shu, written before the Audit, containing a name the Shadow did not include in his warning. A name that connects the Qi theft, the Golden Orthodoxy, and the Crimson Lineage in a single thread.
 
 7. **The Iron Calculation's Crusade.** Commissioner Zhang does not stop. The Qi siphoning investigation continues. He needs allies he can trust. He approaches the players with evidence of a larger conspiracy involving multiple old families. The Crimson Lineage is just one piece of a much larger puzzle stretching back decades. Zhang has identified a pattern: the Qi thefts accelerated in the months before each Harmonization Audit. The Audits are not unrelated to the thefts. The Audits may be the cover for the thefts.
 
@@ -1968,23 +1974,23 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 9. **The Justicar's Crisis.** Junior Justicar Meng has her own secrets. Her Ritual Harmony is 39. She is one bad Audit away from the other side of the table. In a future adventure, she may approach the players for help. She has seen something she was not meant to see. She needs allies she can trust. She is not good at trust. She may be the players' most unlikely ally. She has access to Commission files that no one else can reach. She also has a conscience, buried deep but not yet dead. If the players can reach that conscience, they gain a source of information worth more than any faction's favor.
 
-10. **The Nature of the Audits.** The deeper mystery remains: why do the Harmonization Audits happen? Who truly controls the Commission? What is being hidden? Each Audit reveals another piece of the truth. Each piece is more disturbing than the last. The players may eventually discover that the Audits serve a purpose no one in the Court speaks of aloud. The Disappeared are not simply executed or imprisoned. They are processed, their Qi extracted, their memories catalogued, their spiritual essence fed into something that sustains the Court's power. The Audits are not inspections. They are harvests.
+10. **The Nature of the Audits.** The deeper mystery remains: why do the Harmonization Audits happen? Who truly controls the Commission? What is being hidden? Each Audit reveals another piece of the truth. Each piece is more disturbing than the last. The players may eventually discover that the Audits serve a purpose no one in the Court speaks of aloud. The Disappeared are not simply executed or imprisoned. They are processed, their Qi extracted, their memories cataloged, their spiritual essence fed into something that sustains the Court's power. The Audits are not inspections. They are harvests.
 
 11. **The Teahouse Keeper's Network.** The old woman who runs the Teahouse of Whispered Petitions has been watching the players. She knows what they did during the Audit. She knows who they helped and who they refused. She sends a message: a single dried jasmine flower, delivered to the player's desk, with no note attached. The flower is a summons. The teahouse keeper has her own network, independent of the Verdant Path and the Shadow. She has been in Xiaoyuan longer than both. She knows where the bodies are buried, literally and metaphorically. An invitation to tea from her is not a social call. It is an offer that cannot be refused.
 
 > **ARCHETYPE THREADS**
 >
-> **Cinnabar Heart (Alchemist):** Each of the long-term hooks involves a resource you can prepare for. The border posting (Hook 4) will need medicines. The Dusk investigation (Hook 5) will need purification reagents. You make a list. You have time to gather ingredients before the next adventure begins.
+> **Cinnabar Heart (Alchemist):** Each future hook involves a resource you can prepare for. The fugitive's return (Hook 4) will need medicines. The Dusk investigation (Hook 5) will need purification reagents. You make a list. You have time to gather ingredients before the next adventure begins.
 >
 > **Night Warbler (Assassin):** The hooks are not just stories; they are contracts. Someone will pay for the Crimson Lineage's head (Hook 2). Someone will pay for the Golden Orthodoxy's embarrassment (Hook 8). Someone will pay for the truth about the Audits (Hook 10). You note which jobs are worth taking and which are personal.
 >
 > **Guest Among Forests (Elf):** The sapling planted in the courtyard (Part Five aftermath) is a living anchor. You touch its leaves as you pass. It is young, fragile, planted in poisoned soil. But it is alive. You make a small gesture of blessing. It may not survive the Court, but it will try. So will you.
 >
-> **Iron Calculation (Engineer):** The ten hooks form a decision tree. Each leads to branching outcomes. You calculate the most efficient path: Hook 1 (the Shadow) leads to Hook 10 (the Audits) through the shortest chain. If the party wants the fastest route to the heart of the mystery, follow the Shadow.
+> **Iron Calculation (Engineer):** The eleven hooks form a decision tree. Each leads to branching outcomes. You calculate the most efficient path: Hook 1 (the Shadow) leads to Hook 10 (the Audits) through the shortest chain. If the party wants the fastest route to the heart of the mystery, follow the Shadow.
 >
 > **Iron Wall (Knight):** The campaign hooks are not paths; they are oaths. The Crimson Lineage's revenge (Hook 2) means someone needs protection. The Justicar's crisis (Hook 9) means someone needs rescue. You know which hooks call to you. You do not choose them. They choose you.
 >
-> **Bright Mirror (Paladin):** The long-term hooks are tests of Alignment. The Shadow's summons (Hook 1) tests whether you trust a stranger. The embezzlement evidence (Hook 3) tests whether you use power responsibly. The Dusk Breach (Hook 5) tests whether you help those who cannot help themselves. Your responses define you.
+> **Bright Mirror (Paladin):** The future hooks are tests of principle. The Shadow's summons (Hook 1) tests whether you trust a stranger. The embezzlement evidence (Hook 3) tests whether you use power responsibly. The Dusk Breach (Hook 5) tests whether you help those who cannot help themselves. Your responses define you.
 >
 > **Shadow (Rogue):** The hooks are threads in a web. You can pull any of them. But pulling one moves all the others. Helping the Bright Mirror (Hook 3) will anger the Golden Orthodoxy (Hook 8). Protecting the fugitive (Hook 4) will deepen the Crimson Lineage's grudge (Hook 2). You see the connections before the others do. _If the Shadow is a player character, you have already begun working one of these hooks. During the aftermath, you sent a message, arranged a meeting, or planted a piece of information. The next adventure has already begun for you, whether the party knows it or not._
 >
@@ -1992,7 +1998,7 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 >
 > **Iron Bone (Werewolf):** The pack has been tested and has survived. The hooks ahead will test it again. But a pack that survives together grows stronger. You watch your companions as they discuss the future, reading their scents, their postures, their fears. You know who will break and who will hold. You will be the one who holds.
 >
-> **Celestial Book (Wizard):** The deeper mystery of the Audits (Hook 10) resonates with your studies. The narrative erasure process has a magical component that the Court does not acknowledge publicly. The rituals, the seals, the Commission's grey robes; all are part of a larger working. You have begun to see the pattern. The next adventure will bring it into focus.
+> **Celestial Book (Wizard):** The deeper mystery of the Audits (Hook 10) resonates with your studies. Narrative erasure has a ritual component that the Court does not acknowledge publicly. The rites, seals, and Commission grey robes are all part of a larger working. You have begun to see the pattern. The next adventure will bring it into focus.
 
 ## NPC Quick Reference for This Adventure
 
@@ -2002,9 +2008,9 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 - Presence 14, Intellect 12. Coldly polite. Genuinely believes he is protecting the empire.
 - Wants: Signed statements confirming heterodoxy. Dislikes: Independent thought.
-- Secret: He was close friends with the official whose name he is now asking the players to condemn. He has not slept well in months.
+- Secret: The official he is asking the players to condemn was once his finest student. Wei trained him, sponsored his career, attended his wedding, and held his first child. He has not slept well in months.
 
-**Physical Description:** Wei is in his late forties, with a lean face and close cropped grey hair that recedes at the temples. He carries himself with the rigid posture of a man who has spent decades perfecting his public appearance. His robes are always immaculate, the gold thread of the Bureau's eight trigrams precisely embroidered on each sleeve. He moves with economy: no wasted gestures, no unnecessary steps, no hesitation. His hands are pale and well cared for, the hands of someone who has never done physical labor. His eyes are his most telling feature; they are pale brown, almost amber, and they do not blink as often as normal eyes do. He has trained himself to hold eye contact without wavering. He has trained himself to reveal nothing. The training is good, but it is not perfect. When he is stressed, a small muscle at the corner of his left eye twitches.
+**Physical Description:** Wei is in his late forties, with a lean face and grey hair cut close, receding at the temples. He carries himself with the rigid posture of a man who has spent decades perfecting his public appearance. His robes are always immaculate, the gold thread of the Bureau's eight trigrams precisely embroidered on each sleeve. He moves with economy: no wasted gestures, no unnecessary steps, no hesitation. His pale, carefully tended hands are those of someone who has never done physical labor. His eyes are his most telling feature; they are pale brown, almost amber, and they do not blink as often as normal eyes do. He has trained himself to hold eye contact without wavering. He has trained himself to reveal nothing. The training is good, but it is not perfect. When he is stressed, a small muscle at the corner of his left eye twitches.
 
 **Tells:** His left eye twitches when he is lying or under pressure. He touches his signet ring when he is about to make a threat, as if drawing authority from the metal. He breathes through his mouth when preparing to deliver bad news.
 
@@ -2036,7 +2042,7 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 **Tells:** He sets down his brush before speaking, never during. He pauses exactly two seconds before answering a question, using the time to formulate a precise response. When he is angry, his writing becomes smaller, tighter, the characters pressing together like people in a crowded room.
 
-**Behind the Scenes for the Host:** When the players are not watching, Zhang works late into the night. His office lamp burns until the small hours. He cross references the warehouse records, the transport logs, and the Crimson Lineage financial statements he copied before leaving their employ. He is building a case. He has been building it for fourteen years, since the morning they took his predecessor. He has collected enough evidence to destroy a family. But he needs a trigger, a moment, a catalyst. The Audit may be that moment. Or it may be another piece of evidence he adds to the pile, waiting for the day when the pile is large enough to collapse under its own weight. He does not know if that day will come in his lifetime. He continues anyway.
+**Behind the Scenes for the Host:** When the players are not watching, Zhang works late into the night. His office lamp burns until the small hours. He compares the warehouse records with the transport logs and the Crimson Lineage financial statements he copied before leaving their employ. He is building a case. He has been building it for fourteen years, since the morning they took his predecessor. He has collected enough evidence to destroy a family. But he needs a trigger, a moment, a catalyst. The Audit may be that moment. Or it may be another piece of evidence he adds to the pile, waiting for the day when the pile is large enough to collapse under its own weight. He does not know if that day will come in his lifetime. He continues anyway.
 
 ### The Dusk Refugee (Nameless, calls herself "Ash")
 
@@ -2050,7 +2056,7 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 **Tells:** Her shadow moves when she does not. She tilts her head when the shadow speaks to her. She touches her chest above her heart when she is about to tell a difficult truth, as if checking that the words are still there.
 
-**Behind the Scenes for the Host:** When the players are not watching, Ash sits in whatever shelter she has found and talks to her shadow. The conversation is soft, continuous, like the murmur of a stream. The shadow responds in ways only she can perceive. She is not insane. The shadow is real. It is a fragment of the Dusk that attached itself to her during her journey through the Grey. It knows things about the Court, about the players, about the Crimson Lineage's connection to the Dusk. It tells her these things in fragments, images, half remembered conversations. She does not understand most of what it shows her. But she remembers. She remembers everything. If the players befriend her, they have access to a source of information no one else in the capital possesses: the memory of the Dusk itself.
+**Behind the Scenes for the Host:** When the players are not watching, Ash sits in whatever shelter she has found and talks to her shadow. The conversation is soft, continuous, like the murmur of a stream. The shadow responds in ways only she can perceive. She is not insane. The shadow is real. It is a fragment of the Dusk that attached itself to her during her journey through the Grey. It knows things about the Court, about the players, about the Crimson Lineage's connection to the Dusk. It tells her these things in fragments, images, conversations only partly remembered. She does not understand most of what it shows her. But she remembers. She remembers everything. If the players befriend her, they have access to a source of information no one else in the capital possesses: the memory of the Dusk itself.
 
 ### The Junior Justicar (Justicar Meng)
 
@@ -2064,7 +2070,7 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 **Tells:** Her left hand trembles when she is under stress. She presses her lips together when she hears something that disturbs her. She glances at the ceiling when she is about to deliver a judgment, as if seeking approval from a source only she can see.
 
-**Behind the Scenes for the Host:** When the players are not watching, Meng returns to her small office in the Commission headquarters. She locks the door. She sits at her desk and opens a locked drawer. Inside is a personal Ritual Harmony tester, a small jade disc that changes color based on the user's Ritual Harmony. She places her palm on it. The color shifts. It is worse than yesterday. It has been worse every day for months. She records the number in a private journal, then closes the drawer and locks it. She is counting down. She knows she has perhaps two years before her Ritual Harmony drops below the threshold that triggers a mandatory self Audit. She has begun making arrangements: letters to be delivered after she is gone, evidence to be released, a confession to be read. She is preparing for her own disappearance. She does not expect anyone to save her. She does not expect anyone to try.
+**Behind the Scenes for the Host:** When the players are not watching, Meng returns to her small office in the Commission headquarters. She locks the door. She sits at her desk and opens a locked drawer. Inside is a personal Ritual Harmony tester, a small jade disc that changes color based on the user's Ritual Harmony. She places her palm on it. The color shifts. It is worse than yesterday. It has been worse every day for months. She records the number in a private journal, then closes the drawer and locks it. She is counting down. She knows she has perhaps two years before her Ritual Harmony drops below the threshold that triggers a mandatory Audit of her own conduct. She has begun making arrangements: letters to be delivered after she is gone, evidence to be released, a confession to be read. She is preparing for her own disappearance. She does not expect anyone to save her. She does not expect anyone to try.
 
 ## Appendices
 
@@ -2096,7 +2102,7 @@ Print this card for quick reference during play. Each scene is listed with its k
 
 - Final Day Timeline. Dawn to Night. 7 key moments.
 - Last Minute NPCs. Shadow's gift. Lin's note. Wei's final offer.
-- Crimson Lineage. Intimidation TN 18 to counter threat.
+- Crimson Lineage. Intimidation TN 18 to threaten them in return.
 - Preparation Actions. Celestial Favor, hiding, fleeing, throwing to wolves.
 
 **Part Five: The Audit**
@@ -2113,7 +2119,7 @@ Everything the players can discover and where to find it.
 
 - Handwriting sample: warning note, Part One
 - Reference by Master Scribe Xun: Part One, Consultation NPCs
-- Thirty year old note: Part Three, Archives (TN 18)
+- Note from fifteen years ago: Part Three, Archives (TN 18)
 - Still alive, still warning people: Part Three, Archives
 - Revealed fully: Campaign hook, future adventure
 
@@ -2130,7 +2136,7 @@ Everything the players can discover and where to find it.
 
 - Tao Chen's evidence: Part Two, Verdant Path
 - Account numbers and dates: Part Two, Fugitive details
-- Bright Mirror involvement: Part Four, Lin's note
+- Bright Mirror named as a possible recipient: Part Four, Lin's note
 - Mid ranking official implicated: Part Four, Embezzlement Evidence
 
 **The Predecessor's Fate:**
@@ -2156,7 +2162,7 @@ Print this for the player who first reads the note. Hand it to them physically. 
 
 > _It begins in seven days. The Commission has already started collecting names. Burn this after reading. If anyone asks, you never received it._
 
-There is no signature. The handwriting is feminine, precise, with a slight tremor on the downstrokes.
+There is no signature. The handwriting is precise, with a slight tremor on the downstrokes.
 
 **Host Note:** Give the players time to react to this note. Do not rush to the next scene. Let them ask questions. Let them speculate. The note is the adventure's first moment of true tension. Let it land.
 

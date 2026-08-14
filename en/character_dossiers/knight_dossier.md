@@ -8,9 +8,11 @@
 
 ### Court Role: Imperial Garrison
 
+### Default Gender: Male
+
 ## Description
 
-You are a soldier of the Imperial Garrison, sworn to protect the empire from all threats: foreign armies, Dusk incursions, and the slower rot of internal decay. You wear plate armor scarred by a hundred battles. You carry a greatsword that has broken lesser blades. You swore an oath to the Sun Emperor, not to the Court, and that distinction has defined your career. The Court's civilian officials play their games. You watch. You wait. You maintain your equipment and your honor. Both are in good condition.
+You are a soldier of the Imperial Garrison, sworn to protect the empire from all threats: foreign armies, Dusk incursions, and the slower rot of internal decay. You wear a scarred coat over concealed armor and carry a greatsword that has broken lesser blades. You swore an oath to the Sun Emperor, not to the Court, and that distinction has defined your career. The Court's civilian officials play their games. You watch. You wait. You maintain your equipment and your honor. Both are in good condition.
 
 ## Expanded Backstory
 
@@ -114,7 +116,7 @@ You are forty three. Your knees are going. You want, and would never say aloud, 
 
 **Sergeant Vex, Your First Commanding Officer.** Vex is dead. You saw her die at Grey River Ford. She took a Dusk blade meant for you. She pushed you aside and stepped into the strike. She did not scream. She made a sound that was half grunt, half sigh, and then she fell. You killed the raider who stabbed her. You do not remember doing it. You remember Vex's face afterward, calm and pale, telling you to hold the line. You have held it ever since. You owe her that.
 
-**Quartermaster Hao, Iron Calculation.** Hao is the one person in the Commission you trust. He redesigned your unit's supply chain and saved lives doing it. He came to the Garrison personally to implement the changes. Most Commission officials send memos. Hao showed up. He asked questions. He listened to the answers. You shook his hand and meant it. You do not know what he does in his other work. You do not want to know. You suspect it is not as clean as supply chains. But you remember his grip, firm and honest, and you believe he is a good man trying to do good work in a system that makes it nearly impossible.
+**Quartermaster Hao, Imperial Garrison.** Hao is the soldier who implemented the supply system designed by Iron Calculation. He came to your unit personally, asked questions, listened to the answers, and adapted the design to the realities of the field. You shook his hand and meant it. Most officials send memoranda. Hao showed up. You trust him because he understands that a sound plan still has to work in the hands of tired people. You do not know what compromises his office demands elsewhere. You do not want to know. You remember his grip, firm and honest, and believe he is a good man trying to do good work in a system that makes it nearly impossible.
 
 **Your Squire, Ren.** Ren is seventeen years old and eager in a way that reminds you of yourself before Grey River Ford. They ask too many questions. They polish their armor too often. They have not yet learned that the shine comes off after the first battle. You are trying to teach them without breaking their spirit. It is the hardest thing you have done since the war. You see the fear in their eyes when they think you are not looking. You remember that fear. You wish you could tell them it goes away. It does not. You go on anyway. That is the lesson you are trying to teach.
 
@@ -144,7 +146,7 @@ You notice things other soldiers miss. The way a civilian flinches when a soldie
 
 ### Immovable
 
-The enemy charges. Three of them. Big, heavily armed, screaming war cries meant to shake your resolve. You do not shake. You plant your feet. You raise your shield. You designate the ally behind you, the one who is injured, the one who cannot run. You become the wall.
+The enemy charges. Three of them. Big, heavily armed, screaming war cries meant to shake your resolve. You do not shake. You plant your feet. You raise your greatsword into a guarding stance. You designate the ally behind you, the one who is injured, the one who cannot run. You become the wall.
 
 The first enemy reaches you. You do not step back. Your blade meets theirs in a shower of sparks. Your feet do not move. You make a free Strike as they enter your Zone, a brutal horizontal slash that forces them to reconsider their approach. The second enemy tries to circle around you. You pivot, keeping yourself between them and your ally. They cannot reach your ally without going through you. You have made this trade before. You will make it again. You are still standing.
 
@@ -158,7 +160,7 @@ You feel the oath activate. It is not a mechanical thing. It is a shift in your 
 
 Your allies are wavering. The enemy has the high ground. The battle is turning. You see the hesitation in their eyes. You know that hesitation. It is the moment before the rout. You have seen it a hundred times. You know what to do.
 
-You take a breath. You fill your lungs. You speak. Your voice cuts through the chaos of battle like a blade through mist. "Reform the line. Archers, cover the left. Infantry, with me. We hold here." The words are not magic. They are something older than magic. They are command. Your allies feel it. Their backs straighten. Their grips tighten. They have +2 to their next attack or Defense. One of them looks at you and nods. That nod is worth more than any medal. You have held the line together. You will hold it again.
+You take a breath. You fill your lungs. You speak. Your voice cuts through the chaos of battle like a blade through mist. "Reform the line. Archers, cover the left. Infantry, with me. We hold here." No Qi Technique drives the words. They carry something older: command. Your allies feel it. Their backs straighten. Their grips tighten. They have +2 to their next attack or Defense. One of them looks at you and nods. That nod is worth more than any medal. You have held the line together. You will hold it again.
 
 ## Expanded Truths
 
@@ -237,7 +239,7 @@ What you fear beyond your own death is what will happen after you are gone. Who 
 | Qi Pool           | 10 + Intellect Modifier + 2         | Calculate |
 | Sanity            | 20 + Resolve Modifier               | Calculate |
 | Initiative        | Swiftness Modifier                  | Calculate |
-| Defense           | 10 + Swiftness Modifier + 2 (armor) | 12        |
+| Defense           | 10 + Swiftness Modifier + 1 (armor) | 11        |
 | Proficiency Bonus | Level 1                             | +2        |
 
 ## Proficiencies
@@ -266,9 +268,9 @@ When you give an order in combat, allies who can hear you gain +2 to their next 
 
 ## Starting Equipment
 
-- Plate Armor (+2 Defense, visible, cannot be concealed)
-- Greatsword (1d12, Heavy, Two Handed)
-- Short Sword (1d6, backup weapon)
+- Concealed Armor (+1 Defense, worn under a scarred garrison coat)
+- Greatsword (1d12, Heavy, Requires Two Hands)
+- Sword (1d8, Versatile, backup weapon)
 - Garrison Seal (authorizes you to bear arms in the capital)
 - Soldier's Kit (rations, bedroll, whetstone, maintenance oil)
 - Medal of Service (proof of your oath and your rank)
@@ -302,4 +304,4 @@ When you give an order in combat, allies who can hear you gain +2 to their next 
 
 **Level 7: War Leader.** Commander's Presence now grants +4 instead of +2, and you may use it twice per round. _Your voice changes. When you speak, your allies feel your resolve as their own. After battle, you find it hard to speak. You have given something of yourself to every ally you empowered._
 
-**Level 9: Empty Throne Protocol.** Once per campaign, when everything has failed, you may declare Empty Throne. For the next scene, you and all allies within 3 Zones gain: Advantage on all rolls, immunity to fear, and +10 temporary HP. After the scene, you collapse. Make an Endurance check against TN 20. On failure, you die. On success, you survive but are permanently changed. _Declaring the throne empty breaks something inside you that will never be repaired. If you die, you die with your oath intact. That is the only ending you ever wanted._
+**Level 9: Empty Throne Protocol.** Once per campaign, when everything has failed, you may declare Empty Throne. For the next scene, you and all allies within 3 Zones gain Advantage on all rolls, immunity to fear, and 10 HP above the normal maximum. This extra HP is lost first and disappears when the scene ends. After the scene, you collapse. Make an Endurance check against TN 20. On failure, you die. On success, you survive but are permanently changed. _Declaring the throne empty breaks something inside you that will never be repaired. If you die, you die with your oath intact. That is the only ending you ever wanted._

@@ -334,7 +334,7 @@ Use this checklist before the campaign begins. It ensures players and Host agree
 [ ] Explain the empire's setting: Harmonization Audits, the Six Schools, the Twelve Figures
 [ ] Describe the Dusk and what it means for the world
 [ ] Set expectations for character mortality and replacement
-[ ] Discuss long term campaign structure (expected number of sessions, endgame goals)
+[ ] Discuss campaign structure over the longer term (expected number of sessions, endgame goals)
 
 **Character Creation:**
 [ ] Each player chooses an archetype and explains their choice
@@ -353,7 +353,7 @@ Use this checklist before the campaign begins. It ensures players and Host agree
 
 **House Rules:**
 [ ] Confirm any house rules or table rules
-[ ] Decide on rolling style (open rolls, hidden Host rolls, player facing)
+[ ] Decide on rolling style (open rolls, hidden Host rolls, player rolls)
 [ ] Set expectations for player knowledge versus character knowledge
 [ ] Discuss scheduling and session length
 [ ] Decide on communication methods between sessions
@@ -374,7 +374,7 @@ Review after each session to prepare for the next one.
 **Prepare:**
 [ ] Plan the next session's opening scene
 [ ] Prepare any Dusk encounters that might occur
-[ ] Note which faction moves will happen off screen
+[ ] Note which faction moves will happen outside the scene
 [ ] Prepare NPC dialogue or mannerisms for returning NPCs
 [ ] Identify two or three major decisions the players might face
 [ ] Prepare consequences for any unresolved threads
