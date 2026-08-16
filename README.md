@@ -62,7 +62,7 @@ violet-court-fragments/
 └── tabletop_rpg_*.jpeg                ← 13 character portrait illustrations
 ```
 
-**44 Markdown documents** in total, including both READMEs and 21 game documents in each language. **23,720 lines of English, 23,653 lines of Chinese, and 47,373 lines overall.** **No dash punctuation in prose.** **Zero political terminology.** **Zero mixed language.** Every word earned.
+**44 Markdown documents** in total, including both READMEs and 21 game documents in each language. **23,754 lines of English, 23,679 lines of Chinese, and 47,433 lines overall.** **No dash punctuation in prose.** **Zero political terminology.** **Zero mixed language.** Every word earned.
 
 ---
 

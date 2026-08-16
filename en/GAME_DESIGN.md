@@ -93,7 +93,7 @@ The Ghost Trains are another local dread. Workers speak of empty rail convoys th
 
 And there is the tale of the Iron Bodhisattva's First Forging, which claims that the war god's armor was made in Ember Forge and that a shard of that original armor remains embedded in the mountain's heart. Workers sometimes touch the mountain and pray for strength.
 
-Notable figures include Foreman Dead Eye, an overseer whose left eye was replaced with a clockwork lens that sees inefficiency as a visible aura, and Abbot Calculating Wind, the head of Ember Forge, who is 120 years old and kept alive by a machine that breathes for him. His secret is that he has begun to hear the machines whispering in his dreams, telling him to build something terrible.
+Notable figures include Foreman Dead Eye, an overseer whose left eye was replaced with a clockwork lens that sees inefficiency as a visible aura, and Abbot Calculating Wind, the head of Ember Forge, who is one hundred and twenty years old and kept alive by a machine that breathes for him. His secret is that he has begun to hear the machines whispering in his dreams, telling him to build something terrible.
 
 The Crimson Dusk manifests in the Foundries as a slow rust that spreads across metal surfaces, causing iron to bloom with red crystals that release spores when disturbed. Machinery becomes unreliable, then hostile. Workers who breathe too many spores develop a cough that sounds like grinding gears. The Court's relationship with the Foundries is one of deep dependence. The Iron Calculation school provides the empire's infrastructure, and the empire must tolerate their methods, their ruthlessness, and their secrets.
 
@@ -161,7 +161,7 @@ They fear the Quiet One, a Dusk creature that stalks the high passes and can imi
 
 Their legends are martial. The Iron Bodhisattva's Vigil tells of the war god standing watch on the highest peak, spear in hand, waiting for an enemy so terrible that the god has not blinked in six hundred years. The Ghost Legion is a tale of a battalion that was wiped out in a mountain pass but continues to march, seen by lone travelers on misty nights; to join their ranks is to die well. The Sword That Wept speaks of a blade forged from a fallen star that cried blood when its owner was murdered, and that still hangs in the Silent Monastery's armory, occasionally sobbing in the dark.
 
-Notable figures include Marshal Hundred Battles of Iron Gate, who has refused promotion to the capital three times and who corresponds with Iron Wall through encrypted letters that even the Court cannot read. And Brother Wind Counting, a tactician of the Silent Monastery who can predict the outcome of any battle involving known forces with 93 percent accuracy. He cannot predict what happens in the remaining 7 percent, which keeps him up at night.
+Notable figures include Marshal Hundred Battles of Iron Gate, who has refused promotion to the capital three times and who corresponds with Iron Wall through encrypted letters that even the Court cannot read. And Brother Wind Counting, a tactician of the Silent Monastery who can predict the outcome of any battle involving known forces with ninety three percent accuracy. He cannot predict what happens in the remaining seven percent, which keeps him up at night.
 
 The Crimson Dusk in the mountains appears as a red frost that kills everything it touches, covering the stone in a layer of crystalline crimson that reflects the sky. The passes become treacherous, the frost making handholds slick and unstable. Patrols that go into Dusk Touched areas sometimes return speaking a language no one has ever heard. The province's relationship with the Court is watchful and conditional. The military serves the Sun Emperor, not the Court. If the Court demands something the military considers dishonorable, they will refuse. This has not happened yet. It is getting closer.
 
@@ -403,7 +403,7 @@ The doors were closed. The watch was set. That was a Tuesday.
 
 Two years is a long time to hold a posture.
 
-The first months were ordinary. Business continued, deferred items accumulated, and the phrase _when He returns_ entered every meeting as a scheduling convention, the way one says _after the harvest_. The Court kept His seat. The kitchens continued to prepare His meal on the first and fifteenth, because no one had rescinded the standing order, and the meal was carried to the antechamber and set down and taken away untouched, twice a month, for nine years.
+The first months were ordinary. Business continued, deferred items accumulated, and the phrase _when He returns_ entered every meeting as a scheduling convention, the way one says _after the harvest_. The Court kept His seat. The kitchens continued to prepare His meal on the first and fifteenth, because no one had rescinded the standing order, and the meal was carried to the antechamber and set down and taken away untouched, twice a month, for nine years before the sealing, and has never stopped since.
 
 By the second year the phrase _when He returns_ had begun to do something else. It had become a way of not deciding. Every genuinely difficult question in the empire was now deferrable, and everyone discovered, with relief they did not examine, that they preferred deferring.
 
@@ -683,7 +683,7 @@ Nobody ever does.
 
 ### The Capital City: Xiaoyuan
 
-Xiaoyuan is the heart of the Celestial Empire, the oldest continuously inhabited city on the continent, and the largest. Its population is officially recorded as 847,000 souls. Unofficial estimates, accounting for unregistered refugees, undocumented laborers, and the population of the Warrens beneath the city, place the true number closer to two million. The city is a living organism, constantly growing, decaying, and renewing itself in layers that span millennia.
+Xiaoyuan is the heart of the Celestial Empire, the oldest continuously inhabited city on the continent, and the largest. Its population is officially recorded as eight hundred forty seven thousand souls. Unofficial estimates, accounting for unregistered refugees, undocumented laborers, and the population of the Warrens beneath the city, place the true number closer to two million. The city is a living organism, constantly growing, decaying, and renewing itself in layers that span millennia.
 
 #### The Inner City
 
@@ -911,7 +911,7 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 448, Shadow's Discovery.** Shadow, operating in the Archives, obtained a copy of the original Founding Charter. He read it. He understood its implications. He began selling access to its contents, one person at a time, at prices designed not to enrich himself but to spread the knowledge as widely as possible without triggering a crackdown.
 
-**Year 450, The Current Harmonization Audit Crisis.** The Golden Orthodoxy, facing mounting evidence that its rituals cannot stop the Dusk, initiated a series of Harmonization Audits targeting the Verdant Path and the Common Flame. The Audits have escalated beyond the Orthodoxy's control. The schools are at an impasse. The Dusk continues to advance. The present year is 452. The empire is in its final phase, though most of its citizens do not know it yet.
+**Year 450, The Current Harmonization Audit Crisis.** The Golden Orthodoxy, facing mounting evidence that its rituals cannot stop the Dusk, initiated a series of Harmonization Audits targeting the Verdant Path and the Common Flame. The Audits have escalated beyond the Orthodoxy's control. The schools are at an impasse. The Dusk continues to advance. The present year is Year 452. The empire is in its final phase, though most of its citizens do not know it yet.
 
 ---
 
@@ -919,13 +919,13 @@ The following chronology is compiled from the official records of the Bureau of 
 
 Read this section slowly. It is the spine of the modern empire, and everything your players touch will have been shaped by it.
 
-The Sun Emperor is sealed inside the Spire. He does not speak. Yet edicts continue to appear on jade tablets in the Throne Chamber, written in His hand, and the empire is governed by them. This creates the central problem of the 155 years since the final seal, and the answer to that problem is the only throne that has ever mattered.
+The Sun Emperor is sealed inside the Spire. He does not speak. Yet edicts continue to appear on jade tablets in the Throne Chamber, written in His hand, and the empire is governed by them. This creates the central problem of the one hundred and fifty five years since the final seal, and the answer to that problem is the only throne that has ever mattered.
 
 Someone must carry the tablets out. Someone must read them aloud. Someone must decide what the words mean when the words are ambiguous, and the words are always ambiguous.
 
 That person is the Steward. The office has no formal name in any charter. There is no ceremony of appointment, no seal of investiture, no line of succession written anywhere a scholar could cite. The Steward is simply the person the Grand Council has stopped arguing with. Power in the Celestial Court is not seized. It accretes, the way sediment accretes, until one day the river has a new bank and no one can point to the moment it moved.
 
-Three Stewards have held the tablets since the Age of Harmony gave way to the Dusk Era. Each inherited a different empire. Each left behind a different set of ruins. Understanding them is understanding why the Court behaves the way it does when your players walk into a room.
+Three Stewards have held the tablets across the closing of the Age of Harmony and the opening of the Dusk Era. Each inherited a different empire. Each left behind a different set of ruins. Understanding them is understanding why the Court behaves the way it does when your players walk into a room.
 
 ### The First Stewardship: The Ledger Hand (Years 356 to 402)
 
@@ -2965,15 +2965,6 @@ Beyond their primary storylines, each figure has additional threads that can be 
 8. A description of the Sun Emperor's physical appearance in the year before His withdrawal
 9. A contract between the Crimson Lineage and a foreign power that predates the empire
 10. A single page, torn from a larger document, containing the words "Do not trust the silence"
-11. A structure that should not exist, built from red crystal
-12. A field of flowers that bloom in patterns that spell words
-13. A pool of water that shows visions of possible futures
-14. A tree that bears fruit containing messages from the dead
-15. A path of white stones that leads to a door in the air
-16. A chorus of voices singing a song that has not been composed yet
-17. A shadow that moves against the wind and leaves no footprint
-18. A circle of standing stones that hum with a frequency that erases memory
-19. A figure sitting on a throne made of mirrors, waiting
 
 ### Sample Quests and Threads
 
@@ -3420,7 +3411,7 @@ Beyond the ten major endings, the Host may choose to introduce one of the follow
 
 **The Blood Succession (Crimson Lineage + Bright Mirror).** The Duke of Eternal Night and the Bright Mirror reach an understanding. The Duke renounces his corrupt practices and submits to purification. The Bright Mirror spares his life in exchange for his knowledge. Together, they establish a new order based on blood cultivation used for the common good. The Duke lives long enough to see his redemption. He dies at peace.
 
-**The Silence Ends (Celestial Book + All Schools).** Celestial Book reveals the truth about the Sun Emperor's imprisonment. The schools, united in purpose, break open the Spire. The Emperor emerges, but She is not what anyone expected. She is ancient, diminished, and not entirely sane. Her return does not save the empire. It ends it in a way that no one predicted.
+**The Silence Ends (Celestial Book + All Schools).** Celestial Book reveals the truth about the Sun Emperor's imprisonment. The schools, united in purpose, break open the Spire. The Emperor emerges, but He is not what anyone expected. He is ancient, diminished, and not entirely sane. His return does not save the empire. It ends it in a way that no one predicted.
 
 **The Forgotten Door (Shadow + The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place outside the empire's reach. He leads a group of refugees through the passage to a land that the Dusk has not touched and the Court does not know. The empire collapses behind them. They are the seeds of something new.
 
@@ -3569,7 +3560,7 @@ Beyond the ten major endings, the Host may introduce variant endings triggered b
 
 **The Blood Succession (Crimson Lineage plus Bright Mirror).** The Duke of Eternal Night and the Bright Mirror reach an understanding. The Duke renounces his corrupt practices and submits to purification. They establish a new order based on blood cultivation used for the common good.
 
-**The Silence Ends (Celestial Book plus All Schools).** Celestial Book reveals the truth about the Emperor's imprisonment. The schools break open the Spire. The Emperor emerges, but She is not what anyone expected. Her return does not save the empire. It ends it.
+**The Silence Ends (Celestial Book plus All Schools).** Celestial Book reveals the truth about the Emperor's imprisonment. The schools break open the Spire. The Emperor emerges, but He is not what anyone expected. His return does not save the empire. It ends it.
 
 **The Forgotten Door (Shadow plus The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place beyond the empire's reach. He leads refugees through the passage to a land the Dusk has not touched. They are the seeds of something new.
 

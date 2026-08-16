@@ -38,7 +38,7 @@
 | Garrison Command  |                  |      |       |
 | Celestial Inquiry |                  |      |       |
 
-**Faction Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (-20), Hostile (-50), Sworn Enemy (-80)
+**Faction Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (-20), Hostile (-50), Sworn Enemy (-80 or below)
 
 ## Character Bonds
 
@@ -60,7 +60,7 @@
 
 Stray Stroke is not one of the Twelve. He is listed here because a bond with him is tracked the same way, and because the moment a table starts tracking him is the moment he stops being uncounted.
 
-**Bond Tiers:** Nemesis (-100 to -51), Antagonist (-50 to -11), Distant (-10 to +10), Congenial (+11 to +50), Ally (+51 to +80), Bound (+81 to +100)
+**Bond Tiers:** Nemesis (-100 to -51), Antagonist (-50 to -11), Distant (-10 to +10), Congenial (+11 to +50), Ally (+51 to +80), Soulbound (+81 to +100)
 
 ## Secrets Revealed
 
@@ -397,7 +397,7 @@ Review after each session to prepare for the next one.
 [ ] Update the campaign clock with days elapsed
 
 **Personal Preparation:**
-[ ] Re read any relevant lore or notes about upcoming locations
+[ ] Reread any relevant lore or notes about upcoming locations
 [ ] Practice voices or mannerisms for key NPCs
 [ ] Prepare any handouts, maps, or props for the next session
 [ ] Get a good night's sleep before game day

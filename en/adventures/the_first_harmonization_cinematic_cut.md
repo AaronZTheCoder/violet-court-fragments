@@ -1078,7 +1078,7 @@ The fifth name receives no detail yet.
 
 Wei taps the paper beside it.
 
-> "You work near these people."
+> "You work near most of these people."
 >
 > "You have heard them speak."
 >
@@ -5228,7 +5228,7 @@ If the player owns the fear:
 
 > "Fear recognized is not innocence."
 >
-> "It is merely an accurate assessment of myself."
+> "It is merely an accurate assessment of yourself."
 
 If the player transforms the answer:
 

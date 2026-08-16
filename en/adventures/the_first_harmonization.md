@@ -215,17 +215,17 @@ A single desk sits against the far wall. It is plain, unadorned, Ministry issue 
 
 A burned candle stub sits at the center of the desk, its wax pooled and hardened in a rough circle. The wick is black and curled. The candle was allowed to burn down completely, not extinguished. A small pile of ash on the desktop is all that remains of the papers they burned. The ash is grey, fine, unreadable. No words survived. No secrets remained. The floorboards near the desk are scored with the marks of a chair being shifted back and forth. The pattern suggests long hours of sitting, of writing, of waiting. Someone spent many nights in this room.
 
-The air smells faintly of sandalwood. The same expensive, imported sandalwood from the warning note. She was here. She was here recently. She is gone now.
+The air smells faintly of sandalwood. The same expensive, imported sandalwood from the warning note. He was here. He was here recently. He is gone now.
 
-**The Signless Teahouse (Eastern Market)**
+**The Teahouse of Whispered Petitions at Midday (Eastern Market)**
 
-The teahouse at the end of the Eastern Market alley is a different place than the one in the winding lane near the Court. This one is younger, louder, less careful. The door stands open during business hours, revealing a narrow room packed with small tables where merchants take their midday rest. The floor is pine, worn soft by sandals, stained by years of spilled tea. The walls are covered in papers: menus, notices, a handwritten poem about the moon pinned to the beam above the door.
+At midday, the teahouse at the end of the Eastern Market alley becomes a different place. It is louder, less careful. The door stands open during business hours, revealing a narrow room packed with small tables where merchants take their midday rest. The bamboo matting is worn soft by sandals and stained by years of spilled tea. Menus and notices are pinned to the beams, and a handwritten poem about the moon hangs above the door.
 
 The air is thick and warm and carries the smell of roasted barley, osmanthus flowers, and the sharp bite of cheap tea boiled too long. A large kettle sits on a charcoal brazier near the back, its lid rattling with the force of the steam inside. The woman who runs the teahouse is old, perhaps sixty, with hands that have been burned by hot water so many times that the skin is smooth and pale. She does not look at customers directly. She watches them in reflections: in the polished surface of the kettle, in the window glass, in the surface of her tea.
 
 The patrons at midday are a cross section of the city's middle layers. A paper merchant argues with a supplier over a shipment that arrived damaged. Two clerks from the Ministry of Rites share a plate of steamed dumplings, eating in the careful, silent way of people who are used to being overheard. An old soldier sits alone at the corner table, his tea untouched, his eyes fixed on something only he can see. No one looks at anyone else for too long. That is the etiquette of this place. You come here to be alone among others.
 
-The light comes from the open door and from two oil lamps hung from the ceiling beams. The lamps smoke slightly, leaving trails of soot on the ceiling that have built up over years into a black crust. The light is yellow and uneven, pooling on some tables and leaving others in shadow. Every table has a story. Every shadow holds a conversation that was never meant to be heard. The teahouse does not judge. The teahouse only listens.
+The light comes from the open door and from the three paper lanterns hanging at different heights. Their light is amber, soft, pooling on some tables and leaving others in shadow. Every table has a story. Every shadow holds a conversation that was never meant to be heard. The teahouse does not judge. The teahouse only listens.
 
 ## Part One: The Warning
 
@@ -580,7 +580,7 @@ He waits for acknowledgment before continuing.
 
 If the players ask what he wants:
 
-He reaches into his sleeve and produces a folded document. "I need you to confirm the associations of five individuals. You work alongside them. You know their views. Simply sign the statement confirming what you have observed. Nothing more. Nothing less."
+He reaches into his sleeve and produces a folded document. "I need you to confirm the associations of five individuals. You work alongside most of them. You know their views. Simply sign the statement confirming what you have observed. Nothing more. Nothing less."
 
 If the players ask what happens to the five:
 
@@ -592,7 +592,7 @@ His tone shifts. It does not become loud. It becomes quieter. Colder. "Let me be
 
 If the players ask who the five are:
 
-He unfolds the document and reads the names without emotion. "Second Archivist Yu. Scribe Min. Clerk Fen. Recorder Jia. Archivist Chen. You know them. You work with them. You have heard them speak. You have seen them at their desks. You know what they believe. Sign the document and return it to me by the end of the day."
+He unfolds the document and reads the names without emotion. "Second Archivist Yu. Scribe Min. Clerk Fen. Recorder Jia. Archivist Chen. You know them. You work alongside the first four. You have seen them at their desks. The fifth name is different; Archivist Chen is no longer at his desk. That is precisely why the Bureau wants his name confirmed. You know what they believe. Sign the document and return it to me by the end of the day."
 
 If the players refuse:
 
@@ -620,7 +620,7 @@ His face does not change. He retrieves the document, folds it precisely, and pla
 > _Date: _____________________
 > _Seal: _____________________
 
-**Host Note:** The five names are real people. The players have worked alongside them. If the players sign, these five colleagues will be investigated. They will almost certainly be Disappeared. The players will see their desks empty. If the players refuse, Wei will remember. The Golden Orthodoxy will remember. This is not a choice that goes away.
+**Host Note:** The five names are real people. Four of them are colleagues the players work alongside every day; the fifth, Archivist Chen, is already a fugitive, which is why the Bureau wants his name on a document. If the players sign, these five will be investigated. They will almost certainly be Disappeared. The players will see their desks empty. If the players refuse, Wei will remember. The Golden Orthodoxy will remember. This is not a choice that goes away.
 
 If the players sign, they gain +10 Faction Standing with the Golden Orthodoxy and +5 Ritual Harmony. They will also carry the weight of what they have done.
 
@@ -636,7 +636,7 @@ If the players refuse, the official's cordiality evaporates. "I see. The Bureau 
 >
 > **Iron Calculation (Engineer):** The document Wei presents has been drafted by a committee. There are three distinct handwriting styles in the marginal notes, two different ink densities, and the paper grain suggests it was assembled from multiple sources. This accusation was stitched together from separate complaints. The targets were chosen, not discovered.
 >
-> **Iron Wall (Knight):** The five names on the document are people you have seen in the corridors, shared meals with, exchanged nods with. You know their faces. You know that Second Archivist Yu has a child who is ill and that Scribe Min brings extra tea for the night shift. These are not abstract targets. They are people. The knight in you knows what honor demands.
+> **Iron Wall (Knight):** The first four names on the document are people you have seen in the corridors, shared meals with, exchanged nods with. You know their faces. You know that Second Archivist Yu has a child who is ill and that Scribe Min brings extra tea for the night shift. The fifth, Archivist Chen, is a name from a wanted notice rather than a face at a desk. Either way, these are not abstract targets. They are people. The knight in you knows what honor demands.
 >
 > **Bright Mirror (Paladin):** You read the document as evidence, not ceremony. Each accusation is phrased to sound final, yet none cites a witness, date, or supporting record. Your signature would turn an unsupported claim into official testimony and bind you to whatever follows. The effect on your Ritual Harmony is written into the act itself. Choose carefully.
 >
@@ -846,6 +846,11 @@ She composes herself. She takes a breath that shudders at the edges. "I will mee
 > - **Bone Script (Druid):** The alley mouths are packed dirt under the cobbles. Root Speech is too slow for combat, but Unlicensed Qi means the hired blades carry no ward, charm, or detection that will register you as a practitioner at all. You may act in the opening round as though unseen.
 > - **Incense Crown (Priestess):** You are a non combatant and should be played as one. What you can do is stand in the open street and state, loudly and in the formal register, what is being done and to whom. Presence + Performance TN 14. On success, windows open along the street, and hired men do not finish work that is being witnessed by name.
 > - **Stray Stroke (Wildcard):** Read the Road told you about this street before you entered it. Declare now that you noted the herder's gap behind the northern alley on the way in. The party has a retreat that passes neither alley mouth, and you can take one wounded ally through it.
+> - **Cinnabar Heart (Alchemist):** Can throw a blinding powder into the alley mouths (Intellect + Craft TN 12) to cover a retreat or an opening strike, and can treat one wound the moment the fighting stops.
+> - **Iron Calculation (Engineer):** Can use the abandoned crates to barricade one alley mouth in a single action (Intellect + Craft TN 12), cutting the attackers' approaches from three to two.
+> - **Bright Mirror (Paladin):** Truth Sight reads the blades' stance: they are hired, not devoted. Declare that aloud and name the price on their contract. Presence + Intimidation TN 14 makes the least loyal blade's first swing become a pause.
+> - **Duke of Eternal Night (Vampire):** The darkness of the alley mouths does not hinder you. You can move one zone without a roll to intercept the third blade before it reaches the door.
+> - **Celestial Book (Wizard):** Can read the alley mouths for the flow of Qi (Intellect + Qi Theory TN 12) to know the exact moment the third blade steps into range, giving the party a surprise round.
 >
 > **Faction Standing Changes:**
 >
@@ -1139,11 +1144,11 @@ The file is bound in faded red cloth. The name on the cover is unfamiliar until 
 
 > _Name: Yun Shu_
 > _Position: Third Recorder, Bureau of Harmonious Records_
-> _Tenure: 12 years, 4 months_
+> _Tenure: Twelve years, four months_
 > _Performance: Consistently satisfactory. No disciplinary actions. No commendations. No notable incidents._
 >
 > _Narrative Erasure Record:_
-> _Subject was audited on the 18th day of the 6th month, Year of the Iron Serpent. Subject was found to have engaged in heterodox associations. Subject was Disappeared on the 22nd day of the 6th month._
+> _Subject was audited on the eighteenth day of the sixth month, Year of the Iron Serpent. Subject was found to have engaged in heterodox associations. Subject was Disappeared on the twenty second day of the sixth month._
 >
 > _Post Erasure Notes:_
 > _Subject's position has been filled and refilled four times since narrative erasure. Each occupant has undergone a Harmonization Audit within their first year. The position appears to be under observation. Reason for repeated Audits is not recorded._
@@ -1287,7 +1292,7 @@ The shadow is not Ash's. It is something that attached itself to her during her 
 
 ### Optional Encounter: The Colleague Who Knows Too Much
 
-Three days before the Audit, a junior official approaches one of the players in a corridor. She is agitated, looking over her shoulder constantly. Her name is Scribe Hui.
+Late in the week, a junior official approaches one of the players in a corridor. She is agitated, looking over her shoulder constantly. Her name is Scribe Hui.
 
 **Read Aloud:**
 
@@ -1548,6 +1553,10 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 > - **Bone Script (Druid):** Unlicensed Qi means the Dusk Hounds' handlers could not have keyed anything to find you, and the collars are Crimson Lineage work with a ward woven through them. You may enter the corridor without triggering it. Against the human agents this does nothing whatsoever, and you should be honest with the table about which enemy you are facing before you rely on it.
 > - **Incense Crown (Priestess):** Declare your quarters consecrated. You have the standing and it takes one sentence. Agents in Commission uniforms, real or forged, must then either withdraw or commit, in front of witnesses, to seizing a person off sanctuary ground. Presence + Persuasion TN 16. Dusk Hounds are unaffected, because they cannot read.
 > - **Stray Stroke (Wildcard):** You do not sleep in a room with one exit and you have not for twenty five years. Declare the second exit now. The party retreats through the drying loft, and you have already tested that the ladder holds, because you test on the first night in any building and did not mention it because it did not seem worth mentioning.
+> - **Cinnabar Heart (Alchemist):** The assassins' blades are poisoned, and poison has a smell. A damp cloth pressed over the mouth and nose (one action, no roll) grants advantage on the Resolve test against the poison for one ally.
+> - **Iron Calculation (Engineer):** Can map the night's patrol pattern from what the party has already observed (Intellect + Investigation TN 12) and declare a two minute window in which no Commission patrol will pass, letting the party move the fight to the stairwell or flee without pursuit.
+> - **Bright Mirror (Paladin):** The forged uniforms are wrong: the stitching is a messenger's only where it shows, and one assassin's hands are calloused like a soldier's. Declaring the forgery aloud (Presence + Performance TN 14) makes the assassins hesitate for one round, worried the room has been warned.
+> - **Duke of Eternal Night (Vampire):** The dark corridor is your element. You can reach the stairwell without a roll to cut off the assassins' escape, or intercept one before it reaches the quarters.
 >
 > **Faction Standing Changes:**
 >
@@ -1953,6 +1962,8 @@ She looks at the player for a long, searching moment. Her professional composure
 > - **Bone Script (Druid):** Use The Names in the Bone on yourself, not on the fight. When the enforcers reach for the condemned player and every other person in the room calculates their exposure, touch a token and do not move away from the chair. Say the name aloud. The Host should give the condemned player one round in which everyone in the chamber is looking at you instead.
 > - **Incense Crown (Priestess):** This is what the Rite That Cannot Lapse is for. Stand and raise the procedural question. The proceeding is suspended and deferred indefinitely and the enforcers stop, because the only official who could overrule you would be entering a refusal of the Emperor's continuance into the permanent record under his own name. It works once. It protects the proceeding rather than the person, and a condemned player who runs anyway is still a fugitive.
 > - **Stray Stroke (Wildcard):** You are no use in this fight and should not pretend otherwise. What you have is the corridor. Declare that you walked the Ministry's service passages during the preparation phase. You can take one person out through them and put them beyond the eastern watch by morning, and you will have to spend a name to do it.
+> - **Iron Calculation (Engineer):** Can calculate the enforcers' movements from the chamber's design (Intellect + Investigation TN 12) and declare the moment the side door will be watched least, buying the escaping player one extra round of uncontested movement.
+> - **Bright Mirror (Paladin):** Can stand between the condemned player and the enforcers and state the charges that were never proven, naming each gap in the record aloud. No roll is required; witnesses make their work visible, and the enforcers pause for one breath.
 
 ### The Judgment Announcement
 
@@ -2329,7 +2340,7 @@ Print this for the players when Censor Wei presents it. Let them read every name
 > _Date: _____________________
 > _Seal: _____________________
 
-**Host Note:** Read the names aloud when you present this document. Pause after each name. Let the players sit with the weight of what they are being asked to do. These are people they know. People they work with. People who will be taken away if the players sign.
+**Host Note:** Read the names aloud when you present this document. Pause after each name. Let the players sit with the weight of what they are being asked to do. These are people they know. Four of them are people they work with. People who will be taken away if the players sign.
 
 ### Closing Notes for the Host
 

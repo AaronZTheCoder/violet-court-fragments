@@ -429,4 +429,4 @@ Rival Schools: Golden Orthodoxy (over what purity means), Crimson Lineage (over 
 - Neutral (0): No special treatment. Standard interaction. No hostility but no help.
 - Suspect (-20): School is wary. Services restricted. Character may be watched.
 - Hostile (-50): School actively opposes the character. Denied services. Potential for violence.
-- Sworn Enemy (-80+): School dedicates resources to the character's destruction. Assassins. Blacklists. Open hostility.
+- Sworn Enemy (-80 or below): School dedicates resources to the character's destruction. Assassins. Blacklists. Open hostility.

@@ -313,11 +313,11 @@ The Risk table assumes the following definitions for Faction Standing:
 
 ### Worked Example: Calculating Risk
 
-Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Crimson Lineage -12, Common Flame +15, Iron Calculation 0.
+Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage -12, Common Flame +15, Bright Mirror +10.
 
 Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has -12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
-On the table, comparing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "Moderate Risk." This means on a d20, Mara is Cleared on 12+, Sanctioned on 5 to 11, and Disappeared on 1 to 4. She has a 35 percent chance of being Sanctioned and a 20 percent chance of Disappearing. She will probably survive, but better than half her survival is owed to a single faction that has decided she is worth a word in the right room.
+On the table, comparing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "Moderate Risk." This means on a d20, Mara is Cleared on 12+, Sanctioned on 5 to 11, and Disappeared on 1 to 4. She has a thirty five percent chance of being Sanctioned and a twenty percent chance of Disappearing. She will probably survive, but better than half her survival is owed to a single faction that has decided she is worth a word in the right room.
 
 If Mara had Ritual Harmony 55 and had cultivated the Verdant Path to +30, she would have Strong Protection and face Low Risk (Cleared on 8+, Sanctioned on 3 to 7, Disappeared on 1 to 2). If she had Ritual Harmony 35 and Enemies, she would face Terminal Risk (Cleared on 20 only, Sanctioned on 15 to 19, Disappeared on 1 to 14). The wide range of possible outcomes shows why faction management and Ritual Harmony maintenance matter so much in the approach to an Audit.
 
@@ -2324,7 +2324,7 @@ The Violet Court supports a wide range of character types. When your table has m
 
 ## When Players Surprise You
 
-No plan survives contact with the players. This section covers eight common player actions that can derail a Host's preparation, with practical advice for handling each one. The key principle across all of them is the same: player agency is not a threat to the story. It is the story.
+No plan survives contact with the players. This section covers ten common player actions that can derail a Host's preparation, with practical advice for handling each one. The key principle across all of them is the same: player agency is not a threat to the story. It is the story.
 
 ### They Want to Kill a Major NPC
 

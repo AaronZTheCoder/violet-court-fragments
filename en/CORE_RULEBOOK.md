@@ -427,7 +427,7 @@ Here is a complete walkthrough of creating a character from nothing to ready for
 
 **Step 6: Truth.** Alex decides: "I know that a senior member of the Golden Orthodoxy has been meeting with a representative of the Crimson Dusk. I witnessed the meeting by accident while following a different target. I have not reported it because I am not sure who to trust."
 
-**Step 7: Faction Standing.** Night Warbler baseline: Neutral with the Golden Orthodoxy and Iron Calculation, slightly positive with the Crimson Lineage, slightly negative with the Verdant Path and Bright Mirror, and strongly negative with the Common Flame. The Bureau of Internal Harmony is Cinder's nominal employer, but it is an institution rather than one of the six Schools.
+**Step 7: Faction Standing.** Night Warbler baseline: Neutral with the Golden Orthodoxy, slightly negative with the Verdant Path, Neutral with the Iron Calculation, slightly positive with the Crimson Lineage, strongly negative with the Common Flame, and slightly negative with the Bright Mirror. The Bureau of Internal Harmony is Cinder's nominal employer, but it is an institution rather than one of the six Schools.
 
 **Step 8: Name and History.** "My name is Cinder. I was a street child in the capital's outer districts. The Bureau of Internal Harmony recruited me at age fifteen because I could get into places I should not be able to get into. I have served them for twelve years. I am good at my job. I am starting to wonder if I am on the right side."
 
@@ -614,7 +614,7 @@ Combat unfolds in rounds. Each round represents roughly six seconds of action. W
 
 ### Step One: Determine Initiative
 
-At the start of combat, every participant makes a **Swiftness check** (d20 + Swiftness Modifier). The Host may grant Advantage to characters who have prepared an ambush or Disadvantage to characters who are surprised. Results are ranked highest to lowest to determine turn order.
+At the start of combat, every participant makes an **initiative check** (d20 + Initiative: Swiftness Modifier plus any Archetype bonuses). The Host may grant Advantage to characters who have prepared an ambush or Disadvantage to characters who are surprised. Results are ranked highest to lowest to determine turn order.
 
 The Host may also choose to use **Side Initiative**: all players act in any order they choose, then all enemies act, or vice versa. This is faster for large encounters and encourages teamwork.
 
@@ -653,7 +653,7 @@ Zones allow the Host to describe combat in vivid terms without counting squares.
 
 ### Damage and Dying
 
-When you hit with an attack, roll the weapon's damage dice and add the relevant Facet Modifier (Might for melee, Intellect for Qi Techniques). Subtract the total from the target's HP.
+When you hit with an attack, roll the weapon's damage dice and add the relevant Facet Modifier (Might for melee, Swiftness for ranged, Intellect for Qi Techniques). Subtract the total from the target's HP.
 
 When a character reaches **0 HP**, they are **Dying**. At the start of each of their turns while Dying, they make an Endurance check against TN 15. On a success, they stabilize but remain unconscious. On a failure, they worsen. After three cumulative failures before a success, the character dies.
 
@@ -798,7 +798,7 @@ Cinder's turn.
 
 Cinder's player: "The balcony is right there. I vault over the railing onto the balcony Zone to get elevation and a better position. From there, I draw a dagger and throw it at the nearest attendant."
 
-Cinder rolls Acrobatics (for the vault). d20 shows 12 + Swiftness modifier (+4) + Proficiency in Acrobatics (+2) = 18 against TN 10 (routine). Success.
+Cinder rolls Acrobatics (for the vault). d20 shows 12 + Swiftness modifier (+4) + Proficiency in Acrobatics (+2) = 18 against TN 8 (routine). Success.
 
 Host: "You flow over the railing like water. Guests scatter. You land softly on the balcony and immediately go for your blade."
 
@@ -1747,7 +1747,7 @@ Create a new character. The new character inherits the knowledge your previous c
 
 **How long does a campaign last?**
 
-A full campaign of the Violet Court Fragments typically runs 12 to 20 sessions, or about three to six months of regular play. Shorter stories and adventures designed for one session are also possible.
+A full campaign of the Violet Court Fragments typically runs twelve to twenty sessions, or about three to six months of regular play. Shorter stories and adventures designed for one session are also possible.
 
 **Do I need to read the whole rulebook?**
 
@@ -1842,7 +1842,7 @@ Each player, during character creation, chooses one faction they have a personal
 Between sessions, characters can pursue downtime activities. Each day of downtime allows one activity:
 
 - Research: Make an Intellect check against TN 15. On success, learn one piece of useful information.
-- Train: Spend 2 downtime days to make progress on learning a new Skill proficiency. The Host determines the total days required (typically 20 to 30 for a new Skill).
+- Train: Spend two downtime days to make progress on learning a new Skill proficiency. The Host determines the total days required (typically twenty to thirty for a new Skill).
 - Socialize: Spend time with an NPC. Make a Presence check to improve their Stance by one step.
 - Craft: Use Craft proficiency to create an item. Cost is half the item's listed price. Time is one day per 5 Silver of the item's cost.
 - Recover: Double the normal Sanity recovery rate for rest.
@@ -1851,11 +1851,11 @@ Between sessions, characters can pursue downtime activities. Each day of downtim
 
 When a character is reduced to 0 HP and stabilized, they gain a lingering injury determined by a d6 roll:
 
-1. Broken rib. Disadvantage on Might checks for 1 week.
-2. Deep scar. Disadvantage on Presence checks involving appearance for 1 month.
-3. Concussion. Disadvantage on Intellect checks for 1 week.
-4. Torn muscle. Disadvantage on Athletics and Acrobatics checks for 1 week.
-5. Nerve damage. Disadvantage on Precision checks for 1 month.
+1. Broken rib. Disadvantage on Might checks for one week.
+2. Deep scar. Disadvantage on Presence checks involving appearance for one month.
+3. Concussion. Disadvantage on Intellect checks for one week.
+4. Torn muscle. Disadvantage on Athletics and Acrobatics checks for one week.
+5. Nerve damage. Disadvantage on Precision checks for one month.
 6. Psychological trauma. Lose 1d4 maximum Sanity permanently.
 
 ---
@@ -2125,7 +2125,7 @@ These example characters are ready to use in games lasting one session or as tem
 
 **Steady Hand Zheng (Iron Wall).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 18, Intellect 12, Presence 16, Resolve 14.
 
-**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made his doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
+**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made him doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
 
 **Old Moss (Guest Among Forests).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers the Emperor's last public judgment in Year 287 and the words He spoke before the assembled Court. Might 10, Swiftness 16, Endurance 14, Intellect 16, Presence 16, Resolve 16.
 
@@ -2169,6 +2169,34 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Influence.** Strongest in the Bureau of Harmonious Narrative and the religious institutions of the capital.
 
+### The Verdant Path
+
+**Symbol.** A tree whose roots and branches form a circle.
+
+**Philosophy.** The empire is part of the natural world, not separate from it. The Crimson Dusk is a wound in reality caused by the empire's disconnection from nature. Healing the empire means healing the land first. Politics is a distraction.
+
+**Leader.** Guest Among Forests, Representative of the Northern Expanse and Voice of the Verdant Path.
+
+**Allies.** No permanent allies. The Verdant Path cooperates with anyone who advances ecological healing.
+
+**Enemies.** The Iron Calculation (exploits natural resources without regard for consequences).
+
+**Influence.** Weak in the capital. Strong in the northern provinces and among rural communities.
+
+### The Iron Calculation
+
+**Symbol.** A gear with visible inner mechanisms.
+
+**Philosophy.** The empire is a machine. Every part must function efficiently. Sentiment, tradition, and bloodlines are irrelevant. Only results matter. The Emperor's silence is a management problem. If the machine is maintained, it can run without an Emperor indefinitely.
+
+**Leader.** Iron Calculation, Director of the State Planning Commission.
+
+**Allies.** The Crimson Lineage (pragmatic partnership). Any faction that can provide resources or access.
+
+**Enemies.** The Golden Orthodoxy (sees tradition as inefficient). The Verdant Path (sees their ecological concerns as obstacles to progress).
+
+**Influence.** Dominant in the industrial and economic sectors. Controls the flow of resources through the empire.
+
 ### The Crimson Lineage
 
 **Symbol.** A perfect circle pierced by seven lines, representing the seven noble bloodlines.
@@ -2197,20 +2225,6 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Influence.** Weak in official institutions. Strong in the Outer City, the provinces, and among the disenfranchised.
 
-### The Iron Calculation
-
-**Symbol.** A gear with visible inner mechanisms.
-
-**Philosophy.** The empire is a machine. Every part must function efficiently. Sentiment, tradition, and bloodlines are irrelevant. Only results matter. The Emperor's silence is a management problem. If the machine is maintained, it can run without an Emperor indefinitely.
-
-**Leader.** Iron Calculation, Director of the State Planning Commission.
-
-**Allies.** The Crimson Lineage (pragmatic partnership). Any faction that can provide resources or access.
-
-**Enemies.** The Golden Orthodoxy (sees tradition as inefficient). The Verdant Path (sees their ecological concerns as obstacles to progress).
-
-**Influence.** Dominant in the industrial and economic sectors. Controls the flow of resources through the empire.
-
 ### The Bright Mirror
 
 **Symbol.** A mirror that reflects only the viewer's eyes.
@@ -2224,20 +2238,6 @@ The six Schools of Thought compete for influence within the Court. Understanding
 **Enemies.** The Common Flame (by definition). Anyone who questions the Commission's authority.
 
 **Influence.** The Commission has the power to investigate, arrest, and punish anyone in the empire. Their authority is broad. Their reach is limited by the number of agents and the political cost of targeting powerful figures.
-
-### The Verdant Path
-
-**Symbol.** A tree whose roots and branches form a circle.
-
-**Philosophy.** The empire is part of the natural world, not separate from it. The Crimson Dusk is a wound in reality caused by the empire's disconnection from nature. Healing the empire means healing the land first. Politics is a distraction.
-
-**Leader.** Guest Among Forests, Representative of the Northern Expanse and Voice of the Verdant Path.
-
-**Allies.** No permanent allies. The Verdant Path cooperates with anyone who advances ecological healing.
-
-**Enemies.** The Iron Calculation (exploits natural resources without regard for consequences).
-
-**Influence.** Weak in the capital. Strong in the northern provinces and among rural communities.
 
 ---
 
@@ -2321,9 +2321,9 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 ### Medicinal Substances
 
-**Sleepwine.** A mild sedative. A dose induces deep sleep for 4 to 6 hours. Difficult to wake the drinker during that time. Costs 5 Silver per dose.
+**Sleepwine.** A mild sedative. A dose induces deep sleep for four to six hours. Difficult to wake the drinker during that time. Costs 5 Silver per dose.
 
-**Stimulant Powder.** Ground from a rare mountain root. Keeps the user awake and alert for 8 hours. After the effect fades, the user has Disadvantage on Endurance checks until completing a short rest. Costs 3 Silver per dose.
+**Stimulant Powder.** Ground from a rare mountain root. Keeps the user awake and alert for eight hours. After the effect fades, the user has Disadvantage on Endurance checks until completing a short rest. Costs 3 Silver per dose.
 
 **Clarity Incense.** Burned during meditation. Restores an additional 1d4 Qi during a short rest. Costs 2 Gold per stick.
 
@@ -2333,13 +2333,13 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 ### Poisons
 
-**Slow Dissolution.** Ingested. The victim takes 1d4 poison damage every hour for 6 hours. Symptoms resemble a mild illness. Difficult to detect (TN 18 Investigation to identify). Costs 10 Silver.
+**Slow Dissolution.** Ingested. The victim takes 1d4 poison damage every hour for six hours. Symptoms resemble a mild illness. Difficult to detect (TN 18 Investigation to identify). Costs 10 Silver.
 
 **Quickfade.** Contact poison. The victim falls unconscious for 1d4 hours. No damage. No memory of the moments before falling asleep. Costs 2 Gold.
 
-**Silent Knot.** Ingested. Paralyses the vocal cords. The victim cannot speak for 24 hours. Qi Techniques that require verbal components cannot be used. Costs 5 Silver.
+**Silent Knot.** Ingested. Paralyses the vocal cords. The victim cannot speak for twenty four hours. Qi Techniques that require verbal components cannot be used. Costs 5 Silver.
 
-**Red Rust.** Inhaled or ingested. Causes internal bleeding. The victim takes 2d6 damage immediately and 1d6 damage at the start of each turn for 3 turns. Costs 3 Gold.
+**Red Rust.** Inhaled or ingested. Causes internal bleeding. The victim takes 2d6 damage immediately and 1d6 damage at the start of each turn for three turns. Costs 3 Gold.
 
 **Mercy's End.** Injected. A painless death that mimics natural heart failure. Untraceable by standard autopsy. Costs 10 Gold.
 
@@ -2347,7 +2347,7 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 **General Antidote.** Grants Advantage on Fortitude checks against any poison for one hour. Costs 1 Gold.
 
-**Specific Antivenom.** Automatically cures one specific poison if administered within 10 minutes. Must be matched to the poison. Costs 5 to 20 Gold depending on rarity.
+**Specific Antivenom.** Automatically cures one specific poison if administered within ten minutes. Must be matched to the poison. Costs 5 to 20 Gold depending on rarity.
 
 **Purifying Bloom.** A rare flower that, when eaten, cures all poison effects and restores 1d4 HP. Costs 8 Gold.
 
@@ -2373,7 +2373,7 @@ Some areas are drained of Qi or actively suppress it:
 
 **Commission Interrogation Rooms.** Wards built into the walls suppress Qi. Characters in these rooms cannot use Techniques. Qi Pools are inaccessible.
 
-**The Dusk Frontier.** As the Crimson Dusk spreads, Qi becomes erratic. Techniques have a 50 percent chance of costing double their listed Qi cost. Qi Disharmony checks are made with Disadvantage.
+**The Dusk Frontier.** As the Crimson Dusk spreads, Qi becomes erratic. Techniques have a fifty percent chance of costing double their listed Qi cost. Qi Disharmony checks are made with Disadvantage.
 
 **Ancient Silence Zones.** Rare locations where Qi has never flowed. Characters who enter these zones feel a profound emptiness. Techniques cannot be used. Every hour spent in a silence zone costs 1d4 Sanity as the character senses the absence of something fundamental.
 

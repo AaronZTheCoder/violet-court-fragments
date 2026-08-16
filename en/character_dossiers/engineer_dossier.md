@@ -86,7 +86,7 @@ So you improve extraction systems. Sixty one percent is real. It is not enough a
    "Fascinating. The original designer was either a genius working with incomplete information or a fool who got lucky. Based on the join tolerances and the Qi conduit diameter, I am currently leaning toward the former. I reserve the right to revise my assessment."
 
 6. When an ally is in danger:
-   "Step aside. I have calculated the probability of your survival in that position. It is 17 percent. I have calculated my own at 43 percent. I am the better option. This is not bravery. This is arithmetic."
+   "Step aside. I have calculated the probability of your survival in that position. It is seventeen percent. I have calculated my own at forty three percent. I am the better option. This is not bravery. This is arithmetic."
 
 7. At the end of a long day, to no one in particular:
    "I have optimized another portion of the empire. It will function more smoothly now. People will live slightly better lives. Other people will live slightly worse ones. The net improvement is positive. I have verified this three times. I do not know why I keep verifying."
@@ -102,7 +102,7 @@ So you improve extraction systems. Sixty one percent is real. It is not enough a
 
 **Examiner Vesh, Iron Calculation.** Vesh is the one who recruited you. He is old now, retired to a research position in the School's archives. He was the first person who ever looked at your diagrams and saw intelligence instead of obsession. He corresponds with you still. His letters are increasingly concerned. He asks if you have looked at the depletion data. He asks if you have noticed the pattern. He uses phrases like "the long collapse" and "the coming winter." You have stopped answering his letters. You cannot tell him you have already seen the data. You cannot tell him you have already done the math.
 
-**Quartermaster Hao, Imperial Garrison.** Hao is the only soldier you respect. You designed a supply chain system for the Garrison that reduced waste by 30 percent. Hao implemented it personally. He came to your office afterward and shook your hand. His grip was crushing. He said, "You made my people's lives better. I will remember that." You have never known how to respond to gratitude. You think about Hao when you are designing systems that hurt people. You wonder what he would say if he knew. You hope he never finds out.
+**Quartermaster Hao, Imperial Garrison.** Hao is the only soldier you respect. You designed a supply chain system for the Garrison that reduced waste by thirty percent. Hao implemented it personally. He came to your office afterward and shook your hand. His grip was crushing. He said, "You made my people's lives better. I will remember that." You have never known how to respond to gratitude. You think about Hao when you are designing systems that hurt people. You wonder what he would say if he knew. You hope he never finds out.
 
 **The Disappeared Predecessor.** You found their notes on the depletion curve hidden inside a disassembled Qi condenser. The notes were meticulous. They had reached the same conclusion you have. Their final entry reads: "I have presented my findings to the Commission. They thanked me for my service. They reassigned me to the Northern Territories. The assignment does not exist." You searched the Commission records. There is no Northern Territories assignment. There is no record of your predecessor after that date. You have stopped searching. You know what happens to engineers who deliver bad news.
 
@@ -146,7 +146,7 @@ You spend 3 Qi and the abacus glows. "Archer to the ridge on the left. Swordsman
 
 The door to the Qi distribution hub is sealed with a lock that would take hours to pick. You do not pick it. You press your State Planning Commission Seal to the reader. The mechanism hesitates. You are not authorized for this sector. But you know the authorization protocols because you helped design them. You lean close to the reader and speak the override code in a calm, flat voice. The lock clicks open.
 
-Inside, you find the records you need. A ledger showing Qi transfers that do not match any known distribution route. A manifest signed by a name that does not appear in the personnel database. You photograph each page with the crystal in your goggles. You are not supposed to be here. The system knows you are here. Someone will be watching. That is acceptable. You have what you came for. Before leaving, you check the hub's Qi condenser for efficiency. It is running at 78 percent. You adjust a valve and bring it to 94 percent on your way out. You cannot help yourself.
+Inside, you find the records you need. A ledger showing Qi transfers that do not match any known distribution route. A manifest signed by a name that does not appear in the personnel database. You photograph each page with the crystal in your goggles. You are not supposed to be here. The system knows you are here. Someone will be watching. That is acceptable. You have what you came for. Before leaving, you check the hub's Qi condenser for efficiency. It is running at seventy eight percent. You adjust a valve and bring it to ninety four percent on your way out. You cannot help yourself.
 
 ## Expanded Truths
 
@@ -170,11 +170,11 @@ _Complication:_ Lady Yuran has offered you a deal. She will stop siphoning Qi if
 
 You wake at the same time every day: one hour before dawn. You perform a system check on your constructs before you perform any personal hygiene. The constructs are in order. You are permitted to proceed.
 
-You walk to the Commission offices through the industrial district. You do not take the faster route through the merchant quarter because you prefer to see the machines at work. The foundries. The Qi condensers. The steam pumps. You greet the night shift supervisors by name. You know their names because knowing a worker's name increases their productivity by approximately 4 percent.
+You walk to the Commission offices through the industrial district. You do not take the faster route through the merchant quarter because you prefer to see the machines at work. The foundries. The Qi condensers. The steam pumps. You greet the night shift supervisors by name. You know their names because knowing a worker's name increases their productivity by approximately four percent.
 
 Your desk is organized by a system you designed. Nothing is out of place. You spend the morning reviewing reports from across the empire: grain yields in the eastern provinces, Qi consumption rates in the capital, labor output in the southern mines. You flag anomalies. You dispatch inquiries. You receive answers that tell you less than you need to know.
 
-You eat lunch alone. You have tried eating with colleagues. The conversation slows your digestion and reduces your afternoon productivity by 9 percent. You eat a meal that you have calculated for optimal nutrition per copper leaf. It tastes like nothing. This is acceptable.
+You eat lunch alone. You have tried eating with colleagues. The conversation slows your digestion and reduces your afternoon productivity by nine percent. You eat a meal that you have calculated for optimal nutrition per copper leaf. It tastes like nothing. This is acceptable.
 
 The afternoon is for field work. Inspections. Audits. Problem solving. You visit sites where the numbers do not match reality. You find the variance. You correct it. You feel something that might be satisfaction.
 

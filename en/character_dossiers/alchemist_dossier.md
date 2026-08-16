@@ -81,7 +81,7 @@ During a long rest, you may prepare a number of elixirs equal to your Intellect 
 - **Truth Serum:** The drinker must make a Resolve check (TN 16) or answer the next question truthfully. The drinker is aware of the effect afterward.
 - **Shadow Essence:** The drinker gains Advantage on their next Stealth check. Their movements become slightly blurred.
 
-Elixirs remain potent for 24 hours. Unused elixirs lose their effect.
+Elixirs remain potent for twenty four hours. Unused elixirs lose their effect.
 
 ### Narrative Authority
 

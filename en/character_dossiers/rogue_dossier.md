@@ -10,11 +10,15 @@
 
 ### Default Gender: Male
 
+---
+
 ## Description
 
 You are a shadow in a city built of shadows. You know where the bodies are buried because you helped bury some of them. You trade in secrets the way others trade in grain. You have no school, no patron, no ideology. You have leverage. You have survival instincts so sharp they cut.
 
 You were born in the Warrens beneath Xiaoyuan, child of a disgraced official and a teahouse worker. You learned to read the secrets people whispered, to trade information for food, to survive by being more useful alive than dead. You are still doing that. The scale has changed. The principle has not.
+
+---
 
 ## Expanded Backstory
 
@@ -114,6 +118,8 @@ When your philosophy of pragmatic survival is challenged by someone who believes
 When alone, going through your files by candlelight:
 "Every person in this city has a secret. Every official has a weakness. Every faction has a crack. I have built a map of all those cracks. I know where the pressure points are. I know who will break and who will hold. I am the only person who sees the whole picture. If I died tonight, the knowledge would die with me. Maybe that would be a mercy. Maybe the city deserves to crumble under the weight of its own secrets. But I am still here. I am still keeping the map. I do not know why."
 
+---
+
 ## Personal Connections
 
 **Duke of Eternal Night (Crimson Lineage Patriarch):** You have done work for the Duke over the years, mostly discreet inquiries that needed a touch the Lineage could not officially provide. The Duke pays well and asks no questions, which is the highest compliment a patron can offer in your profession. You are not foolish enough to trust a vampire who has lived eight hundred years. But you respect his consistency. He has never betrayed a deal, which is more than you can say for most living patrons. You suspect he knows more about you than he lets on. You suspect he knows everything about everyone. The thought keeps you up some nights.
@@ -132,6 +138,8 @@ When alone, going through your files by candlelight:
 
 **Your Stepfather Jaren (dockworker, deceased):** Your mother's second husband was a simple man. He worked the docks. He came home tired every night and still found the energy to ask about your day. He never treated you as anything but his own. He taught you to tie knots that you still use in your work. He taught you to read the weather by the smell of the wind. He was killed in a dock accident two years after the Crimson Lineage incident, crushed between two cargo crates when a winch failed. You know it was not an accident. The winch was tampered with. The tampering was meant for someone else, a foreman who had angered the wrong people. Jaren was simply in the wrong place. You have never told your mother. You have never investigated further. You let him be a dock accident in her memory because she deserves to believe that the world is not as cruel as it is.
 
+---
+
 ## Roleplaying Guide
 
 **Internal Conflict:** You are caught between two irreconcilable truths. The first is that you have survived by treating information as a commodity, by never forming attachments, by always having an exit plan. The second is that you are tired. You are tired of looking over your shoulder. You are tired of calculating everyone's angle. You are tired of being useful instead of being real. Part of you wants to burn your network, destroy your blackmail files, and start over as someone who does not know the things you know. The other part knows that the person you would become would not survive a week.
@@ -148,6 +156,8 @@ When alone, going through your files by candlelight:
 
 **Your Tell When You Are Being Sincere:** You become simpler. Your sentences shorten. Your hands stop moving. When you tell the truth about something that matters, you say it plainly and without embellishment. You do not meet the person's eyes when you say it. You look at the ground, as if the truth is heavier than you can carry while standing upright.
 
+---
+
 ## Ability Examples
 
 **Been Here Before:**
@@ -158,6 +168,8 @@ The party needs a specific alchemical reagent to complete a ritual, and the only
 
 **Not Worth the Trouble:**
 An Iron Calculation enforcer has cornered you in a dead end alley. He is bigger than you, armed, and clearly paid to make an example of someone. You do not draw your daggers. You do not run. You meet his eyes and you speak, quietly, calmly. You mention the outstanding bounty on his head in three provinces. You mention that the man who hired him has been skimming from his own organization. You mention that you have already sent a copy of tonight's events to three different interested parties. The enforcer hesitates. He calculates. He decides you are more trouble than you are worth. He backs away. You tip your hood and walk past him. You do not look back.
+
+---
 
 ## Expanded Truths
 
@@ -176,6 +188,8 @@ _Complication:_ You recently discovered that your mysterious client is paying yo
 **Suggested Truth 5 (New):** A childhood friend from the Warrens believes you died in a factory accident fifteen years ago. They have built a good life. They are married. They have a child. You have watched them from a distance. You have never approached.
 
 **Suggested Truth 6 (New):** The document your father hid before his death was not a financial record. It was a confession, signed by a current Grand Council member, detailing crimes that would shatter the current administration. You found it five years ago. You have not used it. You have not destroyed it. You keep it in a sealed box under a loose floorboard in a room you have not visited in three years.
+
+---
 
 ## Daily Life
 
@@ -201,15 +215,19 @@ What you dread most is a quiet evening with nothing to do. When the deals are do
 
 You keep a journal, though you would never call it that. It is a record of debts, favors, and leverage points, written in a code that only you understand. But in the margins, in the spaces between the transactions, you have written other things. A line of poetry your father used to recite. The date of your mother's birthday. Grey Willow's name, followed by the names of every person from her network whose fate you have learned. You do not write these things to preserve them. You write them because the act of writing makes them real, and you need some things to be real in a life where most things are constructed and contingent. The journal is hidden in a waterproofed compartment in the ceiling of a safe house you have not used in two years. You check on it once a month. You add nothing. You simply confirm that it is still there, that the words have not faded, that you have not imagined the entire record of your life. It is a small anchor in a life that has very few anchors. You do not know what you will do with it when you are gone. You do not know if anyone will find it. You keep it anyway. Keeping it is a kind of hope, and hope is the one commodity you have never learned to trade.
 
+---
+
 ## Expanded Advancement
 
-**Level 3: Quick Exit.** _Narrative Description._ The first time you use Quick Exit, it feels like falling. Your body moves before your mind decides, carrying you through a door you did not know was there, down a passage you had not consciously registered. You emerge in a place you recognize but did not choose. Your heart is pounding. Your hands are empty. You realize that your survival instincts have become something separate from you, something that makes decisions faster than you can approve or reject them. The cost of this gift is a growing distance between the person you are and the person who makes these choices. You are becoming two people: the one who runs and the one who watches the running and wonders who decided to flee.
+**Level 3: Quick Exit.** The first time you use Quick Exit, it feels like falling. Your body moves before your mind decides, carrying you through a door you did not know was there, down a passage you had not consciously registered. You emerge in a place you recognize but did not choose. Your heart is pounding. Your hands are empty. You realize that your survival instincts have become something separate from you, something that makes decisions faster than you can approve or reject them. The cost of this gift is a growing distance between the person you are and the person who makes these choices. You are becoming two people: the one who runs and the one who watches the running and wonders who decided to flee.
 
-**Level 5: Leverage.** _Narrative Description._ Your network has grown beyond your ability to personally manage. You now know people who know people, chains of obligation that stretch across the city like roots. When you call in a favor, you feel the weight of the entire network shifting, each debt repaid creating a new imbalance somewhere else. You are becoming less a person and more a node, a point where transactions pass through. The efficiency is intoxicating. The loss of self is subtle. You begin to forget what it felt like to want something that could not be traded for.
+**Level 5: Leverage.** Your network has grown beyond your ability to personally manage. You now know people who know people, chains of obligation that stretch across the city like roots. When you call in a favor, you feel the weight of the entire network shifting, each debt repaid creating a new imbalance somewhere else. You are becoming less a person and more a node, a point where transactions pass through. The efficiency is intoxicating. The loss of self is subtle. You begin to forget what it felt like to want something that could not be traded for.
 
-**Level 7: Ghost.** _Narrative Description._ The first time you walk past a guard who does not see you, you feel a cold joy that is also terrifying. You test it. You walk through crowded streets and watch people's eyes slide over you. You stand in a room full of people and no one looks your way. You are not invisible. You are forgettable. You are the person the mind decides is not worth noticing. The power is immense. The loneliness is worse. You begin to wonder if you are becoming a ghost in truth, if the living world is slowly forgetting you exist. Some nights, you stand in front of a mirror and try to remember what your own face looks like.
+**Level 7: Ghost.** The first time you walk past a guard who does not see you, you feel a cold joy that is also terrifying. You test it. You walk through crowded streets and watch people's eyes slide over you. You stand in a room full of people and no one looks your way. You are not invisible. You are forgettable. You are the person the mind decides is not worth noticing. The power is immense. The loneliness is worse. You begin to wonder if you are becoming a ghost in truth, if the living world is slowly forgetting you exist. Some nights, you stand in front of a mirror and try to remember what your own face looks like.
 
-**Level 9: The Final Secret.** _Narrative Description._ When you ask the question, the knowledge arrives not as words but as a physical sensation, a cold weight settling in your chest. You know. You know in a way that cannot be unlearned or argued with or forgotten. The knowledge changes you. You look at your companions and realize they are still living in a world where the secret does not exist. You can never go back to that world. You do not tell them how you know. You cannot. The knowledge itself prevents you. You have paid for this truth with something you did not know you owned. You feel the absence of it like a missing tooth. You do not regret the question. You do not ask what you paid.
+**Level 9: The Final Secret.** When you ask the question, the knowledge arrives not as words but as a physical sensation, a cold weight settling in your chest. You know. You know in a way that cannot be unlearned or argued with or forgotten. The knowledge changes you. You look at your companions and realize they are still living in a world where the secret does not exist. You can never go back to that world. You do not tell them how you know. You cannot. The knowledge itself prevents you. You have paid for this truth with something you did not know you owned. You feel the absence of it like a missing tooth. You do not regret the question. You do not ask what you paid.
+
+---
 
 ## Facet Baseline
 
@@ -224,6 +242,8 @@ You keep a journal, though you would never call it that. It is a record of debts
 
 **Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
 
+---
+
 ## Derived Values
 
 | Value             | Calculation                         | Base      |
@@ -234,6 +254,8 @@ You keep a journal, though you would never call it that. It is a record of debts
 | Initiative        | Swiftness Modifier + 3              | Calculate |
 | Defense           | 10 + Swiftness Modifier + 1 (armor) | 15        |
 | Proficiency Bonus | Level 1                             | +2        |
+
+---
 
 ## Proficiencies
 
@@ -246,6 +268,8 @@ You keep a journal, though you would never call it that. It is a record of debts
 ### Choose Two Additional Skills
 
 From the full skill list in the Core Rulebook (Chapter Three).
+
+---
 
 ## Archetype Abilities
 
@@ -267,6 +291,8 @@ _You have perfected the art of looking like more effort than you are worth._
 
 When an enemy targets you specifically, you may roll Presence + Deception against their Resolve. On success, they decide you are not worth the trouble and switch targets. On a Critical Success, they become briefly confused about which side they are on and may attack their own allies for one round. This ability does not work on enemies who have a personal vendetta against you.
 
+---
+
 ## Starting Equipment
 
 - Concealed Armor (+1 Defense, silent, concealable under clothing)
@@ -276,6 +302,8 @@ When an enemy targets you specifically, you may roll Presence + Deception agains
 - Disguise Kit (basic cosmetics, reversible cloak, accent training)
 - Blackmail Material on one minor official (work with the Host to determine who and what)
 - 25 Copper Leaves (stashed in multiple pockets; you never carry all your money in one place)
+
+---
 
 ## Starting Faction Standing
 
@@ -288,6 +316,8 @@ When an enemy targets you specifically, you may roll Presence + Deception agains
 | Common Flame     | +5               | You grew up in the Warrens. You remember.                            |
 | Bright Mirror    | -5               | The Commission does not approve of unregistered information brokers. |
 
+---
+
 ## Suggested Truths
 
 Choose one, or create your own with the Host:
@@ -296,6 +326,8 @@ Choose one, or create your own with the Host:
 - You know the secret identities of three intelligence operatives, each from a different school. None of them know about the others. None of them know you know.
 - Someone you trusted sold you out years ago. You survived. They think you are dead. You have been waiting for the right moment to remind them you are not.
 - You have been feeding information to someone outside the Court. You do not know who they work for. The payments arrive on time. The questions they ask are getting more specific.
+
+---
 
 ## Advancement
 
