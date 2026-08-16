@@ -252,9 +252,9 @@ Character creation is designed to be completed in under thirty minutes. You will
 
 ### Step One: Choose Your Archetype
 
-The game provides twelve Archetypes, each corresponding to a major figure in the Celestial Court. When you choose an Archetype, you are not playing as that figure. You are playing as someone who shares their path, their training, and their general role in the empire. The Archetype provides your mechanical foundation.
+The game provides thirteen Archetypes. Twelve of them correspond to a major figure in the Celestial Court. The thirteenth corresponds to a man the Court has never managed to count, which is why the Court still says twelve. When you choose an Archetype, you are not playing as that figure. You are playing as someone who shares their path, their training, and their general role in the empire. The Archetype provides your mechanical foundation.
 
-The twelve Archetypes are:
+The thirteen Archetypes are:
 
 | Archetype             | Path             | Role in the Empire                     | Default Gender |
 | --------------------- | ---------------- | -------------------------------------- | -------------- |
@@ -270,14 +270,15 @@ The twelve Archetypes are:
 | Celestial Book        | Archivist        | Bureau of Celestial Inquiry            | Female         |
 | Bone Script           | Hedgewarden      | None. You have no file.                | Male           |
 | Incense Crown         | Oracle           | Temple of Ten Thousand Gods            | Female         |
+| Stray Stroke          | Drifter          | None. You are eleven files, not one.   | Male           |
 
 Full details for each Archetype are provided in the Character Dossiers supplement.
 
-These defaults govern the named Court figures and every unmarked example in this build. A player may choose any gender for a player character without changing mechanics, history options, or advancement.
+These defaults govern the named Court figures, the Stray Stroke, and every unmarked example in this build. A player may choose any gender for a player character without changing mechanics, history options, or advancement.
 
-**How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or the Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Your Archetype is not your destiny. It is your starting point.
+**How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or the Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Do you want to be the one person the record cannot resolve into a single man, and find out what that costs? The Stray Stroke. Your Archetype is not your destiny. It is your starting point.
 
-Two of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach him and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. If your table wants a character who is outside the hierarchy rather than inside it, these are the two doors.
+Three of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach him and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. The Stray Stroke has been entered into the record eleven times under eleven genuine names, so that the empire holds eleven true accounts of him and cannot assemble a single one, which leaves him unreachable and unprotected in exactly equal measure. If your table wants a character who is outside the hierarchy rather than inside it, these are the three doors.
 
 **Example choice.** A player named Mira wants to play a character who is a scholar drawn into dangerous politics. She reads the Archetype descriptions. The Celestial Book offers access to forbidden knowledge and a position in the archives, which appeals to her. The Cinnabar Heart offers alchemy and the manipulation of information through the Bureau of Harmonious Narrative. She chooses the Celestial Book, deciding her character is an archivist who found a document she was not meant to see.
 
@@ -1623,6 +1624,14 @@ Hostile TN 20 | Suspicious TN 16 | Neutral TN 12 | Receptive TN 10 | Allied TN 8
 
 The first ten hold offices. The last two do not, and that is the point of them. Bone Script carries an archive the empire refuses to acknowledge; Incense Crown performs the one act on which the empire's legality rests. Neither can be promoted, demoted, or reassigned, which is precisely why the Court finds both of them difficult.
 
+### The Entry That Is Not on the List
+
+| Figure       | Archetype | School               | Role                                      |
+| ------------ | --------- | -------------------- | ----------------------------------------- |
+| Stray Stroke | Drifter   | Pending Verification | Eleven registered lives. No single person |
+
+The thirteenth Archetype has no line in the table above because the Court's own list has no line for him. He is not unregistered. He is registered eleven times, in eleven offices, under eleven genuine names, and no office in the Nine Domains has ever spent the eleven copper it would cost to discover that the eleven are one man. The Twelve Figures are the people the empire has decided to keep track of. The Stray Stroke is the proof that deciding to keep track of someone is a choice the empire makes rarely and cheaply.
+
 ---
 
 ## Appendix C: Example of Play
@@ -1748,9 +1757,9 @@ No. Read Chapter One to understand what the game is. Read Chapter Three to creat
 
 Talk to the Host after the session, not during the game. The Host's decision at the table is final. A good Host will listen to concerns after the game and adjust if needed.
 
-**Can I play a character who is not one of the twelve Archetypes?**
+**Can I play a character who is not one of the thirteen Archetypes?**
 
-The twelve Archetypes are designed to cover the major roles in the Celestial Court. If you have a concept that does not fit, work with the Host to adapt an existing Archetype or create a new one. The Archetypes are starting points, not cages.
+The thirteen Archetypes are designed to cover the major roles in the Celestial Court, and the one role that consists of not having one. If you have a concept that does not fit, work with the Host to adapt an existing Archetype or create a new one. The Archetypes are starting points, not cages.
 
 **What dice do I need?**
 

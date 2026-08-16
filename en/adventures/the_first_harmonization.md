@@ -35,6 +35,8 @@ The adventure unfolds in five parts:
 - A relationship map of the six schools (draw this before the session)
 - Three to six players with completed character dossiers
 
+**A note on the Archetype Threads.** The inline **ARCHETYPE THREADS** and **Archetype Spotlight Moments** boxes throughout this production bible cover all thirteen Archetypes. Use only the entries for the Archetypes actually at your table, and use one or two per scene rather than reading the whole box aloud. For a compact alternative, the Archetype Lenses at the end of [the cinematic cut](./the_first_harmonization_cinematic_cut.md) give each Archetype a single reading of this story and one question to put to the player.
+
 ### Mechanical Foundations
 
 This section defines the core mechanical starting state for the adventure. Reference it throughout play as Faction Standing values and Risk levels shift.
@@ -292,6 +294,12 @@ There is no signature. The handwriting is precise, with a slight tremor on the d
 > **Iron Bone (Werewolf):** Your senses catch something beneath the ink and paper: the scribe's fear sweat, but also a deeper, older scent clinging to the scroll. Someone handled this document before the scribe; someone whose hands were cold and whose breath carried the faint copper tang of old money. Make a Resolve TN 12 check to keep your wolf still; the scent triggers a protective instinct.
 >
 > **Celestial Book (Wizard):** You detect a faint residue of Qi on the paper. Not harmful. A trace. The writer handled this note while in a heightened emotional state, and their Qi bled into the fibers. A Qi sight technique (Intellect + Qi Theory TN 14) could reveal the writer's emotional signature: fear, determination, and something else; guilt.
+>
+> **Bone Script (Druid):** The dead tree in the courtyard is not merely dead. Go outside and put a hand on the soil at its base; nobody stops a man with no rank from standing in a courtyard. Root Speech gives you three impressions: feet at the same hour every morning for thirty years, something poured at the roots across a single night, and a straight edge of worked stone under the courtyard where there should be fill.
+>
+> **Incense Crown (Priestess):** You have been in enough frightened rooms to know that this one is frightened correctly. The scribe did not bow to the group. They bowed to you, fractionally lower, before they fled, because a terrified person locates the ordained figure in a room without deciding to. They will be findable later. They have already decided you are safe.
+>
+> **Stray Stroke (Wildcard):** You read the note as a document rather than as a message. It is Ministry stock, cut down from a larger sheet with a blade instead of folded and torn, which means the writer had a knife, time, and no wish to leave a matching remnant anywhere. The fold is a courier fold, taught to messengers of the ninth grade and to nobody else. Whoever wrote this trained as a carrier, or learned from one.
 
 ### The First Decision
 
@@ -340,6 +348,12 @@ When the conversation reaches a natural pause, move on to the options below or t
 > **Iron Bone (Werewolf):** The tension makes your skin prickle. Your wolf stirs, sensing danger in the air. Make a Resolve TN 12 check to keep control. On a failure, your voice drops an octave and your eyes darken for a moment. The others notice. The animal is close to the surface.
 >
 > **Celestial Book (Wizard):** You could use a simple divination technique to sense the direction of the danger. Intellect + Qi Theory TN 14. On success, you sense that the greatest threat is not in this room or even this building; it is coming from the north, from the direction of the Commission headquarters. The Audit's shadow precedes it.
+>
+> **Bone Script (Druid):** You have no Ritual Harmony worth reviewing and no Faction Standing worth checking, and you notice that this makes the conversation around you sound different than it sounds to everyone else in it. Say so. The others are calculating their exposure. You have none, which makes you the only person at this table who can afford to ask what the right thing to do is, and you should ask it aloud.
+>
+> **Incense Crown (Priestess):** While the others plan, count. The Audit is in seven days. The Rite of the Emperor's Continuance is performed twice a year and you know both dates. If either falls inside the week, no proceeding scheduled against you may lawfully be held on that day, and you should tell the table now rather than at the moment it would be dramatic.
+>
+> **Stray Stroke (Wildcard):** Seven days is enough. A new registration takes eleven days in an unhurried office and four in a frightened one, and this month there is a frightened office in every prefecture. Do not offer this to the party yet. Notice that you thought of it before you thought of anything else, and notice how fast.
 
 ### What the Players Can Do Now
 
@@ -380,6 +394,12 @@ The players have received the warning. They have one week. Here are obvious aven
 > **Iron Bone (Werewolf):** The scent trail. The abandoned room will still hold the sender's scent, even days later. If you can reach it before it is cleaned, you can identify distinguishing markers: the type of oil in their lamp, the paper they used, the tea they drank while writing. Make an Intellect + Survival TN 14 check to track the scent back through the Ministry corridors.
 >
 > **Celestial Book (Wizard):** You could use a simple recall technique on the note's paper, not to read the writer's mind, but to sense the room where it was written. Intellect + Qi Theory TN 16. On success, you see a brief impression: a small room, a single desk, a window facing north. The distant sound of water. A riverside office. This narrows the search considerably.
+>
+> **Bone Script (Druid):** You have spent four hundred hours in the petitions hall of this Ministry and you know its procedure better than most of its clerks. Finding Scribe Ren on the roster is not an Investigation check for you; it is a matter of asking the correct window on the correct day. What you cannot do is request the file, because requesting anything requires standing you do not have. Someone else at this table will have to sign.
+>
+> **Incense Crown (Priestess):** The Temple of Ancestral Reflection will not charge you the ten silver and will not accept a donation, and the officiant there will want to talk with you afterward, at length, about something that is not the players' business. Budget an hour. What you get in exchange is the temple's own record of who else bought a purification this week. It is a short list. Two of the names will matter.
+>
+> **Stray Stroke (Wildcard):** The abandoned room is the interesting one. Rooms used for dead drops get marked, and the mark will be outside on the doorframe at knee height, where a cleaner's cloth never reaches. Use Read the Road on the corridor. If a carrier has been through here you will know who, when, and what they were avoiding, and you will know it before anyone rolls anything.
 
 ### NPCs the Players Might Consult
 
@@ -466,6 +486,12 @@ He is walking away when he stops. His back is to the players. His voice is rough
 > **Iron Bone (Werewolf):** The Ministry corridors carry thousands of scents. But Xun carries one you recognize: the smell of a specific incense used in Dusk Touched areas. He has been near the Grey recently. Not at the border; here, in the capital. There is Dusk contamination in Xiaoyuan itself. Make a Resolve TN 12 check to keep this knowledge from shaking your composure.
 >
 > **Celestial Book (Wizard):** The Archives where Xun works have a distinct Qi signature: old, layered, and sedimented like geological strata. Each decade of the Court's history has left its own imprint. If you return later, you could follow that residue to find records from a specific period.
+>
+> **Bone Script (Druid):** Xun will talk to you longer than he talks to anyone else, because you are the first person in his reading room in years who is not there to advance. He will ask where you are from. Say the name. He will not be able to pronounce it, and he will ask you to repeat it, and he will get it wrong the second time as well, and he will apologize, and that apology is worth more to you than the information he gives.
+>
+> **Incense Crown (Priestess):** Every consultation NPC in this building will speak to you carefully and truthfully and will tell you nothing, because you are an office rather than a person and nobody confides in an office. Your advantage is the reverse of theirs. People speak freely near you, exactly as they do near furniture. Sit in the reading room and ask nothing for an hour. The Host should give you two things you were not meant to hear.
+>
+> **Stray Stroke (Wildcard):** You have been three of the kinds of people who work in this building. You know which questions a Master Scribe answers for a colleague and which he answers for a stranger, and they are not the same questions. Choose which one you are before you sit down. Presence + Performance TN 12 to hold the choice for the whole conversation.
 
 ### Part One Faction Standing Texture
 
@@ -525,6 +551,12 @@ Through the paper walls, you hear the sounds of the market beginning its day: a 
 > **Iron Bone (Werewolf):** The smells in this room are overwhelming after the sterile corridors of the Ministry: food, tea, wood, paper, the faint sweat of the other patrons, the river scent from the market beyond. It is a good overwhelm, the kind that reminds you that you are alive. Your wolf settles, for the first time in days. This place is safe. The wolf knows safe. Make a Resolve TN 10 check to let yourself relax fully. On success, you gain a +1 bonus to your next roll based on Presence, the calm lingering like the aftertaste of good tea.
 >
 > **Celestial Book (Wizard):** The teahouse has a subtle web of wards, old and layered, built up over decades of quiet ritual work. It is not a barrier against physical threats. It is a barrier against divination, against eavesdropping conducted through Qi, against the kind of observation that the Commission specializes in. Someone has been reinforcing this room for a very long time. The wards are so old that they have become part of the building's fabric. You are safe here from ritual surveillance. You are not safe from anything else.
+>
+> **Bone Script (Druid):** There is a plum sapling in a cracked pot beside the teahouse door that has been overwatered for a year and is dying of it. Fix it. It takes four minutes and nobody sees you do it except the old woman, who says nothing, and who is at your elbow with a fresh pot before your cup is empty for the rest of this adventure.
+>
+> **Incense Crown (Priestess):** You have not eaten a meal unobserved in eleven years. Nobody in this room is reporting on you. There is no roll here and no advantage to be gained. The Host should let the scene run long and should notice aloud, at some point, that you have stopped performing the appearance of eating and have started eating.
+>
+> **Stray Stroke (Wildcard):** You have been in nineteen teahouses in this district and this is the only one where the proprietor does not ask what you want. That means she has placed you, and being placed is the single thing you avoid. You will not come back here. You will spend the rest of the scene deciding whether that is caution or habit, and you will not reach an answer.
 
 ## Part Two: The Three Demands
 
@@ -615,6 +647,12 @@ If the players refuse, the official's cordiality evaporates. "I see. The Bureau 
 > **Iron Bone (Werewolf):** Your instincts scream that Wei is a predator, but not a physical one. He is the kind who destroys with paper and ink. Your wolf does not know what to do with this; it wants a tangible enemy to fight. Make a Resolve TN 12 check to focus your aggression into controlled attention rather than restless pacing.
 >
 > **Celestial Book (Wizard):** The Denunciation Document has a subtle ritual binding woven into its characters. It is a ritual document, and signing it creates a minor spiritual obligation. With effort, you could bind your signature against the document's spiritual force (Intellect + Qi Theory TN 16), though the physical ink would remain on the page.
+>
+> **Bone Script (Druid):** You cannot sign it, and not as a moral stand. Your signature carries no legal weight because you hold no rank and no seal, and Wei has not offered you the document. He has not looked at you once. You are in the room and outside the transaction. Say the five names aloud, correctly, while the others decide. It is the only thing available to you here, and it is not nothing.
+>
+> **Incense Crown (Priestess):** Wei will offer you the document last and courteously, and he already knows you will refuse, and the offer is the point. He needs a record showing that the Temple was asked. Refuse in writing rather than in speech, in one sentence, and keep a copy. The copy is worth more than the refusal.
+>
+> **Stray Stroke (Wildcard):** Read the form, not the offer. It requires a signature, a date, and a seal. You hold eleven seals and not one of them belongs to anyone in this department. If you sign, you sign as a man who does not work here, and the denunciation is void the first time anyone checks, and nobody will check for about four years. Decide what you think of that before the table asks you.
 
 **Censor Wei's Expanded Dialogue:**
 
@@ -741,6 +779,12 @@ If the players report Lin or deliberately betray Tao's location, they gain +10 F
 > **Iron Bone (Werewolf):** Lin's fear has a sharp, specific scent; not the general fear of danger, but the specific fear of losing someone she loves. You recognize it. It is the same scent your pack carries when a member is threatened. This woman is not just a contact. She is protecting family. Make a Resolve TN 12 check to keep your response measured; the wolf wants to protect her.
 >
 > **Celestial Book (Wizard):** You could create a minor illusion to mask Tao Chen's appearance; a simple glamour that alters his facial features for the duration of the checkpoint crossing. Intellect + Qi Theory TN 14. Duration: one hour. On failure, the glamour flickers and draws attention instead of avoiding it.
+>
+> **Bone Script (Druid):** You will not forge the papers. You have refused to forge a document for seven months on your own account and you are not starting on someone else's, and you should say why: a forged escape can be discovered and reversed, and then Tao Chen is not merely a fugitive but a proven fraud. What you can offer instead is the road. You know which ruins outside the walls are safe to sleep in and which are not.
+>
+> **Incense Crown (Priestess):** Any consecrated ground on Tao Chen's route can be declared a sanctuary, and the gate guards cannot lawfully take him off it. This does not get him out of the city. It buys him a night, a meal, and a place where the pursuit has to stop and think, and it spends a measurable portion of your protection to do it.
+>
+> **Stray Stroke (Wildcard):** Do not forge anything. Forgery is slower and worse. Tao Chen needs to be a person with a reason to leave, and there is an office in the eastern prefecture that will issue a ninth grade carrier's permit to any man who answers four questions. Use Papers in Order to establish that you already hold an identity he can travel under. Then work out what you are giving up by giving it to him, because there are only eleven.
 
 **Lin's Expanded Dialogue:**
 
@@ -799,6 +843,9 @@ She composes herself. She takes a breath that shudders at the edges. "I will mee
 > - **Iron Bone (Werewolf):** Can Wolf Rise to gain combat advantage. Make a Resolve TN 14 check to maintain control during the transformation.
 > - **Shadow (Rogue):** Can Shadow Step between the alley mouths (2 zones) to flank the attackers or escape.
 > - **Guest Among Forests (Elf):** Even without living plants, can use enhanced senses to track the fleeing blade if one escapes.
+> - **Bone Script (Druid):** The alley mouths are packed dirt under the cobbles. Root Speech is too slow for combat, but Unlicensed Qi means the hired blades carry no ward, charm, or detection that will register you as a practitioner at all. You may act in the opening round as though unseen.
+> - **Incense Crown (Priestess):** You are a non combatant and should be played as one. What you can do is stand in the open street and state, loudly and in the formal register, what is being done and to whom. Presence + Performance TN 14. On success, windows open along the street, and hired men do not finish work that is being witnessed by name.
+> - **Stray Stroke (Wildcard):** Read the Road told you about this street before you entered it. Declare now that you noted the herder's gap behind the northern alley on the way in. The party has a retreat that passes neither alley mouth, and you can take one wounded ally through it.
 >
 > **Faction Standing Changes:**
 >
@@ -927,6 +974,12 @@ If the players decline the assignment, the Iron Calculation is disappointed but 
 > **Iron Bone (Werewolf):** The scent in the warehouse is overwhelming; refined Qi smells like ozone and burnt metal to your sensitive nose. It makes your head ache. But beneath that, you catch a thread of something else: the clerk's fear sweat, and another scent, older, dried into the floorboards. Blood. Someone was hurt here, recently. Not killed; the blood is not enough for death. But hurt badly enough to bleed.
 >
 > **Celestial Book (Wizard):** The Qi residue in the warehouse has a particular vibrational frequency. Different grades of refined Qi emit different frequencies. The Qi that passed through here was not standard grade; it was of exceptional purity, the kind used for ritual work rather than industrial applications. The theft was not about quantity. It was about quality.
+>
+> **Bone Script (Druid):** Ask Zhang where the Qi is being taken from, not where it is going. He has been reading ledgers. You have walked the ground. Qi drawn on this scale leaves the land wrong in ways that show in the vegetation two seasons before they show in a report, and you can name three prefectures from memory where you saw exactly that and assumed it was ordinary blight.
+>
+> **Incense Crown (Priestess):** You have felt this. The Rite of the Emperor's Continuance draws on the capital's ambient Qi, and for two years the draw has been heavier than the liturgy says it should be, and you assumed it was you getting older. It was not you. Tell Zhang. It will be the first time anyone has handed him a measurement he could not have taken himself.
+>
+> **Stray Stroke (Wildcard):** Zhang's problem is that the ledgers are true and the truth is distributed. Eleven warehouses, eleven separate honest entries, no office comparing them. Tell him you know exactly what that looks like from the inside. Do not tell him how you know. Watch him decide not to ask.
 
 **Commissioner Zhang's Expanded Dialogue:**
 
@@ -987,6 +1040,12 @@ Let the players strategize. Do not rush them. This is the adventure's central de
 > **Iron Bone (Werewolf):** The waiting is the hardest part. Your wolf paces beneath your skin, restless, wanting to run, to fight, to do something. The Audit is a trial of words, not claws. Make a Resolve TN 14 check each hour of the Final Day to keep the wolf contained. On failure, you snap at a colleague or pace visibly. The Commission notices uncontrolled behavior.
 >
 > **Celestial Book (Wizard):** You could perform a warding ritual on the party's shared quarters before the Audit. Intellect + Qi Theory TN 14. On success, the ward provides a small protective resonance that each player can feel, not physical protection, but spiritual. Each player gains +1 to their first Resolve check during the Audit.
+>
+> **Bone Script (Druid):** You are the only person at this table whose position neither improves nor worsens under any of the three outcomes. Use that. Ask each of the others, plainly and without judgment, what they are actually afraid of losing. You will get truer answers than they would give each other, because you are visibly not competing for any of it.
+>
+> **Incense Crown (Priestess):** You can suspend one proceeding once. That is the whole of your power and it does not regenerate, and spending it on the wrong one of these three will feel, in retrospect, like the moment the campaign turned. Do not let the table talk you into promising it in advance.
+>
+> **Stray Stroke (Wildcard):** The reason all three cannot be satisfied is that the same people have to be in the same place at the same time. That is a scheduling problem, not a moral one, and scheduling problems have solutions. Ask the Host what the actual verification interval is between the Bureau's record and the gate register. It is four days.
 
 ### Part Two Faction Standing Texture
 
@@ -1049,6 +1108,12 @@ You pass through the market and leave it behind. The smells fade. The sounds dim
 > **Iron Bone (Werewolf):** The market overwhelms your senses in the best way: a thousand overlapping scents, the warmth of the baker's oven, the cold glitter of the fish, the murmur of a hundred conversations. Your wolf stirs, not in alarm, but in something like pleasure. This is what the world should be: alive, messy, ungoverned. The Ministry stifles. The market breathes. File this feeling away. When the walls of the Court close in, you can return here in your memory.
 >
 > **Celestial Book (Wizard):** The temple bells carry a ritual resonance, a frequency that clears the mind and settles the Qi. The bell ringers know what they are doing. They are maintaining a gentle field of Harmony over the market district, keeping the area stable even when the Court above it is in chaos. The bell ringers are probably not aware of the full effect. The knowledge is in their hands, passed down through generations, not in their minds. There is a lesson in that.
+>
+> **Bone Script (Druid):** You know the woman selling greens at the third stall. She is from a resettlement camp two prefectures east of yours, she gives you the bruised outer leaves for nothing, she has done it for seven months, and she has never once asked you for anything. You have been meaning to learn her name properly. Do it this morning.
+>
+> **Incense Crown (Priestess):** Go unveiled. Nobody in this market has seen your face and nobody would know it if they had. You will be jostled, ignored, overcharged for bread, and generally treated as a person, and it will be the best hour you have had in eleven years, and you must be back before the third hour or someone files a report.
+>
+> **Stray Stroke (Wildcard):** The nine bells from the neighborhood shrine are a signal as well as a devotion. Nine is the all clear. Seven means the watch is on the Ministry road. A carrier taught you this eleven years ago and you have never told anyone, and you notice, standing here, that the bell is the only institution in this city you have ever trusted without checking.
 
 ## Part Three: The Investigation
 
@@ -1124,6 +1189,12 @@ This discovery gives the players a connection to the Shadow and a piece of the l
 > **Iron Bone (Werewolf):** Your ears catch a whisper of movement between the shelves. Not the archivist, whose breathing is deep and slow with sleep. Someone is watching from the shadows between the stacks. Make a Resolve TN 14 check to resist the urge to growl. You do not want to reveal that you know they are there.
 >
 > **Celestial Book (Wizard):** The sealed file has a faint warding residue. Not a trap; a preservation ward, keyed to prevent accidental discovery. The Shadow placed it. The ward is old but still active. You could, with careful examination (Intellect + Qi Theory TN 16), determine how long ago the ward was last refreshed. The answer will tell you how recently the Shadow was in this room.
+>
+> **Bone Script (Druid):** Yun Shu is a name and it is spelled correctly here, in a file nobody will open again. Copy it. You carry four thousand and one names and you have never added one from outside your valley. Decide at this table, in front of the others, whether the belt is a memorial for your prefecture or a registry for everyone the machine finishes.
+>
+> **Incense Crown (Priestess):** Perform the Hearing of Names for Yun Shu, here, in the stacks, quietly. By the Temple's reckoning she is newly dead. The name enters the oral register, which no Bureau can seize, edit, or strike, and from this point the Host must let it matter. It costs 6 Qi, and it is the single most consequential thing anyone does in Part Three.
+>
+> **Stray Stroke (Wildcard):** The archive holds a duplicate of everything and processes almost none of it, and you know that in a way the others do not, because you have spent two years standing outside a reading room for precisely this reason. Point out what the Shadow's note actually proves. The evidence was not destroyed. It was filed. Those are different, and only one of them is permanent.
 
 ### Optional Encounter: The Dusk Refugee
 
@@ -1207,6 +1278,12 @@ The shadow is not Ash's. It is something that attached itself to her during her 
 > **Iron Bone (Werewolf):** Ash's scent is wrong. The corruption has permeated her entirely, but beneath it, your nose detects something familiar: the same smell of ozone and burnt metal from the Qi warehouse. The Dusk and the stolen Qi share a chemical signature. Make a Resolve TN 14 check to file this connection without reacting visibly. This is important information.
 >
 > **Celestial Book (Wizard):** The shadow attached to Ash is not a spirit. It is a fragment of the Dusk itself; a piece of a larger consciousness that was shattered when the Grey expanded. If you could communicate with it (Intellect + Qi Theory TN 18), you might learn something about the nature of the Dusk that the Court has spent centuries suppressing.
+>
+> **Bone Script (Druid):** She is not sick, she is inhabited. You have seen this twice in the high forest and both times the old people knew what to do and would not do it in front of an outsider. What you can offer is not a cure. It is that you can sit with her for six hours without flinching, which is more than anyone has done for her since it began.
+>
+> **Incense Crown (Priestess):** The Hearing of Names on a living subject grants her 1d6 Sanity and immunity to fear and compulsion for one scene, and you must have the tones of her birthplace correct, which means you must ask her where she is from and she must be able to tell you. Getting her to that answer is the encounter. The rite is the easy part.
+>
+> **Stray Stroke (Wildcard):** She has no papers, which the others will treat as a tragedy and you will recognize as an ordinary Tuesday. She can be a person again in eleven days for eleven copper in the right office. Do not say this in front of her until you have worked out whether you are offering it or boasting.
 
 ### Optional Encounter: The Colleague Who Knows Too Much
 
@@ -1262,6 +1339,12 @@ She flees before anyone can stop her. She does not look back.
 > **Iron Bone (Werewolf):** The watcher's scent reaches you on the stale corridor air. They have been eating well, sleeping regularly, and washing with expensive soap. This is not a junior operative. This is someone with rank. The Crimson Lineage sent a supervisor to watch the players. You are being taken seriously.
 >
 > **Celestial Book (Wizard):** You could place a minor tracing ward on Scribe Hui before she leaves. Not to spy on her, but to protect her. The ward would trigger if someone uses a Qi Technique to compel or harm her. Intellect + Qi Theory TN 14. On success, you will know if she is taken against her will. On failure, the ward is too weak to last more than a day.
+>
+> **Bone Script (Druid):** She is looking for a transfer to a border post and she will not get one, and you know exactly what happens to people who end up outside the registry, because you are one. Tell her the truth about it and do not soften it. She is the only person in this adventure who still has a choice about which side of that line she ends on.
+>
+> **Incense Crown (Priestess):** Offer her the sanctuary. Not vaguely and not as comfort: the shrine, the hours, what she may bring, what she must leave behind. She will refuse. She will remember that it was offered in specific terms by someone who could actually do it, and that memory is what brings her back to the party in Part Five.
+>
+> **Stray Stroke (Wildcard):** The Crimson Lineage seal on the request forms is the detail that matters, though not for the reason she thinks. A seal that rare is applied by hand by one of perhaps four people. Ask her what time of day the forms were stamped. She will remember, because frightened clerks remember timestamps, and that narrows four people to one.
 
 ### Part Three Faction Standing Texture
 
@@ -1340,6 +1423,12 @@ Use this timeline to pace the session and create a sense of mounting pressure. E
 > **Iron Bone (Werewolf):** The full moon is not for another week, but the tension of the Audit makes the wolf restless. You feel it pacing, testing the boundaries of your control. Make a Resolve TN 14 check to hold the transformation back. On a failure, your eyes flash amber in the dark and your voice drops to a growl when you speak. The others notice. Some of them may already suspect what you are.
 >
 > **Celestial Book (Wizard):** You perform a final divination, casting the bones or reading the smoke. Intellect + Qi Theory TN 16. On success, you glimpse a fragment of tomorrow: a grey room, a woman in silver, a single question that will determine everything. You do not see the answer; fate is never that kind; but you know the shape of the trial.
+>
+> **Bone Script (Druid):** The Commission agent cataloguing documents will find nothing of yours, because you have no desk, no drawer, and nothing on the premises but a cloak. This is Unlicensed Qi and no file working exactly as printed. It is also why nobody has thought to summon you, and you must decide by the sixth hour whether to walk into that chamber tomorrow uninvited.
+>
+> **Incense Crown (Priestess):** Your summons is worded differently from everyone else's. Read it twice. It requests your attendance rather than commanding it, because the Commission's own drafters could not agree on whether they were permitted to command it. The hedging is legible, and it tells you precisely how much room you have.
+>
+> **Stray Stroke (Wildcard):** The summons is addressed to a name. Check which one. If the Commission holds you under the eleventh, then the man they have summoned carries a current carrier's permit and can lawfully be a hundred li away by the ninth hour. Note that you can leave. Note the exact moment you decide not to.
 
 ### Last Minute NPC Encounters
 
@@ -1406,6 +1495,12 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 > **Iron Bone (Werewolf):** Censor Wei's scent changes when he makes his final offer. The cold politeness drops for a fraction of a second, and beneath it you smell fear. He is afraid too. Not of the players; of whoever is above him. He is under pressure from above, and the players are his last chance to deliver what his superiors demand. Make a Resolve TN 12 check to keep a predatory smile from crossing your face when you sense his weakness.
 >
 > **Celestial Book (Wizard):** The jade pendant carries a faint ritual resonance. It has been worn by someone with Authority in the Commission. The residual Qi might be enough to fool a casual inspection but not a dedicated Qi scan. Use it for quick deception, not sustained impersonation.
+>
+> **Bone Script (Druid):** Wei will not find you in a corridor, because he does not know your route, and he does not know your route because you are on no duty roster. If you want this conversation you must go to him, which means walking into the Bureau of Harmonious Narrative and asking for the Senior Censor by name. Nobody will stop you. That will be worse.
+>
+> **Incense Crown (Priestess):** He will not threaten you. He will ask, with real courtesy, whether the Temple intends to take a position. Say nothing and let the pause run. Officials trained on the Court's fencing talk into your silences, and Wei is very well trained, and by the third sentence he will have told you which of his superiors is applying the pressure.
+>
+> **Stray Stroke (Wildcard):** He appears from a side passage as though he knew you would be there, and he did, because there are four routes to that corridor and three of them are watched. Use Read the Road on the Ministry's service passages before this scene. There is a fourth route, and after tonight you will need it.
 
 > **OPTIONAL COMBAT ENCOUNTER: Assassination Attempt During the Night**
 >
@@ -1450,6 +1545,9 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 > - **Shadow (Rogue):** Can Shadow Step through the corridor (2 zones) to flank the assassins from behind, or escape the quarters and circle around to trap them. _If the Shadow is a player character, you may have anticipated this attack. Make a Presence + Connections TN 14 check to have set a minor trap before sleeping; a tripwire, a noise maker, or a false door; that gives the party a surprise round._
 > - **Guest Among Forests (Elf):** The dead tree in the courtyard has roots that extend into the Ministry foundations. Even dead, it can serve as a limited Wood Walking anchor for an escape over a short distance to the ground floor.
 > - **Celestial Book (Wizard):** Can use a blinding flash technique in the corridor (Intellect + Qi Theory TN 14) to disorient the attackers as they enter, giving the party a full round of free actions.
+> - **Bone Script (Druid):** Unlicensed Qi means the Dusk Hounds' handlers could not have keyed anything to find you, and the collars are Crimson Lineage work with a ward woven through them. You may enter the corridor without triggering it. Against the human agents this does nothing whatsoever, and you should be honest with the table about which enemy you are facing before you rely on it.
+> - **Incense Crown (Priestess):** Declare your quarters consecrated. You have the standing and it takes one sentence. Agents in Commission uniforms, real or forged, must then either withdraw or commit, in front of witnesses, to seizing a person off sanctuary ground. Presence + Persuasion TN 16. Dusk Hounds are unaffected, because they cannot read.
+> - **Stray Stroke (Wildcard):** You do not sleep in a room with one exit and you have not for twenty five years. Declare the second exit now. The party retreats through the drying loft, and you have already tested that the ladder holds, because you test on the first night in any building and did not mention it because it did not seem worth mentioning.
 >
 > **Faction Standing Changes:**
 >
@@ -1500,6 +1598,12 @@ On your pillow, a single object: a crimson flower petal. Fresh. Perfectly preser
 > **Iron Bone (Werewolf):** The intruder's scent lingers. Expensive soap, a specific brand used by the upper echelons of the old families. And beneath that, a faint metallic tang; not blood, but the oil used to maintain fine weapons. The intruder was armed, wealthy, and confident enough to not rush. You could track this scent through the Ministry if given a chance.
 >
 > **Celestial Book (Wizard):** The petal carries a faint tracking mark. If you hold it and use a detection technique (Intellect + Qi Theory TN 14), you can follow the Qi thread back to its source. It leads to the Feng family estate in the Jade District. The petal is not just a message. It is a beacon.
+>
+> **Bone Script (Druid):** The petal is fresh in the eleventh month, which means a heated glasshouse, and there are four in the capital and three of them belong to families. That is not deduction, it is horticulture, and you are the only person in this Ministry who would have thought of it. Name the three.
+>
+> **Incense Crown (Priestess):** Nothing was left on your pillow, because your rooms hold two attendants who file weekly and everyone knows it. You are the one person in the party who cannot be threatened privately. Notice what that costs. It also means you are the one person who cannot be warned privately.
+>
+> **Stray Stroke (Wildcard):** They found where you sleep. That has happened once in twenty five years and you moved that night. Making yourself stay is the scene. If you do stay, tell one other player why, out loud, because it will be the first true thing you have said about yourself since the adventure began.
 
 ### Complication: The Embezzlement Evidence
 
@@ -1546,6 +1650,12 @@ If the players helped the Verdant Path smuggle the official out, the embezzlemen
 > **Iron Bone (Werewolf):** The stress of the Preparation phase makes the wolf restless. Every hour brings it closer to the surface. Make a Resolve TN 14 check. On success, you keep it contained. On failure, you snap at a party member or pace the room like a caged animal. The others see the wildness in your eyes. Some of them may already know.
 >
 > **Celestial Book (Wizard):** You could perform a minor ritual to bless the embezzlement evidence before the Audit, keying it to the Justicar's Qi signature. If the document is presented, it will resonate more strongly with her, increasing its perceived authenticity. Intellect + Qi Theory TN 14.
+>
+> **Bone Script (Druid):** You cannot call in Celestial Favor, make a deal, or buy protection, because all three require an office that will record the transaction and none of them will record you. You can hide evidence better than anyone at this table, because you keep eleven caches outside the walls and no one has ever once asked what is in your satchel.
+>
+> **Incense Crown (Priestess):** Consider spending the Rite That Cannot Lapse now rather than in the chamber. A proceeding suspended before it convenes is quieter, cheaper, and far less useful as drama, and the Host should let you make that trade if you want it. Remember that each use advances one faction's private plan for solving the problem you represent.
+>
+> **Stray Stroke (Wildcard):** Fleeing is listed at Swiftness + Stealth TN 18 for everyone else. For you it is not a stealth problem, it is a documents problem, and you have solved it eleven times, and the Host should let Papers in Order replace the roll entirely. The cost is that you would be leaving the others to explain where you went.
 
 ### Part Four Faction Standing Texture
 
@@ -1712,6 +1822,12 @@ If the player refuses to answer: "Refusal to answer is an answer. It has been re
 > **Iron Bone (Werewolf):** The tension in the chamber presses on your chest. The Justicar's questions are designed to provoke, to unsettle, to make you slip. Your wolf wants to answer with a snarl. Make a Resolve TN 14 check to maintain composure. On a failure, your voice drops to a growl on one answer, and Meng's pen pauses for a fraction of a second. She noticed. She will note it.
 >
 > **Celestial Book (Wizard):** The Judgment Chamber has a dampening field woven into the stone, a ritual barrier that suppresses active techniques. You cannot use techniques freely here. But the field has a specific frequency, and with concentration (Intellect + Qi Theory TN 18), you could create a momentary gap in the barrier, just large enough to use one minor technique undetected.
+>
+> **Bone Script (Druid):** Meng's file on you is four lines long and three of them are wrong. She will begin by establishing your identity, and she cannot charge you until she does, and establishing it would require entering your prefecture into the record. Let her try. Do not help and do not obstruct. Answer every question with complete accuracy and watch a Justicar discover that accuracy is not the same thing as usefulness.
+>
+> **Incense Crown (Priestess):** Do not use the Rite on the first question. Meng must complete the interrogation before she can rule, and every answer you give truthfully and slowly costs her time she has been ordered to spend. Use it when she reaches the ruling. Suspending a proceeding at the question stage is an inconvenience. Suspending it at the verdict is an event.
+>
+> **Stray Stroke (Wildcard):** Every question she asks has a documented answer, every documented answer is true, and none of them is about you. This is the safest interrogation of your life, and three questions in you will find that you cannot make yourself lie, and that the thing stopping you is not conscience. It is that you have run out of the appetite for it.
 
 ### Interrogation Variations
 
@@ -1762,6 +1878,12 @@ Mechanical effect: A single detected lie increases Risk by one level. Multiple l
 > **Iron Bone (Werewolf):** The Defiant variation is the most dangerous for you. Hostility triggers your wolf. If the party chooses defiance, you should not be the one to speak. Let someone else take point. Make a Resolve TN 14 check to stay silent during the hostile exchanges.
 >
 > **Celestial Book (Wizard):** The Cooperative variation has a hidden benefit that only a wizard would notice: Meng's Qi guard drops when she is engaged in a respectful conversation. If the players need to make a subtle Qi reading of her aura or emotional state, the Cooperative approach provides the best opportunity.
+>
+> **Bone Script (Druid):** You will not lie and you will not perform anger, and Meng will find both harder to work with than either. Your variation is precision. When she summarizes your answer inaccurately, correct the summary. Every time. Politely. The Host should track how many corrections it takes before she stops summarizing.
+>
+> **Incense Crown (Priestess):** Meng lowers her voice when she addresses you and does not notice she is doing it. Neither does the recording clerk, who therefore writes down less than was said. Ask once, courteously, that the record be read back. What is missing from it is the variation.
+>
+> **Stray Stroke (Wildcard):** The deceptive player variation does not apply to you, and the Host should say so plainly at the table. You are not lying. No contested Deception check is called for, because there is nothing to contest: the papers are real. What Meng can catch is a manner that does not match the trade printed on the permit, so roll Presence + Performance against her Insight of 14, once, at the start.
 
 **Justicar Meng's Expanded Dialogue:**
 
@@ -1805,7 +1927,7 @@ She looks at the player for a long, searching moment. Her professional composure
 > **Commission Enforcers (x2):**
 >
 > - Combat 14, Defense 12, Resilience 8, Wounds 3. Armed with short batons (Damage 1d6, intended to incapacitate) and trained in restraint. They attempt to subdue, not kill.
-> - **Special:** One enforcer carries a set of narrative erasure cuffs; inscribed iron bands that suppress Qi when locked on a target. If the player is cuffed, they cannot use any abilities powered by Qi and take a −2 penalty to all actions.
+> - **Special:** One enforcer carries a set of narrative erasure cuffs; inscribed iron bands that suppress Qi when locked on a target. If the player is cuffed, they cannot use any abilities powered by Qi and all their actions take a penalty of 2.
 >
 > **Justicar Meng (if she joins):**
 >
@@ -1828,6 +1950,9 @@ She looks at the player for a long, searching moment. Her professional composure
 > - **Celestial Book (Wizard):** Can use a barrier technique on the side door (Intellect + Qi Theory TN 14) to delay reinforcements for an additional round.
 > - **Duke of Eternal Night (Vampire):** Can use supernatural speed to grab the condemned player and move them across the room in a single action, bypassing the enforcers' reach.
 > - **Cinnabar Heart (Alchemist):** Can throw a blinding powder or smoke bomb to cover the escape. Create one dose before the Audit (requires 10 minutes and basic materials).
+> - **Bone Script (Druid):** Use The Names in the Bone on yourself, not on the fight. When the enforcers reach for the condemned player and every other person in the room calculates their exposure, touch a token and do not move away from the chair. Say the name aloud. The Host should give the condemned player one round in which everyone in the chamber is looking at you instead.
+> - **Incense Crown (Priestess):** This is what the Rite That Cannot Lapse is for. Stand and raise the procedural question. The proceeding is suspended and deferred indefinitely and the enforcers stop, because the only official who could overrule you would be entering a refusal of the Emperor's continuance into the permanent record under his own name. It works once. It protects the proceeding rather than the person, and a condemned player who runs anyway is still a fugitive.
+> - **Stray Stroke (Wildcard):** You are no use in this fight and should not pretend otherwise. What you have is the corridor. Declare that you walked the Ministry's service passages during the preparation phase. You can take one person out through them and put them beyond the eastern watch by morning, and you will have to spend a name to do it.
 
 ### The Judgment Announcement
 
@@ -1934,6 +2059,12 @@ You will be useful. Or you will be next.
 > **Iron Bone (Werewolf):** The aftermath makes the wolf howl. Not in victory; in grief. The pack is smaller than it was. One of your people is gone. You feel the absence as a physical ache. Make a Resolve TN 14 check to keep the wolf from taking over. On a failure, you excuse yourself abruptly, finding a private corner where you can let the grief out in silence.
 >
 > **Celestial Book (Wizard):** The Court's erasure of the Disappeared is a ritual of its own. The silence, sealed files, and empty desks are more than bureaucratic procedures. They are ritual acts designed to sever the Disappeared from the world's memory. Their names are spoken less and less until no one speaks them at all, and the person becomes a ghost. You know a simple opposing rite that preserves a name in writing. You record the fallen person's name in your private ritual book. They will not be entirely forgotten.
+>
+> **Bone Script (Druid):** You will carve the token that night. You will not be able to confirm the spelling, because the file is sealed and the department has already amended the roster, so you will cut it as you heard it and mark the doubt the way your mother marked doubt: a single stroke across the final character. About two hundred of yours carry that mark. Now there is one more.
+>
+> **Incense Crown (Priestess):** The Court has erased a person, and it did so by editing paper. The Temple's oral register cannot be edited, seized, or struck. Perform the Hearing of Names for the Disappeared player at the next Continuance. The Commission will hear you do it. That is not a risk you are accepting. That is the reason for doing it there.
+>
+> **Stray Stroke (Wildcard):** The desk is bare, the drawers are empty, and by next week there will be no evidence they worked here. You have watched this happen to eleven men you invented and it never once troubled you, because they were not real. Sit with the discovery that the process is identical either way, and that you have spent twenty five years working the same side of it as the Commission.
 
 The adventure concludes with the players' Faction Standing altered. They have made choices. They have made enemies. They have learned something about the way the Court works. The Shadow's note, the predecessor's fate, the web of factional obligations: these threads continue.
 
@@ -1999,6 +2130,12 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 > **Iron Bone (Werewolf):** The pack has been tested and has survived. The hooks ahead will test it again. But a pack that survives together grows stronger. You watch your companions as they discuss the future, reading their scents, their postures, their fears. You know who will break and who will hold. You will be the one who holds.
 >
 > **Celestial Book (Wizard):** The deeper mystery of the Audits (Hook 10) resonates with your studies. Narrative erasure has a ritual component that the Court does not acknowledge publicly. The rites, seals, and Commission grey robes are all part of a larger working. You have begun to see the pattern. The next adventure will bring it into focus.
+>
+> **Bone Script (Druid):** Yun Shu's sibling arrives in the capital asking questions and will be given, over four months, exactly the answers you were given about your valley. You know the shape of what is coming for them. You could shorten it by two years by teaching them the procedure, and teaching someone the procedure is how the Court manufactured you.
+>
+> **Incense Crown (Priestess):** You have now used ritual authority in front of the Commission and it worked, which has converted you from a necessity into a problem that somebody will eventually decide to solve. The Host should begin the count: nine ordained officiants, and the first of the deaths mentioned in one sentence, without comment, three sessions from now.
+>
+> **Stray Stroke (Wildcard):** The Amber Shore registry is still in the deep stacks and you are two years closer to nothing. But you have now stood beside people who watched you produce genuine papers for a life that was not yours and did not flinch, and one of them holds the standing to request an archive document, and you are going to have to ask, and asking will be harder than any of this was.
 
 ## NPC Quick Reference for This Adventure
 

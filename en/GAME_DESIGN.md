@@ -71,9 +71,7 @@ The Academic Quarter has produced more reformers and revolutionaries than any ot
 
 ---
 
-**The Eastern Foundries** are a landscape of factory temples where artificer monks tend the empire's industrial soul. The province is a network of valleys and plateaus that have been reshaped by centuries of industry. The mountains have been terraced, hollowed, and connected by bridges and tunnels that form a continuous industrial complex stretching for hundreds of miles. It is said that you could walk from one end of the Foundries to the other without ever seeing the sky.
-
-The first sign that you have entered the Eastern Foundries is the smell. Smoke chokes the sky. Workers chant sutras to the Machine Gods. The Iron Calculation school holds sway here.
+**The Eastern Foundries** are a landscape of factory temples where artificer monks tend the empire's industrial soul. The province is a network of valleys and plateaus that have been reshaped by centuries of industry. The mountains have been terraced, hollowed, and connected by bridges and tunnels that form a continuous industrial complex stretching for hundreds of miles. It is said that you could walk from one end of the Foundries to the other without ever seeing the sky. Smoke chokes the sky. Workers chant sutras to the Machine Gods. The Iron Calculation school holds sway here.
 
 The first sign that you have entered the Eastern Foundries is the smell. It hits you before you crest the ridge: hot metal, coal smoke, chemical steam, and something that might be burning hair or burning prayer. The sky is the color of bruised plums, even at noon. The mountains have been terraced into stepped platforms, each one supporting a factory temple that never stops working. The sound is a constant low thunder punctuated by the ringing of hammer on anvil, the hiss of steam vents, and the rhythmic chanting of workers reciting the Calculus of Production.
 
@@ -1829,7 +1827,7 @@ The resulting Harmonization Audit lasted three months and claimed forty seven of
 
 **Story:** Born in the Warrens beneath Xiaoyuan, child of a disgraced official and a teahouse worker. Should have died before age five. Instead, he learned to read the secrets people whispered, to trade information for sustenance, to survive by being more useful alive than dead. The Bureau of Internal Harmony swept the Warrens twice while he was growing up and both times judged him not worth the paperwork, which he arranged. He has been trading secrets ever since, and now runs an information house rather than working for one.
 
-**Personal History.** His birth name is not Shadow. The name grew around him in the Warrens until it replaced the original, which he has forgotten. He was born in a rented room there, the son of a teahouse worker and a disgraced official. His father had taken money to certify adulterated grain as safe, and eleven people died. His mother is still alive at seventy nine in a room Shadow pays for. He survived childhood by begging, stealing, and learning which adults could be trusted and which could not.
+**Personal History.** His birth name is not Shadow. The name grew around him in the Warrens until it replaced the original, which now survives in exactly one place: his mother's mouth, twice a year, in a teahouse where nobody else is listening. He was born in a rented room there, the son of a teahouse worker and a disgraced official. His father had taken money to certify adulterated grain as safe, and eleven people died. His mother is still alive at seventy nine in a room Shadow pays for. He survived childhood by begging, stealing, and learning which adults could be trusted and which could not.
 
 He was never recruited by anyone. The Bureau swept the Warrens twice in his adolescence and both times he was not worth the paperwork, which he engineered. He built what he has from nothing, starting as a child selling overheard conversation for food, and he is now an information house rather than an agent: forty to sixty people on standing retainer, nine of whom know they work for him, the rest believing they work for four brokers, three of whom do not exist. His independent gifts are infiltration, extraction, and information gathering. He kills only when necessary, a distinction that makes him valuable to clients for whom discretion is paramount.
 
@@ -2078,6 +2076,61 @@ So they keep her instead: a residence in the Inner City, a stipend, the finest s
 
 **Potential Quest: The Eighth Phrase.** She wants to know whether the rising tone is correct. This sounds like a scholarly triviality. It is not. If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error, and she does not know which possibility frightens her more.
 
+---
+
+## The Figure That Is Not Counted
+
+The Court counts twelve. The count is not a census; it is a decision about who is worth the expense of watching. Everyone included in it can be found, promoted, threatened, or erased, because the machinery that does those things runs on the record, and the record holds a single resolvable entry for each of them.
+
+There is a thirteenth. He is in the record eleven times, correctly, and the eleven have never been joined.
+
+---
+
+### Stray Stroke
+
+**Default Gender:** Male
+
+**Path:** Drifter
+
+**School:** None. His file classification has read Pending Verification for nine years.
+
+**Court Role:** Registered eleven times. Verified never.
+
+**Nature:** Pleasant, unhurried, and structurally unavailable. He is not hiding. He is standing in plain sight in a form the empire's instruments cannot resolve.
+
+**Presence:** A road coat dyed with the muds of the prefectures he walks, redyed each season, so that he is wearing a map of his own movements that nobody can read. A wide brimmed traveling hat that keeps his face in shadow at every hour. A strip of hemp cloth ten feet long, wound at the shoulders, covered end to end in what any observer takes for pattern. It is a registry of the eleven men he has been, in carrier shorthand, worn in public, in daylight, illegible to everyone.
+
+**Origin.** He was thirteen in Amber Shore in the Year 427, when the sea went red, then thick, then solid. He reached the evacuation office on the eleventh day. There was a queue, a clerk, and a ledger, and the clerk asked his name, and he gave the name of a boy from his village who had drowned two weeks earlier and whose family held a survivor's allocation, which meant food tokens, which meant surviving the winter.
+
+The clerk wrote it down and did not check, because the office that held the check was two hundred li east and had already been abandoned. It took less time than buying rice. He has been unable to stop thinking about that for twenty five years, and what he cannot get past is not that he lied but that there was nothing there to catch him.
+
+**Why he matters.** Every other figure in this chapter is an argument about how power should be exercised. Stray Stroke is a demonstration of how thinly it is actually held. The empire's whole apparatus of control runs on documents that are copied from other documents, verified by offices that have never been funded to verify anything, and defended by clerks who resolve every contradiction in favor of the paper. He did not defeat that system. He answered its questions honestly for twenty five years and it manufactured eleven separate men.
+
+He is now in Xiaoyuan for a reason that is almost embarrassingly small. The Amber Shore population registry for the Year 426 was forwarded to the Bureau of Harmonious Records before the province fell. It was received and never processed. It is in the deep stacks of the Imperial Archives. His real name is in it. To request it he would have to state who he is, and all eleven of his answers belong to men who were never in Amber Shore.
+
+**Daily Routine.** He wakes early in a carrier's bunk with three exits, checks the oiled wrap that holds his ninth grade permit, and eats standing at a stall he will not use again tomorrow. Mornings he carries: sealed tubes, spoken messages, packages he has not opened. Afternoons he walks the routes, reading and cutting the carrier marks at crossings and gates, an unpaid maintenance he has performed for eleven years for an institution that has no leader, no name, and several hundred members who have never met. Evenings he reads the cloth, checking that eleven durations laid end to end still add up to a life. Then a quarter hour of a badly repaired two stringed fiddle he cannot play and has played in every province of the empire, including one that no longer exists.
+
+**Inner Circle.** Nobody, in the sense the Court means. A dead net mender in Amber Shore who worked out inside a month that he was not her nephew and fed him for four years anyway. A missing granary weigher named Copper Ladle, the one living man whose name he took, whose release from a labor settlement never processed because the record showed him already at liberty. An old courier called Sixteen Bridges who taught him the road marks and told him that a man who changes his name more than three times stops being able to tell a decision from a habit.
+
+**Relationships.** The Celestial Book holds the document he came for and has looked at his scarf slightly too long, once. Bone Script met him in the petitions queue, asked his name, received the eleventh one, and has been saying it correctly and with care ever since, which Stray Stroke has been unable to correct and unable to stop hearing. The Shadow has a file on him that will not close, has made two approaches, and has been declined twice, and would be disappointed by the true answer, which is that none of the eleven is real.
+
+**Manner:** Warm, agreeable, and easy to be around, all of it learned as a technique and all of it now genuine, which he does not know what to do with. He loses arguments on purpose, especially about the price of a ferry crossing, because a man who wins is remembered. He has no tell when lying. He becomes slow and slightly clumsy when telling the truth about himself, from lack of practice.
+
+**Hidden Purpose:** To read one document in the Imperial Archives and find out whether the name in it does anything to him.
+
+**Combat Role:** Avoidance and Passage. He does not fight. He arrives without being noticed, leaves before it matters, and takes other people with him.
+
+**Loyalty Gates:**
+
+- ↑ Ask him a question and accept the answer without checking it
+- ↑ Need to get somewhere the Court has stopped maintaining, and trust him to take you
+- ↓ Try to fix his identity for him as a favor
+- ↓ Treat what he does as a trick rather than as a description of how the empire actually works
+
+**What He Knows:** That verification is a cost, not a capability. He can name, from memory, which prefectures in the Nine Domains actually query the central registry and which merely stamp, and the list of those that query is short enough to recite in one breath. He also knows four routes into and out of the capital that are on no map, and that one of them has recently begun carrying careful traffic that leaves no carrier marks and that the eastern watch has not reported.
+
+**Potential Quest: The Fourth Attempt.** He has tried four times to find out what became of Copper Ladle. Two of the offices no longer exist, one will not answer a query from a ninth grade carrier, and the fourth confirmed that the record contains no irregularity, which he already knew, because the irregularity is him and he is not in the record. He will ask the players for the fifth attempt, and he will be honest about what he did, and the players will have to decide what they think of him before they decide whether to help.
+
 ## Game Systems
 
 ### The Core Loop
@@ -2236,6 +2289,8 @@ Each of the twelve figures has:
 - **Devotion Level (0 to 5):** Unlocks their abilities, secrets, and support
 - **Personal Thread:** A chain of events that, if followed to its end, reveals their Truth and maximizes devotion
 - **School Tension:** Being close to them affects your Faction Standing with their school's rivals
+
+The Stray Stroke uses the same four values. He is not one of the twelve, and the only difference at the table is that School Tension does not apply to him, because he has no school for anyone to be the rival of.
 
 **Bond Tiers:**
 
@@ -2791,7 +2846,7 @@ Beyond their primary storylines, each figure has additional threads that can be 
 
 **Bright Mirror's Father.** A sealed supplemental file sits beside the official record of Bright Mirror's father. It contains payment ledgers and witness statements suggesting that the private retainer was not merely corruption. His father may have accepted the money to enter a network the Commission could not lawfully investigate. The file does not absolve him. It makes his motives uncertain, and it names a surviving witness Bright Mirror has never questioned. Bright Mirror has never opened the supplemental file. Opening it would force him to decide whether truth can complicate a judgment he has treated as settled.
 
-**Shadow's Original Name.** Shadow has forgotten his original name. His mother called him something, but the memory has faded. During the Bureau of Internal Harmony's sweeps of the Warrens, clerks created a sealed surveillance ledger for children they considered potentially useful, including those they never recruited. One entry contains the name his mother used and fragmentary notes about his parents. The ledger is stored in a sealed section of the Bureau of Internal Harmony's archives. Obtaining it would require a carefully planned operation.
+**Shadow's First Entry.** Shadow has spent twenty years removing himself from every register in the capital, one document at a time, and he has been thorough. One entry survives, and he did not make it. During the Bureau of Internal Harmony's sweeps of the Warrens, clerks opened a sealed surveillance ledger on children they judged potentially useful, including the ones they never recruited. His entry holds the name his mother still uses, fragmentary notes on both his parents, and an assessment of him written when he was eight years old. The ledger is stored in a sealed section of the Bureau of Internal Harmony's archives. Obtaining it would require a carefully planned operation, and would tell him how early somebody decided what he was for.
 
 **Duke of Eternal Night's Mortal Marriage.** The Duke married Ash Bright when he was two hundred and four and she was twenty six. They remained together for sixty seven years, until she died at ninety three. She has been dead for five hundred and twenty nine years. A portrait of her hangs in a private room in his compound, and he has never remarried.
 
@@ -2802,6 +2857,8 @@ Beyond their primary storylines, each figure has additional threads that can be 
 **Bone Script's Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Xiaoyuan can give it. Nine would require bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign for personal gain and own him for the rest of his life. He has narrowed it to those two and has been unable to choose for eleven weeks, and the delay is not indecision. He is waiting to find out which kind of person he is.
 
 **Incense Crown's Eighth Phrase.** She wants to know whether the rising tone is correct. This sounds like a scholarly triviality. It is not. If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error. She does not know which possibility frightens her more, and she has now begun testing it, alone, without authorization, twice a year.
+
+**And one thread belonging to nobody on the list: the Stray Stroke's Fifth Attempt.** He is not one of the Twelve, and this thread is printed here because it runs through the same offices as all the others. Nine years ago he wore the name of a granary weigher called Copper Ladle, believing the man dead. The man was not dead. He was serving four years in a labor settlement, and the clean record kept in his name elsewhere caused his release to fail processing, because a clerk resolved the contradiction in favor of the paper. Four attempts to establish what became of him have produced nothing: two offices no longer exist, one refuses queries from ninth grade carriers, and the fourth confirmed that the record contains no irregularity. The irregularity is a man who is not in the record. He will ask the players for the fifth attempt, and he will tell them the truth about what he did before he asks.
 
 ### Random Tables for the Host
 

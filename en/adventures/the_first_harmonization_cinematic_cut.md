@@ -7032,6 +7032,16 @@ Ask:
 
 > **What does the Court feed when it teaches the world to forget?**
 
+### Stray Stroke
+
+The watch notice, the travel permit, the gate register, and the barge manifest show that the Court's hold on a person is never stronger than the paperwork somebody actually bothered to check.
+
+Tao Chen looks older than his portrait, and nobody at the gate is paid to notice.
+
+Ask:
+
+> **If you can carry one person out under a name that is not theirs, whose name do you spend?**
+
 ## Suggested Session Breaks
 
 ### Session One

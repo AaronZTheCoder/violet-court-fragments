@@ -56,6 +56,9 @@
 | Celestial Book        |      |          | [Y] [N] |              |       |
 | Bone Script           |      |          | [Y] [N] |              |       |
 | Incense Crown         |      |          | [Y] [N] |              |       |
+| Stray Stroke          |      |          | [Y] [N] |              |       |
+
+Stray Stroke is not one of the Twelve. He is listed here because a bond with him is tracked the same way, and because the moment a table starts tracking him is the moment he stops being uncounted.
 
 **Bond Tiers:** Nemesis (-100 to -51), Antagonist (-50 to -11), Distant (-10 to +10), Congenial (+11 to +50), Ally (+51 to +80), Bound (+81 to +100)
 
@@ -79,6 +82,12 @@ Check off each secret as the players uncover it.
 | Celestial Book        |        | [ ]       |
 | Bone Script           |        | [ ]       |
 | Incense Crown         |        | [ ]       |
+
+**The Uncounted:**
+
+| Figure       | Secret | Revealed? |
+| ------------ | ------ | --------- |
+| Stray Stroke |        | [ ]       |
 
 **Campaign Mysteries:**
 

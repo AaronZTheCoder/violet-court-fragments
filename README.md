@@ -33,7 +33,7 @@ violet-court-fragments/
 │   ├── CORE_RULEBOOK.md               ← The complete game system (2,500+ lines)
 │   ├── HOST_CODEX.md                  ← Host guide and encrypted frameworks (2,200+ lines)
 │   ├── GAME_DESIGN.md                 ← Setting bible and world lore (3,000+ lines)
-│   ├── character_dossiers/            ← 12 playable archetypes with full mechanics
+│   ├── character_dossiers/            ← 13 playable archetypes with full mechanics
 │   │   ├── alchemist_dossier.md
 │   │   ├── assassin_dossier.md
 │   │   ├── druid_dossier.md
@@ -45,6 +45,7 @@ violet-court-fragments/
 │   │   ├── rogue_dossier.md
 │   │   ├── vampire_dossier.md
 │   │   ├── werewolf_dossier.md
+│   │   ├── wildcard_dossier.md
 │   │   └── wizard_dossier.md
 │   ├── adventures/
 │   │   ├── the_first_harmonization_cinematic_cut.md ← Recommended complete cinematic narrative
@@ -56,12 +57,12 @@ violet-court-fragments/
 │       └── quick_reference.md         ← Compact table reference
 │
 ├── cn/                                ← Pure Chinese edition
-│   └── ... (mirrors the en/ structure, all 20 documents)
+│   └── ... (mirrors the en/ structure, all 21 documents)
 │
-└── tabletop_rpg_*.jpeg                ← 12 character portrait illustrations
+└── tabletop_rpg_*.jpeg                ← 13 character portrait illustrations
 ```
 
-**42 Markdown documents** in total, including both READMEs and 20 game documents in each language. **23,276 lines of English, 23,193 lines of Chinese, and 46,469 lines overall.** **No dash punctuation in prose.** **Zero political terminology.** **Zero mixed language.** Every word earned.
+**44 Markdown documents** in total, including both READMEs and 21 game documents in each language. **23,720 lines of English, 23,653 lines of Chinese, and 47,373 lines overall.** **No dash punctuation in prose.** **Zero political terminology.** **Zero mixed language.** Every word earned.
 
 ---
 
@@ -82,31 +83,34 @@ violet-court-fragments/
 ### Your first session
 
 1. **The Host reads the Codex.** Start with Part One and Part Two. The Deeper Currents section explains the structural dynamics that drive the Court.
-2. **Each player picks an archetype.** Look through the twelve dossiers. Pick the one whose art and truth hooks speak to you. Read your three unique abilities. You will need them.
+2. **Each player picks an archetype.** Look through the thirteen dossiers. Pick the one whose art and truth hooks speak to you. Read your three unique abilities. You will need them.
 3. **Build characters together.** Follow the eight steps in the Core Rulebook, Chapter Three. Decide why your characters know each other. Decide who owes whom.
 4. **Run "The First Harmonization."** Start with `the_first_harmonization_cinematic_cut.md`, the complete cinematic narrative designed for four to six sessions. Keep the full module open as a production bible for expanded encounters, Archetype material, and mechanical detail.
 5. **Let the campaign unfold.** After the starter adventure, use the Host's Codex campaign frameworks (The Rise, The Conspiracy, The Collapse), the random event tables, and the character generator to build what comes next.
 
 ---
 
-## The Twelve Archetypes
+## The Thirteen Archetypes
 
 Every archetype has a full mechanical identity: Facet baseline, three unique abilities, an advancement tree to Level 9, starting equipment, Faction Standing values, and four suggested personal truths. Each one matches a character portrait in the root directory.
 
-| Archetype                 | Portrait  | Path             | School            | One Line Pitch                                                                                                     |
-| ------------------------- | --------- | ---------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Cinnabar Heart**        | Alchemist | Alchemist        | Golden Orthodoxy  | A narrative shaper who knows truth is a substance that can be refined, diluted, and occasionally poisoned          |
-| **Night Warbler**         | Assassin  | Shadow Hand      | Unaligned         | A professional who strikes from shadow and understands that killing is the second oldest form of transaction       |
-| **Guest Among Forests**   | Elf       | Long Lived       | Verdant Path      | An ancient soul who has watched empires rise and fall and speaks with trees older than the Court                   |
-| **Iron Calculation**      | Engineer  | Artificer        | Iron Calculation  | A builder who knows the empire runs on resources, not doctrine, and that indispensability is its own kind of power |
-| **Iron Wall**             | Knight    | Bastion          | Garrison Command  | A bastion who swore an oath to a silent Emperor and now guards truths as steadfastly as walls                      |
-| **Bright Mirror**         | Paladin   | Justicar         | Bright Mirror     | A justicar who serves an ideal, knowing full well that ideals are weapons anyone can pick up                       |
-| **Shadow**                | Rogue     | Night Walker     | Independent       | A survivor who has been everywhere, knows everyone, and understands exactly what not to be worth                   |
-| **Duke of Eternal Night** | Vampire   | Blood Cultivator | Crimson Lineage   | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
-| **Iron Bone**             | Werewolf  | Fury Adept       | Common Flame      | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
-| **Celestial Book**        | Wizard    | Archivist        | Celestial Inquiry | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
-| **Bone Script**           | Druid     | Hedgewarden      | Verdant Path      | A hedgewarden from an erased prefecture, carrying an archive of four thousand and one names carved onto bone       |
-| **Incense Crown**         | Priestess | Oracle           | Temple            | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests             |
+Twelve of them correspond to the major figures the Celestial Court counts. The thirteenth corresponds to a man the Court has never managed to count at all, which is the entire point of him.
+
+| Archetype                 | Portrait  | Path             | School               | One Line Pitch                                                                                                     |
+| ------------------------- | --------- | ---------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Cinnabar Heart**        | Alchemist | Alchemist        | Golden Orthodoxy     | A narrative shaper who knows truth is a substance that can be refined, diluted, and occasionally poisoned          |
+| **Night Warbler**         | Assassin  | Shadow Hand      | Unaligned            | A professional who strikes from shadow and understands that killing is the second oldest form of transaction       |
+| **Guest Among Forests**   | Elf       | Long Lived       | Verdant Path         | An ancient soul who has watched empires rise and fall and speaks with trees older than the Court                   |
+| **Iron Calculation**      | Engineer  | Artificer        | Iron Calculation     | A builder who knows the empire runs on resources, not doctrine, and that indispensability is its own kind of power |
+| **Iron Wall**             | Knight    | Bastion          | Garrison Command     | A bastion who swore an oath to a silent Emperor and now guards truths as steadfastly as walls                      |
+| **Bright Mirror**         | Paladin   | Justicar         | Bright Mirror        | A justicar who serves an ideal, knowing full well that ideals are weapons anyone can pick up                       |
+| **Shadow**                | Rogue     | Night Walker     | Independent          | A survivor who has been everywhere, knows everyone, and understands exactly what not to be worth                   |
+| **Duke of Eternal Night** | Vampire   | Blood Cultivator | Crimson Lineage      | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
+| **Iron Bone**             | Werewolf  | Fury Adept       | Common Flame         | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
+| **Celestial Book**        | Wizard    | Archivist        | Celestial Inquiry    | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
+| **Bone Script**           | Druid     | Hedgewarden      | Verdant Path         | A hedgewarden from an erased prefecture, carrying an archive of four thousand and one names carved onto bone       |
+| **Incense Crown**         | Priestess | Oracle           | Temple               | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests             |
+| **Stray Stroke**          | Wildcard  | Drifter          | Pending Verification | A drifter the registry has certified eleven times under eleven names, none of them the one he was born with        |
 
 Each archetype is built for extensibility. New portraits can become new dossiers. The system scales.
 
@@ -125,7 +129,7 @@ The Celestial Court is divided into six competing schools, each representing a d
 | **Common Flame**     | Power flows upward from the people, not downward from the Court. The empire belongs to those who work it  | Werewolf         |
 | **Bright Mirror**    | Purity of purpose above all. The empire must be cleansed of corruption, whatever the cost                 | Paladin          |
 
-The Knight and the Assassin stand between schools. The Rogue stands outside them. The Wizard stands above them, watching. The Druid was never counted by them, and the Priestess belongs to something older than all six.
+The Knight and the Assassin stand between schools. The Rogue stands outside them. The Wizard stands above them, watching. The Druid was never counted by them, and the Priestess belongs to something older than all six. The Wildcard has been counted by four of them, under four different names, and none of the four has ever worked out that they were counting the same man.
 
 ---
 
@@ -135,7 +139,7 @@ The **Host's Codex** is the game's secret engine. It contains:
 
 - **The Way of the Host**: principles for running the game as a collaborative partner, not an adversary
 - **The Deeper Currents**: the structural dynamics of power in the Celestial Court, written entirely in the language of the game world. No other language is needed. The patterns described here are universal. If you recognize them, you are reading the water correctly
-- **The Twelve Figures as Characters**: voice, physical tells, wants, fears, and scene seeds for every major figure
+- **The Twelve Figures as Characters**: voice, physical tells, wants, fears, and scene seeds for every major figure, plus the one the Court has never managed to count
 - **Running Harmonization Audits**: the structure with four phases, risk tables, and player actions during the game's signature set piece
 - **Campaign Frameworks**: three complete structures (The Rise, The Conspiracy, The Collapse) with act breakdowns
 - **Random Generators**: d20 Court Event table, d12 Rumor table, character quick generator
@@ -159,8 +163,8 @@ Every political term has been mapped to a fantasy equivalent. Every real world i
 
 | Edition | Directory | Contents                                                                                          |
 | ------- | --------- | ------------------------------------------------------------------------------------------------- |
-| English | `en/`     | All 20 documents in English, including the complete cinematic narrative and full production bible |
-| Chinese | `cn/`     | All 20 documents in Chinese, including the complete cinematic narrative and full production bible |
+| English | `en/`     | All 21 documents in English, including the complete cinematic narrative and full production bible |
+| Chinese | `cn/`     | All 21 documents in Chinese, including the complete cinematic narrative and full production bible |
 
 The two editions are functionally identical. Switch between them at any time. The character portraits work for both.
 
