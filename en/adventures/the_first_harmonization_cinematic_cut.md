@@ -5026,7 +5026,7 @@ Let waiting become its own scene.
 
 > [!READ ALOUD]
 >
-> The Chamber of Celestial Examination is not a courtroom.
+> Judgment Chamber 7 is not a courtroom.
 >
 > There are no spectators.
 >

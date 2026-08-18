@@ -35,8 +35,6 @@
 | Crimson Lineage   |                  |      |       |
 | Common Flame      |                  |      |       |
 | Bright Mirror     |                  |      |       |
-| Garrison Command  |                  |      |       |
-| Celestial Inquiry |                  |      |       |
 
 **Faction Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (-20), Hostile (-50), Sworn Enemy (-80 or below)
 
@@ -60,7 +58,7 @@
 
 Stray Stroke is not one of the Twelve. He is listed here because a bond with him is tracked the same way, and because the moment a table starts tracking him is the moment he stops being uncounted.
 
-**Bond Tiers:** Nemesis (-100 to -51), Antagonist (-50 to -11), Distant (-10 to +10), Congenial (+11 to +50), Ally (+51 to +80), Soulbound (+81 to +100)
+**Bond Tiers:** Nemesis (-100 to -51), Antagonist (-50 to -11), Distant (-10 to +10), Congenial (+11 to +50), Ally (+51 to +80), Bound (+81 to +100)
 
 ## Secrets Revealed
 
@@ -114,8 +112,6 @@ Track what each school did this session. Note their visible actions and the hidd
 | Crimson Lineage   |                      |                           |
 | Common Flame      |                      |                           |
 | Bright Mirror     |                      |                           |
-| Garrison Command  |                      |                           |
-| Celestial Inquiry |                      |                           |
 
 **Faction Reactions:** How did each school respond to the players' actions?
 
