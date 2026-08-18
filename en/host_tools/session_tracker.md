@@ -27,14 +27,14 @@
 
 ## Faction Standing Tracker
 
-| School            | Faction Standing | Tier | Notes |
-| ----------------- | ---------------- | ---- | ----- |
-| Golden Orthodoxy  |                  |      |       |
-| Verdant Path      |                  |      |       |
-| Iron Calculation  |                  |      |       |
-| Crimson Lineage   |                  |      |       |
-| Common Flame      |                  |      |       |
-| Bright Mirror     |                  |      |       |
+| School           | Faction Standing | Tier | Notes |
+| ---------------- | ---------------- | ---- | ----- |
+| Golden Orthodoxy |                  |      |       |
+| Verdant Path     |                  |      |       |
+| Iron Calculation |                  |      |       |
+| Crimson Lineage  |                  |      |       |
+| Common Flame     |                  |      |       |
+| Bright Mirror    |                  |      |       |
 
 **Faction Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (-20), Hostile (-50), Sworn Enemy (-80 or below)
 
@@ -104,14 +104,14 @@ Check off each secret as the players uncover it.
 
 Track what each school did this session. Note their visible actions and the hidden agendas behind them.
 
-| School            | Actions This Session | Hidden Agenda (Host Only) |
-| ----------------- | -------------------- | ------------------------- |
-| Golden Orthodoxy  |                      |                           |
-| Verdant Path      |                      |                           |
-| Iron Calculation  |                      |                           |
-| Crimson Lineage   |                      |                           |
-| Common Flame      |                      |                           |
-| Bright Mirror     |                      |                           |
+| School           | Actions This Session | Hidden Agenda (Host Only) |
+| ---------------- | -------------------- | ------------------------- |
+| Golden Orthodoxy |                      |                           |
+| Verdant Path     |                      |                           |
+| Iron Calculation |                      |                           |
+| Crimson Lineage  |                      |                           |
+| Common Flame     |                      |                           |
+| Bright Mirror    |                      |                           |
 
 **Faction Reactions:** How did each school respond to the players' actions?
 

@@ -1326,6 +1326,8 @@ Each school contains secret organizations that operate outside the school's offi
 
 **The Unblinking Eye (Bright Mirror).** A secret network of Commission investigators who report directly to the Bright Mirror, bypassing the Commission's chain of command. They are his most trusted agents, tasked with investigating the investigations and ensuring that no corruption has infiltrated the Commission itself.
 
+**The Loyal Chorus (nominally Common Flame).** A youth network that grew out of the petitioner queues in the petitions hall, built by students and clerks too young to remember the Iron Rebellion and impatient with everyone older than them. They wear the Red Fist openly, sing the Flame's oldest songs, and insist they are its truest keepers. What sets them apart is who they name. Their denunciations rarely climb past a mid ranking clerk. They fall, with unusual reliability, on Verdant Path sympathizers, on Commission investigators asking inconvenient questions, and on Common Flame organizers who criticize the movement's own leadership too loudly. Iron Bone has twice tried to trace who supplies their lists. Both times the trail ended at a courier who could not describe the person who paid him.
+
 ---
 
 ### Culture and Society
@@ -1925,7 +1927,7 @@ The wolf found him during his fourth year in the camp, on the night he decided t
 
 **Inner Circle.** Organizer Red Banner is his second in command, a former soldier who deserted after refusing to participate in a Harmonization Audit. She handles the Common Flame's military operations with a discipline that Iron Bone cannot provide. Whisper Network is the Flame's intelligence arm, a cell of workers and servants who report on Court activities. The Wolf's Hunger is the part of himself that he tries to suppress, the rage that wants to destroy everything, the voice that tells him that some people cannot be saved and must be eliminated.
 
-**Relationships.** Iron Bone and the Iron Wall respect each other despite being on opposite sides. Iron Bone knows that Iron Wall would kill him if ordered, and he respects that. The Bright Mirror has investigated him and, he suspects, has chosen not to move against him because the Justicar believes his cause has merit. This disturbs him more than open hostility would. The Duke of Eternal Night represents everything Iron Bone hates, but the Duke treats him with a courtesy that Iron Bone finds disorienting. Cinnabar Heart he despises as a maker of lies, but he also recognizes that Cinnabar Heart's crisis of faith makes him a potential ally.
+**Relationships.** Iron Bone and the Iron Wall respect each other despite being on opposite sides. Iron Bone knows that Iron Wall would kill him if ordered, and he respects that. The Bright Mirror has investigated him and, he suspects, has chosen not to move against him because the Justicar believes his cause has merit. This disturbs him more than open hostility would. The Duke of Eternal Night represents everything Iron Bone hates, but the Duke treats him with a courtesy that Iron Bone finds disorienting. Cinnabar Heart he despises as a maker of lies, but he also recognizes that Cinnabar Heart's crisis of faith makes him a potential ally. The Crimson Magpie unsettles him in a way the others do not: the young organizer speaks with the same fury Iron Bone remembers from his own youth, brings in recruits the movement badly needs, and has begun naming enemies that no one in the Flame's leadership ever authorized.
 
 **Manner:** Two beings share one body. The first is warm, charismatic, funny, the kind of leader who eats with workers and remembers their children's names. The second is the wolf: pure, undifferentiated rage that cannot distinguish between a Grand Council elder and the street sweeper who works outside his palace. Iron Bone is terrified of the wolf. He also knows he needs it.
 
@@ -2834,7 +2836,7 @@ The Spire of Eternal Vigil is the empire's central mystery. What is inside it? W
 
 Beyond their primary storylines, each figure has additional threads that can be explored over multiple sessions.
 
-**Cinnabar Heart's Forbidden Study.** Cinnabar Heart maintains a private study in his residence that no one else is allowed to enter. The room contains his collection of forbidden texts, his personal journals, and the original document from the archives that shattered his faith. Accessing this room requires bypassing a lock that is keyed to his Qi signature. The journals contain his true thoughts about every major figure in the Court, including assessments of their vulnerabilities and secrets.
+**Cinnabar Heart's Forbidden Study.** Cinnabar Heart maintains a private study in his residence that no one else is allowed to enter. The room contains his collection of forbidden texts, his personal journals, and the original document from the archives that shattered his faith. Accessing this room requires bypassing a lock that is keyed to his Qi signature. The journals contain his true thoughts about every major figure in the Court, including assessments of their vulnerabilities and secrets. One entry, dated within the last year, concerns a youth movement he refuses to name directly. The entry ends mid sentence.
 
 **Night Warbler's Family.** Night Warbler lost his family when he was six, but even that memory may be incomplete. The official record calls his parents heterodox elements. A sealed Ministry of Revenue file links his father to a suspected corruption inquiry, yet the evidence is fragmentary and may have been added after the operation. The resettlement manifest still leaves both parents' fate unresolved. Finding its missing destination record could reveal whether either survived, or whether the manifest itself was another fabrication.
 
@@ -3502,69 +3504,6 @@ The empire is haunted. The following ghosts are among those that appear in stori
 **The Ritualist Who Made a Mistake.** A ghost that haunts the ruins of a temple in the Central Province, a temple that was destroyed in a botched ritual that killed everyone inside. The ritualist ghost repeats the failed ritual endlessly, each time making the same mistake, each time watching his colleagues die. The Qi residue from the disaster is so strong that visitors can hear the ritual chanting when they approach the ruins.
 
 **The Accountant Who Found the Truth.** A ghost that appears in the Counting House of the Eastern Foundries, a specter in a grey robe carrying an abacus that clicks without being touched. The accountant died when he discovered that the Counting House records had been falsified to cover up a massive diversion of resources. His ghost continues to audit the books, and when the abacus stops clicking, it means he has found a discrepancy.
-
-### The Northern Expanse: Further Spirit Songs
-
-The forest peoples express their relationship with the world through song. The following are translations of traditional spirit songs.
-
-**Song of the First Root.**
-Root beneath the world,
-Drinking from the dark,
-You have no mouth and yet you speak,
-You have no eyes and yet you see.
-We who walk above,
-We who breathe the light,
-Remember that we are your children.
-When the red wind comes,
-When the leaves forget their green,
-Root, hold us.
-Root, remember us.
-
-**Song for the Journey of the Dead.**
-Spirit, do not fear the path.
-The way is dark but it is known.
-The ancestors walk before you.
-The ancestors call you home.
-Leave your body to the earth.
-Leave your name to those who love you.
-Take only what you have learned.
-Take only what you have loved.
-
-**Song of the Walking Mothers.**
-When the trees have fallen,
-When the rivers run with red,
-When the children have forgotten
-How to speak the names of the dead,
-The Walking Mothers will rise.
-
-### Curses and Insults: Regional Variants
-
-May your ink always run dry. A minor curse directed at scribes.
-Your Ritual Harmony is zero. An accusation of worthlessness.
-Born in the Warrens, died in the Warrens. Said of someone who has accomplished nothing.
-The Dusk is more pleasant than your company. A sophisticated insult.
-Your calligraphy looks like it was written by a Dusk Touched child. An insult to education and breeding.
-You were raised in the Foundries. An accusation of poor manners.
-May the Counting House audit your soul. A curse that the target worth will be measured and found lacking.
-Your mother was a tenant farmer. An insult to lineage.
-Your apologies are worth less than a Harmonization promise. An expression of total distrust.
-The Iron Bodhisattva weeps for your courage. A sarcastic comment about cowardice.
-
-### Endgame Variants: Additional Outcomes
-
-Beyond the ten major endings, the Host may introduce variant endings triggered by specific player choices.
-
-**The Rebel Victory (Common Flame plus Iron Calculation).** The Common Flame and the Iron Calculation school form an unexpected alliance, combining popular support with industrial capacity. The rebellion succeeds, but the new regime is a technocratic meritocracy that has little room for freedom. The revolution eats its children.
-
-**The Forest Awakening (Verdant Path plus Northern Expanse).** Guest Among Forests completes a ritual that awakens the ancient spirits of the land. The spirits rise and drive back the Dusk, but they also drive back the empire. The forest claims what was always its own.
-
-**The Blood Succession (Crimson Lineage plus Bright Mirror).** The Duke of Eternal Night and the Bright Mirror reach an understanding. The Duke renounces his corrupt practices and submits to purification. They establish a new order based on blood cultivation used for the common good.
-
-**The Silence Ends (Celestial Book plus All Schools).** Celestial Book reveals the truth about the Emperor's imprisonment. The schools break open the Spire. The Emperor emerges, but He is not what anyone expected. His return does not save the empire. It ends it.
-
-**The Forgotten Door (Shadow plus The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place beyond the empire's reach. He leads refugees through the passage to a land the Dusk has not touched. They are the seeds of something new.
-
-**The Quiet Consummation (Dusk Victory).** The Dusk covers the entire empire. The last surviving scribe writes the final entry in the Continuing Record. The record ends with three words: It is done.
 
 ### The Art of the Deal: Negotiation and Persuasion
 
