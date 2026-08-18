@@ -252,9 +252,9 @@ Character creation is designed to be completed in under thirty minutes. You will
 
 ### Step One: Choose Your Archetype
 
-The game provides twelve Archetypes, each corresponding to a major figure in the Celestial Court. When you choose an Archetype, you are not playing as that figure. You are playing as someone who shares their path, their training, and their general role in the empire. The Archetype provides your mechanical foundation.
+The game provides thirteen Archetypes. Twelve of them correspond to a major figure in the Celestial Court. The thirteenth corresponds to a man the Court has never managed to count, which is why the Court still says twelve. When you choose an Archetype, you are not playing as that figure. You are playing as someone who shares their path, their training, and their general role in the empire. The Archetype provides your mechanical foundation.
 
-The twelve Archetypes are:
+The thirteen Archetypes are:
 
 | Archetype             | Path             | Role in the Empire                     | Default Gender |
 | --------------------- | ---------------- | -------------------------------------- | -------------- |
@@ -270,14 +270,15 @@ The twelve Archetypes are:
 | Celestial Book        | Archivist        | Bureau of Celestial Inquiry            | Female         |
 | Bone Script           | Hedgewarden      | None. You have no file.                | Male           |
 | Incense Crown         | Oracle           | Temple of Ten Thousand Gods            | Female         |
+| Stray Stroke          | Drifter          | None. You are eleven files, not one.   | Male           |
 
 Full details for each Archetype are provided in the Character Dossiers supplement.
 
-These defaults govern the named Court figures and every unmarked example in this build. A player may choose any gender for a player character without changing mechanics, history options, or advancement.
+These defaults govern the named Court figures, the Stray Stroke, and every unmarked example in this build. A player may choose any gender for a player character without changing mechanics, history options, or advancement.
 
-**How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or the Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Your Archetype is not your destiny. It is your starting point.
+**How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or the Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Do you want to be the one person the record cannot resolve into a single man, and find out what that costs? The Stray Stroke. Your Archetype is not your destiny. It is your starting point.
 
-Two of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach him and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. If your table wants a character who is outside the hierarchy rather than inside it, these are the two doors.
+Three of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach him and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. The Stray Stroke has been entered into the record eleven times under eleven genuine names, so that the empire holds eleven true accounts of him and cannot assemble a single one, which leaves him unreachable and unprotected in exactly equal measure. If your table wants a character who is outside the hierarchy rather than inside it, these are the three doors.
 
 **Example choice.** A player named Mira wants to play a character who is a scholar drawn into dangerous politics. She reads the Archetype descriptions. The Celestial Book offers access to forbidden knowledge and a position in the archives, which appeals to her. The Cinnabar Heart offers alchemy and the manipulation of information through the Bureau of Harmonious Narrative. She chooses the Celestial Book, deciding her character is an archivist who found a document she was not meant to see.
 
@@ -426,7 +427,7 @@ Here is a complete walkthrough of creating a character from nothing to ready for
 
 **Step 6: Truth.** Alex decides: "I know that a senior member of the Golden Orthodoxy has been meeting with a representative of the Crimson Dusk. I witnessed the meeting by accident while following a different target. I have not reported it because I am not sure who to trust."
 
-**Step 7: Faction Standing.** Night Warbler baseline: Neutral with the Golden Orthodoxy and Iron Calculation, slightly positive with the Crimson Lineage, slightly negative with the Verdant Path and Bright Mirror, and strongly negative with the Common Flame. The Bureau of Internal Harmony is Cinder's nominal employer, but it is an institution rather than one of the six Schools.
+**Step 7: Faction Standing.** Night Warbler baseline: Neutral with the Golden Orthodoxy, slightly negative with the Verdant Path, Neutral with the Iron Calculation, slightly positive with the Crimson Lineage, strongly negative with the Common Flame, and slightly negative with the Bright Mirror. The Bureau of Internal Harmony is Cinder's nominal employer, but it is an institution rather than one of the six Schools.
 
 **Step 8: Name and History.** "My name is Cinder. I was a street child in the capital's outer districts. The Bureau of Internal Harmony recruited me at age fifteen because I could get into places I should not be able to get into. I have served them for twelve years. I am good at my job. I am starting to wonder if I am on the right side."
 
@@ -613,7 +614,7 @@ Combat unfolds in rounds. Each round represents roughly six seconds of action. W
 
 ### Step One: Determine Initiative
 
-At the start of combat, every participant makes a **Swiftness check** (d20 + Swiftness Modifier). The Host may grant Advantage to characters who have prepared an ambush or Disadvantage to characters who are surprised. Results are ranked highest to lowest to determine turn order.
+At the start of combat, every participant makes an **initiative check** (d20 + Initiative: Swiftness Modifier plus any Archetype bonuses). The Host may grant Advantage to characters who have prepared an ambush or Disadvantage to characters who are surprised. Results are ranked highest to lowest to determine turn order.
 
 The Host may also choose to use **Side Initiative**: all players act in any order they choose, then all enemies act, or vice versa. This is faster for large encounters and encourages teamwork.
 
@@ -652,7 +653,7 @@ Zones allow the Host to describe combat in vivid terms without counting squares.
 
 ### Damage and Dying
 
-When you hit with an attack, roll the weapon's damage dice and add the relevant Facet Modifier (Might for melee, Intellect for Qi Techniques). Subtract the total from the target's HP.
+When you hit with an attack, roll the weapon's damage dice and add the relevant Facet Modifier (Might for melee, Swiftness for ranged, Intellect for Qi Techniques). Subtract the total from the target's HP.
 
 When a character reaches **0 HP**, they are **Dying**. At the start of each of their turns while Dying, they make an Endurance check against TN 15. On a success, they stabilize but remain unconscious. On a failure, they worsen. After three cumulative failures before a success, the character dies.
 
@@ -797,7 +798,7 @@ Cinder's turn.
 
 Cinder's player: "The balcony is right there. I vault over the railing onto the balcony Zone to get elevation and a better position. From there, I draw a dagger and throw it at the nearest attendant."
 
-Cinder rolls Acrobatics (for the vault). d20 shows 12 + Swiftness modifier (+4) + Proficiency in Acrobatics (+2) = 18 against TN 10 (routine). Success.
+Cinder rolls Acrobatics (for the vault). d20 shows 12 + Swiftness modifier (+4) + Proficiency in Acrobatics (+2) = 18 against TN 8 (routine). Success.
 
 Host: "You flow over the railing like water. Guests scatter. You land softly on the balcony and immediately go for your blade."
 
@@ -903,11 +904,11 @@ Steelhand starts his turn in Zone B, so the water deals 1d4 Sanity damage. Steel
 
 Host: "The water is cold and hot at the same time, a contradiction that your mind cannot resolve. It feels like wading through someone else's nightmares. You take 3 Sanity damage. But you reach the base of the altar. You are in Zone C now."
 
-Steelhand's player: "I swing my greatsword at the altar. Both hands. Full force."
+Steelhand's player: "I let the wolf take my hands. Claws instead of fingers. I tear into the altar. Full force."
 
-Steelhand attacks the altar. The Host sets its structural TN at 16. Steelhand rolls d20 + Might modifier (+4) + Proficiency in Athletics (using the heavy weapon counts, +2). d20 shows 14. Total: 14 + 4 + 2 = 20. Success.
+Steelhand attacks the altar. The Host sets its structural TN at 16. Steelhand rolls d20 + Might modifier (+4) + Proficiency in Brawling (+2). d20 shows 14. Total: 14 + 4 + 2 = 20. Success.
 
-Host: "Your greatsword crashes into the altar stone. A shockwave of crimson energy erupts from the impact. The stone splits. The Dusk Priest screams, a sound that is part human and part something else entirely. The regeneration stops. The wounds on its neck remain open. The red glow in the water begins to fade. You have severed the anchor."
+Host: "Your claws tear into the altar stone. A shockwave of crimson energy erupts from the impact. The stone splits. The Dusk Priest screams, a sound that is part human and part something else entirely. The regeneration stops. The wounds on its neck remain open. The red glow in the water begins to fade. You have severed the anchor."
 
 Jinhai's turn.
 
@@ -1034,11 +1035,11 @@ Cinder takes 3 psychic damage. Her position is now known. She must find a differ
 
 Steelhand has just witnessed a close ally being taken by the Commission for Celestial Purity. He is furious and desperate. He attempts to use Qi Strike to break through a door and chase after them.
 
-Steelhand spends 2 Qi to use Qi Strike, then drives his greatsword into the barred door. The attack connects, but the emotional strain makes the Qi unstable before the added force can take hold.
+Steelhand spends 2 Qi to use Qi Strike, then drives his fist into the barred door. The attack connects, but the emotional strain makes the Qi unstable before the added force can take hold.
 
 Host: "Your Qi is turbulent. Your emotions are feeding into it, making it unstable. The energy crackles along your arm, but it does not focus. It wants to explode, not to enhance. Make a Qi Disharmony check."
 
-Steelhand's player rolls d20 + Intellect modifier (+1, Steelhand has Intellect 12). He gets a 4. Total: 5. Critical Failure.
+Steelhand's player rolls d20 + Intellect modifier (+1, Steelhand has Intellect 12). He gets a 4. Total: 5. Failure.
 
 Host: "The Qi erupts from you uncontrollably. The door does not break. Instead, a shockwave of raw energy throws you backward into a bookshelf. You take 1d6 psychic damage from the backlash. Books and scrolls tumble down around you. The Commission agents, hearing the explosion, double their pace. Your ally is farther away now. And you are on the floor, covered in paper, with a nosebleed from the psychic shock."
 
@@ -1141,11 +1142,11 @@ The party now has a method to move the refugee. They gained cooperation through 
 
 Host: "The room is windowless. A single oil lamp hangs from the ceiling, casting long shadows. Jaren sits on a wooden stool, his wrists bound behind him. He has a bloody lip from the capture. He looks at you with flat, unafraid eyes. 'I have nothing to say to you,' he says. 'Do what you will.'"
 
-Steelhand's player: "I do not threaten him. Not yet. I pull up a stool and sit across from him, at eye level. I place my greatsword on the table between us, the blade catching the lamplight. I say, 'Jaren. I know you have a family. I know where they live. I do not want to involve them. Tell me about the shipment.'"
+Steelhand's player: "I do not threaten him. Not yet. I pull up a stool and sit across from him, at eye level. I set my hands flat on the table between us, scarred knuckles catching the lamplight. I say, 'Jaren. I know you have a family. I know where they live. I do not want to involve them. Tell me about the shipment.'"
 
 This is Leverage: using a threat against family to force compliance. Steelhand rolls Presence + Intimidation. d20 shows 9. Steelhand has Presence 14 (modifier +2) and proficiency in Intimidation (+2). Total: 13 against TN 15. Failure.
 
-Host: "Jaren's eyes narrow. 'You do not know where my family lives. You are guessing. And even if you did, you would not hurt them. You are not that kind of person. I can see it in the way you hold your sword. You have never used it on someone who could not fight back.' His Stance worsens to Hostile. He has called your bluff. And he is right."
+Host: "Jaren's eyes narrow. 'You do not know where my family lives. You are guessing. And even if you did, you would not hurt them. You are not that kind of person. I can see it in the way you hold your hands. You have never used them on someone who could not fight back.' His Stance worsens to Hostile. He has called your bluff. And he is right."
 
 Steelhand's player: "He is right. I will not hurt his family. I need a different approach. I stand up and pace. 'You are right. I will not touch your family. But the Commission for Celestial Purity will. If I release you, right now, and you walk out that door, the Commission will pick you up within a day. They know you work for the Crimson Lineage. They are just waiting for the right moment. I am not your enemy, Jaren. I am your only chance to get out ahead of this.'"
 
@@ -1181,7 +1182,7 @@ Host: "The Hall of Adjudication is cold. The three judges sit on a raised dais, 
 
 Accuser Voss makes a social attack. His Presence + Persuasion: d20 shows 14 + 3 + 2 = 19 against the judges' baseline of TN 12 (Neutral). This deals Social Damage to Cinder's position.
 
-Host: "Voss's evidence is compelling. The judges examine the documents. One of them, Judge Hwan, nods slowly. 'The records appear authentic,' he says. You can feel the room shifting against you. Take 4 Social Damage (1d6 rolled 2 + Presence modifier +3 = 5, but reduced by Cinder's defense of her argument)."
+Host: "Voss's evidence is compelling. The judges examine the documents. One of them, Judge Hwan, nods slowly. 'The records appear authentic,' he says. You can feel the room shifting against you. Take 4 Social Damage (1d6 rolled 1 + Presence modifier +3 = 4)."
 
 Cinder's Social Standing falls from 13 to 9.
 
@@ -1623,6 +1624,14 @@ Hostile TN 20 | Suspicious TN 16 | Neutral TN 12 | Receptive TN 10 | Allied TN 8
 
 The first ten hold offices. The last two do not, and that is the point of them. Bone Script carries an archive the empire refuses to acknowledge; Incense Crown performs the one act on which the empire's legality rests. Neither can be promoted, demoted, or reassigned, which is precisely why the Court finds both of them difficult.
 
+### The Entry That Is Not on the List
+
+| Figure       | Archetype | School               | Role                                      |
+| ------------ | --------- | -------------------- | ----------------------------------------- |
+| Stray Stroke | Drifter   | Pending Verification | Eleven registered lives. No single person |
+
+The thirteenth Archetype has no line in the table above because the Court's own list has no line for him. He is not unregistered. He is registered eleven times, in eleven offices, under eleven genuine names, and no office in the Nine Domains has ever spent the eleven copper it would cost to discover that the eleven are one man. The Twelve Figures are the people the empire has decided to keep track of. The Stray Stroke is the proof that deciding to keep track of someone is a choice the empire makes rarely and cheaply.
+
 ---
 
 ## Appendix C: Example of Play
@@ -1738,7 +1747,7 @@ Create a new character. The new character inherits the knowledge your previous c
 
 **How long does a campaign last?**
 
-A full campaign of the Violet Court Fragments typically runs 12 to 20 sessions, or about three to six months of regular play. Shorter stories and adventures designed for one session are also possible.
+A full campaign of the Violet Court Fragments typically runs twelve to twenty sessions, or about three to six months of regular play. Shorter stories and adventures designed for one session are also possible.
 
 **Do I need to read the whole rulebook?**
 
@@ -1748,9 +1757,9 @@ No. Read Chapter One to understand what the game is. Read Chapter Three to creat
 
 Talk to the Host after the session, not during the game. The Host's decision at the table is final. A good Host will listen to concerns after the game and adjust if needed.
 
-**Can I play a character who is not one of the twelve Archetypes?**
+**Can I play a character who is not one of the thirteen Archetypes?**
 
-The twelve Archetypes are designed to cover the major roles in the Celestial Court. If you have a concept that does not fit, work with the Host to adapt an existing Archetype or create a new one. The Archetypes are starting points, not cages.
+The thirteen Archetypes are designed to cover the major roles in the Celestial Court, and the one role that consists of not having one. If you have a concept that does not fit, work with the Host to adapt an existing Archetype or create a new one. The Archetypes are starting points, not cages.
 
 **What dice do I need?**
 
@@ -1833,7 +1842,7 @@ Each player, during character creation, chooses one faction they have a personal
 Between sessions, characters can pursue downtime activities. Each day of downtime allows one activity:
 
 - Research: Make an Intellect check against TN 15. On success, learn one piece of useful information.
-- Train: Spend 2 downtime days to make progress on learning a new Skill proficiency. The Host determines the total days required (typically 20 to 30 for a new Skill).
+- Train: Spend two downtime days to make progress on learning a new Skill proficiency. The Host determines the total days required (typically twenty to thirty for a new Skill).
 - Socialize: Spend time with an NPC. Make a Presence check to improve their Stance by one step.
 - Craft: Use Craft proficiency to create an item. Cost is half the item's listed price. Time is one day per 5 Silver of the item's cost.
 - Recover: Double the normal Sanity recovery rate for rest.
@@ -1842,22 +1851,22 @@ Between sessions, characters can pursue downtime activities. Each day of downtim
 
 When a character is reduced to 0 HP and stabilized, they gain a lingering injury determined by a d6 roll:
 
-1. Broken rib. Disadvantage on Might checks for 1 week.
-2. Deep scar. Disadvantage on Presence checks involving appearance for 1 month.
-3. Concussion. Disadvantage on Intellect checks for 1 week.
-4. Torn muscle. Disadvantage on Athletics and Acrobatics checks for 1 week.
-5. Nerve damage. Disadvantage on Precision checks for 1 month.
+1. Broken rib. Disadvantage on Might checks for one week.
+2. Deep scar. Disadvantage on Presence checks involving appearance for one month.
+3. Concussion. Disadvantage on Intellect checks for one week.
+4. Torn muscle. Disadvantage on Athletics and Acrobatics checks for one week.
+5. Nerve damage. Disadvantage on Precision checks for one month.
 6. Psychological trauma. Lose 1d4 maximum Sanity permanently.
 
 ---
 
 ## Appendix G: The City of a Thousand Bells
 
-The capital city is the primary setting for most Violet Court campaigns. This appendix provides an overview of its districts and notable locations.
+Xiaoyuan, known to its people as the City of a Thousand Bells, is the primary setting for most Violet Court campaigns. This appendix provides an overview of its districts and notable locations.
 
 ### The Inner City
 
-The Inner City is surrounded by the White Wall, a barrier of polished marble fifty feet high that has never been breached. Within it stand the government buildings, the Imperial Palace (empty of the Emperor but full of administrators), and the residences of the high nobility.
+The Inner City is surrounded by the White Wall, a barrier of polished marble sixty feet high that has never been breached. Within it stand the government buildings, the Imperial Palace (empty of the Emperor but full of administrators), and the residences of the high nobility.
 
 **The Celestial Court.** The sprawling complex where the six schools maintain their headquarters. A maze of halls, gardens, and audience chambers. Every corridor has a political dimension. Every doorway leads to a potential ally or enemy.
 
@@ -1993,7 +2002,7 @@ An adventure designed for one session follows this shape:
 
 ---
 
-## Appendix O: Advanced Social Tactics
+## Appendix J: Advanced Social Tactics
 
 ### Reading the Room
 
@@ -2032,7 +2041,7 @@ When a character's Social Standing reaches 0, they are not permanently damaged. 
 
 ---
 
-## Appendix P: Equipment by Archetype
+## Appendix K: Equipment by Archetype
 
 Each Archetype begins with specific equipment. Here are the starting packages:
 
@@ -2052,13 +2061,13 @@ Each Archetype begins with specific equipment. Here are the starting packages:
 
 **Duke of Eternal Night.** Fine robes, jewelry worth 5 Silver (signet ring or pendant), sword, writing kit, vial of rare perfume, 2 Gold Blooms (bonus starting wealth).
 
-**Iron Bone.** Sturdy clothing (padded), greatsword, tinderbox, bundle of reformist pamphlets, flask of strong spirits, 20 Copper Leaves.
+**Iron Bone.** Sturdy clothing (padded), reinforced gloves, tinderbox, bundle of reformist pamphlets, red banner, 10 Copper Leaves.
 
-**Celestial Book.** Scholar's robes, writing kit, reference text (choose one: legal commentary, historical chronicle, anatomical study), notebook with lock, candle pack, 20 Copper Leaves.
+**Celestial Book.** Archivist's robes, Dragon Spine Staff, Ancient Text, Archive Seal, Reading Stones, 15 Copper Leaves.
 
 ---
 
-## Appendix Q: Conditions and States
+## Appendix L: Conditions and States
 
 **Bleeding.** Takes 1d4 damage at the start of each turn. Can be stopped with a successful Medical Kit use (Intellect TN 10) or any healing technique.
 
@@ -2084,7 +2093,7 @@ Each Archetype begins with specific equipment. Here are the starting packages:
 
 ---
 
-## Appendix R: The Calendar of the Celestial Empire
+## Appendix M: The Calendar of the Celestial Empire
 
 Timekeeping in the empire follows an ancient calendar divided into Seasons and Festivals.
 
@@ -2108,7 +2117,7 @@ Timekeeping in the empire follows an ancient calendar divided into Seasons and F
 
 ---
 
-## Appendix S: Example Characters
+## Appendix N: Example Characters
 
 These example characters are ready to use in games lasting one session or as templates for new players.
 
@@ -2116,7 +2125,7 @@ These example characters are ready to use in games lasting one session or as tem
 
 **Steady Hand Zheng (Iron Wall).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 18, Intellect 12, Presence 16, Resolve 14.
 
-**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made his doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
+**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made him doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
 
 **Old Moss (Guest Among Forests).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers the Emperor's last public judgment in Year 287 and the words He spoke before the assembled Court. Might 10, Swiftness 16, Endurance 14, Intellect 16, Presence 16, Resolve 16.
 
@@ -2124,7 +2133,7 @@ These example characters are ready to use in games lasting one session or as tem
 
 ---
 
-## Appendix J: Session Zero Guide
+## Appendix O: Session Zero Guide
 
 A Session Zero is a meeting before the campaign begins where players and Host agree on expectations, themes, and boundaries. It is the most important session you will run.
 
@@ -2142,7 +2151,7 @@ A Session Zero is a meeting before the campaign begins where players and Host ag
 
 ---
 
-## Appendix K: Factions of the Celestial Court
+## Appendix P: Factions of the Celestial Court
 
 The six Schools of Thought compete for influence within the Court. Understanding them is essential to navigating the game's politics.
 
@@ -2159,6 +2168,34 @@ The six Schools of Thought compete for influence within the Court. Understanding
 **Enemies.** The Crimson Lineage (seen as decadent). The Common Flame (seen as subversive). The Verdant Path (seen as dangerously foreign).
 
 **Influence.** Strongest in the Bureau of Harmonious Narrative and the religious institutions of the capital.
+
+### The Verdant Path
+
+**Symbol.** A tree whose roots and branches form a circle.
+
+**Philosophy.** The empire is part of the natural world, not separate from it. The Crimson Dusk is a wound in reality caused by the empire's disconnection from nature. Healing the empire means healing the land first. Politics is a distraction.
+
+**Leader.** Guest Among Forests, Representative of the Northern Expanse and Voice of the Verdant Path.
+
+**Allies.** No permanent allies. The Verdant Path cooperates with anyone who advances ecological healing.
+
+**Enemies.** The Iron Calculation (exploits natural resources without regard for consequences).
+
+**Influence.** Weak in the capital. Strong in the northern provinces and among rural communities.
+
+### The Iron Calculation
+
+**Symbol.** A gear with visible inner mechanisms.
+
+**Philosophy.** The empire is a machine. Every part must function efficiently. Sentiment, tradition, and bloodlines are irrelevant. Only results matter. The Emperor's silence is a management problem. If the machine is maintained, it can run without an Emperor indefinitely.
+
+**Leader.** Iron Calculation, Director of the State Planning Commission.
+
+**Allies.** The Crimson Lineage (pragmatic partnership). Any faction that can provide resources or access.
+
+**Enemies.** The Golden Orthodoxy (sees tradition as inefficient). The Verdant Path (sees their ecological concerns as obstacles to progress).
+
+**Influence.** Dominant in the industrial and economic sectors. Controls the flow of resources through the empire.
 
 ### The Crimson Lineage
 
@@ -2188,20 +2225,6 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Influence.** Weak in official institutions. Strong in the Outer City, the provinces, and among the disenfranchised.
 
-### The Iron Calculation
-
-**Symbol.** A gear with visible inner mechanisms.
-
-**Philosophy.** The empire is a machine. Every part must function efficiently. Sentiment, tradition, and bloodlines are irrelevant. Only results matter. The Emperor's silence is a management problem. If the machine is maintained, it can run without an Emperor indefinitely.
-
-**Leader.** Iron Calculation, Director of the State Planning Commission.
-
-**Allies.** The Crimson Lineage (pragmatic partnership). Any faction that can provide resources or access.
-
-**Enemies.** The Golden Orthodoxy (sees tradition as inefficient). The Verdant Path (sees their ecological concerns as obstacles to progress).
-
-**Influence.** Dominant in the industrial and economic sectors. Controls the flow of resources through the empire.
-
 ### The Bright Mirror
 
 **Symbol.** A mirror that reflects only the viewer's eyes.
@@ -2216,23 +2239,9 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Influence.** The Commission has the power to investigate, arrest, and punish anyone in the empire. Their authority is broad. Their reach is limited by the number of agents and the political cost of targeting powerful figures.
 
-### The Verdant Path
-
-**Symbol.** A tree whose roots and branches form a circle.
-
-**Philosophy.** The empire is part of the natural world, not separate from it. The Crimson Dusk is a wound in reality caused by the empire's disconnection from nature. Healing the empire means healing the land first. Politics is a distraction.
-
-**Leader.** Guest Among Forests, Representative of the Northern Expanse and Voice of the Verdant Path.
-
-**Allies.** No permanent allies. The Verdant Path cooperates with anyone who advances ecological healing.
-
-**Enemies.** The Iron Calculation (exploits natural resources without regard for consequences).
-
-**Influence.** Weak in the capital. Strong in the northern provinces and among rural communities.
-
 ---
 
-## Appendix L: Improvisation Tools for the Host
+## Appendix Q: Improvisation Tools for the Host
 
 ### Name Generator
 
@@ -2276,7 +2285,7 @@ Give each NPC one small secret that colors their behavior:
 
 ---
 
-## Appendix M: Advanced Combat Tactics
+## Appendix R: Advanced Combat Tactics
 
 ### Environmental Advantages
 
@@ -2308,13 +2317,13 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 **Covering retreat.** One character holds their position while allies flee. The covering character gains +2 Defense and may make attacks of opportunity against any pursuer. Once all allies have fled, the covering character may attempt to withdraw.
 
-## Appendix T: Common Substances and Poisons
+## Appendix S: Common Substances and Poisons
 
 ### Medicinal Substances
 
-**Sleepwine.** A mild sedative. A dose induces deep sleep for 4 to 6 hours. Difficult to wake the drinker during that time. Costs 5 Silver per dose.
+**Sleepwine.** A mild sedative. A dose induces deep sleep for four to six hours. Difficult to wake the drinker during that time. Costs 5 Silver per dose.
 
-**Stimulant Powder.** Ground from a rare mountain root. Keeps the user awake and alert for 8 hours. After the effect fades, the user has Disadvantage on Endurance checks until completing a short rest. Costs 3 Silver per dose.
+**Stimulant Powder.** Ground from a rare mountain root. Keeps the user awake and alert for eight hours. After the effect fades, the user has Disadvantage on Endurance checks until completing a short rest. Costs 3 Silver per dose.
 
 **Clarity Incense.** Burned during meditation. Restores an additional 1d4 Qi during a short rest. Costs 2 Gold per stick.
 
@@ -2324,13 +2333,13 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 ### Poisons
 
-**Slow Dissolution.** Ingested. The victim takes 1d4 poison damage every hour for 6 hours. Symptoms resemble a mild illness. Difficult to detect (TN 18 Investigation to identify). Costs 10 Silver.
+**Slow Dissolution.** Ingested. The victim takes 1d4 poison damage every hour for six hours. Symptoms resemble a mild illness. Difficult to detect (TN 18 Investigation to identify). Costs 10 Silver.
 
 **Quickfade.** Contact poison. The victim falls unconscious for 1d4 hours. No damage. No memory of the moments before falling asleep. Costs 2 Gold.
 
-**Silent Knot.** Ingested. Paralyses the vocal cords. The victim cannot speak for 24 hours. Qi Techniques that require verbal components cannot be used. Costs 5 Silver.
+**Silent Knot.** Ingested. Paralyses the vocal cords. The victim cannot speak for twenty four hours. Qi Techniques that require verbal components cannot be used. Costs 5 Silver.
 
-**Red Rust.** Inhaled or ingested. Causes internal bleeding. The victim takes 2d6 damage immediately and 1d6 damage at the start of each turn for 3 turns. Costs 3 Gold.
+**Red Rust.** Inhaled or ingested. Causes internal bleeding. The victim takes 2d6 damage immediately and 1d6 damage at the start of each turn for three turns. Costs 3 Gold.
 
 **Mercy's End.** Injected. A painless death that mimics natural heart failure. Untraceable by standard autopsy. Costs 10 Gold.
 
@@ -2338,13 +2347,13 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 **General Antidote.** Grants Advantage on Fortitude checks against any poison for one hour. Costs 1 Gold.
 
-**Specific Antivenom.** Automatically cures one specific poison if administered within 10 minutes. Must be matched to the poison. Costs 5 to 20 Gold depending on rarity.
+**Specific Antivenom.** Automatically cures one specific poison if administered within ten minutes. Must be matched to the poison. Costs 5 to 20 Gold depending on rarity.
 
 **Purifying Bloom.** A rare flower that, when eaten, cures all poison effects and restores 1d4 HP. Costs 8 Gold.
 
 ---
 
-## Appendix U: Qi Phenomena and Environmental Effects
+## Appendix T: Qi Phenomena and Environmental Effects
 
 The Celestial Qi that flows through all things can be manipulated by skilled practitioners. In some locations, Qi behaves unpredictably.
 
@@ -2364,7 +2373,7 @@ Some areas are drained of Qi or actively suppress it:
 
 **Commission Interrogation Rooms.** Wards built into the walls suppress Qi. Characters in these rooms cannot use Techniques. Qi Pools are inaccessible.
 
-**The Dusk Frontier.** As the Crimson Dusk spreads, Qi becomes erratic. Techniques have a 50 percent chance of costing double their listed Qi cost. Qi Disharmony checks are made with Disadvantage.
+**The Dusk Frontier.** As the Crimson Dusk spreads, Qi becomes erratic. Techniques have a fifty percent chance of costing double their listed Qi cost. Qi Disharmony checks are made with Disadvantage.
 
 **Ancient Silence Zones.** Rare locations where Qi has never flowed. Characters who enter these zones feel a profound emptiness. Techniques cannot be used. Every hour spent in a silence zone costs 1d4 Sanity as the character senses the absence of something fundamental.
 
@@ -2382,7 +2391,7 @@ Weather conditions affect Qi manipulation:
 
 ---
 
-## Appendix V: The Dusk Touched Bestiary
+## Appendix U: The Dusk Touched Bestiary
 
 The Crimson Dusk creates horrors that defy easy categorization. Here are three common Dusk Touched creatures.
 
@@ -2406,7 +2415,7 @@ Humans who spent too long in areas saturated with Dusk. Their bodies have partia
 
 ---
 
-## Appendix W: Running Investigations
+## Appendix V: Running Investigations
 
 Many Violet Court scenarios involve investigation. This appendix provides a simple framework for running investigative scenes.
 
@@ -2434,7 +2443,7 @@ If the players are stuck, do not let the investigation stall. Use these techniqu
 
 ---
 
-## Appendix X: The Tone and Voice of the Empire
+## Appendix W: The Tone and Voice of the Empire
 
 ### Common Phrases
 
@@ -2484,7 +2493,7 @@ Certain gestures and customs carry meaning in the Court:
 
 ---
 
-## Appendix N: Random Encounters and Tables
+## Appendix X: Random Encounters and Tables
 
 Use these tables when you need to generate content quickly.
 

@@ -1078,7 +1078,7 @@ The fifth name receives no detail yet.
 
 Wei taps the paper beside it.
 
-> "You work near these people."
+> "You work near most of these people."
 >
 > "You have heard them speak."
 >
@@ -2228,6 +2228,8 @@ Risk decreases by one level for the character who made the bargain.
 
 That character gains **Bloodless Betrayal**.
 
+If they betray both Tao and Lin outright, Golden Orthodoxy Faction Standing rises by 10, Verdant Path Faction Standing falls by 15, and Tao is captured within the day.
+
 Meng will ask whether a betrayal remains bloodless when the betrayer never sees the cell.
 
 ## Scene 5.17: Failure Without an Ending
@@ -2396,7 +2398,7 @@ For the first time, Zhang looks up.
 
 ## Scene 4.3: The Receiving Records
 
-The first ledger records quarterly contributions from twelve provinces.
+The first ledger records quarterly contributions from nine provinces.
 
 Give the players actual numbers to compare.
 
@@ -5024,7 +5026,7 @@ Let waiting become its own scene.
 
 > [!READ ALOUD]
 >
-> The Chamber of Celestial Examination is not a courtroom.
+> Judgment Chamber 7 is not a courtroom.
 >
 > There are no spectators.
 >
@@ -5228,7 +5230,7 @@ If the player owns the fear:
 
 > "Fear recognized is not innocence."
 >
-> "It is merely an accurate assessment of myself."
+> "It is merely an accurate assessment of yourself."
 
 If the player transforms the answer:
 
@@ -7031,6 +7033,16 @@ Archive wards, dampening fields, memory rituals, and the underground pulse revea
 Ask:
 
 > **What does the Court feed when it teaches the world to forget?**
+
+### Stray Stroke
+
+The watch notice, the travel permit, the gate register, and the barge manifest show that the Court's hold on a person is never stronger than the paperwork somebody actually bothered to check.
+
+Tao Chen looks older than his portrait, and nobody at the gate is paid to notice.
+
+Ask:
+
+> **If you can carry one person out under a name that is not theirs, whose name do you spend?**
 
 ## Suggested Session Breaks
 

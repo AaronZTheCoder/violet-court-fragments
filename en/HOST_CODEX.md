@@ -158,7 +158,7 @@ When portraying figures aligned with each school, return to their core belief:
 
 ### Tracking the Web
 
-The Host should maintain a simple relationship map. On a sheet of paper, write the names of the ten major figures. Draw lines between them labeled with the nature of their connection: "owes favor," "blackmail material," "secretly allied," "former lovers," "blood feud." When players interact with one figure, glance at the map and ask: who learns about this? Who reacts?
+The Host should maintain a simple relationship map. On a sheet of paper, write the names of the twelve major figures. Draw lines between them labeled with the nature of their connection: "owes favor," "blackmail material," "secretly allied," "former lovers," "blood feud." When players interact with one figure, glance at the map and ask: who learns about this? Who reacts?
 
 This web is a living thing. The players' actions add new lines and erase old ones. By the end of a campaign, the map should look entirely different from how it began.
 
@@ -294,7 +294,7 @@ For each player, the Host determines a **Risk Level** based on the character's R
 | Terminal   | 20 only | 15 to 19   | 1 to 14     |
 
 **Cleared:** No consequences. Perhaps a warning.
-**Sanctioned:** Loss of 2d10 Celestial Favor. Loss of 1d10 Ritual Harmony. Possible loss of position. Public humiliation.
+**Sanctioned:** Loss of 2d10 Celestial Favor. Loss of 1d10 Ritual Harmony. Possible loss of position. Public humiliation. At Critical Risk, the Host may rule this as total confiscation of Celestial Favor and rank rather than the standard roll.
 **Disappeared:** The character is taken. The player creates a new character. This is how the first legacy cycle begins.
 
 ### Risk Baseline Definitions
@@ -313,11 +313,11 @@ The Risk table assumes the following definitions for Faction Standing:
 
 ### Worked Example: Calculating Risk
 
-Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Crimson Lineage -12, Common Flame +15, Iron Calculation 0.
+Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage -12, Common Flame +15, Bright Mirror +10.
 
 Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has -12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
-On the table, comparing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "Moderate Risk." This means on a d20, Mara is Cleared on 12+, Sanctioned on 5 to 11, and Disappeared on 1 to 4. She has a 35 percent chance of being Sanctioned and a 20 percent chance of Disappearing. She will probably survive, but better than half her survival is owed to a single faction that has decided she is worth a word in the right room.
+On the table, comparing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "Moderate Risk." This means on a d20, Mara is Cleared on 12+, Sanctioned on 5 to 11, and Disappeared on 1 to 4. She has a thirty five percent chance of being Sanctioned and a twenty percent chance of Disappearing. She will probably survive, but better than half her survival is owed to a single faction that has decided she is worth a word in the right room.
 
 If Mara had Ritual Harmony 55 and had cultivated the Verdant Path to +30, she would have Strong Protection and face Low Risk (Cleared on 8+, Sanctioned on 3 to 7, Disappeared on 1 to 2). If she had Ritual Harmony 35 and Enemies, she would face Terminal Risk (Cleared on 20 only, Sanctioned on 15 to 19, Disappeared on 1 to 14). The wide range of possible outcomes shows why faction management and Ritual Harmony maintenance matter so much in the approach to an Audit.
 
@@ -486,7 +486,7 @@ _First Impression._ The players are shown into an office that is aggressively or
 _Sample Quotes for the Host._
 
 1. "The regulation requires that all documents be filed in triplicate. Do you know why? Because one copy is for the record. One copy is for the Commission. And one copy disappears. The disappearing copy is the one that matters."
-2. "I have served under seventeen Directors of the Bureau. Twelve were Disappeared. Three retired. Two are still alive, though I would not call what they are doing living. The secret is not to be valuable enough to destroy. The secret is to be tedious enough to ignore."
+2. "I watched seventeen Directors of this Bureau rise and fall before I became the eighteenth. Twelve were Disappeared. Three retired. Two are still alive, though I would not call what they are doing living. The secret was never to be valuable enough to destroy. The secret was to be tedious enough to ignore. I have not stopped being tedious just because the door now has my name on it."
 3. "You asked me a question earlier. You think I did not answer. I did answer. You simply did not recognize the answer because you were expecting a different form."
 4. "This tea is from my private reserve. Drink it. It may be the last honest thing anyone serves you in this building."
 5. "If I told you everything I know, you would not thank me. You would curse me. Some knowledge is not a gift. It is a poison that takes seventy years to kill you."
@@ -911,6 +911,45 @@ _Additional Scene Seeds._
 1. A player brings her someone who needs shelter and does not ask how the arrangement works. She takes the person, says nothing, and afterward gives the player a small object: a bead from the fourth strand. She does not explain it. It is not a favor owed. It is evidence, of a kind, that she chose to place in someone else's hands.
 2. She asks a player to accompany her to the sealed door for the Continuance, because it is permitted to bring an attendant and she has never used the permission. She performs the rite. At the eighth phrase she does not use the rising tone. Afterward she asks the player, quite calmly, whether they noticed anything answer differently, and it becomes apparent that she has just used the players to run an experiment on the foundations of the empire.
 
+### Stray Stroke, Who Is Not One of the Twelve
+
+**Default Gender:** Male
+
+Include this figure only when your table wants the Court's count questioned rather than expanded. He is not a thirteenth Figure. He is the demonstration that the Twelve are twelve because somebody decided to spend the money on twelve.
+
+**Voice:** Easy, warm, and slightly amused, with the smoothed accent of a man who has spoken seven prefecture dialects and now speaks none of them cleanly. He answers questions directly and completely, which disarms officials trained to expect evasion. He never rushes, never raises his voice, and never wins an argument he could have lost more usefully.
+
+**Physical Tell:** When he is telling the truth about himself he slows down and stumbles, because he has almost no practice. He has no tell at all when lying. Hosts should let the players work out which of those two facts is the frightening one.
+
+**What He Wants From the Players:** A fifth attempt at a question he has failed four times, and eventually the standing to walk into the Imperial Archives and ask for one document without giving a name he does not believe.
+
+**What He Fears:** Reading his own name and feeling nothing. He has considered this for two years and has arranged his life so that the moment keeps not arriving.
+
+**Scene Seed:** A checkpoint. The players are being processed badly and slowly, and the traveler ahead of them in the line is being processed quickly, because his documents are squared at the corners and he has answered every question freely and asked the inspector a friendly question about the southern road. He is through the gate in ninety seconds. Later, on the road, they overtake him. He is in no hurry. He offers to share a fire and asks nothing about who they are.
+
+_First Impression._ He does not look like anything. That is not a failure of description; it is the whole of the description. A road coat in the colors of wet ground, a wide hat, a long inscribed scarf that reads as decoration, boots with the heels worn unevenly. He is about forty. He is pleasant to everyone including the people the players are being rude to. Nothing about him invites a second look, and the players will realize an hour later that they cannot describe his face.
+
+_Sample Quotes for the Host._
+
+1. "I have never forged a document. Everything I carry was issued by an office of this empire and every word of it is true. I did not beat your system. Your system made all eleven of these men. I stood there while it did."
+2. "You are asking which name is the real one. None of them. That is not modesty and it is not a riddle. It is a fact about the paperwork."
+3. "A verification query costs eleven copper to send and an afternoon of a clerk's life to chase. No office in the Nine Domains has ever been given a budget for suspicion. That is the entire secret. You may have it."
+4. "I was thirteen and the tide stopped going out. Then there was a queue, and a clerk, and a book. I have been in that queue ever since, if you want the poetic version, which I do not recommend."
+5. "I am going to lose this argument about the ferry price. Watch. He will remember a man who lost, and a man who lost is nobody, and being nobody in a way that makes a stranger cheerful is the finest work I do."
+
+_What He Is Doing Right Now._ Three things. He is carrying, which is legitimate and pays badly. He is maintaining several hundred li of carrier marks that no one asked him to maintain. And he is standing outside the reading room of the Imperial Archives roughly once a month and not going in, because requesting a document requires stating who you are, and the only true answer he has is a sound he heard called across water when he was twelve.
+
+_If the Players Ally With Him._ He is the best passage in the empire. He will move them, their people, and their documents between places the Court has stopped maintaining, and he will not ask what he is carrying, and he will not open it. He will not lie for them, because lying is a technique he retired, and he will not stay, because he has never stayed anywhere.
+
+_If the Players Oppose Him._ There is nothing to seize, revoke, or file. What happens instead is that the road stops being available to them. Crossings become expensive, guides become unavailable, and the marks at the gateposts start saying something about them that they cannot read.
+
+_If the Players Ignore Him._ He goes on. Eventually one of two things occurs: either somebody with rank notices that people are leaving Xiaoyuan without being recorded leaving, or he finally walks into that reading room. The Host should decide early which of these the campaign is heading toward, and then let it take a long time.
+
+_Additional Scene Seeds._
+
+1. A player asks him his name. He gives one. Three sessions later, in an entirely different province, an official addresses him by a different one, correctly and without hesitation, and does not appear to be mistaken.
+2. Bone Script and Stray Stroke are in the same room, and Bone Script greets him by the borrowed name, carefully and correctly, the way he says every name. The players who know what that name is will have to decide whether to say anything. Whatever they decide is the scene.
+
 ---
 
 ## Part Five, Section Two: Running Each Archetype
@@ -1057,7 +1096,7 @@ _Additional Scene Seeds._
 
 **Making Personal Connections Matter.** The Duke of Eternal Night NPC is the player's sire, mentor, or rival, a figure whose shadow the player has lived in for centuries. The player's bloodline family members who do not carry the immortal burden create poignant relationships. A mortal lover or friend from centuries past, now reincarnated or descended, can create powerful emotional stakes.
 
-**Spotlight Moment.** A crisis erupts in the Grand Council Chamber. Officials are shouting, factions are blaming each other, no one can agree. The Duke of Eternal Night player rises. They do not shout. They speak in the same calm, ancient voice they have used for centuries. "I was present at the founding of this Council. I have seen seventeen such crises. I have seen two hundred and forty three resolved. I will see this one resolved as well. Here is what we will do." And because of who they are, the Council listens.
+**Spotlight Moment.** A crisis erupts in the Grand Council Chamber. Officials are shouting, factions are blaming each other, no one can agree. The Duke of Eternal Night player rises. They do not shout. They speak in the same calm, ancient voice they have used for centuries. "I was present at the founding of this Council. I have seen two hundred and forty three such crises. I have seen two hundred and forty two of them resolved. I will see this one resolved as well. Here is what we will do." And because of who they are, the Council listens.
 
 ### Iron Bone (Fury Adept)
 
@@ -1130,6 +1169,25 @@ _Additional Scene Seeds._
 **Making Personal Connections Matter.** White Reed and Little Pine, aged twenty two and seventeen, inform on her weekly and she has taught them both to read. She feeds Little Pine harmless truths so the girl does not have to invent harmful ones, which means she has made herself responsible for the welfare of her own surveillance. The Bright Mirror has held a standing order to close her Temple for thirteen years and has not executed it, and in eleven meetings neither of them has said anything that could be written down.
 
 **Spotlight Moment.** A proceeding is going badly. An ally is about to be Disappeared, the evidence is fabricated, the outcome is arranged, and there is no argument left that anyone in the room is obliged to hear. The Incense Crown player stands and states that the officiant of the Continuance requires the proceeding suspended pending a question of rite. It is a procedural nothing. It is also unanswerable, because the only official who could overrule her would be entering a refusal of the Emperor's continuance into the permanent record under his own name. The room stops. Nobody in it is happy. It stops anyway.
+
+### Stray Stroke (Drifter)
+
+**Core Fantasy.** The Stray Stroke player wants to be the one person at the table that the record cannot resolve. Their power is that every lever the Court reaches for closes on nothing. Their cost is that they have been eleven men and are no longer certain there is a twelfth underneath.
+
+**What to Track.** Track the eleven names: which office issued each one, which is currently in use, and which have been spoken aloud in front of whom. Track every scene in which a name gets attached to the character by someone who believes it. Track the Amber Shore registry: how close the character has come to requesting it, and what stopped them. Track who has begun to suspect that two of the names are the same person.
+
+**Scene Hooks.**
+
+1. Two of the character's identities are required to be in the same room at the same time, by two separate parties who both have reason to expect a specific man.
+2. Somebody offers, as a genuine kindness, to make one of the eleven permanent and official, with a family and a standing and a future. Refusing requires explaining why, and explaining why requires the truth.
+3. A retired identity turns out to be current: taxes paid, address occupied, a different hand on the renewal form. Someone else has the method.
+
+**Common Pitfalls.** Do not run this as a heist character with a wardrobe. Nothing is being stolen and nothing is forged; the papers are all real, and the horror is that they are all real. Also resist making him untouchable. Nothing to Take cuts both ways, and the Host should use the second half of it: no faction protects him, no patron's favor can be recorded on his behalf, and a man with no entry can be removed without one.
+
+**Making Personal Connections Matter.** The dead net mender in Amber Shore who knew inside a month and fed him for four years is the emotional floor of the character, and it should surface rarely and land hard. Copper Ladle, the living man whose name he took, is the open wound and the reason he will accept a job that gains him nothing. Bone Script, who says the borrowed name correctly and with care, is the ongoing quiet cost of the whole arrangement.
+
+**Spotlight Moment.** The party is cornered by procedure rather than violence: a checkpoint, a summons, an inspection, a list. Every other character has a rank to invoke or a faction to call, and every one of those threads is being watched. The Stray Stroke player asks the Host which prefecture issued the inspector's authority, produces a document from an oilcloth wrap, and answers four questions honestly. It takes ninety seconds and no roll is dramatic. Afterward the table sits with the fact that this was never a trick, and that the empire is held together by paper and by nobody having the budget to check.
+
 ---
 
 ## Quick Start Scenes
@@ -2066,6 +2124,10 @@ d20 + Facet Modifier + Proficiency Bonus (if applicable) vs TN
 - Bone Script: There are cook fires burning inside a declared Dusk zone, and the people who went back are not dying.
 - Incense Crown: The answer at the sealed door changed four years ago at her fifteenth performance, and she has reported the old formula at every Continuance since.
 
+### The Truth of the One Who Is Not Counted
+
+- Stray Stroke: Eleven of the empire's own registries hold a true and separate account of him, and joining any two of them would cost eleven copper that no office has ever been given.
+
 ---
 
 ## Part Nine: A Guide to Your First Session
@@ -2262,7 +2324,7 @@ The Violet Court supports a wide range of character types. When your table has m
 
 ## When Players Surprise You
 
-No plan survives contact with the players. This section covers eight common player actions that can derail a Host's preparation, with practical advice for handling each one. The key principle across all of them is the same: player agency is not a threat to the story. It is the story.
+No plan survives contact with the players. This section covers ten common player actions that can derail a Host's preparation, with practical advice for handling each one. The key principle across all of them is the same: player agency is not a threat to the story. It is the story.
 
 ### They Want to Kill a Major NPC
 

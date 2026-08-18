@@ -71,9 +71,7 @@ The Academic Quarter has produced more reformers and revolutionaries than any ot
 
 ---
 
-**The Eastern Foundries** are a landscape of factory temples where artificer monks tend the empire's industrial soul. The province is a network of valleys and plateaus that have been reshaped by centuries of industry. The mountains have been terraced, hollowed, and connected by bridges and tunnels that form a continuous industrial complex stretching for hundreds of miles. It is said that you could walk from one end of the Foundries to the other without ever seeing the sky.
-
-The first sign that you have entered the Eastern Foundries is the smell. Smoke chokes the sky. Workers chant sutras to the Machine Gods. The Iron Calculation school holds sway here.
+**The Eastern Foundries** are a landscape of factory temples where artificer monks tend the empire's industrial soul. The province is a network of valleys and plateaus that have been reshaped by centuries of industry. The mountains have been terraced, hollowed, and connected by bridges and tunnels that form a continuous industrial complex stretching for hundreds of miles. It is said that you could walk from one end of the Foundries to the other without ever seeing the sky. Smoke chokes the sky. Workers chant sutras to the Machine Gods. The Iron Calculation school holds sway here.
 
 The first sign that you have entered the Eastern Foundries is the smell. It hits you before you crest the ridge: hot metal, coal smoke, chemical steam, and something that might be burning hair or burning prayer. The sky is the color of bruised plums, even at noon. The mountains have been terraced into stepped platforms, each one supporting a factory temple that never stops working. The sound is a constant low thunder punctuated by the ringing of hammer on anvil, the hiss of steam vents, and the rhythmic chanting of workers reciting the Calculus of Production.
 
@@ -95,7 +93,7 @@ The Ghost Trains are another local dread. Workers speak of empty rail convoys th
 
 And there is the tale of the Iron Bodhisattva's First Forging, which claims that the war god's armor was made in Ember Forge and that a shard of that original armor remains embedded in the mountain's heart. Workers sometimes touch the mountain and pray for strength.
 
-Notable figures include Foreman Dead Eye, an overseer whose left eye was replaced with a clockwork lens that sees inefficiency as a visible aura, and Abbot Calculating Wind, the head of Ember Forge, who is 120 years old and kept alive by a machine that breathes for him. His secret is that he has begun to hear the machines whispering in his dreams, telling him to build something terrible.
+Notable figures include Foreman Dead Eye, an overseer whose left eye was replaced with a clockwork lens that sees inefficiency as a visible aura, and Abbot Calculating Wind, the head of Ember Forge, who is one hundred and twenty years old and kept alive by a machine that breathes for him. His secret is that he has begun to hear the machines whispering in his dreams, telling him to build something terrible.
 
 The Crimson Dusk manifests in the Foundries as a slow rust that spreads across metal surfaces, causing iron to bloom with red crystals that release spores when disturbed. Machinery becomes unreliable, then hostile. Workers who breathe too many spores develop a cough that sounds like grinding gears. The Court's relationship with the Foundries is one of deep dependence. The Iron Calculation school provides the empire's infrastructure, and the empire must tolerate their methods, their ruthlessness, and their secrets.
 
@@ -163,7 +161,7 @@ They fear the Quiet One, a Dusk creature that stalks the high passes and can imi
 
 Their legends are martial. The Iron Bodhisattva's Vigil tells of the war god standing watch on the highest peak, spear in hand, waiting for an enemy so terrible that the god has not blinked in six hundred years. The Ghost Legion is a tale of a battalion that was wiped out in a mountain pass but continues to march, seen by lone travelers on misty nights; to join their ranks is to die well. The Sword That Wept speaks of a blade forged from a fallen star that cried blood when its owner was murdered, and that still hangs in the Silent Monastery's armory, occasionally sobbing in the dark.
 
-Notable figures include Marshal Hundred Battles of Iron Gate, who has refused promotion to the capital three times and who corresponds with Iron Wall through encrypted letters that even the Court cannot read. And Brother Wind Counting, a tactician of the Silent Monastery who can predict the outcome of any battle involving known forces with 93 percent accuracy. He cannot predict what happens in the remaining 7 percent, which keeps him up at night.
+Notable figures include Marshal Hundred Battles of Iron Gate, who has refused promotion to the capital three times and who corresponds with Iron Wall through encrypted letters that even the Court cannot read. And Brother Wind Counting, a tactician of the Silent Monastery who can predict the outcome of any battle involving known forces with ninety three percent accuracy. He cannot predict what happens in the remaining seven percent, which keeps him up at night.
 
 The Crimson Dusk in the mountains appears as a red frost that kills everything it touches, covering the stone in a layer of crystalline crimson that reflects the sky. The passes become treacherous, the frost making handholds slick and unstable. Patrols that go into Dusk Touched areas sometimes return speaking a language no one has ever heard. The province's relationship with the Court is watchful and conditional. The military serves the Sun Emperor, not the Court. If the Court demands something the military considers dishonorable, they will refuse. This has not happened yet. It is getting closer.
 
@@ -405,7 +403,7 @@ The doors were closed. The watch was set. That was a Tuesday.
 
 Two years is a long time to hold a posture.
 
-The first months were ordinary. Business continued, deferred items accumulated, and the phrase _when He returns_ entered every meeting as a scheduling convention, the way one says _after the harvest_. The Court kept His seat. The kitchens continued to prepare His meal on the first and fifteenth, because no one had rescinded the standing order, and the meal was carried to the antechamber and set down and taken away untouched, twice a month, for nine years.
+The first months were ordinary. Business continued, deferred items accumulated, and the phrase _when He returns_ entered every meeting as a scheduling convention, the way one says _after the harvest_. The Court kept His seat. The kitchens continued to prepare His meal on the first and fifteenth, because no one had rescinded the standing order, and the meal was carried to the antechamber and set down and taken away untouched, twice a month, for nine years before the sealing, and has never stopped since.
 
 By the second year the phrase _when He returns_ had begun to do something else. It had become a way of not deciding. Every genuinely difficult question in the empire was now deferrable, and everyone discovered, with relief they did not examine, that they preferred deferring.
 
@@ -685,7 +683,7 @@ Nobody ever does.
 
 ### The Capital City: Xiaoyuan
 
-Xiaoyuan is the heart of the Celestial Empire, the oldest continuously inhabited city on the continent, and the largest. Its population is officially recorded as 847,000 souls. Unofficial estimates, accounting for unregistered refugees, undocumented laborers, and the population of the Warrens beneath the city, place the true number closer to two million. The city is a living organism, constantly growing, decaying, and renewing itself in layers that span millennia.
+Xiaoyuan is the heart of the Celestial Empire, the oldest continuously inhabited city on the continent, and the largest. Its population is officially recorded as eight hundred forty seven thousand souls. Unofficial estimates, accounting for unregistered refugees, undocumented laborers, and the population of the Warrens beneath the city, place the true number closer to two million. The city is a living organism, constantly growing, decaying, and renewing itself in layers that span millennia.
 
 #### The Inner City
 
@@ -859,7 +857,7 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 256, The Census Revolt.** A province in the south refused to participate in the decennial census. The refusal was not spontaneous. It was organized by a network of village headmen who had been meeting in secret for years, sharing information about the Court's methods and building a mutual defense pact. The Court learned of the network only when the revolt began. The refusal spread to three other provinces. The Court dispatched Harmonization Audits. The Audits were met with armed resistance. The revolt was suppressed after two years, at a cost of forty thousand lives. The census was conducted as scheduled. The records of the revolt were sealed.
 
-**Year 287, The Emperor's Last Public Appearance.** The Sun Emperor appeared in the Grand Council Chamber to deliver a judgment on a doctrinal dispute. He was described as "weary" by attending scribes. The judgment was His last known communication outside the Spire. The content of the judgment is known to have displeased certain members of the Council. Within the year, construction of the Spire's internal chambers was completed three decades ahead of schedule. The Sealing was prepared.
+**Year 287, The Emperor's Last Public Appearance.** The Sun Emperor appeared at the Hall of Open Hearing and ruled on a decades-old dispute between two ritual bureaus over the color of a ceremonial thread. He was described as "weary" by attending scribes. The ruling was His last known communication outside the Spire. The content of the judgment is known to have displeased certain members of the Council. Within the year, construction of the Spire's internal chambers was completed three decades ahead of schedule. The Sealing was prepared.
 
 #### The Sealing (Years 288 to 297)
 
@@ -913,7 +911,7 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 448, Shadow's Discovery.** Shadow, operating in the Archives, obtained a copy of the original Founding Charter. He read it. He understood its implications. He began selling access to its contents, one person at a time, at prices designed not to enrich himself but to spread the knowledge as widely as possible without triggering a crackdown.
 
-**Year 450, The Current Harmonization Audit Crisis.** The Golden Orthodoxy, facing mounting evidence that its rituals cannot stop the Dusk, initiated a series of Harmonization Audits targeting the Verdant Path and the Common Flame. The Audits have escalated beyond the Orthodoxy's control. The schools are at an impasse. The Dusk continues to advance. The present year is 452. The empire is in its final phase, though most of its citizens do not know it yet.
+**Year 450, The Current Harmonization Audit Crisis.** The Golden Orthodoxy, facing mounting evidence that its rituals cannot stop the Dusk, initiated a series of Harmonization Audits targeting the Verdant Path and the Common Flame. The Audits have escalated beyond the Orthodoxy's control. The schools are at an impasse. The Dusk continues to advance. The present year is Year 452. The empire is in its final phase, though most of its citizens do not know it yet.
 
 ---
 
@@ -921,13 +919,13 @@ The following chronology is compiled from the official records of the Bureau of 
 
 Read this section slowly. It is the spine of the modern empire, and everything your players touch will have been shaped by it.
 
-The Sun Emperor is sealed inside the Spire. He does not speak. Yet edicts continue to appear on jade tablets in the Throne Chamber, written in His hand, and the empire is governed by them. This creates the central problem of the 155 years since the final seal, and the answer to that problem is the only throne that has ever mattered.
+The Sun Emperor is sealed inside the Spire. He does not speak. Yet edicts continue to appear on jade tablets in the Throne Chamber, written in His hand, and the empire is governed by them. This creates the central problem of the one hundred and fifty five years since the final seal, and the answer to that problem is the only throne that has ever mattered.
 
 Someone must carry the tablets out. Someone must read them aloud. Someone must decide what the words mean when the words are ambiguous, and the words are always ambiguous.
 
 That person is the Steward. The office has no formal name in any charter. There is no ceremony of appointment, no seal of investiture, no line of succession written anywhere a scholar could cite. The Steward is simply the person the Grand Council has stopped arguing with. Power in the Celestial Court is not seized. It accretes, the way sediment accretes, until one day the river has a new bank and no one can point to the moment it moved.
 
-Three Stewards have held the tablets since the Age of Harmony gave way to the Dusk Era. Each inherited a different empire. Each left behind a different set of ruins. Understanding them is understanding why the Court behaves the way it does when your players walk into a room.
+Three Stewards have held the tablets across the closing of the Age of Harmony and the opening of the Dusk Era. Each inherited a different empire. Each left behind a different set of ruins. Understanding them is understanding why the Court behaves the way it does when your players walk into a room.
 
 ### The First Stewardship: The Ledger Hand (Years 356 to 402)
 
@@ -1051,7 +1049,7 @@ The Court's position is that these are houses of study, entered willingly, from 
 
 Statistically the prefecture is now the most harmonious in the empire. Reported incidents have fallen to zero and stayed there for six consecutive years, which is a figure no other prefecture in three hundred years of records has ever achieved, including prefectures with no population.
 
-Bone Script comes from a prefecture two valleys over. He will tell you what a reported incident rate of zero means, if he trusts you, which he will not for a long time.
+Bone Script comes from a prefecture that no longer exists. He will tell you what a reported incident rate of zero means, if he trusts you, which he will not for a long time.
 
 **The Harbor's Silence.** Tidegate had been promised fifty years of its own laws. In year thirty of that promise, after a summer in which two million of its people filled the streets, the Court determined that the promise had always been conditional on harmony, that harmony had failed, and that the Court's obligation was therefore discharged.
 
@@ -1553,7 +1551,7 @@ Each figure is a potential patron, ally, rival, or executioner. Each belongs to 
 
 **Presence:** Flowing robes of gold and alabaster. An intricate headdress marking bureau rank. Surrounded by the apparatus of his calling: distillation coils, jade vials of glowing elixir, brushes for drafting official accounts. He resembles a sage. He feels like a prisoner.
 
-**His Office.** Cinnabar Heart's office in the Bureau of Harmonious Narrative is a large, brightly lit room on the third floor of the Ministry building. The walls are lined with shelves containing bound volumes of every official narrative the Bureau has produced during his tenure, thousands of documents that represent the empire's official version of reality. His desk is an enormous piece of carved rosewood, its surface covered with papers, brushes, inkstones, and the small distillation apparatus he uses to prepare his elixirs. The windows face east, overlooking the Avenue of Eternal Peace, and he often stands at them, watching the officials walk below, wondering how many of them believe the words he writes.
+**His Office.** Cinnabar Heart's office in the Bureau of Harmonious Narrative is aggressively ordinary: filing cabinets, a chipped tea set, a window that looks out on a brick wall rather than the Avenue of Eternal Peace. He could have claimed a grander room decades ago. He has never taken one. The walls hold shelves of bound volumes, official narratives the Bureau has produced during his tenure, filed with no ornament and no explanation. His desk is plain and covered in papers, brushes, inkstones, and the small distillation apparatus he uses to prepare his elixirs. Visitors expecting the Director of a Bureau find instead a tired clerk who has apparently been forgotten by his own success, which is exactly the impression he has spent thirty years cultivating.
 
 **Story:** Cinnabar Heart was a true believer once. He rose through the Bureau on the strength of his faith, and his ability to transmute inconvenient facts into doctrinal gold became legendary. He coined the phrases that justified three Harmonization Audits, two border conflicts, and the "voluntary relocation" of an entire province. At forty two, after thirty years in the Bureau, he found a Founding Era letter in the archives that exposed the true relationship between the Sun Emperor and the Court. He is now sixty two and has carried that knowledge for twenty years.
 
@@ -1639,7 +1637,7 @@ His first mission came at fourteen. He was ordered to kill a captain who had ser
 **Court Role:** Representative of the Northern Expanse; Voice of the Verdant Path
 **Nature:** The Reformer Playing the Long Game
 
-**Presence:** Flowing garments of living green. Hair the color of autumn wheat. The pointed ears and ageless features of the ancient forest peoples. She carries a bow that has outlasted dynasties. Her eyes are older than the empire itself.
+**Presence:** Plain traveler's clothes, patched more than once. Hair streaked with grey, cut practically short. Skin weathered by decades outdoors. Pointed ears are the only obvious sign of what she is; everything else about her, she has spent centuries arranging to look like a woman in her late forties who could pass for a farmer or a market trader. Only her eyes give the rest away: they are older than the empire itself, and she is careful about who gets close enough to notice. She carries a bow that has outlasted dynasties, wrapped in cloth that makes it look like nothing worth a second glance.
 
 **Her Room in the Garden Quarter.** Guest Among Forests maintains a small residence in the Garden Quarter, in a house that she has filled with plants from the Northern Expanse. The walls are covered in living vines. The windows are open to the air. The floor is packed earth rather than tile. She sleeps on a mat of woven grass, not a bed. The room smells of damp earth and green growing things, and the Qi is noticeably different here, wilder, older, resistant to the tamed flow of the city. Visitors find the room calming or unsettling, depending on their sensitivity to Qi.
 
@@ -1681,7 +1679,7 @@ She has outlived four lovers and one of her two children, along with everyone sh
 **Default Gender:** Male
 
 **Path:** Artificer
-**School:** Iron Calculation (founder)
+**School:** Iron Calculation
 **Court Role:** Director, State Planning Commission
 **Nature:** The System Builder Who Misplaced People
 
@@ -1703,7 +1701,7 @@ At the Academy, he excelled beyond all expectations. He redesigned the curriculu
 
 **Inner Circle.** Deputy Director Steel Ledger is his right hand, a woman who shares his dedication to efficiency and who has learned to translate his technical language into terms that other officials can understand. Chief Engineer Burning Wire runs the Qi conduit network and reports directly to Iron Calculation on any irregularities in the power grid. The Ghost of His Past, a factory worker named Old Loom who knew his mother, occasionally appears at Commission offices with requests for better working conditions. Iron Calculation grants the reasonable requests and ignores the rest.
 
-**Relationships.** Bright Mirror investigates Iron Calculation's projects whenever their human cost becomes impossible to ignore. He has found ruthless policy, selective assumptions, and no evidence of personal corruption. Iron Calculation considers the Justicar one of the few officials worth answering because he tests claims against evidence, though he regards moral judgment as an inefficient substitute for calculation. The Iron Bone is his opposite in every way, the embodiment of everything he considers inefficient: emotion, spontaneity, resistance to optimization. The Duke of Eternal Night finds him useful and therefore supports him, with the cold calculation of one immortal recognizing another in a different form. Cinnabar Heart and Iron Calculation share a mutual incomprehension: one deals in narratives, the other in numbers, and neither understands why the other's work is considered important.
+**Relationships.** Bright Mirror investigates Iron Calculation's projects whenever their human cost becomes impossible to ignore. He has found ruthless policy, selective assumptions, and no evidence of personal corruption. Iron Calculation considers the Justicar one of the few officials worth answering because he tests claims against evidence, though he regards moral judgment as an inefficient substitute for calculation. The Iron Bone is his opposite in every way, the embodiment of everything he considers inefficient: emotion, spontaneity, resistance to optimization. The Duke of Eternal Night finds him useful and therefore supports him, with the cold calculation of one immortal recognizing another in a different form. Cinnabar Heart and Iron Calculation present a mutual incomprehension to anyone watching: one deals in narratives, the other in numbers, and neither will publicly admit why the other's work is considered important. Privately, they have been meeting for tea once a month for the better part of a year. Neither school knows.
 
 **Manner:** Brilliant, detached, incapable of casual conversation. He genuinely believes governance is an optimization problem and that sentiment is a variable that should be minimized. He is not cruel. Cruelty is inefficient. He is something more unsettling: indifferent.
 
@@ -1795,7 +1793,7 @@ The resulting Harmonization Audit lasted three months and claimed forty seven of
 
 **Inner Circle.** Justicar Voss's Ghost is the memory of his mentor, a presence he consults when making difficult decisions. He imagines what Voss would say, then examines why the answer still appeals to him before choosing his own course. Junior Inspector Steadfast Reed is his most promising protégé, a young woman who shares his commitment to purity and who may one day succeed him. The Archivist of Confessions is a scribe who maintains the records of every investigation the Commission has conducted. He is the only person who knows the full extent of the corruption the Commission has uncovered and chosen not to pursue for strategic reasons.
 
-**Relationships.** Bright Mirror and Iron Wall are the empire's only genuine alliance. Bright Mirror trusts him absolutely, which means he trusts exactly one person. The Duke of Eternal Night is his oldest and most persistent investigation target: he is certain the Duke has committed crimes that would merit Harmonization a hundred times over, he has never been able to prove one of them, and he is patient. The Iron Bone he has investigated and found to be, by the strict definition of the law, guilty of treason. He has not moved against the man, because he believes the cause is just even if the methods are not, and he is still deciding what to do about that contradiction.
+**Relationships.** Bright Mirror and Iron Wall are the empire's only genuine alliance. Bright Mirror trusts him absolutely, which means he trusts exactly one person. The Duke of Eternal Night is his oldest and most persistent investigation target: he is certain the Duke has committed crimes that would merit Harmonization a hundred times over, he has never been able to prove one of them, and he is patient. He has investigated the Iron Bone extensively and is privately certain, by the strict definition of the law, that the man is guilty of treason. He has not moved against him, because certainty is not proof, and the Hearthstone Healer case taught him that acting on what he believes rather than what he can demonstrate is exactly the failure he swore never to repeat. He watches. He waits for evidence that would survive his own scrutiny. He has not found it yet, and some nights he is honestly unsure whether that is because it does not exist or because some part of him has stopped looking as hard as he once did.
 
 **Manner:** Intense, exacting, and unwilling to bargain with proven corruption. He genuinely believes in the Court's founding ideals, but the Hearthstone Healer case taught him that certainty must be earned through evidence rather than assumed. Once a case survives every challenge he can devise, he acts without hesitation, even when the finding condemns him. The most dangerous person in the empire.
 
@@ -1829,7 +1827,7 @@ The resulting Harmonization Audit lasted three months and claimed forty seven of
 
 **Story:** Born in the Warrens beneath Xiaoyuan, child of a disgraced official and a teahouse worker. Should have died before age five. Instead, he learned to read the secrets people whispered, to trade information for sustenance, to survive by being more useful alive than dead. The Bureau of Internal Harmony swept the Warrens twice while he was growing up and both times judged him not worth the paperwork, which he arranged. He has been trading secrets ever since, and now runs an information house rather than working for one.
 
-**Personal History.** His birth name is not Shadow. The name grew around him in the Warrens until it replaced the original, which he has forgotten. He was born in a rented room there, the son of a teahouse worker and a disgraced official. His father had taken money to certify adulterated grain as safe, and eleven people died. His mother is still alive at seventy nine in a room Shadow pays for. He survived childhood by begging, stealing, and learning which adults could be trusted and which could not.
+**Personal History.** His birth name is not Shadow. The name grew around him in the Warrens until it replaced the original, which now survives in exactly one place: his mother's mouth, twice a year, in a teahouse where nobody else is listening. He was born in a rented room there, the son of a teahouse worker and a disgraced official. His father had taken money to certify adulterated grain as safe, and eleven people died. His mother is still alive at seventy nine in a room Shadow pays for. He survived childhood by begging, stealing, and learning which adults could be trusted and which could not.
 
 He was never recruited by anyone. The Bureau swept the Warrens twice in his adolescence and both times he was not worth the paperwork, which he engineered. He built what he has from nothing, starting as a child selling overheard conversation for food, and he is now an information house rather than an agent: forty to sixty people on standing retainer, nine of whom know they work for him, the rest believing they work for four brokers, three of whom do not exist. His independent gifts are infiltration, extraction, and information gathering. He kills only when necessary, a distinction that makes him valuable to clients for whom discretion is paramount.
 
@@ -1898,7 +1896,7 @@ He married once, to a mortal woman named Ash Bright. He was two hundred and four
 - ↓ Bore him. This is the most dangerous thing you can do
 - ↓ Threaten what remains of his bloodline
 
-**What He Knows:** The Sun Emperor is not absent. The Emperor is sealed within the Spire, imprisoned by the first generation of Court elders who decided they would rather rule in His name than serve under His authority. The Duke voted against it and was outvoted. He has carried the guilt of failing to stop them for one hundred and fifty five years. He has tried to make amends in small ways, protecting those the Court would have destroyed and preserving knowledge the Court would have erased. He knows it is not enough.
+**What He Knows:** The Sun Emperor is not simply absent, whatever the Court's public story says. The Duke was in the chamber when the first generation of Court elders sealed the Spire's doors, having decided they would rather rule in His name than serve under His authority. What the sealing actually did to the Emperor, the Duke does not know any better than anyone else does. He knows only that he voted against it and was outvoted. He has carried the guilt of failing to stop them for one hundred and fifty five years. He has tried to make amends in small ways, protecting those the Court would have destroyed and preserving knowledge the Court would have erased. He knows it is not enough.
 
 **Potential Quest: The Emperor's Heir.** The Duke believes that the Sun Emperor may have fathered a child before His imprisonment, an heir who was hidden from the Court and raised in secret. The Duke has spent centuries searching for this heir, without success. He has recently received a lead: a woman in the Southern Granary who possesses an artifact that only the Emperor's bloodline could activate.
 
@@ -2078,6 +2076,61 @@ So they keep her instead: a residence in the Inner City, a stipend, the finest s
 
 **Potential Quest: The Eighth Phrase.** She wants to know whether the rising tone is correct. This sounds like a scholarly triviality. It is not. If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error, and she does not know which possibility frightens her more.
 
+---
+
+## The Figure That Is Not Counted
+
+The Court counts twelve. The count is not a census; it is a decision about who is worth the expense of watching. Everyone included in it can be found, promoted, threatened, or erased, because the machinery that does those things runs on the record, and the record holds a single resolvable entry for each of them.
+
+There is a thirteenth. He is in the record eleven times, correctly, and the eleven have never been joined.
+
+---
+
+### Stray Stroke
+
+**Default Gender:** Male
+
+**Path:** Drifter
+
+**School:** None. His file classification has read Pending Verification for nine years.
+
+**Court Role:** Registered eleven times. Verified never.
+
+**Nature:** Pleasant, unhurried, and structurally unavailable. He is not hiding. He is standing in plain sight in a form the empire's instruments cannot resolve.
+
+**Presence:** A road coat dyed with the muds of the prefectures he walks, redyed each season, so that he is wearing a map of his own movements that nobody can read. A wide brimmed traveling hat that keeps his face in shadow at every hour. A strip of hemp cloth ten feet long, wound at the shoulders, covered end to end in what any observer takes for pattern. It is a registry of the eleven men he has been, in carrier shorthand, worn in public, in daylight, illegible to everyone.
+
+**Origin.** He was thirteen in Amber Shore in the Year 427, when the sea went red, then thick, then solid. He reached the evacuation office on the eleventh day. There was a queue, a clerk, and a ledger, and the clerk asked his name, and he gave the name of a boy from his village who had drowned two weeks earlier and whose family held a survivor's allocation, which meant food tokens, which meant surviving the winter.
+
+The clerk wrote it down and did not check, because the office that held the check was two hundred li east and had already been abandoned. It took less time than buying rice. He has been unable to stop thinking about that for twenty five years, and what he cannot get past is not that he lied but that there was nothing there to catch him.
+
+**Why he matters.** Every other figure in this chapter is an argument about how power should be exercised. Stray Stroke is a demonstration of how thinly it is actually held. The empire's whole apparatus of control runs on documents that are copied from other documents, verified by offices that have never been funded to verify anything, and defended by clerks who resolve every contradiction in favor of the paper. He did not defeat that system. He answered its questions honestly for twenty five years and it manufactured eleven separate men.
+
+He is now in Xiaoyuan for a reason that is almost embarrassingly small. The Amber Shore population registry for the Year 426 was forwarded to the Bureau of Harmonious Records before the province fell. It was received and never processed. It is in the deep stacks of the Imperial Archives. His real name is in it. To request it he would have to state who he is, and all eleven of his answers belong to men who were never in Amber Shore.
+
+**Daily Routine.** He wakes early in a carrier's bunk with three exits, checks the oiled wrap that holds his ninth grade permit, and eats standing at a stall he will not use again tomorrow. Mornings he carries: sealed tubes, spoken messages, packages he has not opened. Afternoons he walks the routes, reading and cutting the carrier marks at crossings and gates, an unpaid maintenance he has performed for eleven years for an institution that has no leader, no name, and several hundred members who have never met. Evenings he reads the cloth, checking that eleven durations laid end to end still add up to a life. Then a quarter hour of a badly repaired two stringed fiddle he cannot play and has played in every province of the empire, including one that no longer exists.
+
+**Inner Circle.** Nobody, in the sense the Court means. A dead net mender in Amber Shore who worked out inside a month that he was not her nephew and fed him for four years anyway. A missing granary weigher named Copper Ladle, the one living man whose name he took, whose release from a labor settlement never processed because the record showed him already at liberty. An old courier called Sixteen Bridges who taught him the road marks and told him that a man who changes his name more than three times stops being able to tell a decision from a habit.
+
+**Relationships.** The Celestial Book holds the document he came for and has looked at his scarf slightly too long, once. Bone Script met him in the petitions queue, asked his name, received the eleventh one, and has been saying it correctly and with care ever since, which Stray Stroke has been unable to correct and unable to stop hearing. The Shadow has a file on him that will not close, has made two approaches, and has been declined twice, and would be disappointed by the true answer, which is that none of the eleven is real.
+
+**Manner:** Warm, agreeable, and easy to be around, all of it learned as a technique and all of it now genuine, which he does not know what to do with. He loses arguments on purpose, especially about the price of a ferry crossing, because a man who wins is remembered. He has no tell when lying. He becomes slow and slightly clumsy when telling the truth about himself, from lack of practice.
+
+**Hidden Purpose:** To read one document in the Imperial Archives and find out whether the name in it does anything to him.
+
+**Combat Role:** Avoidance and Passage. He does not fight. He arrives without being noticed, leaves before it matters, and takes other people with him.
+
+**Loyalty Gates:**
+
+- ↑ Ask him a question and accept the answer without checking it
+- ↑ Need to get somewhere the Court has stopped maintaining, and trust him to take you
+- ↓ Try to fix his identity for him as a favor
+- ↓ Treat what he does as a trick rather than as a description of how the empire actually works
+
+**What He Knows:** That verification is a cost, not a capability. He can name, from memory, which prefectures in the Nine Domains actually query the central registry and which merely stamp, and the list of those that query is short enough to recite in one breath. He also knows four routes into and out of the capital that are on no map, and that one of them has recently begun carrying careful traffic that leaves no carrier marks and that the eastern watch has not reported.
+
+**Potential Quest: The Fourth Attempt.** He has tried four times to find out what became of Copper Ladle. Two of the offices no longer exist, one will not answer a query from a ninth grade carrier, and the fourth confirmed that the record contains no irregularity, which he already knew, because the irregularity is him and he is not in the record. He will ask the players for the fifth attempt, and he will be honest about what he did, and the players will have to decide what they think of him before they decide whether to help.
+
 ## Game Systems
 
 ### The Core Loop
@@ -2236,6 +2289,8 @@ Each of the twelve figures has:
 - **Devotion Level (0 to 5):** Unlocks their abilities, secrets, and support
 - **Personal Thread:** A chain of events that, if followed to its end, reveals their Truth and maximizes devotion
 - **School Tension:** Being close to them affects your Faction Standing with their school's rivals
+
+The Stray Stroke uses the same four values. He is not one of the twelve, and the only difference at the table is that School Tension does not apply to him, because he has no school for anyone to be the rival of.
 
 **Bond Tiers:**
 
@@ -2791,7 +2846,7 @@ Beyond their primary storylines, each figure has additional threads that can be 
 
 **Bright Mirror's Father.** A sealed supplemental file sits beside the official record of Bright Mirror's father. It contains payment ledgers and witness statements suggesting that the private retainer was not merely corruption. His father may have accepted the money to enter a network the Commission could not lawfully investigate. The file does not absolve him. It makes his motives uncertain, and it names a surviving witness Bright Mirror has never questioned. Bright Mirror has never opened the supplemental file. Opening it would force him to decide whether truth can complicate a judgment he has treated as settled.
 
-**Shadow's Original Name.** Shadow has forgotten his original name. His mother called him something, but the memory has faded. During the Bureau of Internal Harmony's sweeps of the Warrens, clerks created a sealed surveillance ledger for children they considered potentially useful, including those they never recruited. One entry contains the name his mother used and fragmentary notes about his parents. The ledger is stored in a sealed section of the Bureau of Internal Harmony's archives. Obtaining it would require a carefully planned operation.
+**Shadow's First Entry.** Shadow has spent twenty years removing himself from every register in the capital, one document at a time, and he has been thorough. One entry survives, and he did not make it. During the Bureau of Internal Harmony's sweeps of the Warrens, clerks opened a sealed surveillance ledger on children they judged potentially useful, including the ones they never recruited. His entry holds the name his mother still uses, fragmentary notes on both his parents, and an assessment of him written when he was eight years old. The ledger is stored in a sealed section of the Bureau of Internal Harmony's archives. Obtaining it would require a carefully planned operation, and would tell him how early somebody decided what he was for.
 
 **Duke of Eternal Night's Mortal Marriage.** The Duke married Ash Bright when he was two hundred and four and she was twenty six. They remained together for sixty seven years, until she died at ninety three. She has been dead for five hundred and twenty nine years. A portrait of her hangs in a private room in his compound, and he has never remarried.
 
@@ -2802,6 +2857,8 @@ Beyond their primary storylines, each figure has additional threads that can be 
 **Bone Script's Countersignature.** His restoration petition is complete and valid and needs one signature from an official of the fourth rank or higher. Eleven people in Xiaoyuan can give it. Nine would require bribes beyond anything he will ever have. One would sign out of principle and be destroyed within the month. One would sign for personal gain and own him for the rest of his life. He has narrowed it to those two and has been unable to choose for eleven weeks, and the delay is not indecision. He is waiting to find out which kind of person he is.
 
 **Incense Crown's Eighth Phrase.** She wants to know whether the rising tone is correct. This sounds like a scholarly triviality. It is not. If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error. She does not know which possibility frightens her more, and she has now begun testing it, alone, without authorization, twice a year.
+
+**And one thread belonging to nobody on the list: the Stray Stroke's Fifth Attempt.** He is not one of the Twelve, and this thread is printed here because it runs through the same offices as all the others. Nine years ago he wore the name of a granary weigher called Copper Ladle, believing the man dead. The man was not dead. He was serving four years in a labor settlement, and the clean record kept in his name elsewhere caused his release to fail processing, because a clerk resolved the contradiction in favor of the paper. Four attempts to establish what became of him have produced nothing: two offices no longer exist, one refuses queries from ninth grade carriers, and the fourth confirmed that the record contains no irregularity. The irregularity is a man who is not in the record. He will ask the players for the fifth attempt, and he will tell them the truth about what he did before he asks.
 
 ### Random Tables for the Host
 
@@ -2908,15 +2965,6 @@ Beyond their primary storylines, each figure has additional threads that can be 
 8. A description of the Sun Emperor's physical appearance in the year before His withdrawal
 9. A contract between the Crimson Lineage and a foreign power that predates the empire
 10. A single page, torn from a larger document, containing the words "Do not trust the silence"
-11. A structure that should not exist, built from red crystal
-12. A field of flowers that bloom in patterns that spell words
-13. A pool of water that shows visions of possible futures
-14. A tree that bears fruit containing messages from the dead
-15. A path of white stones that leads to a door in the air
-16. A chorus of voices singing a song that has not been composed yet
-17. A shadow that moves against the wind and leaves no footprint
-18. A circle of standing stones that hum with a frequency that erases memory
-19. A figure sitting on a throne made of mirrors, waiting
 
 ### Sample Quests and Threads
 
@@ -3363,7 +3411,7 @@ Beyond the ten major endings, the Host may choose to introduce one of the follow
 
 **The Blood Succession (Crimson Lineage + Bright Mirror).** The Duke of Eternal Night and the Bright Mirror reach an understanding. The Duke renounces his corrupt practices and submits to purification. The Bright Mirror spares his life in exchange for his knowledge. Together, they establish a new order based on blood cultivation used for the common good. The Duke lives long enough to see his redemption. He dies at peace.
 
-**The Silence Ends (Celestial Book + All Schools).** Celestial Book reveals the truth about the Sun Emperor's imprisonment. The schools, united in purpose, break open the Spire. The Emperor emerges, but She is not what anyone expected. She is ancient, diminished, and not entirely sane. Her return does not save the empire. It ends it in a way that no one predicted.
+**The Silence Ends (Celestial Book + All Schools).** Celestial Book reveals the truth about the Sun Emperor's imprisonment. The schools, united in purpose, break open the Spire. The Emperor emerges, but He is not what anyone expected. He is ancient, diminished, and not entirely sane. His return does not save the empire. It ends it in a way that no one predicted.
 
 **The Forgotten Door (Shadow + The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place outside the empire's reach. He leads a group of refugees through the passage to a land that the Dusk has not touched and the Court does not know. The empire collapses behind them. They are the seeds of something new.
 
@@ -3512,7 +3560,7 @@ Beyond the ten major endings, the Host may introduce variant endings triggered b
 
 **The Blood Succession (Crimson Lineage plus Bright Mirror).** The Duke of Eternal Night and the Bright Mirror reach an understanding. The Duke renounces his corrupt practices and submits to purification. They establish a new order based on blood cultivation used for the common good.
 
-**The Silence Ends (Celestial Book plus All Schools).** Celestial Book reveals the truth about the Emperor's imprisonment. The schools break open the Spire. The Emperor emerges, but She is not what anyone expected. Her return does not save the empire. It ends it.
+**The Silence Ends (Celestial Book plus All Schools).** Celestial Book reveals the truth about the Emperor's imprisonment. The schools break open the Spire. The Emperor emerges, but He is not what anyone expected. His return does not save the empire. It ends it.
 
 **The Forgotten Door (Shadow plus The Warrens).** Shadow discovers a passage in the Forgotten Tunnels that leads to a place beyond the empire's reach. He leads refugees through the passage to a land the Dusk has not touched. They are the seeds of something new.
 

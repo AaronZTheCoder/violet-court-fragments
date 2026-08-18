@@ -14,6 +14,7 @@
 | 16  | Challenging |
 | 20  | Formidable  |
 | 24  | Legendary   |
+| 28  | Impossible  |
 
 ### Advantage and Disadvantage
 
@@ -405,7 +406,7 @@ Core Belief: Blood remembers what the empire forces itself to forget.
 Key Figure: Duke of Eternal Night
 Faction Standing Effect: High Faction Standing opens noble courts and high society. Low Faction Standing means barred from social events and noble cooperation.
 Typical Members: Nobility, historians of bloodlines, those who study inherited memory.
-Rival Schools: Common Flame (over class), Bright Mirror (over purity).
+Rival Schools: Common Flame (over class), Bright Mirror (over purity), Verdant Path (over natural order), Iron Calculation (over noble privilege).
 
 **Common Flame**
 Core Belief: Power belongs to the people, not the few.
@@ -429,4 +430,4 @@ Rival Schools: Golden Orthodoxy (over what purity means), Crimson Lineage (over 
 - Neutral (0): No special treatment. Standard interaction. No hostility but no help.
 - Suspect (-20): School is wary. Services restricted. Character may be watched.
 - Hostile (-50): School actively opposes the character. Denied services. Potential for violence.
-- Sworn Enemy (-80+): School dedicates resources to the character's destruction. Assassins. Blacklists. Open hostility.
+- Sworn Enemy (-80 or below): School dedicates resources to the character's destruction. Assassins. Blacklists. Open hostility.
