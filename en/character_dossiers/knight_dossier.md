@@ -58,7 +58,7 @@ Here is what you have not told anyone: on one visit four years ago he was entire
 
 You do not know why you lied. You have decided it was mercy. You are not certain.
 
-**Master Chen, and the only time you wept.** She has maintained your armor for fifteen years. She is small, has powerful hands, and a vocabulary that would embarrass a dock worker.
+**Mistress Chen, and the only time you wept.** She has maintained your armor for fifteen years. She is small, has powerful hands, and a vocabulary that would embarrass a dock worker.
 
 She is the only person in the Garrison who has seen you weep. That was after Thornwood; you came back, sat in her workshop still in armor, and could not speak. She asked nothing. She brought tea, sat beside you, and worked on your pauldron until you recovered. She has never mentioned it and has never treated you differently.
 

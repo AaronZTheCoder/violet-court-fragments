@@ -158,7 +158,7 @@ When portraying figures aligned with each school, return to their core belief:
 
 ### Tracking the Web
 
-The Host should maintain a simple relationship map. On a sheet of paper, write the names of the ten major figures. Draw lines between them labeled with the nature of their connection: "owes favor," "blackmail material," "secretly allied," "former lovers," "blood feud." When players interact with one figure, glance at the map and ask: who learns about this? Who reacts?
+The Host should maintain a simple relationship map. On a sheet of paper, write the names of the twelve major figures. Draw lines between them labeled with the nature of their connection: "owes favor," "blackmail material," "secretly allied," "former lovers," "blood feud." When players interact with one figure, glance at the map and ask: who learns about this? Who reacts?
 
 This web is a living thing. The players' actions add new lines and erase old ones. By the end of a campaign, the map should look entirely different from how it began.
 
@@ -294,7 +294,7 @@ For each player, the Host determines a **Risk Level** based on the character's R
 | Terminal   | 20 only | 15 to 19   | 1 to 14     |
 
 **Cleared:** No consequences. Perhaps a warning.
-**Sanctioned:** Loss of 2d10 Celestial Favor. Loss of 1d10 Ritual Harmony. Possible loss of position. Public humiliation.
+**Sanctioned:** Loss of 2d10 Celestial Favor. Loss of 1d10 Ritual Harmony. Possible loss of position. Public humiliation. At Critical Risk, the Host may rule this as total confiscation of Celestial Favor and rank rather than the standard roll.
 **Disappeared:** The character is taken. The player creates a new character. This is how the first legacy cycle begins.
 
 ### Risk Baseline Definitions
@@ -486,7 +486,7 @@ _First Impression._ The players are shown into an office that is aggressively or
 _Sample Quotes for the Host._
 
 1. "The regulation requires that all documents be filed in triplicate. Do you know why? Because one copy is for the record. One copy is for the Commission. And one copy disappears. The disappearing copy is the one that matters."
-2. "I have served under seventeen Directors of the Bureau. Twelve were Disappeared. Three retired. Two are still alive, though I would not call what they are doing living. The secret is not to be valuable enough to destroy. The secret is to be tedious enough to ignore."
+2. "I watched seventeen Directors of this Bureau rise and fall before I became the eighteenth. Twelve were Disappeared. Three retired. Two are still alive, though I would not call what they are doing living. The secret was never to be valuable enough to destroy. The secret was to be tedious enough to ignore. I have not stopped being tedious just because the door now has my name on it."
 3. "You asked me a question earlier. You think I did not answer. I did answer. You simply did not recognize the answer because you were expecting a different form."
 4. "This tea is from my private reserve. Drink it. It may be the last honest thing anyone serves you in this building."
 5. "If I told you everything I know, you would not thank me. You would curse me. Some knowledge is not a gift. It is a poison that takes seventy years to kill you."
@@ -931,7 +931,7 @@ _First Impression._ He does not look like anything. That is not a failure of des
 
 _Sample Quotes for the Host._
 
-1. "I have never forged a document. Everything I carry was issued by an office of this empire and every word of it is true. I did not beat your system. Your system made all of these men. I stood there while it did."
+1. "I have never forged a document. Everything I carry was issued by an office of this empire and every word of it is true. I did not beat your system. Your system made all eleven of these men. I stood there while it did."
 2. "You are asking which name is the real one. None of them. That is not modesty and it is not a riddle. It is a fact about the paperwork."
 3. "A verification query costs eleven copper to send and an afternoon of a clerk's life to chase. No office in the Nine Domains has ever been given a budget for suspicion. That is the entire secret. You may have it."
 4. "I was thirteen and the tide stopped going out. Then there was a queue, and a clerk, and a book. I have been in that queue ever since, if you want the poetic version, which I do not recommend."

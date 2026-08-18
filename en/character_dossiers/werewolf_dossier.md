@@ -28,7 +28,7 @@ You were correct about the rail. You were wrong about the timing, and you knew y
 
 It failed in nine days. The Commission came. Nineteen people were dismissed and blacklisted, four were taken, and you were named as the head and sent to the penal works.
 
-You have told this story for sixteen years, ever since your arrest, as an act of principled resistance that was crushed. It was also vanity, and the two are not separable, and nineteen families were blacklisted because a young man wanted the credit.
+You have told this story for sixteen years, ever since your release, as an act of principled resistance that was crushed. It was also vanity, and the two are not separable, and nineteen families were blacklisted because a young man wanted the credit.
 
 The rail was replaced eleven months later. That is true too, and you have used it, and it does not settle the account.
 

@@ -892,7 +892,7 @@ Commissioner Zhang leads the players to a windowless room in the State Planning 
 
 **Read Aloud:**
 
-"The Imperial Qi Reserve receives contributions from twelve provinces quarterly. These are the receipts for the last two years. Look at the totals for the third quarter of last year. Then compare them to the fourth quarter. Tell me what you notice."
+"The Imperial Qi Reserve receives contributions from nine provinces quarterly. These are the receipts for the last two years. Look at the totals for the third quarter of last year. Then compare them to the fourth quarter. Tell me what you notice."
 
 Intellect + Investigation TN 12 reveals that the third quarter total is 8,720 units of refined Qi. The fourth quarter total is 7,920 units. The difference is 800 units. The discrepancy is not noted in any official summary. No one has flagged it. No one has commented on it. It is simply there, waiting to be noticed.
 
@@ -1459,7 +1459,7 @@ The note is from Junior Archivist Lin. The handwriting is still hurried, still n
 >
 > _If the Audit goes badly for you, say Tao's name and say that you can prove what he found. The Bright Mirror may not save you, but he cannot ignore verified truth placed before him._
 >
-> _I owe you a debt as well. A personal one. If you need me, ask for Lin at the Eastern Repository. I will come. I am not afraid anymore._
+> _I owe you a debt as well. A personal one. If you need me, ask for Lin at the Eastern Repository. I will come. I am less afraid than I was. Not unafraid. Less._
 >
 > _Burn this after reading._
 
