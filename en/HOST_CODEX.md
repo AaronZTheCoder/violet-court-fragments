@@ -799,7 +799,7 @@ _Additional Scene Seeds._
 
 1. The Iron Bone invites a player to a secret meeting in the basement of a condemned building. When they arrive, they find representatives from all six schools sitting together. They are not debating doctrine. They are planning a coordinated response to the Dusk's advance. The Iron Bone has done something the Grand Council could not do: he has brought the factions together. "The Court cannot save the empire," he says. "The people can. The people already are."
 2. A player who has shown sympathy for the Common Flame receives a package. Inside is a worker's glove, stained with oil and blood. A note reads: "The hand that wore this glove belonged to a woman who died in the Eastern Foundries last week. The official report says it was an accident. I have evidence it was not. I need someone who can read the official reports without raising suspicion. Will you help?"
-3. A Common Flame organizer the players trust asks for a quiet favor: find out who is really running the Loyal Chorus. She will not explain why this matters to her. If pressed, she admits that her own name appeared on one of their lists last month, and nothing happened to her, and she has not slept properly since. She does not know if that means she was spared or simply not yet reached.
+3. A Common Flame organizer the players trust comes to them with a private request: learn whose hand is really behind the Loyal Chorus. She will not say why it matters to her so much. Pressed, she admits her own name surfaced on one of their lists last month, and nothing came of it. She cannot tell if she was spared, or if her turn simply has not come.
 
 ### Celestial Book
 
