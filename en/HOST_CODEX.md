@@ -1750,8 +1750,8 @@ What the players hear in teahouses, corridors, and the spaces between:
 
 1. "They say the Grand Council held an emergency session. At night. No scribes were present."
 2. "You know the Eastern Foundries? Production dropped fifteen percent last month. The official report says everything is fine."
-3. "Someone in the Bureau of Internal Harmony has been asking questions about you. Casually. As if it's routine."
-4. "The Duke of Eternal Night hasn't been seen at Council sessions for three weeks. His staff says he is in seclusion. His rivals say he is in decline."
+3. "Someone in the Bureau of Internal Harmony has been asking questions about you. Casually. As if it were routine."
+4. "The Duke of Eternal Night has not been seen at Council sessions for three weeks. His staff says he is in seclusion. His rivals say he is in decline."
 5. "A delegation from the Northern Expanse arrived yesterday. They did not come through the main gate. They did not announce themselves."
 6. "There is a book circulating. A prohibited text. It claims the Emperor never existed. The Commission is offering a reward for information."
 7. "The Iron Wall canceled a military exercise last week. He has never canceled an exercise. Something is happening."
