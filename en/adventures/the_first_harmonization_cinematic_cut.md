@@ -40,6 +40,8 @@ This document is a complete table narrative. It contains the full dramatic path,
 
 The source adventure in [the_first_harmonization.md](./the_first_harmonization.md) remains the production bible for additional setting detail, wider rules context, and alternate material.
 
+Combat encounters here use a compact shorthand: Combat is the attacker's bonus on attack rolls, Defense is the target number to hit them, Resilience is the bonus on their Endurance checks, and Wounds is their Hit Points.
+
 Use the following cues.
 
 1. **READ ALOUD** is spoken directly to the players.
@@ -2398,7 +2400,7 @@ For the first time, Zhang looks up.
 
 ## Scene 4.3: The Receiving Records
 
-The first ledger records quarterly contributions from nine provinces.
+The first ledger records quarterly contributions from the Nine Domains.
 
 Give the players actual numbers to compare.
 
