@@ -33,7 +33,7 @@ The surface is dark fantasy. The depths are for those who know how to read.
 
 ### The Nine Domains
 
-The empire spans a continent divided into nine provinces, each ruled by a Provincial Governor who reports to the Court in the capital city, Xiaoyuan.
+The empire spans a continent divided into the Nine Domains, each traditionally ruled by a Provincial Governor who reports to the Court in the capital city, Xiaoyuan.
 
 **The Central Province** surrounds the capital. Here sits the Spire of Eternal Vigil, where the Sun Emperor slumbers or watches or waits. The Court's ministries occupy the Inner City. The Outer City teems with merchants, petitioners, spies, and refugees from provinces that no longer officially exist.
 
@@ -267,7 +267,7 @@ The understanding of the five aspects is not universal. Different schools emphas
 
 **The Piercing Aspect.** Qi of clarity, truth, and revelation. Those who cultivate this aspect learn to notice hidden connections, signs of deception, and patterns that others miss. Even masters do not receive perfect answers. At the highest levels, a Piercing adept can perceive traces, contradictions, and structures concealed beneath appearances, but those impressions still require interpretation and corroboration. This gift can be devastating because seeing that something is wrong does not always reveal what happened or what justice requires. Many Piercing adepts withdraw from society, unable to bear the questions that follow what they see. The aspect is associated with wind and the light it carries at dawn, when moving air clears obscuring mist. Its color is a silvery white. It flows strongest at dawn, when the boundary between dream and waking is thinnest, and it is associated with the east and the season of spring. Those who cultivate Piercing Qi can catch spoken lies, perceive hidden connections, and glimpse structures beneath the veil of appearances. The Bright Mirror school relies heavily on this aspect, using it to find signs of corruption and Disharmony before testing those signs against testimony and physical evidence. In daily life, ordinary people experience Piercing Qi in moments of sudden understanding, when a problem resolves itself in the mind with crystalline clarity.
 
-**The Yielding Aspect.** Qi of growth, healing, and transformation. This aspect governs all processes of change and renewal: the growth of crops, the healing of wounds, the turning of seasons. Cultivators of Yielding Qi are sought after as healers and midwives, but the aspect has martial applications as well. A Yielding adept can accelerate the decay of an opponent's armor, encourage infections in wounds, or cause a building's foundations to rot. The aspect is deeply connected to water, which takes the shape of its container while remaining essentially unchanged. Its color is green. It flows strongest in the humidity of summer rain, and it is associated with water, the west, and the season of autumn. This is the aspect that makes crops grow and wounds heal. The Verdant Path school reveres the Yielding Aspect above all others, seeing it as the fundamental life force of the world. Ordinary people experience Yielding Qi in the feeling of health returning after illness, in the first rain after a drought, in the quiet satisfaction of watching something grow.
+**The Yielding Aspect.** Qi of growth, healing, and transformation. This aspect governs all processes of change and renewal: the growth of crops, the healing of wounds, the turning of seasons. Cultivators of Yielding Qi are sought after as healers and midwives, but the aspect has martial applications as well. A Yielding adept can accelerate the decay of an opponent's armor, encourage infections in wounds, or cause a building's foundations to rot. The aspect is deeply connected to water, which takes the shape of its container while remaining essentially unchanged. Its color is green. It flows strongest in the humidity of autumn rain, and it is associated with water, the west, and the season of autumn. This is the aspect that makes crops grow and wounds heal. The Verdant Path school reveres the Yielding Aspect above all others, seeing it as the fundamental life force of the world. Ordinary people experience Yielding Qi in the feeling of health returning after illness, in the first rain after a drought, in the quiet satisfaction of watching something grow.
 
 **The Binding Aspect.** Qi of structure, law, and permanence. This aspect gives form to matter and stability to institutions. Binding Qi is what holds buildings upright, what makes contracts binding, what keeps the empire from dissolving into chaos. Cultivators of Binding Qi become rigid in their thinking, resistant to change, and deeply committed to established order. This is not necessarily a flaw; the empire depends on such people. The aspect is associated with earth and stone, which endure while everything else changes. Its color is brown, shading to amber in its purest form. It flows strongest at midnight, when the world is still and forms are most fixed. It is associated with earth, the center, and the depth of winter. This is the aspect that gives form to matter, that holds buildings upright, that keeps the empire's bureaucracy running. The Golden Orthodoxy considers the Binding Aspect the most important, because it represents stability and the preservation of established order. Ordinary people experience Binding Qi in the feeling of solid ground beneath their feet, in the weight of a finely made tool, in the satisfaction of a completed contract.
 
@@ -431,7 +431,7 @@ The Doctrine of Continuous Edict was assembled in Year 293 by a ritual theorist 
 
 The doctrine is elegant, internally consistent, and answers every question except the one everybody has.
 
-Hu himself is a figure your players should meet in the archives. He left a private commonplace book, discovered eighty years after his death, filed under ritual miscellany where nobody looked for two centuries. It contains his working notes, and the notes contain a sentence he never published, which is now known to perhaps forty people in the empire and is worth more than most of them:
+Hu himself is a figure your players should meet in the archives. He left a private commonplace book, discovered eighty years after his death, misfiled under ritual miscellany and left there unexamined ever since. It contains his working notes, and the notes contain a sentence he never published, which is now known to perhaps forty people in the empire and is worth more than most of them:
 
 > _If the doctrine is correct then we need not ask. If the doctrine is incorrect then we must not. I have built a door that opens only in the direction I was told to build it._
 
@@ -857,7 +857,7 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 256, The Census Revolt.** A province in the south refused to participate in the decennial census. The refusal was not spontaneous. It was organized by a network of village headmen who had been meeting in secret for years, sharing information about the Court's methods and building a mutual defense pact. The Court learned of the network only when the revolt began. The refusal spread to three other provinces. The Court dispatched Harmonization Audits. The Audits were met with armed resistance. The revolt was suppressed after two years, at a cost of forty thousand lives. The census was conducted as scheduled. The records of the revolt were sealed.
 
-**Year 287, The Emperor's Last Public Appearance.** The Sun Emperor appeared at the Hall of Open Hearing and ruled on a decades-old dispute between two ritual bureaus over the color of a ceremonial thread. He was described as "weary" by attending scribes. The ruling was His last known communication outside the Spire. The content of the judgment is known to have displeased certain members of the Council. Within the year, construction of the Spire's internal chambers was completed three decades ahead of schedule. The Sealing was prepared.
+**Year 287, The Emperor's Last Public Appearance.** The Sun Emperor appeared at the Hall of Open Hearing and ruled on a dispute decades old between two ritual bureaus over the color of a ceremonial thread. He was described as "weary" by attending scribes. The ruling was His last known communication outside the Spire. The content of the judgment is known to have displeased certain members of the Council. Within the year, construction of the Spire's internal chambers was completed three decades ahead of schedule. The Sealing was prepared.
 
 #### The Sealing (Years 288 to 297)
 
@@ -875,7 +875,7 @@ The following chronology is compiled from the official records of the Bureau of 
 
 **Year 298, The First Hundred Years Decree.** The Grand Council issued a proclamation that the Emperor's withdrawal was a test of the Court's virtue, that perfect governance would earn His return, and that all efforts must be directed toward maintaining the harmony of the empire. The decree also quietly repealed the century clause of the Founding Charter. The war had been lost before the first battle.
 
-**Year 312, The Purge of the Tenth Province.** A province in the far east, one of the original Nine, was discovered to have been practicing heterodox Qi rituals for generations. The entire province was subjected to a Harmonization Audit of unprecedented scope. The province was dissolved and its territory divided among its neighbors. The name of the province was struck from records. This was the first erasure.
+**Year 312, The Purge of the Tenth Province.** A province in the far east, counted among the Nine Domains until its name was struck, was discovered to have been practicing heterodox Qi rituals for generations. The entire province was subjected to a Harmonization Audit of unprecedented scope. The province was dissolved and its territory divided among its neighbors. The name of the province was struck from records. This was the first erasure.
 
 **Year 334, The Golden Orthodoxy Established.** The existing schools of thought were formalized into the Six Schools, with the Golden Orthodoxy receiving official primacy. The other schools were permitted to exist as long as they acknowledged the Orthodoxy's supremacy. The Iron Calculation school accepted this arrangement in exchange for control over industrial policy. The Verdant Path refused and was suppressed.
 
@@ -1019,7 +1019,7 @@ The next Steward understood it best of all.
 
 ### The Third Stewardship: The Iron Brush (Years 428 to 452, Present)
 
-**How he came to it.** His father had been an elder of the founding generation, purged, imprisoned, and restored to honor only after death. The son was sent out of the capital at fourteen during a doctrinal convulsion and spent six years at a herding station on the salt steppe, sleeping in a stone byre with no Qi lighting, learning to butcher and to keep a tally stick.
+**How he came to it.** His father had been an elder of the founding line, purged, imprisoned, and restored to honor only after death. The son was sent out of the capital at fourteen during a doctrinal convulsion and spent six years at a herding station on the salt steppe, sleeping in a stone byre with no Qi lighting, learning to butcher and to keep a tally stick.
 
 The Court believed this had made him humble. The Court had never in its history been so wrong about anything.
 
@@ -1037,7 +1037,7 @@ And every single one of those investigations was real, and every single one was 
 
 This is the Iron Brush's masterpiece: he made honesty and obedience indistinguishable. An official who is clean can still be destroyed, because nobody above the sixth rank is truly clean, and everyone knows it about themselves. The result is not a Court of honest men. It is a Court of frightened men who have stopped being able to tell whether their fear is guilt.
 
-**The Unsealing of the Term.** For a hundred years, an unwritten rule had held that a Steward serves two decades and departs. It was the Age of Harmony's single great institutional achievement: the peaceful succession, the thing the empire had never managed before.
+**The Unsealing of the Term.** For nearly four decades, an unwritten rule had held that a Steward serves two decades and departs. It was the Age of Harmony's single great institutional achievement: the peaceful succession, the thing the empire had never managed before.
 
 In his eleventh year the Grand Council voted to remove the limit. The measure passed with two abstentions and one vote against, out of nearly three thousand. The Bureau of Harmonious Narrative explained that the change reflected the people's ardent wish for continuity in a period of external turbulence.
 
@@ -1048,8 +1048,6 @@ The three who did not vote yes were never named publicly. The Bureau of Internal
 The Court's position is that these are houses of study, entered willingly, from which residents emerge with a trade in hand and a corrected relationship to the empire. The Court publishes the enrollment figures. It does not publish the departure figures, and when a delegation from the Ministry of Rites asked for them, it was told that the two numbers are recorded in different systems and cannot be meaningfully compared.
 
 Statistically the prefecture is now the most harmonious in the empire. Reported incidents have fallen to zero and stayed there for six consecutive years, which is a figure no other prefecture in three hundred years of records has ever achieved, including prefectures with no population.
-
-Bone Script comes from a prefecture that no longer exists. He will tell you what a reported incident rate of zero means, if he trusts you, which he will not for a long time.
 
 **The Harbor's Silence.** Tidegate had been promised fifty years of its own laws. In year thirty of that promise, after a summer in which two million of its people filled the streets, the Court determined that the promise had always been conditional on harmony, that harmony had failed, and that the Court's obligation was therefore discharged.
 
@@ -1161,7 +1159,7 @@ The Court is organized as a nested hierarchy of ministries and councils:
 
 **The Inner Court** contains three hundred senior officials. The empire's true ruling class. Riven by factional blocs, personal blood feuds, and generational schisms.
 
-**The Nine Provincial Governors** wield immense regional power. From these bases, ambitious governors challenge the Center.
+**The Provincial Governors** wield immense regional power. From these bases, ambitious governors challenge the Center.
 
 **The Outer Court** is where you begin. Minor officials, brush scribes, archive keepers, ritual assistants. The people who actually operate the empire while the Inner Court plays its games.
 
@@ -1356,7 +1354,7 @@ The empire's social structure is rigid, formalized, and inscribed in law, though
 
 #### Education: The Academy System
 
-The Imperial Academy in Xiaoyuan is the empire's most prestigious institution, accepting one thousand students per year from across the nine provinces. Admission is theoretically based on examination results. In practice, the examinations are structured to favor those who can afford years of private tutoring.
+The Imperial Academy in Xiaoyuan is the empire's most prestigious institution, accepting one thousand students per year from across the Nine Domains. Admission is theoretically based on examination results. In practice, the examinations are structured to favor those who can afford years of private tutoring.
 
 The standard curriculum includes:
 
@@ -2249,7 +2247,9 @@ Your reserve of Celestial Qi. Spent to perform rituals and activate abilities. R
 Favors owed to you and debts you owe to others. A web of obligation that constrains and enables. Helping characters, acquiring leverage, sharing hardship all build connections. Calling in favors, betraying trust, or letting a connected character die burns them.
 
 **Sanity**
-Mental and spiritual stability, measured from 0 to 100. Rest, meaningful bonds, and small victories restore it. Exposure to the Crimson Dusk, guilt from your actions, and witnessing horrors drain it. At low levels, perception warps. At zero, you become part of the Dusk.
+Mental and spiritual stability, measured from 0 to 100 in the text mode adaptation. Rest, meaningful bonds, and small victories restore it. Exposure to the Crimson Dusk, guilt from your actions, and witnessing horrors drain it. At low levels, perception warps. At zero, you become part of the Dusk.
+
+The tabletop dossiers and the Core Rulebook derive Sanity from the Resolve Facet and Qi from the Intellect Facet. The text mode uses the flat 0 to 100 scale and a flat starting Qi of 20 so the loop runs without character sheets. A table porting the adaptation to the tabletop rules should use the derived values instead.
 
 ### The Harmonization Audit System
 
@@ -2758,7 +2758,7 @@ Speak.
 
 ### The Calendar of the Celestial Empire
 
-The imperial year is divided into twelve months of thirty days each, with five intercalary days at the end of the year that belong to no month and are considered outside normal time. These five days are called the Hinge, and they are a period of intense ritual activity, social chaos, and personal danger. The Hinge is when the boundaries between worlds grow thin, when ghosts walk the earth, and when the Court suspends all normal business to perform the rituals that reset the Qi balance for the coming year.
+The imperial year is divided into twelve months, of which the two hinge months run twenty five days each, with five intercalary days at the end of the year that belong to no month and are considered outside normal time. These five days are called the Hinge, and they are a period of intense ritual activity, social chaos, and personal danger. The Hinge is when the boundaries between worlds grow thin, when ghosts walk the earth, and when the Court suspends all normal business to perform the rituals that reset the Qi balance for the coming year.
 
 The months are named for the dominant Qi aspect of their season: Piercing Dawn (spring), Yielding Bloom (spring), Binding Stone (summer), Burning Forge (summer), Veiling Mist (autumn), Piercing Harvest (autumn), Yielding Rest (autumn), Binding Frost (winter), Burning Ember (winter), Veiling Dark (winter), and the two transitional months, Hinge Gate and Hinge Threshold, which precede and follow the five intercalary days.
 
@@ -2774,7 +2774,7 @@ Barter remains common in rural areas and in the Warrens. The Outer Market operat
 
 ### Travel and Communication
 
-Travel across the empire is slow, dangerous, and controlled. The official imperial highway network connects all nine provincial capitals, maintained by the State Planning Commission and patrolled by the Imperial Garrison. Travel on the highways requires travel permits, which are issued by the Bureau of Harmonious Records and subject to inspection at checkpoints. Travel without a permit is a crime.
+Travel across the empire is slow, dangerous, and controlled. The official imperial highway network connects every provincial capital, maintained by the State Planning Commission and patrolled by the Imperial Garrison. Travel on the highways requires travel permits, which are issued by the Bureau of Harmonious Records and subject to inspection at checkpoints. Travel without a permit is a crime.
 
 The railway network powered by Qi is faster but more restricted. Only three railway lines exist: Xiaoyuan to the Eastern Foundries, Xiaoyuan to the Southern Granary, and Xiaoyuan to the Western Bulwark. The Northern Expanse has no railway. The border provinces have railways that no longer reach their destinations. The railway is reserved for official travel and essential cargo. Private travel on the railway requires authorization from the State Planning Commission, which is rarely granted.
 
@@ -2802,7 +2802,7 @@ The Bureau of Celestial Inquiry conducts medical research, developing new treatm
 
 **Common Ailments.** The most common ailments treated by imperial physicians are Qi imbalances, respiratory infections from the polluted air of the cities, digestive problems from poor diet, and the various fevers that spread through the crowded districts. Treatment typically involves a combination of herbal remedies, acupuncture, and Qi alignment exercises. The rich receive treatment in clean, quiet rooms with trained attendants. The poor receive treatment in crowded clinics or not at all.
 
-**The Plague Years.** Every few decades, a major epidemic sweeps through the empire. The last one, forty years ago, killed two hundred thousand people in the Eastern Foundries alone. The Court's response was to quarantine the affected areas and let the disease run its course. The Bureau of Celestial Inquiry developed a treatment, but it was expensive and only available to those who could pay. The Common Flame still remembers the Plague Years. The Court still has not apologized.
+**The Plague Years.** Every few decades, a major epidemic sweeps through the empire. One epidemic, forty years ago, killed two hundred thousand people in the Eastern Foundries alone. The Court's response was to quarantine the affected areas and let the disease run its course. The Bureau of Celestial Inquiry developed a treatment, but it was expensive and only available to those who could pay. The Common Flame still remembers the Plague Years. The Court still has not apologized.
 
 ### Crime and Punishment
 
@@ -3441,7 +3441,7 @@ The following combat techniques are known and used by figures across the empire.
 
 ### The Imperial Calendar: Months and Days
 
-The imperial calendar divides the year into twelve months of thirty days each, with five intercalary days (the Hinge) at the end. Each month has a name that reflects its dominant Qi aspect and season.
+The imperial calendar divides the year into twelve months, the two hinge months running twenty five days each, with five intercalary days (the Hinge) at the end. Each month has a name that reflects its dominant Qi aspect and season.
 
 Piercing Dawn (Month 1). The month of early spring, when the Piercing Aspect of Qi dominates. The snow melts. The first green appears. The Festival of Great Harmony is held on the fifteenth day.
 

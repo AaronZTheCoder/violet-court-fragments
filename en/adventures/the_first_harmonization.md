@@ -85,6 +85,8 @@ _Adjustments from Protection Column:_
 
 For this adventure, the Ritual Harmony baseline begins at approximately 50 (Low Risk). Adjust per player based on Faction Standing from their dossier. Record each player's starting Risk before Part One begins.
 
+**Encounter Stat Blocks.** The combat encounters in this adventure use a compact shorthand: Combat is the attacker's bonus on attack rolls, Defense is the target number to hit them, Resilience is the bonus on their Endurance checks, and Wounds is their Hit Points. Convert freely to full NPC sheets if your table prefers them.
+
 ## Adventure Atmosphere
 
 ### Tonal Notes for the Host
@@ -257,7 +259,7 @@ _By order of the Grand Secretariat, the following promotions are confirmed: Thir
 
 _The following appointments are rescinded: Sixteenth Assistant Recorder Fei, for failure to complete the required purification rites. The position remains vacant pending review._
 
-_Ritual schedule for the coming month: The Festival of Ancestral Voices requires full attendance from all Outer Court officials. Appropriate vestments are mandatory. Inappropriate vestments will be noted._
+_Ritual schedule for the coming month: The Festival of Ancestors requires full attendance from all Outer Court officials. Appropriate vestments are mandatory. Inappropriate vestments will be noted._
 
 _A reminder: Unauthorized discussion of Audit procedures is prohibited. Unauthorized discussion of Audit results is prohibited. Unauthorized discussion of the Commission for Celestial Purity is prohibited._
 
@@ -840,7 +842,7 @@ She composes herself. She takes a breath that shudders at the edges. "I will mee
 >
 > - **Iron Wall (Knight):** Can use Immovable to hold a chokepoint at the warehouse door, letting allies retreat into the building.
 > - **Night Warbler (Assassin):** Can use Opening Kill on one blade before combat properly begins, potentially removing one threat in the opening moment.
-> - **Iron Bone (Werewolf):** Can Wolf Rise to gain combat advantage. Make a Resolve TN 14 check to maintain control during the transformation.
+> - **Iron Bone (Werewolf):** Can use The Wolf Rises to gain combat advantage. Make a Resolve TN 14 check to maintain control during the transformation.
 > - **Shadow (Rogue):** Can Shadow Step between the alley mouths (2 zones) to flank the attackers or escape.
 > - **Guest Among Forests (Elf):** Even without living plants, can use enhanced senses to track the fleeing blade if one escapes.
 > - **Bone Script (Druid):** The alley mouths are packed dirt under the cobbles. Root Speech is too slow for combat, but Unlicensed Qi means the hired blades carry no ward, charm, or detection that will register you as a practitioner at all. You may act in the opening round as though unseen.
@@ -892,7 +894,7 @@ Commissioner Zhang leads the players to a windowless room in the State Planning 
 
 **Read Aloud:**
 
-"The Imperial Qi Reserve receives contributions from nine provinces quarterly. These are the receipts for the last two years. Look at the totals for the third quarter of last year. Then compare them to the fourth quarter. Tell me what you notice."
+"The Imperial Qi Reserve receives contributions from the Nine Domains quarterly. These are the receipts for the last two years. Look at the totals for the third quarter of last year. Then compare them to the fourth quarter. Tell me what you notice."
 
 Intellect + Investigation TN 12 reveals that the third quarter total is 8,720 units of refined Qi. The fourth quarter total is 7,920 units. The difference is 800 units. The discrepancy is not noted in any official summary. No one has flagged it. No one has commented on it. It is simply there, waiting to be noticed.
 
@@ -1197,7 +1199,7 @@ This discovery gives the players a connection to the Shadow and a piece of the l
 >
 > **Bone Script (Druid):** Yun Shu is a name and it is spelled correctly here, in a file nobody will open again. Copy it. You carry four thousand and one names and you have never added one from outside your valley. Decide at this table, in front of the others, whether the belt is a memorial for your prefecture or a registry for everyone the machine finishes.
 >
-> **Incense Crown (Priestess):** Perform the Hearing of Names for Yun Shu, here, in the stacks, quietly. By the Temple's reckoning she is newly dead. The name enters the oral register, which no Bureau can seize, edit, or strike, and from this point the Host must let it matter. It costs 6 Qi, and it is the single most consequential thing anyone does in Part Three.
+> **Incense Crown (Priestess):** Perform the Hearing of Names for Yun Shu, here, in the stacks, quietly. By the Temple's reckoning they are newly dead. The name enters the oral register, which no Bureau can seize, edit, or strike, and from this point the Host must let it matter. It costs 6 Qi, and it is the single most consequential thing anyone does in Part Three.
 >
 > **Stray Stroke (Wildcard):** The archive holds a duplicate of everything and processes almost none of it, and you know that in a way the others do not, because you have spent two years standing outside a reading room for precisely this reason. Point out what the Shadow's note actually proves. The evidence was not destroyed. It was filed. Those are different, and only one of them is permanent.
 
@@ -1276,7 +1278,7 @@ The shadow is not Ash's. It is something that attached itself to her during her 
 >
 > **Bright Mirror (Paladin):** Truth Sight offers no moral verdict on Ash or her shadow. Instead, examine what is present: restraint marks on Ash's wrists, defensive wounds, and changes consistent with prolonged exposure rather than willing initiation. Those signs support that she was harmed, not that she chose this. The shadow reacts to secrets and proximity, but its age, motives, and morality remain open questions.
 >
-> **Shadow (Rogue):** Ash's shadow told her your secrets. This means the shadow has access to information it should not have. Either it can read minds, or it has access to a network of information that extends beyond Ash's perception. A shadow that knows things is a shadow that can be interrogated. _If the Shadow is a player character, you recognize the shadow's behavior; this is not a random Dusk attachment. It is a specific entity, known in certain circles as a Whisper Shade. It feeds on secrets and grows stronger the more it learns._
+> **Shadow (Rogue):** Ash's shadow told her your secrets. This means the shadow has access to information it should not have. Either it can read minds, or it has access to a network of information that extends beyond Ash's perception. A shadow that knows things is a shadow that can be interrogated. _If the Shadow is a player character, you recognize the shadow's behavior; this is not a random Dusk attachment. It is a specific entity, known in certain circles as a Whisper Wraith. It feeds on secrets and grows stronger the more it learns._
 >
 > **Duke of Eternal Night (Vampire):** The shadow is drawn to you. Not in aggression; in recognition. It knows what you are. The Dusk and the night share a border, and things cross between them. The shadow whispers to Ash in a language you almost understand. It is ancient. It predates the Court.
 >
@@ -1544,7 +1546,7 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 >
 > **Archetype Spotlight Moments:**
 >
-> - **Iron Bone (Werewolf):** Can Wolf Rise to fight the Dusk Hounds as a wolf. The hounds recognize the wolf as an equal predator. Make a Resolve TN 14 check to maintain control. On success, one hound hesitates for a round, giving the party a free action.
+> - **Iron Bone (Werewolf):** Can use The Wolf Rises to fight the Dusk Hounds as a wolf. The hounds recognize the wolf as an equal predator. Make a Resolve TN 14 check to maintain control. On success, one hound hesitates for a round, giving the party a free action.
 > - **Night Warbler (Assassin):** Can use Opening Kill on the lead agent as they enter the room. A successful strike reduces the encounter by one enemy before combat formally begins.
 > - **Iron Wall (Knight):** Can use Immovable to hold the door, buying the party time to prepare. While holding, the Knight can take no other actions but cannot be moved from the threshold.
 > - **Shadow (Rogue):** Can Shadow Step through the corridor (2 zones) to flank the assassins from behind, or escape the quarters and circle around to trap them. _If the Shadow is a player character, you may have anticipated this attack. Make a Presence + Connections TN 14 check to have set a minor trap before sleeping; a tripwire, a noise maker, or a false door; that gives the party a surprise round._
@@ -1711,7 +1713,7 @@ Run the Audit using the Host's Codex procedures:
 
 **Read Aloud:**
 
-The Chamber of Celestial Examination is not what you expected. It is not a courtroom. There are no benches for spectators. There is no raised platform for a judge. There is a single chair in the center of the room, facing a raised dais. The dais is empty. The walls are bare grey stone, unadorned, unmarked. The ceiling is lost in shadow. You cannot tell how high it goes.
+The Judgment Chamber is not what you expected. It is not a courtroom. There are no benches for spectators. There is no raised platform for a judge. There is a single chair in the center of the room, facing a raised dais. The dais is empty. The walls are bare grey stone, unadorned, unmarked. The ceiling is lost in shadow. You cannot tell how high it goes.
 
 There are no windows. There are no decorations. There is nothing but the chair, the dais, and you.
 
@@ -1953,7 +1955,7 @@ She looks at the player for a long, searching moment. Her professional composure
 >
 > - **Iron Wall (Knight):** Can use Immovable to block the side door, preventing the enforcers from dragging the condemned player through. This buys the party one additional round.
 > - **Night Warbler (Assassin):** Can use Opening Kill on the lead enforcer as they reach for the condemned player. A successful strike may break the enforcer's grip, freeing the player for one round.
-> - **Iron Bone (Werewolf):** Can Wolf Rise in the enclosed chamber. The transformation terrifies the enforcers (Resolve TN 12 or they spend a round frozen). Control check TN 16 due to the stress of the situation.
+> - **Iron Bone (Werewolf):** Can use The Wolf Rises in the enclosed chamber. The transformation terrifies the enforcers (Resolve TN 12 or they spend a round frozen). Control check TN 16 due to the stress of the situation.
 > - **Shadow (Rogue):** Can Shadow Step to the main door and attempt to unlock it from the inside while the others hold off the enforcers. _If the Shadow is a player character, you may have sabotaged the main door lock earlier, during your own interrogation. Roll Swiftness + Stealth TN 12 to confirm. On success, the door is already unlocked._
 > - **Guest Among Forests (Elf):** Even without plants, your heightened senses allow you to detect the rhythm of approaching reinforcements through the stone floor. You can time the escape.
 > - **Celestial Book (Wizard):** Can use a barrier technique on the side door (Intellect + Qi Theory TN 14) to delay reinforcements for an additional round.

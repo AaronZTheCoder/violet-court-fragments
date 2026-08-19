@@ -1457,7 +1457,7 @@ Most citizens never handle more than Copper Leaves. A Jade Slip is a fortune.
 
 ### Starting Wealth
 
-Characters begin with equipment from their Archetype plus 20 Copper Leaves for incidental purchases.
+Characters begin with the equipment package listed for their Archetype in Appendix K, plus any Copper Leaves noted there for incidental purchases.
 
 ### Common Equipment
 
@@ -1579,11 +1579,13 @@ The black market operates in the outer districts and the tunnels beneath the cit
 
 | TN  | Difficulty  |
 | --- | ----------- |
+| 5   | Trivial     |
 | 8   | Routine     |
 | 12  | Moderate    |
 | 16  | Challenging |
 | 20  | Formidable  |
 | 24  | Legendary   |
+| 28  | Impossible  |
 
 ### Combat Turn
 
@@ -1896,7 +1898,7 @@ The largest district by area. Home to the poor, the desperate, and the forgotten
 
 ### Key Locations Across the City
 
-**The Azure Lotus Teahouse.** A neutral meeting ground in the Middle City. The proprietor, Madame Lian, remembers faces and has a policy of never repeating what she overhears.
+**The Azure Lotus Teahouse.** A neutral meeting ground in the Middle City. The proprietor, Madame Lian, pours the best chrysanthemum tea in the Middle City, charges by the hour rather than the pot, and keeps her counsel about everything else.
 
 **The Respite of Broken Flowers.** A hospice run by an order of healers who take no side in politics. Anyone can receive treatment here, regardless of faction, Ritual Harmony, or ability to pay. The Commission watches the hospice closely.
 
@@ -2045,25 +2047,31 @@ When a character's Social Standing reaches 0, they are not permanently damaged. 
 
 Each Archetype begins with specific equipment. Here are the starting packages:
 
-**Cinnabar Heart.** Official's robes, alchemy kit (portable), writing kit, Qi Focus Talisman, medical kit, 20 Copper Leaves.
+**Cinnabar Heart.** Official's attire, writing kit, alchemy kit (portable), one dose of Clarity Elixir, dagger, Bureau identification seal, 20 Copper Leaves.
 
 **Night Warbler.** Dark cloak, concealed armor, two hidden blades, six daggers, grappling hook and silk rope, forged identification papers, 15 Copper Leaves.
 
-**Guest Among Forests.** Traveler's robes, staff, survival kit (rations, water flask, tinderbox, rope), preserved herbs from the Northern Expanse, 20 Copper Leaves.
+**Guest Among Forests.** Bow, quiver of 20 arrows, traveler's robes, forest token, dagger, diplomatic seal, 25 Copper Leaves.
 
-**Iron Calculation.** Workman's attire, tool kit (mechanical), writing kit, schematic case, compass, 20 Copper Leaves.
+**Iron Calculation.** Artificer's goggles, clockwork abacus, tool kit, Qi measurement device, staff, State Planning Commission seal, 30 Copper Leaves.
 
-**Iron Wall.** Uniform (official), sword, concealed armor, signal whistle, lantern and oil, 20 Copper Leaves.
+**Iron Wall.** Concealed armor, greatsword, sword, Garrison seal, soldier's kit, medal of service, 10 Copper Leaves.
 
-**Bright Mirror.** Official's attire (white), writing kit, copy of the Legal Code, seal of the Commission, concealed armor, 20 Copper Leaves.
+**Bright Mirror.** Concealed armor, Justicar's sword, votive shield, seal of the Commission, blank writ of investigation, 10 Copper Leaves.
 
-**Shadow.** Traveler's robes (plain, unremarkable), two daggers (concealable), lockpicks, set of forged identification papers, 20 Copper Leaves.
+**Shadow.** Concealed armor, two daggers, lockpicks, forged documents, disguise kit, blackmail material on one minor official, 25 Copper Leaves.
 
-**Duke of Eternal Night.** Fine robes, jewelry worth 5 Silver (signet ring or pendant), sword, writing kit, vial of rare perfume, 2 Gold Blooms (bonus starting wealth).
+**Duke of Eternal Night.** Aristocratic attire, ancestral sword, blood vial, signet ring of the Crimson Lineage, estate seal, 50 Copper Leaves.
 
-**Iron Bone.** Sturdy clothing (padded), reinforced gloves, tinderbox, bundle of reformist pamphlets, red banner, 10 Copper Leaves.
+**Iron Bone.** Worker's attire, reinforced gloves, red banner, union membership ledger, 10 Copper Leaves.
 
 **Celestial Book.** Archivist's robes, Dragon Spine Staff, Ancient Text, Archive Seal, Reading Stones, 15 Copper Leaves.
+
+**Bone Script.** Moss lined traveling cloak, storm ash staff, forty one bone tokens, carving awl and oil, herb satchel, fox skull charm, copied petition (draft eleven), 4 Copper Leaves.
+
+**Incense Crown.** Crown of pierced silver and river jade, silk veil, six strand rite necklace, white mourning gown, jade bangles, censer and sandalwood, liturgical commonplace book, Inner City residence token, 2 Jade Slips.
+
+**Stray Stroke.** Road coat, wide brimmed hat, the name cloth, eleven sets of genuine papers, ninth grade carrier's permit, carrier's awl and chalk, short blade, traveler's kit, two stringed fiddle, 6 Copper Leaves.
 
 ---
 
@@ -2097,7 +2105,7 @@ Each Archetype begins with specific equipment. Here are the starting packages:
 
 Timekeeping in the empire follows an ancient calendar divided into Seasons and Festivals.
 
-### The Three Seasons
+### The Four Seasons
 
 **Season of Ashes (winter).** Cold, wet, and grey. The season of endings. Most Audits occur during this season. The poor die in the cold. The rich burn incense and stay indoors.
 
@@ -2109,9 +2117,9 @@ Timekeeping in the empire follows an ancient calendar divided into Seasons and F
 
 ### Major Festivals
 
-**The Festival of a Thousand Lanterns (Season of Falling, full moon).** The empire's founding is celebrated with lantern releases. Every window displays at least one lantern. The sky glows orange. It is tradition to forgive one debt and make one promise on this night.
+**The Festival of a Thousand Lanterns (Season of Falling, full moon).** The harvest moon is celebrated with lantern releases. Every window displays at least one lantern. The sky glows orange. It is tradition to forgive one debt and make one promise on this night.
 
-**The Day of Silence (Season of Ashes, winter solstice).** A day of mourning for the Emperor's silence. No work is done. No music is played. The bells do not ring. It is considered deeply unlucky to speak the Emperor's name on this day.
+**The Festival of the Silent Throne (Season of Ashes, winter solstice).** A day of mourning for the Emperor's silence. No work is done. No music is played. The bells do not ring. It is considered deeply unlucky to speak the Emperor's name on this day.
 
 **The Rite of Renewal (Season of Bloom, first new moon).** A day of purification. Officials bathe in the river (or, for the wealthy, in heated pools). Old grievances are publicly forgiven. The Commission for Celestial Purity conducts mass Audits, believing the Rite makes subjects more likely to confess.
 
@@ -2163,9 +2171,9 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Leader.** Cinnabar Heart, Director of the Bureau of Harmonious Narrative.
 
-**Allies.** The Commission for Celestial Purity (Bright Mirror). The Imperial Garrison Command (Iron Wall), though the relationship is strained by the Garrison's practical concerns.
+**Allies.** The Imperial Garrison Command (Iron Wall), though the relationship is strained by the Garrison's practical concerns.
 
-**Enemies.** The Crimson Lineage (seen as decadent). The Common Flame (seen as subversive). The Verdant Path (seen as dangerously foreign).
+**Enemies.** The Crimson Lineage (seen as decadent). The Common Flame (seen as subversive). The Verdant Path (seen as dangerously foreign). The Bright Mirror (over purity of tradition).
 
 **Influence.** Strongest in the Bureau of Harmonious Narrative and the religious institutions of the capital.
 
@@ -2191,9 +2199,9 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Leader.** Iron Calculation, Director of the State Planning Commission.
 
-**Allies.** The Crimson Lineage (pragmatic partnership). Any faction that can provide resources or access.
+**Allies.** Any faction that can provide resources or access.
 
-**Enemies.** The Golden Orthodoxy (sees tradition as inefficient). The Verdant Path (sees their ecological concerns as obstacles to progress).
+**Enemies.** The Golden Orthodoxy (sees tradition as inefficient). The Verdant Path (sees their ecological concerns as obstacles to progress). The Crimson Lineage (over noble privilege).
 
 **Influence.** Dominant in the industrial and economic sectors. Controls the flow of resources through the empire.
 
@@ -2205,9 +2213,9 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Leader.** The Duke of Eternal Night, a Grand Council Elder and patriarch of the Crimson Lineage.
 
-**Allies.** The Iron Calculation school (they fund each other's projects). Several independent noble houses.
+**Allies.** Several independent noble houses.
 
-**Enemies.** The Golden Orthodoxy (competing for religious authority). The Common Flame (directly threatens their class privilege).
+**Enemies.** The Golden Orthodoxy (competing for religious authority). The Common Flame (directly threatens their class privilege). The Iron Calculation (over noble privilege).
 
 **Influence.** Dominant in the nobility, the luxury trade, and the informal networks of power that operate outside official channels.
 
@@ -2233,9 +2241,9 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Leader.** Bright Mirror, High Justicar of the Commission for Celestial Purity.
 
-**Allies.** The Golden Orthodoxy (shared interest in enforcing orthodoxy).
+**Allies.** None. Incorruptibility leaves the Commission without allies, by design.
 
-**Enemies.** The Common Flame (by definition). Anyone who questions the Commission's authority.
+**Enemies.** The Golden Orthodoxy (over what purity means). The Common Flame (by definition). Anyone who questions the Commission's authority.
 
 **Influence.** The Commission has the power to investigate, arrest, and punish anyone in the empire. Their authority is broad. Their reach is limited by the number of agents and the political cost of targeting powerful figures.
 
@@ -2485,13 +2493,9 @@ Certain gestures and customs carry meaning in the Court:
 
 **The silence.** In Court proceedings, silence after a question means the question was improper. The questioner should withdraw the question or face social consequences.
 
----
-
 **The gift.** Presenting a small gift before making a request is standard practice. The gift should be appropriate to the recipient's station. An inappropriate gift is either an insult or a sign that the giver does not understand the Court. Gifts of jade, tea, or quality paper are always acceptable.
 
 **The refused gift.** If an official refuses a gift, the request is denied. The giver should withdraw immediately and not press the matter.
-
----
 
 ## Appendix X: Random Encounters and Tables
 
