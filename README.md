@@ -143,7 +143,7 @@ The **Host's Codex** is the game's secret engine. It contains:
 - **Running Harmonization Audits**: the structure with four phases, risk tables, and player actions during the game's signature set piece
 - **Campaign Frameworks**: three complete structures (The Rise, The Conspiracy, The Collapse) with act breakdowns
 - **Random Generators**: d20 Court Event table, d12 Rumor table, character quick generator
-- **The Dusk Bestiary**: creature templates from Dusk Wisps to Dusk Made Manifest
+- **The Dusk Bestiary** (in `host_tools/dusk_bestiary.md`): creature templates from Dusk Wisps to Dusk Made Manifest
 
 The Codex is written for the Host's eyes only. Guard it well.
 

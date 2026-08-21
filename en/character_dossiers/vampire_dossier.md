@@ -159,8 +159,8 @@ The assassin's blade finds your heart. You feel the steel part flesh, muscle, th
 
 ## Expanded Truths
 
-**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
-_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and fifty five years to be vindicated. Your pride may have doomed the empire.
+**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty four years.
+_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and sixty four years to be vindicated. Your pride may have doomed the empire.
 
 **Suggested Truth 2 (Existing):** The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 _Complication:_ Your exiled heir has discovered something you have kept hidden for centuries, a truth about the Crimson Lineage's founding that would destroy the family if revealed. He is not planning to kill you. He is planning to expose you. His renewed bid for power is a distraction. The real weapon is the truth.
@@ -295,7 +295,7 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 Choose one, or create your own with the Host:
 
-- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
+- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty four years.
 - The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 - You have been feeding on a specific senior official for decades. They do not know. They believe they have a chronic illness. You have grown fond of them.
 - The Crimson Dusk is a wound in the world. You know what caused it. You helped cause it. Not intentionally. But intentions matter less than consequences, and you have lived long enough to know that.
