@@ -2317,6 +2317,8 @@ Not every fight needs to end in death. Characters can retreat from combat:
 
 **Covering retreat.** One character holds their position while allies flee. The covering character gains +2 Defense and may make attacks of opportunity against any pursuer. Once all allies have fled, the covering character may attempt to withdraw.
 
+---
+
 ## Appendix S: Common Substances and Poisons
 
 ### Medicinal Substances
@@ -2489,6 +2491,8 @@ Certain gestures and customs carry meaning in the Court:
 
 **The refused gift.** If an official refuses a gift, the request is denied. The giver should withdraw immediately and not press the matter.
 
+---
+
 ## Appendix X: Random Encounters and Tables
 
 Use these tables when you need to generate content quickly.
@@ -2525,6 +2529,8 @@ When the players investigate an NPC's background, roll to discover:
 4. The NPC witnessed the event the players are investigating.
 5. The NPC is being blackmailed by someone unseen.
 6. The NPC is not human. They are something older wearing a human shape.
+
+---
 
 _This rulebook is the first volume of the Violet Court Fragments._
 _The Host's Codex, Character Dossiers, and Adventure Modules complete the set._

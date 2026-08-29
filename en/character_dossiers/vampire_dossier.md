@@ -66,7 +66,7 @@ You have also, four times, declined to intervene when intervening would have cos
 
 **The Sealing, and the eleven paces.** You voted against the Sealing and lost. You were in the antechamber among the first generation of elders who stood the watch.
 
-He stopped at the threshold, looked back for about four seconds, and said something. You were eleven paces away. The acoustics were poor. You have spent one hundred and sixty four years certain it was addressed to one specific person and unable to determine who, and you will not speculate about the words, and if a player presses you on it you become angry in a way that surprises everyone including you.
+He stopped at the threshold, looked back for about four seconds, and said something. You were eleven paces away. The acoustics were poor. You have spent one hundred and fifty five years certain it was addressed to one specific person and unable to determine who, and you will not speculate about the words, and if a player presses you on it you become angry in a way that surprises everyone including you.
 
 Eight years later his personal attendant led eight others to the Spire with tools. You knew that man for forty years. You had eaten at his table.
 
@@ -74,7 +74,7 @@ You were told what was planned. Two days in advance, by him, in confidence, beca
 
 You said you would think about it. Then you did nothing, and said nothing, and they were stopped, and Disappeared, and their names struck.
 
-You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had one hundred and fifty six years to make peace with probably and have not managed it.
+You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had one hundred and forty seven years to make peace with probably and have not managed it.
 
 **Why you are still here.** You are the last person alive who remembers the empire with the Emperor in it. Not the last who has read about it. The last who stood in a room with Him.
 

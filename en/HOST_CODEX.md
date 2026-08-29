@@ -242,6 +242,8 @@ _Interactive elements:_
 
 _Hidden secret:_ The Spire is a prison. The first generation of Court elders sealed the Sun Emperor inside against His will and completed the outer seal in Year 297. At the founding, the sacrifice or binding of the land's original guardians made the Emperor a replacement living conduit between Heaven and Earth. The final sealing severed that conduit. The Crimson Dusk is the delayed wound left by both acts. The chant maintains the prison, not an act of worship. The red pulse is the wounded world pressing against the broken channel, and the pressure grows stronger as the seal weakens.
 
+---
+
 ## Part Four: Harmonization Audits
 
 ### Running an Audit

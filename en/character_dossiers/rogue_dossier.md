@@ -201,7 +201,7 @@ Evenings are for business. The real work happens after dark, when the Court's ag
 
 You do not keep a home. You have safe houses, twelve of them scattered across the city, each stocked with a change of clothes, a week's worth of dried food, and a false identity. You rotate through them irregularly. You never stay anywhere longer than three nights. You own nothing that cannot be abandoned. You maintain no relationships that cannot be severed. You are a ghost with a working knowledge of the city's plumbing.
 
-Once a month, you visit the teahouse where your mother still takes afternoon tea. You sit in the corner. You order the same tea she orders. You watch her laugh at something her friend said. You leave before she notices you. The owner knows you. The owner says nothing. The owner adds the cost of her tea to your tab.
+Twice a year, you visit the teahouse where your mother still takes afternoon tea. You sit in the corner. You order the same tea she orders. You watch her laugh at something her friend said. You leave before she notices you. The owner knows you. The owner says nothing. The owner adds the cost of her tea to your tab.
 
 You have developed small rituals to maintain your sanity. You sharpen your daggers every third day, not because they need it but because the repetition calms your mind. You memorize a new fact about the city each day, a piece of trivia that might become useful. The number of steps between the Court's east gate and the Archives. The name of the cat that lives in the Iron Calculation commissary. The exact time the Lamplighters light the Council plaza torches. You fill your mind with details because the alternative is filling it with the faces of the people you have betrayed.
 

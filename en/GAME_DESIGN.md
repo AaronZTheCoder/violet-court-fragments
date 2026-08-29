@@ -1701,7 +1701,7 @@ At the Academy, he excelled beyond all expectations. He redesigned the curriculu
 
 **Inner Circle.** Deputy Director Steel Ledger is his right hand, a woman who shares his dedication to efficiency and who has learned to translate his technical language into terms that other officials can understand. Chief Engineer Burning Wire runs the Qi conduit network and reports directly to Iron Calculation on any irregularities in the power grid. The Ghost of His Past, a factory worker named Old Loom who knew his mother, occasionally appears at Commission offices with requests for better working conditions. Iron Calculation grants the reasonable requests and ignores the rest.
 
-**Relationships.** Bright Mirror investigates Iron Calculation's projects whenever their human cost becomes impossible to ignore. He has found ruthless policy, selective assumptions, and no evidence of personal corruption. Iron Calculation considers the Justicar one of the few officials worth answering because he tests claims against evidence, though he regards moral judgment as an inefficient substitute for calculation. The Iron Bone is his opposite in every way, the embodiment of everything he considers inefficient: emotion, spontaneity, resistance to optimization. The Duke of Eternal Night finds him useful and therefore supports him, with the cold calculation of one immortal recognizing another in a different form. Cinnabar Heart and Iron Calculation present a mutual incomprehension to anyone watching: one deals in narratives, the other in numbers, and neither will publicly admit why the other's work is considered important. Privately, they have been meeting for tea once a month for the better part of a year. Neither school knows.
+**Relationships.** Bright Mirror investigates Iron Calculation's projects whenever their human cost becomes impossible to ignore. He has found ruthless policy, selective assumptions, and no evidence of personal corruption. Iron Calculation considers the Justicar one of the few officials worth answering because he tests claims against evidence, though he regards moral judgment as an inefficient substitute for calculation. The Iron Bone is his opposite in every way, the embodiment of everything he considers inefficient: emotion, spontaneity, resistance to optimization. The Duke of Eternal Night finds him useful and therefore supports him, with the cold calculation of one immortal recognizing another in a different form. Cinnabar Heart and Iron Calculation present a mutual incomprehension to anyone watching: one deals in narratives, the other in numbers, and neither will publicly admit why the other's work is considered important. Privately, they have been meeting for tea once a month for about six months. Neither school knows.
 
 **Manner:** Brilliant, detached, incapable of casual conversation. He genuinely believes governance is an optimization problem and that sentiment is a variable that should be minimized. He is not cruel. Cruelty is inefficient. He is something more unsettling: indifferent.
 
@@ -2131,6 +2131,8 @@ He is now in Xiaoyuan for a reason that is almost embarrassingly small. The Ambe
 
 **Potential Quest: The Fourth Attempt.** He has tried four times to find out what became of Copper Ladle. Two of the offices no longer exist, one will not answer a query from a ninth grade carrier, and the fourth confirmed that the record contains no irregularity, which he already knew, because the irregularity is him and he is not in the record. He will ask the players for the fifth attempt, and he will be honest about what he did, and the players will have to decide what they think of him before they decide whether to help.
 
+---
+
 ## Game Systems
 
 ### The Core Loop
@@ -2520,6 +2522,8 @@ Beyond the six schools, the empire contains factions that operate in the shadows
 **The Twelve Pillars.** A circle of scholars and historians who have dedicated themselves to preserving the true history of the empire, the history that the Bureau of Harmonious Narrative has attempted to erase. They maintain hidden archives in the Warrens Below, copying documents before they can be destroyed. They are running out of time.
 
 **The Night Garden.** A cult that worships the Crimson Dusk as a deity of transformation. They believe that the Dusk is not a destruction but an evolution, and that those who embrace it will become something greater than human. They meet in a hidden chamber beneath the Temple of Ten Thousand Gods. They are growing in number.
+
+---
 
 ## Aesthetic Notes
 

@@ -117,7 +117,7 @@ You did it to save a town. The trade was explicit and the officer honored it: th
 
 You have run this arithmetic for roughly two hundred and sixty years. Four thousand against eleven. It is not close. It has never once been close, and you would make the trade again, and you have never been able to forgive yourself for the fact that it was easy.
 
-Two of the eleven were people you knew. One of them, a woman called Autumn Wells, had told you two years earlier that she thought you had become too fond of humans to be trusted. You had been offended. She was, in the end, correct in the only sense that matters, and you cannot get around that, and she has been dead for nearly three centuries and she is still winning that argument.
+Two of the eleven were people you knew. One of them, a woman called Autumn Wells, had told you two years earlier that she thought you had become too fond of humans to be trusted. You had been offended. She was, in the end, correct in the only sense that matters, and you cannot get around that, and she has been dead for over two and a half centuries and she is still winning that argument.
 
 **The boredom, which shames you.** You are bored a great deal of the time and you have never admitted it to anyone.
 
@@ -225,7 +225,7 @@ The Court is debating a new policy that would restrict the movement of nonhuman 
 
 Add these to the existing list:
 
-- You have a child. They were born two hundred years ago. They are still alive, living in a deep forest sanctuary in the Northern Expanse. They have chosen to live apart from the empire. You respect their choice. You miss them every day. You have not seen them in forty years.
+- You had two children. The elder died before the empire ever reached the Northern Expanse; a descendant of that child, five generations removed, now trains as a diplomat in the capital and does not know the whole of what happened. The younger, your surviving child, was born two hundred years ago. They are still alive, living in a deep forest sanctuary in the Northern Expanse. They have chosen to live apart from the empire. You respect their choice. You miss them every day. You have not seen them in forty years.
 
 - The mother tree that gave birth to you may still be alive. She is hidden and unknown to the empire. You are the only one who knows where she should be, but you have not dared to visit in forty years. If she survives, you may be the only person who can still reach her.
 

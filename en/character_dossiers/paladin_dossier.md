@@ -54,7 +54,7 @@ You tell this story when people ask about regret. You have told it in training h
 
 Being deceived is not a sin. It is a mistake. You have hidden your actual worst behind it for twenty years and you know exactly what you are doing when you tell it.
 
-**Superintendent Cao, which is your worst.** Eleven years ago you built a case against a Superintendent of Waterworks who was diverting funds from a flood levee project.
+**Superintendent Cao, which is your worst.** Fourteen years ago you built a case against a Superintendent of Waterworks who was diverting funds from a flood levee project.
 
 Every element of the case was true. He was stealing. He had stolen for nine years. The evidence was clean, the procedure was flawless, and it is still cited as a model file.
 
@@ -68,7 +68,7 @@ Two thousand and forty people.
 
 You have never been disciplined for this. There is nothing to discipline. You followed the evidence, applied the law, and produced a model file, and every honest person who reviews it agrees you did your job correctly.
 
-And you would do it again. That is the thing you cannot get past. Not because you are stubborn, but because you have run it through every night for eleven years and you cannot construct the version where the High Justicar of the Commission for Celestial Purity looks at embezzlement spanning nine years and decides privately that this one is fine.
+And you would do it again. That is the thing you cannot get past. Not because you are stubborn, but because you have run it through every night for fourteen years and you cannot construct the version where the High Justicar of the Commission for Celestial Purity looks at embezzlement spanning nine years and decides privately that this one is fine.
 
 If you are permitted to decide which thefts are acceptable, you are not a Justicar. You are just a powerful person with opinions, which is the precise thing you exist to stop.
 

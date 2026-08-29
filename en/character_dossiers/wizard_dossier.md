@@ -185,7 +185,7 @@ Afternoons are for your own research. You read. You compare sources. You pursue 
 
 Evenings are quiet. You receive no visitors. The Archives close to the public. You walk the empty halls, checking the doors, the locks, the seals. You visit the restricted sections. You ensure that nothing has been disturbed. You spend an hour in the reading room where you meet the Duke of Eternal Night during his visits. You do not know why you go there. You go there every night.
 
-Before your rest period, you sit in the empty room. You do not enter it. You sit outside the door, with your name carved into the stone, and you listen. There is nothing to hear. There is never anything to hear. You sit anyway. It is a ritual. It is the only ritual that matters.
+Before your rest period, you sit outside the empty room. You do not enter it. You sit outside the door, with your name carved into the stone, and you listen. There is nothing to hear. There is never anything to hear. You sit anyway. It is a ritual. It is the only ritual that matters.
 
 ---
 
