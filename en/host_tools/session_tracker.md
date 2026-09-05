@@ -36,7 +36,7 @@
 | Common Flame     |                  |      |       |
 | Bright Mirror    |                  |      |       |
 
-**Faction Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (-20), Hostile (-50), Sworn Enemy (-80 or below)
+**Faction Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (minus 20), Hostile (minus 50), Sworn Enemy (minus 80 or below)
 
 ## Character Bonds
 
@@ -58,7 +58,7 @@
 
 Stray Stroke is not one of the Twelve. He is listed here because a bond with him is tracked the same way, and because the moment a table starts tracking him is the moment he stops being uncounted.
 
-**Bond Tiers:** Nemesis (-100 to -51), Antagonist (-50 to -11), Distant (-10 to +10), Congenial (+11 to +50), Ally (+51 to +80), Bound (+81 to +100)
+**Bond Tiers:** Nemesis (minus 100 to minus 51), Antagonist (minus 50 to minus 11), Distant (minus 10 to plus 10), Congenial (plus 11 to plus 50), Ally (plus 51 to plus 80), Bound (plus 81 to plus 100)
 
 ## Secrets Revealed
 

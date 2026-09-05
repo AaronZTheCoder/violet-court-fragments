@@ -307,17 +307,17 @@ The Risk table assumes the following definitions for Faction Standing:
 
 **Moderate Protection (Faction Standing 10 to 29):** You have a faction that values you enough to offer some protection. They will not risk their own position for you, but they will speak on your behalf and may quietly intervene if the cost is low. The protection is real but limited.
 
-**No Protection (Faction Standing -9 to +9):** You have no faction willing to protect you. You stand alone. Your fate depends entirely on your Ritual Harmony and your own actions during the Audit. This is the default state for most characters at the start of a campaign.
+**No Protection (Faction Standing minus 9 to plus 9):** You have no faction willing to protect you. You stand alone. Your fate depends entirely on your Ritual Harmony and your own actions during the Audit. This is the default state for most characters at the start of a campaign.
 
-**Enemies (Faction Standing -10 or below):** A faction actively works against you. They will provide evidence, testimony, or rumors to the Commission. Having enemies does not guarantee you will be targeted, but it means someone with influence is actively trying to make you the target.
+**Enemies (Faction Standing minus 10 or below):** A faction actively works against you. They will provide evidence, testimony, or rumors to the Commission. Having enemies does not guarantee you will be targeted, but it means someone with influence is actively trying to make you the target.
 
 **Ritual Harmony Baseline.** A character's Ritual Harmony determines their row in the table. Ritual Harmony 60+ places a character in the safest band, reflecting a life aligned with the Court's expectations. Ritual Harmony 40 to 59 is the standard starting range, representing normal variance in adherence to doctrine. Ritual Harmony 20 to 39 reflects a pattern of deviation that has been noticed. Ritual Harmony below 20 indicates a character who lives at the edges of what the Court tolerates.
 
 ### Worked Example: Calculating Risk
 
-Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage -12, Common Flame +15, Bright Mirror +10.
+Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage minus 12, Common Flame +15, Bright Mirror +10.
 
-Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has -12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
+Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has minus 12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
 On the table, comparing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "Moderate Risk." This means on a d20, Mara is Cleared on 12+, Sanctioned on 5 to 11, and Disappeared on 1 to 4. She has a thirty five percent chance of being Sanctioned and a twenty percent chance of Disappearing. She will probably survive, but better than half her survival is owed to a single faction that has decided she is worth a word in the right room.
 

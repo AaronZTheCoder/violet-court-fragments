@@ -297,7 +297,7 @@ Every character has six **Facets** that measure their core capabilities:
 
 Your Archetype provides a baseline array of Facet scores. You then have **six additional points** to distribute among your Facets as you wish. You may not raise any Facet above 18 with these points. A few Archetypes begin with a signature Facet of 20: the Celestial Book's Intellect and Resolve, the Incense Crown's and the Duke's Presence. That score is the Archetype's gift rather than something you bought, and it cannot be raised further.
 
-**Facet Modifier:** Your Facet Modifier equals (Facet Score minus 10) divided by 2, rounded down. A Facet of 14 gives a modifier of +2. A Facet of 8 gives a modifier of -1.
+**Facet Modifier:** Your Facet Modifier equals (Facet Score minus 10) divided by 2, rounded down. A Facet of 14 gives a modifier of +2. A Facet of 8 gives a modifier of minus 1.
 
 **Example assignment.** Lan's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of her.
 
@@ -363,7 +363,7 @@ _Resolve Skills:_
 
 **Defense:** 10 + Swiftness Modifier. The base TN for attacks targeting you.
 
-**Example calculation.** Lan's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier -1), with no Archetype bonus, so -1. Defense: 10 + (-1) = 9. She is the most fragile character at the table and the hardest to break.
+**Example calculation.** Lan's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier minus 1), with no Archetype bonus, so minus 1. Defense: 10 + (minus 1) = 9. She is the most fragile character at the table and the hardest to break.
 
 ### Step Five: Starting Resources
 
@@ -475,7 +475,7 @@ In combat, Might determines melee attack rolls and melee damage. Outside combat,
 
 **What Might feels like at different scores.**
 
-**Might 6 (modifier -2).** You are physically frail. A heavy stack of books winded you. You struggle to open a stubborn window. In a fight, you rely entirely on speed, guile, or weapons of convenience. A shove from an ordinary person might knock you off balance. You have learned to avoid physical confrontations because you rarely win them.
+**Might 6 (modifier minus 2).** You are physically frail. A heavy stack of books winded you. You struggle to open a stubborn window. In a fight, you rely entirely on speed, guile, or weapons of convenience. A shove from an ordinary person might knock you off balance. You have learned to avoid physical confrontations because you rarely win them.
 
 **Might 10 (modifier +0).** You are an ordinary person with ordinary strength. You can carry your own belongings, walk all day, and hold your own in a bar fight if you have to. You are not impressive, but you are not a liability. The average soldier, laborer, and farmer all share this level.
 
@@ -493,7 +493,7 @@ In combat, Swiftness determines initiative, Defense, and ranged attack rolls. Ou
 
 **What Swiftness feels like at different scores.**
 
-**Swiftness 6 (modifier -2).** You are clumsy and slow. You trip on uneven floors. You knock things over when reaching for them. You cannot catch a thrown object. You are always the last to react in a crisis. You have bruises from walking into door frames and you do not remember how you got most of them.
+**Swiftness 6 (modifier minus 2).** You are clumsy and slow. You trip on uneven floors. You knock things over when reaching for them. You cannot catch a thrown object. You are always the last to react in a crisis. You have bruises from walking into door frames and you do not remember how you got most of them.
 
 **Swiftness 10 (modifier +0).** You move like an average person. You can catch a ball if you concentrate. You can walk quietly across a wooden floor if you try. You are neither graceful nor clumsy. You simply exist in space and occasionally bump into furniture.
 
@@ -511,7 +511,7 @@ Endurance directly determines Hit Points and governs resistance to physical harm
 
 **What Endurance feels like at different scores.**
 
-**Endurance 6 (modifier -2).** You are fragile. A hard fall leaves you winded for minutes. A minor cut becomes infected. You tire before others on a long march. You catch every illness that passes through the city. Your HP is dangerously low, and every fight carries the risk of your death.
+**Endurance 6 (modifier minus 2).** You are fragile. A hard fall leaves you winded for minutes. A minor cut becomes infected. You tire before others on a long march. You catch every illness that passes through the city. Your HP is dangerously low, and every fight carries the risk of your death.
 
 **Endurance 10 (modifier +0).** You are an average healthy person. You can work a full day without collapsing. You recover from a cold in a few days. A fight leaves you bruised but functional. You are not tough, but you are not made of glass either.
 
@@ -529,7 +529,7 @@ In combat, Intellect determines the effectiveness of Qi Techniques. Outside comb
 
 **What Intellect feels like at different scores.**
 
-**Intellect 6 (modifier -2).** You are unlettered and slow to grasp new concepts. You struggle with written language. You cannot follow complex arguments. You rely on instinct and memory rather than analysis. People call you simple. You have learned to let them underestimate you.
+**Intellect 6 (modifier minus 2).** You are unlettered and slow to grasp new concepts. You struggle with written language. You cannot follow complex arguments. You rely on instinct and memory rather than analysis. People call you simple. You have learned to let them underestimate you.
 
 **Intellect 10 (modifier +0).** You are an ordinary person of ordinary intelligence. You can read and write, do basic arithmetic, and follow a conversation about politics if it is not too complicated. You are not a scholar, but you are not a fool either.
 
@@ -547,7 +547,7 @@ Presence governs social interaction of all kinds: persuasion, deception, perform
 
 **What Presence feels like at different scores.**
 
-**Presence 6 (modifier -2).** You are invisible or repellent. People forget you are in the room. When you speak, others talk over you. You struggle to make eye contact. Your jokes fall flat. Your attempts at persuasion come across as awkward or desperate. You have learned to let others do the talking.
+**Presence 6 (modifier minus 2).** You are invisible or repellent. People forget you are in the room. When you speak, others talk over you. You struggle to make eye contact. Your jokes fall flat. Your attempts at persuasion come across as awkward or desperate. You have learned to let others do the talking.
 
 **Presence 10 (modifier +0).** You are unremarkable in social settings. You can hold a conversation. You can make a request. You can tell a small lie without being obvious. You are neither charismatic nor off putting. You exist in the social space without dominating it.
 
@@ -565,7 +565,7 @@ Resolve determines Sanity and governs resistance to fear, deception, and superna
 
 **What Resolve feels like at different scores.**
 
-**Resolve 6 (modifier -2).** You are easily shaken. Loud noises make you jump. You believe what people tell you because questioning them is exhausting. You avoid conflict and confrontation. At night, you lie awake thinking about everything that could go wrong. The Dusk would break you quickly.
+**Resolve 6 (modifier minus 2).** You are easily shaken. Loud noises make you jump. You believe what people tell you because questioning them is exhausting. You avoid conflict and confrontation. At night, you lie awake thinking about everything that could go wrong. The Dusk would break you quickly.
 
 **Resolve 10 (modifier +0).** You have ordinary willpower. You can stand your ground in an argument. You resist obvious manipulation. You sleep through the night most of the time. You are not especially brave, but you are not a coward either. You can look at something horrible without screaming.
 
@@ -696,7 +696,7 @@ An ally can stabilize a Dying character with a successful Intellect check (TN 12
 
 Host: "The alley is narrow, barely wide enough for two people to walk side by side. Rain water drips from eaves overhead. The courier stops when he sees you block the far end. He says, 'You are making a mistake.' That is when you hear the scrape of boots on stone behind you. Three figures step out of the recessed doorway you just passed. They have knives."
 
-Initiatives: Cinder rolls 19 + 6 = 25. Steelhand rolls 14 + 2 = 16. Thugs roll 12 + 1 = 13. Jinhai rolls 4 + (-1) = 3.
+Initiatives: Cinder rolls 19 + 6 = 25. Steelhand rolls 14 + 2 = 16. Thugs roll 12 + 1 = 13. Jinhai rolls 4 + (minus 1) = 3.
 
 Cinder acts first.
 
@@ -1243,11 +1243,11 @@ Ritual Harmony changes based on your actions:
 
 **Lose Ritual Harmony (and why it might be necessary):**
 
-- Being seen with known reformers or heterodox figures (-3 to -5)
-- Questioning doctrine in public (-5 to -10)
-- Being investigated by the Commission (-5, even if cleared)
-- Sheltering a Dusk refugee (-5 to -10)
-- Publishing a finding that contradicts official records (-15)
+- Being seen with known reformers or heterodox figures (minus 3 to minus 5)
+- Questioning doctrine in public (minus 5 to minus 10)
+- Being investigated by the Commission (minus 5, even if cleared)
+- Sheltering a Dusk refugee (minus 5 to minus 10)
+- Publishing a finding that contradicts official records (minus 15)
 
 ### Actions That Shape Your Ritual Harmony
 
@@ -1273,25 +1273,25 @@ The following concrete examples show how specific actions at the table might aff
 
 **Losing Ritual Harmony.**
 
-1. A Celestial Book is seen leaving a teahouse that is known as a meeting place for reformers. She was there doing research. The observers do not care about her reasons. (-4 Ritual Harmony, now 46.)
+1. A Celestial Book is seen leaving a teahouse that is known as a meeting place for reformers. She was there doing research. The observers do not care about her reasons. (minus 4 Ritual Harmony, now 46.)
 
-2. During a routine Harmonization Audit, an Iron Bone questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (-8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
+2. During a routine Harmonization Audit, an Iron Bone questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (minus 8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
 
-3. A Night Warbler shelters a Dusk refugee in his safe house for three nights. The refugee is a child. The risk of discovery is high. (-8 Ritual Harmony, now 32.)
+3. A Night Warbler shelters a Dusk refugee in his safe house for three nights. The refugee is a child. The risk of discovery is high. (minus 8 Ritual Harmony, now 32.)
 
-4. A Cinnabar Heart publishes a research paper that includes a factual correction to a widely distributed imperial census. The correction is accurate. It is also politically inconvenient for a faction that benefits from the error. (-15 Ritual Harmony, now 38.)
+4. A Cinnabar Heart publishes a research paper that includes a factual correction to a widely distributed imperial census. The correction is accurate. It is also politically inconvenient for a faction that benefits from the error. (minus 15 Ritual Harmony, now 38.)
 
-5. A Duke of Eternal Night is seen in conversation with a known heterodox philosopher at a social gathering. The conversation was brief and accidental. The optics are damning. (-5 Ritual Harmony, now 59.)
+5. A Duke of Eternal Night is seen in conversation with a known heterodox philosopher at a social gathering. The conversation was brief and accidental. The optics are damning. (minus 5 Ritual Harmony, now 59.)
 
-6. An Iron Wall fails to prevent a protest outside a government building. The protest was not his fault. He is blamed anyway. (-3 Ritual Harmony, now 56.)
+6. An Iron Wall fails to prevent a protest outside a government building. The protest was not his fault. He is blamed anyway. (minus 3 Ritual Harmony, now 56.)
 
-7. A Guest Among Forests refuses to endorse an orthodox appointment, citing concerns about the candidate's qualifications. The refusal is seen as political rather than professional. (-6 Ritual Harmony, now 60.)
+7. A Guest Among Forests refuses to endorse an orthodox appointment, citing concerns about the candidate's qualifications. The refusal is seen as political rather than professional. (minus 6 Ritual Harmony, now 60.)
 
-8. A Bright Mirror's investigation of a corrupt official is blocked by political pressure. He withdraws the investigation. He is seen as weak. (-5 Ritual Harmony, now 55.)
+8. A Bright Mirror's investigation of a corrupt official is blocked by political pressure. He withdraws the investigation. He is seen as weak. (minus 5 Ritual Harmony, now 55.)
 
-9. A Shadow is caught breaking into the office of a Golden Orthodoxy official. The break was professional and left no trace except one: the official came back early. (-10 Ritual Harmony, now 25.)
+9. A Shadow is caught breaking into the office of a Golden Orthodoxy official. The break was professional and left no trace except one: the official came back early. (minus 10 Ritual Harmony, now 25.)
 
-10. A Celestial Book, under questioning, admits she has seen a document that contradicts orthodox history. She does not reveal the document. The admission alone is damaging. (-12 Ritual Harmony, now 37.)
+10. A Celestial Book, under questioning, admits she has seen a document that contradicts orthodox history. She does not reveal the document. The admission alone is damaging. (minus 12 Ritual Harmony, now 37.)
 
 ### Living with Your Ritual Harmony
 

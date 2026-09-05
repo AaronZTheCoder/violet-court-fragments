@@ -64,8 +64,8 @@ Faction Standing with a given school maps directly to the protection that school
 
 - **+30 or higher: Strong Protection.** The school actively shields the player. One automatic Risk reduction per Audit phase when invoking this school's name.
 - **+10 to +29: Moderate Protection.** The school offers token resistance on the player's behalf. The player may call on this protection once, reducing Risk by one level, but the school will not expend significant resources.
-- **-9 to +9: No Protection.** The school offers nothing. The player is on their own.
-- **-10 or below: Enemies.** The school actively works against the player during the Audit. Risk increases by one level automatically. Commission agents pay extra attention.
+- **minus 9 to plus 9: No Protection.** The school offers nothing. The player is on their own.
+- **minus 10 or below: Enemies.** The school actively works against the player during the Audit. Risk increases by one level automatically. Commission agents pay extra attention.
 
 **Starting Risk Level Formula**
 
@@ -80,8 +80,8 @@ _Base Risk by Ritual Harmony:_
 
 _Adjustments from Protection Column:_
 
-- Apply the highest protection bonus: Strong Protection (-2 Risk), Moderate Protection (-1 Risk), No Protection (+0), Enemies (+1 Risk).
-- Apply the lowest Faction Standing penalty if multiple schools have negative Faction Standing, with an additional +1 Risk for each school at -10 or below, to a maximum of +3.
+- Apply the highest protection bonus: Strong Protection (minus 2 Risk), Moderate Protection (minus 1 Risk), No Protection (+0), Enemies (+1 Risk).
+- Apply the lowest Faction Standing penalty if multiple schools have negative Faction Standing, with an additional +1 Risk for each school at minus 10 or below, to a maximum of +3.
 
 For this adventure, the Ritual Harmony baseline begins at approximately 50 (Low Risk). Adjust per player based on Faction Standing from their dossier. Record each player's starting Risk before Part One begins.
 
@@ -501,7 +501,7 @@ As Part One concludes, the world shifts subtly based on the players' actions and
 
 - **If the players investigated the warning note or consulted NPCs:** A junior clerk you do not recognize nods to you in the corridor. They look away when you meet their eyes. The Court is watching to see what you do with what you have learned.
 - **If the players have Faction Standing +10 or higher with any school:** A messenger passes you in the hall without stopping. They drop a folded piece of paper. They do not look back. The paper contains a single sentence: "We know you received the note. We are waiting to see what you do next." There is no signature. The seal is nondescript.
-- **If the players have Faction Standing -10 or lower with any school:** A door closes as you approach it. A conversation stops when you enter a room. The walls have ears in Xiaoyuan, and some of those ears belong to people who do not wish you well.
+- **If the players have Faction Standing minus 10 or lower with any school:** A door closes as you approach it. A conversation stops when you enter a room. The walls have ears in Xiaoyuan, and some of those ears belong to people who do not wish you well.
 - **Regardless of Faction Standing:** The city feels heavier than it did this morning. The air tastes different. Something has begun that cannot be stopped. The players will feel this weight in every scene that follows.
 
 ### Weather and Time: The Second Morning
@@ -1563,7 +1563,7 @@ He nods slowly. His face shows nothing. "So be it." He turns and walks away. Thi
 > **Faction Standing Changes:**
 >
 > - Surviving the assassination attempt: +5 Faction Standing with any faction the players have allied with (they see the players as survivors).
-> - If the Crimson Lineage is implicated: -10 Faction Standing with Crimson Lineage (if they were not already enemies).
+> - If the Crimson Lineage is implicated: minus 10 Faction Standing with Crimson Lineage (if they were not already enemies).
 > - If the players report the attempt to the Commission: +5 Ritual Harmony, but the Commission opens an investigation into the players' "associates." The investigation may uncover other things.
 
 ### Complication: The Crimson Lineage Strikes Back

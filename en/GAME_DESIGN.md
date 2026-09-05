@@ -1,5 +1,7 @@
 # The Violet Court Fragments
 
+## Setting Bible
+
 > _A tabletop roguelike told through text, set in the twilight of a celestial empire.
 > The Sun Emperor has not spoken publicly for about one hundred and sixty four years.
 > The Court still rules in His name.
@@ -935,7 +937,7 @@ The Stewardship before his ended in the Year of the Long Petition, when scholars
 
 Then it agreed.
 
-What happened on the Approach is not in the archives. There is no file. There is a gap in the ledger of the Bureau of Harmonious Records between two dates, and the gap is exactly six weeks wide, and the paper stock changes after it. The Bureau of Harmonious Narrative has issued no statement in fifty years, because a statement would require a subject, and officially there is no subject. Ask an official about the Long Petition and you will see something remarkable: not evasion, not fear, but a genuine blankness, the expression of a person who has successfully not known something for their entire career.
+What happened on the Approach is not in the archives. There is no file. There is a gap in the ledger of the Bureau of Harmonious Records between two dates, and the gap is exactly six weeks wide, and the paper stock changes after it. The Bureau of Harmonious Narrative has issued no statement in ninety six years, because a statement would require a subject, and officially there is no subject. Ask an official about the Long Petition and you will see something remarkable: not evasion, not fear, but a genuine blankness, the expression of a person who has successfully not known something for their entire career.
 
 The Steward who ordered it did not survive the aftermath politically. The Council needed someone untainted, competent, and from far enough outside the capital that no faction owned him. They found a canal administrator from the river prefectures, a man who had spent thirty years making barges arrive on schedule.
 
@@ -1791,7 +1793,7 @@ The resulting Harmonization Audit lasted three months and claimed forty seven of
 
 **Daily Routine.** Bright Mirror wakes at the fourth hour, before the sun. He performs a purification ritual involving cold water, specific breathing patterns, and the recitation of the twenty one vows of purity enforcement. He puts on his concealed armor and ceremonial plates, which he never removes in public, and inspects himself for any sign of compromise. He arrives at the Commission for Celestial Purity before the sixth hour and reviews the reports that have arrived overnight: allegations of corruption, requests for investigation, intelligence from the Bureau of Internal Harmony. He assigns cases to his inspectors personally, matching each investigator's skills to the specific demands of the case. He conducts his own investigations in the afternoon, often in person, questioning witnesses and examining evidence with the same intensity he brought to his first case. He returns to the Commission in the evening to review his inspectors' findings and prepare the next day's assignments. He eats a simple meal of rice and vegetables. He sleeps no more than four hours and dreams of faces he has condemned.
 
-**Inner Circle.** Justicar Voss's Ghost is the memory of his mentor, a presence he consults when making difficult decisions. He imagines what Voss would say, then examines why the answer still appeals to him before choosing his own course. Junior Inspector Steadfast Reed is his most promising protégé, a young woman who shares his commitment to purity and who may one day succeed him. The Archivist of Confessions is a scribe who maintains the records of every investigation the Commission has conducted. He is the only person who knows the full extent of the corruption the Commission has uncovered and chosen not to pursue for strategic reasons.
+**Inner Circle.** Justicar Voss's Ghost is the memory of his mentor, a presence he consults when making difficult decisions. He imagines what Voss would say, then examines why the answer still appeals to him before choosing his own course. Junior Inspector Steadfast Reed is his most promising student, a young woman who shares his commitment to purity and who may one day succeed him. The Archivist of Confessions is a scribe who maintains the records of every investigation the Commission has conducted. He is the only person who knows the full extent of the corruption the Commission has uncovered and chosen not to pursue for strategic reasons.
 
 **Relationships.** Bright Mirror and Iron Wall are the empire's only genuine alliance. Bright Mirror trusts him absolutely, which means he trusts exactly one person. The Duke of Eternal Night is his oldest and most persistent investigation target: he is certain the Duke has committed crimes that would merit Harmonization a hundred times over, he has never been able to prove one of them, and he is patient. He has investigated Iron Bone extensively and is privately certain, by the strict definition of the law, that the man is guilty of treason. He has not moved against him, because certainty is not proof, and the Hearthstone Healer case taught him that acting on what he believes rather than what he can demonstrate is exactly the failure he swore never to repeat. He watches. He waits for evidence that would survive his own scrutiny. He has not found it yet, and some nights he is honestly unsure whether that is because it does not exist or because some part of him has stopped looking as hard as he once did.
 
@@ -2215,11 +2217,11 @@ Each turn, events arrive. You respond. The world reacts. The Dusk advances.
 │                (the next day begins)                │
 │                                                    │
 │  Overlaid by:                                       │
-│  • Faction Standing shifts                          │
-│  • Dusk advancement                                 │
-│  • Harmonization Audit preparation and execution    │
-│  • Character relationship evolution                 │
-│  • Resource management (Celestial Favor, Qi, Sanity)│
+│  · Faction Standing shifts                          │
+│  · Dusk advancement                                 │
+│  · Harmonization Audit preparation and execution    │
+│  · Character relationship evolution                 │
+│  · Resource management (Celestial Favor, Qi, Sanity)│
 └──────────────────────────────────────────────────┘
 ```
 
@@ -2240,7 +2242,7 @@ How orthodox you are perceived to be, measured from 0 to 100:
 **The Orthodoxy Trap:** Ritual Harmony above 85 makes you dangerous to existing power structures. If you are that pure, you could challenge them, or expose their impurity. High Ritual Harmony is a shield against investigation but a lure for factional attack.
 
 **Faction Standing**
-Your reputation with each of the six schools, measured from -100 (sworn enemy) to +100 (trusted voice). Faction Standing with one school affects Faction Standing with its rivals. Balance is survival.
+Your reputation with each of the six schools, measured from minus 100 (sworn enemy) to +100 (trusted voice). Faction Standing with one school affects Faction Standing with its rivals. Balance is survival.
 
 **Celestial Qi**
 Your reserve of Celestial Qi. Spent to perform rituals and activate abilities. Replenished through meditation, environments rich in Qi, and certain rare items. Also consumed by Disharmony events and Dusk exposure.
@@ -2289,7 +2291,7 @@ The Dusk cannot be defeated through repetition or grinding. It is the game's ult
 
 Each of the twelve figures has:
 
-- **Bond Score (-100 to +100):** Their emotional disposition toward you
+- **Bond Score (minus 100 to plus 100):** Their emotional disposition toward you
 - **Devotion Level (0 to 5):** Unlocks their abilities, secrets, and support
 - **Personal Thread:** A chain of events that, if followed to its end, reveals their Truth and maximizes devotion
 - **School Tension:** Being close to them affects your Faction Standing with their school's rivals
@@ -2298,12 +2300,12 @@ The Stray Stroke uses the same four values. He is not one of the twelve, and the
 
 **Bond Tiers:**
 
-- **-100 to -51 (Nemesis):** Actively engineering your destruction
-- **-50 to -11 (Antagonist):** Will oppose you when opportunity allows
-- **-10 to +10 (Distant):** Professional acquaintance. No personal investment.
-- **+11 to +50 (Congenial):** Will help at moderate personal cost
-- **+51 to +80 (Ally):** Will take genuine risks for you. Shares select secrets.
-- **+81 to +100 (Bound):** Would die for you. Holds nothing back. Maximum one or two figures per playthrough.
+- **minus 100 to minus 51 (Nemesis):** Actively engineering your destruction
+- **minus 50 to minus 11 (Antagonist):** Will oppose you when opportunity allows
+- **minus 10 to plus 10 (Distant):** Professional acquaintance. No personal investment.
+- **plus 11 to plus 50 (Congenial):** Will help at moderate personal cost
+- **plus 51 to plus 80 (Ally):** Will take genuine risks for you. Shares select secrets.
+- **plus 81 to plus 100 (Bound):** Would die for you. Holds nothing back. Maximum one or two figures per playthrough.
 
 ### Combat System (Tabletop Style)
 
