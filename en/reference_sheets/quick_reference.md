@@ -428,6 +428,6 @@ Rival Schools: Golden Orthodoxy (over what purity means), Crimson Lineage (over 
 - Trusted (50+): School treats character as a valued ally. Discounts, information sharing, minor favors.
 - Favored (20+): School views character positively. Basic cooperation. Standard services available.
 - Neutral (0): No special treatment. Standard interaction. No hostility but no help.
-- Suspect (-20): School is wary. Services restricted. Character may be watched.
-- Hostile (-50): School actively opposes the character. Denied services. Potential for violence.
-- Sworn Enemy (-80 or below): School dedicates resources to the character's destruction. Assassins. Blacklists. Open hostility.
+- Suspect (minus 20): School is wary. Services restricted. Character may be watched.
+- Hostile (minus 50): School actively opposes the character. Denied services. Potential for violence.
+- Sworn Enemy (minus 80 or below): School dedicates resources to the character's destruction. Assassins. Blacklists. Open hostility.

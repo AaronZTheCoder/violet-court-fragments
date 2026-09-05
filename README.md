@@ -33,6 +33,8 @@ violet-court-fragments/
 │   ├── CORE_RULEBOOK.md               ← The complete game system (2,500+ lines)
 │   ├── HOST_CODEX.md                  ← Host guide and encrypted frameworks (2,200+ lines)
 │   ├── GAME_DESIGN.md                 ← Setting bible and world lore (3,000+ lines)
+│   ├── THE_RECONSTRUCTION.md          ← Main plot spine, for the Host (351 lines)
+│   ├── THE_SEVENTH_NICHE.md            ← Main plot: the Full Rite (294 lines)
 │   ├── character_dossiers/            ← 13 playable archetypes with full mechanics
 │   │   ├── alchemist_dossier.md
 │   │   ├── assassin_dossier.md
@@ -57,12 +59,12 @@ violet-court-fragments/
 │       └── quick_reference.md         ← Compact table reference
 │
 ├── cn/                                ← Pure Chinese edition
-│   └── ... (mirrors the en/ structure, all 21 documents)
+│   └── ... (mirrors the en/ structure, all 23 documents)
 │
 └── tabletop_rpg_*.jpeg                ← 13 character portrait illustrations
 ```
 
-**44 Markdown documents** in total, including both READMEs and 21 game documents in each language. **23,701 lines of English, 23,646 lines of Chinese, and 47,347 lines overall.** **No dash punctuation in prose.** **Zero political terminology.** **Zero mixed language.** Every word earned.
+**48 Markdown documents** in total, including both READMEs and 23 game documents in each language. **24,557 lines of English, 24,553 lines of Chinese, and 49,110 lines overall.** **No dash punctuation in prose.** **Zero political terminology.** **Zero mixed language.** Every word earned.
 
 ---
 
@@ -143,9 +145,21 @@ The **Host's Codex** is the game's secret engine. It contains:
 - **Running Harmonization Audits**: the structure with four phases, risk tables, and player actions during the game's signature set piece
 - **Campaign Frameworks**: three complete structures (The Rise, The Conspiracy, The Collapse) with act breakdowns
 - **Random Generators**: d20 Court Event table, d12 Rumor table, character quick generator
-- **The Dusk Bestiary**: creature templates from Dusk Wisps to Dusk Made Manifest
+- **The Dusk Bestiary** (in `host_tools/dusk_bestiary.md`): creature templates from Dusk Wisps to Dusk Made Manifest
 
 The Codex is written for the Host's eyes only. Guard it well.
+
+---
+
+## The Main Plot
+
+Two core books carry the campaign. Both are written for the Host, and both cover the same thirty days.
+
+**The Reconstruction** (`en/THE_RECONSTRUCTION.md`) is how the Court survives what it breaks. In the Nine Domains, the word for rebuilding a levee is also the word for rebuilding the record of the levee, and the Court has never seen a reason to use two words for this. The instrument has been rewritten five times in eighty one years, each version forced by the failure of the one before it, and a sixth is in draft. The book contains all six, the Gloss and the Key that make a Court document nearly impossible to read with confidence, the erasure trade that grew out of them, and the question underneath all of it, which nobody in the setting can answer, including the Host.
+
+**The Seventh Niche** (`en/THE_SEVENTH_NICHE.md`) is how the Court settles its dead. The Temple of Ten Thousand Gods predates the empire and holds ten thousand niches, and six of them hold men instead of gods. A seventh is being opened for a Steward dead these many years, whose two most valuable legacies the present Steward has already reversed. The Court does not publish a change of course. It publishes a change of ancestor.
+
+Your players are the hands of both instruments. They are Eighth Rank copyists. A mountain has just come down on the empire's last true border, the Hall of Open Hearing has opened for the first time in a generation, and both files are going to cross their desk. The Hinge of Year 452 is thirty days away. When it arrives, the Key turns, every decoded document expires, and every calamity after it will be declared a victory before the dead are counted.
 
 ---
 
@@ -163,8 +177,8 @@ Every political term has been mapped to a fantasy equivalent. Every real world i
 
 | Edition | Directory | Contents                                                                                          |
 | ------- | --------- | ------------------------------------------------------------------------------------------------- |
-| English | `en/`     | All 21 documents in English, including the complete cinematic narrative and full production bible |
-| Chinese | `cn/`     | All 21 documents in Chinese, including the complete cinematic narrative and full production bible |
+| English | `en/`     | All 23 documents in English, including the complete cinematic narrative and full production bible |
+| Chinese | `cn/`     | All 23 documents in Chinese, including the complete cinematic narrative and full production bible |
 
 The two editions are functionally identical. Switch between them at any time. The character portraits work for both.
 

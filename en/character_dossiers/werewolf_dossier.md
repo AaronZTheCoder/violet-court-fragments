@@ -18,7 +18,7 @@ You are terrified of the wolf. You also know you need it. The empire does not re
 
 ## Expanded Backstory
 
-**The town with no name on the map.** Factory town three days north. Father at the smelting furnaces, mother at the looms. You had four siblings, and two survived childhood. Company dormitory. You started carrying coal at nine and crawling into spaces too small for adults to clear the clogs.
+**The town with no name on the map.** Factory town three days east. Father at the smelting furnaces, mother at the looms. You had four siblings, and two survived childhood. Company dormitory. You started carrying coal at nine and crawling into spaces too small for adults to clear the clogs.
 
 An old woman who had been a teacher before the factory taught you to read after hours by lamplight. Her name was Widow Tan and she was not kind. She was impatient, sarcastic, and rapped your knuckles, and she taught eleven children over nine years and four of them are now organizers and one is a minor official and she would have had opinions about all of it.
 

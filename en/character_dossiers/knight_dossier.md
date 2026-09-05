@@ -34,7 +34,7 @@ You swore at that table you would never be a soldier who obeys without asking wh
 
 You broke that oath at Thornwood at twenty nine and you have thought about it every day since, and what you have never been able to say to anyone is that the oath was always going to break, because it was sworn by a boy who had not yet been given an order that was both wrong and correct at the same time.
 
-**Thornwood, precisely.** You were ordered to clear a village suspected of sheltering Dusk sympathizers. Your commander ordered the granaries burned. You obeyed. The village starved that winter. Survivors went to the Dusk out of desperation. The province fell two years later.
+**Thornwood, precisely.** You were ordered to clear a village suspected of sheltering Dusk sympathizers. Your commander ordered the granaries burned. You obeyed. The village starved that winter. Survivors went to the Dusk out of desperation. Two years later the Dusk swallowed the district, and the Court struck it from the maps.
 
 Every account of this you have ever given stops there, and every account is incomplete in the same specific way.
 
@@ -170,7 +170,7 @@ _Complication:_ A faction within the Garrison has been preparing to execute Empt
 **Truth 2: Your commanding officer is taking bribes from a Crimson Lineage family. You have evidence. Reporting it would destroy the unit's cohesion. Not reporting it violates your oath.**
 _Complication:_ The Crimson Lineage family knows you have evidence. They have offered to promote you. They have also made it clear what happens to officers who do not accept their patronage.
 
-**Truth 3: You were ordered to commit an atrocity during a border pacification campaign. You complied. The campaign was declared a success. The province fell to the Dusk two years later. You have never spoken of it.**
+**Truth 3: You were ordered to commit an atrocity during a border pacification campaign. You complied. The campaign was declared a success. Two years later the Dusk swallowed the district, and the Court struck it from the maps. You have never spoken of it.**
 _Complication:_ A survivor of the Thornwood atrocity has joined the Garrison under a false name. They do not know you were there. You recognized them the moment you saw their face.
 
 **Truth 4: A soldier under your command saw something they should not have during a routine patrol near the Spire. They told you. You told them to forget. Neither of you has.**
@@ -291,7 +291,7 @@ When you give an order in combat, allies who can hear you gain +2 to their next 
 
 - You have seen Operation Empty Throne. It is the Garrison's contingency plan for when the Court collapses. You pray you never have to execute it. _(Complication: A faction within the Garrison is preparing to execute it preemptively. They have approached you twice.)_
 - Your commanding officer is taking bribes from a Crimson Lineage family. You have evidence. Reporting it would destroy the unit's cohesion. Not reporting it violates your oath. _(Complication: The Crimson Lineage family knows you have evidence. They have offered to promote you or destroy you.)_
-- You were ordered to commit an atrocity during a border pacification campaign. You complied. The campaign was declared a success. The province fell to the Dusk two years later. You have never spoken of it. _(Complication: A survivor of the atrocity has joined the Garrison under a false name. You recognized them immediately.)_
+- You were ordered to commit an atrocity during a border pacification campaign. You complied. The campaign was declared a success. Two years later the Dusk swallowed the district, and the Court struck it from the maps. You have never spoken of it. _(Complication: A survivor of the atrocity has joined the Garrison under a false name. You recognized them immediately.)_
 - A soldier under your command saw something they should not have during a routine patrol near the Spire. They told you. You told them to forget. Neither of you has. _(Complication: The soldier has started asking questions again. They have been seen with a Bright Mirror investigator.)_
 - You have a death wish and you know it. You take risks in battle that are not calculated. You tell yourself it is for the unit. Part of you knows it is because you are ready to join the soldiers you have lost.
 - You carry a sealed letter from your father. It contains the location of a Garrison black site. He told you to use it when the time was right. You do not know when that is.

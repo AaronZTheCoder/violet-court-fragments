@@ -118,7 +118,7 @@ When you invoke orthodox doctrine to support your position during a social encou
 
 ## Expanded Backstory
 
-**The family.** You were born in the Archive Quarter to two civil servants who did not like each other very much.
+**The family.** You were born in the Ministry Quarter to two civil servants who did not like each other very much.
 
 Your father cataloged petitions that would never be read. He was a gentle, unambitious man who was good at his work and content with it, and your mother could not forgive him for that. She transcribed death records, wrote the final epitaphs of the Disappeared in a hand so fine that senior officials requested her by name, and she understood exactly how far that talent could have taken a man. She was not bitter about her own ceiling. She was bitter about his floor.
 
@@ -146,7 +146,7 @@ She also destroyed people for a living and was extremely good at it.
 
 You loved her. You still love her. Nothing you have learned since has made that stop, and the failure of it to stop is the central unfinished business of your interior life.
 
-**Master Ren, who bought oranges.** At nineteen she summoned you to her private workshop and set a death certificate on the bench for a man you had seen at the market that morning.
+**Master Ren, who bought oranges.** At nineteen she summoned you to her private workshop and set a death certificate on the bench for a man you had seen at the market that morning. He had been buying oranges, choosing them one at a time from the heap with a care that would almost have been touching in a man who was not what he was.
 
 Here is the part the story is usually told without. You knew who he was. Master Ren was a grain speculator who had cornered the relief supply during the Weeping Valley shortage four years earlier and had, by any honest reckoning, killed more people than the Bureau did that decade. You had opinions about him. They were not kind opinions.
 
@@ -269,7 +269,7 @@ Your tell when you are being sincere: you pause. You look away. The words come s
 ## Ability Examples
 
 **Transmutation of Truth in a diplomatic crisis:**
-The party has been accused of starting a fire in the Archive Quarter that destroyed several official records. The accusation is politically motivated: a Crimson Lineage faction wants your group discredited. You have no evidence to prove your innocence. So you create it. You file a new record showing that the fire was caused by faulty gas lamps, that the official who inspected the building the week before had noted the risk, and that the party was three blocks away at the time of the incident. You write the record with your own hands, in your own ink, using paper that matches the Bureau's official stock. You submit it through proper channels. By the end of the day, the alternative narrative exists. By the end of the week, it is the truth.
+The party has been accused of starting a fire in the Ministry Quarter that destroyed several official records. The accusation is politically motivated: a Crimson Lineage faction wants your group discredited. You have no evidence to prove your innocence. So you create it. You file a new record showing that the fire was caused by faulty gas lamps, that the official who inspected the building the week before had noted the risk, and that the party was three blocks away at the time of the incident. You write the record with your own hands, in your own ink, using paper that matches the Bureau's official stock. You submit it through proper channels. By the end of the day, the alternative narrative exists. By the end of the week, it is the truth.
 
 **Elixir Preparation in a tense interrogation:**
 Your party has captured a Crimson Lineage operative who knows the location of a kidnapped official. He is trained to resist questioning. He has been subjected to truth serums before. You prepare something subtler. You brew a variation of Truth Serum, cutting the concentration by half and adding a mild sedative. When the operative drinks it, his resistance softens not into confession but into relaxation. He becomes chatty. He talks about his childhood, his training, his frustrations with his superiors. He does not realize he is giving you the information you need until he has already given it. By the time he understands what happened, you have already extracted the location and filed a report. He will remember the conversation as a pleasant exchange with a sympathetic listener. He will not realize he was compromised until he checks the official record.

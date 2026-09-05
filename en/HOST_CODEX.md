@@ -54,7 +54,7 @@ Even experienced Hosts make errors. Here are the most common pitfalls specific t
 
 **Mistake Five: Making Every Official a Hostile Bureaucrat.** The Court is full of petty tyrants and obstructionists. It is also full of people who are kind, afraid, corruptible in interesting ways, or genuinely trying to do good within a broken system. If every official the players meet is a sneering obstacle, the world feels cartoonish. Vary the interactions. Some officials are helpful because they are naive. Some are helpful because they see an opportunity. Some are helpful because they are being used by a larger player. Surprise the players with kindness from unexpected quarters. It makes the cruelty more real when it arrives.
 
-**Mistake Six: Ignoring Player Backstories.** The character creation chapter encourages players to embed their characters in the Court's fabric. A player who chose the "family indebted to the Crimson Lineage" background has given you a hook. Use it. Have a member of the family call in the debt. Have a rival family emerge seeking revenge. Have the Iron Bone mention in passing that he knew the player's grandfather. Every detail in a character's backstory is a gift. It is an invitation to make the world personal. A threat to a character's family is more compelling than a threat to a random village. A revelation about a character's past is more powerful than a revelation about a stranger's.
+**Mistake Six: Ignoring Player Backstories.** The character creation chapter encourages players to embed their characters in the Court's fabric. A player who chose the "family indebted to the Crimson Lineage" background has given you a hook. Use it. Have a member of the family call in the debt. Have a rival family emerge seeking revenge. Have Iron Bone mention in passing that he knew the player's grandfather. Every detail in a character's backstory is a gift. It is an invitation to make the world personal. A threat to a character's family is more compelling than a threat to a random village. A revelation about a character's past is more powerful than a revelation about a stranger's.
 
 **Mistake Seven: Resisting Player Ideas.** A player says "I want to start a rumor that the Bright Mirror is corrupt. I have a plan." Your instinct might be to protect your vision. You have prepared the Bright Mirror as an incorruptible figure. A rumor that he is corrupt undermines that. Resist the instinct to say no. Instead, ask: how do you do this? Who do you approach first? What evidence do you plant? The Court is a system of perception and belief. If the players invest resources in changing what people believe, let them. The Bright Mirror will eventually learn who started the rumor. He will respond. But the rumor itself can change the Court's dynamics in ways you never anticipated. The players will feel powerful. The Bright Mirror will become a more complex figure: someone whose reputation can be damaged despite his actual purity. This is interesting.
 
@@ -214,7 +214,7 @@ _Hidden secret:_ Beneath a particular fruit stall there is a trapdoor leading to
 
 _Read aloud when the players first approach:_
 
-"The Teahouse of Whispered Petitions is easy to miss. It sits on a narrow street off a narrow alley, its entrance no wider than a door. There is no sign. You would walk past it a hundred times without noticing. But those who know look for the single red lantern hanging above the door, always lit, even at midday. Inside, the teahouse is a single long room lit by paper lanterns that cast a warm golden light. The floor is raised tatami. The walls are simple, undecorated white plaster. There is no furniture except low tables and cushions. It is always quiet, even when full. People do not come here to be heard. They come here to speak without being overheard. The proprietress is a woman in middle age named Mistress Lien who moves with the grace of someone who was once a warrior. She remembers every face that has crossed her threshold. She has never repeated a confidence."
+"The Teahouse of Whispered Petitions is easy to miss. It sits on a narrow street off a narrow alley, its entrance no wider than a door. There is no sign. You would walk past it a hundred times without noticing. But those who know look for the single red lantern hanging above the door, always lit, even at midday. Inside, the teahouse is a single long room lit by paper lanterns that cast a warm golden light. The floor is raised tatami. The walls are simple, undecorated white plaster. There is no furniture except low tables and cushions. It is always quiet, even when full. People do not come here to be heard. They come here to speak without being overheard. The proprietress is a woman in her sixties named Mistress Lien whose burned hands still move with the grace of someone who was once a warrior. She remembers every face that has crossed her threshold. She has never repeated a confidence."
 
 _What the players sense as they enter:_ The quiet is the first thing you notice. The street noise vanishes when the door closes. The air smells of jasmine tea and incense. The cushions are worn soft by years of use. Other patrons do not look up when you enter. They have learned not to. Mistress Lien greets each guest with a slight bow and a question: "Would you prefer a table near the window or near the fire?" The window tables are for those who want to be seen. The fire tables are for those who do not. The distinction is never explained. It is simply understood.
 
@@ -241,6 +241,8 @@ _Interactive elements:_
 3. The Celestial Book's Balcony: From the Archive tower, which is the only building that overlooks the Spire's perimeter, there is a balcony where the Celestial Book sometimes stands. She does not watch the Spire. She watches those who watch the Spire. If a player catches her eye, she raises her hand in a gesture that could be a greeting or a warning. It has never been clear which.
 
 _Hidden secret:_ The Spire is a prison. The first generation of Court elders sealed the Sun Emperor inside against His will and completed the outer seal in Year 297. At the founding, the sacrifice or binding of the land's original guardians made the Emperor a replacement living conduit between Heaven and Earth. The final sealing severed that conduit. The Crimson Dusk is the delayed wound left by both acts. The chant maintains the prison, not an act of worship. The red pulse is the wounded world pressing against the broken channel, and the pressure grows stronger as the seal weakens.
+
+---
 
 ## Part Four: Harmonization Audits
 
@@ -305,17 +307,17 @@ The Risk table assumes the following definitions for Faction Standing:
 
 **Moderate Protection (Faction Standing 10 to 29):** You have a faction that values you enough to offer some protection. They will not risk their own position for you, but they will speak on your behalf and may quietly intervene if the cost is low. The protection is real but limited.
 
-**No Protection (Faction Standing -9 to +9):** You have no faction willing to protect you. You stand alone. Your fate depends entirely on your Ritual Harmony and your own actions during the Audit. This is the default state for most characters at the start of a campaign.
+**No Protection (Faction Standing minus 9 to plus 9):** You have no faction willing to protect you. You stand alone. Your fate depends entirely on your Ritual Harmony and your own actions during the Audit. This is the default state for most characters at the start of a campaign.
 
-**Enemies (Faction Standing -10 or below):** A faction actively works against you. They will provide evidence, testimony, or rumors to the Commission. Having enemies does not guarantee you will be targeted, but it means someone with influence is actively trying to make you the target.
+**Enemies (Faction Standing minus 10 or below):** A faction actively works against you. They will provide evidence, testimony, or rumors to the Commission. Having enemies does not guarantee you will be targeted, but it means someone with influence is actively trying to make you the target.
 
 **Ritual Harmony Baseline.** A character's Ritual Harmony determines their row in the table. Ritual Harmony 60+ places a character in the safest band, reflecting a life aligned with the Court's expectations. Ritual Harmony 40 to 59 is the standard starting range, representing normal variance in adherence to doctrine. Ritual Harmony 20 to 39 reflects a pattern of deviation that has been noticed. Ritual Harmony below 20 indicates a character who lives at the edges of what the Court tolerates.
 
 ### Worked Example: Calculating Risk
 
-Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage -12, Common Flame +15, Bright Mirror +10.
+Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage minus 12, Common Flame +15, Bright Mirror +10.
 
-Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has -12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
+Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has minus 12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
 On the table, comparing Ritual Harmony 40 to 59 with Moderate Protection gives a Risk Level of "Moderate Risk." This means on a d20, Mara is Cleared on 12+, Sanctioned on 5 to 11, and Disappeared on 1 to 4. She has a thirty five percent chance of being Sanctioned and a twenty percent chance of Disappearing. She will probably survive, but better than half her survival is owed to a single faction that has decided she is worth a word in the right room.
 
@@ -777,7 +779,7 @@ _Additional Scene Seeds._
 
 **Scene Seed:** The players encounter him in a worker's canteen in the Eastern Foundries, not as a leader but as someone who came to eat and listen. He buys them a meal. He asks about their lives before the Court. He genuinely wants to know. When someone at the next table mentions a recent factory death, his eyes flicker, and for a moment, something much older than him looks out through his pupils.
 
-_First Impression._ The Iron Bone looks like a factory worker who has been promoted too many times. His hands are scarred. His face is lined. His clothes are simple and practical. He moves through the world like someone who expects to be ignored, which is useful because it means people underestimate him constantly. When he speaks in his first voice, it is warm, genuine, filled with the particular charisma of someone who actually believes what he is saying. He makes eye contact. He listens when others speak. He remembers names. But there is a second presence behind his eyes, something ancient and hungry that stirs when he is angry or passionate. The players can see it when he talks about the factory deaths. They can hear it when his voice drops. They sense that the Iron Bone is not one person. He is a door, and something lives behind the door.
+_First Impression._ The Iron Bone looks like a factory worker who has been promoted too many times. His hands are scarred. His face is lined. His clothes are simple and practical. He moves through the world like someone who expects to be ignored, which is useful because it means people underestimate him constantly. When he speaks in his first voice, it is warm, genuine, filled with the particular charisma of someone who actually believes what he is saying. He makes eye contact. He listens when others speak. He remembers names. But there is a second presence behind his eyes, something ancient and hungry that stirs when he is angry or passionate. The players can see it when he talks about the factory deaths. They can hear it when his voice drops. They sense that Iron Bone is not one person. He is a door, and something lives behind the door.
 
 _Sample Quotes for the Host._
 
@@ -791,7 +793,7 @@ _What He Is Doing Right Now._ The Iron Bone is organizing on three fronts. First
 
 _If the Players Ally With Him._ He welcomes them as equals, not followers. He shares everything he knows. He introduces them to his network. He asks for their skills, their ideas, their criticism. He is the least hierarchical leader in the Court. He genuinely believes that the movement belongs to everyone, not to him. He will follow the players' lead if they demonstrate better judgment. This is not humility. It is strategy. He knows he is a weapon. He wants to be aimed by people he trusts.
 
-_If the Players Oppose Him._ He is hurt but not vengeful. He tries to understand their objections. He attempts to persuade them. If they become a threat, he does not attack them directly. He sends the wolf. He does this reluctantly, knowing that each time he unleashes the wolf, it becomes harder to cage it again. A player who opposes the Iron Bone may find themselves facing something that is not quite human.
+_If the Players Oppose Him._ He is hurt but not vengeful. He tries to understand their objections. He attempts to persuade them. If they become a threat, he does not attack them directly. He sends the wolf. He does this reluctantly, knowing that each time he unleashes the wolf, it becomes harder to cage it again. A player who opposes Iron Bone may find themselves facing something that is not quite human.
 
 _If the Players Ignore Him._ He continues his work. The movement grows with or without them. When the revolution comes, and he believes it will come, the players will have to choose a side. Ignoring him now does not mean the choice will not arrive later.
 
@@ -1229,13 +1231,13 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Where It Takes Place.** The Plaza of Manifest Virtue, a wide stone square in the Inner Court. Midday. "The crowd is thick. Hundreds of officials, merchants, and onlookers have gathered. In the center of the plaza, a wooden platform has been erected. On the platform kneels a man in prisoner's grey. His hands are bound behind him. A Commission herald reads the charges in a voice trained to carry: corruption, heretical association, conspiracy against the Grand Council. The condemned man does not look up. He seems almost bored. To your shock, you recognize him. He is the clerk who served you tea at the Ministry last week."
 
-**NPC.** The condemned man's name is Ren. He is not a criminal. He is a scapegoat. A faction needed someone to take the fall for a failed operation, and Ren was the most expendable person in the building. He knows this. He accepted the deal because they promised his family would be protected. They have not kept that promise.
+**NPC.** The condemned man's name is Han. He is not a criminal. He is a scapegoat. A faction needed someone to take the fall for a failed operation, and Han was the most expendable person in the building. He knows this. He accepted the deal because they promised his family would be protected. They have not kept that promise.
 
-**Complication.** The execution is public. Intervening means exposing yourself before the entire Court. The Commission guards are numerous. The crowd is watching. But Ren's wife is in the crowd, and she is looking at the players with desperate hope. She knows they know the truth.
+**Complication.** The execution is public. Intervening means exposing yourself before the entire Court. The Commission guards are numerous. The crowd is watching. But Han's wife is in the crowd, and she is looking at the players with desperate hope. She knows they know the truth.
 
 **Twists for Specific Archetypes.** A Night Warbler can spot three Commission agents in the crowd who are watching for anyone who reacts too strongly. A Bright Mirror can see that the Commission herald's hands are shaking as he reads the charges. An Iron Wall recognizes the executioner as a former soldier who was discharged for refusing an order.
 
-**Possible Outcome.** The players do nothing and gain nothing but the memory of Ren's wife's face. Or they cause a distraction that lets Ren escape, making a powerful enemy in the faction that wanted him dead. Or they produce evidence of his innocence at the last moment, turning the execution into a political crisis.
+**Possible Outcome.** The players do nothing and gain nothing but the memory of Han's wife's face. Or they cause a distraction that lets Han escape, making a powerful enemy in the faction that wanted him dead. Or they produce evidence of his innocence at the last moment, turning the execution into a political crisis.
 
 ### Scene Four: The Tea That Tells
 
@@ -1269,7 +1271,7 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Hook.** A disgraced scholar begs the players for shelter, claiming to have discovered something the Court wants buried.
 
-**Where It Takes Place.** The scholars' quarter, a quiet district of bookshops and scriptoria. Night. "The street is empty. The lanterns have been extinguished. The only light comes from a single window on the second floor of a bookbindery. That is where you find him: a man in his sixties, wearing the stained robes of someone who has been sleeping rough. His hands are covered in paper cuts and ink stains. He has been destroying documents. Not valuable ones. Just small pieces, things he could carry. He looks up when you enter and says your name. He has been waiting for you."
+**Where It Takes Place.** The Academic Quarter, the quiet campus of bookshops and scriptoria west of the capital. Night. "The street is empty. The lanterns have been extinguished. The only light comes from a single window on the second floor of a bookbindery. That is where you find him: a man in his sixties, wearing the stained robes of someone who has been sleeping rough. His hands are covered in paper cuts and ink stains. He has been destroying documents. Not valuable ones. Just small pieces, things he could carry. He looks up when you enter and says your name. He has been waiting for you."
 
 **NPC.** Scholar Heng was a respected historian until his last publication, which questioned the official timeline of the Court's founding. He was stripped of his rank and his access to the Archives. He has been in hiding for eight months. He has found something in the private collections of a sympathetic patron. "The Court's founding documents are not originals. They are copies. The originals were destroyed a year after the Emperor was sealed. Someone wanted to erase what the founding truly required. I have found a fragment of the original. It describes a ritual. A human sacrifice. The Emperor was not sealed. He was bound. There is a difference."
 
@@ -1283,7 +1285,7 @@ These twelve scenes are ready to drop into any session. Each is designed to run 
 
 **Hook.** A celebration is interrupted by a mysterious message.
 
-**Where It Takes Place.** The Plaza of Celestial Harmony, decorated for the Festival of a Thousand Lanterns. Lanterns in every color hang from wires stretched between buildings. Musicians play on a raised platform. "The plaza is alive with color and noise. Thousands of paper lanterns cast a warm glow over the crowd. Children run between the legs of adults. Food vendors call out prices. A troupe of actors performs a comedic skit about a foolish official who tried to outsmart the Iron Calculation. The crowd roars with laughter. Then the lanterns go out. All at once. The plaza plunges into darkness. For a single heartbeat, there is silence. Then the screams begin."
+**Where It Takes Place.** The Plaza of Celestial Harmony, decorated for the Festival of Great Harmony. Lanterns in every color hang from wires stretched between buildings. Musicians play on a raised platform. "The plaza is alive with color and noise. Thousands of paper lanterns cast a warm glow over the crowd. Children run between the legs of adults. Food vendors call out prices. A troupe of actors performs a comedic skit about a foolish official who tried to outsmart the Iron Calculation. The crowd roars with laughter. Then the lanterns go out. All at once. The plaza plunges into darkness. For a single heartbeat, there is silence. Then the screams begin."
 
 **NPC.** A performer from the acting troupe, a woman named Rulan, is found holding a piece of paper that appeared on the stage during the blackout. She hands it to the players with trembling hands. The message reads: "The Dusk is not at the border. It is here. Look up." When the players look up, they see that the red glow from the Spire of Eternal Vigil is brighter than it has ever been.
 
@@ -1575,9 +1577,9 @@ _Two Complications._ 1) One of the players is related to a figure who was involv
 
 _Situation._ A Dusk event occurs within sight of the capital. The Grand Council is paralyzed. The players must take independent action to protect a district, a faction, or a person they care about.
 
-_Key NPCs Involved._ The Iron Wall (organizing the defense), the Iron Bone (mobilizing the workers), the Guest Among Forests (coordinating relief).
+_Key NPCs Involved._ The Iron Wall (organizing the defense), Iron Bone (mobilizing the workers), the Guest Among Forests (coordinating relief).
 
-_Three Possible Player Approaches._ 1) Help the Iron Wall with military defense. 2) Help the Iron Bone with civilian evacuation. 3) Use the chaos to infiltrate the Spire of Eternal Vigil.
+_Three Possible Player Approaches._ 1) Help the Iron Wall with military defense. 2) Help Iron Bone with civilian evacuation. 3) Use the chaos to infiltrate the Spire of Eternal Vigil.
 
 _Two Complications._ 1) The Dusk event is not natural. It was triggered deliberately to create chaos. 2) A figure the players trusted uses the crisis to seize power, betraying the party.
 
@@ -1649,9 +1651,9 @@ _Two Complications._ 1) The Bright Mirror has been watching and intercepts the p
 
 _Situation._ The players are in a border city when the Dusk advances faster than predicted. They must evacuate, survive, and make impossible choices about who to save.
 
-_Key NPCs Involved._ The Iron Wall (commanding the evacuation), the Iron Bone (organizing civilian resistance), local officials (who are overwhelmed or corrupt).
+_Key NPCs Involved._ The Iron Wall (commanding the evacuation), Iron Bone (organizing civilian resistance), local officials (who are overwhelmed or corrupt).
 
-_Three Possible Player Approaches._ 1) Help the Iron Wall with the military evacuation. 2) Help the Iron Bone with civilian escape routes. 3) Use the chaos to acquire resources and information from abandoned buildings.
+_Three Possible Player Approaches._ 1) Help the Iron Wall with the military evacuation. 2) Help Iron Bone with civilian escape routes. 3) Use the chaos to acquire resources and information from abandoned buildings.
 
 _Two Complications._ 1) A player's contact or ally is trapped in the Dusk zone. 2) The retreat is ordered too late, and the players are cut off.
 
@@ -2066,9 +2068,9 @@ _Outcome._ The player rolled a 17. The lock clicked open in their hands. The mer
 
 _What the Rules Say._ The Wolf Rises is a combat Technique that transforms the character and has defined mechanical effects for combat only. It has no explicit social application in the rules.
 
-_How the Host Adjudicated._ The Host ruled that the wolf inside the Iron Bone is not just a combat transformation; it is a presence that others can sense even when the character is in human form. The player did not need to fully transform. They let the wolf show in their eyes, their voice, the subtle shift of their posture. The Host set this as a contested roll: the player's Presence plus Intimidation (with Advantage because of the wolf's supernatural menace) against the agent's Resolve plus Insight. The stakes were layered: immediate success would end the interrogation with the agent talking freely, but the agent would report the encounter to the Commission, flagging the player as a potential threat for future Audits.
+_How the Host Adjudicated._ The Host ruled that the wolf inside Iron Bone is not just a combat transformation; it is a presence that others can sense even when the character is in human form. The player did not need to fully transform. They let the wolf show in their eyes, their voice, the subtle shift of their posture. The Host set this as a contested roll: the player's Presence plus Intimidation (with Advantage because of the wolf's supernatural menace) against the agent's Resolve plus Insight. The stakes were layered: immediate success would end the interrogation with the agent talking freely, but the agent would report the encounter to the Commission, flagging the player as a potential threat for future Audits.
 
-_Outcome._ The player rolled well. The captured Commission agent felt something ancient and hungry looking out through the Iron Bone's eyes. The agent talked. The player got the information they needed. But the agent's report to the Commission included the phrase "subject displayed unnatural aggression." The Commission placed a note in the player's permanent file. Months later, when an Audit came, that note increased the player's Risk by one level. The creative solution worked in the moment but created a consequence that resonated into future sessions, a fair trade for using a combat ability as a social weapon.
+_Outcome._ The player rolled well. The captured Commission agent felt something ancient and hungry looking out through Iron Bone's eyes. The agent talked. The player got the information they needed. But the agent's report to the Commission included the phrase "subject displayed unnatural aggression." The Commission placed a note in the player's permanent file. Months later, when an Audit came, that note increased the player's Risk by one level. The creative solution worked in the moment but created a consequence that resonated into future sessions, a fair trade for using a combat ability as a social weapon.
 
 **Scenario Thirteen: Player Backstory Contradicts Adventure Assumptions.** The adventure assumes the Shadow is an elusive NPC that the players must track down and negotiate with for information about a conspiracy. One player has chosen the Shadow archetype, and their backstory establishes them as the only living figure operating under that name. The adventure's plot cannot proceed as written because the figure the players are supposed to find is standing right next to them.
 
@@ -2245,7 +2247,7 @@ Then help the player create a new character who is connected to the party. The n
 
 The Violet Court deals with difficult themes: oppression, corruption, betrayal, death. These are part of the game's design. They can also be genuinely upsetting to players.
 
-Before the campaign begins, use the Consent Checklist from the core book. Identify what topics individual players want to avoid entirely, what topics they are comfortable with handled carefully, and what topics are fully acceptable. Write these down. Keep them accessible during sessions.
+Before the campaign begins, use the Session Zero guidance in the core book (Appendix O). Identify what topics individual players want to avoid entirely, what topics they are comfortable with handled carefully, and what topics are fully acceptable. Write these down. Keep them accessible during sessions.
 
 During play, use the "pause and check" technique. If a scene is approaching a sensitive topic, pause and ask: "Is everyone comfortable continuing this scene?" Give players permission to say no. The response "I think we should fade to black here" should always be honored without question.
 
@@ -2309,7 +2311,7 @@ The Violet Court supports a wide range of character types. When your table has m
 
 **Rotate the primary challenge.** Each session or story arc, design the central challenge around a different character's strengths. One session features a negotiation the Bright Mirror must lead. The next features an infiltration the Night Warbler must execute. The next features a puzzle the Celestial Book must solve. Players learn to support each other and step back when someone else's skills are needed. The rotation does not need to be rigid, but it should be visible enough that each player feels their moment is coming.
 
-**Build scenes with layered challenges.** A single scene can serve multiple characters at once. A negotiation with a Crimson Lineage representative tests the Duke of Eternal Night's ancient authority while also being the moment the Iron Bone must control their temper and the Cinnabar Heart must spot the forgery in the documents being presented. Every character has something to do in the same scene, and no one feels like an observer.
+**Build scenes with layered challenges.** A single scene can serve multiple characters at once. A negotiation with a Crimson Lineage representative tests the Duke of Eternal Night's ancient authority while also being the moment Iron Bone must control their temper and the Cinnabar Heart must spot the forgery in the documents being presented. Every character has something to do in the same scene, and no one feels like an observer.
 
 **Use brief solo vignettes.** Between major group scenes, give each player a short solo moment. What is your character doing while the others prepare? The Iron Wall drills with the garrison. The Shadow visits their contacts in the Warrens. The Guest Among Forests walks in the garden and communes with the plants. These vignettes need only be a minute or two each, but they let each character feel like they have a life beyond the party.
 

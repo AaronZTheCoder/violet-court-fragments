@@ -66,7 +66,7 @@ You have also, four times, declined to intervene when intervening would have cos
 
 **The Sealing, and the eleven paces.** You voted against the Sealing and lost. You were in the antechamber among the first generation of elders who stood the watch.
 
-He stopped at the threshold, looked back for about four seconds, and said something. You were eleven paces away. The acoustics were poor. You have spent one hundred and sixty four years certain it was addressed to one specific person and unable to determine who, and you will not speculate about the words, and if a player presses you on it you become angry in a way that surprises everyone including you.
+He stopped at the threshold, looked back for about four seconds, and said something. You were eleven paces away. The acoustics were poor. You have spent one hundred and fifty five years certain it was addressed to one specific person and unable to determine who, and you will not speculate about the words, and if a player presses you on it you become angry in a way that surprises everyone including you.
 
 Eight years later his personal attendant led eight others to the Spire with tools. You knew that man for forty years. You had eaten at his table.
 
@@ -74,7 +74,7 @@ You were told what was planned. Two days in advance, by him, in confidence, beca
 
 You said you would think about it. Then you did nothing, and said nothing, and they were stopped, and Disappeared, and their names struck.
 
-You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had one hundred and fifty six years to make peace with probably and have not managed it.
+You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had one hundred and forty seven years to make peace with probably and have not managed it.
 
 **Why you are still here.** You are the last person alive who remembers the empire with the Emperor in it. Not the last who has read about it. The last who stood in a room with Him.
 
@@ -159,8 +159,8 @@ The assassin's blade finds your heart. You feel the steel part flesh, muscle, th
 
 ## Expanded Truths
 
-**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
-_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and fifty five years to be vindicated. Your pride may have doomed the empire.
+**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty four years.
+_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and sixty four years to be vindicated. Your pride may have doomed the empire.
 
 **Suggested Truth 2 (Existing):** The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 _Complication:_ Your exiled heir has discovered something you have kept hidden for centuries, a truth about the Crimson Lineage's founding that would destroy the family if revealed. He is not planning to kill you. He is planning to expose you. His renewed bid for power is a distraction. The real weapon is the truth.
@@ -295,7 +295,7 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 Choose one, or create your own with the Host:
 
-- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
+- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty four years.
 - The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 - You have been feeding on a specific senior official for decades. They do not know. They believe they have a chronic illness. You have grown fond of them.
 - The Crimson Dusk is a wound in the world. You know what caused it. You helped cause it. Not intentionally. But intentions matter less than consequences, and you have lived long enough to know that.

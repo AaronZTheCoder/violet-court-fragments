@@ -70,15 +70,15 @@ Here is what a first session might sound like at the table. The Host has prepare
 
 Host: "The rain has been falling for three days. It falls now in sheets across the Outer City, turning the unpaved streets to mud. You stand in the courtyard of the Azure Lotus Teahouse, a modest establishment in the shadow of the great walls of the Inner City. The lanterns are lit. Warm light spills from the windows. Inside, you can hear someone playing a stringed instrument badly. The air smells of wet stone and frying oil. Two of you arrived together. One of you was already here, nursing a cup of tea and watching the rain. How do you want to begin?"
 
-Player 1 (Duke of Eternal Night): "I am the one inside. I have been here for an hour, sitting at a table near the window where I can see the door. I am not drinking the tea. I am just watching the rain. And the other patrons."
+Player 1 (Veren, a Duke of Eternal Night): "I am the one inside. I have been here for an hour, sitting at a table near the window where I can see the door. I am not drinking the tea. I am just watching the rain. And the other patrons."
 
 Host: "The teahouse is quiet. Four other tables are occupied. A merchant and his bodyguard argue over a bill of lading. Two clerks huddle over documents. An old woman sits alone, muttering to herself. The door opens."
 
-Player 2 (Night Warbler): "I step through the door, shaking water from my cloak. I scan the room quickly. I am looking for exits, for threats, for faces that watch too closely."
+Player 2 (Kestrel, a Night Warbler): "I step through the door, shaking water from my cloak. I scan the room quickly. I am looking for exits, for threats, for faces that watch too closely."
 
-Player 3 (Celestial Book): "I am right behind him. I close my umbrella and tap it twice on the floor to shake off the water. I nod to the proprietor."
+Player 3 (Scholar Lin, a Celestial Book): "I am right behind him. I close my umbrella and tap it twice on the floor to shake off the water. I nod to the proprietor."
 
-Host: "The proprietor, a sturdy woman with broad shoulders and greying hair tied in a severe knot, nods back. She gestures to an empty table near the hearth. The warmth of the fire reaches you even from across the room. The Duke of Eternal Night at the window table has not turned to look at you."
+Host: "The proprietor, a sturdy woman with broad shoulders and greying hair tied in a severe knot, nods back. She gestures to an empty table near the hearth. The warmth of the fire reaches you even from across the room. Veren at the window table has not turned to look at you."
 
 Player 1: "I have. I turn now. I meet the eyes of the Night Warbler and incline my head slightly. I recognize him. We have worked together before."
 
@@ -222,7 +222,7 @@ Host: "The Celestial Book does not accuse you. She simply tilts her head and say
 
 A Guest Among Forests named Willow attempts to follow a target through the night market.
 
-Host: "The Night Market of Whispers is packed. Stalls crowd every available surface. Lanterns swing overhead. The smell of grilled fish and burning incense fills the air. Your target, a thin man in a grey coat, weaves through the crowd. If you lose sight of him, he is gone."
+Host: "The Night Market is packed. Stalls crowd every available surface. Lanterns swing overhead. The smell of grilled fish and burning incense fills the air. Your target, a thin man in a grey coat, weaves through the crowd. If you lose sight of him, he is gone."
 
 Willow's player: "Before we came here, I bought a small jar of pungent fish oil from a vendor. I dabbed some on the inside of my sleeve earlier. When I bumped into the target at the entrance, I transferred a trace to his collar. Now I can follow the smell."
 
@@ -276,11 +276,11 @@ Full details for each Archetype are provided in the Character Dossiers supplemen
 
 These defaults govern the named Court figures, the Stray Stroke, and every unmarked example in this build. A player may choose any gender for a player character without changing mechanics, history options, or advancement.
 
-**How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or the Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Do you want to be the one person the record cannot resolve into a single man, and find out what that costs? The Stray Stroke. Your Archetype is not your destiny. It is your starting point.
+**How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Do you want to be the one person the record cannot resolve into a single man, and find out what that costs? The Stray Stroke. Your Archetype is not your destiny. It is your starting point.
 
 Three of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach him and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. The Stray Stroke has been entered into the record eleven times under eleven genuine names, so that the empire holds eleven true accounts of him and cannot assemble a single one, which leaves him unreachable and unprotected in exactly equal measure. If your table wants a character who is outside the hierarchy rather than inside it, these are the three doors.
 
-**Example choice.** A player named Mira wants to play a character who is a scholar drawn into dangerous politics. She reads the Archetype descriptions. The Celestial Book offers access to forbidden knowledge and a position in the archives, which appeals to her. The Cinnabar Heart offers alchemy and the manipulation of information through the Bureau of Harmonious Narrative. She chooses the Celestial Book, deciding her character is an archivist who found a document she was not meant to see.
+**Example choice.** A player named Lan wants to play a character who is a scholar drawn into dangerous politics. She reads the Archetype descriptions. The Celestial Book offers access to forbidden knowledge and a position in the archives, which appeals to her. The Cinnabar Heart offers alchemy and the manipulation of information through the Bureau of Harmonious Narrative. She chooses the Celestial Book, deciding her character is an archivist who found a document she was not meant to see.
 
 ### Step Two: Assign Your Facets
 
@@ -297,9 +297,9 @@ Every character has six **Facets** that measure their core capabilities:
 
 Your Archetype provides a baseline array of Facet scores. You then have **six additional points** to distribute among your Facets as you wish. You may not raise any Facet above 18 with these points. A few Archetypes begin with a signature Facet of 20: the Celestial Book's Intellect and Resolve, the Incense Crown's and the Duke's Presence. That score is the Archetype's gift rather than something you bought, and it cannot be raised further.
 
-**Facet Modifier:** Your Facet Modifier equals (Facet Score minus 10) divided by 2, rounded down. A Facet of 14 gives a modifier of +2. A Facet of 8 gives a modifier of -1.
+**Facet Modifier:** Your Facet Modifier equals (Facet Score minus 10) divided by 2, rounded down. A Facet of 14 gives a modifier of +2. A Facet of 8 gives a modifier of minus 1.
 
-**Example assignment.** Mira's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of her.
+**Example assignment.** Lan's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of her.
 
 ### Step Three: Select Skills
 
@@ -349,7 +349,7 @@ _Resolve Skills:_
 
 **Pairing a Skill with a different Facet.** The Facet listed beside each Skill is its default, not its only pairing. When the fiction clearly calls for a different one, the Host may pair a Skill with whatever Facet the situation demands: Intimidation with Presence when a character menaces by sheer bearing rather than muscle, Craft with Swiftness when the work is delicate rather than clever, Lore with Resolve when the question is whether you can recall it under interrogation. Proficiency still applies. The Host should name the pairing aloud before the roll so the table can see the logic.
 
-**Example selection.** The Celestial Book Archetype grants proficiency in Lore, Investigation, and Qi Theory. Mira needs to choose two more. Her character is an archivist, but she wants her to have some practical skills for when things go wrong. She chooses Insight (Resolve) to read dangerous people, and Deception (Presence) because archivists who cannot lie do not survive long in the Court. She records these five skills on her dossier.
+**Example selection.** The Celestial Book Archetype grants proficiency in Lore, Investigation, and Qi Theory. Lan needs to choose two more. Her character is an archivist, but she wants her to have some practical skills for when things go wrong. She chooses Insight (Resolve) to read dangerous people, and Deception (Presence) because archivists who cannot lie do not survive long in the Court. She records these five skills on her dossier.
 
 ### Step Four: Determine Derived Values
 
@@ -363,7 +363,7 @@ _Resolve Skills:_
 
 **Defense:** 10 + Swiftness Modifier. The base TN for attacks targeting you.
 
-**Example calculation.** Mira's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier -1), with no Archetype bonus, so -1. Defense: 10 + (-1) = 9. She is the most fragile character at the table and the hardest to break.
+**Example calculation.** Lan's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier minus 1), with no Archetype bonus, so minus 1. Defense: 10 + (minus 1) = 9. She is the most fragile character at the table and the hardest to break.
 
 ### Step Five: Starting Resources
 
@@ -386,7 +386,7 @@ Examples:
 
 Your Truth should be something the Host can use to create personal stakes in the larger story.
 
-**Example Truth.** Mira decides that her Celestial Book, Scholar Jinhai, found a fragment of a journal in the archive stacks. The journal appears to be written in the Sun Emperor's own hand and dated fifty years after the Sun Emperor withdrew from public life. The fragment mentions something called "the First Omission." Jinhai has told no one about this discovery. She keeps the fragment hidden in her quarters. The Host now has a plot hook: what is the First Omission, and who else is looking for this journal?
+**Example Truth.** Lan decides that her Celestial Book, Scholar Jinhai, found a fragment of a journal in the archive stacks. The journal appears to be written in the Sun Emperor's own hand and dated fifty years after the Sun Emperor withdrew from public life. The fragment mentions something called "the First Omission." Jinhai has told no one about this discovery. She keeps the fragment hidden in her quarters. The Host now has a plot hook: what is the First Omission, and who else is looking for this journal?
 
 ### Step Seven: Faction Standing
 
@@ -404,7 +404,7 @@ Answer these three questions:
 
 Share your answers with the Host. They will use them.
 
-**Example history.** Mira writes: "Jinhai was born in a small town in the eastern province of Serene Waters. Her family were paper makers. She was recruited into the Bureau of Celestial Inquiry at age twelve because a visiting examiner noticed her ability to memorize documents after reading them once. She has spent eighteen years in the archives. She has always believed the archives exist to preserve truth. The fragment of the Emperor's journal has made her question everything."
+**Example history.** Lan writes: "Jinhai was born in a small town in the eastern prefecture of Serene Waters. Her family were paper makers. She was recruited into the Bureau of Celestial Inquiry at age twelve because a visiting examiner noticed her ability to memorize documents after reading them once. She has spent eighteen years in the archives. She has always believed the archives exist to preserve truth. The fragment of the Emperor's journal has made her question everything."
 
 Her answers: "I want most to understand the truth about the Emperor's silence. I would never destroy knowledge, even knowledge that condemns me. My bond is to my younger sister, a clerk in the Bureau of Harmonious Narrative who does not know what I have found."
 
@@ -475,7 +475,7 @@ In combat, Might determines melee attack rolls and melee damage. Outside combat,
 
 **What Might feels like at different scores.**
 
-**Might 6 (modifier -2).** You are physically frail. A heavy stack of books winded you. You struggle to open a stubborn window. In a fight, you rely entirely on speed, guile, or weapons of convenience. A shove from an ordinary person might knock you off balance. You have learned to avoid physical confrontations because you rarely win them.
+**Might 6 (modifier minus 2).** You are physically frail. A heavy stack of books winded you. You struggle to open a stubborn window. In a fight, you rely entirely on speed, guile, or weapons of convenience. A shove from an ordinary person might knock you off balance. You have learned to avoid physical confrontations because you rarely win them.
 
 **Might 10 (modifier +0).** You are an ordinary person with ordinary strength. You can carry your own belongings, walk all day, and hold your own in a bar fight if you have to. You are not impressive, but you are not a liability. The average soldier, laborer, and farmer all share this level.
 
@@ -493,7 +493,7 @@ In combat, Swiftness determines initiative, Defense, and ranged attack rolls. Ou
 
 **What Swiftness feels like at different scores.**
 
-**Swiftness 6 (modifier -2).** You are clumsy and slow. You trip on uneven floors. You knock things over when reaching for them. You cannot catch a thrown object. You are always the last to react in a crisis. You have bruises from walking into door frames and you do not remember how you got most of them.
+**Swiftness 6 (modifier minus 2).** You are clumsy and slow. You trip on uneven floors. You knock things over when reaching for them. You cannot catch a thrown object. You are always the last to react in a crisis. You have bruises from walking into door frames and you do not remember how you got most of them.
 
 **Swiftness 10 (modifier +0).** You move like an average person. You can catch a ball if you concentrate. You can walk quietly across a wooden floor if you try. You are neither graceful nor clumsy. You simply exist in space and occasionally bump into furniture.
 
@@ -511,7 +511,7 @@ Endurance directly determines Hit Points and governs resistance to physical harm
 
 **What Endurance feels like at different scores.**
 
-**Endurance 6 (modifier -2).** You are fragile. A hard fall leaves you winded for minutes. A minor cut becomes infected. You tire before others on a long march. You catch every illness that passes through the city. Your HP is dangerously low, and every fight carries the risk of your death.
+**Endurance 6 (modifier minus 2).** You are fragile. A hard fall leaves you winded for minutes. A minor cut becomes infected. You tire before others on a long march. You catch every illness that passes through the city. Your HP is dangerously low, and every fight carries the risk of your death.
 
 **Endurance 10 (modifier +0).** You are an average healthy person. You can work a full day without collapsing. You recover from a cold in a few days. A fight leaves you bruised but functional. You are not tough, but you are not made of glass either.
 
@@ -529,7 +529,7 @@ In combat, Intellect determines the effectiveness of Qi Techniques. Outside comb
 
 **What Intellect feels like at different scores.**
 
-**Intellect 6 (modifier -2).** You are unlettered and slow to grasp new concepts. You struggle with written language. You cannot follow complex arguments. You rely on instinct and memory rather than analysis. People call you simple. You have learned to let them underestimate you.
+**Intellect 6 (modifier minus 2).** You are unlettered and slow to grasp new concepts. You struggle with written language. You cannot follow complex arguments. You rely on instinct and memory rather than analysis. People call you simple. You have learned to let them underestimate you.
 
 **Intellect 10 (modifier +0).** You are an ordinary person of ordinary intelligence. You can read and write, do basic arithmetic, and follow a conversation about politics if it is not too complicated. You are not a scholar, but you are not a fool either.
 
@@ -547,7 +547,7 @@ Presence governs social interaction of all kinds: persuasion, deception, perform
 
 **What Presence feels like at different scores.**
 
-**Presence 6 (modifier -2).** You are invisible or repellent. People forget you are in the room. When you speak, others talk over you. You struggle to make eye contact. Your jokes fall flat. Your attempts at persuasion come across as awkward or desperate. You have learned to let others do the talking.
+**Presence 6 (modifier minus 2).** You are invisible or repellent. People forget you are in the room. When you speak, others talk over you. You struggle to make eye contact. Your jokes fall flat. Your attempts at persuasion come across as awkward or desperate. You have learned to let others do the talking.
 
 **Presence 10 (modifier +0).** You are unremarkable in social settings. You can hold a conversation. You can make a request. You can tell a small lie without being obvious. You are neither charismatic nor off putting. You exist in the social space without dominating it.
 
@@ -565,7 +565,7 @@ Resolve determines Sanity and governs resistance to fear, deception, and superna
 
 **What Resolve feels like at different scores.**
 
-**Resolve 6 (modifier -2).** You are easily shaken. Loud noises make you jump. You believe what people tell you because questioning them is exhausting. You avoid conflict and confrontation. At night, you lie awake thinking about everything that could go wrong. The Dusk would break you quickly.
+**Resolve 6 (modifier minus 2).** You are easily shaken. Loud noises make you jump. You believe what people tell you because questioning them is exhausting. You avoid conflict and confrontation. At night, you lie awake thinking about everything that could go wrong. The Dusk would break you quickly.
 
 **Resolve 10 (modifier +0).** You have ordinary willpower. You can stand your ground in an argument. You resist obvious manipulation. You sleep through the night most of the time. You are not especially brave, but you are not a coward either. You can look at something horrible without screaming.
 
@@ -696,7 +696,7 @@ An ally can stabilize a Dying character with a successful Intellect check (TN 12
 
 Host: "The alley is narrow, barely wide enough for two people to walk side by side. Rain water drips from eaves overhead. The courier stops when he sees you block the far end. He says, 'You are making a mistake.' That is when you hear the scrape of boots on stone behind you. Three figures step out of the recessed doorway you just passed. They have knives."
 
-Initiatives: Cinder rolls 19 + 6 = 25. Steelhand rolls 14 + 2 = 16. Thugs roll 12 + 1 = 13. Jinhai rolls 4 + (-1) = 3.
+Initiatives: Cinder rolls 19 + 6 = 25. Steelhand rolls 14 + 2 = 16. Thugs roll 12 + 1 = 13. Jinhai rolls 4 + (minus 1) = 3.
 
 Cinder acts first.
 
@@ -1243,11 +1243,11 @@ Ritual Harmony changes based on your actions:
 
 **Lose Ritual Harmony (and why it might be necessary):**
 
-- Being seen with known reformers or heterodox figures (-3 to -5)
-- Questioning doctrine in public (-5 to -10)
-- Being investigated by the Commission (-5, even if cleared)
-- Sheltering a Dusk refugee (-5 to -10)
-- Publishing a finding that contradicts official records (-15)
+- Being seen with known reformers or heterodox figures (minus 3 to minus 5)
+- Questioning doctrine in public (minus 5 to minus 10)
+- Being investigated by the Commission (minus 5, even if cleared)
+- Sheltering a Dusk refugee (minus 5 to minus 10)
+- Publishing a finding that contradicts official records (minus 15)
 
 ### Actions That Shape Your Ritual Harmony
 
@@ -1273,25 +1273,25 @@ The following concrete examples show how specific actions at the table might aff
 
 **Losing Ritual Harmony.**
 
-1. A Celestial Book is seen leaving a teahouse that is known as a meeting place for reformers. She was there doing research. The observers do not care about her reasons. (-4 Ritual Harmony, now 46.)
+1. A Celestial Book is seen leaving a teahouse that is known as a meeting place for reformers. She was there doing research. The observers do not care about her reasons. (minus 4 Ritual Harmony, now 46.)
 
-2. During a routine Harmonization Audit, an Iron Bone questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (-8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
+2. During a routine Harmonization Audit, an Iron Bone questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (minus 8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
 
-3. A Night Warbler shelters a Dusk refugee in his safe house for three nights. The refugee is a child. The risk of discovery is high. (-8 Ritual Harmony, now 32.)
+3. A Night Warbler shelters a Dusk refugee in his safe house for three nights. The refugee is a child. The risk of discovery is high. (minus 8 Ritual Harmony, now 32.)
 
-4. A Cinnabar Heart publishes a research paper that includes a factual correction to a widely distributed imperial census. The correction is accurate. It is also politically inconvenient for a faction that benefits from the error. (-15 Ritual Harmony, now 38.)
+4. A Cinnabar Heart publishes a research paper that includes a factual correction to a widely distributed imperial census. The correction is accurate. It is also politically inconvenient for a faction that benefits from the error. (minus 15 Ritual Harmony, now 38.)
 
-5. A Duke of Eternal Night is seen in conversation with a known heterodox philosopher at a social gathering. The conversation was brief and accidental. The optics are damning. (-5 Ritual Harmony, now 59.)
+5. A Duke of Eternal Night is seen in conversation with a known heterodox philosopher at a social gathering. The conversation was brief and accidental. The optics are damning. (minus 5 Ritual Harmony, now 59.)
 
-6. An Iron Wall fails to prevent a protest outside a government building. The protest was not his fault. He is blamed anyway. (-3 Ritual Harmony, now 56.)
+6. An Iron Wall fails to prevent a protest outside a government building. The protest was not his fault. He is blamed anyway. (minus 3 Ritual Harmony, now 56.)
 
-7. A Guest Among Forests refuses to endorse an orthodox appointment, citing concerns about the candidate's qualifications. The refusal is seen as political rather than professional. (-6 Ritual Harmony, now 60.)
+7. A Guest Among Forests refuses to endorse an orthodox appointment, citing concerns about the candidate's qualifications. The refusal is seen as political rather than professional. (minus 6 Ritual Harmony, now 60.)
 
-8. A Bright Mirror's investigation of a corrupt official is blocked by political pressure. He withdraws the investigation. He is seen as weak. (-5 Ritual Harmony, now 55.)
+8. A Bright Mirror's investigation of a corrupt official is blocked by political pressure. He withdraws the investigation. He is seen as weak. (minus 5 Ritual Harmony, now 55.)
 
-9. A Shadow is caught breaking into the office of a Golden Orthodoxy official. The break was professional and left no trace except one: the official came back early. (-10 Ritual Harmony, now 25.)
+9. A Shadow is caught breaking into the office of a Golden Orthodoxy official. The break was professional and left no trace except one: the official came back early. (minus 10 Ritual Harmony, now 25.)
 
-10. A Celestial Book, under questioning, admits she has seen a document that contradicts orthodox history. She does not reveal the document. The admission alone is damaging. (-12 Ritual Harmony, now 37.)
+10. A Celestial Book, under questioning, admits she has seen a document that contradicts orthodox history. She does not reveal the document. The admission alone is damaging. (minus 12 Ritual Harmony, now 37.)
 
 ### Living with Your Ritual Harmony
 
@@ -1644,7 +1644,7 @@ This example shows a complete scene from start to finish. The party is investiga
 
 **The Cast:**
 
-- Mira plays Scholar Jinhai, a Celestial Book archivist.
+- Lan plays Scholar Jinhai, a Celestial Book archivist.
 - Alex plays Cinder, a Night Warbler shadow hand.
 - Sam plays Steelhand, an Iron Bone fury adept.
 - The Host narrates and plays Old Chen and other NPCs.
@@ -1683,7 +1683,7 @@ Host: "Chen stops packing. He looks at you, then at the watchers, then back at y
 
 Steelhand's player: "Did you recognize the driver?"
 
-Host: "He shakes his head. 'Covered face. But the cart had a mark on the side. A symbol. A circle with seven lines through it.'"
+Host: "He shakes his head. 'Covered face. But the cart had a mark on the side. A symbol. A circle with eight lines through it.'"
 
 Jinhai's player: "I know that symbol. It is the mark of the Crimson Lineage's logistical corps. They use it on supply shipments. But why would the Crimson Lineage be kidnapping spice merchants?"
 
@@ -1868,7 +1868,7 @@ Xiaoyuan, known to its people as the City of a Thousand Bells, is the primary se
 
 ### The Inner City
 
-The Inner City is surrounded by the White Wall, a barrier of polished marble sixty feet high that has never been breached. Within it stand the government buildings, the Imperial Palace (empty of the Emperor but full of administrators), and the residences of the high nobility.
+The Inner City is surrounded by a wall sixty feet high and thirty feet thick, inlaid with bronze that glows softly after dark. It has never been breached. Within it stand the government buildings, the Imperial Palace (empty of the Emperor but full of administrators), and the residences of the high nobility.
 
 **The Celestial Court.** The sprawling complex where the six schools maintain their headquarters. A maze of halls, gardens, and audience chambers. Every corridor has a political dimension. Every doorway leads to a potential ally or enemy.
 
@@ -1876,21 +1876,17 @@ The Inner City is surrounded by the White Wall, a barrier of polished marble six
 
 **The Hall of Harmonious Adjudication.** The court of the Bright Mirror. A stark white building with no decoration except the symbol of the Commission for Celestial Purity above the entrance. Trials here are public. Verdicts are final.
 
-### The Middle City
+### The Outer City
 
-The ring between the inner and outer walls. Home to merchants, skilled artisans, officials in the middle ranks, and the offices of the major guilds.
+The ring beyond the Inner City walls, which Xiaoyuan has outgrown entirely. Home to merchants, skilled artisans, officials in the middle ranks, the poor, the desperate, and the forgotten. The streets are unpaved. The buildings lean against each other for support.
 
-**The Market of Whispers.** The largest market under the open sky in the capital. Anything can be bought here if you know the right vendor. The market has its own laws and its own enforcers. The City Guard does not patrol here.
+**The Outer Market.** The largest market under the open sky in the capital. Anything can be bought here if you know the right vendor. The market has its own laws and its own enforcers. The City Guard does not patrol here.
 
-**The Iron District.** The domain of the State Planning Commission. Factories, forges, and workshops produce the goods that keep the empire running. The air smells of coal and metal. The workers move in shifts, day and night.
+**The Foundry District.** The industrial heart of the Outer City, dominated by the State Planning Commission. Factories, forges, and workshops produce the goods that keep the empire running. The air smells of coal and metal. The workers move in shifts, day and night.
 
 **The Garden of a Thousand Regrets.** A public park built around an artificial lake. Once beautiful. Now neglected. The statues are cracked. The fountains are dry. It is a popular meeting place for those who do not want to be overheard.
 
-### The Outer City
-
-The largest district by area. Home to the poor, the desperate, and the forgotten. The streets are unpaved. The buildings lean against each other for support.
-
-**The Night Market.** Described elsewhere in this rulebook. A warren of stalls, tents, and temporary structures. Active from dusk to dawn. The place to find information, stolen goods, and trouble.
+**The Night Market.** The Outer Market after midnight. A warren of stalls, tents, and temporary structures. Active from dusk to dawn. The place to find information, stolen goods, and trouble.
 
 **The Drowned Quarter.** The lowest lying part of the city. Flooded during the rainy season. Many buildings have collapsed. Those who live here cannot afford to live anywhere else.
 
@@ -1898,7 +1894,7 @@ The largest district by area. Home to the poor, the desperate, and the forgotten
 
 ### Key Locations Across the City
 
-**The Azure Lotus Teahouse.** A neutral meeting ground in the Middle City. The proprietor, Madame Lian, pours the best chrysanthemum tea in the Middle City, charges by the hour rather than the pot, and keeps her counsel about everything else.
+**The Azure Lotus Teahouse.** A neutral meeting ground in the Spire District, in the shadow of the Inner City walls. The proprietor, Madame Ning, pours the best chrysanthemum tea in the city, charges by the hour rather than the pot, and keeps her counsel about everything else.
 
 **The Respite of Broken Flowers.** A hospice run by an order of healers who take no side in politics. Anyone can receive treatment here, regardless of faction, Ritual Harmony, or ability to pay. The Commission watches the hospice closely.
 
@@ -1940,7 +1936,7 @@ An adventure designed for one session follows this shape:
 
 **Hook.** The great bell in the Temple of the Silent Bell cracks during a ceremony. From the crack, a crimson liquid drips. The priests are terrified. They send for discreet help.
 
-**Investigation.** The bell was forged from ore mined in a province that has since fallen to the Dusk. Someone recently applied a substance to the bell's inner surface that weakened the metal. The substance can be traced to a specific alchemist in the Middle City.
+**Investigation.** The bell was forged from ore mined in a province that has since fallen to the Dusk. Someone recently applied a substance to the bell's inner surface that weakened the metal. The substance can be traced to a specific alchemist in the Spire District.
 
 **Complication.** The alchemist is already dead, killed before the players can question him. His workshop has been searched. A note with a single word is found: "Archives."
 
@@ -2103,25 +2099,21 @@ Each Archetype begins with specific equipment. Here are the starting packages:
 
 ## Appendix M: The Calendar of the Celestial Empire
 
-Timekeeping in the empire follows an ancient calendar divided into Seasons and Festivals.
-
-### The Four Seasons
-
-**Season of Ashes (winter).** Cold, wet, and grey. The season of endings. Most Audits occur during this season. The poor die in the cold. The rich burn incense and stay indoors.
-
-**Season of Bloom (spring).** Brief and precarious. The snow melts. The first flowers appear. The Court resumes full activity after the winter slowdown. It is considered unlucky to start a major undertaking during Bloom.
-
-**Season of Embers (summer).** Long, hot, and dry. The season of action. Campaigns are launched. Debates are held. Alliances are made and broken when the heat makes everyone irritable.
-
-**Season of Falling (autumn).** The harvest season. The season of reflection. Festivals celebrate the empire's founding. The year's accounts are settled. The Harmonization Audits begin.
+The imperial year is divided into twelve months, each named for the Qi aspect that dominates its season: Piercing Dawn and Yielding Bloom (spring), Binding Stone and Burning Forge (summer), Veiling Mist, Piercing Harvest, and Yielding Rest (autumn), Binding Frost, Burning Ember, and Veiling Dark (winter), and the two hinge months, Hinge Gate and Hinge Threshold, which run twenty five days each. Five intercalary days at the end of the year belong to no month and are called the Hinge: a period when the Court suspends normal business, the boundaries between worlds grow thin, and the ordinary rules do not apply.
 
 ### Major Festivals
 
-**The Festival of a Thousand Lanterns (Season of Falling, full moon).** The harvest moon is celebrated with lantern releases. Every window displays at least one lantern. The sky glows orange. It is tradition to forgive one debt and make one promise on this night.
+**The Festival of the Silent Throne (winter solstice).** A day of mourning for the Emperor's silence. All fires are extinguished for one hour at midnight. No work is done. No music is played. The only permitted sound is the distant bell from the Spire. It is considered deeply unlucky to speak the Emperor's name on this day.
 
-**The Festival of the Silent Throne (Season of Ashes, winter solstice).** A day of mourning for the Emperor's silence. No work is done. No music is played. The bells do not ring. It is considered deeply unlucky to speak the Emperor's name on this day.
+**The Festival of Great Harmony (spring equinox).** The empire's founding, and the grandest festival of the year. A procession carries statues of the Sun Emperor and the first generation through the streets, taking twelve hours to complete its route. Free rice and tea are distributed to the poor. The provinces hold their own celebrations.
 
-**The Rite of Renewal (Season of Bloom, first new moon).** A day of purification. Officials bathe in the river (or, for the wealthy, in heated pools). Old grievances are publicly forgiven. The Commission for Celestial Purity conducts mass Audits, believing the Rite makes subjects more likely to confess.
+**The Festival of Ancestors (autumn equinox).** A private festival. Families return to ancestral homes to clean graves, make offerings, and share meals with the dead. The dead are believed to return on this night, and extra places are set at tables.
+
+**The Festival of the Dying Year (last day of the imperial calendar).** A night of excess. The Court's prohibitions on public celebration are lifted for a single night. Music, dancing, drinking, and performances that would be illegal on any other night are permitted.
+
+**The Lantern Debt (ninth night of the eighth month).** Not a festival the Court administers. You write the name of someone who did you a kindness you never repaid on a paper lantern, and you let it go from a bridge or a roof. Everyone simply does it on the same night.
+
+**The Festival of Remembrance (date variable).** A somber observance held on the anniversaries of major disasters. People light candles for the dead and tell stories of what was lost. The Court does not attend. Its absence is noted.
 
 ---
 
@@ -2131,7 +2123,7 @@ These example characters are ready to use in games lasting one session or as tem
 
 **Ember of the Ashen Dawn (Night Warbler).** A courier who carries messages for the Bureau of Internal Harmony. Ember is twenty two years old, quick with a blade and quicker with a lie. She was recruited from the streets at age twelve. She has never lost a package. She has started reading the messages she carries. She has started to wonder what kind of person her employer truly is. Might 14, Swiftness 18, Endurance 14, Intellect 16, Presence 10, Resolve 16.
 
-**Steady Hand Zheng (Iron Wall).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 18, Intellect 12, Presence 16, Resolve 14.
+**Stone Watch Zheng (Iron Wall).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 18, Intellect 12, Presence 16, Resolve 14.
 
 **White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made him doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
 
@@ -2165,11 +2157,11 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 ### The Golden Orthodoxy
 
-**Symbol.** A sunburst with seven rays, each ray representing a pillar of orthodox governance.
+**Symbol.** The Unbroken Circle.
 
 **Philosophy.** The empire must be governed according to ancient tradition. Change is corruption. Innovation is dangerous. The Golden Orthodoxy believes the Emperor's silence is a test of faith. Those who wait patiently will be rewarded. Those who seek answers are heretics.
 
-**Leader.** Cinnabar Heart, Director of the Bureau of Harmonious Narrative.
+**Key Figure.** Cinnabar Heart, Director of the Bureau of Harmonious Narrative, the Orthodoxy's reluctant instrument.
 
 **Allies.** The Imperial Garrison Command (Iron Wall), though the relationship is strained by the Garrison's practical concerns.
 
@@ -2179,7 +2171,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 ### The Verdant Path
 
-**Symbol.** A tree whose roots and branches form a circle.
+**Symbol.** The Unbreaking Branch.
 
 **Philosophy.** The empire is part of the natural world, not separate from it. The Crimson Dusk is a wound in reality caused by the empire's disconnection from nature. Healing the empire means healing the land first. Politics is a distraction.
 
@@ -2193,7 +2185,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 ### The Iron Calculation
 
-**Symbol.** A gear with visible inner mechanisms.
+**Symbol.** The Interlocking Gear.
 
 **Philosophy.** The empire is a machine. Every part must function efficiently. Sentiment, tradition, and bloodlines are irrelevant. Only results matter. The Emperor's silence is a management problem. If the machine is maintained, it can run without an Emperor indefinitely.
 
@@ -2207,7 +2199,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 ### The Crimson Lineage
 
-**Symbol.** A perfect circle pierced by seven lines, representing the seven noble bloodlines.
+**Symbol.** The Crimson Chalice.
 
 **Philosophy.** The empire was founded by great families whose blood carries the empire's strength. Governance is a matter of breeding and inheritance. Commoners cannot rule. The Emperor's silence is a tragedy that must be resolved by finding or creating a worthy heir.
 
@@ -2221,11 +2213,11 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 ### The Common Flame
 
-**Symbol.** A flame with a human eye at its center.
+**Symbol.** The Red Fist.
 
 **Philosophy.** The empire belongs to all its people, not just the nobility and the orthodox. The Emperor's silence is an opportunity to reform the empire into something better. The Crimson Dusk is a natural consequence of the empire's sins against the common people.
 
-**Leader.** Iron Bone, organizer of the Red Banner Revival movement.
+**Public Voice.** Iron Bone, organizer of the Red Banner Revival movement.
 
 **Allies.** Informal networks of reformers, disaffected officials, and provincial leaders who feel ignored by the capital.
 
@@ -2235,7 +2227,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 ### The Bright Mirror
 
-**Symbol.** A mirror that reflects only the viewer's eyes.
+**Symbol.** The Silver Mirror.
 
 **Philosophy.** Purity must be enforced. The empire's laws exist to maintain cosmic order. Those who break the laws threaten the stability of reality itself. The Emperor's silence is likely the result of insufficient purity among His subjects.
 
@@ -2324,6 +2316,8 @@ Not every fight needs to end in death. Characters can retreat from combat:
 **Withdrawal.** A character can use their Action and Movement to flee a combat. The Host determines whether pursuers can catch them. A successful Swiftness check against TN 12 allows escape. Failure means the character is caught and cannot act next round.
 
 **Covering retreat.** One character holds their position while allies flee. The covering character gains +2 Defense and may make attacks of opportunity against any pursuer. Once all allies have fled, the covering character may attempt to withdraw.
+
+---
 
 ## Appendix S: Common Substances and Poisons
 
@@ -2497,6 +2491,8 @@ Certain gestures and customs carry meaning in the Court:
 
 **The refused gift.** If an official refuses a gift, the request is denied. The giver should withdraw immediately and not press the matter.
 
+---
+
 ## Appendix X: Random Encounters and Tables
 
 Use these tables when you need to generate content quickly.
@@ -2533,6 +2529,8 @@ When the players investigate an NPC's background, roll to discover:
 4. The NPC witnessed the event the players are investigating.
 5. The NPC is being blackmailed by someone unseen.
 6. The NPC is not human. They are something older wearing a human shape.
+
+---
 
 _This rulebook is the first volume of the Violet Court Fragments._
 _The Host's Codex, Character Dossiers, and Adventure Modules complete the set._
