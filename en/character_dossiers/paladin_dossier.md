@@ -22,6 +22,10 @@
 
 Bright Mirror leads the Commission for Celestial Purity. He believes public power must answer to a standard beyond convenience. He has also obeyed an order to halt an inquiry he thought necessary. That contradiction has not made him abandon the law. It has made him less willing to accept an authority that cannot explain its own actions.
 
+## Connection to the Shared World
+
+The evidence Bright Mirror needs may be held by someone whose safety depends on confidentiality. A witnessed extract or limited deposition can become a real proposal, negotiated with its holder, rather than a forced choice between abandoning truth and betraying sanctuary.
+
 ## Expanded Backstory
 
 **The mother, and the letters.** You were born in a temple of the Golden Orthodoxy to a priestess of fierce faith and fiercer silences, who taught you that the gods speak in the quiet between choices, and who was right about that, and who has not spoken to you in thirty nine years.

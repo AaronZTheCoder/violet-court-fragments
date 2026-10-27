@@ -22,6 +22,10 @@
 
 Celestial Book keeps the Imperial Archives. She has read accounts that disagree about the same room, the same vote, and the same missing day. Her memory makes comparisons possible; it does not turn every explanation into fact. She wants records to survive their custodians, including herself.
 
+## Connection to the Shared World
+
+A document brought from a worksite can test Celestial Book's reading of an old account. She supplies provenance; a living claimant supplies experience. Neither replaces the other, and a theory about the Dusk does not become certain merely because both people are sincere.
+
 ## Expanded Backstory
 
 **What you were made for, which was mundane.** You were not born. You woke in a chamber of white stone with a purpose inscribed in you.

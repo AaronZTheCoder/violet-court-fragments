@@ -1699,7 +1699,7 @@ Create a new character. The new character inherits the knowledge your previous c
 
 **How long does a campaign last?**
 
-A full campaign of the Violet Court Fragments typically runs twelve to twenty sessions, or about three to six months of regular play. Shorter stories and adventures designed for one session are also possible.
+The opening relief arc normally takes six to eight sessions. A wider chronicle can run twelve to twenty or longer, following established people, consequences, and mysteries the table chooses. Neither length requires completing every manuscript or every character's private thread.
 
 **Do I need to read the whole rulebook?**
 

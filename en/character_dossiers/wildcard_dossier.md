@@ -22,6 +22,10 @@
 
 Stray Stroke travels under several genuine registrations that the Court has never reconciled. Those papers have helped him cross checkpoints and carry others to safety. They have also left consequences for people whose names became entangled with his. He seeks a record of his own beginnings without knowing whether finding it will settle who he is now.
 
+## Connection to the Shared World
+
+A permit under a genuine overlapping identity can help an escort and complicate a later claim. Stray Stroke must choose what he is willing to disclose; a player using Drifter training need not inherit his eleven registrations or the debt to Copper Ladle.
+
 ## Expanded Backstory
 
 **Amber Shore, Year 427.** You were thirteen. The water turned red, then thick, then solid, and the fishing fleet came home with crews who could not remember their own names, and the province was struck from the record inside a year. The Court's position is that Amber Shore was resettled. Your position is that the harbor is a field of rusted ships standing in red crystal, and that nobody resettled anything.

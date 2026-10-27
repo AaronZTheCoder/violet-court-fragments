@@ -265,6 +265,12 @@ The speech and ritual cannot restore every lost household. They can determine wh
 
 ---
 
+### What Arrives From Earlier Play
+
+Bring the party's existing witness, received copy, allocation, or undertaking into this chapter. The claim does not begin again because the perspective widens. Show which office now acts on the earlier signature, which person has benefited or waited, and which material constraint remains.
+
+The practical result can lead toward river works, erased names, or contested authority through the same people. The Silt Papers, the Great Weir, Nine Willow Bend, and the Spire records are different sources concerning one world. Their themes remain distinct; no new villain is required to make them related.
+
 ## Running the Seventh Niche
 
 **What the players are.** They retain the careers, motives, and prior choices established at creation. The relief docket gives them a route to Temple correspondence; a separate job, a witness, or a personal connection can do the same. They need neither a particular career nor the named Duke or Incense Crown in the party.

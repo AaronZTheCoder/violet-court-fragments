@@ -20,6 +20,10 @@
 
 Iron Calculation works through the State Planning Commission. He has improved conditions in foundries and helped the Garrison break a workers' revolt. Both are part of his record. He believes a plan must survive contact with materials, labor, and distance. The question he finds harder is who gets to decide which losses the plan may accept.
 
+## Connection to the Shared World
+
+The crew repairing a relief relay may need labor terms negotiated with Iron Bone. Iron Calculation can accept those terms and still dispute how the next allocation should be made. The same machine carries both people's commitments into the next scene.
+
 ## Expanded Backstory
 
 **The question they asked you at fourteen.** The State Planning Commission tested you for three days. At the end they asked how you felt about the workers whose jobs your machines would eliminate.

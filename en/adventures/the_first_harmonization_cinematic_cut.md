@@ -4,7 +4,7 @@
 
 # The First Harmonization
 
-**Linked campaign placement.** The warning arrives on Hinge Gate 21. The Audit is seven days later, on Hinge Threshold 3. The Hall address on the following morning is an optional lead, not a required detour. Use [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) to carry the party's existing contacts and records into the relief case. The two starter versions are alternatives covering the same seven fictional days.
+**Linked campaign placement.** The warning arrives on Hinge Gate 21. The Audit is seven days later, on Hinge Threshold 3. The Hall address is on Hinge Gate 22, the day after the warning and six days before the Audit. It is an optional lead. Use [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) to carry the party's existing contacts and records into the relief case. The two starter versions are alternatives covering the same seven fictional days.
 
 **Player characters.** Office scenes assume access through an agreed job or contact, not that every career is a copyist. Archetype spotlights are suggestions for trained abilities; they do not assign the named figure's memories, emotions, beliefs, or office. Offer essential clues through more than one source. A failed roll changes cost or exposure rather than deciding whether the campaign can continue.
 
@@ -15,6 +15,16 @@
 > _Designed for new characters and four to six sessions._
 >
 > _Every answer saves something. Every answer abandons something else._
+
+## Place in the Continuing Chronicle
+
+This is the first Audit within the shared world, presented at a different level of detail from its companion version. Choose one presentation, or use the opening arc in the Host's Codex; do not run all three as consecutive adventures.
+
+Chen's reserve entries, the people who certify them, and the party's accepted testimony carry into the relief allocation. The stolen Qi did not originate the Dusk, but its absence affects what can be assigned to transport, relays, and stabilization. The same allocation then reaches the Temple's account and the terms of the Seventh Niche.
+
+After the Audit, preserve the original copies, the witness's situation, and the commitments made by Wei, Zhang, Meng, and any patron the party approached. Reuse one of those people when the relief order is questioned. An earlier success remains effective; a later chapter does not replace it with a new starting state.
+
+The Emperor, the founding wound, competing Schools, and erased communities remain the larger context. Follow them through a current person or promise, not an unrelated mandatory mission.
 
 ## The Story Promise
 

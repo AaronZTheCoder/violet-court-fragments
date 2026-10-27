@@ -201,7 +201,7 @@ Track each player character's personal journey, goals, and unresolved threads.
 
 ## Campaign Clock
 
-Track the advancement of the Crimson Dusk across the campaign. This visual clock helps the Host and players understand how close the endgame is.
+Track actual Dusk conditions where the party is involved. These stages describe possible world pressure, not compulsory campaign chapters. A relief arc can finish without the capital falling; a longer chronicle changes conditions through established events and evidence.
 
 **Phase 0: Distant (Early Campaign)**
 [ ] The Dusk is a rumor. Stories from the Border. Something that happens to other people.
@@ -231,6 +231,20 @@ Track the advancement of the Crimson Dusk across the campaign. This visual clock
 4. ***
 
 5. ***
+
+### Consequences to Carry
+
+Who observed the party's last action? ____________________
+
+Which institution must answer it? ____________________
+
+What changed in resources, access, work, or protection? ____________________
+
+Which existing person or promise will return next? ____________________
+
+One chosen intention: ____________________
+
+One optional invitation: ____________________
 
 ## Decisions Made This Session
 

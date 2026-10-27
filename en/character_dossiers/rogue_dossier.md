@@ -22,6 +22,10 @@
 
 Shadow brokers information outside the six Schools. He knows that an account is worth little unless someone can carry it and someone else can use it. His independence depends on relationships he cannot entirely price. When he offers help, the useful question is what obligation he expects to survive the transaction.
 
+## Connection to the Shared World
+
+Shadow can carry an account from a work crew to a seal holder and a public audience. That circulation changes obligations he must honor later. Selling a copy and protecting its witness are different commitments; agree which one he is offering.
+
 ## Expanded Backstory
 
 **The Warrens, and your father's actual crime.** Wet stone and frying fish. Your mother worked the Jade Lotus. Your father had been an official once and taught you history, mathematics, and how to read a man's intentions from the way he holds a cup.

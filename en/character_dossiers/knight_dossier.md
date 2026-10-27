@@ -20,6 +20,10 @@
 
 Iron Wall serves the Imperial Garrison. His oath places him between an order and the people who must live through it. He knows the uses of discipline: a retreat can save lives only if someone holds the passage. He also knows how easily obedience can become an excuse. The soldiers under his care make that question immediate.
 
+## Connection to the Shared World
+
+Iron Wall can escort a convoy whose passengers need both sanctuary and legal recognition. Protecting the road does not decide whether their names should be published. Let the people being protected participate in that decision.
+
 ## Expanded Backstory
 
 **Six generations.** You were born in a garrison town where the wall meets the pass. The name on your birth record is the name on the roster going back six generations. Your mother died delivering a sibling who also died. You have a memory of her voice that you cannot verify and have never asked your father to confirm, because in a garrison family the dead are honored with silence and you have never been sure whether that is dignity or cowardice.

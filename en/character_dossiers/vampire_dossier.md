@@ -22,6 +22,10 @@
 
 The Duke of Eternal Night belongs to the founding generation. He remembers arguments that later histories turned into unanimity, and he has benefited from many of the settlements he now criticizes. His concern for continuity can preserve a fragile institution or protect an old privilege. Age does not decide which it will be.
 
+## Connection to the Shared World
+
+An inherited freight contract or Great Weir compensation claim can implicate houses the Duke once represented. His memory may clarify the original promise while leaving him responsible for the benefits he accepted. Use the actual claimant again at the later hearing.
+
 ## Expanded Backstory
 
 **The name, which you have not forgotten.** It is usually said that you discarded your birth name and no longer recall it.
@@ -78,9 +82,9 @@ You said you would think about it. Then you did nothing, and said nothing, and t
 
 You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had one hundred and forty seven years to make peace with probably and have not managed it.
 
-**Why you are still here.** You are the last person alive who remembers the empire with the Emperor in it. Not the last who has read about it. The last who stood in a room with Him.
+**Why you are still here.** You are among the few surviving witnesses who stood in a room with the Emperor. Others preserve different portions of the same history. Your memory can be compared with theirs; it cannot relieve you of what you chose to do.
 
-That makes you the only living check on the official history, and you have discovered that this is not a power. It is a duty that arrived without consultation and cannot be delegated, and it means you cannot die yet, and you have been tired in a way sleep does not touch for approximately one hundred and forty years.
+You once mistook that responsibility for authority. Now a claimant can put an old promise before you and ask why it was not kept. Someone else may verify the date, but no one can give your answer for you. For roughly one hundred and forty years, you have carried a weariness sleep does not touch.
 
 ---
 
@@ -127,8 +131,8 @@ The assassin's blade finds your heart. You feel the steel part flesh, muscle, th
 
 ## Expanded Truths
 
-**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty five years.
-_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and sixty five years to be vindicated. Your pride may have doomed the empire.
+**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
+_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and fifty five years to be vindicated. Your pride may have doomed the empire.
 
 **Suggested Truth 2 (Existing):** The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 _Complication:_ Your exiled heir has discovered something you have kept hidden for centuries, a truth about the Crimson Lineage's founding that would destroy the family if revealed. He is not planning to kill you. He is planning to expose you. His renewed bid for power is a distraction. The real weapon is the truth.
@@ -136,8 +140,8 @@ _Complication:_ Your exiled heir has discovered something you have kept hidden f
 **Suggested Truth 3 (Existing):** You have been feeding on a specific senior official for decades. They do not know. They believe they have a chronic illness. You have grown fond of them.
 _Complication:_ The official recently discovered the truth. They have not confronted you. They have been feeding you false memories, tainted blood, information designed to mislead you. You have been drinking lies for six months. The official is working with someone you do not know.
 
-**Suggested Truth 4 (Existing):** The Crimson Dusk is a wound in the world. You know what caused it. You helped cause it. Not intentionally. But intentions matter less than consequences, and you have lived long enough to know that.
-_Complication:_ You know how to heal the Crimson Dusk. The method would require the death of every living member of the Crimson Lineage. You have never shared this knowledge. You are not sure if your reluctance is loyalty or fear or something else entirely.
+**Suggested Truth 4 (Existing):** You helped enact a sealing that you now believe deepened the world's founding injury. The Dusk followed later. You hold evidence of your own part in the act; whether your explanation is complete remains to be tested. Responsibility for what you did does not depend on proving every consequence.
+_Complication:_ You hold an untested proposal to restore the conduit by sacrificing everyone bound to the founding blood covenant. That covenant is not the same as membership in the Crimson Lineage School, and the proposal's account of who remains bound is incomplete. You have withheld it, fearing both its consequences and an inquiry into your own part. The party can examine its sources, seek alternatives, or refuse it. No successful ending requires the Host to validate the sacrifice.
 
 **Suggested Truth 5 (New):** A descendant of Ash Bright's family, seven generations removed, has no idea that you helped raise their forebears. You have watched them for years. They have Ash Bright's smile. You have not approached them or revealed your place in the family's history. You do not know why you are hesitating.
 
@@ -245,10 +249,10 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 Choose one, or create your own with the Host:
 
-- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty five years.
+- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
 - The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 - You have been feeding on a specific senior official for decades. They do not know. They believe they have a chronic illness. You have grown fond of them.
-- The Crimson Dusk is a wound in the world. You know what caused it. You helped cause it. Not intentionally. But intentions matter less than consequences, and you have lived long enough to know that.
+- You helped enact a sealing that you now believe deepened the world's founding injury. The Dusk followed later. You hold evidence of your own part in the act; whether your explanation is complete remains to be tested. Responsibility for what you did does not depend on proving every consequence.
 
 ---
 

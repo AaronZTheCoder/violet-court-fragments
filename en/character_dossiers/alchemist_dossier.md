@@ -118,6 +118,10 @@ When you invoke orthodox doctrine to support your position during a social encou
 
 ---
 
+## Connection to the Shared World
+
+Cinnabar Heart's choice of a rescue account affects both a family's safety and the confidence on which relief credit depends. A player using this career may choose to investigate that conflict without inheriting his office or his compromises.
+
 ## Expanded Backstory
 
 **The family.** You were born in the Ministry Quarter to two civil servants who did not like each other very much.

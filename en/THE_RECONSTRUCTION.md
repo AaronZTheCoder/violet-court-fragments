@@ -332,6 +332,12 @@ The next question is concrete: can the relief account be kept open without surre
 
 ---
 
+### What Arrives From Earlier Play
+
+Bring the party's existing witness, received copy, allocation, or undertaking into this chapter. The claim does not begin again because the perspective widens. Show which office now acts on the earlier signature, which person has benefited or waited, and which material constraint remains.
+
+The practical result can lead toward river works, erased names, or contested authority through the same people. The Silt Papers, the Great Weir, Nine Willow Bend, and the Spire records are different sources concerning one world. Their themes remain distinct; no new villain is required to make them related.
+
 ## Running the Reconstruction
 
 **What the players are.** Agree on why the relief docket reaches them. Copyists can process it, carriers can deliver it, a survey crew can verify it, and Temple workers can seek a distribution order. Correctly completing an assigned job remains a valid choice. Show its consequences without turning obedience or refusal into the Host's moral examination.

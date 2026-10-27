@@ -89,6 +89,10 @@ You speak for the nonhuman peoples of the empire. When addressing a crowd that i
 | Common Flame     | +15              | You have always spoken for the powerless.         |
 | Bright Mirror    | 0                | The Commission does not know what to make of you. |
 
+## Connection to the Shared World
+
+A timber or road survey can reopen the consequences of the route Guest Among Forests once helped establish. The Silt Papers give her present interlocutors evidence they can examine rather than requiring them to accept centuries of memory on trust.
+
 ## Expanded Backstory
 
 **The thing you did, which nobody remembers but you.** You led them to water.
@@ -195,7 +199,7 @@ Add these to the existing list:
 
 Complications for existing truths:
 
-**For "The Crimson Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal, not a punishment for heterodoxy. You know the ritual sacrificed or bound the original guardians and made the Emperor their replacement conduit. You know the later seal severed that conduit. You do not know how to heal the wound."**
+**For "You witnessed the founding ritual sacrifice or bind the original guardians and install the Emperor as their replacement conduit. You traced a second injury to the later seal. You believe those injuries explain the Dusk; the intervening cause and a means of repair remain unproven."**
 Complication: You have recently discovered that the ritual used a piece of your mother tree to help bind the original guardians and establish the Sun Emperor as their replacement conduit. You do not know how the founders obtained it. You do not know whether your mother survived the taking, and you are afraid to return and learn the answer.
 
 **For "You have been alive for over four hundred years. You remember the first Emperor's voice. You remember what the Court promised, and what it became."**
@@ -219,7 +223,7 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 Choose one, or create your own with the Host:
 
-- The Crimson Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal, not a punishment for heterodoxy. You know the ritual sacrificed or bound the original guardians and made the Emperor their replacement conduit. You know the later seal severed that conduit. You do not know how to heal the wound.
+- You witnessed the founding ritual sacrifice or bind the original guardians and install the Emperor as their replacement conduit. You traced a second injury to the later seal. You believe those injuries explain the Dusk; the intervening cause and a means of repair remain unproven.
 - You remember the first Emperor's voice. You remember what the Court promised, and what it became, and you are the only living witness to the difference.
 - One of the Grand Council members is secretly an ally of the Verdant Path. You have protected their identity for years. If they were discovered, everything they have built would go with them.
 - Your people are not dying from the Dusk. They are dying from something slower: assimilation, erasure, and the grinding weight of an empire that does not see them as people.

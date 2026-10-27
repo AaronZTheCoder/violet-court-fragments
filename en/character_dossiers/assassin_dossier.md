@@ -91,6 +91,10 @@ You recognize the signs of your profession: the way someone stands relative to e
 | Common Flame     | -10              | You are the boot, not the face.                                      |
 | Bright Mirror    | -5               | The Commission does not approve of "special operations." Officially. |
 
+## Connection to the Shared World
+
+A witness escort can pass through the same Bureau that issued the witness's summons. Night Warbler must decide what his order actually protects. Senior Censor Wei in the relief case is not the deceased Council member Wei in his history.
+
 ## Expanded Backstory
 
 **The village, and the part you checked.** You were six. Imperial troops conducted a pacification against a rebellion that had not happened, in a village the records called a nest of heterodoxy. You were in a root cellar for three days eating raw turnips. You know this story extremely well because you have told it to yourself approximately once a week for thirty one years.

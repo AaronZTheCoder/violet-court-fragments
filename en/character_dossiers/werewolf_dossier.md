@@ -20,6 +20,10 @@
 
 Iron Bone organizes among workers and displaced families. His imprisonment taught him how much an individual can endure and how little endurance alone changes. He wants people who do the work to have a voice in the terms of it. Anger gives him force, but a movement also needs food, trust, and decisions its members can challenge.
 
+## Connection to the Shared World
+
+Iron Bone's organizers can make a delivery or repair possible through agreed wages, food, and safety. Their conditions should remain in the record after a public rescue is celebrated. A player may support, revise, or contest them without being required to embrace his ideology.
+
 ## Expanded Backstory
 
 **The town with no name on the map.** Factory town three days east. Father at the smelting furnaces, mother at the looms. You had four siblings, and two survived childhood. Company dormitory. You started carrying coal at nine and crawling into spaces too small for adults to clear the clogs.

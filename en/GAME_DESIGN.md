@@ -39,6 +39,8 @@ The empire spans a continent divided into the Nine Domains, each traditionally r
 
 **The Central Province** surrounds the capital. Here sits the Spire of Eternal Vigil, where the Sun Emperor slumbers or watches or waits. The Court's ministries occupy the Inner City. The Outer City teems with merchants, petitioners, spies, and refugees from provinces that no longer officially exist.
 
+**Connection beyond the capital.** A receipt accepted here can redirect a provincial allocation; an erased residence code can prevent the same family claiming grain at every checkpoint. Let a clerk or carrier already known to the party show which office acted. Capital decisions reach the provinces through people, transport, and enforcement, not omniscience.
+
 When you first approach the Central Province, the road rises through terraced hills covered in mulberry groves. The air smells of wet earth and woodsmoke mixed with the faint metallic tang of stone charged with Qi. Against the pale sky, the Spire of Eternal Vigil rises like a needle threaded with cloud. It is visible from every corner of the province, a constant reminder of the Emperor's presence and His absence. The city walls of Xiaoyuan glow faintly at dusk, their surface inlaid with stone that conducts Qi and hums at a frequency just below hearing. You feel it in your back teeth before you hear it with your ears.
 
 _Silver Ford._ A market town at the junction of the Jade River and the Imperial Highway. Its great wooden bridge, painted with scenes from the founding of the empire, groans under the weight of carts and caravans day and night. Every third building is a shrine to some aspect of celestial governance. The river here runs slow and thick with silt, and fishermen say the fish taste of ink.
@@ -74,6 +76,8 @@ The Academic Quarter has produced more reformers and revolutionaries than any ot
 ---
 
 **The Eastern Foundries** are a landscape of factory temples where artificer monks tend the empire's industrial soul. The province is a network of valleys and plateaus that have been reshaped by centuries of industry. The mountains have been terraced, hollowed, and connected by bridges and tunnels that form a continuous industrial complex stretching for hundreds of miles. It is said that you could walk from one end of the Foundries to the other without ever seeing the sky. Smoke chokes the sky. Workers chant sutras to the Machine Gods. The Iron Calculation school holds sway here.
+
+**Connection beyond the foundries.** A relay repair needs a crew, wages, materials, and an authorized Qi allocation. Those records can be the same ones the party encountered in the reserve inquiry. A labor agreement reached with Iron Bone can make Iron Calculation's repair possible without making either man abandon his worldview.
 
 The first sign that you have entered the Eastern Foundries is the smell. It hits you before you crest the ridge: hot metal, coal smoke, chemical steam, and something that might be burning hair or burning prayer. The sky is the color of bruised plums, even at noon. The mountains have been terraced into stepped platforms, each one supporting a factory temple that never stops working. The sound is a constant low thunder punctuated by the ringing of hammer on anvil, the hiss of steam vents, and the rhythmic chanting of workers reciting the Calculus of Production.
 
@@ -113,6 +117,8 @@ The cells have begun to coordinate with the Common Flame, receiving funding and 
 
 **The Southern Granary** feeds the empire. Endless rice paddies and mulberry groves worked by tenant farmers who owe everything to the old landholding bloodlines. Conservative. Deeply attuned to the old ways. The Crimson Lineage families keep their ancestral estates here.
 
+**Connection beyond the granary.** Grain travels with credit, freight charges, labor, and names of authorized recipients. A house may agree to supply relief while disputing who bears a transport loss. Reuse that house or its factor when the claim reaches the capital, rather than replacing it with a new patron.
+
 Travel south from the capital and within three days the landscape changes. The dry air of the Central Province gives way to humidity so thick you can taste it. The road becomes a raised causeway between flooded fields that stretch to every horizon. The rice is waist high and luminous green, swaying in waves that look almost like breathing. The farmers wear conical hats of woven straw and stand ankle deep in water, backs bent, moving with the slow precision of men who have done the same motion ten thousand times. The air smells of wet earth, flowering mulberry, and the smoke of cooking fires. At dusk, the fireflies rise from the paddies in clouds so dense they look like a second sky of stars beneath the first.
 
 _Jade Terrace._ The largest city in the province, built on a series of carved terraces that rise from the floodplain like a staircase for giants. The upper terraces belong to the Crimson Lineage families, their mansions hidden behind walls painted with scenes of ancestral glory. The lower terraces are a maze of markets, warehouses, and tenements where grain merchants bargain in hoarse whispers.
@@ -146,6 +152,8 @@ The younger generation of the Crimson Lineage is a source of constant anxiety fo
 ---
 
 **The Western Bulwark** is a chain of fortress monasteries guarding the empire's mountain frontier. The Imperial Garrison trains here. The military's heartland. Soldiers pray to the Iron Bodhisattva before battle.
+
+**Connection beyond the fortresses.** A convoy can carry relief, witnesses, and a provisional roll along the same road. The Garrison's escort protects movement but does not settle the passengers' legal status. Iron Wall may therefore need a Temple undertaking or a receiving clerk's signature as much as armed protection.
 
 The air changes as you climb into the Western Bulwark. It becomes thin, cold, carrying the scent of snow and stone and the distant tang of Qi sharpened to a blade's edge. The mountains rise in staggered walls of grey granite, and built into every defensible position is a fortress monastery, its walls reinforced with Qi inscribed bricks that glow faintly at night. The sound of martial chanting echoes through the passes, carried on winds that never stop blowing. Banners of red and gold snap in the gale. This is a landscape built for war, shaped by centuries of conflict, and every stone remembers the taste of blood.
 
@@ -181,6 +189,8 @@ The veterans are a source of unofficial knowledge. They know which officers are 
 
 **The Northern Expanse** is ancient forest and wild Qi. Autonomous peoples live here, some not fully human. The Verdant Path movement began in these woods. The Court tolerates them because the North provides rare reagents found nowhere else.
 
+**Connection beyond the forest.** Logging, watershed changes, and road access can appear together in a survey. Guest Among Forests has reason to compare that survey with the Silt Papers; a crew has reason to ask who will pay for safer work. Consent from a local community is a real obligation, not scenery on a route to the next plot.
+
 To enter the Northern Expanse is to leave the empire behind. The cultivated lands give way to forest so old and dense that the canopy blocks the sun, casting everything in a green twilight that never fully brightens. The air is cool and damp, thick with the smell of moss and rotting leaves and something sweet that might be a flower or might be the breath of the forest itself. The Qi here is not the tamed, channeled Qi of the southern provinces. It is wild, living, moving of its own accord. You feel it as a pressure behind your eyes, a hum in your blood, a sense that you are being watched by something that has no face.
 
 _Greenroot._ The only settlement large enough to be called a town, built in and around the roots of a tree so massive that its crown is lost among the clouds. The buildings are grown, not built, shaped from living wood sustained by Qi. The paths between them are suspended walkways that sway twenty feet above the forest floor. The people of Greenroot speak the imperial tongue with an accent that sounds like wind through leaves.
@@ -212,6 +222,8 @@ The most powerful spirit practitioners are the Speakers, who can enter trance st
 ---
 
 **The Border Provinces** were four. Now they are two. The others have fallen to the Crimson Dusk and been struck from official records. The remaining border governors send increasingly desperate reports. The Court files them under "Resolved."
+
+**Connection beyond the border.** Survivors bring practical knowledge and names the capital cannot obtain from its own summaries. A received provisional roll changes their access to relief without proving a cure for the Dusk. Ask permission before turning a sanctuary's private register into public evidence.
 
 The four border provinces were named Scorch Field, Amber Shore, Weeping Valley, and Gate's End. Two remain. The names are not important, the Court insists. They were never important.
 
@@ -489,7 +501,7 @@ The Dusk is not an army. It is not a plague. It is a corruption of reality itsel
 
 The first signs of the Dusk appeared in the farthest border province nearly fifty years ago. It has been advancing ever since. The Court's official explanation is that it represents "residual Disharmony from insufficient ritual education in peripheral regions." Harmonization Audits have been dispatched. The provinces that fall are removed from maps. Settled. They were never there.
 
-**The Dusk is the game's clock.** It advances in phases, triggering escalating crises and eventually forcing the endgame. It cannot be outrun, only understood.
+**The Dusk is a pressure on the world.** Track its local manifestations and the time, evidence, and resources relevant to them. A long chronicle may reach an endgame; a shorter arc may resolve a meaningful claim while the larger danger remains. The phases describe possible conditions, not a requirement that every campaign destroy the capital.
 
 #### Regional Manifestations
 
@@ -2355,25 +2367,17 @@ The engine reads character data from structured files, so new figures integrate 
 
 ---
 
-## Narrative Arc
+## One Continuing History
 
-For the linked campaign, use [Campaign Continuity](CAMPAIGN_CONTINUITY.md). These scrolls are pressures and opportunities, not a schedule of compulsory disasters.
+The First Harmonization introduces the handling of testimony and resources. The Reconstruction exposes how those decisions become policy. The Seventh Niche makes the same policy a public inheritance. These are changing perspectives on one empire, carried by people the party already knows.
 
-### Scroll One: The Relief Docket
+The opening relief case can finish in six to eight sessions. A longer chronicle can follow its river works, survivors' names, or disputed authority into the existing setting. The Silt Papers, the Great Weir, Nine Willow Bend, old Temple agreements, and the founding records are connected evidence, not a checklist of expansions. The table chooses which promise to pursue.
 
-Begin on Hinge Gate 21. The party chooses how to handle a provisional roll and learns why grain at the Temple cannot yet be distributed. The local Audit can introduce faction pressure, but the party need not solve it in one prescribed way to continue.
+For each crossing, carry a person, a material consequence, and an unresolved commitment. A route becomes relevant because someone must travel it; an old document matters because someone still lives with its effects. The new scene keeps the earlier choice alive.
 
-### Scroll Two: The Account Behind the Rite
+The Court's abstraction, competing visions of order, historical erasure, and uncertain cosmic wound all remain. Concrete aid and wider mystery can coexist without every act of care unlocking a mandatory new crisis.
 
-The Hall address, the depot ledger, and the Sixth draft lead to the same closing clause. Earlier allies can attest to a receipt; earlier omissions can make a household harder to trace. The players decide whether to pursue relief, examine the requisitions, negotiate Temple consent, or follow another concern. Keep the thirty day deadline visible and account for travel.
-
-### Scroll Three: What Remains Open
-
-At the Hinge, apply the actual orders, amendments, and stays the party secured. Two days later, the Temple considers consecration. Relief, the roll, and consent may each have a different outcome. Let a household receive grain or retain a place in the record even if the larger Court remains unchanged.
-
-### Beyond the Hinge
-
-The party may pursue the Spire, a school alliance, reconstruction in the provinces, the survivors of an erased district, or a life beyond Court service. Changes to the Dusk follow evidence, field conditions, and any limits agreed at Session Zero. No province must fall merely because a page assigns it to the second act. An Emperor's return, a new concord, a regime of purity, a revolt, or an open road are possible directions, not rewards unlocked by choosing the corresponding named figure.
+See One Living Chronicle in the Host's Codex for the causal connections and Campaign Continuity for the shared dates and record of consequences.
 
 ---
 
@@ -3334,9 +3338,9 @@ The founding philosophy of the Celestial Empire rests on five principles that ar
 
 **Purity.** The principle that the empire is sustained by the correctness of its rituals and the orthodoxy of its beliefs. Purity is not a state but a practice, a constant vigilance against the forces of Disharmony that threaten to disrupt the balance. Purity is maintained through correct ritual, correct belief, and the elimination of heterodox elements.
 
-### The Unspoken Truths
+### Things Officials Say in Private
 
-Beneath the official ideology, there are truths that every official knows and no one speaks aloud. These truths are the real operating principles of the empire.
+The following are competing judgments heard behind closed doors. They reveal the speaker's experience and allegiance. They are not a second set of cosmological laws: a witness can challenge them, and a faction can act against its own slogan.
 
 The Court rules because it has power, not because it has legitimacy. Legitimacy is a story that power tells itself.
 
@@ -3616,7 +3620,7 @@ The Crimson Dusk is the delayed wound left by both acts. The founding cut the wo
 
 You have been warned. Do not ask how to defeat it. Restore what was severed, answer for what was sacrificed, or watch the wound widen until nothing remains untouched."
 
-The text breaks off here. The remaining pages have not been recovered.
+The text breaks off here. The remaining pages have not been recovered. Its use of the name Crimson Dusk before the first verified manifestations is a question for authentication: prediction, later annotation, and later composition remain possible. Test the surviving copy against paper, provenance, and independent records. Do not present its self accusation as proof of every causal claim it contains.
 
 ### A Final Word for the Host
 
@@ -3626,9 +3630,9 @@ The best sessions are the ones where the players face impossible choices: loyalt
 
 The Dusk is not the villain. The Court is not the villain. The Sun Emperor is not the villain. The villain is the system itself, the machine that grinds people into resources and calls it harmony. The question the game asks is not whether the players can defeat the system. It is whether they can survive it with their humanity intact.
 
-The answer, for most characters, will be no. That is the tragedy of the empire. That is also its beauty. In a world where survival requires compromise, the choice to hold onto one's principles is the only real victory.
+The outcome belongs to play. Compromise can wound a relationship; solidarity, repair, and a kept promise can also endure. Let the people who bear the costs answer what an achievement means to them. Tragedy needs particular losses and human choices, not a verdict that the characters were always going to fail.
 
-Play the empire. Love the empire. Mourn the empire. And when it falls, as it must, write the record of its passing. That is what scribes are for.
+Play the empire through the people who inhabit it. They may preserve it, change it, leave it, or build something among its ruins. Write what their actions made possible and what they could not save. The continuing record should have room for both.
 
 ### Acknowledgments
 

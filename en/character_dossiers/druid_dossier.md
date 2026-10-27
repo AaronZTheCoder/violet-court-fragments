@@ -22,6 +22,10 @@
 
 Bone Script comes from Nine Willow Bend, a place removed from the gazetteer. He carries an archive of four thousand and one names because the people behind them cannot make a claim through a residence code that no longer exists. Restoring an entry might bring relief. It might also bring the officials from whom survivors have learned to hide. He cannot decide that trade on their behalf.
 
+## Connection to the Shared World
+
+A received claim can help an erased household while exposing its location. Bone Script's petition therefore meets Incense Crown's sanctuary and Stray Stroke's knowledge of overlapping identities. Keep the survivors' consent central and do not disclose his private knowledge of Nine Willow Bend without a reason.
+
 ## Expanded Backstory
 
 **Nine Willow Bend.** The gazetteer does not have it. The Bureau of Harmonious Records has a note saying the district formerly designated by that name was reorganized into neighboring prefectures in Year 441 for reasons of efficiency, and that no population transfer was required because the population had already relocated voluntarily.

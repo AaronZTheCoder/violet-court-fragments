@@ -21,53 +21,15 @@ The surface is dark fantasy. The depths are for those who know how to read.
 
 ---
 
-## What Is in the Box
+## One World, Different Views
 
-```
-violet-court-fragments/
-│
-├── README.md                          ← You are here
-├── README_CN.md                       ← Chinese edition
-│
-├── en/                                ← Pure English edition
-│   ├── CORE_RULEBOOK.md               ← The complete game system
-│   ├── HOST_CODEX.md                  ← Host guide and encrypted frameworks (2,200+ lines)
-│   ├── GAME_DESIGN.md                 ← Setting bible and world lore (3,000+ lines)
-│   ├── THE_RECONSTRUCTION.md          ← Main plot spine, for the Host
-│   ├── THE_SEVENTH_NICHE.md            ← Main plot: the Full Rite
-│   ├── CAMPAIGN_CONTINUITY.md          ← Shared case, calendar, clues, and consequences
-│   ├── character_dossiers/            ← 13 playable archetypes with full mechanics
-│   │   ├── alchemist_dossier.md
-│   │   ├── assassin_dossier.md
-│   │   ├── druid_dossier.md
-│   │   ├── elf_dossier.md
-│   │   ├── engineer_dossier.md
-│   │   ├── knight_dossier.md
-│   │   ├── paladin_dossier.md
-│   │   ├── priestess_dossier.md
-│   │   ├── rogue_dossier.md
-│   │   ├── vampire_dossier.md
-│   │   ├── werewolf_dossier.md
-│   │   ├── wildcard_dossier.md
-│   │   └── wizard_dossier.md
-│   ├── adventures/
-│   │   ├── the_first_harmonization_cinematic_cut.md ← Recommended complete cinematic narrative
-│   │   └── the_first_harmonization.md               ← Full adventure production bible
-│   ├── host_tools/
-│   │   ├── session_tracker.md         ← Printable tracking sheet
-│   │   └── dusk_bestiary.md           ← Creature templates and monster rules
-│   └── reference_sheets/
-│       └── quick_reference.md         ← Compact table reference
-│
-├── cn/                                ← Pure Chinese edition
-│   └── ... (mirrors the en/ structure, all 24 documents)
-│
-└── tabletop_rpg_*.jpeg                ← 13 character portrait illustrations
-```
+Start with the Core Rulebook and the Host's Codex. The Codex now opens with One Living Chronicle, a practical map of the world's connections, and The Open Account, a playable opening arc. A player needs character creation and their chosen career mechanics; a Host needs the current situation and its people.
 
-**50 Markdown documents:** two READMEs and 24 game documents in each language. Both editions include modular character creation, thirteen career dossiers, the linked campaign, and its continuity reference.
+The full manuscripts remain part of the same work. The First Harmonization provides the first Audit in compact and cinematic presentations; choose one. The Reconstruction explains the institutions shaping its consequences. The Seventh Niche brings those institutions into a ceremony with the same witnesses and claims. Campaign Continuity keeps their dates and carried decisions together. The setting book retains the wider history, regions, and mysteries.
 
----
+Read a source when a current question reaches it. The chronicle does not require the Host to prepare every region, every figure, and every secret before the first session.
+
+[Begin with the Host's Codex](en/HOST_CODEX.md). [Check a date or consequence](en/CAMPAIGN_CONTINUITY.md).
 
 ## Quick Start
 
@@ -85,11 +47,11 @@ violet-court-fragments/
 
 ### Your first session
 
-1. **The Host reads the Codex.** Start with Part One and Part Two. The Deeper Currents section explains the structural dynamics that drive the Court.
-2. **Choose a primary career and a secondary trade.** Use Core Rulebook Chapter Three. Select a specialization now or during the first three sessions. The dossiers' named figures are examples, not assigned identities.
-3. **Build characters together.** Follow the eight steps in the Core Rulebook, Chapter Three. Decide why your characters know each other. Decide who owes whom.
-4. **Run "The First Harmonization."** Start with `the_first_harmonization_cinematic_cut.md`, the complete cinematic narrative designed for four to six sessions. Keep the full module open as a production bible for expanded encounters, Archetype material, and mechanical detail.
-5. **Carry the case forward.** Read [Campaign Continuity](en/CAMPAIGN_CONTINUITY.md), then follow the party's relief docket through The Reconstruction and The Seventh Niche. Use the Codex frameworks when the party pursues another direction.
+1. Make characters with one primary career, one secondary trade, and player chosen relationships.
+2. Agree why they are helping with the same delivery or person. No shared prescribed past is required.
+3. Use the Codex's opening three scenes. Bring back someone affected by their first decision.
+4. Keep one current intention and one optional invitation. Prepare the next reachable situation, not a list of future campaigns.
+5. When the opening arc resolves, ask which existing person, place, or promise the table wants to follow. Keep the result it already earned.
 
 ---
 
@@ -152,15 +114,15 @@ The Codex is written for the Host's eyes only. Guard it well.
 
 ---
 
-## The Main Plot
+## A Chronicle That Remembers
 
-Two core books carry the campaign. Both are written for the Host, and both cover the same thirty days.
+The empire asks people to survive through institutions that can no longer describe them honestly. A relief file can lead from an empty bowl to a work crew, from a work crew to a river survey, and from a survey to an old promise whose beneficiaries still govern. The Temple's ceremony can return those same people to the place where the Court claims that everything has been settled.
 
-**The Reconstruction** (`en/THE_RECONSTRUCTION.md`) is how the Court survives what it breaks. In the Nine Domains, the word for rebuilding a levee is also the word for rebuilding the record of the levee, and the Court has never seen a reason to use two words for this. The instrument has been rewritten five times in eighty one years, each version forced by the failure of the one before it, and a sixth is in draft. The book contains all six, the Gloss and the Key that make a Court document nearly impossible to read with confidence, the erasure trade that grew out of them, and the question underneath all of it, which nobody in the setting can answer, including the Host.
+The connection is more than a recurring seal. Resources move, people remember, offices answer for earlier signatures, and factions disagree about what a good answer requires. The story preserves the political allegory and cosmic uncertainty while giving every large question a human point of contact.
 
-**The Seventh Niche** (`en/THE_SEVENTH_NICHE.md`) is how the Court settles its dead. The Temple of Ten Thousand Gods predates the empire and holds ten thousand niches, and six of them hold men instead of gods. A seventh is being opened for a Steward dead these many years, whose two most valuable legacies the present Steward has already reversed. The Court does not publish a change of course. It publishes a change of ancestor.
+The First Harmonization, the Reconstruction, and the Seventh Niche are parts of that continuing history. They do not reset the cast or supersede earlier achievements. The Emperor, the founding, and the Dusk remain present in the world; the table can pursue them through evidence and relationships already encountered.
 
-Begin on Hinge Gate 21, Year 452. The Twenty Seventh Relief Docket sends the party from a missing household's entry to a Temple grain depot, then to the disputed terms of the Seventh Niche. The Key turns thirty days later; consecration follows two days after that. The party can preserve claims, release grain, challenge a clause, or pursue a different goal. Each decision changes the people and documents encountered next.
+The Host's Codex explains how to carry those consequences. Campaign Continuity provides the shared calendar. The complete prose and deeper histories remain available when the players' questions reach them.
 
 ---
 

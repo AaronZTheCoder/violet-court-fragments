@@ -22,6 +22,10 @@
 
 Incense Crown is the youngest of the Temple's nine living officiants and the current performer of the Continuance. The Court needs her service but does not own her consent. She protects people within the Temple while negotiating the terms that keep its doors open. The Seventh Niche asks her to distinguish an honor she may freely offer from authority she is being asked to surrender.
 
+## Connection to the Shared World
+
+The same Temple that receives grain also receives people and confers legitimacy. Incense Crown can consent to an admission, withhold a civil rider, and protect testimony as separate acts. The Continuance and the niche liturgy remain different rites.
+
 ## Expanded Backstory
 
 **Four years old.** You were given to the Temple at four. Your family was poor, the Temple fed you and taught you six scripts, and your mother wept for a week and also lived because of what the Temple sent back.

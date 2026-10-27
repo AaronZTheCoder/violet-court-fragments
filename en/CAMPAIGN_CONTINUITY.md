@@ -2,7 +2,7 @@
 
 ## Campaign Continuity
 
-For the Host. This is the shared reference for **The Reconstruction**, **The Seventh Niche**, and an optional opening through **The First Harmonization**. It supplies facts and connections, not a prescribed sequence of player decisions. For these linked adventures, use this chronology when an older passage conflicts with it.
+For the Host. This is the shared calendar and consequence record for one continuing world. The manuscripts provide different views of it, not independent settings. Begin with One Living Chronicle in the Host's Codex, then consult the relevant date, clue, or obligation here.
 
 ### One Case, Three Questions
 
@@ -129,6 +129,20 @@ Lantern relays carry scheduled public recitations and short reports through staf
 | Leave the case                      | The party can pursue another goal                               | The named people continue acting with the resources and evidence they possess                   |
 
 Keep three separate entries in your notes: **relief**, **the roll**, **Temple consent**. Write who holds an effective order, which names are confirmed, missing, or disputed, and what the Temple has actually agreed to. Advance time for travel and completed tasks, not to force the next speech. At the Hinge, resolve the documents the players have changed, not an untouched default ending.
+
+### Carrying the World Beyond the Relief Case
+
+After a consequential choice, note who observed it, which institution must answer, and what materially changed. Bring one into the next scene. This is an annotation to the existing record, not another points system.
+
+If the party follows **work and water**, reuse the delivery's crew, route, or freight contract to reach the Ledger of Fifteen, the Silt Papers, and the Great Weir's compensation claims.
+
+If it follows **names and protection**, reuse a claimant or witness to reach Scorch Field's withdrawn code, Amber Shore's displaced communities, or the consent of Nine Willow Bend's survivors. Bone Script's private knowledge remains private until shared.
+
+If it follows **authority and memory**, reuse the admission agreement or a disputed date to reach the old Temple records, the original Charter, and witnesses to the Spire decisions.
+
+Each route changes what can be asked about the same empire. It does not require all routes to converge on one villain or all people to share one secret. Keep one chosen direction active and at most one additional invitation.
+
+The opening arc may end while those horizons remain. Describe a real result for the family, witness, or crew, and preserve it when the scope widens.
 
 ### The Starter Adventure as an Optional Door
 
