@@ -1,28 +1,26 @@
 # Incense Crown
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Oracle
 
-### School: The Temple of Ten Thousand Gods (tolerated, unaligned, older than the Court)
+### Named figure's affiliation: The Temple of Ten Thousand Gods (tolerated, unaligned, older than the Court)
 
 ### Court Role: Officiant of the Rites the Court Cannot Perform
 
-### Default Gender: Female
+### Named figure's gender: Female
 
 ---
 
 ## Description
 
-You wear a crown of pierced silver and river jade, hung with drops that chime at a frequency chosen four hundred years ago to be inaudible to anyone standing further than three paces away. Beneath it, a veil of unbleached silk. Around your throat, six strands of turquoise, amber, and carnelian, each marking one completed stage of your ordination. Your gown is white, which in the Nine Domains is the color of mourning, embroidered at the placket and hem in cinnabar red and gold thread in a pattern that predates the imperial script and has never been satisfactorily translated.
-
-You are beautiful in a way that is entirely constructed and entirely deliberate. Every element of what people see when they look at you was designed, by people long dead, to produce a specific effect on the nervous system of a frightened human being. It works. It has worked for eight centuries. You are the instrument, and you are also the only person alive who knows precisely how the instrument is built.
-
-The Celestial Court has governed without a public word from its Emperor for about one hundred and sixty four years. It can seize, tax, imprison, and erase. It has never once managed to manufacture legitimacy. Twice a year it needs a rite performed that predates the Founding Charter, and there are nine people left in the Nine Domains who can perform it correctly. You are the youngest by more than forty years.
-
-This makes you untouchable. It also makes you a hostage. You have never been entirely certain which is the larger fact.
-
----
+Incense Crown is the youngest of the Temple's nine living officiants and the current performer of the Continuance. The Court needs her service but does not own her consent. She protects people within the Temple while negotiating the terms that keep its doors open. The Seventh Niche asks her to distinguish an honor she may freely offer from authority she is being asked to surrender.
 
 ## Expanded Backstory
 
@@ -86,43 +84,11 @@ You are famously gracious under insult; a hostile censor can say anything and yo
 
 ## Sample Dialogue
 
-1. When asked whether you believe:
-   "You are asking the wrong question and I say that gently. Whether I believe changes nothing about what the rite does. Two hundred million people sleep better in the eleventh month because a woman in a silver crown said the words. My sincerity is not an ingredient. I used to find that unbearable. Now I find it restful."
+1. Reading the rider: “This asks for more than a place for one man.”
 
-2. To an official who threatens the Temple:
-   "Of course. Close it. I will need to know the date, because the Continuance falls in the eleventh month and I will want to be sure the Council understands that the tablets after that date will be, in the Orthodoxy's own doctrinal language, posthumous. Shall I put my question in writing, or would you prefer I raise it at the rite, in the antechamber, where the acoustics carry?"
+2. Asked whether she will refuse: “First let me see what they have attached to my answer.”
 
-3. When a player asks what the rite actually does:
-   "Eleven minutes. Forty one phrases in a language nobody has spoken since the Founding. I open the third door of the antechamber, I make the offering, I ask the question, and I report the answer. That is all I will tell you, and I will tell you that I have not told you everything, so that you know the shape of the space I am leaving."
-
-4. To someone frightened, in the shrine, at night:
-   "Sit. No, do not kneel, you have been kneeling all day. Sit. I am going to ask you nothing. There is no register here, no form, and no one is going to arrive. You may have this hour and do whatever you like with it, including nothing."
-
-5. When the Bright Mirror questions her loyalty:
-   "High Justicar, I have been performing the Continuance for eleven years, which means I am the only person in the empire who has knelt at that door more recently than you have. If you wish to test my loyalty, you will have to define it first, and I do not believe the Court has ever agreed on a definition. I am loyal to the rite. You will have to decide whether that is enough for you."
-
-6. Regarding the two attendants who report on her:
-   "Ah, White Reed and Little Pine. They file weekly. White Reed is thorough and Little Pine invents things to seem useful. I make sure Little Pine has small true things to report so that she does not have to invent large false ones. She has a mother. It is a manageable arrangement and I am fond of them both, and if you find that grotesque then you have understood it correctly."
-
-7. When offered a faction alliance:
-   "Every school has made this offer. I give them all the same answer, which is that I will pray for their endeavor with complete sincerity and commit to nothing. The moment I belong to one of you, I am a partisan, and a partisan can be opposed, and a thing that can be opposed can be removed. My uselessness to all of you is the only reason I am alive."
-
-8. On the Crimson Dusk:
-   "The old liturgy has a phrase for it. It is usually translated as the unrecorded debt. That translation is wrong. The word does not mean debt, it means the portion set aside at a meal for someone who has not arrived. The Temple has been setting that portion aside for eight hundred years and this is the first century anyone has come to collect."
-
-9. When someone calls her a collaborator:
-   "Yes. That is accurate and I would like you to keep using it, because the alternative words people use are worse and less true. I stand beside them at the rite. I take their silk. And forty one people are alive this year who would not be, and I cannot tell you their names, and so you will have to decide what to call me on incomplete information, which is the position everyone in this empire is in about everyone else."
-
-10. To a dying person, performing the last rite:
-    "I am going to say your name and the names of your parents and the name of the place you were born. That is the whole of it. The gods are not the point. The point is that it will have been said aloud, correctly, by someone whose job it is to say it correctly, and that is a different thing from being forgotten. Tell me the place. Say it slowly. I will get the tone right."
-
-11. Removing the crown at the end of a rite:
-    "Eleven minutes. Do you know what I think about, in there? Whether the eighth phrase should have a rising tone. My teacher said rising. Her teacher said falling. One of them is wrong and it has been wrong for a hundred and forty years and nothing has happened, and I do not know what that means and I think about it constantly."
-
-12. Alone, unveiled, to no one:
-    "I was four. I would like the record to show, somewhere, to someone, that I was four years old and nobody asked me."
-
----
+3. To a waiting family: “I cannot promise the Court will listen. I can receive your account here.”
 
 ## Personal Connections
 
@@ -142,33 +108,15 @@ You are famously gracious under insult; a hostile censor can say anything and yo
 
 ## Roleplaying Guide
 
-You are the most powerful person at this table and the least free, and you understand both facts with total clarity, and you have organized your entire personality around not letting either one show.
-
-You are unfailingly gracious. Not warm: gracious, which is a technique. You have been trained since four in the management of frightened people, and it has made you extraordinarily good at making a room feel calm, and it has made it very difficult for you to have an unmanaged conversation with anyone. When a player character earns a genuinely unguarded response from you, treat it as a significant event. It should happen perhaps twice in a campaign.
-
-You speak slowly and you never fill silence. Silence is your primary instrument. Officials who are used to the Court's constant verbal maneuvering find themselves talking into your pauses and saying more than they meant to. You do this deliberately. You have done it since you were nineteen.
-
-You are physically still. Trained stillness, ritual stillness, the kind that reads as serenity to observers and is actually enormous sustained effort. Your tell is the third strand of your necklace: when you are calculating, you move one bead. Your attendants have noticed. The Commission has not, because the Commission watches your face.
-
-Play the contradiction and refuse to resolve it. You are a collaborator. You stand beside the Grand Council and lend them the legitimacy they cannot make. You are also running the only functional sanctuary in the capital. Neither of these cancels the other. Do not let the table push you toward being secretly good or secretly compromised. You are publicly compromised and privately decent, and each truth makes the other possible: the collaboration is what makes the sanctuary possible.
-
-You do not know if you believe. Play this as a genuinely open question rather than as concealed atheism. Something answered Ash in the shrine. You have knelt at that door twenty two times. You are not a skeptic pretending. You are a person who has deliberately declined to look directly at the thing at the center of her own life, because she suspects that looking would require her to choose, and choosing would end the arrangement that keeps forty one people alive.
-
----
+Let formal precision give way to direct speech when the ceremony is over. She can seek counsel without surrendering her judgment. Neither beauty nor loneliness substitutes for her obligations and competence.
 
 ## Ability Examples
 
 ### The Rite That Cannot Lapse
 
-The Censor has been building this case for four months and it is a good case, and he lays it out in the Council chamber with the documents in order, and the elders are listening, and you can feel the room deciding.
+The Censor lays out the charges and asks whether you have anything to add. You identify a ritual duty within your appointment and name the official who can verify it.
 
-You wait for him to finish. You always wait for them to finish.
-
-Then you say that you have no response to the charges, that you will of course submit to whatever the Council determines, and that you will need guidance on one administrative matter: whether the Continuance in the eleventh month should be performed before or after your detention, and if after, whether the Council would prefer you perform it from custody, as there is no precedent and the Temple would want to observe the correct form.
-
-Silence. You have not threatened anyone. You have asked a procedural question. There is no sentence in what you said that could be read aloud as disloyal.
-
-The eldest elder says the matter can be reviewed at a later session. The case does not come back.
+The hearing is suspended until the next sunset. The accusation remains. Outside, you ask a companion to obtain the missing witness statement while you find someone willing to represent you. The ability has given the party time to act; it has not decided the case.
 
 ### Sanctuary of the Ten Thousand
 
@@ -206,43 +154,19 @@ _Complication:_ There are nine of you left and the next youngest is eighty one. 
 **Truth Four: Something answered Ash.** You performed the last rite for a woman who was Dusk Touched and not entirely dead, and something responded, and it was not what responds at the door.
 _Complication:_ It knew the forty one phrases. It said the eighth with a rising tone.
 
-**Suggested Truth Five:** The Temple's ninth year teaching explains why the Sun Emperor did not abolish it. You received that teaching at nineteen. You have told no one, including the Grand Council, including under direct question, and you have structured eleven years of your life around never being asked it by someone you cannot refuse.
+**Suggested Truth Five:** You learned the Temple's ninth year teaching at nineteen. It offers an explanation for why the Sun Emperor did not abolish the Temple. You have kept it private for fifteen years. Decide with the Host what evidence supports it and who might dispute the interpretation.
 
-**Suggested Truth Six:** You have begun composing the ordination in writing. This is forbidden, it is the one thing your entire lineage exists to prevent, and it would end the Temple's leverage and therefore its protection within a year of discovery. You are doing it anyway, one phrase a month, in a cipher of your own devising, because you have watched two of the nine die and you have done the arithmetic and you would rather the empire lose its hostage than lose the rite.
+**Suggested Truth Six:** You have begun composing the ordination in writing. This is forbidden, it is the one thing your entire lineage exists to prevent, and it would end the Temple's leverage and therefore its protection within a year of discovery. You are doing it anyway, one phrase a month, in a cipher of your own devising, because you have watched two elder officiants die before the present nine were counted and you have done the arithmetic and you would rather the empire lose its hostage than lose the rite.
 
 ---
 
 ## Daily Life
 
-You wake at the fourth hour, before your attendants, which is the only hour of the day you are unobserved. You use it badly: you sit at the window and you do not meditate and you do not pray and you think about the eighth phrase.
-
-White Reed comes at the fifth hour with water and the day's schedule. You are dressed by two people. This takes fifty minutes and it is not vanity; the crown alone requires a second pair of hands, and the placket embroidery has an order of fastening that is itself liturgical. You have not dressed yourself since you were eleven and you sometimes think about that while it happens.
-
-Mornings are the Court. You attend openings, confirmations, and the endless ceremonies by which the Celestial Court reassures itself that it is still legitimate. You say very little. Your presence is the content. You have learned to read the Council's internal politics entirely from seating and from who approaches you first, and you are better informed than most elders, because everyone speaks freely near a woman they have decided is furniture.
-
-Midday you return to the Temple. This is the real work and none of it is written down. You receive petitioners in the outer hall, perform small rites, bless what needs blessing. In the third hour of afternoon your attendants take their meal, and for forty minutes you are in the shrine of the drowned, and what happens there does not exist.
-
-Afternoons you study. Six scripts, four of them dead. You are the empire's foremost authority on liturgical languages and this is genuinely your pleasure, the one part of your life that was not assigned. Lately your study has drifted: you have been reading the Founding era material, looking for the Temple in it, looking for why He let it stand.
-
-Evenings are formal dinners you cannot refuse. You eat almost nothing at them. You have perfected the appearance of eating.
-
-You return at the second hour of night, are undressed, and then you are alone with your hair down and your face bare, and this is the only time you look like a woman from a fishing prefecture. You write one phrase of the ordination into the cipher. It takes about twenty minutes. Then you burn the working notes, and you sleep about four hours.
-
-Twice a year, in the eleventh and the fifth month, you walk into the Spire's antechamber and kneel at a sealed door and ask a question in a language that has been dead for four hundred and fifty two years. Those are the only twenty two minutes of your year in which nobody is watching you, because during the rite nobody is permitted to raise their head.
-
----
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: The Weight of the Crown.** You begin to use your position deliberately rather than defensively. You had thought of your untouchability as a wall you stood behind. You discover it is a tool you can point at things. The first time you deploy a procedural question to destroy a case against someone who is not you, you feel a satisfaction so sharp it alarms you, and you understand that Mother Nine Bells felt it too, and that this is why she warned you about it exactly once and never again.
-
-**Level 5: The Undercroft Grows.** Word has spread through channels you did not open and cannot close. People arrive now. You have had to build systems: signals, sponsors, a rule about how many, a rule about who decides. You have become an administrator of mercy, which means you have become someone who turns people away by criteria, and you have discovered that having criteria is worse than having none, because criteria are a thing you chose.
-
-**Level 7: The Answer Changes Again.** The response at the door alters a fourth time, and this time it is not a variation, it is an address. Something on the other side of that door is aware that the woman kneeling there is a specific person, and has begun, in a language dead for four and a half centuries, to say something that is meant for you.
-
-**Level 9: The Unveiling.** You will stand at some point in a room, before the Grand Council or before the empire, and you will have to decide whether to say aloud the thing you received in your ninth year. Saying it ends the Court's doctrinal foundation, the Temple's protection, and your life, in that order, over about six weeks. Not saying it means the arrangement continues, and the sanctuary continues, and the rite continues, and you go on being the most useful liar in the Nine Domains. There is no third option and the Host must not invent one for you.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
@@ -255,7 +179,7 @@ Twice a year, in the eleventh and the fifth month, you walk into the Spire's ant
 | Presence  | 20    | +5       |
 | Resolve   | 16    | +3       |
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ---
 
@@ -267,7 +191,7 @@ Twice a year, in the eleventh and the fifth month, you walk into the Spire's ant
 | Qi Pool           | 10 + Intellect Modifier + 6 | Calculate |
 | Sanity            | 20 + Resolve Modifier       | Calculate |
 | Initiative        | Swiftness Modifier          | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 10        |
+| Defense           | 10 + Swiftness Modifier     | Calculate |
 | Proficiency Bonus | Level 1                     | +2        |
 
 ---
@@ -290,9 +214,9 @@ From the full skill list in the Core Rulebook (Chapter Three).
 
 ### The Rite That Cannot Lapse
 
-_They cannot remove you. The arithmetic will not permit it._
+_A duty owed elsewhere can buy you time here._
 
-Once per session, when you are formally accused, detained, sanctioned, or subjected to a Harmonization Audit, you may raise a procedural question regarding the continuity of the rite. The proceeding is suspended and deferred indefinitely. This works on any Court body including the Commission for Celestial Purity. It does not work twice on the same body in the same campaign arc, it does not protect anyone but you, and each use raises your visibility: the Host advances one faction's private plan to solve the problem you represent.
+Once per session, when formally accused, detained, sanctioned, or subjected to a Harmonization Audit, invoke a ritual duty within your agreed appointment. The Court body suspends the proceeding until the next sunset while that obligation is verified. You cannot use this twice on the same body in one campaign arc, and it protects only you. State the duty and the official who can verify it. This buys time for representation or evidence, not permanent immunity.
 
 ### Sanctuary of the Ten Thousand
 
@@ -342,7 +266,7 @@ Choose one, or create your own with the Host:
 - The answer at the door changed four years ago at your fifteenth performance, and you have reported the old formula at every Continuance since because reporting the change would require explaining how you can tell.
 - There are six people in the undercroft and one of them is not who they claim to be. You have known for two weeks. Every day you do not act is a day the other five are exposed.
 - You are the youngest of nine ordained officiants and the next is eighty one. You have taken no successor. Certain parties have begun to notice that a hostage with no replacement is worth more than one who has trained a replacement.
-- You are writing the ordination down in a private cipher, one phrase a month. It is the one thing your lineage exists to prevent. You are doing it because you have watched two of the nine die.
+- You are writing the ordination down in a private cipher, one phrase a month. It is the one thing your lineage exists to prevent. You are doing it because you have watched two elder officiants die before the present nine were counted.
 
 ---
 
@@ -354,6 +278,6 @@ As you gain levels, you may purchase the following advances unique to your Arche
 
 **Level 5: The Undercroft Grows.** You may maintain a hidden sanctuary population. The Host tracks it. You may call on it once per session for information, shelter, or hands, and you must accept what protecting it costs.
 
-**Level 7: The Answer Changes Again.** Once per session you may ask the Host one question about the Sun Emperor, the Spire, or the Dusk, and receive an answer that is true, complete, and phrased in a dead language you must then interpret.
+**Level 7: The Answer Changes Again.** Once per session, ask one question about the Sun Emperor, the Spire, or the Dusk. The Host gives a truthful observation relevant to it, phrased in a dead language. After translation, distinguish the observation from possible explanations. This ability cannot settle an intentionally unresolved cause or withhold an available answer merely to preserve suspense.
 
-**Level 9: The Unveiling.** Once per campaign you may speak the ninth year teaching aloud. Every faction's plans reorganize around it within the scene. The Court's doctrinal foundation begins to fail. The Host determines how long you live afterward, and the answer is measured in weeks.
+**Level 9: The Unveiling.** Once per campaign, disclose a substantiated ritual teaching in a witnessed scene. Those present must answer its specific challenge to their authority before invoking that authority against you in the scene. This does not compel belief or loyalty. The Host records who accepts, contests, or suppresses the evidence and follows those people's actions. The disclosure does not predetermine your death or the Court's collapse.

@@ -1,24 +1,26 @@
 # Bright Mirror
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Justicar
 
-### School: Bright Mirror
+### Named figure's affiliation: Bright Mirror
 
 ### Court Role: Commission for Celestial Purity
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ---
 
 ## Description
 
-You are a Justicar of the Commission for Celestial Purity: investigator, inquisitor, and executioner of the Court's highest laws. You wear gold and argent ceremonial plates over concealed armor, polished until they gleam like a mirror. You once believed your blade had never tasted innocent blood because you had never been wrong about a target. The Hearthstone Healer case ended that certainty. You radiate sanctity like heat from a forge. Standing near you feels like being weighed.
-
-You believe in the Court's founding ideals with an intensity that terrifies everyone, yourself included. You have seen what corruption does. You have cut it out of the body of the empire. You will continue to cut until the empire is pure, or until there is nothing left to cut.
-
----
+Bright Mirror leads the Commission for Celestial Purity. He believes public power must answer to a standard beyond convenience. He has also obeyed an order to halt an inquiry he thought necessary. That contradiction has not made him abandon the law. It has made him less willing to accept an authority that cannot explain its own actions.
 
 ## Expanded Backstory
 
@@ -94,31 +96,11 @@ You will execute the order on the day that arithmetic changes. Incense Crown kno
 
 ## Sample Dialogue
 
-1. When interrogating a suspect:
-   "I am going to ask you a question. You may answer truthfully or falsely. If you answer falsely, I will know. I will not tell you how I know. I will simply ask another question. We will continue this process until you either tell the truth or exhaust my patience. My patience is considerable."
+1. Examining a witness: “Which part did you see yourself?”
 
-2. When an ally tells you to compromise:
-   "I cannot. You are asking me to be less than what I am. I have tried that. It does not work. The truth does not become less true because it is inconvenient. Justice does not become less just because it is difficult. I will find another way. But I will not compromise."
+2. Questioned about a superior: “Their office is not evidence. Neither is my suspicion.”
 
-3. When confronted with the consequences of your actions:
-   "You are correct. A person is dead because of me. That person was guilty. I verified this before I acted. If you are asking whether I feel regret, the answer is no. If you are asking whether I feel the weight of what I have done, the answer is yes. Every time. Every death. I carry them all. That is how I know I am still on the right path."
-
-4. When someone tries to charm or manipulate you:
-   "I can see what you are doing. Your voice has changed pitch. Your breathing has become shallower. You are attempting to produce an emotional response that will cloud my judgment. I am immune to this. I suggest you try honesty. It is more effective over time, though I understand it is more difficult in the moment."
-
-5. When you find evidence against someone you respected:
-   "I had hoped this would not be the outcome. I had hoped you were different. The evidence does not care about my hopes. It does not care about your reputation. It does not care about the good work you have done. It only cares about the truth. I care about the truth. You have left me no choice."
-
-6. When an innocent person is in danger because of your investigation:
-   "Step behind me. I will not let them touch you. I failed you once by not seeing the full picture. I will not fail you again. Stay close. Keep your head down. We will get through this together."
-
-7. When asked if you ever doubt yourself:
-   "Every moment. Doubt is not the absence of faith. Doubt is the companion of faith. I doubt constantly. I doubt my evidence. I doubt my interpretations. I doubt my own perceptions. Then I check them. I verify them. I ask what would prove me wrong. When the evidence survives every challenge I can give it, I act. Doubt does not disappear. It remains a duty. If new evidence comes, I reopen the judgment."
-
-8. In a quiet moment, to yourself:
-   "I wonder what my mother would think of me now. I wonder if she would see the work or the cost. I wonder if she would recognize the child who learned to hear truth in a temple. I wonder if she would recognize me at all."
-
----
+3. Offered a procedural compromise: “Put the exception in writing, with the name of the person accepting responsibility.”
 
 ## Personal Connections
 
@@ -138,19 +120,7 @@ You will execute the order on the day that arithmetic changes. Incense Crown kno
 
 ## Roleplaying Guide
 
-You are a person defined by the pursuit of warranted judgment in a world that resists clear answers. Long ago, you chose to believe that truth exists, that evidence can bring people closer to it, and that justice requires acting on the strongest conclusion the record can support. This choice has cost you everything: your family, your mentor, your peace of mind. You continue to make it anyway.
-
-Your internal conflict is between the desire for justice and the knowledge that even disciplined investigators can be wrong. You cannot afford carelessness, but you also cannot afford denial. Your power depends on testing your own conclusions, admitting mistakes, and correcting them before they harden into harm. You never carry an error lightly, and you refuse to hide one when facing it could prevent another. You tell yourself you are more careful now and that you will not repeat the same failure. This may be true. It may also be the promise that lets you keep doing the work.
-
-What keeps you up at night is the gap between the world as it is and the world as it should be. You see corruption everywhere. Every compromise, every bribe, every unspoken agreement that lets the guilty walk free. You see it all. You cannot stop seeing it. Sleep is difficult because the world does not stop being broken when you close your eyes. It simply becomes quieter.
-
-You treat allies with a fierce, uncomfortable protectiveness. You do not know how to show warmth. You were not trained for warmth. You show care by being thorough, by being vigilant, by watching for threats that others miss. You will stand between an ally and danger without hesitation. You will not tell them you care about them. You will show them by surviving and by making sure they survive too.
-
-You treat enemies with the cold precision of a surgeon cutting out a tumor. You do not enjoy it. You take no pleasure in judgment. You feel the weight of every sentence you deliver. You carry it. You do not let it slow you down. Enemies who surrender are given the full measure of the law. Enemies who fight are met with overwhelming force. You do not taunt. You do not gloat. You judge. You move on.
-
-You notice things that others miss because you are always looking for the crack in the facade. A politician whose smile does not reach their eyes. A merchant whose hands are too still. A guard whose gaze flicks to a specific door when asked an innocent question. You see the tells because you have trained yourself to see them. Your tell when you are lying is that you become very still. You stop breathing audibly. Your voice becomes flat. You deliver the lie like a verdict. Your tell when you are being sincere is that your voice changes. It becomes quieter. You look at the person you are speaking to and you let them see you, not the Justicar. It is the most vulnerable thing you do.
-
----
+His precision should clarify a dispute. He can revise a conclusion when evidence changes. Do not use supernatural certainty to settle another character's motives, or treat every hesitation as guilt.
 
 ## Ability Examples
 
@@ -206,33 +176,11 @@ _Complication:_ You have found the person who fabricated the evidence. It was yo
 
 ## Daily Life
 
-You wake before dawn. Prayer is the first thing you do, though you are not certain who or what you are praying to. The Orthodoxy's gods. Your father's ghost. Your mother's silence. The concept of justice itself. You kneel in the dark and you empty your mind. You let the truth of the previous day settle. You prepare yourself for the truth of the day to come.
-
-You inspect your ceremonial plates and the concealed armor beneath them. Every Justicar maintains their own equipment. It is not just protection. It is a symbol. The gold and argent must be polished. The seals must be intact. The blade must be sharp. You perform these rituals with the same precision you bring to an investigation. If your equipment is in order, you are in order.
-
-Your first task of the day is reviewing new case files. The Commission receives dozens of reports each night: suspicious deaths, allegations of corruption, reports of Dusk activity. You read them all. You triage. You decide which cases require your personal attention and which can be delegated. You delegate very few.
-
-You conduct investigations in the afternoon. Interviews. Evidence collection. Scene analysis. You work alone. The Commission provides assistants, but you do not trust them. Not since you discovered that your last assistant was fabricating evidence. Working alone lets you account for every step, though part of you knows it also leaves fewer people able to challenge you.
-
-You return to your quarters in the evening. You write your daily report. You review your evidence. You prepare for the next day. You eat a simple meal: bread, cheese, water. You do not drink alcohol. You do not use any substance that could cloud your judgment. Purity extends to your body.
-
-Before sleep, you read a few pages from the Code of Celestial Purity. You have read it cover to cover many times. You find new meanings each time. Or perhaps you project new meanings onto it. You are no longer certain which. You sleep. You dream of the Hearthstone Healer. You wake. You begin again.
-
-What you dread most is the moment you discover that the corruption goes all the way up. That the Court itself is irredeemable. That the Sun Emperor knows and permits it. You have investigated officials at every level. You have found corruption at every level. You have not investigated the throne. You are afraid of what you would find. You are afraid that your entire life's work has been treating symptoms while the disease consumes the host.
-
----
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Aura of Truth.** When you unlock Aura of Truth, you feel it as a change in the air around you. Your allies begin to see more clearly. They ask better questions. They notice inconsistencies that would have escaped them before. The Aura is not a power you project. It is a side effect of your presence. You have become so aligned with truth that it radiates from you. The cost is that you cannot turn it off. Your allies benefit. Your enemies become more guarded. You become more isolated. The truth is a lonely place to live.
-
-**Level 5: Judgment.** Judgment changes your relationship with your blade. It is no longer just a weapon. It is an extension of your will. When you strike a corrupt target, the additional 2d8 radiant damage is not just destruction. It is revelation. The target feels their corruption burning away in the moment before they die. They know why they are being punished. You have seen it in their eyes. Some of them thank you in their final moment. Some of them curse you. Both responses are acceptable. What matters is that justice is done. The cost is that the blade remembers. It holds the reflections of everyone it has judged. When you look at the blade, you see their faces looking back.
-
-**Level 7: Confession.** Confession is your most intimate power. When you compel a target to answer a question truthfully, you are not using force. You are creating a space in which truth becomes the only option. The target feels the pressure of your certainty. They feel the weight of your presence. The question hangs in the air like a blade. They can resist. Some do. But if they fail, the truth comes out of them like a confession they have been holding for years. They do not just answer. They unburden. The cost is that you feel their relief. You feel the moment when the lie leaves them and they become clean. You are sharing their confession. You are carrying a piece of it with you. After enough confessions, you are carrying pieces of everyone you have judged. You are becoming a mosaic of other people's sins.
-
-**Level 9: Final Purity.** Declaring Final Purity is the most dangerous thing a Justicar can do. You are stating, with absolute certainty, that a target is beyond redemption. You are committing your entire being to their destruction. If you are correct, you become an instrument of perfect justice and gain Advantage on every roll against that target for the rest of the scene. If you are wrong, if the target is not truly beyond redemption, the light leaves you. Your abilities disappear. You become ordinary. The judgment is not just on the target. It is on you. You are declaring that you know the difference between redeemable and irredeemable corruption. You are betting your soul on that knowledge. The cost is absolute. You either win everything or lose everything. There is no middle ground. There never has been.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
@@ -245,7 +193,7 @@ What you dread most is the moment you discover that the corruption goes all the 
 | Presence  | 18    | +4       |
 | Resolve   | 16    | +3       |
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ---
 
@@ -257,7 +205,7 @@ What you dread most is the moment you discover that the corruption goes all the 
 | Qi Pool           | 10 + Intellect Modifier + 4         | Calculate |
 | Sanity            | 20 + Resolve Modifier               | Calculate |
 | Initiative        | Swiftness Modifier                  | Calculate |
-| Defense           | 10 + Swiftness Modifier + 1 (armor) | 11        |
+| Defense           | 10 + Swiftness Modifier + 1 (armor) | Calculate |
 | Proficiency Bonus | Level 1                             | +2        |
 
 ---
@@ -339,10 +287,7 @@ Choose one, or create your own with the Host:
 
 As you gain levels, you may purchase the following advances unique to your Archetype (5 AP each):
 
-**Level 3: Aura of Truth.** Allies in your Zone gain Advantage on Insight checks. Your presence sharpens their perception. _You cannot turn the Aura off. Truth radiates from you. Your allies benefit. You become more isolated._
-
-**Level 5: Judgment.** Your Sanctified Strike now deals 2d8 additional damage to corrupt targets. The weight of justice has grown heavier. _Your blade remembers every judgment. When you look at it, you see their faces looking back._
-
-**Level 7: Confession.** Once per session, you may compel a target to answer one question truthfully. The target may resist with a Resolve check against TN 18. If they fail, they speak the truth as they know it. If they succeed, they are immune to this ability for one week. _You feel their relief when the truth leaves them. You carry pieces of everyone you have judged. You are becoming a mosaic of other people's sins._
-
-**Level 9: Final Purity.** Once per campaign, you may declare a target beyond redemption. For the next scene, you have Advantage on all rolls against that target. If you are wrong, if the target is not truly beyond redemption, you permanently lose all Justicar abilities. The light will not be mocked. _You are betting your soul on your certainty. You either win everything or lose everything. There is no middle ground. There never has been._
+**Level 3: Aura of Truth.** Allies in your Zone gain Advantage on Insight checks. Your presence sharpens their perception.
+**Level 5: Judgment.** Your Sanctified Strike now deals 2d8 additional damage to corrupt targets. The weight of justice has grown heavier.
+**Level 7: Confession.** Once per session, you may compel a target to answer one question truthfully. The target may resist with a Resolve check against TN 18. If they fail, they speak the truth as they know it. If they succeed, they are immune to this ability for one week.
+**Level 9: Final Purity.** Once per campaign, you may declare a target beyond redemption. For the next scene, you have Advantage on all rolls against that target. If you are wrong, if the target is not truly beyond redemption, you permanently lose all Justicar abilities. The light will not be mocked.

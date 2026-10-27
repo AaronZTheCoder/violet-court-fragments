@@ -2,6 +2,10 @@
 
 ## For the Table
 
+### Modular Careers at a Glance
+
+One primary career, one secondary trade, one specialization. Assign 16, 14, 14, 12, 10, 8, then add six points, maximum 18. Take two primary Skills, one secondary Skill, and two free Skills, five different proficiencies total. Specialization uses a free slot. Only the primary grants abilities, derived bonuses, equipment, and an advancement tree. Start with 10 Celestial Favor, 50 Ritual Harmony, and 20 Copper Leaves. Faction Standing starts at 0; optionally choose +10 with one School and minus 10 with another. Keep named figure histories optional.
+
 ### Core Resolution
 
 **d20 + Facet Modifier + Proficiency Bonus (if applicable) vs Target Number**

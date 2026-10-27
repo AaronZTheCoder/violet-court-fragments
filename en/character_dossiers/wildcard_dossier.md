@@ -1,26 +1,26 @@
 # Stray Stroke
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Drifter
 
-### School: None. Your file is classified Pending Verification and has been for nine years.
+### Named figure's affiliation: None. Your file is classified Pending Verification and has been for nine years.
 
 ### Court Role: Registered eleven times. Verified never.
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ---
 
 ## Description
 
-You have been legally registered eleven times, under eleven names, in eleven offices, across seven provinces. You have never forged a document in your life. Every one of those records is genuine, stamped, sealed, and filed by the empire's own hand. You simply walked into a hall where nobody knew you, answered the questions, and let a tired clerk write down whatever you said. That is the entire method. It has worked for twenty five years and it has never once failed, and the fact that it has never once failed is the thing you cannot stop thinking about.
-
-You are thirty eight. Your coat is dyed with the muds of the roads you walk and you redye it every season, which means you are wearing a map of your own travels that nobody can read. Your hat keeps your face in shadow at any hour, which was not the reason you bought it and is the reason you kept it. Around your shoulders is a strip of hemp cloth, ten feet long, covered end to end in what looks like decorative marking. It is not decoration. It is a registry. There are eleven entries on it, and one mark at the fringed end that is not an entry, because it is not a name. It is the shape of a sound.
-
-Everyone else at this table can be reached through the record. Take their rank, their seal, their posting, their family registration, and you have taken them. Nobody can reach you that way, because there is no entry anywhere in the Nine Domains that is reliably you. You used to think of this as freedom. You have had twenty five years to think it over.
-
----
+Stray Stroke travels under several genuine registrations that the Court has never reconciled. Those papers have helped him cross checkpoints and carry others to safety. They have also left consequences for people whose names became entangled with his. He seeks a record of his own beginnings without knowing whether finding it will settle who he is now.
 
 ## Expanded Backstory
 
@@ -70,43 +70,11 @@ You have queued in that reading room four times. You have left four times. You a
 
 ## Sample Dialogue
 
-1. When asked your name:
-   "Which one would be useful to you? I am not being clever. I have eleven and they are all genuine and I would rather give you the one that makes the next hour easier for both of us. If you want the other kind of answer, ask me in a room with fewer people in it."
+1. At a checkpoint: “The permit is current. Which other paper do you need?”
 
-2. When someone assumes you are a forger:
-   "I have never forged a document. I would not know how and I would not risk it. Forgery can be discovered. Everything I carry was issued by an office of this empire, stamped by an official of this empire, and filed in the records of this empire, and every word of it is true. That is the point. I did not beat your system. Your system made all of these men. I just stood there while it did."
+2. Asked his name by a companion: “For this road, that one is enough. I know that is not what you asked.”
 
-3. When a checkpoint officer asks for his papers:
-   "Ninth grade carrier's permit, issued in the capital, current through the ninth month. Route authorization for the southern road. Tax receipt from the third quarter. Take your time. I have never once been in a hurry at a checkpoint and I recommend the practice."
-
-4. When an official threatens to have him stripped of rank:
-   "I do not have a rank. Or a seal, or a posting, or a stipend, or a family registration, or anything else you are trained to take away from a man. I understand this is frustrating. I would like you to understand that it is not a strategy. It is a description."
-
-5. When asked why he keeps moving:
-   "The honest answer is that I do not know. I have been happy in four places and I left all four, and I did not leave because I was found out, because I have never once been found out. I left because at some point it stops feeling like standing somewhere and starts feeling like standing still."
-
-6. To someone who calls what he does a talent:
-   "It is not a talent. Watch what actually happens. A clerk asks a question. You answer it. He writes down the answer. There is no second step. If you think that requires talent, you have never been on the other side of that desk, and I have been on both sides of it more times than I can count."
-
-7. When the Crimson Dusk is mentioned:
-   "I was thirteen and the tide stopped going out. That is all I have. People want me to describe it and there is nothing to describe. The water got thick. Then the water got hard. Then there was a queue, and a clerk, and a book."
-
-8. When someone offers to have his identity formalized by a patron:
-   "You are offering to make one of me official. I appreciate it and I am going to decline, because the one you would make official would be the eleventh, and the eleventh has been alive for two years and has never met my mother. If I am going to be one man for the rest of my life I would like it to be the correct one."
-
-9. When a companion asks whether he ever gets tired of it:
-   "There is a thing that happens around the third year. You stop rehearsing. You just answer to it. And one morning you are shaving and you catch yourself thinking about a childhood, and it is a good childhood, with a boat in it, and it is not yours. That is the part I would warn someone about. Not the lying. The lying is nothing. It is that the lie eventually stops needing you."
-
-10. When asked what the marks on his scarf mean:
-    "It is a registry. Eleven entries, in a shorthand carriers use, which reads as pattern to anyone who has ever looked at it, including four Commission inspectors. I am the only person in the Nine Domains carrying a complete and accurate record of himself, and I am carrying it on the outside, in public, in daylight, where nobody can read it."
-
-11. To Bone Script, in the petitions hall queue:
-    "You want to be entered. I have been entered eleven times. I am telling you this because you should hear it from someone who has done it, and because I do not think it will change your mind, and because I would think less of you if it did."
-
-12. Alone, with the fiddle, badly:
-    "Same four notes. Same wrong four notes, in Amber Shore and the Granary and the Foundries and here. Everything else about me has been replaced twice. This is the only thing that has ever come along."
-
----
+3. Preparing an escape: “I can get us to the crossing. Decide what you can leave before we start.”
 
 ## Personal Connections
 
@@ -128,19 +96,7 @@ You have queued in that reading room four times. You have left four times. You a
 
 ## Roleplaying Guide
 
-You are the most relaxed person at the table and the least anchored. Everyone else is defending a position: a rank, an office, a faction, an archive, a rite. You have nothing to defend and nothing to lose, and that produces a calm that other players find restful and officials find deeply unsettling, because a man who cannot be threatened is a man who has not been correctly categorized.
-
-You are pleasant. Be genuinely pleasant. Twenty five years of needing every stranger to remember you as unremarkable and agreeable has made you excellent company, and none of it is fake, which is the strange part. You learned warmth as a technique and it became warmth. You do not know what to do with that information.
-
-You lose arguments on purpose. You will haggle with a ferryman over a crossing and concede, every time, because a man who wins is remembered as a man who won, and a man who loses cheerfully is remembered as nobody in particular, and being nobody in particular is a professional accomplishment that takes years to master. Play this openly. Let the table notice you doing it. Let them work out why.
-
-Your tell when you are lying is nothing at all, which is the problem. You have no tell. What you have instead is the opposite: when you are telling the truth about yourself, you become slower and slightly clumsy, because you have almost no practice, and the people who know you well have learned to listen for the clumsiness.
-
-Play the difference between competence and identity. You are extremely good at this. You are also aware, in a way you cannot argue yourself out of at three in the morning, that a skill practiced for twenty five years is not a thing you have. It is a thing you are made of. There is a version of the ending where you get the Amber Shore registry, read your own name, and feel absolutely nothing, and you have known this was possible for two years, and it is the only outcome you are actually frightened of.
-
-Do not play this as a rogue with a gimmick. You are not stealing anything and you do not think of yourself as clever. You think of yourself as a man who found a door open when he was thirteen, walked through it because he was hungry, and has been unable to find the room he was in before.
-
----
+Give him the ease of a practiced traveler without making every exchange an identity trick. Trust can change what he chooses to disclose. He need not respond to kindness with a rehearsed joke or a demonstration of cleverness.
 
 ## Ability Examples
 
@@ -202,35 +158,11 @@ _Complication:_ The route runs from the outer market district to a point eleven 
 
 ## Daily Life
 
-You wake early wherever you are, which this month is a carrier's bunk above a rope maker's shop in the outer market district, four copper a week, no residence token required, three exits including the one through the drying loft. You have never in your adult life slept in a room with one exit. You do not think of this as fear. You think of it the way other people think of putting on shoes.
-
-You check the permit first. Not because anyone will ask this early but because a document that lives against a man's body in all weathers needs looking after, and a carrier whose papers are soft at the folds is a carrier who gets a second question. You oil the wrap. You square the edges. It takes two minutes and you have done it every morning for two years.
-
-You eat at a stall. Always a stall, always standing, always the same three or four in rotation and never the same one twice running. You are pleasant to the person who serves you and you remember something about them, and you ask after it, and this is genuine and also it means that if anyone ever comes asking about a man in a wide brimmed hat, four people will say that he was nice and none of them will be able to describe him.
-
-Mornings you carry. A sealed tube from a merchant house to a factor at the river, a verbal message that must not be written down, a package whose contents you have not opened because a carrier never opens what he carries and because Sixteen Bridges would have taken the fee back out of your hide. You are paid in copper and food and crossings, and occasionally in the only currency that matters on the road, which is a name and a door and a promise that the door will open.
-
-Afternoons you walk the routes. Not to any purpose. You check the marks at the crossings, cut new ones where the information has changed, note which watch posts have been reinforced and which have quietly stopped being manned. You have been maintaining this without being asked and without being paid for eleven years. There is no organization. There is no leader. There is a notation, and a few hundred people scattered across the Nine Domains who can read it, and none of them have met more than six of the others. You suspect it is the only functioning institution in the empire and you have never said this aloud because saying it aloud would be the first step in ruining it.
-
-Evenings you sit with the cloth. Not writing, mostly. Reading. Eleven entries in your own shorthand, each with the office, the year, and the length of it, so that you can put the years end to end and confirm that they add up to your life. They do add up. You check because there was a period around the fifth name where you lost fourteen months and could not account for them, and you have since accounted for them, and you check anyway.
-
-Then the fiddle, for a quarter of an hour, badly, with the shutter closed. Four notes, always the same four, always slightly wrong. You have played it in Amber Shore, the Southern Granary, the Western Bulwark, the Eastern Foundries, Silver Ford, Weeping Valley, Harmony Rest, and here. Everything else about you has been replaced twice over. This has come the whole way.
-
-You sleep well. This surprises people who learn what you do. You point out that a man who is not lying about anything has no reason to lie awake, and that all eleven of you paid your taxes on time.
-
----
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: The Twelfth Name.** You have not made a new one in two years and you had begun to think you were finished. Making the twelfth is easier than any of the previous eleven and that is what unsettles you. You choose a prefecture, you choose a trade, you answer four questions, and a clerk writes down a man who did not exist that morning. It takes eleven days and eleven copper and the whole procedure is legal from end to end. Walking out with the stamped paper you notice that you feel nothing at all: not fear, not triumph, not even the small clean satisfaction of work done properly. You have crossed from doing a thing into being a thing that does it, and the crossing happened at some point behind you, and there was no moment.
-
-**Level 5: Already Counted.** You have stopped being visible in the specific way that matters. Officials taking names in a queue skip yours and continue smoothly; guards counting a column count you as counted; a clerk collecting nine forms collects nine and there were ten. It is not concealment and it is not Qi, and no instrument the Commission owns will register it, because nothing is happening. What is happening is that twenty five years of being unremarkable has finished, and the finish is that the part of a person which asks who that is has stopped asking when it reaches you. You test it once, in a hall, deliberately, and it works, and afterward you sit on the steps for a while.
-
-**Level 7: The Road Nobody Maintains.** You can move people now, not just messages, and in numbers. The routes you have been quietly keeping for eleven years turn out to constitute a system, and you turn out to be the only person who holds the whole of it, and this is a fact about you that you would rather not be true and cannot make untrue. Somewhere in the capital, a person with rank has begun to notice that people leave the city and are not recorded leaving. You have become an institution. Institutions are found.
-
-**Level 9: The Stroke That Changes the Word.** You will stand at a desk in a records office with a brush in your hand, and you will understand, finally and completely, the thing you glimpsed when you were thirteen and a clerk wrote down a drowned boy's name without checking. Every copy in the Nine Domains is copied from another copy. No office has ever compared them all. No office ever could. One stroke, correctly placed, in the correct volume, becomes the truth in every duplicate within a year, because the duplicates are made from each other and there is nothing underneath them. You have known this for twenty five years. You have never used it. When you do, you will find out what you actually believe, and so will everyone who has ever trusted you.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
@@ -243,7 +175,7 @@ You sleep well. This surprises people who learn what you do. You point out that 
 | Presence  | 16    | +3       |
 | Resolve   | 12    | +1       |
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ---
 
@@ -255,7 +187,7 @@ You sleep well. This surprises people who learn what you do. You point out that 
 | Qi Pool           | 10 + Intellect Modifier + 2 | Calculate |
 | Sanity            | 20 + Resolve Modifier       | Calculate |
 | Initiative        | Swiftness Modifier + 2      | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 12        |
+| Defense           | 10 + Swiftness Modifier     | Calculate |
 | Proficiency Bonus | Level 1                     | +2        |
 
 ---

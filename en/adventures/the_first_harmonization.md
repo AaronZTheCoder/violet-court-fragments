@@ -4,6 +4,10 @@
 
 # THE FIRST HARMONIZATION
 
+**Linked campaign placement.** The warning arrives on Hinge Gate 21. The Audit is seven days later, on Hinge Threshold 3. The Hall address on the following morning is an optional lead, not a required detour. Use [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) to carry the party's existing contacts and records into the relief case. The two starter versions are alternatives covering the same seven fictional days.
+
+**Player characters.** Office scenes assume access through an agreed job or contact, not that every career is a copyist. Archetype spotlights are suggestions for trained abilities; they do not assign the named figure's memories, emotions, beliefs, or office. Offer essential clues through more than one source. A failed roll changes cost or exposure rather than deciding whether the campaign can continue.
+
 > **Recommended full story:** Use [The First Harmonization: Complete Cinematic Narrative](./the_first_harmonization_cinematic_cut.md) for the complete table narrative presented in extended story form. This document remains the full production bible and mechanical reference.
 
 > _An introductory adventure for one Host and three to six players._
@@ -11,7 +15,7 @@
 
 ## Adventure Overview
 
-The players are newly assigned officials in the Outer Court of Xiaoyuan. They have been in the capital less than a month. They know the basic shape of the Court: the six schools, the major figures, the constant background dread of saying the wrong thing to the wrong person. They have not yet been tested.
+The party has agreed on work or contacts that give it access to the Outer Court of Xiaoyuan. Some characters may be newly assigned officials; others may be carriers, specialists, Temple workers, or residents helping a companion. Establish what each person already knows about the capital instead of assigning everyone the same recent arrival.
 
 This adventure tests them.
 
@@ -47,43 +51,13 @@ The adventure begins with each player having Ritual Harmony 50, as per the Core 
 
 **Starting Faction Standing**
 
-Each player begins with Faction Standing values derived from their character dossier. Record these before play begins. The schools most relevant to this adventure are:
+Use the creation method selected by the table. Modular Careers start at 0 with each School and may choose +10 with one and minus 10 with another. Portrait Builds use their dossier values. An institution is not an additional School.
 
-- **Golden Orthodoxy** (Bureau of Harmonious Narrative)
-- **Verdant Path** (reformist/underground network)
-- **Iron Calculation** (State Planning Commission)
-- **Crimson Lineage** (old families)
-- **Common Flame** (workers and refugee organizers)
-- **Bright Mirror** (Commission for Celestial Purity)
+**Starting Risk**
 
-Consult each player's dossier for specific starting Faction Standing values. Default starting positions, if not specified in a dossier, place all major factions at +0, with up to +10 from background choices.
+Use the Host's Codex table once. Select an active protecting School: 30 or higher is Strong Protection, 10 to 29 Moderate Protection. Without a sponsor, use Enemies if an active hostile School is at minus 10 or below; otherwise use No Protection. Multiple sponsors or enemies do not create automatic repeated adjustments.
 
-**Faction Standing and Audit Protection Map**
-
-Faction Standing with a given school maps directly to the protection that school can offer during the Audit:
-
-- **+30 or higher: Strong Protection.** The school actively shields the player. One automatic Risk reduction per Audit phase when invoking this school's name.
-- **+10 to +29: Moderate Protection.** The school offers token resistance on the player's behalf. The player may call on this protection once, reducing Risk by one level, but the school will not expend significant resources.
-- **minus 9 to plus 9: No Protection.** The school offers nothing. The player is on their own.
-- **minus 10 or below: Enemies.** The school actively works against the player during the Audit. Risk increases by one level automatically. Commission agents pay extra attention.
-
-**Starting Risk Level Formula**
-
-A player's starting Risk Level is determined by two factors: the current Ritual Harmony baseline and the protection or enmity of the schools watching them.
-
-_Base Risk by Ritual Harmony:_
-
-- Ritual Harmony 60+: **Minimal Risk.** The Court is calm. Audits are procedural.
-- Ritual Harmony 40 to 59: **Low Risk.** Standard Audit conditions. Some scrutiny, but the machine is not hunting.
-- Ritual Harmony 20 to 39: **Moderate Risk.** The Commission is active. Questions are pointed.
-- Ritual Harmony below 20: **High Risk.** The Court is paranoid. Every official is suspect.
-
-_Adjustments from Protection Column:_
-
-- Apply the highest protection bonus: Strong Protection (minus 2 Risk), Moderate Protection (minus 1 Risk), No Protection (+0), Enemies (+1 Risk).
-- Apply the lowest Faction Standing penalty if multiple schools have negative Faction Standing, with an additional +1 Risk for each school at minus 10 or below, to a maximum of +3.
-
-For this adventure, the Ritual Harmony baseline begins at approximately 50 (Low Risk). Adjust per player based on Faction Standing from their dossier. Record each player's starting Risk before Part One begins.
+At Ritual Harmony 50, Strong Protection means Low Risk, Moderate Protection means Moderate Risk, No Protection means High Risk, and Enemies means Critical Risk. Tell players their position and ways to seek testimony or protection before judgment. Later events can raise or lower Risk as specified; do not charge twice for the same fact.
 
 **Encounter Stat Blocks.** The combat encounters in this adventure use a compact shorthand: Combat is the attacker's bonus on attack rolls, Defense is the target number to hit them, Resilience is the bonus on their Endurance checks, and Wounds is their Hit Points. Convert freely to full NPC sheets if your table prefers them.
 
@@ -99,21 +73,21 @@ Pacing should follow a deliberate rhythm. The first session is slow and paranoid
 
 ### Opening Read Aloud for Session One
 
-The air in Xiaoyuan tastes of ink and incense and something else. Something metallic, like old blood that has been scrubbed away but never fully cleaned. The sun is a pale disc behind the perpetual haze that hangs over the capital. You have been here three weeks. You have learned the names of your superiors. You have learned which corridors to avoid. You have learned that questions are dangerous. And still, every morning when you enter your office, you feel like a stranger wearing someone else's clothes.
-
-A junior scribe is approaching your door. They do not knock. That has never happened before.
+The morning light reaches the Bureau courtyard through a grey haze. On the far side, clerks carry bundles of paper under their sleeves to keep them dry. A junior scribe approaches the room where you have agreed to meet. He has a folded note in one hand. He checks the name on your door before entering.
 
 ### Opening Read Aloud for Session Two
 
-A week is not a long time. A week is seven days. One hundred and sixty eight hours. You have spent forty of them asleep, forty more in briefings and ceremonies and the endless small rituals that keep the Court running. The remaining time has been a blur of messages and meetings and choices that felt small at the time and now feel like stones tied to your ankles. The note arrived seven days ago. You have not burned it yet. You will not burn it. You cannot bring yourself to destroy the only thing that told you the truth.
+Messages have accumulated on the desk. One bears the Golden Orthodoxy's seal. Another has been folded small enough to hide in a sleeve. Beyond the window, clerks are carrying lists toward the Commission offices.
 
-Today the first school made their move. Today you learned that the cost of doing nothing may be the same as the cost of doing something. Today you will choose.
+Tell the players how many days remain until the Audit, using the time actually elapsed. Ask which message they open first.
 
 ### Opening Read Aloud for Session Three
 
-The morning of the Audit is quiet. The corridors are empty. The officials who usually bustle past with their scrolls and their schedules have vanished. A single figure stands at the end of the hall. They are wearing the grey and silver of the Commission for Celestial Purity. They are holding a list. They are walking toward you. The list has your name on it. You have known this for seven days. You are not ready.
+The Commission corridor is quiet. A clerk in grey and silver stands beside the hearing room with a list in her hands. When you approach, she checks your names and opens the door.
 
-The Commission does not care if you are ready. The Commission cares only about what is true. Or rather, what they can prove is true. Or rather, what they decide is true. These are not the same thing. You will learn the difference today.
+Inside, a chair faces the examiner's desk. A second clerk has laid out a fresh sheet and a tray of sand. Your file lies open beside the inkstone.
+
+Ask who enters first and what each person has brought.
 
 ### Zone Reference
 
@@ -846,7 +820,7 @@ She composes herself. She takes a breath that shudders at the edges. "I will mee
 > - **Shadow (Rogue):** Can Shadow Step between the alley mouths (2 zones) to flank the attackers or escape.
 > - **Guest Among Forests (Elf):** Even without living plants, can use enhanced senses to track the fleeing blade if one escapes.
 > - **Bone Script (Druid):** The alley mouths are packed dirt under the cobbles. Root Speech is too slow for combat, but Unlicensed Qi means the hired blades carry no ward, charm, or detection that will register you as a practitioner at all. You may act in the opening round as though unseen.
-> - **Incense Crown (Priestess):** You are a non combatant and should be played as one. What you can do is stand in the open street and state, loudly and in the formal register, what is being done and to whom. Presence + Performance TN 14. On success, windows open along the street, and hired men do not finish work that is being witnessed by name.
+> - **Incense Crown (Priestess):** If you want witnesses, name the attack publicly. Presence + Performance, TN 14, brings residents to their windows and makes the attackers easier to identify. It does not require them to surrender. Fighting, withdrawing, or assisting a companion remain your choices.
 > - **Stray Stroke (Wildcard):** Read the Road told you about this street before you entered it. Declare now that you noted the herder's gap behind the northern alley on the way in. The party has a retreat that passes neither alley mouth, and you can take one wounded ally through it.
 > - **Cinnabar Heart (Alchemist):** Can throw a blinding powder into the alley mouths (Intellect + Craft TN 12) to cover a retreat or an opening strike, and can treat one wound the moment the fighting stops.
 > - **Iron Calculation (Engineer):** Can use the abandoned crates to barricade one alley mouth in a single action (Intellect + Craft TN 12), cutting the attackers' approaches from three to two.
@@ -1962,7 +1936,7 @@ She looks at the player for a long, searching moment. Her professional composure
 > - **Duke of Eternal Night (Vampire):** Can use supernatural speed to grab the condemned player and move them across the room in a single action, bypassing the enforcers' reach.
 > - **Cinnabar Heart (Alchemist):** Can throw a blinding powder or smoke bomb to cover the escape. Create one dose before the Audit (requires 10 minutes and basic materials).
 > - **Bone Script (Druid):** Use The Names in the Bone on yourself, not on the fight. When the enforcers reach for the condemned player and every other person in the room calculates their exposure, touch a token and do not move away from the chair. Say the name aloud. The Host should give the condemned player one round in which everyone in the chamber is looking at you instead.
-> - **Incense Crown (Priestess):** This is what the Rite That Cannot Lapse is for. Stand and raise the procedural question. The proceeding is suspended and deferred indefinitely and the enforcers stop, because the only official who could overrule you would be entering a refusal of the Emperor's continuance into the permanent record under his own name. It works once. It protects the proceeding rather than the person, and a condemned player who runs anyway is still a fugitive.
+> - **Incense Crown (Priestess):** If your own proceeding falls within The Rite That Cannot Lapse, invoke the verified duty and gain its suspension until the next sunset. It does not clear another accused person or stop a separate proceeding. Use the time to seek evidence or an advocate.
 > - **Stray Stroke (Wildcard):** You are no use in this fight and should not pretend otherwise. What you have is the corridor. Declare that you walked the Ministry's service passages during the preparation phase. You can take one person out through them and put them beyond the eastern watch by morning, and you will have to spend a name to do it.
 > - **Iron Calculation (Engineer):** Can calculate the enforcers' movements from the chamber's design (Intellect + Investigation TN 12) and declare the moment the side door will be watched least, buying the escaping player one extra round of uncontested movement.
 > - **Bright Mirror (Paladin):** Can stand between the condemned player and the enforcers and state the charges that were never proven, naming each gap in the record aloud. No roll is required; witnesses make their work visible, and the enforcers pause for one breath.
@@ -2162,8 +2136,6 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 **Physical Description:** Wei is in his late forties, with a lean face and grey hair cut close, receding at the temples. He carries himself with the rigid posture of a man who has spent decades perfecting his public appearance. His robes are always immaculate, the gold thread of the Bureau's eight trigrams precisely embroidered on each sleeve. He moves with economy: no wasted gestures, no unnecessary steps, no hesitation. His pale, carefully tended hands are those of someone who has never done physical labor. His eyes are his most telling feature; they are pale brown, almost amber, and they do not blink as often as normal eyes do. He has trained himself to hold eye contact without wavering. He has trained himself to reveal nothing. The training is good, but it is not perfect. When he is stressed, a small muscle at the corner of his left eye twitches.
 
-**Tells:** His left eye twitches when he is lying or under pressure. He touches his signet ring when he is about to make a threat, as if drawing authority from the metal. He breathes through his mouth when preparing to deliver bad news.
-
 **Behind the Scenes for the Host:** When the players are not watching, Wei returns to his office and closes the door. He pours himself a cup of cold tea from the pot on his desk. He does not drink it. He holds it, letting the warmth seep into his palms, staring at the cracked teacup he has not replaced. He thinks about Archivist Chen, his former student. He thinks about what will happen to him if his superiors learn that he hesitated. He thinks about the cost of loyalty and the cost of betrayal. Then he drinks the tea, sets the cup down, and prepares for the next meeting. He will not sleep tonight. He will not sleep many nights. He has made peace with this. He has made peace with the arrangement: his conscience for his survival.
 
 ### The Verdant Path Representative (Junior Archivist Lin)
@@ -2174,9 +2146,7 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 - Wants: Safe passage for the fugitive official. Dislikes: Violence. She came to the Verdant Path through reading banned texts, not through factional games.
 - Secret: The fugitive official is her uncle.
 
-**Physical Description:** Lin is twenty two years old, though she looks younger. She has a round face, large dark eyes, and an expression of permanent anxiety that softens only when she talks about books. Her hair is pulled back in a severe bun that is already coming loose, strands escaping around her face. She wears the standard grey robes of a junior archivist, but her sleeves are rolled up to the elbow, revealing forearms stained with ink and, on closer inspection, a thin white scar running from her wrist to the midpoint of her forearm; a paper cut from an encounter with a badly bound book. She moves in a state of controlled panic, her hands never still, her eyes always scanning for threats. When she is nervous, she twists a strand of hair around her finger. When she is very nervous, she repeats the last word of every sentence under her breath, as if checking that she said it correctly.
-
-**Tells:** She repeats the last word of sentences under her breath when anxious. She twists her hair when thinking. She closes her eyes before making a difficult decision, as if praying to a god she does not believe in.
+**Physical Description:** Lin is twenty two and wears a junior archivist's grey robes. Her sleeves are rolled back from ink stained cuffs. When the party arrives, she is sorting the papers she can safely carry from those she may have to leave. She wants to know whether Tao Chen will be protected before she names the people who helped him.
 
 **Behind the Scenes for the Host:** When the players are not watching, Lin returns to the safe house where Tao Chen is hiding. She brings him food, medicine, news from the outside. She sits with him in silence, letting him sleep while she watches the door. She is terrified, but she does not show it in front of him. She is the brave one now, the one who must hold the fear at bay for both of them. After the players leave, she makes a note in a small journal she keeps hidden in her sleeve. She writes down everything the players said, every promise they made, every hesitation she noticed. She is learning to read people. She is learning to survive. She does not know if she is doing it right.
 
@@ -2190,8 +2160,6 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 **Physical Description:** Commissioner Zhang is a small man in his early sixties, with thinning grey hair and the kind of face that is easy to overlook in a crowd: nondescript, forgettable, designed by nature for a life of quiet observation. He wears plain grey robes with no insignia, no decoration, no indication of rank. He could be a clerk, a messenger, a retired schoolteacher. He is not. The power he wields is invisible, written in ledgers and memoranda and the quiet accumulation of information. His hands are calloused in specific places: the thumb and first two fingers of his right hand, from decades of holding a brush. The calluses are deep, permanent, a permanent record of his labor. He moves slowly, deliberately, as if conserving energy for tasks that matter. He does not waste movement. He does not waste words. He does not waste anything.
 
-**Tells:** He sets down his brush before speaking, never during. He pauses exactly two seconds before answering a question, using the time to formulate a precise response. When he is angry, his writing becomes smaller, tighter, the characters pressing together like people in a crowded room.
-
 **Behind the Scenes for the Host:** When the players are not watching, Zhang works late into the night. His office lamp burns until the small hours. He compares the warehouse records with the transport logs and the Crimson Lineage financial statements he copied before leaving their employ. He is building a case. He has been building it for fourteen years, since the morning they took his predecessor. He has collected enough evidence to destroy a family. But he needs a trigger, a moment, a catalyst. The Audit may be that moment. Or it may be another piece of evidence he adds to the pile, waiting for the day when the pile is large enough to collapse under its own weight. He does not know if that day will come in his lifetime. He continues anyway.
 
 ### The Dusk Refugee (Nameless, calls herself "Ash")
@@ -2204,8 +2172,6 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 
 **Physical Description:** Ash is in her late twenties, though the Dusk corruption makes her age difficult to read. She has the look of someone who has been weathered by forces that do not respect human timelines. Her skin is pale, almost grey, with a network of darker veins visible at her temples and wrists where the corruption has spread closest to the surface. Her hair is dark and matted, unevenly cut with a blade she does not remember using. Her eyes are her most striking feature: pale grey with flecks of amber, the irises too large, the pupils slow to react to changes in light. She moves with an economy born of exhaustion: no wasted energy, no unnecessary motion. Her hands are calloused and scarred from the journey, the nails cracked and dirty. When she stands still, she sways slightly, as if the ground beneath her is not entirely solid.
 
-**Tells:** Her shadow moves when she does not. She tilts her head when the shadow speaks to her. She touches her chest above her heart when she is about to tell a difficult truth, as if checking that the words are still there.
-
 **Behind the Scenes for the Host:** When the players are not watching, Ash sits in whatever shelter she has found and talks to her shadow. The conversation is soft, continuous, like the murmur of a stream. The shadow responds in ways only she can perceive. She is not insane. The shadow is real. It is a fragment of the Dusk that attached itself to her during her journey through the Grey. It knows things about the Court, about the players, about the Crimson Lineage's connection to the Dusk. It tells her these things in fragments, images, conversations only partly remembered. She does not understand most of what it shows her. But she remembers. She remembers everything. If the players befriend her, they have access to a source of information no one else in the capital possesses: the memory of the Dusk itself.
 
 ### The Junior Justicar (Justicar Meng)
@@ -2216,9 +2182,7 @@ THE FIRST HARMONIZATION is designed as an introduction to the Court of Xiaoyuan.
 - Wants: To find heresy. She genuinely believes heresy is everywhere. She is not wrong.
 - Secret: Her own Ritual Harmony is 39. She is one bad Audit away from the other side of the table.
 
-**Physical Description:** Meng is thirty four years old, with a face that has aged faster than her years. She has sharp cheekbones, a narrow jaw, and dark eyes set deep in their sockets. Her hair is pulled back so tightly that it stretches the skin at her temples, giving her a perpetually alert expression. She wears the grey and silver of the Commission without adornment; no jewelry, no pins, no marks of personal taste. The uniform is her identity. She has worn it so long that she forgets she is wearing it. She moves with the controlled precision of someone who has trained herself to suppress all involuntary gestures. She does not fidget. She does not shift her weight. She sits as still as a statue, her hands flat on the desk, her pen moving only when she takes notes. Underneath the professional exterior, there are signs of strain: a faint tremor in her left hand when she thinks no one is looking, dark circles under her eyes that powder cannot fully conceal, a tendency to press her lips together when she hears a disturbing answer.
-
-**Tells:** Her left hand trembles when she is under stress. She presses her lips together when she hears something that disturbs her. She glances at the ceiling when she is about to deliver a judgment, as if seeking approval from a source only she can see.
+**Physical Description:** Meng is thirty four, in the Commission's grey and silver uniform. The file before her has witness statements separated from summaries. She asks the party to identify what it saw firsthand and what it learned from someone else. Her immediate duty is to produce a defensible finding; the people who expect a particular verdict make that harder.
 
 **Behind the Scenes for the Host:** When the players are not watching, Meng returns to her small office in the Commission headquarters. She locks the door. She sits at her desk and opens a locked drawer. Inside is a personal Ritual Harmony tester, a small jade disc that changes color based on the user's Ritual Harmony. She places her palm on it. The color shifts. It is worse than yesterday. It has been worse every day for months. She records the number in a private journal, then closes the drawer and locks it. She is counting down. She knows she has perhaps two years before her Ritual Harmony drops below the threshold that triggers a mandatory Audit of her own conduct. She has begun making arrangements: letters to be delivered after she is gone, evidence to be released, a confession to be read. She is preparing for her own disappearance. She does not expect anyone to save her. She does not expect anyone to try.
 

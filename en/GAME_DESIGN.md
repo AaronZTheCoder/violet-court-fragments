@@ -3,7 +3,7 @@
 ## Setting Bible
 
 > _A tabletop roguelike told through text, set in the twilight of a celestial empire.
-> The Sun Emperor has not spoken publicly for about one hundred and sixty four years.
+> The Sun Emperor has not spoken publicly for about one hundred and sixty five years.
 > The Court still rules in His name.
 > And something hungry is eating its way inward from the borders._
 
@@ -15,7 +15,7 @@ Once, the world was whole. The Sun Emperor walked among His people, and the land
 
 Today, the empire still stands. The Court still issues decrees. The seasons still turn. But something is wrong. The borders are fraying. A corruption called the Crimson Dusk creeps inward, province by province, turning fields to salt and people into hollow things that weep red. The Court calls it a "localized disharmony" and dispatches Harmonization Audits. The provinces that fall are erased from maps. They were never there.
 
-You are a brush scribe of the Eighth Rank, assigned to the Bureau of Harmonious Records. You copy documents. You file reports. You are nobody. But the empire is a machine that grinds nobodies into dust, and the machine is breaking down.
+Your work may bring you into the Bureau of Harmonious Records as a copyist, carrier, surveyor, Temple worker, or petitioner. Begin with a modest place in the world and a reason to cooperate. The Court will try to define you through its files. The player decides who lives behind that entry.
 
 This game is not about saving the world. It is about surviving a system so vast and ancient that no single person understands it anymore. You will make alliances. You will owe debts. You will be tested. You will fail. And when you fall, another scribe will take your place, inheriting your knowledge, your connections, and your enemies.
 
@@ -1670,7 +1670,7 @@ She has outlived four lovers and one of her two children, along with everyone sh
 - ↓ Treat nonhumans as lesser beings
 - ↓ Prioritize Court unity over genuine justice
 
-**What She Knows:** The Crimson Dusk is not a punishment for heterodoxy. At the empire's birth, the founding ritual sacrificed or bound the continent's original guardians and installed the Sun Emperor as the replacement living conduit between Heaven and Earth. Sealing Him one hundred and fifty five years ago severed that conduit. The Dusk is the delayed wound created by both acts, only now becoming visible.
+**What She Knows:** Guest Among Forests remembers the harm done at the founding and has followed the damaged land since. She considers the later sealing a second wound. This is her strongest explanation for the Dusk; she can offer observations and witnesses, not proof that no other cause exists.
 
 **Potential Quest: The Ritual Site.** Guest Among Forests knows the location where the founding ritual was performed. It is a stone circle in the Northern Expanse, now overgrown and forgotten. Visiting the site reveals Qi traces of the guardians' sacrifice or binding, the installation of the Sun Emperor as their replacement conduit, and the later rupture caused by His sealing. The site is protected by remnants of the guardians, who do not distinguish between the original perpetrators and modern visitors.
 
@@ -1898,7 +1898,7 @@ He married once, to a mortal woman named Ash Bright. He was two hundred and four
 - ↓ Bore him. This is the most dangerous thing you can do
 - ↓ Threaten what remains of his bloodline
 
-**What He Knows:** The Sun Emperor is not simply absent, whatever the Court's public story says. The Duke was in the chamber when the first generation of Court elders sealed the Spire's doors, having decided they would rather rule in His name than serve under His authority. What the sealing actually did to the Emperor, the Duke does not know any better than anyone else does. He knows only that he voted against it and was outvoted. He has carried the guilt of failing to stop them for one hundred and sixty four years. He has tried to make amends in small ways, protecting those the Court would have destroyed and preserving knowledge the Court would have erased. He knows it is not enough.
+**What He Knows:** The Sun Emperor is not simply absent, whatever the Court's public story says. The Duke was in the chamber when the first generation of Court elders sealed the Spire's doors, having decided they would rather rule in His name than serve under His authority. What the sealing actually did to the Emperor, the Duke does not know any better than anyone else does. He knows only that he voted against it and was outvoted. He has carried the guilt of failing to stop them for one hundred and fifty five years. He has tried to make amends in small ways, protecting those the Court would have destroyed and preserving knowledge the Court would have erased. He knows it is not enough.
 
 **Potential Quest: The Emperor's Heir.** The Duke believes that the Sun Emperor may have fathered a child before His imprisonment, an heir who was hidden from the Court and raised in secret. The Duke has spent centuries searching for this heir, without success. He has recently received a lead: a woman in the Southern Granary who possesses an artifact that only the Emperor's bloodline could activate.
 
@@ -1984,7 +1984,7 @@ What she does remember is the content of every book she has ever read. Every doc
 - ↓ Pretend to understand what you do not
 - ↓ Treat knowledge as a weapon rather than a gift
 
-**What She Knows:** Everything. She has read the entire Imperial Archives. She knows the origin of the Crimson Dusk, the fate of the Sun Emperor, the founding crime of the Court, and what happens next. The question is whether she will tell you, and whether you will understand if she does. She has been waiting for someone who can comprehend the full picture, someone who can carry the knowledge forward after the Archives are gone.
+**What She Knows:** The Celestial Book holds records of the founding and sealing, knows which accounts conflict, and has evidence for the wounded conduit theory of the Dusk. She does not know the Emperor's private intent, every missing event, or the future. She can help others test an explanation and preserve the evidence beyond the Archives.
 
 **Potential Quest: The Three Questions.** Celestial Book will answer exactly three questions. They must be the right questions, the ones that unlock the deepest secrets. She will not help the players formulate them. She will not indicate whether a question is good or poor. She will simply answer, and the players must decide what to ask. The answers will reshape their understanding of the empire and determine which endings are possible.
 
@@ -2074,7 +2074,7 @@ So they keep her instead: a residence in the Inner City, a stipend, the finest s
 - ↓ Demand she declare for a faction
 - ↓ Call her a collaborator as though she has not already agreed with you
 
-**What She Knows:** The answer at the sealed door changed four years ago, at her fifteenth performance. She has reported the old formula at every Continuance since, because reporting the change would require explaining how she can tell the difference. She also received the Temple's ninth year teaching, which explains why the Sun Emperor did not abolish it, and she has structured eleven years of her life around never being asked it by someone she cannot refuse.
+**What She Knows:** The answer at the sealed door changed four years ago, at her fifteenth performance. She has reported the old formula at every Continuance since. She also received the Temple's ninth year teaching at nineteen and has kept it private for fifteen years. She knows the consecration calendar, but has not seen the civil rider or relief annex attached to it.
 
 **Potential Quest: The Eighth Phrase.** She wants to know whether the rising tone is correct. This sounds like a scholarly triviality. It is not. If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error, and she does not know which possibility frightens her more.
 
@@ -2357,55 +2357,23 @@ The engine reads character data from structured files, so new figures integrate 
 
 ## Narrative Arc
 
-### Scroll One: The Brush Scribe (Days 1 to 30)
+For the linked campaign, use [Campaign Continuity](CAMPAIGN_CONTINUITY.md). These scrolls are pressures and opportunities, not a schedule of compulsory disasters.
 
-_The art of keeping your head while others lose theirs._
+### Scroll One: The Relief Docket
 
-You are a newly assigned Eighth Rank scribe in Xiaoyuan's outer ministries. These early days teach:
+Begin on Hinge Gate 21. The party chooses how to handle a provisional roll and learns why grain at the Temple cannot yet be distributed. The local Audit can introduce faction pressure, but the party need not solve it in one prescribed way to continue.
 
-- The shape of the Court and its six schools (at least three will court you)
-- The flow of resources (Celestial Favor, Ritual Harmony, Qi)
-- First encounters with the twelve figures
-- The first minor Harmonization Audit (a shock, but survivable)
-- First reports of the Crimson Dusk (distant, abstract, easy to ignore)
+### Scroll Two: The Account Behind the Rite
 
-**The Forking Path:** Which school will you align with? Or will you attempt neutrality, the most difficult path of all?
+The Hall address, the depot ledger, and the Sixth draft lead to the same closing clause. Earlier allies can attest to a receipt; earlier omissions can make a household harder to trace. The players decide whether to pursue relief, examine the requisitions, negotiate Temple consent, or follow another concern. Keep the thirty day deadline visible and account for travel.
 
-### Scroll Two: The Cold War (Days 30 to 60)
+### Scroll Three: What Remains Open
 
-_The price of rising is paid in pieces of yourself._
+At the Hinge, apply the actual orders, amendments, and stays the party secured. Two days later, the Temple considers consecration. Relief, the roll, and consent may each have a different outcome. Let a household receive grain or retain a place in the record even if the larger Court remains unchanged.
 
-- A major school conflict erupts. The Golden Orthodoxy moves against the Verdant Path.
-- The Dusk accelerates. First Dusk Touched entities appear within the inner provinces.
-- Personal threads with the twelve figures become available.
-- You must navigate diplomacy among several schools or commit fully to one side.
-- The Bright Mirror begins his investigation into the Dusk's origin.
-- One province falls entirely. It is removed from maps.
+### Beyond the Hinge
 
-**The Forking Path:** Maintain loyalty to one school or play all sides? Investigate the hidden truths or remain willfully unknowing?
-
-### Scroll Three: The Reckoning (Days 60 to 90+)
-
-_All things end. Choose the ending._
-
-- The Crimson Dusk reaches Xiaoyuan's outer districts.
-- The schools must form an emergency concord or perish separately.
-- The truths about the Emperor, the founding crime, and the Dusk are laid bare.
-- Final confrontations with key figures, shaped by every bond you have built or broken.
-- Your accumulated choices determine which endings are available.
-
-**Possible Endings:**
-
-1. **The Emperor's Return:** Free the Sun Emperor from His imprisonment. The Court is dissolved. A new era begins. What kind depends on what you have learned.
-2. **The Eternal Court:** Bury the truth deep. Reinforce orthodoxy. The fiction survives. The Dusk continues, but the empire endures. At a cost.
-3. **The Great Fire:** Stand with Iron Bone. Burn the old order to ash. The empire falls. Whether anything grows from the ruins depends on whether the man or the wolf was in control at the end.
-4. **The Perfect Machine:** Stand with Iron Calculation. A new order of pure efficiency. Stable. Prosperous. Soulless.
-5. **The Eternal Night:** Stand with the Duke. The old bloodlines rule openly once more. Darkness, but competence. Predation, but preservation.
-6. **The Polished Mirror:** Stand with the Bright Mirror. A realm of absolute purity. Justice without mercy. Every shadow burned away, including the ones inside people.
-7. **The Verdant Spring:** Stand with the Long Lived One. Genuine opening. Messy, contested, alive. Freedom, with all its risks.
-8. **The Transformation:** Stand with the Celestial Book. The Crimson Dusk is not destruction. It is metamorphosis. Let it come and see what emerges.
-9. **The Open Road:** Stand with Shadow. No grand doctrine. No new order. Just survival, freedom, and the road ahead.
-10. **The Sacrifice:** Give yourself to the Dusk to seal it, to become its new boundary. The empire is saved. You are remembered only in the Continuing Record.
+The party may pursue the Spire, a school alliance, reconstruction in the provinces, the survivors of an erased district, or a life beyond Court service. Changes to the Dusk follow evidence, field conditions, and any limits agreed at Session Zero. No province must fall merely because a page assigns it to the second act. An Emperor's return, a new concord, a regime of purity, a revolt, or an open road are possible directions, not rewards unlocked by choosing the corresponding named figure.
 
 ---
 
@@ -2761,7 +2729,7 @@ Speak.
 
 The imperial year is divided into twelve months, of which the two hinge months run twenty five days each, with five intercalary days at the end of the year that belong to no month and are considered outside normal time. These five days are called the Hinge, and they are a period of intense ritual activity, social chaos, and personal danger. The Hinge is when the boundaries between worlds grow thin, when ghosts walk the earth, and when the Court suspends all normal business to perform the rituals that reset the Qi balance for the coming year.
 
-The months are named for the dominant Qi aspect of their season: Piercing Dawn (spring), Yielding Bloom (spring), Binding Stone (summer), Burning Forge (summer), Veiling Mist (autumn), Piercing Harvest (autumn), Yielding Rest (autumn), Binding Frost (winter), Burning Ember (winter), Veiling Dark (winter), and the two transitional months, Hinge Gate and Hinge Threshold, which precede and follow the five intercalary days.
+The months are Piercing Dawn, Yielding Bloom, Binding Stone, Burning Forge, Veiling Mist, Piercing Harvest, Yielding Rest, Binding Frost, Burning Ember, Veiling Dark, Hinge Gate, and Hinge Threshold, in that order. The two hinge months each have twenty five days and both precede the five intercalary days of the Hinge.
 
 The imperial calendar dates from the Sun Emperor's arrival. The current year is Year 452. The Hinge of Year 452 falls in approximately thirty days.
 
@@ -2774,6 +2742,8 @@ Licensed moneylenders also issue transferable credit notes for large transaction
 Barter remains common in rural areas and in the Warrens. The Outer Market operates on a complex system of credit, barter, and various unofficial currencies that include information, favors, and promises. The Court taxes transactions in the Outer Market on a voluntary basis, which is to say it does not tax them at all, because it cannot.
 
 ### Travel and Communication
+
+**Public relays and private messages.** The Qi lantern relays carry scheduled public recitations, market notices, and short reports through staffed stations. They cannot provide a private conversation on demand. The paired Qi Resonance Towers described below provide immediate confidential transmission at far greater cost. Printed originals and sealed rolls still travel by courier.
 
 Travel across the empire is slow, dangerous, and controlled. The official imperial highway network connects every provincial capital, maintained by the State Planning Commission and patrolled by the Imperial Garrison. Travel on the highways requires travel permits, which are issued by the Bureau of Harmonious Records and subject to inspection at checkpoints. Travel without a permit is a crime.
 

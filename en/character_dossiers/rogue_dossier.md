@@ -1,24 +1,26 @@
 # Shadow
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Night Walker
 
-### School: Independent (trades with all)
+### Named figure's affiliation: Independent (trades with all)
 
 ### Court Role: Information Broker
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ---
 
 ## Description
 
-You are a shadow in a city built of shadows. You know where the bodies are buried because you helped bury some of them. You trade in secrets the way others trade in grain. You have no school, no patron, no ideology. You have leverage. You have survival instincts so sharp they cut.
-
-You were born in the Warrens beneath Xiaoyuan, child of a disgraced official and a teahouse worker. You learned to read the secrets people whispered, to trade information for food, to survive by being more useful alive than dead. You are still doing that. The scale has changed. The principle has not.
-
----
+Shadow brokers information outside the six Schools. He knows that an account is worth little unless someone can carry it and someone else can use it. His independence depends on relationships he cannot entirely price. When he offers help, the useful question is what obligation he expects to survive the transaction.
 
 ## Expanded Backstory
 
@@ -82,43 +84,11 @@ You have a favorite. It is a broad comedy about a magistrate and a fish merchant
 
 ## Sample Dialogue
 
-When an ally asks if you have a plan for infiltrating a guarded estate:
-"I have been in that building seventeen times. I know which guards sneeze when the incense changes, which servants take bribes, and precisely where the floorboards creak. You tell me your part. I will tell you the rest after we are inside."
+1. Pricing a document: “A copy is easy. A witness who will stand by it costs more.”
 
-When the party is debating whether to trust a new contact:
-"Everyone has a price. Everyone has a breaking point. The question is not whether this one can be turned. The question is what you are willing to spend to find the lever. I am good at finding levers. Be careful what you ask me to find."
+2. Asked for loyalty: “Tell me what you need me to do. We can name it afterward.”
 
-When someone suggests a direct confrontation:
-"I can fight. I have fought. But fighting is the last resort of someone who ran out of clever ideas. I have never run out of clever ideas. Let me try a few before we start bleeding."
-
-When a companion survives a dangerous encounter:
-"You are still breathing. Good. That makes you more valuable than most people I know. Do not make me regret investing in your continued existence."
-
-When asked about their past:
-"I was born in a place that does not appear on any map of the capital. I have made myself into someone who appears on no maps at all. That is the point. That is the goal. The less anyone knows about where I came from, the harder it is for them to predict where I am going."
-
-When an ally is about to make a naive moral stand:
-"That is a beautiful sentiment. It will not protect you from what comes next. The Court does not punish idealism. It absorbs it. It digests it. It turns it into a footnote in a report that no one will read. If you want to change this city, you need to understand it first. I can help you understand it. But you have to let go of the idea that understanding makes you complicit."
-
-When a mark underestimates them:
-"You are looking at my clothes, my accent, my lack of obvious weapons. You are calculating whether I am worth your time. Let me help you with the math. I know the name of your mistress, the amount you owe the Iron Calculation loan shark, and the location of the letter you wrote but never sent to your brother in the provinces. Now. Shall we start over?"
-
-When alone and thinking no one is listening:
-"I have done terrible things. Not because I enjoyed them. Because the alternative was worse. I tell myself that every morning. Some days I even believe it."
-
-When you are afraid but need to hide it:
-"I have learned to use fear the way I use any other tool. It sharpens my senses. It quickens my thoughts. It tells me when to run. The only time fear is dangerous is when you let it freeze you. I have not frozen in twenty years. I do not intend to start now."
-
-To comfort an ally who is being blackmailed:
-"The person who holds leverage over you is trying to control you. The moment you accept that you cannot be controlled, the leverage vanishes. You have to be willing to lose everything. That is the hardest thing. But once you are willing to lose it all, no one can take anything from you."
-
-When your philosophy of pragmatic survival is challenged by someone who believes in principles:
-"You call it cowardice. I call it being alive. I have survived things that would have killed a person with your principles. I am still here. The people who refused to compromise, who stood on their ideals, who would not bend, they are not here. They are dead or Disappeared or forgotten. I am here. That is not a justification. It is a fact."
-
-When alone, going through your files by candlelight:
-"Every person in this city has a secret. Every official has a weakness. Every faction has a crack. I have built a map of all those cracks. I know where the pressure points are. I know who will break and who will hold. I am the only person who sees the whole picture. If I died tonight, the knowledge would die with me. Maybe that would be a mercy. Maybe the city deserves to crumble under the weight of its own secrets. But I am still here. I am still keeping the map. I do not know why."
-
----
+3. Warned of danger: “I know. That is why I came myself.”
 
 ## Personal Connections
 
@@ -142,21 +112,7 @@ When alone, going through your files by candlelight:
 
 ## Roleplaying Guide
 
-**Internal Conflict:** You are caught between two irreconcilable truths. The first is that you have survived by treating information as a commodity, by never forming attachments, by always having an exit plan. The second is that you are tired. You are tired of looking over your shoulder. You are tired of calculating everyone's angle. You are tired of being useful instead of being real. Part of you wants to burn your network, destroy your blackmail files, and start over as someone who does not know the things you know. The other part knows that the person you would become would not survive a week.
-
-**What Keeps You Up at Night:** The faces of people you have betrayed. The possibility that someone out there has been compiling a dossier on you as thorough as the dossiers you have compiled on them. The realization that you have become exactly what your father warned you against: a person who knows the price of everything and the value of nothing.
-
-**How You Treat Allies:** You are professional, distant, and quietly protective. You do not call them friends, even in your head. But you will warn them when they are walking into danger. You will share information that could save their lives, even if holding it would be more profitable. You will not sacrifice yourself for them. But you will take risks that surprise even you. When an ally shows you genuine kindness, you become awkward and deflective. You do not know how to receive something that does not come with a price tag.
-
-**How You Treat Enemies:** You prefer to make enemies irrelevant rather than dead. Dead enemies attract investigation. Irrelevant enemies simply stop mattering. You collect information on them the way a farmer collects grain: patiently, systematically, with an eye toward the winter that is always coming. When you must act, you act decisively and from cover. You never warn. You never gloat. You are gone before they know they were targeted.
-
-**What You Notice That Others Miss:** The way servants look at their masters. The difference between a practiced smile and a genuine one. The slight shift in a room's atmosphere when someone with power enters. The absence of a guard who should be there. The worn patch on a robe that indicates a hidden pocket. The specific quality of silence that means someone is listening.
-
-**Your Tell When You Are Lying:** You over explain. You provide too many details, too much corroborating information. You have trained yourself to lie simply, but when you are nervous, you revert to complexity. Those who know you well can spot it.
-
-**Your Tell When You Are Being Sincere:** You become simpler. Your sentences shorten. Your hands stop moving. When you tell the truth about something that matters, you say it plainly and without embellishment. You do not meet the person's eyes when you say it. You look at the ground, as if the truth is heavier than you can carry while standing upright.
-
----
+Give his bargains terms the players can understand. He may joke, but he need not turn every answer into a riddle or reveal that he already knew every secret. Missing information gives him something to want.
 
 ## Ability Examples
 
@@ -193,41 +149,11 @@ _Complication:_ You recently discovered that your mysterious client is paying yo
 
 ## Daily Life
 
-You wake before dawn, always. Old habits from the Warrens, where sleeping past sunrise meant missing the morning trade in information. You check your hidden caches in a rotating pattern: never the same order, never the same route. You have breakfast at a different establishment each day, always street food, always paid in small coin that cannot be traced. You spend the morning meeting contacts, exchanging information, maintaining the network that keeps you alive. You have over forty regular contacts in the capital, each of them a thread in a web that spans every district and every social class. A scullery maid in the Crimson Lineage compound. A clerk in the Bureau of Harmonious Records. A guard at the Garrison's east gate. A tea seller in the Night Market whose stall is a front for messages. You know each of them by name, by habit, by the specific kind of information they can provide. You nurture these relationships the way a gardener nurtures plants: with patience, with attention, with the knowledge that any one of them could wither if neglected.
-
-You take a midday meal alone, usually in a crowded place where you can watch the crowd without being watched yourself. Afternoons are for research: following marks, casing locations, updating your mental maps of the city's changing geometry. You note every construction site, every new business, every street that has been repaved. The city changes constantly, and your knowledge must keep pace. A door that was unlocked last month may be barred today. A guard who was corrupt last week may have been replaced. You update your maps constantly because outdated information is worse than no information. It is a trap you set for yourself.
-
-Evenings are for business. The real work happens after dark, when the Court's agents conduct their affairs and shadows are thick enough to hide in. You meet contacts in taverns, in alleyways, in the back rooms of shops that have long since closed for the night. You exchange information, collect payments, distribute favors. You are always moving. You never meet the same person in the same place twice. You never let anyone know where you will be tomorrow. You are a creature of the dark, and the dark is generous to those who respect it. You sleep four hours, sometimes five. You dream of the Warrens. You dream of your mother's face. You wake and begin again.
-
-You do not keep a home. You have safe houses, twelve of them scattered across the city, each stocked with a change of clothes, a week's worth of dried food, and a false identity. You rotate through them irregularly. You never stay anywhere longer than three nights. You own nothing that cannot be abandoned. You maintain no relationships that cannot be severed. You are a ghost with a working knowledge of the city's plumbing.
-
-Twice a year, you visit the teahouse where your mother still takes afternoon tea. You sit in the corner. You order the same tea she orders. You watch her laugh at something her friend said. You leave before she notices you. The owner knows you. The owner says nothing. The owner adds the cost of her tea to your tab.
-
-You have developed small rituals to maintain your sanity. You sharpen your daggers every third day, not because they need it but because the repetition calms your mind. You memorize a new fact about the city each day, a piece of trivia that might become useful. The number of steps between the Court's east gate and the Archives. The name of the cat that lives in the Iron Calculation commissary. The exact time the Lamplighters light the Council plaza torches. You fill your mind with details because the alternative is filling it with the faces of the people you have betrayed.
-
-You eat one proper meal a day, usually in the evening. You favor a stall in the Night Market that serves noodles with a broth so spicy it makes your eyes water. The owner is a woman who fled the southern provinces during a Dusk incursion. She does not know your name. She calls you "the quiet one." You like that she does not ask questions. You tip her well. You eat your noodles fast and leave before anyone can get a good look at your face.
-
-Your primary safe house is a room above a tannery in the Warrens, chosen because the smell keeps curious people away. The tannery's odor seeps into everything you own. You have stopped noticing it. The room has a bed, a table, a locked chest, and a false panel behind the fireplace that leads to a crawl space where you keep your most valuable materials. You sleep with one dagger under your pillow and one within arm's reach on the table. You have not slept a full night in twenty years. You have learned to function on fragments. Your body has adapted. Your dreams have not. They are always set in the Warrens, always in the dark, always searching for something you cannot find.
-
-The crawl space behind the fireplace contains your most valuable inventory: a set of forged identity papers good enough to pass a Bright Mirror inspection, the hidden master map of the city's underground passages that you have spent fifteen years refining, a lockbox containing three letters that would each destroy a different Grand Council member if released, and a clandestinely obtained copy of the imperial charter. You visit this space once a week to check that everything is still there. You do not trust your safe houses. You trust nothing. But you trust this crawl space more than most things, because you built it yourself and you have never told anyone it exists. If you ever need to disappear, this is where you will start. The papers will give you a new name. The map will give you a way out. The letters and the charter copy will give you leverage. You have planned your disappearance for years. You are ready to leave at any moment. You stay because you have not yet found a reason good enough to go.
-
-What you dread most is a quiet evening with nothing to do. When the deals are done and the network is stable and there is no immediate threat, the silence closes in. You find yourself in a safe house with nothing but your thoughts, and your thoughts are not good company. You have started leaving the safe houses on those evenings, walking the streets until exhaustion forces sleep. The movement helps. The stillness is where the memories live.
-
-You keep a journal, though you would never call it that. It is a record of debts, favors, and leverage points, written in a code that only you understand. But in the margins, in the spaces between the transactions, you have written other things. A line of poetry your father used to recite. The date of your mother's birthday. Grey Willow's name, followed by the names of every person from her network whose fate you have learned. You do not write these things to preserve them. You write them because the act of writing makes them real, and you need some things to be real in a life where most things are constructed and contingent. The journal is hidden in a waterproofed compartment in the ceiling of a safe house you have not used in two years. You check on it once a month. You add nothing. You simply confirm that it is still there, that the words have not faded, that you have not imagined the entire record of your life. It is a small anchor in a life that has very few anchors. You do not know what you will do with it when you are gone. You do not know if anyone will find it. You keep it anyway. Keeping it is a kind of hope, and hope is the one commodity you have never learned to trade.
-
----
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Quick Exit.** The first time you use Quick Exit, it feels like falling. Your body moves before your mind decides, carrying you through a door you did not know was there, down a passage you had not consciously registered. You emerge in a place you recognize but did not choose. Your heart is pounding. Your hands are empty. You realize that your survival instincts have become something separate from you, something that makes decisions faster than you can approve or reject them. The cost of this gift is a growing distance between the person you are and the person who makes these choices. You are becoming two people: the one who runs and the one who watches the running and wonders who decided to flee.
-
-**Level 5: Leverage.** Your network has grown beyond your ability to personally manage. You now know people who know people, chains of obligation that stretch across the city like roots. When you call in a favor, you feel the weight of the entire network shifting, each debt repaid creating a new imbalance somewhere else. You are becoming less a person and more a node, a point where transactions pass through. The efficiency is intoxicating. The loss of self is subtle. You begin to forget what it felt like to want something that could not be traded for.
-
-**Level 7: Ghost.** The first time you walk past a guard who does not see you, you feel a cold joy that is also terrifying. You test it. You walk through crowded streets and watch people's eyes slide over you. You stand in a room full of people and no one looks your way. You are not invisible. You are forgettable. You are the person the mind decides is not worth noticing. The power is immense. The loneliness is worse. You begin to wonder if you are becoming a ghost in truth, if the living world is slowly forgetting you exist. Some nights, you stand in front of a mirror and try to remember what your own face looks like.
-
-**Level 9: The Final Secret.** When you ask the question, the knowledge arrives not as words but as a physical sensation, a cold weight settling in your chest. You know. You know in a way that cannot be unlearned or argued with or forgotten. The knowledge changes you. You look at your companions and realize they are still living in a world where the secret does not exist. You can never go back to that world. You do not tell them how you know. You cannot. The knowledge itself prevents you. You have paid for this truth with something you did not know you owned. You feel the absence of it like a missing tooth. You do not regret the question. You do not ask what you paid.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
@@ -240,7 +166,7 @@ You keep a journal, though you would never call it that. It is a record of debts
 | Presence  | 14    | +2       |
 | Resolve   | 14    | +2       |
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ---
 
@@ -252,7 +178,7 @@ You keep a journal, though you would never call it that. It is a record of debts
 | Qi Pool           | 10 + Intellect Modifier + 3         | Calculate |
 | Sanity            | 20 + Resolve Modifier               | Calculate |
 | Initiative        | Swiftness Modifier + 3              | Calculate |
-| Defense           | 10 + Swiftness Modifier + 1 (armor) | 15        |
+| Defense           | 10 + Swiftness Modifier + 1 (armor) | Calculate |
 | Proficiency Bonus | Level 1                             | +2        |
 
 ---

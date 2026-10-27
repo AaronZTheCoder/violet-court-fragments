@@ -2,6 +2,8 @@
 
 ## The Reconstruction
 
+A campaign of relief, testimony, and contested authority. Begin with [Campaign Continuity](CAMPAIGN_CONTINUITY.md), which links this book to The Seventh Niche through the Twenty Seventh Relief Docket. The opening date is Hinge Gate 21, Year 452.
+
 > _When a levee is put back, the work is called reconstruction._
 > _When the account of the levee is put back, the work is called reconstruction._
 > _The Bureau has never seen a reason to use two words for this._
@@ -18,7 +20,7 @@ Reconstruction is what happens after. It is the word a farmer uses for a rebuilt
 
 That clerk is the most consequential person in the history of the empire and nobody knows his name.
 
-Your players work inside this instrument. They are brush scribes of the Eighth Rank in the Bureau of Harmonious Records. When a province drowns, a document is generated, and the document passes through hands like theirs, and what the empire will remember about the drowning is decided somewhere in that passage. They are not observers of the plot. They are the mechanism of it.
+Your players have a reason to handle its work. They might be Eighth Rank copyists, a survey crew, hired carriers, shrine attendants, or people trying to obtain relief. A province drowns; a document passes through their hands. Their choices can determine who receives grain and whose testimony remains available when the Court settles its account. Agree on their connection before play rather than assigning them a shared life.
 
 This is the thing to hold on to when you run this game. The Court's error is not cruelty. Grandmother Stone Voice put it better than the Court ever has: the error is abstraction, and every atrocity in the empire has been committed by someone working from a summary. The Reconstruction is the empire's summary machine. It is staffed almost entirely by people who would describe themselves as decent, because it is.
 
@@ -26,7 +28,7 @@ This is the thing to hold on to when you run this game. The Court's error is not
 
 ## The Gloss and the Key
 
-The Court does not write plainly. It has not written plainly in one hundred and forty years, and the reason is administrative rather than sinister, which is what makes it worse.
+The Court developed the Gloss one hundred and forty years ago. High administrative instructions can conceal a second meaning inside ordinary work. Public bulletins, witness statements, and Temple liturgy are not automatically glossed; identify a document's kind before deciding how to read it.
 
 An order that says what it means can be produced in evidence. An order that says what it means can be understood by the clerk who carries it, and a clerk who understands what he carries may decline to carry it, or may sell it, or may weep. So the Court developed the Gloss.
 
@@ -46,7 +48,7 @@ Nobody in the Court has ever been punished for a carry. You cannot punish a man 
 
 **At the table.** Give your players glossed documents. Actual ones. Write out the granary schedule and let them hold it. Somewhere in it is a name, or a date, or a quantity that does not fit the surrounding arithmetic, and the Intellect check is not to read the document, because anyone can read it. The check is to notice that it is a document about something else.
 
-And when they finally decode one, do not let them be certain. That is the whole horror of the Gloss. The best they will ever have is a reading, and a reading is a thing that can be wrong, and if they act on a wrong reading the consequences are real and are theirs.
+A decoded document remains evidence of what its current wording permits. Give the players its date, the register they used, and any unresolved term. They can compare a base text, test an interpretation against an executed order, or seek a second reader. Uncertainty should create work they can undertake, not a reason for the Host to reverse a sound discovery.
 
 ---
 
@@ -60,9 +62,9 @@ The Bureau of Harmonious Narrative teaches its cadets exactly one thing, and tea
 
 The instruction, which appears verbatim in the Bureau's cadet manual and has appeared there for eighty one years, is this: _give them a face and they will not ask for a map._
 
-The Bureau is not lying to the empire. That is what your players will find hardest to accept, and what will corrode them fastest. Every image the Bureau circulates is accurate. It is the arrangement that lies, and an arrangement cannot be caught in a lie, because no individual sentence in it is false.
+Much of the Bureau's work needs no invented event. It chooses which true account arrives first and which is filed unread. It also lies when expedient: the missing word in the Alabaster notice is an alteration, not an innocent arrangement. Let the players distinguish selection, omission, and falsification. Each leaves different evidence.
 
-A player who tries to publish the Far View will discover the second half of the doctrine, which is not written in the manual because it does not need to be. The Far View has no face. Therefore it has no audience. Therefore it does not require suppression. It requires only that nothing be done, by anyone, for eleven days, and then it is old.
+Publishing the Far View takes more than finding it. Ask who will carry the account, who can verify it, and whose immediate concern it answers. A parent tracing a child, a crew waiting for grain, or a seal holder facing liability may provide an audience the Bureau overlooked. Publication can fail, spread locally, or win a useful ally; it is not doomed by definition.
 
 ---
 
@@ -78,7 +80,7 @@ A sixth is in draft. It has not been issued.
 
 **Issued Year 371, under the Ledger Hand.**
 
-**The failure.** In Year 370 the great river left its channel and took the low prefectures. The Court's difficulty was not the water. The Court's difficulty was that two surveyors of the Verdant Path, a woman called Low Weir and a man called Slack Tide, spent the following two years measuring, and published what they measured.
+**The failure.** In Year 370 the great river left its channel and took the low prefectures. The Court's difficulty was not the water. The Court's difficulty was that two surveyors of the Verdant Path, a woman called Low Weir and a man called Slack Tide, spent the following year measuring, and published what they measured.
 
 Their finding was simple enough that a farmer could follow it. Less water had come down the river than in the flood of the previous century. The water had stood higher anyway. It had stood higher because the flood lakes that once took the overflow had been drained for fields across sixty years of excellent, well documented, individually reasonable decisions, and because the upper forests had been cut, and because the silt those forests had held was now in the riverbed, raising it, so that in eleven prefectures the river ran above the roofs of the towns beside it.
 
@@ -176,13 +178,13 @@ Six months later the Court's own inquiry found that the prefecture had returned 
 
 ### The Fifth Reconstruction: The Empty Bench
 
-**Issued the twentieth day of Hinge Gate, Year 452. Today.**
+**Issued the twentieth day of Hinge Gate, Year 452, the day before play begins.**
 
 **The failure.** None. This is the first Reconstruction issued before a failure rather than after one, and that is precisely what it is.
 
 **What happened.** On the seventeenth day of Hinge Gate a slope failed on the shoulder above Gate's End, on the shoulder that the empire and the Unclaimed Territory share, and came down across the pass road and the terraces below it in the space of about forty seconds. The Garrison at Iron Gate reached the site in nine hours, which is genuinely fast, and Marshal Hundred Battles has been at the site since, which is genuinely creditable.
 
-The count is not known. It will not become known. Survey teams have been dispatched, foreign observers have been turned back at the Iron Gate road on grounds of avalanche risk, and the prefecture has been asked to submit its roll through the Bureau of Border Harmony, which is the bureau with the smallest staff and the longest queue in the Nine Domains, and everyone who chose that routing knew that.
+The count is not known. Survey teams are working, foreign observers have been turned back at the Iron Gate road on grounds of avalanche risk, and the prefecture must submit through the understaffed Bureau of Border Harmony. A complete count may take months. A provisional roll can still distinguish confirmed deaths, survivors, and the missing. That distinction is something the players can protect.
 
 **And then this.** On the nineteenth day, in one of the maritime powers, a contest house called the Alabaster Ground kept a silence before its game. Ten thousand people stood without speaking for one minute. The notice they raised read, in their own language: _in memory of those lost in the disaster on the border between our neighbors and Gate's End._
 
@@ -208,9 +210,9 @@ The quarrel is not a failure of the Bureau's messaging. The quarrel is the produ
 
 The Bureau's own back bulletins print Gate's End hundreds of times. The Court's own maps print it. The decree of Year 451 has not been applied to the Archive because re glossing the back files is a task of some four million documents and the section responsible has nine people. A player with an afternoon and a reader's pass can assemble a devastating, unanswerable, fully evidenced demonstration that the Court is prosecuting a foreign contest house for using the Court's own current spelling.
 
-And it will change nothing, and worse, publishing it will feed the quarrel, because the quarrel is the point and any contribution to it is a contribution.
+Publishing the contradiction may make a carrier distrust the Bureau or give a seal holder grounds to carry the original notice. If the party wants relief rather than an argument, ask how it connects that evidence to an order, a witness, or an audience that can act. The offered quarrel consumes time; it does not make every use of the truth worthless.
 
-The correct play is not to win the argument. The correct play is to refuse it, and go to Gate's End, and count. Let your players work that out for themselves. Do not have anyone tell them.
+Offer several ways forward: travel toward Gate's End, work from witnesses arriving in Xiaoyuan, secure an independent survey, or keep provisional entries open. Tell the players the travel times before they choose. There is no single correct route through the case.
 
 ---
 
@@ -308,21 +310,31 @@ The Court did not need the record to cause the disaster. It only needed the reco
 
 ## The Thirty Days
 
-Your campaign opens on the twentieth day of Hinge Gate, Year 452. The Hinge is thirty days away. Three things happen on the first intercalary day, and they happen together.
+Begin on Hinge Gate 21, Year 452. Thirty days later, on the first day of the Hinge, three administrative deadlines meet.
 
-**The Key turns.** Every glossed document in the empire becomes a document about something slightly different. Anything your players have decoded expires. Anything they have not yet decoded becomes harder. Any instruction they have set in motion and not yet completed becomes a carry, and a carry does what nobody intended.
+**The Key turns.** New instructions use the next register. A dated decoding remains evidence of an earlier meaning. Unfinished glossed orders risk a carry unless an office issues a plain countersigned clarification or a stay. The players can seek either remedy.
 
-**The Sixth Reconstruction takes effect.** The Concord Vigil moves to the third day and becomes thanksgiving. Every calamity after the Hinge will be declared a victory before it has been counted, permanently, as a matter of standing procedure.
+**The Sixth Reconstruction is scheduled to take effect.** The default draft moves the Concord Vigil to the third day and replaces mourning with thanksgiving. An amended clause, a delayed implementation, or an effective local exemption changes what happens. Resolve the text and orders actually in force.
 
-**The Gate's End roll is due.** The prefecture must submit through the Bureau of Border Harmony. If it submits nothing, the disaster has no dead. If it submits a number, the number is the number, forever.
+**The Gate's End roll is due.** An empty return closes the account without confirmed deaths; it does not prove no one died. A provisional return can preserve missing entries and claims if it has an accepted receipt or stay. Later evidence remains possible, though reopening a closed account is harder.
 
-Thirty days. That is your clock and you should show it to the table on the first evening. Let them see the shape of it. There is no version of this campaign in which they stop the Hinge from arriving.
+Tell the party these dates when it receives the docket. The consecration follows on the third day of the Hinge. That gap gives it time to act on consequences of the new register.
+
+## The Page Sent to the Temple
+
+The relief docket arrives with two attachments: a roll awaiting names and a routing slip assigning the grain to the Temple's ceremonial account. The party can keep the case narrow and obtain a release order. If it asks why a relief account belongs to a dead Steward's rite, the answer leads into The Seventh Niche.
+
+Reed Basket, the clerk who prepared the roll, has written her sister's household under missing. Someone returned a second copy with that space blank. She needs a copy received by an office that can act, not a promise that history will eventually vindicate her.
+
+At the Temple depot, a porter is waiting with a ceremonial receipt that cannot release grain. Run the Storehouse Door scene in [Campaign Continuity](CAMPAIGN_CONTINUITY.md). It puts the practical cost of the attachment in front of the party before it asks anyone to interpret the Court's intentions.
+
+The next question is concrete: can the relief account be kept open without surrendering the Temple's right to decide its own admissions? The people the party has helped, disappointed, paid, or exposed remain present when the answer reaches the niche.
 
 ---
 
 ## Running the Reconstruction
 
-**What the players are.** They are the hands. Not witnesses, not rebels, not investigators by trade. They are Eighth Rank copyists in the Bureau of Harmonious Records, and the Gate's End file is going to cross their desk in the first session, and they are going to have to do something with it, and every option is a real option with a real cost.
+**What the players are.** Agree on why the relief docket reaches them. Copyists can process it, carriers can deliver it, a survey crew can verify it, and Temple workers can seek a distribution order. Correctly completing an assigned job remains a valid choice. Show its consequences without turning obedience or refusal into the Host's moral examination.
 
 They can process it correctly. This is not a trap and you must not punish it. Processing it correctly is what a decent, frightened person does, and the campaign works perfectly well if they do.
 
@@ -336,14 +348,14 @@ They can process it correctly. This is not a trap and you must not punish it. Pr
 
 **The schools.** Golden Orthodoxy drafted the Sixth and does not understand what it has drafted. Iron Calculation built the relays that broke the One Lamp and has never been forgiven for it. Crimson Lineage remembers when there was no Reconstruction and is the only faction that can say so with authority. Common Flame is the target of the Empty Bench and does not yet know it. Verdant Path holds the Silt Papers lineage and has been quietly correct for eighty one years and has been punished for it every time. Bright Mirror will enforce the Sixth exactly as written, which is the most dangerous thing anyone in this setting can do.
 
-**What the table must not be told too early.** That the Sixth may be a carry. That the cook fires exist. That the Bureau is not lying. Especially that last one. Let them spend a dozen sessions hunting for the lie, and let them find, instead, an arrangement of true things, assembled by tired people working from summaries, that has killed more of the empire than the Dusk has.
+**Revelations.** Prepare evidence for the possible carry, the cook fires, and the Bureau's use of selected truths. Release it when the players reach a credible source, even early. Their investigation determines discovery, not a minimum session count.
 
 ---
 
 ## Threads
 
 - The roll from Gate's End is due at the Hinge and the prefecture has no clerk left who can prepare it. Someone has to go.
-- A carry from the previous Key is still running somewhere in the western prefectures. Nobody issued it. It cannot be recalled, because recalling it requires naming who issued it.
+- A carry continues in the western prefectures. A countersigned clarification could stop it, but the responsible office fears accepting liability.
 - The Silt Papers are in the west wing and have not been requested in thirty years. A request is logged.
 - Eleven caravan survivors in the Warrens have been telling the truth for six years. Their dates are checkable in an afternoon.
 - Someone in Grey Wharf read the Sixth Reconstruction before the Bureau's own drafting section finished it.

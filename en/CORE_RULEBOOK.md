@@ -12,7 +12,7 @@
 
 ### The Pitch
 
-The Violet Court Fragments is a tabletop roleplaying game set in the dying days of the Celestial Empire, a vast and ancient realm ruled for more than four centuries by the Celestial Court in the name of the Sun Emperor, who has not spoken publicly for about one hundred and sixty four years. The players take on the roles of figures drawn into the Court's web: a brush scribe who discovers a forbidden truth, a soldier who swore an oath to an absent Emperor, a reformer whose ideas are too popular to ignore and too dangerous to tolerate.
+The Violet Court Fragments is a tabletop roleplaying game set in the dying days of the Celestial Empire, a vast and ancient realm ruled for more than four centuries by the Celestial Court in the name of the Sun Emperor, who has not spoken publicly for about one hundred and sixty five years. The players take on the roles of figures drawn into the Court's web: a brush scribe who discovers a forbidden truth, a soldier who swore an oath to an absent Emperor, a reformer whose ideas are too popular to ignore and too dangerous to tolerate.
 
 Beyond the borders, the Crimson Dusk creeps inward, a corruption of reality itself that turns fields to salt and people into hollow things that weep red. Within the capital, six schools of thought compete for control of the Court, each believing they alone know how the empire should be governed. And somewhere in the depths of the Imperial Archives, a truth waits that could save the empire or destroy it.
 
@@ -138,7 +138,7 @@ Do not roll when:
 - The action is impossible (the Host simply says no)
 - The action is trivial (the Host simply says yes)
 - Failure would not create an interesting outcome (skip to success)
-- The dice would override a better story (the Host rules in favor of the story)
+- The outcome is already established by an ability or an agreed fact. Never cancel a valid roll to preserve a planned scene.
 
 The dice serve the narrative, not the other way around.
 
@@ -246,66 +246,69 @@ Host: "Your fingers slip on a wet gear. The filament snaps completely. The devic
 
 ## Chapter Three: Character Creation
 
-### Making Your Character
+### Making Room for a Person
 
-Character creation is designed to be completed in under thirty minutes. You will need a Character Dossier (a printed sheet for your chosen Archetype) and a pencil.
+Bring a pencil and a character sheet. In about thirty minutes, choose what your character can do and what matters to them today. Their life does not need to be finished before play begins.
 
-### Step One: Choose Your Archetype
+The recommended method is **Modular Careers**: one primary career, one secondary trade, a specialization, and five Skills. A career describes training. It does not assign gender, ancestry, allegiance, temperament, trauma, or an ending. A blood cultivation practice need not make you a duke; knowing the Temple's rites does not make you Incense Crown.
 
-The game provides thirteen Archetypes. Twelve of them correspond to a major figure in the Celestial Court. The thirteenth corresponds to a man the Court has never managed to count, which is why the Court still says twelve. When you choose an Archetype, you are not playing as that figure. You are playing as someone who shares their path, their training, and their general role in the empire. The Archetype provides your mechanical foundation.
+The thirteen dossiers also preserve **Portrait Builds**, the original ready made packages. A table may use those packages for a short game or deliberately play the named figures. Choose one creation method for the whole party. Portrait Builds use the printed Facet baseline plus six points, three printed Skills plus two choices, printed wealth and Faction Standing. Modular Careers use the rules below instead of those four package elements. Neither method grants both sets of benefits.
 
-The thirteen Archetypes are:
+### Step One: Choose a Primary Career
 
-| Archetype             | Path             | Role in the Empire                     | Default Gender |
-| --------------------- | ---------------- | -------------------------------------- | -------------- |
-| Cinnabar Heart        | Alchemist        | Bureau of Harmonious Narrative         | Male           |
-| Night Warbler         | Shadow Hand      | Bureau of Internal Harmony             | Male           |
-| Guest Among Forests   | Long Lived       | Representative of the Northern Expanse | Female         |
-| Iron Calculation      | Artificer        | State Planning Commission              | Male           |
-| Iron Wall             | Bastion          | Imperial Garrison Command              | Male           |
-| Bright Mirror         | Justicar         | Commission for Celestial Purity        | Male           |
-| Shadow                | Night Walker     | Independent Intelligence               | Male           |
-| Duke of Eternal Night | Blood Cultivator | Crimson Lineage Aristocracy            | Male           |
-| Iron Bone             | Fury Adept       | Red Banner Revival Movement            | Male           |
-| Celestial Book        | Archivist        | Bureau of Celestial Inquiry            | Female         |
-| Bone Script           | Hedgewarden      | None. You have no file.                | Male           |
-| Incense Crown         | Oracle           | Temple of Ten Thousand Gods            | Female         |
-| Stray Stroke          | Drifter          | None. You are eleven files, not one.   | Male           |
+Take the three starting abilities and the advancement tree from one dossier. Use its Hit Point, Qi Pool, and Initiative bonuses, but recalculate every derived value from your own Facets. The names in the last column identify examples of these careers, not roles the player must inherit.
 
-Full details for each Archetype are provided in the Character Dossiers supplement.
+| Primary career   | Work you might do                                               | Dossier portrait      |
+| ---------------- | --------------------------------------------------------------- | --------------------- |
+| Alchemist        | Prepare elixirs, assay substances, interpret official language  | Cinnabar Heart        |
+| Shadow Hand      | Escort a witness, infiltrate a compound, investigate covertly   | Night Warbler         |
+| Long Lived       | Practice forest passage, archery, and negotiation               | Guest Among Forests   |
+| Artificer        | Repair engines, survey works, maintain Qi infrastructure        | Iron Calculation      |
+| Bastion          | Guard a person, organize a defense, hold a passage              | Iron Wall             |
+| Justicar         | Examine testimony, mediate disputes, enforce a sworn duty       | Bright Mirror         |
+| Night Walker     | Find contacts, gather intelligence, move through the city       | Shadow                |
+| Blood Cultivator | Practice blood arts, preserve inherited knowledge               | Duke of Eternal Night |
+| Fury Adept       | Channel anger into strength, protect a community                | Iron Bone             |
+| Archivist        | Study records, trace provenance, read patterns                  | Celestial Book        |
+| Hedgewarden      | Tend the land, preserve names, work beyond the registry         | Bone Script           |
+| Oracle           | Conduct rites, offer sanctuary, hear the names of the dead      | Incense Crown         |
+| Drifter          | Travel, negotiate checkpoints, work with overlapping identities | Stray Stroke          |
 
-These defaults govern the named Court figures, the Stray Stroke, and every unmarked example in this build. A player may choose any gender for a player character without changing mechanics, history options, or advancement.
+Long Lived names a tradition as well as a lifespan. Decide how you learned it; do not claim centuries of memory unless you choose that history. Blood cultivation, fury practices, and ritual training likewise require an origin, not a prescribed species or personality.
 
-**How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Do you want to be the one person the record cannot resolve into a single man, and find out what that costs? The Stray Stroke. Your Archetype is not your destiny. It is your starting point.
-
-Three of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach him and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. The Stray Stroke has been entered into the record eleven times under eleven genuine names, so that the empire holds eleven true accounts of him and cannot assemble a single one, which leaves him unreachable and unprotected in exactly equal measure. If your table wants a character who is outside the hierarchy rather than inside it, these are the three doors.
-
-**Example choice.** A player named Lan wants to play a character who is a scholar drawn into dangerous politics. She reads the Archetype descriptions. The Celestial Book offers access to forbidden knowledge and a position in the archives, which appeals to her. The Cinnabar Heart offers alchemy and the manipulation of information through the Bureau of Harmonious Narrative. She chooses the Celestial Book, deciding her character is an archivist who found a document she was not meant to see.
+**Office and access.** At creation, describe the modest appointment, license, apprenticeship, or community mandate through which your institutional abilities operate. Keep their printed checks, costs, and limits. An Archive Access roll can obtain supervised access or uncover a record; it does not give a junior archivist the Keeper's office. A career never grants authority to overrule another player's character.
 
 ### Step Two: Assign Your Facets
 
-Every character has six **Facets** that measure their core capabilities:
+Assign **16, 14, 14, 12, 10, 8** among Might, Swiftness, Endurance, Intellect, Presence, and Resolve. Then distribute **six points**, to a creation maximum of **18**. This array replaces the dossier baseline, including any printed 20. Later advancement can raise a Facet to 20.
 
-| Facet         | Measures                              | Used For                                                             |
-| ------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| **Might**     | Physical power, melee combat          | Striking, lifting, breaking, intimidation through strength           |
-| **Swiftness** | Speed, agility, stealth               | Dodging, sneaking, ranged combat, initiative, picking locks          |
-| **Endurance** | Toughness, stamina, resilience        | Resisting damage, surviving harsh conditions, holding breath         |
-| **Intellect** | Knowledge, reasoning, Qi manipulation | Investigation, conducting rituals, crafting, recalling lore          |
-| **Presence**  | Charisma, bearing, social force       | Persuasion, deception, leadership, performance, commanding attention |
-| **Resolve**   | Willpower, courage, perception        | Resisting fear, detecting lies, maintaining sanity, staying focused  |
+| Facet     | Measures                               |
+| --------- | -------------------------------------- |
+| Might     | Strength, lifting, close combat        |
+| Swiftness | Speed, balance, precise movement       |
+| Endurance | Stamina, resilience, physical survival |
+| Intellect | Reasoning, knowledge, Qi manipulation  |
+| Presence  | Bearing, expression, social influence  |
+| Resolve   | Attention, composure, mental endurance |
 
-Your Archetype provides a baseline array of Facet scores. You then have **six additional points** to distribute among your Facets as you wish. You may not raise any Facet above 18 with these points. A few Archetypes begin with a signature Facet of 20: the Celestial Book's Intellect and Resolve, the Incense Crown's and the Duke's Presence. That score is the Archetype's gift rather than something you bought, and it cannot be raised further.
+**Facet Modifier:** subtract 10, divide by 2, and round down. Scores of 8, 10, 14, and 18 give modifiers of minus 1, +0, +2, and +4 respectively.
 
-**Facet Modifier:** Your Facet Modifier equals (Facet Score minus 10) divided by 2, rounded down. A Facet of 14 gives a modifier of +2. A Facet of 8 gives a modifier of minus 1.
+### Step Three: Choose a Secondary Trade and Five Skills
 
-**Example assignment.** Lan's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of her.
+Choose **two** of your primary dossier's three starting Skills, **one** from your secondary trade, and **two** freely from the Skill List. You begin with exactly five different proficiencies and a Proficiency Bonus of +2. If a selection repeats a Skill, choose another from the full list; repeated training never doubles the bonus.
 
-### Step Three: Select Skills
+Your secondary trade grants one practical permission as well as its Skill choice. It supplies ordinary knowledge or an introduction, not automatic obedience, a free favor, or access to protected information. It grants no second ability package, equipment package, Facet array, derived bonus, or advancement tree.
 
-Skills represent specific areas of training and expertise. Each Skill is tied to a Facet. When you make a Resolution Roll using a Skill you are proficient in, you add your **Proficiency Bonus** (+2 at character creation, increasing with advancement) to the roll in addition to your Facet Modifier.
-
-Your Archetype grants proficiency in three Skills. You may choose **two additional Skills** from the full list.
+| Secondary trade  | Choose one Skill          | Practical permission                                                     |
+| ---------------- | ------------------------- | ------------------------------------------------------------------------ |
+| Copyist          | Lore or Investigation     | Recognize standard forms and request ordinary public files               |
+| Courier          | Survival or Vigilance     | Know common routes, carrier marks, and checkpoint requirements           |
+| Healer           | Craft or Fortitude        | Recognize common injuries and find a local source of medical supplies    |
+| Artisan          | Craft or Investigation    | Assess ordinary workmanship and approach a public workshop               |
+| Performer        | Performance or Insight    | Recognize a performance tradition and approach its practitioners         |
+| Trader           | Connections or Persuasion | Read a market invoice and locate a legitimate buyer                      |
+| Shrine Attendant | Lore or Discipline        | Recognize common observances and approach a local shrine                 |
+| Labor Organizer  | Athletics or Connections  | Understand a work crew's routine and request a meeting with its delegate |
 
 **Skill List:**
 
@@ -349,117 +352,64 @@ _Resolve Skills:_
 
 **Pairing a Skill with a different Facet.** The Facet listed beside each Skill is its default, not its only pairing. When the fiction clearly calls for a different one, the Host may pair a Skill with whatever Facet the situation demands: Intimidation with Presence when a character menaces by sheer bearing rather than muscle, Craft with Swiftness when the work is delicate rather than clever, Lore with Resolve when the question is whether you can recall it under interrogation. Proficiency still applies. The Host should name the pairing aloud before the roll so the table can see the logic.
 
-**Example selection.** The Celestial Book Archetype grants proficiency in Lore, Investigation, and Qi Theory. Lan needs to choose two more. Her character is an archivist, but she wants her to have some practical skills for when things go wrong. She chooses Insight (Resolve) to read dangerous people, and Deception (Presence) because archivists who cannot lie do not survive long in the Court. She records these five skills on her dossier.
+### Step Four: Choose a Specialization, or Leave It Open
 
-### Step Four: Determine Derived Values
+A specialization is a branch of practice, not a second career. Choose one below now or after the third session. If you defer it, leave one of your two free Skill choices blank; fill that slot before the first roll that uses it, no later than the end of the third session. No retcon grants success on an earlier roll.
 
-**Hit Points (HP):** Your capacity to withstand physical harm. Calculated as: 10 + Endurance Modifier + Archetype Bonus. When HP reaches 0, you are dying.
+| Specialization  | Questions that interest you                             | Optional free Skill choice |
+| --------------- | ------------------------------------------------------- | -------------------------- |
+| Field Practice  | Who needs help here, and what can be done now?          | Survival or Fortitude      |
+| Inquiry         | What happened, and what would test our explanation?     | Investigation or Insight   |
+| Mediation       | Who needs to be heard, and what could they accept?      | Persuasion or Connections  |
+| Covert Practice | How can we reach someone without exposing them?         | Stealth or Larceny         |
+| Ritual Practice | What does this working require, and who bears its cost? | Lore or Qi Theory          |
 
-**Qi Pool:** Your reserve of Celestial Qi for techniques and rituals. Calculated as: 10 + Intellect Modifier + Archetype Bonus.
+Any primary career may take any specialization. These are prompts, not beliefs you must hold. The Skill uses an existing free slot; it is not a sixth proficiency and gives no extra action or bonus. Later, spend 4 Advancement Points to learn a Technique from Chapter Seven with the required training. A specialization helps you seek a teacher; it does not waive that requirement. You may rename or change its focus during downtime without losing purchased abilities.
 
-**Sanity:** Your mental and spiritual stability. Starts at 20 + Resolve Modifier. When Sanity reaches 0, your character suffers a breakdown and may become unplayable.
+### Step Five: Calculate Values and Take Equipment
 
-**Initiative:** Swiftness Modifier plus any Archetype bonuses. Used to determine turn order in combat.
+- **Hit Points:** 10 + Endurance Modifier + your primary career's printed HP bonus.
+- **Qi Pool:** 10 + Intellect Modifier + your primary career's printed Qi bonus.
+- **Sanity:** 20 + Resolve Modifier.
+- **Initiative:** Swiftness Modifier + your primary career's printed Initiative bonus, if any.
+- **Defense:** 10 + Swiftness Modifier, plus armor you actually wear. Do not count a printed armor bonus twice.
+- **Celestial Favor:** 10. **Ritual Harmony:** 50. **Wealth:** 20 Copper Leaves.
 
-**Defense:** 10 + Swiftness Modifier. The base TN for attacks targeting you.
+Take your primary career's listed practical equipment and one personal item. Unique historical relics become ordinary training equivalents with the same listed numerical effects; they do not establish that you own an irreplaceable object from the world's history. Credentials reflect your agreed appointment. Use 20 Copper Leaves in place of the dossier's listed money, including Jade Slips.
 
-**Example calculation.** Lan's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier minus 1), with no Archetype bonus, so minus 1. Defense: 10 + (minus 1) = 9. She is the most fragile character at the table and the hardest to break.
+Abilities and Techniques are not two separate starting allowances. You receive the three abilities in your primary dossier, with Qi costs only where specified. The general Technique list is a learning catalogue, not three additional free powers.
 
-### Step Five: Starting Resources
+### Step Six: Choose One Present Stake
 
-Every character begins with:
+Write one desire, one bond, and one reason to remain with the party. You may know a dangerous Truth, suspect one, or leave its details open. A suspicion is not a confirmed fact about another character or the setting. Agree with the Host which parts are established and which remain questions.
 
-- **Celestial Favor:** 10 points. Your currency of influence within the Court. Spend to call in favors, access restricted areas, or survive investigations.
-- **Ritual Harmony:** 50. A measure of how orthodox you are perceived to be. The scale runs from 0 (Heterodox: under active investigation) to 100 (Exemplary: a threat to everyone less pure than you, which is everyone).
-- **Equipment:** Your Archetype provides starting equipment. You may also begin with one personal item of significance, agreed upon with the Host.
+For the linked campaign, choose a connection to relief work, the Temple, the records, or a person affected by Gate's End. You can instead accept a paid job or help a companion. Nobody needs a secret inheritance, a dead family, or a hidden atrocity to deserve a place in this story.
 
-### Step Six: Your Truth
+### Step Seven: Set Relationships
 
-Every character carries a **Truth**: something they know that complicates their relationship with the Court. Your Archetype suggests a Truth, but you may work with the Host to create your own. This Truth is a narrative hook. It may be a secret you protect, a discovery you made, or a connection you have that would be dangerous if revealed.
+Begin at **0 Faction Standing with each of the six Schools**. You may choose +10 with one School and minus 10 with another, naming a specific relationship behind each. You may also stay neutral with all six. Career and allegiance are separate choices. Institutions such as the Bureau of Internal Harmony and the Temple are not additional Schools.
 
-Examples:
+### Step Eight: Name the Character and Leave Space
 
-- You know a senior official's secret dealings.
-- You have seen a document that contradicts established doctrine.
-- You are related by blood to someone who was Disappeared.
-- You have a contact in a fallen province who still sends messages.
+Choose a name, pronouns, and two or three facts about your past. Leave at least one unanswered question you would enjoy exploring. The Host may offer a connection; the player decides whether it belongs to their past. Discoveries can challenge a belief without rewriting an agreed fact or dictating a feeling.
 
-Your Truth should be something the Host can use to create personal stakes in the larger story.
+After each of the first three sessions, you may revise an unused free Skill, an unplayed background detail, or your specialization with the Host. Keep established events and spent resources. No purchase, ability, or secret is required to make your character change; that decision belongs to you.
 
-**Example Truth.** Lan decides that her Celestial Book, Scholar Jinhai, found a fragment of a journal in the archive stacks. The journal appears to be written in the Sun Emperor's own hand and dated fifty years after the Sun Emperor withdrew from public life. The fragment mentions something called "the First Omission." Jinhai has told no one about this discovery. She keeps the fragment hidden in her quarters. The Host now has a plot hook: what is the First Omission, and who else is looking for this journal?
+### Example: A Surveyor Who Can Read the Road
 
-### Step Seven: Faction Standing
+Lan creates **Jinhai**, an Artificer whose secondary trade is Courier. Jinhai repairs relay posts and wants the crews paid for their last month of work. She has never held a seat in the State Planning Commission.
 
-Your Archetype has a default starting relationship with each of the six Schools of Thought. Record these on your Character Dossier. During play, these Faction Standing values will shift based on your actions.
+Lan assigns Might 8, Swiftness 14, Endurance 14, Intellect 16, Presence 10, Resolve 12. She spends two points each on Intellect, Endurance, and Resolve. Her final array is **8, 14, 16, 18, 10, 14**.
 
-### Step Eight: Name and History
+She takes Craft and Investigation from Artificer, Survival from Courier, Connections freely, and leaves her final Skill open while she considers Inquiry or Mediation. With Artificer bonuses of +4 HP and +6 Qi, she has **17 HP, 20 Qi, 22 Sanity, Initiative +2, and Defense 12** before equipment effects. She has the Artificer's three starting abilities, no Courier combat ability, 10 Celestial Favor, 50 Ritual Harmony, and 20 Copper Leaves.
 
-Give your character a name. Write two or three sentences about who they were before they became entangled in the Court's machinations. Where were they born? What did their family do? What event pushed them into the path they now walk?
+Her bond is to the crew that taught her to climb relay poles. Her open question is why its foreman stopped signing his own wage receipts. She may discover fraud, illness, coercion, or a harmless explanation. Neither player nor Host has decided yet.
 
-Answer these three questions:
+### Advancement Without a Prescribed Life
 
-1. What do you want most? (Your ambition)
-2. What would you never do? (Your line)
-3. Who matters to you? (Your bond)
+The dossier's mechanical **Advancement** entries are purchases at their listed level, costing 5 Advancement Points each. You must already meet the level requirement before buying; points spent on that purchase cannot also qualify you for it. Prerequisite abilities must be learned first. The separate **Expanded Advancement** prose offers possible scenes, not compulsory dreams, symptoms, losses, revelations, or endings.
 
-Share your answers with the Host. They will use them.
-
-**Example history.** Lan writes: "Jinhai was born in a small town in the eastern prefecture of Serene Waters. Her family were paper makers. She was recruited into the Bureau of Celestial Inquiry at age twelve because a visiting examiner noticed her ability to memorize documents after reading them once. She has spent eighteen years in the archives. She has always believed the archives exist to preserve truth. The fragment of the Emperor's journal has made her question everything."
-
-Her answers: "I want most to understand the truth about the Emperor's silence. I would never destroy knowledge, even knowledge that condemns me. My bond is to my younger sister, a clerk in the Bureau of Harmonious Narrative who does not know what I have found."
-
-### A Complete Character Build from Start to Finish
-
-Here is a complete walkthrough of creating a character from nothing to ready for play.
-
-**Player:** Alex
-**Archetype Chosen:** Night Warbler (Shadow Hand)
-
-**Step 1: Archetype.** Alex reads the Archetype descriptions and picks the Night Warbler. The Shadow Hand appeals because Alex wants to play an infiltrator, someone who moves through the Court unseen and uncovers secrets. The Night Warbler baseline is Swiftness 18, Might 14, Resolve 14, Intellect 14, Endurance 12, Presence 10.
-
-**Step 2: Facets.** Alex has 6 points to distribute. Night Warbler abilities rely on Swiftness and Presence, but Swiftness is already at 18 and cannot be raised with these points. Alex spends all 6 on Presence, raising it from 10 to 16 (modifier +3), because an infiltrator who cannot talk her way back out is a corpse with good shoes. Might stays at 14 (modifier +2). Endurance stays at 12 (modifier +1). Intellect stays at 14 (modifier +2). Resolve stays at 14 (modifier +2).
-
-**Step 3: Skills.** The Night Warbler grants Stealth, Precision, and Insight. Alex chooses two more: Deception (to maintain a cover story) and Acrobatics (to escape through windows and across rooftops).
-
-**Step 4: Derived Values.** Night Warbler has HP bonus +2 and Qi bonus +3. With Endurance 12 (modifier +1): HP = 10 + 1 + 2 = 13. With Intellect 14 (modifier +2): Qi Pool = 10 + 2 + 3 = 15. Sanity = 20 + Resolve modifier (+2) = 22. Initiative = Swiftness modifier (+4) + Night Warbler bonus (+2) = 6. Base Defense = 10 + 4 = 14, rising to 15 while she wears concealed armor.
-
-**Step 5: Resources.** Starting equipment: concealed armor, two hidden blades, six daggers, a dark cloak, a grappling hook with silk rope, and forged identification papers. Plus one personal item: a jade pendant that belonged to Cinder's mother. Plus 15 Copper Leaves.
-
-**Step 6: Truth.** Alex decides: "I know that a senior member of the Golden Orthodoxy has been meeting with a representative of the Crimson Dusk. I witnessed the meeting by accident while following a different target. I have not reported it because I am not sure who to trust."
-
-**Step 7: Faction Standing.** Night Warbler baseline: Neutral with the Golden Orthodoxy, slightly negative with the Verdant Path, Neutral with the Iron Calculation, slightly positive with the Crimson Lineage, strongly negative with the Common Flame, and slightly negative with the Bright Mirror. The Bureau of Internal Harmony is Cinder's nominal employer, but it is an institution rather than one of the six Schools.
-
-**Step 8: Name and History.** "My name is Cinder. I was a street child in the capital's outer districts. The Bureau of Internal Harmony recruited me at age fifteen because I could get into places I should not be able to get into. I have served them for twelve years. I am good at my job. I am starting to wonder if I am on the right side."
-
-Ambition: "I want to know who is really running the Bureau." Line: "I will not harm children, not even for the mission." Bond: "The old woman who runs the noodle stall where I ate as a child. She never asked questions. She fed me anyway."
-
-The character is ready for play.
-
-### Creating Compelling Character Concepts
-
-A character concept is more than a collection of numbers. It is the answer to the question: why should anyone at this table care about this person?
-
-**Start with a contradiction.** The most memorable characters contain opposing impulses. A soldier who is afraid of combat. A spy who believes in honesty. A scholar who distrusts knowledge. Contradictions create internal conflict, and internal conflict creates drama.
-
-**Give them a flaw that matters.** Not a cute flaw like "I talk too much." A real flaw that creates problems at the table. A hot temper that makes them burn bridges. A loyalty that makes them protect the wrong people. A curiosity that leads them into danger they know they should avoid.
-
-**Connect them to the world.** Your character should have at least one relationship that matters to them. A friend, a rival, a family member, a mentor, a student. The Host can use these relationships to create personal stakes. A player whose only relationship is to their own ambition has given the Host nothing to work with.
-
-**Ask: what would make this character betray their principles?** If you cannot imagine the circumstances, your character is not yet fully formed. Every character has a breaking point. Knowing what it is before play begins helps you make consistent choices when pressure mounts.
-
-**Ask: what would make this character change?** Characters who do not change are not characters. They are statues. Your character should enter the game with beliefs that could be challenged, assumptions that could be overturned, loyalties that could be tested.
-
-**Example concepts.**
-
-A Duke of Eternal Night who is secretly funding reformist pamphlets because he fell in love with a revolutionary. He hates what he is doing but cannot stop.
-
-An Iron Wall who has never been tested in real combat, only in exercises. He believes he is ready. Everyone else wonders.
-
-A Cinnabar Heart who uses his position in the Bureau of Harmonious Narrative to hide evidence of imperial crimes. He tells himself he is preserving stability. He is no longer certain he believes it.
-
-A Guest Among Forests who has lived for more than four centuries and is deeply, profoundly tired. She has seen empires rise and fall. She struggles to care about the current crisis but feels obligated to try.
-
-A Shadow who was once a member of every school and was expelled from all of them. He works alone because he has burned every bridge. He tells himself he prefers it that way.
+Keep one primary advancement tree. Further training grants Skills and Techniques at Chapter Thirteen's listed costs; it does not unlock a second tree for free. An existing Portrait Build can move to Modular Careers during downtime: rebuild the creation package once, keep earned purchases and established history, and do not retain the old creation benefits as extras.
 
 ---
 
@@ -940,7 +890,7 @@ For Techniques that require an attack roll, use d20 + Intellect Modifier + Profi
 
 ### Expanded Technique List
 
-Each Archetype provides three starting Techniques. Additional Techniques can be learned through study, mentorship, or discovery. Below is a comprehensive list of Techniques organized by theme. Common Techniques are available to anyone who learns them. Thematic Techniques are typically associated with specific Archetypes but can be learned by any character who finds a teacher.
+Each primary career provides the three starting abilities printed in its dossier; these are not an additional allowance of three Techniques. Further Techniques can be learned through study, mentorship, or discovery. Below is a comprehensive list of Techniques organized by theme. Common Techniques are available to anyone who learns them. Thematic Techniques are typically associated with specific Archetypes but can be learned by any character who finds a teacher.
 
 **Healing Techniques**
 
@@ -1950,7 +1900,7 @@ An adventure designed for one session follows this shape:
 
 **Advancement Points (AP).** Points awarded by the Host for completing objectives. Spent to improve your character.
 
-**Archetype.** Your character's starting role, which determines baseline Facet scores, starting Skills, and equipment.
+**Archetype.** A dossier package used as a primary career kit or an optional Portrait Build. Modular Careers use the common Facet array and independent relationships in Chapter Three.
 
 **Celestial Favor.** A resource representing your influence within the Court. Spent to call in favors or survive investigations.
 

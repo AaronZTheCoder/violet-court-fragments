@@ -14,6 +14,16 @@
 
 **Days Elapsed:** ____ **Next Harmonization Audit Day:** ____ **Provinces Fallen:** ____
 
+**Linked campaign:** Day 0 = Hinge Gate 21. Optional Audit = Day 7. Key turns = Day 30. Consecration = Day 32.
+
+| Continuing record                      | Current state | Effective order or receipt | Who can act next? |
+| -------------------------------------- | ------------- | -------------------------- | ----------------- |
+| Relief distribution                    |               |                            |                   |
+| Confirmed, missing, and disputed names |               |                            |                   |
+| Temple consent and admission rider     |               |                            |                   |
+
+Record each character's primary career, secondary trade, specialization or open Skill slot, and player chosen bond alongside the sheet.
+
 ## Player Characters
 
 | Player | Character | Archetype | HP  | Qi  | Sanity | Ritual Harmony | Celestial Favor | Conditions |

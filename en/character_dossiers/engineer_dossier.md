@@ -1,18 +1,24 @@
 # Iron Calculation
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Artificer
 
-### School: Iron Calculation
+### Named figure's affiliation: Iron Calculation
 
 ### Court Role: State Planning Commission
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ## Description
 
-You are an artificer: an engineer of both machines and systems. The State Planning Commission controls the empire's resources: Qi, grain, labor, steel. You understand that governance is not about ideology. It is about throughput. You wear brass goggles and carry a clockwork abacus that computes probabilities faster than any oracle. You have tripled imperial productivity. You have also shortened worker life expectancy by fifteen years. This is, to you, an acceptable ratio. You are not cruel. Cruelty is inefficient.
+Iron Calculation works through the State Planning Commission. He has improved conditions in foundries and helped the Garrison break a workers' revolt. Both are part of his record. He believes a plan must survive contact with materials, labor, and distance. The question he finds harder is who gets to decide which losses the plan may accept.
 
 ## Expanded Backstory
 
@@ -52,13 +58,7 @@ Not since you took the foundry standards post. His position is that you climbed 
 
 Both of these are true and neither has ever moved the other by a single degree. You send money to his wife quarterly. She takes it and does not mention it to him. You have never discussed this arrangement with her; it simply began, and has continued for eleven years, and you both understand it.
 
-**The mechanisms.** You build small things that do nothing.
-
-A brass beetle that walks four paces and turns. A water clock the size of a thumb. A device whose only function is to transfer a single drop of oil from one reservoir to another every eleven minutes, forever, as long as it is wound.
-
-They have no application. You have never sold one or shown one to a colleague. There are forty one of them in a cabinet in your quarters and you work on them at night and you would be genuinely embarrassed to be discovered doing it.
-
-You do not know why you do this. You have tried to construct a functional explanation and cannot, and the failure to explain it is the only thing about your own mind that has ever unsettled you.
+**Work beyond the Commission.** Former apprentices still bring you difficult repairs. You sometimes accept them without a fee, though you have refused to make this a formal obligation. Copper Rest's wife once asked whether you could come to their house to examine a damaged pump. You repaired it while your brother was at work. You have not decided whether that was consideration or avoidance.
 
 **Your actual position, stated honestly.** The empire is a machine that is failing for engineering reasons, not moral ones. The Dusk is a load. The bureaucracy is a friction. The schools are a coordination failure. All of it is soluble and none of it will be solved, because solving it requires someone to be able to say a true thing to a Council elder, and the system has been carefully constructed to make that impossible.
 
@@ -70,29 +70,11 @@ So you improve extraction systems. Sixty one percent is real. It is not enough a
 
 ## Sample Dialogue
 
-1. When asked to justify a brutal efficiency metric:
-   "Let me show you the numbers. Here is the cost of prevention. Here is the cost of the outcome. The difference is what we call acceptable loss. I did not invent this arithmetic. I simply refuse to look away from it."
+1. Reviewing relief: “The grain is available. Show me the carts and the release order.”
 
-2. While examining someone's workshop or workstation:
-   "Your arrangement is inefficient. Do not be offended. Efficiency is not a moral judgment. It is a mathematical one. Your arrangement wastes approximately twelve percent of your available motion. I can show you a better way in approximately seven minutes."
+2. Challenged about casualties: “I chose the smaller loss. You are entitled to ask who gave me that right.”
 
-3. When someone questions your methods:
-   "You believe I lack compassion. This is incorrect. I feel compassion quite strongly. I simply do not let it influence my calculations. If I did, bridges would collapse and people would starve and my good intentions would not feed a single child. Results matter. Intentions are data points at best."
-
-4. Confronted with a moral objection from an ally:
-   "I understand your discomfort. I experience it too. The difference between us is that I continue working despite it. If you find the results of my labor distasteful, I invite you to produce better ones. I will adopt your methods if your numbers outperform mine. I am waiting."
-
-5. When examining ancient or unknown technology:
-   "Fascinating. The original designer was either a genius working with incomplete information or a fool who got lucky. Based on the join tolerances and the Qi conduit diameter, I am currently leaning toward the former. I reserve the right to revise my assessment."
-
-6. When an ally is in danger:
-   "Step aside. I have calculated the probability of your survival in that position. It is seventeen percent. I have calculated my own at forty three percent. I am the better option. This is not bravery. This is arithmetic."
-
-7. At the end of a long day, to no one in particular:
-   "I have optimized another portion of the empire. It will function more smoothly now. People will live slightly better lives. Other people will live slightly worse ones. The net improvement is positive. I have verified this three times. I do not know why I keep verifying."
-
-8. When someone asks if you sleep:
-   "Sleep is biological maintenance. I require 6.2 hours per night for optimal cognitive function. I sleep exactly 6.2 hours per night. I dream about gear ratios and Qi flow patterns. I am told this is unusual. I find it restful."
+3. Given a better proposal: “Leave it with me. If the route holds, we should use it.”
 
 ## Personal Connections
 
@@ -110,17 +92,7 @@ So you improve extraction systems. Sixty one percent is real. It is not enough a
 
 ## Roleplaying Guide
 
-You are a person who has trained yourself to see the world as a system of inputs and outputs, levers and consequences. This is not a coldness native to you. You feel things deeply. You have simply learned that feeling does not help. It clouds judgment. It introduces variables. You have built your entire identity around the discipline of calculation, and you are terrified of what would happen if you stopped calculating and simply felt.
-
-Your internal conflict is the gap between your models and your conscience. Every time you optimize a process, part of you runs the numbers on human cost. You do not ignore the cost. You weigh it. And you always, always find that the cost is acceptable by the numbers. The question that keeps you up at night is whether the numbers are lying.
-
-You trust almost no one. Trust is a variable you cannot fully model because it depends on too many unknowns. You trust your own calculations. You trust verified data. You trust a machine that you have personally built and tested. You extend trust to people slowly, reluctantly, and only after they have demonstrated predictable behavior across multiple scenarios.
-
-You treat allies with a kind of distant concern. You will optimize their equipment. You will calculate their odds of survival. You will deploy your constructs to protect them. You will not hold their hand. You will not offer comfort. You will not say "it will be alright" because you do not know that it will. The closest you come to affection is ensuring your allies' equipment is in perfect working order.
-
-You treat enemies with clinical precision. You do not hate them. Hatred is inefficient. You assess their capabilities, identify their weak points, and exploit them. You feel no satisfaction in victory and no regret in necessary force. You are not a killer. You are a solution looking for problems. Sometimes the solution involves removal.
-
-You notice inefficiencies that others miss. A hesitation in someone's speech. A tool lying in the wrong place. A ledger with a single inconsistent entry. You see the system beneath the surface of every situation. Your tell when you are lying is that you become even more precise. Your words become shorter. Your data becomes more specific. You overcompensate with detail. Your tell when you are sincere is that you stop. You become completely still. You look directly at the person you are speaking to. You say exactly what you mean with no elaboration.
+He asks for constraints and offers workable changes. Reserve numbers for decisions that need them. He can recognize pain without translating it into a percentage, and he can be wrong without becoming foolish.
 
 ## Ability Examples
 
@@ -168,29 +140,11 @@ _Complication:_ Lady Yuran has offered you a deal. She will stop siphoning Qi if
 
 ## Daily Life
 
-You wake at the same time every day: one hour before dawn. You perform a system check on your constructs before you perform any personal hygiene. The constructs are in order. You are permitted to proceed.
-
-You walk to the Commission offices through the industrial district. You do not take the faster route through the merchant quarter because you prefer to see the machines at work. The foundries. The Qi condensers. The steam pumps. You greet the night shift supervisors by name. You know their names because knowing a worker's name increases their productivity by approximately four percent.
-
-Your desk is organized by a system you designed. Nothing is out of place. You spend the morning reviewing reports from across the empire: grain yields in the eastern provinces, Qi consumption rates in the capital, labor output in the southern mines. You flag anomalies. You dispatch inquiries. You receive answers that tell you less than you need to know.
-
-You eat lunch alone. You have tried eating with colleagues. The conversation slows your digestion and reduces your afternoon productivity by nine percent. You eat a meal that you have calculated for optimal nutrition per copper leaf. It tastes like nothing. This is acceptable.
-
-The afternoon is for field work. Inspections. Audits. Problem solving. You visit sites where the numbers do not match reality. You find the variance. You correct it. You feel something that might be satisfaction.
-
-You walk home after sunset. You do not carry a lantern. The streets of the industrial district are lit by the glow of furnaces. You eat dinner. You review your personal calculations. You update the depletion curve. You refine the failsafe package. You sleep exactly 6.2 hours. You dream of your father's hands.
-
-What you dread most is the day the numbers stop making sense. You have built your entire life on the assumption that reality is quantifiable. If the depletion curve proves that the empire is dying and no machine can save it, then you have spent your life optimizing a corpse. You dread that realization. You continue working because the alternative is to stop, and if you stop, you might have to feel everything you have been holding at a distance.
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Overclock.** When you unlock Overclock, you feel it as a change in your perception of time. The gears in your abacus spin faster. The world seems to slow. You realize that you have been operating at a fraction of your potential. The Overclock is not just a mechanical boost to your constructs. It is the removal of a governor you did not know you had installed in your own mind. The cost is subtle: you sleep 5.8 hours now instead of 6.2. The dreams of your father are more vivid. You are beginning to remember details you had forgotten. The curve of his back as he worked. The sound of his cough.
-
-**Level 5: Networked Constructs.** When you achieve Networked Constructs, your constructs become an extension of your nervous system. You feel what the Scout Drone sees as though it were your own eyes. You feel the Turret's aim as though it were your own arm. This is intoxicating. You begin to understand why some artificers stop maintaining their own bodies and transfer their consciousness entirely into machine networks. You resist this impulse. The cost of this power is the growing sense that your biological body is a limitation rather than a home. You check your own pulse sometimes to remind yourself that you are still alive.
-
-**Level 7: Grand Infrastructure.** Grand Infrastructure changes your relationship with the physical world. Your constructs are no longer fragile. They are robust, enduring, capable of operating far beyond their original specifications. You find yourself thinking about infrastructure the way a general thinks about an army. Every bridge, every Qi node, every road becomes a potential asset. You begin to see the entire empire as a single machine with you at its controls. The cost is a creeping isolation. You have fewer conversations with people. You have more conversations with your constructs. Sometimes you are not sure which you prefer.
-
-**Level 9: The Perfect Machine.** The Master Construct is not an ability you use. It is a culmination. It represents everything you have learned, everything you have sacrificed, every choice you have made in service of efficiency. When you design it with the Host, you are designing a piece of your soul made manifest in brass and Qi. Building it takes everything you have. Using it changes the battlefield because it changes the rules. The cost is absolute. After the Master Construct is deployed, you will never build another. The precision required is something you can only achieve once. You will spend the rest of your life trying to forget how perfect it felt.
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
@@ -203,7 +157,7 @@ What you dread most is the day the numbers stop making sense. You have built you
 | Presence  | 10    | +0       |
 | Resolve   | 16    | +3       |
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ## Derived Values
 
@@ -213,7 +167,7 @@ What you dread most is the day the numbers stop making sense. You have built you
 | Qi Pool           | 10 + Intellect Modifier + 6 | Calculate |
 | Sanity            | 20 + Resolve Modifier       | Calculate |
 | Initiative        | Swiftness Modifier          | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 11        |
+| Defense           | 10 + Swiftness Modifier     | Calculate |
 | Proficiency Bonus | Level 1                     | +2        |
 
 ## Proficiencies
@@ -278,10 +232,7 @@ Your Commission credentials grant you access to areas most officials cannot ente
 
 ## Advancement
 
-**Level 3: Overclock.** Once per combat, a construct you control may take an additional action this round. _You feel the governor in your own mind begin to loosen. You sleep less. You remember more._
-
-**Level 5: Networked Constructs.** Your constructs share sensor data. If one construct can see a target, all your constructs can target it, regardless of Zone. _Your constructs become extensions of your nervous system. You begin to wonder if your body is a limitation._
-
-**Level 7: Grand Infrastructure.** Your constructs' HP and duration double. Your Scout Drone's range extends to 6 Zones. _You see the entire empire as a single machine. You have fewer conversations with people. You have more with your constructs._
-
-**Level 9: The Perfect Machine.** Once per campaign, you may deploy a Master Construct. Design it with the Host. It is a set piece, not a regular ability. Its activation changes the battlefield. _Building it takes everything you have. Using it changes the rules. You will never build another. You will spend the rest of your life trying to forget how perfect it felt._
+**Level 3: Overclock.** Once per combat, a construct you control may take an additional action this round.
+**Level 5: Networked Constructs.** Your constructs share sensor data. If one construct can see a target, all your constructs can target it, regardless of Zone.
+**Level 7: Grand Infrastructure.** Your constructs' HP and duration double. Your Scout Drone's range extends to 6 Zones.
+**Level 9: The Perfect Machine.** Once per campaign, you may deploy a Master Construct. Design it with the Host. It is a set piece, not a regular ability. Its activation changes the battlefield.

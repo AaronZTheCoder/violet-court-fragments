@@ -10,6 +10,8 @@
 
 ### The Way of the Host
 
+For the linked campaign, use [Campaign Continuity](CAMPAIGN_CONTINUITY.md). Player identity and inner life belong to the player. A dossier's biography portrays its named figure; it is not a condition of taking that career. Provide critical clues through reasonable investigation and let rolls determine cost, speed, or exposure.
+
 You are not the players' adversary. You are not a computer executing programmed responses. You are the world's senses: you describe what the characters see, hear, smell, and feel. You are every person they meet, from the lowest street sweep to the highest Grand Council elder. You are the Crimson Dusk's slow advance and the sudden terror of a Harmonization Audit. Most importantly, you are the players' collaborative partner in telling a story none of you could have told alone.
 
 Your job is not to defeat the players. It is to present them with hard choices, to ensure those choices have consequences, and to help the table discover what happens when people with competing visions of the good are forced to share a dying empire.
@@ -110,20 +112,16 @@ Each school is not merely a school of thought. It is a coherent answer to the qu
 
 ### What the Crimson Dusk Represents
 
-_This section is for the Host's understanding. The players should discover it through play, or not at all._
+The founding ritual displaced or bound the land's guardians; the Court later completed the Emperor's seal. Records and witnesses support those acts. Whether they caused the Dusk, and whether a repaired relationship with the land could arrest it, remain questions for play. Distinguish an event, a witness's account, and an explanation.
 
-The Crimson Dusk is not an external threat. It is a consequence. At the empire's founding, a ritual sacrificed or bound the land's original guardians and installed the Sun Emperor as their replacement, the new living conduit between Heaven and Earth. When the first generation of Court elders completed His sealing in the Spire one hundred and fifty five years ago, they severed that replacement conduit. The Crimson Dusk is the delayed wound left by both acts, a slow corruption of reality that became visible only later as the severed world tried to heal itself.
+- The Celestial Book holds early records and can identify gaps. She does not know every cause.
+- The Duke witnessed the Court's decision to confine the Emperor, not the Emperor's private intent.
+- Guest Among Forests considers the founding and sealing the strongest explanation for the wound.
+- Iron Bone witnessed Dusk manifestations in the penal works. He cannot prove suffering caused them.
+- Cinnabar Heart knows that his Bureau has issued some edicts as imperial words without receiving a new tablet. That does not prove every tablet false.
+- Bright Mirror investigates evidence of culpable decisions rather than possessing a final account.
 
-This truth is the game's central mystery. Different figures know different pieces of it:
-
-- The Celestial Book knows everything. She has read the original charter. She knows what was done.
-- The Duke of Eternal Night knows the Emperor is imprisoned. He was there when the vote was taken.
-- The Guest Among Forests knows the Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal, not a punishment for heterodoxy.
-- The Iron Bone knows the Dusk first manifested beyond the border provinces in his penal camp, where concentrated suffering gave it a path inward.
-- The Cinnabar Heart knows the Emperor's edicts are forged, though he does not know why.
-- The Bright Mirror suspects the Court's corruption caused the Dusk and is investigating.
-
-The players may never uncover the full truth. That is acceptable. The truth is a reward for engagement with the mystery, not a requirement for the game to be satisfying.
+Let these accounts disagree where the evidence permits. Give players reliable observations and ways to compare them. The material effects of erasure on grain, residence, and protection are certain even while its relation to reality remains unknown.
 
 ---
 
@@ -240,7 +238,7 @@ _Interactive elements:_
 2. The Thirty Six Monks: Thirty six Golden Orthodoxy monks maintain the chant begun when the final seal was completed in Year 297. Six chant at any given time while the others rest, eat, study, or prepare to take their place. The sound has not stopped for one hundred and fifty five years. The oldest monks can speak while sustaining their part of the chant, a discipline called Forked Voice.
 3. The Celestial Book's Balcony: From the Archive tower, which is the only building that overlooks the Spire's perimeter, there is a balcony where the Celestial Book sometimes stands. She does not watch the Spire. She watches those who watch the Spire. If a player catches her eye, she raises her hand in a gesture that could be a greeting or a warning. It has never been clear which.
 
-_Hidden secret:_ The Spire is a prison. The first generation of Court elders sealed the Sun Emperor inside against His will and completed the outer seal in Year 297. At the founding, the sacrifice or binding of the land's original guardians made the Emperor a replacement living conduit between Heaven and Earth. The final sealing severed that conduit. The Crimson Dusk is the delayed wound left by both acts. The chant maintains the prison, not an act of worship. The red pulse is the wounded world pressing against the broken channel, and the pressure grows stronger as the seal weakens.
+_Evidence beneath the official account:_ The Court enforced the Emperor's confinement and completed the outer seal in Year 297. Founding records describe the loss of the earlier guardians. The chant now sustains the seal. A red pulse can be observed at its boundary. These facts support the wounded conduit theory; they do not establish the Emperor's intent or the ultimate cause of the Dusk.
 
 ---
 
@@ -475,8 +473,6 @@ The twelve figures are not stat blocks. They are people with histories, wounds, 
 
 **Voice:** Dry, precise, given to quoting bureaucratic regulations as a form of humor. He speaks as though every sentence is being recorded, because it is.
 
-**Physical Tell:** He touches his temples when troubled. He has suffered the same recurring headache since he was thirty two.
-
 **What He Wants From the Players:** Someone who asks genuine questions. He is surrounded by people who recite doctrine. He craves intellectual honesty the way a drowning man craves air.
 
 **What He Fears:** That he will die before telling someone the truth about the forged edicts. That when he dies, the lie will become permanent.
@@ -511,8 +507,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Quiet, measured, uses as few words as possible. He does not make threats. He states facts. "If the Director wanted you dead, you would be dead. The Director has not expressed this desire. Yet."
-
-**Physical Tell:** He never sits with his back to a door. He counts exits constantly. It is not paranoia if they really are trying to kill you.
 
 **What He Wants From the Players:** Someone who treats him as a person rather than a weapon. He has been an instrument for so long he has forgotten he is also human.
 
@@ -549,8 +543,6 @@ _Additional Scene Seeds._
 
 **Voice:** Warm and unhurried. She speaks as though there is always enough time, even when there is not. Her laughter is genuine and slightly sad.
 
-**Physical Tell:** She touches living things: leaves, flowers, the wooden arms of chairs. She draws comfort from what grows.
-
 **What She Wants From the Players:** Allies who think in centuries, not in days. She is playing a very long game. She needs people who understand that some victories look like defeats until you zoom out far enough.
 
 **What She Fears:** That she is wrong. That reform is impossible. That the Court will always crush anyone who tries to change it. That her centuries of struggle have accomplished nothing.
@@ -585,8 +577,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Precise, technical, slightly impatient. He uses numbers constantly. "There is a seventy three percent probability that this alliance will fail within eighteen months. The expected cost in lives is..."
-
-**Physical Tell:** His fingers move constantly, as though operating an invisible abacus. He cannot stop calculating.
 
 **What He Wants From the Players:** Competence. He does not care about their faction affiliation. He cares whether they can execute. He has a hundred projects that need capable hands.
 
@@ -623,8 +613,6 @@ _Additional Scene Seeds._
 
 **Voice:** Low, deliberate, economical. He speaks in declarative sentences. He does not qualify or hedge. When he gives his word, the conversation is over.
 
-**Physical Tell:** He stands very still. He does not fidget, pace, or gesture. Conserving energy. Always.
-
 **What He Wants From the Players:** Proof that someone in the Court still has honor. He has watched civilian officials play their games for twenty seven years. He is tired of being the only person who keeps his oaths.
 
 **What He Fears:** That he will have to execute Operation Empty Throne. That the Court will collapse and he will have to choose between martial law and watching the empire burn.
@@ -659,8 +647,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Clear, resonant, utterly certain. He speaks in absolutes. He does not use qualifiers like "perhaps" or "maybe." When he is in the room, everyone else's voice drops half a register.
-
-**Physical Tell:** He does not blink as often as he should. It is deeply unsettling.
 
 **What He Wants From the Players:** Honesty. This sounds easy. It is not. He wants the kind of honesty that costs you something. Confess your failings to him, genuinely, and you earn something rare: his respect.
 
@@ -697,8 +683,6 @@ _Additional Scene Seeds._
 
 **Voice:** Conversational, irreverent, fond of deflecting serious questions with jokes. He is the only person in the empire who will tease a Grand Council elder to their face. This is his privilege. They need him too much to kill him.
 
-**Physical Tell:** He is always slightly closer than you remember him being. You turn, and he is there. You did not hear his move.
-
 **What He Wants From the Players:** Proof that someone can be trusted. He has been betrayed by everyone who ever mattered. He wants to believe, against all evidence, that loyalty is possible.
 
 **What He Fears:** That he will die alone. That everything he did to survive was not worth the cost. That he traded his soul for safety and got neither.
@@ -734,8 +718,6 @@ _Additional Scene Seeds._
 
 **Voice:** Cultured, amused, faintly melancholy. He speaks in complete paragraphs. He references events that happened before anyone else in the room was born. He is lonely in a way that eight centuries of life makes inevitable.
 
-**Physical Tell:** He does not breathe. Watch closely. His chest never moves. It is the only visible sign of what he is.
-
 **What He Wants From the Players:** Novelty. He has seen everything. Please, show him something new. Surprise him. He will reward you extravagantly for the gift of not being bored.
 
 **What He Fears:** That his bloodline will end. That eight centuries of accumulated wisdom will mean nothing. That the last thing he hears will be the sound of an empire he helped build collapsing into irrelevance.
@@ -770,8 +752,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Two voices. The first is warm, passionate, the voice of a leader who genuinely loves his people. The second is a growl that vibrates in the chest, the voice of the wolf. He shifts between them without warning.
-
-**Physical Tell:** His hands tremble when the wolf is close. He keeps them in his pockets or behind his back.
 
 **What He Wants From the Players:** Companions. Not followers. Not admirers. People who will stand beside him when the barricades go up. He has too many followers already. Followers become a mob. True companions become a movement.
 
@@ -809,8 +789,6 @@ _Additional Scene Seeds._
 
 **Voice:** Ancient, papery, given to long silences. When she speaks, it is often in quotations from texts no one else has ever read. Sometimes the quotations contradict each other. Sometimes they contradict themselves.
 
-**Physical Tell:** She occasionally loses focus, as though listening to something no one else can hear. Then she snaps back with a remark so precise it makes you wonder if the distraction was real.
-
 **What She Wants From the Players:** Curiosity. The genuine, hungry desire to understand. She has spent a thousand years accumulating knowledge. She wants to share it with someone who will appreciate it, not weaponize it.
 
 **What She Fears:** That the knowledge will die with her. That no one is worthy to inherit the Archives. That the truth about the Emperor and the Dusk and the founding crime will be lost, and the empire will collapse not because it was destroyed but because it forgot what it was.
@@ -846,8 +824,6 @@ _Additional Scene Seeds._
 
 **Voice:** Plain and slightly slow, because the capital dialect is his third language and he assembles each sentence before he releases it. He gets honorifics wrong and has stopped apologizing for it. When he is angry he becomes more precise rather than louder, which officials find far more disturbing than shouting.
 
-**Physical Tell:** His hand goes to his belt and counts tokens without his eyes following. He does it when he is thinking, when he is frightened, and when someone says something he intends to remember. He also looks at the plants in a room before he looks at the people.
-
 **What He Wants From the Players:** Accuracy. Not sympathy, not donations, not outrage on his behalf. He wants someone to say a name correctly and not need to be told twice. Everything else he can arrange himself.
 
 **What He Fears:** That the four thousand and one will be made into a symbol. A symbol can be argued with, adopted, printed on a banner, and eventually retired. A name in a registry cannot. He has watched the Common Flame try to turn him into a cause, and he understands that the cause would outlive the names and replace them.
@@ -882,8 +858,6 @@ _Additional Scene Seeds._
 **Default Gender:** Female
 
 **Voice:** Unfailingly gracious, which is a technique and not a warmth. She speaks slowly and never fills a silence. Officials trained on the Court's verbal fencing find themselves talking into her pauses and saying appreciably more than they intended, and then leaving convinced the conversation went well.
-
-**Physical Tell:** The third strand of her necklace. She touches it when a question has landed somewhere it was not supposed to reach. She is aware of the tell. She has decided that a legible tell she controls is safer than a hidden one she does not.
 
 **What She Wants From the Players:** To be addressed as a person rather than as an office. It has been eleven years. She has stopped expecting it, which is different from having stopped wanting it.
 
@@ -921,8 +895,6 @@ _Additional Scene Seeds._
 Include this figure only when your table wants the Court's count questioned rather than expanded. He is not a thirteenth Figure. He is the demonstration that the Twelve are twelve because somebody decided to spend the money on twelve.
 
 **Voice:** Easy, warm, and slightly amused, with the smoothed accent of a man who has spoken seven prefecture dialects and now speaks none of them cleanly. He answers questions directly and completely, which disarms officials trained to expect evasion. He never rushes, never raises his voice, and never wins an argument he could have lost more usefully.
-
-**Physical Tell:** When he is telling the truth about himself he slows down and stumbles, because he has almost no practice. He has no tell at all when lying. Hosts should let the players work out which of those two facts is the frightening one.
 
 **What He Wants From the Players:** A fifth attempt at a question he has failed four times, and eventually the standing to walk into the Imperial Archives and ask for one document without giving a name he does not believe.
 
@@ -1164,7 +1136,7 @@ _Additional Scene Seeds._
 **Scene Hooks.**
 
 1. An attendant is offered a promotion in exchange for a report the character cannot afford to have filed, and the attendant comes to the character first, which is itself a problem.
-2. A faction requires her to declare publicly for a side. Declaring destroys her usefulness to everyone including herself. Refusing indefinitely is not available.
+2. A faction demands a public declaration. She can refuse, bargain, defer, or seek support; show which people would act on each response and what resources they possess.
 3. One of the eight remaining officiants dies. The character has not finished writing down the ordination, and she now has to decide whether to approach one of the survivors, all of whom have reasons not to trust her proximity to the Court.
 
 **Common Pitfalls.** Do not run her as a passive prisoner waiting for rescue. She has been managing her captors expertly for eleven years and is the most politically sophisticated person at most tables. Also do not let the ritual authority become a get out of jail card; every use is public, remembered, and slowly converts her from an untouchable necessity into an active political problem that somebody will eventually decide to solve.
@@ -1869,30 +1841,30 @@ More specific rumors that players might overhear in the Teahouse of Whispered Pe
 19. "The Guest Among Forests can speak to the Dusk. She denies it. But the plants she grows near the Dusk line do not wither. They thrive."
 20. "The Celestial Book wrote a true history of the empire. She hid it in the Archives. She does not remember where. She hid it too well."
 
-### NPC Quirks and Mannerisms (d20)
+### Minor Officials at Work (d20)
 
-Use these to give minor officials instant personality:
+Choose what the person needs from this encounter. Let their response follow the party's action. A physical habit does not prove a lie or replace a motive.
 
-1. They repeat the last three words of every sentence under their breath, as though confirming what they just said.
-2. They refuse to make eye contact. Their gaze drifts to a point just above your left shoulder. It is unsettling.
-3. They click their tongue before speaking. A small tic. They do not know they do it.
-4. They write constantly, even when they should be listening. They are taking notes on the conversation for their files.
-5. They smell of incense, specifically sandalwood. The smell lingers after they leave.
-6. They finish other people's sentences. Not because they are impatient, but because they genuinely believe they know what you are going to say.
-7. They carry a small object they handle constantly: a coin, a stone, a piece of jade. They cannot sit still without it.
-8. They speak at an unusual volume, either too loud for the setting or too quiet, forcing others to lean in.
-9. They have a habit of touching their own face when they lie. The gesture is quick, almost invisible. Once you notice it, you cannot unsee it.
-10. They laugh at inappropriate moments. Not from nervousness. They genuinely find the situation funny. This makes everyone around them uncomfortable.
-11. They move very slowly, as though underwater. This is not age or infirmity. It is a deliberate strategy to make others wait on them.
-12. They have an old wound that bothers them in cold weather. They mention it unprompted. They mention it often.
-13. They use overly formal language even in casual conversation. Every sentence is grammatically perfect. Every title is used correctly.
-14. They hum when they work. The tune is always the same. It is a funeral dirge from a forgotten tradition.
-15. They ask questions and then answer them themselves before the other person can respond. They are not interested in your answers.
-16. They have a nervous cough that flares up when they are under pressure. The cough is real. It also signals to allies that the conversation has entered dangerous territory.
-17. They stand too close. They do not respect personal space. This is a dominance display. They are testing your willingness to hold your ground.
-18. They collect paper. Scraps, notes, old documents. Their workspace is a nest of paper. They claim to know exactly where everything is.
-19. They use silence as a weapon. They ask a question and then wait, motionless, until you answer. The silence grows until it is unbearable.
-20. They apologize constantly, even for things that are not their fault. This is not politeness. It is a shield. It makes it difficult to blame them for anything.
+1. A relief clerk needs an uncertain name kept on the roll.
+2. A porter cannot leave until someone signs for a damaged crate.
+3. A surveyor needs a second measurement before accepting a map.
+4. A shrine attendant has grain but no distribution order.
+5. An examiner will accept testimony if its witness appears.
+6. A copyist needs someone to compare a damaged original.
+7. A guard is willing to escort a family but lacks a travel warrant.
+8. A guild delegate needs payment promised to an injured crew.
+9. A physician wants an illness recorded without naming a patient publicly.
+10. A teacher needs access to a text excluded from the current syllabus.
+11. A courier has two conflicting delivery instructions.
+12. A storekeeper needs responsibility for spoiled grain assigned fairly.
+13. A magistrate wants a dispute settled before the next hearing.
+14. An apprentice has found an error in a senior official's figures.
+15. A patron can offer protection but needs a public witness.
+16. A translator will explain a term if permitted to inspect its context.
+17. A gardener knows which courtyard records survived a renovation.
+18. A former official wants a correction entered before retirement.
+19. A merchant will supply carts if their return is guaranteed.
+20. A registry supervisor can grant a stay but must name the office accepting liability.
 
 ### Weather and Atmosphere (d12)
 
@@ -2151,7 +2123,7 @@ Place three items in the center of the table: a candle (lit, if the space allows
 
 Begin with these exact words, or something close to them. Read them aloud. Let the silence settle afterward.
 
-"You are in the Celestial Court. The empire has gone about one hundred and sixty four years without hearing its Emperor speak in public. The Crimson Dusk spreads slowly across the border provinces. The Grand Council governs in the Emperor's absence. The Six Schools compete for influence. And you are here, in the heart of it all, as minor officials in a vast machine that does not know your name. Yet."
+"You are in the Celestial Court. The empire has gone about one hundred and sixty five years without hearing its Emperor speak in public. The Crimson Dusk spreads slowly across the border provinces. The Grand Council governs in the Emperor's absence. The Six Schools compete for influence. And you are here, in the heart of it all, as minor officials in a vast machine that does not know your name. Yet."
 
 Pause. Let the players feel the weight.
 

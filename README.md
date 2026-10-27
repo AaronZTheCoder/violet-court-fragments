@@ -11,9 +11,9 @@
 
 **The Violet Court Fragments** is a complete pen and paper tabletop RPG for one Host and three to six players. You will need dice, pencils, printed character sheets, and a quiet table. No software. No screens. Just the people in the room and the world you build together.
 
-The Sun Emperor has not spoken publicly for about one hundred and sixty four years. The Celestial Court still rules in His name. Six schools of thought vie for control of a bureaucracy so vast and ancient that no single person understands it anymore. Beyond the borders, a corruption of reality itself called the Crimson Dusk creeps inward, province by province, turning fields to salt and people into hollow things that weep red. The Court calls it a "localized disharmony" and dispatches Harmonization Audits. The provinces that fall are erased from maps.
+The Sun Emperor has not spoken publicly for about one hundred and sixty five years. The Celestial Court still rules in His name. Six schools of thought vie for control of a bureaucracy so vast and ancient that no single person understands it anymore. Beyond the borders, a corruption of reality itself called the Crimson Dusk creeps inward, province by province, turning fields to salt and people into hollow things that weep red. The Court calls it a "localized disharmony" and dispatches Harmonization Audits. The provinces that fall are erased from maps.
 
-You are a brush scribe of the Eighth Rank. You copy documents. You file reports. You are nobody. But the empire is a machine that grinds nobodies into dust, and the machine is breaking down.
+You might copy the Court's documents, escort its witnesses, repair its relays, or seek grain for a household it has failed to count. Choose a profession and a reason to stay together. The empire has a place for your work. Whether it has a place for you is another question.
 
 **This is not a game about saving the world.** It is about surviving a system more ancient than anyone understands. About bonds forged under pressure and tested by circumstance. About the stories people tell themselves to justify what they do, and what happens when those stories collapse.
 
@@ -30,11 +30,12 @@ violet-court-fragments/
 ├── README_CN.md                       ← Chinese edition
 │
 ├── en/                                ← Pure English edition
-│   ├── CORE_RULEBOOK.md               ← The complete game system (2,500+ lines)
+│   ├── CORE_RULEBOOK.md               ← The complete game system
 │   ├── HOST_CODEX.md                  ← Host guide and encrypted frameworks (2,200+ lines)
 │   ├── GAME_DESIGN.md                 ← Setting bible and world lore (3,000+ lines)
-│   ├── THE_RECONSTRUCTION.md          ← Main plot spine, for the Host (351 lines)
-│   ├── THE_SEVENTH_NICHE.md            ← Main plot: the Full Rite (294 lines)
+│   ├── THE_RECONSTRUCTION.md          ← Main plot spine, for the Host
+│   ├── THE_SEVENTH_NICHE.md            ← Main plot: the Full Rite
+│   ├── CAMPAIGN_CONTINUITY.md          ← Shared case, calendar, clues, and consequences
 │   ├── character_dossiers/            ← 13 playable archetypes with full mechanics
 │   │   ├── alchemist_dossier.md
 │   │   ├── assassin_dossier.md
@@ -59,12 +60,12 @@ violet-court-fragments/
 │       └── quick_reference.md         ← Compact table reference
 │
 ├── cn/                                ← Pure Chinese edition
-│   └── ... (mirrors the en/ structure, all 23 documents)
+│   └── ... (mirrors the en/ structure, all 24 documents)
 │
 └── tabletop_rpg_*.jpeg                ← 13 character portrait illustrations
 ```
 
-**48 Markdown documents** in total, including both READMEs and 23 game documents in each language. **24,557 lines of English, 24,553 lines of Chinese, and 49,110 lines overall.** **No dash punctuation in prose.** **Zero political terminology.** **Zero mixed language.** Every word earned.
+**50 Markdown documents:** two READMEs and 24 game documents in each language. Both editions include modular character creation, thirteen career dossiers, the linked campaign, and its continuity reference.
 
 ---
 
@@ -85,16 +86,16 @@ violet-court-fragments/
 ### Your first session
 
 1. **The Host reads the Codex.** Start with Part One and Part Two. The Deeper Currents section explains the structural dynamics that drive the Court.
-2. **Each player picks an archetype.** Look through the thirteen dossiers. Pick the one whose art and truth hooks speak to you. Read your three unique abilities. You will need them.
+2. **Choose a primary career and a secondary trade.** Use Core Rulebook Chapter Three. Select a specialization now or during the first three sessions. The dossiers' named figures are examples, not assigned identities.
 3. **Build characters together.** Follow the eight steps in the Core Rulebook, Chapter Three. Decide why your characters know each other. Decide who owes whom.
 4. **Run "The First Harmonization."** Start with `the_first_harmonization_cinematic_cut.md`, the complete cinematic narrative designed for four to six sessions. Keep the full module open as a production bible for expanded encounters, Archetype material, and mechanical detail.
-5. **Let the campaign unfold.** After the starter adventure, use the Host's Codex campaign frameworks (The Rise, The Conspiracy, The Collapse), the random event tables, and the character generator to build what comes next.
+5. **Carry the case forward.** Read [Campaign Continuity](en/CAMPAIGN_CONTINUITY.md), then follow the party's relief docket through The Reconstruction and The Seventh Niche. Use the Codex frameworks when the party pursues another direction.
 
 ---
 
 ## The Thirteen Archetypes
 
-Every archetype has a full mechanical identity: Facet baseline, three unique abilities, an advancement tree to Level 9, starting equipment, Faction Standing values, and four suggested personal truths. Each one matches a character portrait in the root directory.
+Each dossier provides a primary career's abilities, derived bonuses, equipment, and advancement, alongside an optional portrait of a named figure. Players choose their own history, allegiance, and present concerns. The original numerical packages remain available as Portrait Builds.
 
 Twelve of them correspond to the major figures the Celestial Court counts. The thirteenth corresponds to a man the Court has never managed to count at all, which is the entire point of him.
 
@@ -159,7 +160,7 @@ Two core books carry the campaign. Both are written for the Host, and both cover
 
 **The Seventh Niche** (`en/THE_SEVENTH_NICHE.md`) is how the Court settles its dead. The Temple of Ten Thousand Gods predates the empire and holds ten thousand niches, and six of them hold men instead of gods. A seventh is being opened for a Steward dead these many years, whose two most valuable legacies the present Steward has already reversed. The Court does not publish a change of course. It publishes a change of ancestor.
 
-Your players are the hands of both instruments. They are Eighth Rank copyists. A mountain has just come down on the empire's last true border, the Hall of Open Hearing has opened for the first time in a generation, and both files are going to cross their desk. The Hinge of Year 452 is thirty days away. When it arrives, the Key turns, every decoded document expires, and every calamity after it will be declared a victory before the dead are counted.
+Begin on Hinge Gate 21, Year 452. The Twenty Seventh Relief Docket sends the party from a missing household's entry to a Temple grain depot, then to the disputed terms of the Seventh Niche. The Key turns thirty days later; consecration follows two days after that. The party can preserve claims, release grain, challenge a clause, or pursue a different goal. Each decision changes the people and documents encountered next.
 
 ---
 
@@ -177,8 +178,8 @@ Every political term has been mapped to a fantasy equivalent. Every real world i
 
 | Edition | Directory | Contents                                                                                          |
 | ------- | --------- | ------------------------------------------------------------------------------------------------- |
-| English | `en/`     | All 23 documents in English, including the complete cinematic narrative and full production bible |
-| Chinese | `cn/`     | All 23 documents in Chinese, including the complete cinematic narrative and full production bible |
+| English | `en/`     | All 24 documents in English, including the complete cinematic narrative and full production bible |
+| Chinese | `cn/`     | All 24 documents in Chinese, including the complete cinematic narrative and full production bible |
 
 The two editions are functionally identical. Switch between them at any time. The character portraits work for both.
 
@@ -202,5 +203,5 @@ The Violet Court Fragments was designed as a love letter to dark fantasy tableto
 
 Character portraits in `tabletop_rpg_*.jpeg` are the visual anchors. Every archetype was built outward from its portrait. If you have new portraits, you can make new archetypes. The system is designed to grow.
 
-> _The Sun Emperor has not spoken publicly for about one hundred and sixty four years._
+> _The Sun Emperor has not spoken publicly for about one hundred and sixty five years._
 > _Perhaps He is waiting for someone worth speaking to._

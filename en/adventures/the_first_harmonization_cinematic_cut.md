@@ -4,6 +4,10 @@
 
 # The First Harmonization
 
+**Linked campaign placement.** The warning arrives on Hinge Gate 21. The Audit is seven days later, on Hinge Threshold 3. The Hall address on the following morning is an optional lead, not a required detour. Use [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) to carry the party's existing contacts and records into the relief case. The two starter versions are alternatives covering the same seven fictional days.
+
+**Player characters.** Office scenes assume access through an agreed job or contact, not that every career is a copyist. Archetype spotlights are suggestions for trained abilities; they do not assign the named figure's memories, emotions, beliefs, or office. Offer essential clues through more than one source. A failed roll changes cost or exposure rather than deciding whether the campaign can continue.
+
 ## A Playable Tragedy in Seven Bells
 
 > _For one Host and three to six players._
@@ -14,7 +18,7 @@
 
 ## The Story Promise
 
-Seven days before a Harmonization Audit, a group of newly appointed officials receives a warning that should not exist.
+Seven days before a Harmonization Audit, a party working in the Outer Court receives a warning that should not exist.
 
 Before nightfall, three factions ask them to perform three apparently separate acts.
 
@@ -72,9 +76,9 @@ It turns testimony into records.
 
 It turns records into reality.
 
-At the beginning, the characters still believe that records describe the world.
+The first tasks appear limited: sign a document, escort a person, retrieve a page.
 
-By the end, they must decide whether records create the world, and whether survival requires them to become authors of another person's erasure.
+The investigation reveals how those tasks determine who can claim protection and who can be erased. Whether the record also changes reality remains a question the party can pursue.
 
 ## The Three Stories Moving Together
 
@@ -92,7 +96,7 @@ Tao Chen possesses evidence that connects Golden Orthodoxy embezzlement, Crimson
 
 ### The Personal Story
 
-The characters believe they are minor officials who can remain neutral.
+Each character has a reason to accept, refuse, or question the work. Ask the player what that reason is.
 
 Every decision they make writes a sentence in another person's fate.
 
@@ -200,7 +204,7 @@ Fear is accurate information arriving inside a body that has nowhere safe to put
 
 Begin every player at Ritual Harmony 50 unless character creation establishes another value.
 
-Begin every player at Low Risk, then apply protection or hostility from Faction Standing as defined in the Host's Codex.
+Determine starting Risk from the Ritual Harmony and protection table in the Host's Codex. At Ritual Harmony 50, Strong Protection gives Low Risk, Moderate Protection gives Moderate Risk, No Protection gives High Risk, and Enemies gives Critical Risk. Apply the table once; do not also add a penalty for the same Faction Standing.
 
 Track Risk openly enough that players know why it changes.
 

@@ -1,24 +1,26 @@
 # Duke of Eternal Night
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Blood Cultivator
 
-### School: Crimson Lineage
+### Named figure's affiliation: Crimson Lineage
 
 ### Court Role: Grand Council Elder; Patriarch of the Crimson Lineage
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ---
 
 ## Description
 
-You are exactly eight hundred years old, yet the number still fails to capture what that means. You were present at the empire's founding. You signed the original charter. Across four hundred and fifty two years of imperial history, you have witnessed every Council configuration, every Harmonization Audit, every reform, and every reaction against reform. You have outlived your wife, old lovers, mortal friends, rivals, and gods, while generations of the family you raised have passed beneath your watch.
-
-You continue to attend Council sessions because you have nothing else to do, and eternity is very, very long. You are elegant, bored, and capable of both shocking kindness and monstrous cruelty depending on which seems more interesting at the moment. You are not evil. Evil requires caring enough to choose malice. You are something sadder: a being who has lived so long that morality has become a matter of aesthetic preference.
-
----
+The Duke of Eternal Night belongs to the founding generation. He remembers arguments that later histories turned into unanimity, and he has benefited from many of the settlements he now criticizes. His concern for continuity can preserve a fragile institution or protect an old privilege. Age does not decide which it will be.
 
 ## Expanded Backstory
 
@@ -84,31 +86,11 @@ That makes you the only living check on the official history, and you have disco
 
 ## Sample Dialogue
 
-When asked why you continue to serve on the Grand Council:
-"Because I was there when it was built. Because I remember the arguments we had about the shape of the table. Because if I leave, they will replace me with someone who has not yet learned that power is a game and games are meant to be played, not won. Winning ends the game. I am not ready for the game to end."
+1. Asked about a ceremony: “There was a separate consent. Find it before you tell me this is the same rite.”
 
-When a younger vampire asks for advice on survival:
-"Two rules. First, never feed on someone you love. The hunger will take everything you feel for them and turn it into appetite. Second, never make an enemy you cannot outlive. Eternity is long. Your enemies will die. Your friends will die. Everything dies. The only question is whether you have the patience to wait."
+2. Confronted with his complicity: “I signed. My reasons are not a missing signature.”
 
-When an ally proposes a bold plan that requires personal risk:
-"That is an interesting idea. I will consider it. While I am considering, perhaps you could explain what happens to your plan after you are dead. Because you will die. Possibly tonight. Possibly next year. But you will die. I will still be here. I would like your plan to survive your death."
-
-When confronted with a moral choice that seems difficult:
-"I have killed more people than you have met. I have saved more lives than I have taken. Neither statistic makes me good or evil. They are both simply true. The question is not whether an action is moral. The question is whether you can live with the memory of it. Eternity is a long time to live with a memory."
-
-When someone comments on your apparent boredom:
-"You mistake stillness for boredom. I am not bored. I am watching. I have watched this Court since its founding. I know what every person in this room will do before they do it. The only interesting question is whether I will be surprised. So far tonight, none of you have surprised me."
-
-When asked about love:
-"I have loved. I have loved deeply and disastrously and repeatedly. I have loved mortals who aged and died while I remained unchanged. I have loved vampires who tried to kill me. I have loved people who loved me back and people who only loved what I could give them. Love is not a solution to immortality. It is a complication. It is a beautiful complication. I recommend it, despite everything."
-
-When an idealistic reformer suggests the Court can be improved:
-"You remind me of myself when the Court was young. I believed the same thing. I believed that if I just found the right lever, the right alliance, the right word at the right moment, I could make the system work better. I did not understand that the system is not broken. It is working exactly as intended. It is working to preserve itself. That is the only thing systems do. You cannot reform a system. You can only replace it. And replacement takes more than good intentions."
-
-When a companion asks if you fear death:
-"I fear boredom. I fear meaninglessness. I fear outliving everyone I care about for the sixth time and discovering that the seventh time does not get easier. Death is a door. I have been standing in front of it for centuries. I am not ready to open it. But I am no longer certain I want to spend eternity standing in this hallway."
-
----
+3. Offered control of a record: “Keep a copy beyond my house. You may one day need it against me.”
 
 ## Personal Connections
 
@@ -128,21 +110,7 @@ When a companion asks if you fear death:
 
 ## Roleplaying Guide
 
-**Internal Conflict:** You are a creature of immense power who has become paralyzed by the weight of your own history. You could reshape the Court with a word. You do not because you have reshaped it so many times before and nothing ever changes. You believe in nothing because you have seen every belief system rise, dominate, and crumble. You love no one because everyone you have loved has died or betrayed you. And yet you continue. Somewhere beneath the centuries of accumulated weariness, there is still a person who wants to believe, to love, to matter. That person is buried very deep. The player's journey is about deciding whether to let that person out or entomb them forever.
-
-**What Keeps You Up at Night:** The silence of your empty estate. The faces of Ash Bright and the generations you watched grow old. The dream in which your sire asks you why you let her die. The growing suspicion that you have become the villain of a story you no longer remember the beginning of. The fear that you have been wrong about everything and that the truth, when it comes, will arrive too late for you to change.
-
-**How You Treat Allies:** You treat allies the way a king treats courtiers: with courtesy, with distance, and with the implicit understanding that loyalty is a transaction. You are generous with your resources and your knowledge. You will protect your allies from external threats. You will not protect them from the consequences of their own choices. You are not their parent. You have been a parent. You are not doing that again.
-
-**How You Treat Enemies:** You treat enemies the way a gardener treats weeds: you remove them before they become a problem, you do it quietly, and you do not celebrate the act. You have no interest in gloating or torture or dramatic confrontations. You have seen too much of all of them. When you must destroy someone, you do it efficiently and without anger. You have found that anger makes people careless. You have been alive too long to be careless.
-
-**What You Notice That Others Miss:** The patterns behind events. The way history rhymes. The specific phrase that an ambassador uses that indicates they are reading from a script written by someone else. The slight shift in a room's temperature when a spirit passes through. The smell of a lie. The particular quality of silence that follows a momentous decision. The way mortals hold their breath when they are about to change their lives.
-
-**Your Tell When You Are Lying:** You become more poetic. Your sentences develop rhythm and structure. You choose words that sound beautiful rather than words that are precise. Those who have known you for centuries recognize this. They call it your "performance voice." They are right to be suspicious when they hear it.
-
-**Your Tell When You Are Being Sincere:** Your voice becomes flatter. You drop the musicality. You speak in short declarative sentences. You look at the person you are addressing as if truly seeing them for the first time. Your hands, usually perfectly still, may make a small gesture, a reaching motion, that you immediately suppress. You almost never meet anyone's eyes when you speak the truth. You look at the space between their eyes, or at the floor, or at something far away that only you can see.
-
----
+Let him name people and limits of memory. He need not speak in centuries or demonstrate aristocratic indifference in every exchange. His authority becomes interesting when someone can question it.
 
 ## Ability Examples
 
@@ -159,8 +127,8 @@ The assassin's blade finds your heart. You feel the steel part flesh, muscle, th
 
 ## Expanded Truths
 
-**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty four years.
-_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and sixty four years to be vindicated. Your pride may have doomed the empire.
+**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty five years.
+_Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and sixty five years to be vindicated. Your pride may have doomed the empire.
 
 **Suggested Truth 2 (Existing):** The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 _Complication:_ Your exiled heir has discovered something you have kept hidden for centuries, a truth about the Crimson Lineage's founding that would destroy the family if revealed. He is not planning to kill you. He is planning to expose you. His renewed bid for power is a distraction. The real weapon is the truth.
@@ -179,29 +147,11 @@ _Complication:_ You know how to heal the Crimson Dusk. The method would require 
 
 ## Daily Life
 
-You rise at sunset, as is proper. Your servants have prepared your evening meal, a single cup of blood drawn from the estate's blood bank, which is maintained by voluntary donors who are paid handsomely for their contribution. You drink it in your study while reviewing the day's correspondence. There is always correspondence. Petitions, threats, marriage proposals, invitations, intelligence reports. You sort them into piles: urgent, interesting, tedious, and the pile for things that will become urgent if ignored long enough. You dictate responses to your secretary, a mortal woman who has served you for thirty years and who has never once asked about the hours you keep.
-
-Your evenings are spent in Council, usually, or in meetings with Lineage officials, or in the endless social obligations that come with your position. You attend parties you do not enjoy. You make small talk with people whose names you have forgotten. You smile. You nod. You say things that will be quoted for weeks. You are very good at this. You have been doing it since the Court's first days.
-
-You take a walk at midnight, alone, through the streets of the capital. You do not hunt. You do not feed. You simply walk, observing the city as it sleeps, noting the changes, the new buildings, the faded signs, the faces of the night watchmen who have learned to nod as you pass. This is the only time you feel anything approximating peace.
-
-You return to your estate before dawn. You read for an hour, usually history or philosophy, occasionally poetry. You have a particular fondness for elegies. You write in your journal, a habit you have maintained for six centuries. The early volumes are filled with passion and conviction. The later volumes are filled with observations about the weather. You do not know what this says about you. You are not sure you want to know.
-
-You sleep as the sun rises. Your dreams are long and detailed and you remember every one. You dream of your childhood fields. You dream of your sire's face. You dream of the cup. You wake at sunset and begin again.
-
----
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Sanguine Healing.** The first time your flesh knits itself together after feeding, you feel a warmth that is almost erotic. Your body remembers what it is supposed to be. The wounds close. The blood replenishes. You stand up stronger than you were before. The cost comes later, when you realize that this healing requires a victim. Every wound you close is paid for in someone else's vitality. You begin to understand that your survival is a transaction, that every day you exist is a day someone else paid for. You have known this intellectually for centuries. Feeling it in your bones is different.
-
-**Level 5: Greater Mesmerism.** The first time you use this power, you erase yourself from someone's memory. You watch their face change as they construct a new explanation for their own behavior. They will never know what happened. They will never suspect. The power is absolute and it is terrifying. You begin to wonder how many times this has been done to you. You begin to wonder if your own memories are yours or if they were placed there by someone older, stronger, more skilled. The paranoia is manageable. It is always manageable. That is what concerns you most.
-
-**Level 7: Blood Puppet.** The first time you move a person like a doll, you feel their will struggling against yours. It is like holding a bird in your hand, the tiny heart beating against your palm, the desperate fluttering. You make them raise a hand. You make them speak. You make them walk toward the window. You can feel their terror, their confusion, their helpless rage. You let them go. They collapse. They do not know what happened to them. You do not sleep that night. You do not use the power again for months. But you know it is there. You know you could use it. Knowing you could is almost worse than using it.
-
-**Level 9: Eternal Night.** You have never fully manifested your immortal form. You have always held back, kept something in reserve, maintained the illusion of mortality. The first time you let go completely, the world changes. Colors are brighter. Sounds are clearer. The blood in every living thing around you is a symphony. You move faster than thought. You hit harder than a siege engine. You are a god, briefly, terribly. And then the hunger hits. The form demands payment. You have one hour to feed or you will sleep for a year and a day. You will wake changed. You will wake knowing what you are capable of. You will never be able to pretend you are merely a man again.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
@@ -214,7 +164,7 @@ You sleep as the sun rises. Your dreams are long and detailed and you remember e
 | Presence  | 20    | +5       |
 | Resolve   | 12    | +1       |
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ---
 
@@ -226,7 +176,7 @@ You sleep as the sun rises. Your dreams are long and detailed and you remember e
 | Qi Pool           | 10 + Intellect Modifier + 6 | Calculate |
 | Sanity            | 20 + Resolve Modifier       | Calculate |
 | Initiative        | Swiftness Modifier + 1      | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 11        |
+| Defense           | 10 + Swiftness Modifier     | Calculate |
 | Proficiency Bonus | Level 1                     | +2        |
 
 ---
@@ -295,7 +245,7 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 Choose one, or create your own with the Host:
 
-- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty four years.
+- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and sixty five years.
 - The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 - You have been feeding on a specific senior official for decades. They do not know. They believe they have a chronic illness. You have grown fond of them.
 - The Crimson Dusk is a wound in the world. You know what caused it. You helped cause it. Not intentionally. But intentions matter less than consequences, and you have lived long enough to know that.
