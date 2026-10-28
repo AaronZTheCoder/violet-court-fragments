@@ -16,21 +16,82 @@ Ask three separate questions: who receives grain, who remains in the record, and
 
 Count elapsed days from the morning of Hinge Gate 21, Year 452. Hinge Gate and Hinge Threshold each have twenty five days.
 
-| Elapsed day | Imperial date       | Event                                                                                                                        |
-| ----------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Before play | Hinge Gate 11 to 16 | The Twelve Nights cycle is transmitted in twelve parts, two parts each evening. Its title counts parts, not calendar nights. |
-| Before play | Hinge Gate 13       | Part Five is transmitted. Sharp Frost dies that morning; his testimony was recorded years earlier.                           |
-| Before play | Hinge Gate 15       | The memorial notice for Sharp Frost begins circulating.                                                                      |
-| Before play | Hinge Gate 17       | The slope above Gate's End fails.                                                                                            |
-| Before play | Hinge Gate 18       | A short public disaster report arrives in Xiaoyuan by staffed lantern relay; the original roll follows by courier.           |
-| Before play | Hinge Gate 19       | The Alabaster Ground holds its silence.                                                                                      |
-| Before play | Hinge Gate 20       | The Fifth Reconstruction is issued.                                                                                          |
-| 0           | Hinge Gate 21       | The relief docket reaches the party or its employer.                                                                         |
-| 1           | Hinge Gate 22       | The Iron Brush delivers the address in the Hall of Open Hearing. Consecration remains pending.                               |
-| 7           | Hinge Threshold 3   | Optional starter adventure Audit. This is a local proceeding, not the Hinge.                                                 |
-| 29          | Hinge Threshold 25  | Final ordinary business day. The players can still seek receipts, amendments, and stays.                                     |
-| 30          | Hinge, first day    | The Key turns. The Sixth is scheduled to begin; the relief roll is due.                                                      |
-| 32          | Hinge, third day    | The niche's consecration is scheduled. Its terms can still be contested.                                                     |
+<table>
+<thead>
+<tr>
+<th>Elapsed day</th>
+<th>Imperial date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 11 to 16</td>
+<td>The Twelve Nights cycle is transmitted in twelve parts, two parts each evening. Its title counts parts, not calendar nights.</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 13</td>
+<td>Part Five is transmitted. Sharp Frost dies that morning; his testimony was recorded years earlier.</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 15</td>
+<td>The memorial notice for Sharp Frost begins circulating.</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 17</td>
+<td>The slope above Gate's End fails.</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 18</td>
+<td>A short public disaster report arrives in Xiaoyuan by staffed lantern relay; the original roll follows by courier.</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 19</td>
+<td>The Alabaster Ground holds its silence.</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 20</td>
+<td>The Fifth Reconstruction is issued.</td>
+</tr>
+<tr>
+<td>0</td>
+<td>Hinge Gate 21</td>
+<td>The relief docket reaches the party or its employer.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Hinge Gate 22</td>
+<td>The Iron Brush delivers the address in the Hall of Open Hearing. Consecration remains pending.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Hinge Threshold 3</td>
+<td>Optional starter adventure Audit. This is a local proceeding, not the Hinge.</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Hinge Threshold 25</td>
+<td>Final ordinary business day. The players can still seek receipts, amendments, and stays.</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Hinge, first day</td>
+<td>The Key turns. The Sixth is scheduled to begin; the relief roll is due.</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Hinge, third day</td>
+<td>The niche's consecration is scheduled. Its terms can still be contested.</td>
+</tr>
+</tbody>
+</table>
 
 The Ledger Hand held office in Years 356 to 402. The Accord held office in Years 403 to 427. The Iron Brush holds office from Year 428. Testimonies collected in Years 434 to 436 therefore belong to the Iron Brush's administration. The term limit was removed in Year 438, his eleventh year, fourteen years before the present.
 
@@ -86,12 +147,42 @@ If a player takes one of these named roles by agreement, transfer the relevant d
 
 ### Evidence That Survives a Missed Scene
 
-| What the party needs to learn                       | First route         | Independent route                       | Further route                                 |
-| --------------------------------------------------- | ------------------- | --------------------------------------- | --------------------------------------------- |
-| Relief and the rite share an account                | Routing slip        | Temple depot ledger                     | Reed Basket's duplicate receipt               |
-| Closing the account can end relief claims           | Old and new annexes | A rejected provisional claim            | Distribution clerk explains the next register |
-| The unsigned requisitions share a registry practice | Compare file marks  | Dry Ink identifies the copied hand      | Routine requisitions from unrelated offices   |
-| Temple authority changes only through the rider     | Read the rider      | Temple's record of an earlier admission | A Bright Mirror examiner states the objection |
+<table>
+<thead>
+<tr>
+<th>What the party needs to learn</th>
+<th>First route</th>
+<th>Independent route</th>
+<th>Further route</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Relief and the rite share an account</td>
+<td>Routing slip</td>
+<td>Temple depot ledger</td>
+<td>Reed Basket's duplicate receipt</td>
+</tr>
+<tr>
+<td>Closing the account can end relief claims</td>
+<td>Old and new annexes</td>
+<td>A rejected provisional claim</td>
+<td>Distribution clerk explains the next register</td>
+</tr>
+<tr>
+<td>The unsigned requisitions share a registry practice</td>
+<td>Compare file marks</td>
+<td>Dry Ink identifies the copied hand</td>
+<td>Routine requisitions from unrelated offices</td>
+</tr>
+<tr>
+<td>Temple authority changes only through the rider</td>
+<td>Read the rider</td>
+<td>Temple's record of an earlier admission</td>
+<td>A Bright Mirror examiner states the objection</td>
+</tr>
+</tbody>
+</table>
 
 Give an essential clue when a character reaches a source that contains it and takes a reasonable action. Roll for speed, discretion, an extra concession, or the danger of removing the original. Announce the stakes before rolling. A failed check can cost time or attract scrutiny; it cannot make every other source disappear.
 
@@ -133,15 +224,52 @@ Lantern relays carry scheduled public recitations and short reports through staf
 
 ### Choices That Change the Next Book
 
-| Player action                       | Immediate result                                                | What carries forward                                                                            |
-| ----------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| File the current form correctly     | Wages and the party's position remain secure                    | The account closes unless someone secures an amendment; pending claimants can still seek review |
-| Register a provisional roll         | Named households retain a documented claim                      | The party must defend its witnesses and mark uncertainties honestly                             |
-| Obtain a Temple distribution order  | Grain reaches the households covered by it                      | Incense Crown gains grounds to demand a separate relief account                                 |
-| Secure a stay of the closing clause | Relief can continue across the Hinge                            | Opponents contest the stay; the consecration can proceed on its own merits                      |
-| Expose the altered public notice    | A false accusation loses credibility with a particular audience | A named carrier or seal holder may support the party; mass attention is not guaranteed          |
-| Reject or amend the admission rider | The Temple retains individual consent                           | The Court must negotiate, delay, or openly attempt coercion                                     |
-| Leave the case                      | The party can pursue another goal                               | The named people continue acting with the resources and evidence they possess                   |
+<table>
+<thead>
+<tr>
+<th>Player action</th>
+<th>Immediate result</th>
+<th>What carries forward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>File the current form correctly</td>
+<td>Wages and the party's position remain secure</td>
+<td>The account closes unless someone secures an amendment; pending claimants can still seek review</td>
+</tr>
+<tr>
+<td>Register a provisional roll</td>
+<td>Named households retain a documented claim</td>
+<td>The party must defend its witnesses and mark uncertainties honestly</td>
+</tr>
+<tr>
+<td>Obtain a Temple distribution order</td>
+<td>Grain reaches the households covered by it</td>
+<td>Incense Crown gains grounds to demand a separate relief account</td>
+</tr>
+<tr>
+<td>Secure a stay of the closing clause</td>
+<td>Relief can continue across the Hinge</td>
+<td>Opponents contest the stay; the consecration can proceed on its own merits</td>
+</tr>
+<tr>
+<td>Expose the altered public notice</td>
+<td>A false accusation loses credibility with a particular audience</td>
+<td>A named carrier or seal holder may support the party; mass attention is not guaranteed</td>
+</tr>
+<tr>
+<td>Reject or amend the admission rider</td>
+<td>The Temple retains individual consent</td>
+<td>The Court must negotiate, delay, or openly attempt coercion</td>
+</tr>
+<tr>
+<td>Leave the case</td>
+<td>The party can pursue another goal</td>
+<td>The named people continue acting with the resources and evidence they possess</td>
+</tr>
+</tbody>
+</table>
 
 Keep three separate entries in your notes: **relief**, **the roll**, **Temple consent**. Write who holds an effective order, which names are confirmed, missing, or disputed, and what the Temple has actually agreed to. Advance time for travel and completed tasks, not to force the next speech. At the Hinge, resolve the documents the players have changed, not an untouched default ending.
 

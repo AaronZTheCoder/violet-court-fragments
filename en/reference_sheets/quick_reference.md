@@ -10,15 +10,44 @@ One primary career, one secondary trade, one specialization. Assign 16, 14, 14, 
 
 **d20 + Facet Modifier + Proficiency Bonus (if applicable) vs Target Number**
 
-| TN  | Difficulty  |
-| --- | ----------- |
-| 5   | Trivial     |
-| 8   | Routine     |
-| 12  | Moderate    |
-| 16  | Challenging |
-| 20  | Formidable  |
-| 24  | Legendary   |
-| 28  | Impossible  |
+<table>
+<thead>
+<tr>
+<th>TN</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5</td>
+<td>Trivial</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Routine</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Challenging</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Formidable</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Legendary</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Impossible</td>
+</tr>
+</tbody>
+</table>
 
 ### Advantage and Disadvantage
 
@@ -51,13 +80,36 @@ Stabilize: Intellect TN 12 with supplies, or healing.
 
 ### Social Stance
 
-| Stance     | Persuasion TN |
-| ---------- | ------------- |
-| Hostile    | 20            |
-| Suspicious | 16            |
-| Neutral    | 12            |
-| Receptive  | 10            |
-| Allied     | 8             |
+<table>
+<thead>
+<tr>
+<th>Stance</th>
+<th>Persuasion TN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hostile</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Suspicious</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Neutral</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Receptive</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Allied</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
 
 ### Social Actions
 
@@ -77,127 +129,559 @@ Stabilize: Intellect TN 12 with supplies, or healing.
 
 ### The Six Schools
 
-| School           | Core Belief                | Key Figure            | Faction Standing Effect                                                                                   |
-| ---------------- | -------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | Preserve the old ways      | Cinnabar Heart        | High Faction Standing: protection from Harmonization Audits. Low Faction Standing: increased scrutiny.    |
-| Verdant Path     | Heal the land first        | Guest Among Forests   | High Faction Standing: access to rare herbs and medicines. Low Faction Standing: healers refuse service.  |
-| Iron Calculation | Everything is optimization | Iron Calculation      | High Faction Standing: lower prices on goods and services. Low Faction Standing: economic sanctions.      |
-| Crimson Lineage  | Blood remembers            | Duke of Eternal Night | High Faction Standing: access to noble courts. Low Faction Standing: barred from high society.            |
-| Common Flame     | Power to the people        | Iron Bone             | High Faction Standing: information networks and safe houses. Low Faction Standing: whispers turn hostile. |
-| Bright Mirror    | Purity above all           | Bright Mirror         | High Faction Standing: Qi training and artifact access. Low Faction Standing: marked for purification.    |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Core Belief</th>
+<th>Key Figure</th>
+<th>Faction Standing Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>Preserve the old ways</td>
+<td>Cinnabar Heart</td>
+<td>High Faction Standing: protection from Harmonization Audits. Low Faction Standing: increased scrutiny.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>Heal the land first</td>
+<td>Guest Among Forests</td>
+<td>High Faction Standing: access to rare herbs and medicines. Low Faction Standing: healers refuse service.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>Everything is optimization</td>
+<td>Iron Calculation</td>
+<td>High Faction Standing: lower prices on goods and services. Low Faction Standing: economic sanctions.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>Blood remembers</td>
+<td>Duke of Eternal Night</td>
+<td>High Faction Standing: access to noble courts. Low Faction Standing: barred from high society.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>Power to the people</td>
+<td>Iron Bone</td>
+<td>High Faction Standing: information networks and safe houses. Low Faction Standing: whispers turn hostile.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>Purity above all</td>
+<td>Bright Mirror</td>
+<td>High Faction Standing: Qi training and artifact access. Low Faction Standing: marked for purification.</td>
+</tr>
+</tbody>
+</table>
 
 ### Weapons and Essential Gear
 
-| Item              | Damage or Cost | Properties or Use                                                                         |
-| ----------------- | -------------- | ----------------------------------------------------------------------------------------- |
-| Unarmed           | 1d4            | Light                                                                                     |
-| Dagger            | 1d6            | Light, Concealable, Throwable                                                             |
-| Sword             | 1d8            | Versatile, dealing 1d10 damage when used with two hands                                   |
-| Greatsword        | 1d12           | Heavy, Requires Two Hands                                                                 |
-| Bow               | 1d8            | Ranged, Requires Two Hands                                                                |
-| Crossbow          | 1d10           | Ranged, Requires Two Hands, Loading                                                       |
-| Staff             | 1d6            | Versatile, dealing 1d8 damage when used with two hands, Qi Focus                          |
-| Hidden Blade      | 1d4            | Concealable, First Strike adds 1d6 damage on the first round if you act before the target |
-| Concealed Armor   | 3 Silver       | Adds 1 Defense and can be hidden under clothing                                           |
-| Medical Kit       | 5 Silver       | Grants Advantage on stabilization checks                                                  |
-| Qi Focus Talisman | 10 Silver      | Adds 1 to Technique attack rolls                                                          |
-| Rations, 3 days   | 1 Silver       | Compact preserved food                                                                    |
-| Lantern and Oil   | 1 Silver       | Illuminates one Zone                                                                      |
-| Writing Kit       | 2 Silver       | Brushes, ink, and paper for official correspondence                                       |
-| Rope, 20 feet     | 3 Silver       | Braided hemp that holds 400 pounds                                                        |
-| Grappling Hook    | 5 Silver       | Iron with three prongs, and folds for carrying                                            |
-| Signal Whistle    | 2 Copper       | Can be heard across three Zones                                                           |
-| Tinderbox         | 1 Silver       | Flint, steel, and treated cloth                                                           |
-| Oil Flask         | 3 Silver       | Can be thrown to deal 1d4 fire damage                                                     |
-| Lockpicks         | 3 Silver       | Grants Larceny proficiency for picking locks if you do not already have it                |
-| Dusk Ward Salve   | 8 Silver       | Adds 2 to Resolve checks against Dusk exposure for one hour                               |
-| Prayer Beads      | 1 Silver       | Adds 1 to Qi recovered during a short rest                                                |
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Damage or Cost</th>
+<th>Properties or Use</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Unarmed</td>
+<td>1d4</td>
+<td>Light</td>
+</tr>
+<tr>
+<td>Dagger</td>
+<td>1d6</td>
+<td>Light, Concealable, Throwable</td>
+</tr>
+<tr>
+<td>Sword</td>
+<td>1d8</td>
+<td>Versatile, dealing 1d10 damage when used with two hands</td>
+</tr>
+<tr>
+<td>Greatsword</td>
+<td>1d12</td>
+<td>Heavy, Requires Two Hands</td>
+</tr>
+<tr>
+<td>Bow</td>
+<td>1d8</td>
+<td>Ranged, Requires Two Hands</td>
+</tr>
+<tr>
+<td>Crossbow</td>
+<td>1d10</td>
+<td>Ranged, Requires Two Hands, Loading</td>
+</tr>
+<tr>
+<td>Staff</td>
+<td>1d6</td>
+<td>Versatile, dealing 1d8 damage when used with two hands, Qi Focus</td>
+</tr>
+<tr>
+<td>Hidden Blade</td>
+<td>1d4</td>
+<td>Concealable, First Strike adds 1d6 damage on the first round if you act before the target</td>
+</tr>
+<tr>
+<td>Concealed Armor</td>
+<td>3 Silver</td>
+<td>Adds 1 Defense and can be hidden under clothing</td>
+</tr>
+<tr>
+<td>Medical Kit</td>
+<td>5 Silver</td>
+<td>Grants Advantage on stabilization checks</td>
+</tr>
+<tr>
+<td>Qi Focus Talisman</td>
+<td>10 Silver</td>
+<td>Adds 1 to Technique attack rolls</td>
+</tr>
+<tr>
+<td>Rations, 3 days</td>
+<td>1 Silver</td>
+<td>Compact preserved food</td>
+</tr>
+<tr>
+<td>Lantern and Oil</td>
+<td>1 Silver</td>
+<td>Illuminates one Zone</td>
+</tr>
+<tr>
+<td>Writing Kit</td>
+<td>2 Silver</td>
+<td>Brushes, ink, and paper for official correspondence</td>
+</tr>
+<tr>
+<td>Rope, 20 feet</td>
+<td>3 Silver</td>
+<td>Braided hemp that holds 400 pounds</td>
+</tr>
+<tr>
+<td>Grappling Hook</td>
+<td>5 Silver</td>
+<td>Iron with three prongs, and folds for carrying</td>
+</tr>
+<tr>
+<td>Signal Whistle</td>
+<td>2 Copper</td>
+<td>Can be heard across three Zones</td>
+</tr>
+<tr>
+<td>Tinderbox</td>
+<td>1 Silver</td>
+<td>Flint, steel, and treated cloth</td>
+</tr>
+<tr>
+<td>Oil Flask</td>
+<td>3 Silver</td>
+<td>Can be thrown to deal 1d4 fire damage</td>
+</tr>
+<tr>
+<td>Lockpicks</td>
+<td>3 Silver</td>
+<td>Grants Larceny proficiency for picking locks if you do not already have it</td>
+</tr>
+<tr>
+<td>Dusk Ward Salve</td>
+<td>8 Silver</td>
+<td>Adds 2 to Resolve checks against Dusk exposure for one hour</td>
+</tr>
+<tr>
+<td>Prayer Beads</td>
+<td>1 Silver</td>
+<td>Adds 1 to Qi recovered during a short rest</td>
+</tr>
+</tbody>
+</table>
 
 **Weapon and Combat Rules:**
 
-| Property or Rule   | Effect                                                                               |
-| ------------------ | ------------------------------------------------------------------------------------ |
-| Light              | Can be dual wielded. The second attack uses a Free Interaction and deals half damage |
-| Concealable        | Can be hidden on your person and is not found during a casual search                 |
-| Throwable          | Can make a ranged attack against a target in the same Zone                           |
-| Versatile          | Uses the higher listed damage die when wielded with two hands                        |
-| Heavy              | Requires Might 13 or higher. Attacks have Disadvantage if your Might is lower        |
-| Requires Two Hands | Requires both hands                                                                  |
-| Qi Focus           | Channels Qi Techniques and adds 1 to Technique attack rolls                          |
-| First Strike       | On the first round, acting before the target adds the listed bonus damage            |
-| Loading            | Requires a Free Interaction to reload between shots                                  |
-| Melee Strike       | Roll d20 plus Might Modifier against the target's Defense                            |
-| Ranged Strike      | Roll d20 plus Swiftness Modifier against the target's Defense                        |
-| Damage             | Add Might Modifier to melee damage and Intellect Modifier to Technique damage        |
-| Guard              | Attacks against you have Disadvantage and you gain 4 Defense until your next turn    |
-| Assist             | Grants Advantage to the next ally who acts against the target you name               |
-| Movement           | Move to an adjacent Zone, stand up, or take cover                                    |
-| Partial Cover      | A low wall or overturned table adds 2 Defense                                        |
-| Full Cover         | A pillar or door frame adds 4 Defense                                                |
+<table>
+<thead>
+<tr>
+<th>Property or Rule</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Light</td>
+<td>Can be dual wielded. The second attack uses a Free Interaction and deals half damage</td>
+</tr>
+<tr>
+<td>Concealable</td>
+<td>Can be hidden on your person and is not found during a casual search</td>
+</tr>
+<tr>
+<td>Throwable</td>
+<td>Can make a ranged attack against a target in the same Zone</td>
+</tr>
+<tr>
+<td>Versatile</td>
+<td>Uses the higher listed damage die when wielded with two hands</td>
+</tr>
+<tr>
+<td>Heavy</td>
+<td>Requires Might 13 or higher. Attacks have Disadvantage if your Might is lower</td>
+</tr>
+<tr>
+<td>Requires Two Hands</td>
+<td>Requires both hands</td>
+</tr>
+<tr>
+<td>Qi Focus</td>
+<td>Channels Qi Techniques and adds 1 to Technique attack rolls</td>
+</tr>
+<tr>
+<td>First Strike</td>
+<td>On the first round, acting before the target adds the listed bonus damage</td>
+</tr>
+<tr>
+<td>Loading</td>
+<td>Requires a Free Interaction to reload between shots</td>
+</tr>
+<tr>
+<td>Melee Strike</td>
+<td>Roll d20 plus Might Modifier against the target's Defense</td>
+</tr>
+<tr>
+<td>Ranged Strike</td>
+<td>Roll d20 plus Swiftness Modifier against the target's Defense</td>
+</tr>
+<tr>
+<td>Damage</td>
+<td>Add Might Modifier to melee damage and Intellect Modifier to Technique damage</td>
+</tr>
+<tr>
+<td>Guard</td>
+<td>Attacks against you have Disadvantage and you gain 4 Defense until your next turn</td>
+</tr>
+<tr>
+<td>Assist</td>
+<td>Grants Advantage to the next ally who acts against the target you name</td>
+</tr>
+<tr>
+<td>Movement</td>
+<td>Move to an adjacent Zone, stand up, or take cover</td>
+</tr>
+<tr>
+<td>Partial Cover</td>
+<td>A low wall or overturned table adds 2 Defense</td>
+</tr>
+<tr>
+<td>Full Cover</td>
+<td>A pillar or door frame adds 4 Defense</td>
+</tr>
+</tbody>
+</table>
 
 ### Defense and Additional Equipment Quick Reference
 
-| Option           | Defense Effect                    | Other Effect                                                                | Cost or Requirement             |
-| ---------------- | --------------------------------- | --------------------------------------------------------------------------- | ------------------------------- |
-| Base Defense     | 10 + Swiftness Modifier           | Sets the target number for attacks against you                              | Always active                   |
-| Concealed Armor  | +1 Defense                        | Can be hidden under clothing                                                | 3 Silver                        |
-| Guard            | +4 Defense                        | Attacks against you have Disadvantage                                       | Use an Action and do not Strike |
-| Partial Cover    | +2 Defense                        | Represents a low wall or overturned table                                   | Move behind cover               |
-| Full Cover       | +4 Defense                        | Represents a pillar or door frame                                           | Move behind cover               |
-| Iron Skin        | +2 Defense                        | Grants resistance to ordinary bludgeoning, piercing, and slashing damage    | 4 Qi for one minute             |
-| Shroud of Shadow | No Defense bonus                  | Grants Advantage on Stealth and hinders attacks of opportunity              | 3 Qi for one minute             |
-| Hidden           | Cannot be targeted                | An attacker must first overcome your Stealth total with Resolve + Vigilance | Successful hiding               |
-| Restrained       | Attackers gain Advantage          | You cannot move, and your attacks have Disadvantage                         | Escape with Might + Athletics   |
-| Prone            | Adjacent attackers gain Advantage | Your melee attacks have Disadvantage, and standing costs Movement           | Fall or another effect          |
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Defense Effect</th>
+<th>Other Effect</th>
+<th>Cost or Requirement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Base Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Sets the target number for attacks against you</td>
+<td>Always active</td>
+</tr>
+<tr>
+<td>Concealed Armor</td>
+<td>+1 Defense</td>
+<td>Can be hidden under clothing</td>
+<td>3 Silver</td>
+</tr>
+<tr>
+<td>Guard</td>
+<td>+4 Defense</td>
+<td>Attacks against you have Disadvantage</td>
+<td>Use an Action and do not Strike</td>
+</tr>
+<tr>
+<td>Partial Cover</td>
+<td>+2 Defense</td>
+<td>Represents a low wall or overturned table</td>
+<td>Move behind cover</td>
+</tr>
+<tr>
+<td>Full Cover</td>
+<td>+4 Defense</td>
+<td>Represents a pillar or door frame</td>
+<td>Move behind cover</td>
+</tr>
+<tr>
+<td>Iron Skin</td>
+<td>+2 Defense</td>
+<td>Grants resistance to ordinary bludgeoning, piercing, and slashing damage</td>
+<td>4 Qi for one minute</td>
+</tr>
+<tr>
+<td>Shroud of Shadow</td>
+<td>No Defense bonus</td>
+<td>Grants Advantage on Stealth and hinders attacks of opportunity</td>
+<td>3 Qi for one minute</td>
+</tr>
+<tr>
+<td>Hidden</td>
+<td>Cannot be targeted</td>
+<td>An attacker must first overcome your Stealth total with Resolve + Vigilance</td>
+<td>Successful hiding</td>
+</tr>
+<tr>
+<td>Restrained</td>
+<td>Attackers gain Advantage</td>
+<td>You cannot move, and your attacks have Disadvantage</td>
+<td>Escape with Might + Athletics</td>
+</tr>
+<tr>
+<td>Prone</td>
+<td>Adjacent attackers gain Advantage</td>
+<td>Your melee attacks have Disadvantage, and standing costs Movement</td>
+<td>Fall or another effect</td>
+</tr>
+</tbody>
+</table>
 
-| Defensive Rule       | Effect                                                                                    |
-| -------------------- | ----------------------------------------------------------------------------------------- |
-| Taking Cover         | Use your Movement to move behind an object in your Zone                                   |
-| Attacking into Cover | Attacks against a target behind cover have Disadvantage                                   |
-| Guard Duration       | Guard lasts until the start of your next turn                                             |
-| Armor Limits         | Clothing changes Defense only when a rule or item specifically says it does               |
-| Hidden Targeting     | A Hidden creature cannot be targeted until the attacker finds them                        |
-| Physical Resistance  | Reduce damage only as directed by the rule that grants resistance                         |
-| Stabilization        | Appropriate supplies and an Intellect check against TN 12 can stabilize a Dying character |
-| Dying                | At 0 HP, make an Endurance check against TN 15 at the start of each turn                  |
+<table>
+<thead>
+<tr>
+<th>Defensive Rule</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Taking Cover</td>
+<td>Use your Movement to move behind an object in your Zone</td>
+</tr>
+<tr>
+<td>Attacking into Cover</td>
+<td>Attacks against a target behind cover have Disadvantage</td>
+</tr>
+<tr>
+<td>Guard Duration</td>
+<td>Guard lasts until the start of your next turn</td>
+</tr>
+<tr>
+<td>Armor Limits</td>
+<td>Clothing changes Defense only when a rule or item specifically says it does</td>
+</tr>
+<tr>
+<td>Hidden Targeting</td>
+<td>A Hidden creature cannot be targeted until the attacker finds them</td>
+</tr>
+<tr>
+<td>Physical Resistance</td>
+<td>Reduce damage only as directed by the rule that grants resistance</td>
+</tr>
+<tr>
+<td>Stabilization</td>
+<td>Appropriate supplies and an Intellect check against TN 12 can stabilize a Dying character</td>
+</tr>
+<tr>
+<td>Dying</td>
+<td>At 0 HP, make an Endurance check against TN 15 at the start of each turn</td>
+</tr>
+</tbody>
+</table>
 
-| Recovery Item     | Effect                                        | Cost     |
-| ----------------- | --------------------------------------------- | -------- |
-| Medical Treatment | Heals 1d4 HP and provides continued care      | 5 Silver |
-| Phoenix Draft     | Stabilizes a Dying character and heals 2d8 HP | 15 Gold  |
-| Purifying Bloom   | Cures all poison effects and restores 1d4 HP  | 8 Gold   |
+<table>
+<thead>
+<tr>
+<th>Recovery Item</th>
+<th>Effect</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Medical Treatment</td>
+<td>Heals 1d4 HP and provides continued care</td>
+<td>5 Silver</td>
+</tr>
+<tr>
+<td>Phoenix Draft</td>
+<td>Stabilizes a Dying character and heals 2d8 HP</td>
+<td>15 Gold</td>
+</tr>
+<tr>
+<td>Purifying Bloom</td>
+<td>Cures all poison effects and restores 1d4 HP</td>
+<td>8 Gold</td>
+</tr>
+</tbody>
+</table>
 
 **Specialist Equipment Reference:**
 
-| Specialist Item      | Use                                                                          | Cost     |
-| -------------------- | ---------------------------------------------------------------------------- | -------- |
-| Disguise Kit         | Grants Advantage on Deception when impersonating a specific person           | 2 Gold   |
-| Poison Counteragent  | Three doses, each granting Advantage against ingested poison                 | 5 Silver |
-| Codex of Common Law  | Grants Advantage on Lore checks involving imperial law                       | 1 Gold   |
-| Surgical Tools       | Grants Advantage when a Medical Kit is used to stabilize someone             | 2 Gold   |
-| Portable Alchemy Kit | Allows basic potion brewing during rest for someone proficient in Craft      | 3 Gold   |
-| Small Lockbox        | Protects documents behind a quality lock that requires a TN 15 check to pick | 1 Gold   |
+<table>
+<thead>
+<tr>
+<th>Specialist Item</th>
+<th>Use</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Disguise Kit</td>
+<td>Grants Advantage on Deception when impersonating a specific person</td>
+<td>2 Gold</td>
+</tr>
+<tr>
+<td>Poison Counteragent</td>
+<td>Three doses, each granting Advantage against ingested poison</td>
+<td>5 Silver</td>
+</tr>
+<tr>
+<td>Codex of Common Law</td>
+<td>Grants Advantage on Lore checks involving imperial law</td>
+<td>1 Gold</td>
+</tr>
+<tr>
+<td>Surgical Tools</td>
+<td>Grants Advantage when a Medical Kit is used to stabilize someone</td>
+<td>2 Gold</td>
+</tr>
+<tr>
+<td>Portable Alchemy Kit</td>
+<td>Allows basic potion brewing during rest for someone proficient in Craft</td>
+<td>3 Gold</td>
+</tr>
+<tr>
+<td>Small Lockbox</td>
+<td>Protects documents behind a quality lock that requires a TN 15 check to pick</td>
+<td>1 Gold</td>
+</tr>
+</tbody>
+</table>
 
 ### Selected Qi Techniques Quick Reference
 
-| Technique              | Qi Cost | Effect                                                                                                                             | Theme      |
-| ---------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Mending Touch          | 3       | Restore 1d8 + Intellect Modifier HP to yourself or a creature you touch                                                            | Healing    |
-| Restorative Breath     | 5       | Restore 2d8 + Intellect Modifier HP to yourself or a creature you touch after one uninterrupted minute of focus                    | Healing    |
-| Purify Body            | 4       | Remove one poison, disease, or minor Dusk corruption from a creature you touch. The target loses 1d4 Sanity during the purge       | Healing    |
-| Stabilize Spark        | 2       | Stabilize a Dying creature in your Zone without a roll. The creature remains Unconscious at 0 HP                                   | Healing    |
-| Qi Strike              | 2       | Your next successful melee attack before the end of your next turn deals 2d6 additional Qi damage                                  | Combat     |
-| Shroud of Shadow       | 3       | For one minute, gain Advantage on Stealth while enemies have Disadvantage on attacks of opportunity against you                    | Combat     |
-| Iron Skin              | 4       | For one minute, gain 2 Defense and resistance to ordinary bludgeoning, piercing, and slashing damage                               | Combat     |
-| Unbalancing Force      | 3       | Creatures in your Zone must pass an Endurance check against your Technique TN or fall Prone. Allies are unaffected                 | Combat     |
-| Bolstered Step         | 2       | Your Movement this turn crosses two Zones instead of one                                                                           | Utility    |
-| Unlock the Hidden Path | 3       | For one minute, move normally across difficult terrain and climb surfaces that would usually require a check                       | Utility    |
-| Silence of the Scholar | 2       | Mute all sound within 10 feet of you for one minute. Sound inside the area cannot be heard outside it                              | Utility    |
-| Memory Echo            | 4       | Touch an object to glimpse one significant event involving it during the past 24 hours                                             | Utility    |
-| Qi Sense               | 1       | Sense the presence and rough intensity of Qi in your Zone, including hidden users, Dusk corruption, and objects with Qi signatures | Divination |
-| Glimmer of Truth       | 2       | Gain Advantage on Insight checks to detect lies for one minute                                                                     | Divination |
-| Trace the Thread       | 5       | Touch a person or object to know its direction from you for one hour, regardless of distance or concealment                        | Divination |
-| Read the Weave         | 6       | Meditate for ten minutes to receive one true but incomplete fact about a future event, hidden truth, or character's fate           | Divination |
+<table>
+<thead>
+<tr>
+<th>Technique</th>
+<th>Qi Cost</th>
+<th>Effect</th>
+<th>Theme</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mending Touch</td>
+<td>3</td>
+<td>Restore 1d8 + Intellect Modifier HP to yourself or a creature you touch</td>
+<td>Healing</td>
+</tr>
+<tr>
+<td>Restorative Breath</td>
+<td>5</td>
+<td>Restore 2d8 + Intellect Modifier HP to yourself or a creature you touch after one uninterrupted minute of focus</td>
+<td>Healing</td>
+</tr>
+<tr>
+<td>Purify Body</td>
+<td>4</td>
+<td>Remove one poison, disease, or minor Dusk corruption from a creature you touch. The target loses 1d4 Sanity during the purge</td>
+<td>Healing</td>
+</tr>
+<tr>
+<td>Stabilize Spark</td>
+<td>2</td>
+<td>Stabilize a Dying creature in your Zone without a roll. The creature remains Unconscious at 0 HP</td>
+<td>Healing</td>
+</tr>
+<tr>
+<td>Qi Strike</td>
+<td>2</td>
+<td>Your next successful melee attack before the end of your next turn deals 2d6 additional Qi damage</td>
+<td>Combat</td>
+</tr>
+<tr>
+<td>Shroud of Shadow</td>
+<td>3</td>
+<td>For one minute, gain Advantage on Stealth while enemies have Disadvantage on attacks of opportunity against you</td>
+<td>Combat</td>
+</tr>
+<tr>
+<td>Iron Skin</td>
+<td>4</td>
+<td>For one minute, gain 2 Defense and resistance to ordinary bludgeoning, piercing, and slashing damage</td>
+<td>Combat</td>
+</tr>
+<tr>
+<td>Unbalancing Force</td>
+<td>3</td>
+<td>Creatures in your Zone must pass an Endurance check against your Technique TN or fall Prone. Allies are unaffected</td>
+<td>Combat</td>
+</tr>
+<tr>
+<td>Bolstered Step</td>
+<td>2</td>
+<td>Your Movement this turn crosses two Zones instead of one</td>
+<td>Utility</td>
+</tr>
+<tr>
+<td>Unlock the Hidden Path</td>
+<td>3</td>
+<td>For one minute, move normally across difficult terrain and climb surfaces that would usually require a check</td>
+<td>Utility</td>
+</tr>
+<tr>
+<td>Silence of the Scholar</td>
+<td>2</td>
+<td>Mute all sound within 10 feet of you for one minute. Sound inside the area cannot be heard outside it</td>
+<td>Utility</td>
+</tr>
+<tr>
+<td>Memory Echo</td>
+<td>4</td>
+<td>Touch an object to glimpse one significant event involving it during the past 24 hours</td>
+<td>Utility</td>
+</tr>
+<tr>
+<td>Qi Sense</td>
+<td>1</td>
+<td>Sense the presence and rough intensity of Qi in your Zone, including hidden users, Dusk corruption, and objects with Qi signatures</td>
+<td>Divination</td>
+</tr>
+<tr>
+<td>Glimmer of Truth</td>
+<td>2</td>
+<td>Gain Advantage on Insight checks to detect lies for one minute</td>
+<td>Divination</td>
+</tr>
+<tr>
+<td>Trace the Thread</td>
+<td>5</td>
+<td>Touch a person or object to know its direction from you for one hour, regardless of distance or concealment</td>
+<td>Divination</td>
+</tr>
+<tr>
+<td>Read the Weave</td>
+<td>6</td>
+<td>Meditate for ten minutes to receive one true but incomplete fact about a future event, hidden truth, or character's fate</td>
+<td>Divination</td>
+</tr>
+</tbody>
+</table>
 
 **Qi Recovery:**
 
@@ -207,33 +691,113 @@ Stabilize: Intellect TN 12 with supplies, or healing.
 
 ### Conditions Reference
 
-| Condition or State | Effect                                                                                                                                        |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bleeding           | Take 1d4 damage at the start of each turn. Stop it with a Medical Kit and an Intellect check against TN 10, or with any healing Technique     |
-| Dazed              | Cannot take Actions. You can still move and speak. The condition ends at the start of your next turn                                          |
-| Dusk Touched       | Dusk exposure has changed you. Effects may include strange abilities, physical mutations, loss of control, or persistent whispers             |
-| Frightened         | All rolls have Disadvantage while the source is present, and you cannot move toward it. Resolve + Discipline against TN 15 ends the condition |
-| Grappled           | Cannot move and attacks have Disadvantage. Escape with Might + Athletics or Swiftness + Acrobatics against the grappler's result              |
-| Hidden             | Cannot be targeted until an attacker succeeds with Resolve + Vigilance against your Stealth total                                             |
-| Poisoned           | All rolls have Disadvantage. Endurance + Fortitude against the poison's TN halves its duration                                                |
-| Prone              | Adjacent attacks against you have Advantage, and your melee attacks have Disadvantage. Standing costs your Movement                           |
-| Restrained         | Cannot move. Your attacks have Disadvantage, and attackers have Advantage. Escape with Might + Athletics against the restraint's TN           |
-| Stable             | At 0 HP and no longer worsening. You remain Unconscious and wake at 1 HP after a full rest or healing                                         |
-| Unconscious        | Cannot act, and attackers have Advantage. Wake naturally after 1d4 hours or when healing raises your HP above 0                               |
-| Dying              | At 0 HP, make Endurance against TN 15 each turn. A success stabilizes you. Three failures before a success cause death                        |
-| Breaking Point     | At 10 Sanity or lower, the Host may call for Resolve against TN 15. Failure causes a breakdown                                                |
-| Sanity 0           | The character is permanently broken, generally becomes unplayable, and passes to the Host as a nonplayer character                            |
-| Guarding           | Attacks against you have Disadvantage and you gain 4 Defense until your next turn. You cannot Strike on the turn you Guard                    |
-| Partial Cover      | A low wall or overturned table adds 2 Defense. Attacks against a target behind cover have Disadvantage                                        |
-| Full Cover         | A pillar or door frame adds 4 Defense. Attacks against a target behind cover have Disadvantage                                                |
+<table>
+<thead>
+<tr>
+<th>Condition or State</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bleeding</td>
+<td>Take 1d4 damage at the start of each turn. Stop it with a Medical Kit and an Intellect check against TN 10, or with any healing Technique</td>
+</tr>
+<tr>
+<td>Dazed</td>
+<td>Cannot take Actions. You can still move and speak. The condition ends at the start of your next turn</td>
+</tr>
+<tr>
+<td>Dusk Touched</td>
+<td>Dusk exposure has changed you. Effects may include strange abilities, physical mutations, loss of control, or persistent whispers</td>
+</tr>
+<tr>
+<td>Frightened</td>
+<td>All rolls have Disadvantage while the source is present, and you cannot move toward it. Resolve + Discipline against TN 15 ends the condition</td>
+</tr>
+<tr>
+<td>Grappled</td>
+<td>Cannot move and attacks have Disadvantage. Escape with Might + Athletics or Swiftness + Acrobatics against the grappler's result</td>
+</tr>
+<tr>
+<td>Hidden</td>
+<td>Cannot be targeted until an attacker succeeds with Resolve + Vigilance against your Stealth total</td>
+</tr>
+<tr>
+<td>Poisoned</td>
+<td>All rolls have Disadvantage. Endurance + Fortitude against the poison's TN halves its duration</td>
+</tr>
+<tr>
+<td>Prone</td>
+<td>Adjacent attacks against you have Advantage, and your melee attacks have Disadvantage. Standing costs your Movement</td>
+</tr>
+<tr>
+<td>Restrained</td>
+<td>Cannot move. Your attacks have Disadvantage, and attackers have Advantage. Escape with Might + Athletics against the restraint's TN</td>
+</tr>
+<tr>
+<td>Stable</td>
+<td>At 0 HP and no longer worsening. You remain Unconscious and wake at 1 HP after a full rest or healing</td>
+</tr>
+<tr>
+<td>Unconscious</td>
+<td>Cannot act, and attackers have Advantage. Wake naturally after 1d4 hours or when healing raises your HP above 0</td>
+</tr>
+<tr>
+<td>Dying</td>
+<td>At 0 HP, make Endurance against TN 15 each turn. A success stabilizes you. Three failures before a success cause death</td>
+</tr>
+<tr>
+<td>Breaking Point</td>
+<td>At 10 Sanity or lower, the Host may call for Resolve against TN 15. Failure causes a breakdown</td>
+</tr>
+<tr>
+<td>Sanity 0</td>
+<td>The character is permanently broken, generally becomes unplayable, and passes to the Host as a nonplayer character</td>
+</tr>
+<tr>
+<td>Guarding</td>
+<td>Attacks against you have Disadvantage and you gain 4 Defense until your next turn. You cannot Strike on the turn you Guard</td>
+</tr>
+<tr>
+<td>Partial Cover</td>
+<td>A low wall or overturned table adds 2 Defense. Attacks against a target behind cover have Disadvantage</td>
+</tr>
+<tr>
+<td>Full Cover</td>
+<td>A pillar or door frame adds 4 Defense. Attacks against a target behind cover have Disadvantage</td>
+</tr>
+</tbody>
+</table>
 
 ### Rest and Recovery Rules Summary
 
-| Rest Type     | Duration                            | Benefits                                                                                                                  |
-| ------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Short Rest    | 1 hour                              | Recover part of your Qi Pool through meditation or light activity. Prayer Beads add 1 Qi, and Clarity Incense adds 1d4 Qi |
-| Long Rest     | A full night's sleep in safety      | Recover all Qi and 1 Sanity. A Stable character wakes at 1 HP after the full rest                                         |
-| Extended Rest | 1 week in a safe, comfortable place | Recover 2d6 Sanity                                                                                                        |
+<table>
+<thead>
+<tr>
+<th>Rest Type</th>
+<th>Duration</th>
+<th>Benefits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Short Rest</td>
+<td>1 hour</td>
+<td>Recover part of your Qi Pool through meditation or light activity. Prayer Beads add 1 Qi, and Clarity Incense adds 1d4 Qi</td>
+</tr>
+<tr>
+<td>Long Rest</td>
+<td>A full night's sleep in safety</td>
+<td>Recover all Qi and 1 Sanity. A Stable character wakes at 1 HP after the full rest</td>
+</tr>
+<tr>
+<td>Extended Rest</td>
+<td>1 week in a safe, comfortable place</td>
+<td>Recover 2d6 Sanity</td>
+</tr>
+</tbody>
+</table>
 
 **Treatment and Recovery:**
 
@@ -246,49 +810,175 @@ Stabilize: Intellect TN 12 with supplies, or healing.
 
 Characters grow through experience. The Host awards Advancement Points (AP) at the end of each significant story arc or session:
 
-| Accomplishment                        | AP  |
-| ------------------------------------- | --- |
-| Surviving a session                   | 1   |
-| Completing a significant objective    | 2   |
-| Resolving a major story arc           | 3   |
-| Exceptional roleplaying or cleverness | 1   |
+<table>
+<thead>
+<tr>
+<th>Accomplishment</th>
+<th>AP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Surviving a session</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Completing a significant objective</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Resolving a major story arc</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Exceptional roleplaying or cleverness</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 
 **Spending Advancement Points:**
 
-| Advancement                                     | AP Cost   |
-| ----------------------------------------------- | --------- |
-| Increase one Facet by 1 (max 20)                | 3         |
-| Gain proficiency in a new Skill                 | 5         |
-| Learn a new Technique                           | 4         |
-| Increase max Qi Pool by 5                       | 3         |
-| Gain a special ability from your Archetype tree | 5         |
-| Improve Proficiency Bonus (every 4 levels)      | Automatic |
+<table>
+<thead>
+<tr>
+<th>Advancement</th>
+<th>AP Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Increase one Facet by 1 (max 20)</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Gain proficiency in a new Skill</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Learn a new Technique</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Increase max Qi Pool by 5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Gain a special ability from your Archetype tree</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Improve Proficiency Bonus (every 4 levels)</td>
+<td>Automatic</td>
+</tr>
+</tbody>
+</table>
 
 **Level:** A character's Level is equal to their total AP spent divided by 4, rounded down, plus 1.
 
-| Level | AP Spent | Proficiency Bonus |
-| ----- | -------- | ----------------- |
-| 1     | 0 to 3   | +2                |
-| 2     | 4 to 7   | +2                |
-| 3     | 8 to 11  | +2                |
-| 4     | 12 to 15 | +2                |
-| 5     | 16 to 19 | +3                |
-| 6     | 20 to 23 | +3                |
-| 7     | 24 to 27 | +3                |
-| 8     | 28 to 31 | +3                |
-| 9     | 32 to 35 | +4                |
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>AP Spent</th>
+<th>Proficiency Bonus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>0 to 3</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4 to 7</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>8 to 11</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>12 to 15</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>16 to 19</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>20 to 23</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>7</td>
+<td>24 to 27</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>28 to 31</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>9</td>
+<td>32 to 35</td>
+<td>+4</td>
+</tr>
+</tbody>
+</table>
 
 Level 9 is the ceiling of the advancement trees printed in the character dossiers. Tables that continue past it use the Proficiency progression in Chapter Five: +4 through Level 12, +5 through Level 16.
 
 ### Currency Conversion Quick Reference
 
-| Resource        | Value in Copper Leaves | Value in Silver Stems | Value in Gold Blooms |
-| --------------- | ---------------------- | --------------------- | -------------------- |
-| Copper Leaf     | 1                      | 1/10                  | 1/100                |
-| Silver Stem     | 10                     | 1                     | 1/10                 |
-| Gold Bloom      | 100                    | 10                    | 1                    |
-| Jade Slip       | 1000                   | 100                   | 10                   |
-| Celestial Favor | Not money              | No conversion         | Influence only       |
+<table>
+<thead>
+<tr>
+<th>Resource</th>
+<th>Value in Copper Leaves</th>
+<th>Value in Silver Stems</th>
+<th>Value in Gold Blooms</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Copper Leaf</td>
+<td>1</td>
+<td>1/10</td>
+<td>1/100</td>
+</tr>
+<tr>
+<td>Silver Stem</td>
+<td>10</td>
+<td>1</td>
+<td>1/10</td>
+</tr>
+<tr>
+<td>Gold Bloom</td>
+<td>100</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Jade Slip</td>
+<td>1000</td>
+<td>100</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Celestial Favor</td>
+<td>Not money</td>
+<td>No conversion</td>
+<td>Influence only</td>
+</tr>
+</tbody>
+</table>
 
 **Exchange Notes:**
 
@@ -300,87 +990,437 @@ Level 9 is the ceiling of the advancement trees printed in the character dossier
 
 Roll or choose from each column to create an NPC quickly.
 
-| d10 | Role     | Disposition   | Secret                                 | Quirk                            |
-| --- | -------- | ------------- | -------------------------------------- | -------------------------------- |
-| 1   | Merchant | Greedy        | Indebted to a school                   | Chews on a toothpick obsessively |
-| 2   | Guard    | Suspicious    | Hates their commanding officer         | Counts under their breath        |
-| 3   | Scholar  | Curious       | Knows a forbidden truth                | Speaks in questions              |
-| 4   | Farmer   | Weary         | Hides a Dusk Touched relative          | Touches wood for luck            |
-| 5   | Official | Officious     | Takes bribes                           | Never makes eye contact          |
-| 6   | Healer   | Compassionate | Was a soldier once                     | Humming constantly               |
-| 7   | Beggar   | Desperate     | Was a noble once                       | Knows everyone's name            |
-| 8   | Priest   | Zealous       | Questions their faith                  | Finishes sentences twice         |
-| 9   | Artisan  | Proud         | Works for a school secretly            | Has a twitch in their left hand  |
-| 10  | Courier  | Nervous       | Carries a message they did not deliver | Glances behind them often        |
+<table>
+<thead>
+<tr>
+<th>d10</th>
+<th>Role</th>
+<th>Disposition</th>
+<th>Secret</th>
+<th>Quirk</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Merchant</td>
+<td>Greedy</td>
+<td>Indebted to a school</td>
+<td>Chews on a toothpick obsessively</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Guard</td>
+<td>Suspicious</td>
+<td>Hates their commanding officer</td>
+<td>Counts under their breath</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Scholar</td>
+<td>Curious</td>
+<td>Knows a forbidden truth</td>
+<td>Speaks in questions</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Farmer</td>
+<td>Weary</td>
+<td>Hides a Dusk Touched relative</td>
+<td>Touches wood for luck</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Official</td>
+<td>Officious</td>
+<td>Takes bribes</td>
+<td>Never makes eye contact</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Healer</td>
+<td>Compassionate</td>
+<td>Was a soldier once</td>
+<td>Humming constantly</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Beggar</td>
+<td>Desperate</td>
+<td>Was a noble once</td>
+<td>Knows everyone's name</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Priest</td>
+<td>Zealous</td>
+<td>Questions their faith</td>
+<td>Finishes sentences twice</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Artisan</td>
+<td>Proud</td>
+<td>Works for a school secretly</td>
+<td>Has a twitch in their left hand</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Courier</td>
+<td>Nervous</td>
+<td>Carries a message they did not deliver</td>
+<td>Glances behind them often</td>
+</tr>
+</tbody>
+</table>
 
 **Quick NPC Stats (for ad hoc encounters):**
 
-| NPC Type              | HP  | Defense | Key Facet                          |
-| --------------------- | --- | ------- | ---------------------------------- |
-| Commoner              | 4   | 8       | Intellect or Presence +1           |
-| Guard                 | 12  | 12      | Might +2                           |
-| Scholar               | 6   | 8       | Intellect +3                       |
-| Soldier               | 16  | 14      | Might +3, Endurance +2             |
-| Officer               | 20  | 14      | Might +2, Presence +3              |
-| Dusk Touched          | 14  | 10      | Varies (Presence +2, one other +1) |
-| Dusk Creature (minor) | 10  | 10      | See Dusk Bestiary                  |
-| Dusk Creature (major) | 25  | 14      | See Dusk Bestiary                  |
+<table>
+<thead>
+<tr>
+<th>NPC Type</th>
+<th>HP</th>
+<th>Defense</th>
+<th>Key Facet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Commoner</td>
+<td>4</td>
+<td>8</td>
+<td>Intellect or Presence +1</td>
+</tr>
+<tr>
+<td>Guard</td>
+<td>12</td>
+<td>12</td>
+<td>Might +2</td>
+</tr>
+<tr>
+<td>Scholar</td>
+<td>6</td>
+<td>8</td>
+<td>Intellect +3</td>
+</tr>
+<tr>
+<td>Soldier</td>
+<td>16</td>
+<td>14</td>
+<td>Might +3, Endurance +2</td>
+</tr>
+<tr>
+<td>Officer</td>
+<td>20</td>
+<td>14</td>
+<td>Might +2, Presence +3</td>
+</tr>
+<tr>
+<td>Dusk Touched</td>
+<td>14</td>
+<td>10</td>
+<td>Varies (Presence +2, one other +1)</td>
+</tr>
+<tr>
+<td>Dusk Creature (minor)</td>
+<td>10</td>
+<td>10</td>
+<td>See Dusk Bestiary</td>
+</tr>
+<tr>
+<td>Dusk Creature (major)</td>
+<td>25</td>
+<td>14</td>
+<td>See Dusk Bestiary</td>
+</tr>
+</tbody>
+</table>
 
 **NPC Name Generator (roll d20 per column):**
 
-| d20 | Family Name | Given Name |
-| --- | ----------- | ---------- |
-| 1   | Chen        | Wei        |
-| 2   | Li          | Fen        |
-| 3   | Wang        | Hao        |
-| 4   | Zhang       | Mei        |
-| 5   | Liu         | Jun        |
-| 6   | Huang       | Lan        |
-| 7   | Wu          | Qing       |
-| 8   | Zhou        | Ren        |
-| 9   | Xu          | Yue        |
-| 10  | Sun         | Bo         |
-| 11  | Ma          | Jing       |
-| 12  | Zhu         | Tao        |
-| 13  | Hu          | Ling       |
-| 14  | Lin         | Shen       |
-| 15  | Guo         | Xiang      |
-| 16  | He          | Yu         |
-| 17  | Gao         | Min        |
-| 18  | Luo         | Kai        |
-| 19  | Liang       | Fang       |
-| 20  | Song        | Zhen       |
+<table>
+<thead>
+<tr>
+<th>d20</th>
+<th>Family Name</th>
+<th>Given Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Chen</td>
+<td>Wei</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Li</td>
+<td>Fen</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Wang</td>
+<td>Hao</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Zhang</td>
+<td>Mei</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Liu</td>
+<td>Jun</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Huang</td>
+<td>Lan</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Wu</td>
+<td>Qing</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Zhou</td>
+<td>Ren</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Xu</td>
+<td>Yue</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Sun</td>
+<td>Bo</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Ma</td>
+<td>Jing</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Zhu</td>
+<td>Tao</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Hu</td>
+<td>Ling</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Lin</td>
+<td>Shen</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Guo</td>
+<td>Xiang</td>
+</tr>
+<tr>
+<td>16</td>
+<td>He</td>
+<td>Yu</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Gao</td>
+<td>Min</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Luo</td>
+<td>Kai</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Liang</td>
+<td>Fang</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Song</td>
+<td>Zhen</td>
+</tr>
+</tbody>
+</table>
 
 ### Common Target Numbers for Specific Actions
 
-| Action                          | TN       | Facet     | Modifiers                                                                  |
-| ------------------------------- | -------- | --------- | -------------------------------------------------------------------------- |
-| Spot a hidden creature          | 12       | Resolve   | +2 per Zone of distance                                                    |
-| Identify a Dusk creature        | 14       | Intellect | +4 if never seen before                                                    |
-| Climb a wall (rope)             | 8        | Might     | +4 if no rope                                                              |
-| Climb a wall (sheer, no tools)  | 16       | Might     |                                                                            |
-| Leap across a gap (short)       | 10       | Might     | +4 if gap is wide                                                          |
-| Swim in calm water              | 8        | Might     | +4 in rough water                                                          |
-| Swim in water corrupted by Dusk | 14       | Endurance | Resolve check TN 12 on failure                                             |
-| Track a creature                | 12       | Endurance | +2 per day since passage                                                   |
-| Track through Dusk zone         | 16       | Endurance |                                                                            |
-| Pick a simple lock              | 10       | Swiftness | Requires tools                                                             |
-| Pick an imperial lock           | 16       | Swiftness | Requires tools                                                             |
-| Pick a Dusk lock                | 20       | Swiftness | Dusk corruption on failure                                                 |
-| Forge a document (simple)       | 12       | Intellect | Requires sample                                                            |
-| Forge an official document      | 18       | Intellect | +4 if specific to the school                                               |
-| Recall a fact (common)          | 8        | Intellect |                                                                            |
-| Recall a fact (obscure)         | 16       | Intellect |                                                                            |
-| Recall a forbidden fact         | 20       | Intellect | Resolve check if the fact is disturbing; knowledge alone is not corruption |
-| Stabilize a dying ally          | 12       | Intellect | Requires healer's kit                                                      |
-| Treat Red Rain Exposure         | 16       | Intellect | Requires 24 hours                                                          |
-| Resist interrogation            | 14       | Resolve   | +2 per hour of interrogation                                               |
-| Resist Dusk temptation          | Variable | Resolve   | TN equals Dusk presence in area                                            |
-| Charm a guard                   | 14       | Presence  | +4 if guard is suspicious                                                  |
-| Bribe an official               | 10       | Presence  | Cost varies by official                                                    |
-| Perform a ritual                | 12       | Intellect | +4 for forbidden rituals                                                   |
-| Detect a lie                    | 14       | Resolve   | +4 if you know the speaker well                                            |
-| Tell a convincing lie           | 14       | Presence  | +4 if lie is plausible                                                     |
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>TN</th>
+<th>Facet</th>
+<th>Modifiers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Spot a hidden creature</td>
+<td>12</td>
+<td>Resolve</td>
+<td>+2 per Zone of distance</td>
+</tr>
+<tr>
+<td>Identify a Dusk creature</td>
+<td>14</td>
+<td>Intellect</td>
+<td>+4 if never seen before</td>
+</tr>
+<tr>
+<td>Climb a wall (rope)</td>
+<td>8</td>
+<td>Might</td>
+<td>+4 if no rope</td>
+</tr>
+<tr>
+<td>Climb a wall (sheer, no tools)</td>
+<td>16</td>
+<td>Might</td>
+<td></td>
+</tr>
+<tr>
+<td>Leap across a gap (short)</td>
+<td>10</td>
+<td>Might</td>
+<td>+4 if gap is wide</td>
+</tr>
+<tr>
+<td>Swim in calm water</td>
+<td>8</td>
+<td>Might</td>
+<td>+4 in rough water</td>
+</tr>
+<tr>
+<td>Swim in water corrupted by Dusk</td>
+<td>14</td>
+<td>Endurance</td>
+<td>Resolve check TN 12 on failure</td>
+</tr>
+<tr>
+<td>Track a creature</td>
+<td>12</td>
+<td>Endurance</td>
+<td>+2 per day since passage</td>
+</tr>
+<tr>
+<td>Track through Dusk zone</td>
+<td>16</td>
+<td>Endurance</td>
+<td></td>
+</tr>
+<tr>
+<td>Pick a simple lock</td>
+<td>10</td>
+<td>Swiftness</td>
+<td>Requires tools</td>
+</tr>
+<tr>
+<td>Pick an imperial lock</td>
+<td>16</td>
+<td>Swiftness</td>
+<td>Requires tools</td>
+</tr>
+<tr>
+<td>Pick a Dusk lock</td>
+<td>20</td>
+<td>Swiftness</td>
+<td>Dusk corruption on failure</td>
+</tr>
+<tr>
+<td>Forge a document (simple)</td>
+<td>12</td>
+<td>Intellect</td>
+<td>Requires sample</td>
+</tr>
+<tr>
+<td>Forge an official document</td>
+<td>18</td>
+<td>Intellect</td>
+<td>+4 if specific to the school</td>
+</tr>
+<tr>
+<td>Recall a fact (common)</td>
+<td>8</td>
+<td>Intellect</td>
+<td></td>
+</tr>
+<tr>
+<td>Recall a fact (obscure)</td>
+<td>16</td>
+<td>Intellect</td>
+<td></td>
+</tr>
+<tr>
+<td>Recall a forbidden fact</td>
+<td>20</td>
+<td>Intellect</td>
+<td>Resolve check if the fact is disturbing; knowledge alone is not corruption</td>
+</tr>
+<tr>
+<td>Stabilize a dying ally</td>
+<td>12</td>
+<td>Intellect</td>
+<td>Requires healer's kit</td>
+</tr>
+<tr>
+<td>Treat Red Rain Exposure</td>
+<td>16</td>
+<td>Intellect</td>
+<td>Requires 24 hours</td>
+</tr>
+<tr>
+<td>Resist interrogation</td>
+<td>14</td>
+<td>Resolve</td>
+<td>+2 per hour of interrogation</td>
+</tr>
+<tr>
+<td>Resist Dusk temptation</td>
+<td>Variable</td>
+<td>Resolve</td>
+<td>TN equals Dusk presence in area</td>
+</tr>
+<tr>
+<td>Charm a guard</td>
+<td>14</td>
+<td>Presence</td>
+<td>+4 if guard is suspicious</td>
+</tr>
+<tr>
+<td>Bribe an official</td>
+<td>10</td>
+<td>Presence</td>
+<td>Cost varies by official</td>
+</tr>
+<tr>
+<td>Perform a ritual</td>
+<td>12</td>
+<td>Intellect</td>
+<td>+4 for forbidden rituals</td>
+</tr>
+<tr>
+<td>Detect a lie</td>
+<td>14</td>
+<td>Resolve</td>
+<td>+4 if you know the speaker well</td>
+</tr>
+<tr>
+<td>Tell a convincing lie</td>
+<td>14</td>
+<td>Presence</td>
+<td>+4 if lie is plausible</td>
+</tr>
+</tbody>
+</table>
 
 ### The Six Schools at a Glance
 

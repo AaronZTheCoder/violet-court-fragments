@@ -178,14 +178,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 10    | +0       |
-| Swiftness | 14    | +2       |
-| Endurance | 16    | +3       |
-| Intellect | 14    | +2       |
-| Presence  | 10    | +0       |
-| Resolve   | 18    | +4       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+</tbody>
+</table>
 
 **Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
@@ -193,14 +226,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 4 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 6 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier          | Calculate |
-| Defense           | 10 + Swiftness Modifier     | Calculate |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 4</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 6</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -255,14 +321,47 @@ Spend 4 Qi and one minute in contact with soil, root, or living wood. The Host t
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                                            |
-| ---------------- | ---------------- | -------------------------------------------------------------------------------- |
-| Golden Orthodoxy | -15              | You are unlicensed practice walking around in daylight.                          |
-| Verdant Path     | +5               | Their heretical wing taught you. Their seated wing finds you embarrassing.       |
-| Iron Calculation | 0                | You are not in their models. They have no opinion. This is nearly restful.       |
-| Crimson Lineage  | -5               | You have no blood worth recording, which to them is the same as having none.     |
-| Common Flame     | +20              | You are what they claim to be fighting for, and you did not ask them to.         |
-| Bright Mirror    | -10              | Unregistered. Unlicensed. Unfileable. You are a category error with a heartbeat. |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>−15</td>
+<td>You are unlicensed practice walking around in daylight.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>+5</td>
+<td>Their heretical wing taught you. Their seated wing finds you embarrassing.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>0</td>
+<td>You are not in their models. They have no opinion. This is nearly restful.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>−5</td>
+<td>You have no blood worth recording, which to them is the same as having none.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>+20</td>
+<td>You are what they claim to be fighting for, and you did not ask them to.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>−10</td>
+<td>Unregistered. Unlicensed. Unfileable. You are a category error with a heartbeat.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 

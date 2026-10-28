@@ -44,28 +44,117 @@ Let the players' actions shape the encounter. If they try to communicate with a 
 
 The Dusk does not always manifest as creatures. Sometimes it manifests as changes to the world itself. Roll or choose from the table below when the players enter an area saturated with Dusk.
 
-| d20 | Phenomenon                | Effect                                                                                                                                                                                                                                                                                                                                                                                              |
-| --- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | The Sky Weeps             | Red rain falls in the area. It tastes of copper and salt. Characters exposed for more than one hour must make Endurance TN 12 or have Disadvantage on Endurance checks until completing a short rest. The rain is not water. It is something else.                                                                                                                                                  |
-| 2   | Time Loop                 | A moment repeats. A bird falls from the sky three times. A conversation plays twice. The players may notice the loop or they may not. If they attempt to change the loop's outcome, the universe resists. Resolve TN 16 to act differently.                                                                                                                                                         |
-| 3   | Shadows Detach            | The shadows of living things separate and move independently. They do not attack but they watch. They point. They mimic gestures one second behind the original. Resolve TN 14 or gain 1 Sanity loss from the uncanny wrongness.                                                                                                                                                                    |
-| 4   | Voices from Nowhere       | The air fills with whispers. They speak in languages the players know and languages they do not. Among the whispers, each player hears their own name spoken by a voice they recognize. Finding the source requires Intellect TN 18. The source is never there.                                                                                                                                     |
-| 5   | Gravity Reverses          | For one hour, up becomes down. Characters must make Swiftness TN 14 to avoid falling upward. Ranged attacks are impossible. Melee attacks are made at Disadvantage. Moving requires climbing across the underside of surfaces.                                                                                                                                                                      |
-| 6   | Memory Bleed              | Strong emotions left in the area become perceptible. Players experience flashes of what happened here. A battle. A death. A betrayal. A wedding. The Host should prepare one specific memory tied to the location. All present must make Resolve TN 14 or be overwhelmed for one round.                                                                                                             |
-| 7   | The Color Drains          | All color drains from the world except red. Everything is grey, black, white, or crimson. This lasts for 1d4 hours. Checks based on Vigilance suffer Disadvantage during this time as depth perception and distance become unreliable.                                                                                                                                                              |
-| 8   | Doors Lead Elsewhere      | Every door or archway in the area opens onto a place it should not. A cellar door opens onto a rooftop. A city gate opens onto a forest. A wardrobe opens onto a version of the room corrupted by Dusk. Intellect TN 16 to recognize a door is wrong before stepping through.                                                                                                                       |
-| 9   | The Earth Breathes        | The ground rises and falls as though the earth itself is breathing. Movement costs double. Ranged attacks have Disadvantage. Characters standing still feel a rhythmic vibration through their bones. Resolve TN 12 to sleep in this area.                                                                                                                                                          |
-| 10  | Echoes of the Dead        | The dead do not stay buried here. Bodies rise and perform fragments of their daily routines. A corpse sweeps a floor. A skeleton tends a field. They are not hostile but they are deeply wrong. Witnessing them costs 1 Sanity. Interacting with them may reveal information about their deaths.                                                                                                    |
-| 11  | Red Flowers Bloom         | A patch of vibrant red flowers grows where no flowers should grow. They are beautiful. They are also feeding on something in the soil. Touching them deals 1d4 psychic damage and shows the player a vision of the Dusk spreading across the province. A character with Qi Sense can feel the flowers drawing Qi from the earth.                                                                    |
-| 12  | Silence                   | All sound stops. Voices make no noise. Footsteps make no noise. Weapons clash in perfect silence. This lasts 1d6 rounds. During this time, creatures that hunt by sound are blind. Creatures that communicate by sound cannot coordinate. Techniques that require speech cannot be used.                                                                                                            |
-| 13  | The Map Lies              | Compasses spin. Maps show wrong geography. Landmarks move when not observed. Characters attempting to navigate must succeed on Intellect TN 16 or become lost. Being lost in a Dusk zone attracts unwanted attention. The Host should roll on this table again every hour the party remains lost.                                                                                                   |
-| 14  | False Dawn                | The sky brightens as though dawn is breaking. It is not dawn. It is the Dusk's imitation of light. During this false dawn, Dusk creatures gain +2 to all defenses. They are more confident. They hunt more aggressively. The false dawn lasts 2d4 hours.                                                                                                                                            |
-| 15  | A Door That Should Not Be | A door stands alone in an empty space. A field. A hallway. A mountainside. It is made of wood tinged red or stone the color of bone. It is locked. Attempting to open it requires a key the players do not have. If they force it open, something on the other side takes notice. The Host should decide what waits behind and whether it is better or worse than what the players expect.          |
-| 16  | The Stars Are Wrong       | The night sky rearranges itself. Constellations the players recognize are gone. New constellations have formed, depicting events that have not happened yet. A character with astronomical knowledge can attempt Intellect TN 20 to read the new constellations. Success reveals a glimpse of a future Dusk event. Failure reveals nothing except the certainty that the sky is no longer friendly. |
-| 17  | Animals Know              | Every animal in the area has gone silent or fled. Birds do not sing. Dogs do not bark. Horses refuse to move forward. Insects have burrowed underground. The absence of animal life is a warning. The Host should describe the unnatural stillness before anything hostile appears.                                                                                                                 |
-| 18  | Refractions               | Water in the area reflects things that are not there. A puddle shows a different sky. A river shows people walking on the banks who are not present. Drinking the water causes 1d4 psychic damage and shows the drinker a vision of the Dusk's birth. The vision is different for each person who drinks.                                                                                           |
-| 19  | The Weeping Stone         | A stone or structure in the area weeps red fluid. It is not blood but it looks like blood and smells like iron. The weeping stone marks a place where the Dusk first entered this area. Qi around the stone is unstable. Qi Techniques cost 1 additional Qi to use within 2 Zones of the stone.                                                                                                     |
-| 20  | Convergence               | Multiple phenomena occur at once. Roll twice more on this table and apply both. The Dusk is strong here. Something important is nearby. An Effigy. A Manifestation. A source of corruption that the players must find and address.                                                                                                                                                                  |
+<table>
+<thead>
+<tr>
+<th>d20</th>
+<th>Phenomenon</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>The Sky Weeps</td>
+<td>Red rain falls in the area. It tastes of copper and salt. Characters exposed for more than one hour must make Endurance TN 12 or have Disadvantage on Endurance checks until completing a short rest. The rain is not water. It is something else.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Time Loop</td>
+<td>A moment repeats. A bird falls from the sky three times. A conversation plays twice. The players may notice the loop or they may not. If they attempt to change the loop's outcome, the universe resists. Resolve TN 16 to act differently.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Shadows Detach</td>
+<td>The shadows of living things separate and move independently. They do not attack but they watch. They point. They mimic gestures one second behind the original. Resolve TN 14 or gain 1 Sanity loss from the uncanny wrongness.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Voices from Nowhere</td>
+<td>The air fills with whispers. They speak in languages the players know and languages they do not. Among the whispers, each player hears their own name spoken by a voice they recognize. Finding the source requires Intellect TN 18. The source is never there.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Gravity Reverses</td>
+<td>For one hour, up becomes down. Characters must make Swiftness TN 14 to avoid falling upward. Ranged attacks are impossible. Melee attacks are made at Disadvantage. Moving requires climbing across the underside of surfaces.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Memory Bleed</td>
+<td>Strong emotions left in the area become perceptible. Players experience flashes of what happened here. A battle. A death. A betrayal. A wedding. The Host should prepare one specific memory tied to the location. All present must make Resolve TN 14 or be overwhelmed for one round.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>The Color Drains</td>
+<td>All color drains from the world except red. Everything is grey, black, white, or crimson. This lasts for 1d4 hours. Checks based on Vigilance suffer Disadvantage during this time as depth perception and distance become unreliable.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Doors Lead Elsewhere</td>
+<td>Every door or archway in the area opens onto a place it should not. A cellar door opens onto a rooftop. A city gate opens onto a forest. A wardrobe opens onto a version of the room corrupted by Dusk. Intellect TN 16 to recognize a door is wrong before stepping through.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>The Earth Breathes</td>
+<td>The ground rises and falls as though the earth itself is breathing. Movement costs double. Ranged attacks have Disadvantage. Characters standing still feel a rhythmic vibration through their bones. Resolve TN 12 to sleep in this area.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Echoes of the Dead</td>
+<td>The dead do not stay buried here. Bodies rise and perform fragments of their daily routines. A corpse sweeps a floor. A skeleton tends a field. They are not hostile but they are deeply wrong. Witnessing them costs 1 Sanity. Interacting with them may reveal information about their deaths.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Red Flowers Bloom</td>
+<td>A patch of vibrant red flowers grows where no flowers should grow. They are beautiful. They are also feeding on something in the soil. Touching them deals 1d4 psychic damage and shows the player a vision of the Dusk spreading across the province. A character with Qi Sense can feel the flowers drawing Qi from the earth.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Silence</td>
+<td>All sound stops. Voices make no noise. Footsteps make no noise. Weapons clash in perfect silence. This lasts 1d6 rounds. During this time, creatures that hunt by sound are blind. Creatures that communicate by sound cannot coordinate. Techniques that require speech cannot be used.</td>
+</tr>
+<tr>
+<td>13</td>
+<td>The Map Lies</td>
+<td>Compasses spin. Maps show wrong geography. Landmarks move when not observed. Characters attempting to navigate must succeed on Intellect TN 16 or become lost. Being lost in a Dusk zone attracts unwanted attention. The Host should roll on this table again every hour the party remains lost.</td>
+</tr>
+<tr>
+<td>14</td>
+<td>False Dawn</td>
+<td>The sky brightens as though dawn is breaking. It is not dawn. It is the Dusk's imitation of light. During this false dawn, Dusk creatures gain +2 to all defenses. They are more confident. They hunt more aggressively. The false dawn lasts 2d4 hours.</td>
+</tr>
+<tr>
+<td>15</td>
+<td>A Door That Should Not Be</td>
+<td>A door stands alone in an empty space. A field. A hallway. A mountainside. It is made of wood tinged red or stone the color of bone. It is locked. Attempting to open it requires a key the players do not have. If they force it open, something on the other side takes notice. The Host should decide what waits behind and whether it is better or worse than what the players expect.</td>
+</tr>
+<tr>
+<td>16</td>
+<td>The Stars Are Wrong</td>
+<td>The night sky rearranges itself. Constellations the players recognize are gone. New constellations have formed, depicting events that have not happened yet. A character with astronomical knowledge can attempt Intellect TN 20 to read the new constellations. Success reveals a glimpse of a future Dusk event. Failure reveals nothing except the certainty that the sky is no longer friendly.</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Animals Know</td>
+<td>Every animal in the area has gone silent or fled. Birds do not sing. Dogs do not bark. Horses refuse to move forward. Insects have burrowed underground. The absence of animal life is a warning. The Host should describe the unnatural stillness before anything hostile appears.</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Refractions</td>
+<td>Water in the area reflects things that are not there. A puddle shows a different sky. A river shows people walking on the banks who are not present. Drinking the water causes 1d4 psychic damage and shows the drinker a vision of the Dusk's birth. The vision is different for each person who drinks.</td>
+</tr>
+<tr>
+<td>19</td>
+<td>The Weeping Stone</td>
+<td>A stone or structure in the area weeps red fluid. It is not blood but it looks like blood and smells like iron. The weeping stone marks a place where the Dusk first entered this area. Qi around the stone is unstable. Qi Techniques cost 1 additional Qi to use within 2 Zones of the stone.</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Convergence</td>
+<td>Multiple phenomena occur at once. Roll twice more on this table and apply both. The Dusk is strong here. Something important is nearby. An Effigy. A Manifestation. A source of corruption that the players must find and address.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 

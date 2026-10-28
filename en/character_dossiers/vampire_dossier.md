@@ -159,14 +159,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 10    | +0       |
-| Swiftness | 12    | +1       |
-| Endurance | 12    | +1       |
-| Intellect | 16    | +3       |
-| Presence  | 20    | +5       |
-| Resolve   | 12    | +1       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>20</td>
+<td>+5</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+</tbody>
+</table>
 
 **Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
@@ -174,14 +207,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 4 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 6 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier + 1      | Calculate |
-| Defense           | 10 + Swiftness Modifier     | Calculate |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 4</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 6</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier + 1</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -234,14 +300,47 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                                                                                                                         |
-| ---------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | +15              | You built the structure they preserve.                                                                                                                        |
-| Verdant Path     | -15              | Reform would diminish your family's power.                                                                                                                    |
-| Iron Calculation | 0                | Efficiency is useful. You appreciate useful things.                                                                                                           |
-| Crimson Lineage  | +30              | You are the Lineage.                                                                                                                                          |
-| Common Flame     | -20              | You are everything they want to burn.                                                                                                                         |
-| Bright Mirror    | -10              | The Commission has investigated your Lineage for centuries. The current Bright Mirror has pursued you for thirteen years and still lacks a case he can prove. |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>+15</td>
+<td>You built the structure they preserve.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>−15</td>
+<td>Reform would diminish your family's power.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>0</td>
+<td>Efficiency is useful. You appreciate useful things.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>+30</td>
+<td>You are the Lineage.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>−20</td>
+<td>You are everything they want to burn.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>−10</td>
+<td>The Commission has investigated your Lineage for centuries. The current Bright Mirror has pursued you for thirteen years and still lacks a case he can prove.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 

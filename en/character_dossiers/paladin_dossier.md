@@ -188,14 +188,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 12    | +1       |
-| Swiftness | 10    | +0       |
-| Endurance | 14    | +2       |
-| Intellect | 12    | +1       |
-| Presence  | 18    | +4       |
-| Resolve   | 16    | +3       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+</tbody>
+</table>
 
 **Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
@@ -203,14 +236,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Derived Values
 
-| Value             | Calculation                         | Base      |
-| ----------------- | ----------------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 5         | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 4         | Calculate |
-| Sanity            | 20 + Resolve Modifier               | Calculate |
-| Initiative        | Swiftness Modifier                  | Calculate |
-| Defense           | 10 + Swiftness Modifier + 1 (armor) | Calculate |
-| Proficiency Bonus | Level 1                             | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 5</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 4</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier + 1 (armor)</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -263,14 +329,47 @@ You are immune to bribery, supernatural charm effects, and fear imposed by Qi. T
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                       |
-| ---------------- | ---------------- | ------------------------------------------- |
-| Golden Orthodoxy | +10              | You uphold the order they built.            |
-| Verdant Path     | -5               | They fear your investigations. They should. |
-| Iron Calculation | +5               | Efficiency and purity are compatible goals. |
-| Crimson Lineage  | -10              | You know what old families hide.            |
-| Common Flame     | -10              | You are the system they want to burn.       |
-| Bright Mirror    | +25              | You are the Commission's brightest flame.   |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>+10</td>
+<td>You uphold the order they built.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>−5</td>
+<td>They fear your investigations. They should.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>+5</td>
+<td>Efficiency and purity are compatible goals.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>−10</td>
+<td>You know what old families hide.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>−10</td>
+<td>You are the system they want to burn.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>+25</td>
+<td>You are the Commission's brightest flame.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 

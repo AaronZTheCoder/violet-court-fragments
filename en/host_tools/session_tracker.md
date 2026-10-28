@@ -4,67 +4,339 @@
 
 ## Dusk Phase
 
-| Phase           | Current? | Notes |
-| --------------- | -------- | ----- |
-| 0: Distant      | [ ]      |       |
-| 1: Approaching  | [ ]      |       |
-| 2: Pressing     | [ ]      |       |
-| 3: Imminent     | [ ]      |       |
-| 4: Consummation | [ ]      |       |
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Current?</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0: Distant</td>
+<td>[ ]</td>
+<td></td>
+</tr>
+<tr>
+<td>1: Approaching</td>
+<td>[ ]</td>
+<td></td>
+</tr>
+<tr>
+<td>2: Pressing</td>
+<td>[ ]</td>
+<td></td>
+</tr>
+<tr>
+<td>3: Imminent</td>
+<td>[ ]</td>
+<td></td>
+</tr>
+<tr>
+<td>4: Consummation</td>
+<td>[ ]</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Days Elapsed:** ____ **Next Harmonization Audit Day:** ____ **Provinces Fallen:** ____
 
 **Linked campaign:** Day 0 = Hinge Gate 21. Optional Audit = Day 7. Key turns = Day 30. Consecration = Day 32.
 
-| Continuing record                      | Current state | Effective order or receipt | Who can act next? |
-| -------------------------------------- | ------------- | -------------------------- | ----------------- |
-| Relief distribution                    |               |                            |                   |
-| Confirmed, missing, and disputed names |               |                            |                   |
-| Temple consent and admission rider     |               |                            |                   |
+<table>
+<thead>
+<tr>
+<th>Continuing record</th>
+<th>Current state</th>
+<th>Effective order or receipt</th>
+<th>Who can act next?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Relief distribution</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Confirmed, missing, and disputed names</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Temple consent and admission rider</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 Record each character's primary career, secondary trade, specialization or open Skill slot, and player chosen bond alongside the sheet.
 
 ## Player Characters
 
-| Player | Character | Archetype | HP  | Qi  | Sanity | Ritual Harmony | Celestial Favor | Conditions |
-| ------ | --------- | --------- | --- | --- | ------ | -------------- | --------------- | ---------- |
-|        |           |           | /   | /   | /      |                |                 |            |
-|        |           |           | /   | /   | /      |                |                 |            |
-|        |           |           | /   | /   | /      |                |                 |            |
-|        |           |           | /   | /   | /      |                |                 |            |
-|        |           |           | /   | /   | /      |                |                 |            |
-|        |           |           | /   | /   | /      |                |                 |            |
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Character</th>
+<th>Archetype</th>
+<th>HP</th>
+<th>Qi</th>
+<th>Sanity</th>
+<th>Ritual Harmony</th>
+<th>Celestial Favor</th>
+<th>Conditions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>/</td>
+<td>/</td>
+<td>/</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>/</td>
+<td>/</td>
+<td>/</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>/</td>
+<td>/</td>
+<td>/</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>/</td>
+<td>/</td>
+<td>/</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>/</td>
+<td>/</td>
+<td>/</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>/</td>
+<td>/</td>
+<td>/</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## Faction Standing Tracker
 
-| School           | Faction Standing | Tier | Notes |
-| ---------------- | ---------------- | ---- | ----- |
-| Golden Orthodoxy |                  |      |       |
-| Verdant Path     |                  |      |       |
-| Iron Calculation |                  |      |       |
-| Crimson Lineage  |                  |      |       |
-| Common Flame     |                  |      |       |
-| Bright Mirror    |                  |      |       |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Tier</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Faction Standing Tiers:** Revered (80+), Trusted (50+), Favored (20+), Neutral (0), Suspect (minus 20), Hostile (minus 50), Sworn Enemy (minus 80 or below)
 
 ## Character Bonds
 
-| Figure                | Bond | Devotion | Alive?  | Last Visited | Notes |
-| --------------------- | ---- | -------- | ------- | ------------ | ----- |
-| Cinnabar Heart        |      |          | [Y] [N] |              |       |
-| Night Warbler         |      |          | [Y] [N] |              |       |
-| Guest Among Forests   |      |          | [Y] [N] |              |       |
-| Iron Calculation      |      |          | [Y] [N] |              |       |
-| Iron Wall             |      |          | [Y] [N] |              |       |
-| Bright Mirror         |      |          | [Y] [N] |              |       |
-| Shadow                |      |          | [Y] [N] |              |       |
-| Duke of Eternal Night |      |          | [Y] [N] |              |       |
-| Iron Bone             |      |          | [Y] [N] |              |       |
-| Celestial Book        |      |          | [Y] [N] |              |       |
-| Bone Script           |      |          | [Y] [N] |              |       |
-| Incense Crown         |      |          | [Y] [N] |              |       |
-| Stray Stroke          |      |          | [Y] [N] |              |       |
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Bond</th>
+<th>Devotion</th>
+<th>Alive?</th>
+<th>Last Visited</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cinnabar Heart</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Night Warbler</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Guest Among Forests</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Iron Wall</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Shadow</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Duke of Eternal Night</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Iron Bone</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Celestial Book</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bone Script</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Incense Crown</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Stray Stroke</td>
+<td></td>
+<td></td>
+<td>[Y] [N]</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 Stray Stroke is not one of the Twelve. He is listed here because a bond with him is tracked the same way, and because the moment a table starts tracking him is the moment he stops being uncounted.
 
@@ -76,52 +348,196 @@ Check off each secret as the players uncover it.
 
 **The Twelve Figures:**
 
-| Figure                | Secret | Revealed? |
-| --------------------- | ------ | --------- |
-| Cinnabar Heart        |        | [ ]       |
-| Night Warbler         |        | [ ]       |
-| Guest Among Forests   |        | [ ]       |
-| Iron Calculation      |        | [ ]       |
-| Iron Wall             |        | [ ]       |
-| Bright Mirror         |        | [ ]       |
-| Shadow                |        | [ ]       |
-| Duke of Eternal Night |        | [ ]       |
-| Iron Bone             |        | [ ]       |
-| Celestial Book        |        | [ ]       |
-| Bone Script           |        | [ ]       |
-| Incense Crown         |        | [ ]       |
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Secret</th>
+<th>Revealed?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cinnabar Heart</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Night Warbler</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Guest Among Forests</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Iron Wall</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Shadow</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Duke of Eternal Night</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Iron Bone</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Celestial Book</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Bone Script</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Incense Crown</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+</tbody>
+</table>
 
 **The Uncounted:**
 
-| Figure       | Secret | Revealed? |
-| ------------ | ------ | --------- |
-| Stray Stroke |        | [ ]       |
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Secret</th>
+<th>Revealed?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stray Stroke</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+</tbody>
+</table>
 
 **Campaign Mysteries:**
 
-| Mystery                                        | Notes | Revealed? |
-| ---------------------------------------------- | ----- | --------- |
-| The Dusk's True Origin                         |       | [ ]       |
-| Who First Opened the Door                      |       | [ ]       |
-| The Empire's Hidden History                    |       | [ ]       |
-| What the Harmonization Audits Actually Measure |       | [ ]       |
-| The Fate of the Previous Campaign              |       | [ ]       |
-| The Nature of Qi                               |       | [ ]       |
-| The Truth Behind a Figure's Mask               |       | [ ]       |
-| What Lies Beyond the Border                    |       | [ ]       |
+<table>
+<thead>
+<tr>
+<th>Mystery</th>
+<th>Notes</th>
+<th>Revealed?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The Dusk's True Origin</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>Who First Opened the Door</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>The Empire's Hidden History</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>What the Harmonization Audits Actually Measure</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>The Fate of the Previous Campaign</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>The Nature of Qi</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>The Truth Behind a Figure's Mask</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>What Lies Beyond the Border</td>
+<td></td>
+<td>[ ]</td>
+</tr>
+</tbody>
+</table>
 
 ## Faction Moves
 
 Track what each school did this session. Note their visible actions and the hidden agendas behind them.
 
-| School           | Actions This Session | Hidden Agenda (Host Only) |
-| ---------------- | -------------------- | ------------------------- |
-| Golden Orthodoxy |                      |                           |
-| Verdant Path     |                      |                           |
-| Iron Calculation |                      |                           |
-| Crimson Lineage  |                      |                           |
-| Common Flame     |                      |                           |
-| Bright Mirror    |                      |                           |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Actions This Session</th>
+<th>Hidden Agenda (Host Only)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Faction Reactions:** How did each school respond to the players' actions?
 
@@ -135,69 +551,225 @@ Track each player character's personal journey, goals, and unresolved threads.
 
 **Character:** ____________________ **Player:** ____________________
 
-| Aspect                                               | Notes |
-| ---------------------------------------------------- | ----- |
-| Current Goal                                         |       |
-| Personal Conflict                                    |       |
-| Arc Stage (Beginning / Middle / Climax / Resolution) |       |
-| Key Choices Made                                     |       |
-| Unresolved Threads                                   |       |
-| Relationship Changes This Session                    |       |
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Current Goal</td>
+<td></td>
+</tr>
+<tr>
+<td>Personal Conflict</td>
+<td></td>
+</tr>
+<tr>
+<td>Arc Stage (Beginning / Middle / Climax / Resolution)</td>
+<td></td>
+</tr>
+<tr>
+<td>Key Choices Made</td>
+<td></td>
+</tr>
+<tr>
+<td>Unresolved Threads</td>
+<td></td>
+</tr>
+<tr>
+<td>Relationship Changes This Session</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Character:** ____________________ **Player:** ____________________
 
-| Aspect                            | Notes |
-| --------------------------------- | ----- |
-| Current Goal                      |       |
-| Personal Conflict                 |       |
-| Arc Stage                         |       |
-| Key Choices Made                  |       |
-| Unresolved Threads                |       |
-| Relationship Changes This Session |       |
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Current Goal</td>
+<td></td>
+</tr>
+<tr>
+<td>Personal Conflict</td>
+<td></td>
+</tr>
+<tr>
+<td>Arc Stage</td>
+<td></td>
+</tr>
+<tr>
+<td>Key Choices Made</td>
+<td></td>
+</tr>
+<tr>
+<td>Unresolved Threads</td>
+<td></td>
+</tr>
+<tr>
+<td>Relationship Changes This Session</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Character:** ____________________ **Player:** ____________________
 
-| Aspect                            | Notes |
-| --------------------------------- | ----- |
-| Current Goal                      |       |
-| Personal Conflict                 |       |
-| Arc Stage                         |       |
-| Key Choices Made                  |       |
-| Unresolved Threads                |       |
-| Relationship Changes This Session |       |
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Current Goal</td>
+<td></td>
+</tr>
+<tr>
+<td>Personal Conflict</td>
+<td></td>
+</tr>
+<tr>
+<td>Arc Stage</td>
+<td></td>
+</tr>
+<tr>
+<td>Key Choices Made</td>
+<td></td>
+</tr>
+<tr>
+<td>Unresolved Threads</td>
+<td></td>
+</tr>
+<tr>
+<td>Relationship Changes This Session</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Character:** ____________________ **Player:** ____________________
 
-| Aspect                            | Notes |
-| --------------------------------- | ----- |
-| Current Goal                      |       |
-| Personal Conflict                 |       |
-| Arc Stage                         |       |
-| Key Choices Made                  |       |
-| Unresolved Threads                |       |
-| Relationship Changes This Session |       |
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Current Goal</td>
+<td></td>
+</tr>
+<tr>
+<td>Personal Conflict</td>
+<td></td>
+</tr>
+<tr>
+<td>Arc Stage</td>
+<td></td>
+</tr>
+<tr>
+<td>Key Choices Made</td>
+<td></td>
+</tr>
+<tr>
+<td>Unresolved Threads</td>
+<td></td>
+</tr>
+<tr>
+<td>Relationship Changes This Session</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Character:** ____________________ **Player:** ____________________
 
-| Aspect                            | Notes |
-| --------------------------------- | ----- |
-| Current Goal                      |       |
-| Personal Conflict                 |       |
-| Arc Stage                         |       |
-| Key Choices Made                  |       |
-| Unresolved Threads                |       |
-| Relationship Changes This Session |       |
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Current Goal</td>
+<td></td>
+</tr>
+<tr>
+<td>Personal Conflict</td>
+<td></td>
+</tr>
+<tr>
+<td>Arc Stage</td>
+<td></td>
+</tr>
+<tr>
+<td>Key Choices Made</td>
+<td></td>
+</tr>
+<tr>
+<td>Unresolved Threads</td>
+<td></td>
+</tr>
+<tr>
+<td>Relationship Changes This Session</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Character:** ____________________ **Player:** ____________________
 
-| Aspect                            | Notes |
-| --------------------------------- | ----- |
-| Current Goal                      |       |
-| Personal Conflict                 |       |
-| Arc Stage                         |       |
-| Key Choices Made                  |       |
-| Unresolved Threads                |       |
-| Relationship Changes This Session |       |
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Current Goal</td>
+<td></td>
+</tr>
+<tr>
+<td>Personal Conflict</td>
+<td></td>
+</tr>
+<tr>
+<td>Arc Stage</td>
+<td></td>
+</tr>
+<tr>
+<td>Key Choices Made</td>
+<td></td>
+</tr>
+<tr>
+<td>Unresolved Threads</td>
+<td></td>
+</tr>
+<tr>
+<td>Relationship Changes This Session</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## Campaign Clock
 
@@ -235,13 +807,48 @@ One optional invitation: ____________________
 
 Track what the players chose and what they rejected. These notes help the Host understand player priorities and prepare consequences.
 
-| Decision | What They Chose | What They Rejected | Consequences (noted for later) |
-| -------- | --------------- | ------------------ | ------------------------------ |
-|          |                 |                    |                                |
-|          |                 |                    |                                |
-|          |                 |                    |                                |
-|          |                 |                    |                                |
-|          |                 |                    |                                |
+<table>
+<thead>
+<tr>
+<th>Decision</th>
+<th>What They Chose</th>
+<th>What They Rejected</th>
+<th>Consequences (noted for later)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Key Question Answered This Session:**
 
@@ -263,27 +870,104 @@ Track what the players chose and what they rejected. These notes help the Host u
 
 Track which NPCs the players connected with, whether positively or negatively. These are the NPCs worth developing further.
 
-| NPC | School / Role | Why Players Connected | Relationship | Further Potential |
-| --- | ------------- | --------------------- | ------------ | ----------------- |
-|     |               |                       |              |                   |
-|     |               |                       |              |                   |
-|     |               |                       |              |                   |
-|     |               |                       |              |                   |
-|     |               |                       |              |                   |
-|     |               |                       |              |                   |
+<table>
+<thead>
+<tr>
+<th>NPC</th>
+<th>School / Role</th>
+<th>Why Players Connected</th>
+<th>Relationship</th>
+<th>Further Potential</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **NPCs the Players Hated (useful as antagonists):**
 
-| NPC | Reason for Hatred | Potential as Villain |
-| --- | ----------------- | -------------------- |
-|     |                   |                      |
-|     |                   |                      |
+<table>
+<thead>
+<tr>
+<th>NPC</th>
+<th>Reason for Hatred</th>
+<th>Potential as Villain</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **NPCs the Players Pitied (useful for tragic hooks):**
 
-| NPC | Reason for Pity | Potential for Redemption or Fall |
-| --- | --------------- | -------------------------------- |
-|     |                 |                                  |
+<table>
+<thead>
+<tr>
+<th>NPC</th>
+<th>Reason for Pity</th>
+<th>Potential for Redemption or Fall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## Session Notes
 
@@ -315,11 +999,36 @@ Track which NPCs the players connected with, whether positively or negatively. T
 
 ### NPCs Introduced This Session
 
-| Name | Role | School | Notes |
-| ---- | ---- | ------ | ----- |
-|      |      |        |       |
-|      |      |        |       |
-|      |      |        |       |
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Role</th>
+<th>School</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## Between Sessions
 

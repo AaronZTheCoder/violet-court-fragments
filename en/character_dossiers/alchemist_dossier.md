@@ -24,14 +24,47 @@ Cinnabar Heart directs the Bureau of Harmonious Narrative. He knows how to make 
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 8     | -1       |
-| Swiftness | 12    | +1       |
-| Endurance | 14    | +2       |
-| Intellect | 18    | +4       |
-| Presence  | 16    | +3       |
-| Resolve   | 14    | +2       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>8</td>
+<td>−1</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 **Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
@@ -39,14 +72,47 @@ Cinnabar Heart directs the Bureau of Harmonious Narrative. He knows how to make 
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 2 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 4 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier          | Calculate |
-| Defense           | 10 + Swiftness Modifier     | Calculate |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 4</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -107,14 +173,47 @@ When you invoke orthodox doctrine to support your position during a social encou
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                        |
-| ---------------- | ---------------- | ------------------------------------------------------------ |
-| Golden Orthodoxy | +20              | You are one of theirs. For now.                              |
-| Verdant Path     | -10              | Reformers distrust narrative shapers.                        |
-| Iron Calculation | +5               | They value accurate and orderly records.                     |
-| Crimson Lineage  | +10              | Old families respect institutional knowledge.                |
-| Common Flame     | -15              | They see you as a propagandist. They are not entirely wrong. |
-| Bright Mirror    | +5               | The Commission respects those who work with documents.       |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>+20</td>
+<td>You are one of theirs. For now.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>−10</td>
+<td>Reformers distrust narrative shapers.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>+5</td>
+<td>They value accurate and orderly records.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>+10</td>
+<td>Old families respect institutional knowledge.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>−15</td>
+<td>They see you as a propagandist. They are not entirely wrong.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>+5</td>
+<td>The Commission respects those who work with documents.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 

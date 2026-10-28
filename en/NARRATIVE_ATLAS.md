@@ -4,11 +4,11 @@
 
 For the Host. This atlas connects the existing setting, stories, and rules into one continuing chronicle. It is a reference, not an additional adventure. Use it with [Campaign Continuity](CAMPAIGN_CONTINUITY.md), the [Host's Codex](HOST_CODEX.md), the [setting book](GAME_DESIGN.md), and the [Core Rulebook](CORE_RULEBOOK.md).
 
-A node is a situation that can change through play. Its parent is a condition that makes it relevant. Its return is a person, resource, record, or obligation that can carry the result onward. The party may refuse, solve, revisit, or take an unlisted route. Record what happens without forcing the next node.
+A node is a situation that can change through play. Its parent is a condition that brings it into the story. A person, resource, record, or obligation can carry its result into another scene. The party may refuse, solve, revisit, or take an unlisted route. Record what happens without forcing the next node.
 
 ### The Central Question
 
-The empire survives through land, labor, food, transport, Qi, credit, shelter, law, and shared accounts. The same network can protect people and decide whose losses count. The Crimson Dusk damages places within that network. The founding and later sealing are documented injuries; the full cause and nature of the Dusk remain unresolved.
+The empire survives through land, labor, food, transport, Qi, credit, shelter, law, and shared accounts. The same network can protect people and decide whose losses count. The Crimson Dusk damages places within that network. Surviving records describe injuries from the founding and the later sealing. Whether those events caused the Dusk, and what the Dusk truly is, remain open questions.
 
 Who may be seen, receive help, and shape promises made in their name? A family seeking grain, a worker seeking safe wages, a survivor protecting a name, and an officiant considering consent can confront this question without sharing one secret or serving one cause.
 
@@ -16,17 +16,62 @@ Who may be seen, receive help, and shape promises made in their name? A family s
 
 The nine Domains are historical geographic regions. Provinces and prefectures are administrative units. A code can be withdrawn without the land or its people disappearing. Western Grasslands, Amber Coast, Eastern Valleys, and Salt Steppe develop four previously unnamed Domains from existing places and history.
 
-| Domain             | Communities and resources                              | Connection                                                                     |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Central Province   | Xiaoyuan, Silver Ford, Harmony Rest, records, credit   | An accepted claim can change a provincial allocation                           |
-| Eastern Foundries  | Ember Forge, Gearheart, crews, machinery, Qi equipment | A repair depends on wages and an authorized allocation                         |
-| Southern Granary   | Jade Terrace, Serenity Bend, rice, silk, freight       | A house and its carrier can answer for a relief shipment                       |
-| Western Bulwark    | Sky Pillar, Iron Gate, fortresses, escorts             | A convoy needs protection and a receiving arrangement                          |
-| Northern Expanse   | Greenroot, the Hollow, forests, reagents, watersheds   | A road survey requires the knowledge and consent of communities                |
-| Western Grasslands | Scorch Field, herders, livestock, smoked cheese        | Displaced families need recognition and transport                              |
-| Amber Coast        | Amber Shore, fishing settlements, salt, maritime ties  | A survivor's account can support a claim without exposing a sanctuary          |
-| Eastern Valleys    | Nine Willow Bend, river communities, local scripts     | Names, water, and compensation connect a petition to living claimants          |
-| Salt Steppe        | Herding stations, livestock, hides, inland routes      | The Iron Brush's youth links official history to people who remember the place |
+<table>
+<thead>
+<tr>
+<th>Domain</th>
+<th>Communities and resources</th>
+<th>Connection</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Central Province</td>
+<td>Xiaoyuan, Silver Ford, Harmony Rest, records, credit</td>
+<td>An accepted claim can change a provincial allocation</td>
+</tr>
+<tr>
+<td>Eastern Foundries</td>
+<td>Ember Forge, Gearheart, crews, machinery, Qi equipment</td>
+<td>A repair depends on wages and an authorized allocation</td>
+</tr>
+<tr>
+<td>Southern Granary</td>
+<td>Jade Terrace, Serenity Bend, rice, silk, freight</td>
+<td>A house and its carrier can answer for a relief shipment</td>
+</tr>
+<tr>
+<td>Western Bulwark</td>
+<td>Sky Pillar, Iron Gate, fortresses, escorts</td>
+<td>A convoy needs protection and a receiving arrangement</td>
+</tr>
+<tr>
+<td>Northern Expanse</td>
+<td>Greenroot, the Hollow, forests, reagents, watersheds</td>
+<td>A road survey requires the knowledge and consent of communities</td>
+</tr>
+<tr>
+<td>Western Grasslands</td>
+<td>Scorch Field, herders, livestock, smoked cheese</td>
+<td>Displaced families need recognition and transport</td>
+</tr>
+<tr>
+<td>Amber Coast</td>
+<td>Amber Shore, fishing settlements, salt, maritime ties</td>
+<td>A survivor's account can support a claim without exposing a sanctuary</td>
+</tr>
+<tr>
+<td>Eastern Valleys</td>
+<td>Nine Willow Bend, river communities, local scripts</td>
+<td>Names, water, and compensation connect a petition to living claimants</td>
+</tr>
+<tr>
+<td>Salt Steppe</td>
+<td>Herding stations, livestock, hides, inland routes</td>
+<td>The Iron Brush's youth links official history to people who remember the place</td>
+</tr>
+</tbody>
+</table>
 
 Scorch Field and Amber Shore are fallen border provinces. Weeping Valley and Gate's End are surviving border provinces. Gate's End names both a fortress city and its surrounding prefecture. Nine Willow Bend is an erased eastern prefecture. The records do not establish the Domain membership of Gate's End or Weeping Valley. Set boundaries with the table when needed.
 
@@ -58,33 +103,107 @@ Three established rail lines connect Xiaoyuan with the Eastern Foundries, Southe
 
 ### Historical Layers
 
-| Layer                  | Established                                                                                                                                                     | Open question                                               |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Before the empire      | The Temple, older communities, and the predecessor archive existed                                                                                              | Earlier institutions and spirits                            |
-| Founding               | Arrival in Year 1, Charter in Year 7, first recorded Harmonization in Year 23                                                                                   | The full meaning of founding evidence                       |
-| Withdrawal and sealing | Last public judgment in Year 287, withdrawal in 288, attempted breach in 296, final seal in 297                                                                 | The Emperor's intent, condition, and the seal's full effect |
-| Three Stewardships     | Ledger Hand 356 to 402, Accord 403 to 427, Iron Brush from 428                                                                                                  | Motives behind disputed decisions                           |
-| Dusk and displacement  | Scorch Field fell in 412, Amber Shore in 427, Nine Willow Bend was erased in 441                                                                                | Cause, recovery, and whether records can affect reality     |
-| Opening                | Gate's End landslide on Hinge Gate 17, Year 452; short report reaches Xiaoyuan by lantern relay on the eighteenth; docket reaches the party on the twenty first | Which people and claims the party will protect              |
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Established</th>
+<th>Open question</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Before the empire</td>
+<td>The Temple, older communities, and the predecessor archive existed</td>
+<td>Earlier institutions and spirits</td>
+</tr>
+<tr>
+<td>Founding</td>
+<td>Arrival in Year 1, Charter in Year 7, first recorded Harmonization in Year 23</td>
+<td>The full meaning of founding evidence</td>
+</tr>
+<tr>
+<td>Withdrawal and sealing</td>
+<td>Last public judgment in Year 287, withdrawal in 288, attempted breach in 296, final seal in 297</td>
+<td>The Emperor's intent, condition, and the seal's full effect</td>
+</tr>
+<tr>
+<td>Three Stewardships</td>
+<td>Ledger Hand 356 to 402, Accord 403 to 427, Iron Brush from 428</td>
+<td>Motives behind disputed decisions</td>
+</tr>
+<tr>
+<td>Dusk and displacement</td>
+<td>Scorch Field fell in 412, Amber Shore in 427, Nine Willow Bend was erased in 441</td>
+<td>Cause, recovery, and whether records can affect reality</td>
+</tr>
+<tr>
+<td>Opening</td>
+<td>Gate's End landslide on Hinge Gate 17, Year 452; short report reaches Xiaoyuan by lantern relay on the eighteenth; docket reaches the party on the twenty first</td>
+<td>Which people and claims the party will protect</td>
+</tr>
+</tbody>
+</table>
 
 Testimonies collected in Years 434 to 436 belong to the Iron Brush's administration. The Fifth Reconstruction is issued on Hinge Gate 20. The Hall address starts the Full Rite on Hinge Gate 22. The local Audit is on Hinge Threshold 3. The Key turns on the first day of the Hinge; consecration is scheduled on its third day. Campaign Continuity supplies elapsed days and alternatives.
 
 ### Parent Systems
 
-| System                        | Governs                                                    | Limit                                                             |
-| ----------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------- |
-| S1 Land and Dusk              | Local conditions, water, routes, exposure, material damage | A local remedy does not prove a universal cause                   |
-| S2 Food and work              | Grain, wages, crews, freight, repairs                      | An allocation needs transport and people                          |
-| S3 Record and identity        | Evidence, residence codes, claims, the Key                 | Filing changes administration; its power over reality is unproven |
-| S4 Institutions and law       | Offices, authority, the Audit, lawful procedure            | An official needs authority and a means of learning a fact        |
-| S5 Temple and consent         | Sanctuary, admissions, Full Rite, separate Continuance     | A civil rider is not an effect hidden in liturgy                  |
-| S6 Schools and credit         | Six worldviews, family credit, rivalry and cooperation     | Standing does not control every member of a School                |
-| S7 Memory and testimony       | Witnesses, documents, discrepancies, contested history     | A witness has limits; a record is not the whole event             |
-| S8 Player and rules authority | Careers, choices, costs, dice, progression                 | A career does not assign a named figure's identity                |
+<table>
+<thead>
+<tr>
+<th>System</th>
+<th>Governs</th>
+<th>Limit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S1 Land and Dusk</td>
+<td>Local conditions, water, routes, exposure, material damage</td>
+<td>A local remedy does not prove a universal cause</td>
+</tr>
+<tr>
+<td>S2 Food and work</td>
+<td>Grain, wages, crews, freight, repairs</td>
+<td>An allocation needs transport and people</td>
+</tr>
+<tr>
+<td>S3 Record and identity</td>
+<td>Evidence, residence codes, claims, the Key</td>
+<td>Filing changes administration; its power over reality is unproven</td>
+</tr>
+<tr>
+<td>S4 Institutions and law</td>
+<td>Offices, authority, the Audit, lawful procedure</td>
+<td>An official needs authority and a means of learning a fact</td>
+</tr>
+<tr>
+<td>S5 Temple and consent</td>
+<td>Sanctuary, admissions, Full Rite, separate Continuance</td>
+<td>A civil rider is not an effect hidden in liturgy</td>
+</tr>
+<tr>
+<td>S6 Schools and credit</td>
+<td>Six worldviews, family credit, rivalry and cooperation</td>
+<td>Standing does not control every member of a School</td>
+</tr>
+<tr>
+<td>S7 Memory and testimony</td>
+<td>Witnesses, documents, discrepancies, contested history</td>
+<td>A witness has limits; a record is not the whole event</td>
+</tr>
+<tr>
+<td>S8 Player and rules authority</td>
+<td>Careers, choices, costs, dice, progression</td>
+<td>A career does not assign a named figure's identity</td>
+</tr>
+</tbody>
+</table>
 
 ### Narrative Tree
 
-The arrows are possible connections, not a required order. Each node lists its parent systems, entry, choices, and result that can return.
+The arrows show possible connections, not a required order. Each node lists its parent systems, how play might reach it, the choices it offers, and a result that can carry forward.
 
 #### Opening
 
@@ -204,14 +323,47 @@ The Quiet Company and the Vermilion Trade are further institutional threads. The
 
 A School is a worldview and network, not a single decision maker. Members may disagree about methods and cooperate temporarily without surrendering their beliefs.
 
-| School           | Interest and internal tension                                                                                            | Means and connected nodes                                                                                                           |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | Preserve continuity; traditionalists and pragmatists disagree over adaptation                                            | Ritual authority and narrative offices affect A3, P1, and P2; a member may protect a witness while resisting a public revision      |
-| Verdant Path     | Repair relations with land and communities; its seated and suppressed branches differ                                    | Forest knowledge and local relationships affect W2, W5, N3, and N5; consent may matter more than a rapid official survey            |
-| Iron Calculation | Make allocations and infrastructure workable; technical and interventionist members differ over political responsibility | Planners, crews, and engineering records affect A2, W1, and W4; a repair can be shared while its labor terms are contested          |
-| Crimson Lineage  | Protect credit, inherited obligations, and family interests; houses do not share one plan                                | Freight, capital, and private records affect A2, W4, and P2; one house may fund relief while another resists disclosure             |
-| Common Flame     | Give workers and displaced people a voice; organizers disagree about speed, risk, and representation                     | Mutual aid and workplace networks affect W1, N2, and E3; a strike or negotiation requires the workers' own decisions                |
-| Bright Mirror    | Test authority against evidence; investigators differ over priorities and the use of discretion                          | Hearings, case files, and testimony affect A3, P3, and F6; an investigation can protect a witness without settling every allegation |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Interest and internal tension</th>
+<th>Means and connected nodes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>Preserve continuity; traditionalists and pragmatists disagree over adaptation</td>
+<td>Ritual authority and narrative offices affect A3, P1, and P2; a member may protect a witness while resisting a public revision</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>Repair relations with land and communities; its seated and suppressed branches differ</td>
+<td>Forest knowledge and local relationships affect W2, W5, N3, and N5; consent may matter more than a rapid official survey</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>Make allocations and infrastructure workable; technical and interventionist members differ over political responsibility</td>
+<td>Planners, crews, and engineering records affect A2, W1, and W4; a repair can be shared while its labor terms are contested</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>Protect credit, inherited obligations, and family interests; houses do not share one plan</td>
+<td>Freight, capital, and private records affect A2, W4, and P2; one house may fund relief while another resists disclosure</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>Give workers and displaced people a voice; organizers disagree about speed, risk, and representation</td>
+<td>Mutual aid and workplace networks affect W1, N2, and E3; a strike or negotiation requires the workers' own decisions</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>Test authority against evidence; investigators differ over priorities and the use of discretion</td>
+<td>Hearings, case files, and testimony affect A3, P3, and F6; an investigation can protect a witness without settling every allegation</td>
+</tr>
+</tbody>
+</table>
 
 ### Personal Branches
 
@@ -247,36 +399,152 @@ Each branch can begin through a relationship chosen at the table, an existing co
 
 The numbered nodes develop the opening, the three main directions, the thirteen named figures, and outcomes. Other existing scenes are indexed by their parent systems so a Host can bring them into the same chronicle without making them mandatory.
 
-| Source or thread family                                                   | Parent systems     | Entry and return                                                                                                              |
-| ------------------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Both First Harmonization presentations                                    | S2, S3, S4, S6, S8 | Choose one presentation of the same Audit; carry its witness and finding into A4 or A6                                        |
-| Reconstruction, Gloss, Key, Ledger of Fifteen, and water policy           | S1 to S4, S7       | Enter through a claim or repair; carry the exact record and affected person into W3, W4, or P1                                |
-| Seventh Niche, Twelve Nights, past testimony, and the Hall                | S3 to S7           | Enter through A5 or an existing witness; carry consent, a particular audience, and the actual rite into P2 or E2              |
-| Rise, Conspiracy, and Collapse frameworks in the Host's Codex             | S1 to S8           | Treat them as optional emphases on the same people and conditions; enter from a chosen goal and preserve established outcomes |
-| Hidden factions, secret societies, Academy, market, and Court scene seeds | S3, S4, S6, S7     | Introduce a group through a known person or current question; carry its actual agreement or opposition                        |
-| Regional legends, festivals, spirits, and Dusk encounters                 | S1, S2, S5, S7     | Enter through a place, route, or local person; distinguish a report, belief, encounter, and established fact                  |
-| Career kits, named portraits, advancement, and legacy                     | S4, S6, S8         | Use the player's chosen character and printed ability; carry only agreed history, resources, and earned effects               |
-| Random tables and optional outcomes                                       | S1 to S8           | Select a result only when it has a credible entry, source, and consequence; it cannot overwrite prior facts                   |
+<table>
+<thead>
+<tr>
+<th>Source or thread family</th>
+<th>Parent systems</th>
+<th>Entry and return</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Both First Harmonization presentations</td>
+<td>S2, S3, S4, S6, S8</td>
+<td>Choose one presentation of the same Audit; carry its witness and finding into A4 or A6</td>
+</tr>
+<tr>
+<td>Reconstruction, Gloss, Key, Ledger of Fifteen, and water policy</td>
+<td>S1 to S4, S7</td>
+<td>Enter through a claim or repair; carry the exact record and affected person into W3, W4, or P1</td>
+</tr>
+<tr>
+<td>Seventh Niche, Twelve Nights, past testimony, and the Hall</td>
+<td>S3 to S7</td>
+<td>Enter through A5 or an existing witness; carry consent, a particular audience, and the actual rite into P2 or E2</td>
+</tr>
+<tr>
+<td>Rise, Conspiracy, and Collapse frameworks in the Host's Codex</td>
+<td>S1 to S8</td>
+<td>Treat them as optional emphases on the same people and conditions; enter from a chosen goal and preserve established outcomes</td>
+</tr>
+<tr>
+<td>Hidden factions, secret societies, Academy, market, and Court scene seeds</td>
+<td>S3, S4, S6, S7</td>
+<td>Introduce a group through a known person or current question; carry its actual agreement or opposition</td>
+</tr>
+<tr>
+<td>Regional legends, festivals, spirits, and Dusk encounters</td>
+<td>S1, S2, S5, S7</td>
+<td>Enter through a place, route, or local person; distinguish a report, belief, encounter, and established fact</td>
+</tr>
+<tr>
+<td>Career kits, named portraits, advancement, and legacy</td>
+<td>S4, S6, S8</td>
+<td>Use the player's chosen character and printed ability; carry only agreed history, resources, and earned effects</td>
+</tr>
+<tr>
+<td>Random tables and optional outcomes</td>
+<td>S1 to S8</td>
+<td>Select a result only when it has a credible entry, source, and consequence; it cannot overwrite prior facts</td>
+</tr>
+</tbody>
+</table>
 
 ### People Who Carry the Story
 
 These are named figures and optional portraits. A player choosing the related career controls their own history and decisions.
 
-| Figure                | Concern                                     | Parent systems | Returning connection                  |
-| --------------------- | ------------------------------------------- | -------------- | ------------------------------------- |
-| Cinnabar Heart        | Official accounts and those they expose     | S3, S6, S7     | Rescue report or edict                |
-| Night Warbler         | Who ordered Council member Wei's killing    | S4, S7         | Witness escort or authorization       |
-| Guest Among Forests   | Land and the consequences of a road         | S1, S2, S7     | Survey and local consent              |
-| Iron Calculation      | Workable allocations and their costs        | S2, S4, S6     | Repair crew and reserve balance       |
-| Iron Wall             | Protecting people while honoring an oath    | S2, S4, S5     | Convoy and passage                    |
-| Bright Mirror         | Evidence and delayed cases                  | S3, S4, S7     | Allegation or incomplete indictment   |
-| Shadow                | Information and the safety of sources       | S3, S6, S7     | Copy, carrier, audience               |
-| Duke of Eternal Night | Inherited benefits and his part in the seal | S4, S6, S7     | Claim or witness to an older decision |
-| Iron Bone             | Workers' terms and organizing               | S2, S6, S8     | Wage or safety agreement              |
-| Celestial Book        | Provenance and missing records              | S3, S7         | Document and independent witness      |
-| Bone Script           | Names, uncertainty, survivor safety         | S3, S5, S7     | Partial roll and consent              |
-| Incense Crown         | Sanctuary, duty, and Temple consent         | S4, S5, S8     | Stay, admission, protected testimony  |
-| Stray Stroke          | Passage and overlapping registrations       | S3, S4, S7     | Permit and Copper Ladle               |
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Concern</th>
+<th>Parent systems</th>
+<th>Returning connection</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cinnabar Heart</td>
+<td>Official accounts and those they expose</td>
+<td>S3, S6, S7</td>
+<td>Rescue report or edict</td>
+</tr>
+<tr>
+<td>Night Warbler</td>
+<td>Who ordered Council member Wei's killing</td>
+<td>S4, S7</td>
+<td>Witness escort or authorization</td>
+</tr>
+<tr>
+<td>Guest Among Forests</td>
+<td>Land and the consequences of a road</td>
+<td>S1, S2, S7</td>
+<td>Survey and local consent</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>Workable allocations and their costs</td>
+<td>S2, S4, S6</td>
+<td>Repair crew and reserve balance</td>
+</tr>
+<tr>
+<td>Iron Wall</td>
+<td>Protecting people while honoring an oath</td>
+<td>S2, S4, S5</td>
+<td>Convoy and passage</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>Evidence and delayed cases</td>
+<td>S3, S4, S7</td>
+<td>Allegation or incomplete indictment</td>
+</tr>
+<tr>
+<td>Shadow</td>
+<td>Information and the safety of sources</td>
+<td>S3, S6, S7</td>
+<td>Copy, carrier, audience</td>
+</tr>
+<tr>
+<td>Duke of Eternal Night</td>
+<td>Inherited benefits and his part in the seal</td>
+<td>S4, S6, S7</td>
+<td>Claim or witness to an older decision</td>
+</tr>
+<tr>
+<td>Iron Bone</td>
+<td>Workers' terms and organizing</td>
+<td>S2, S6, S8</td>
+<td>Wage or safety agreement</td>
+</tr>
+<tr>
+<td>Celestial Book</td>
+<td>Provenance and missing records</td>
+<td>S3, S7</td>
+<td>Document and independent witness</td>
+</tr>
+<tr>
+<td>Bone Script</td>
+<td>Names, uncertainty, survivor safety</td>
+<td>S3, S5, S7</td>
+<td>Partial roll and consent</td>
+</tr>
+<tr>
+<td>Incense Crown</td>
+<td>Sanctuary, duty, and Temple consent</td>
+<td>S4, S5, S8</td>
+<td>Stay, admission, protected testimony</td>
+</tr>
+<tr>
+<td>Stray Stroke</td>
+<td>Passage and overlapping registrations</td>
+<td>S3, S4, S7</td>
+<td>Permit and Copper Ladle</td>
+</tr>
+</tbody>
+</table>
 
 ### Review Each Node
 

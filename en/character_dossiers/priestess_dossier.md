@@ -174,14 +174,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 8     | -1       |
-| Swiftness | 10    | +0       |
-| Endurance | 12    | +1       |
-| Intellect | 16    | +3       |
-| Presence  | 20    | +5       |
-| Resolve   | 16    | +3       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>8</td>
+<td>−1</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>20</td>
+<td>+5</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+</tbody>
+</table>
 
 **Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
@@ -189,14 +222,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 2 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 6 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier          | Calculate |
-| Defense           | 10 + Swiftness Modifier     | Calculate |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 6</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -252,14 +318,47 @@ Spend 6 Qi and perform the naming for a person living or newly dead. If living, 
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                                             |
-| ---------------- | ---------------- | --------------------------------------------------------------------------------- |
-| Golden Orthodoxy | +25              | Their entire doctrine requires you. They resent this and cannot show it.          |
-| Verdant Path     | +15              | They consider the Temple a natural ally and are not entirely wrong.               |
-| Iron Calculation | -5               | You are an unquantifiable dependency in an otherwise clean model. They hate that. |
-| Crimson Lineage  | +20              | You have performed the last rite for four of their elders. They remember.         |
-| Common Flame     | +10              | The camps know who kneels in the dirt. Word travels without you.                  |
-| Bright Mirror    | 0                | He holds the order to close you. He has not executed it in thirteen years.        |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>+25</td>
+<td>Their entire doctrine requires you. They resent this and cannot show it.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>+15</td>
+<td>They consider the Temple a natural ally and are not entirely wrong.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>−5</td>
+<td>You are an unquantifiable dependency in an otherwise clean model. They hate that.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>+20</td>
+<td>You have performed the last rite for four of their elders. They remember.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>+10</td>
+<td>The camps know who kneels in the dirt. Word travels without you.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>0</td>
+<td>He holds the order to close you. He has not executed it in thirteen years.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 

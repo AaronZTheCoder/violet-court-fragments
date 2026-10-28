@@ -132,15 +132,52 @@ These facts are sufficient to resolve the opening relief case. They are not the 
 
 ### The People to Keep in Play
 
-| Person                                         | What they want now                                                    | What they can actually do                                                                |
-| ---------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Reed Basket, temporary Border Harmony clerk    | Keep her sister's missing household on the roll                       | Supply the docket, a duplicate entry, and the name of the receiving office               |
-| Lin, junior archivist                          | Protect her uncle Chen without losing the evidence                    | Show the account index and introduce him if the party earns her trust                    |
-| Tao Chen, former Third Inspector of Works      | Survive long enough to make his evidence usable                       | Identify the diverted entries and attest to his copies                                   |
-| Senior Censor Wei, Golden Orthodoxy            | Close an embarrassing inquiry and obtain compliant testimony          | Offer protection, press a denunciation, or withdraw his support                          |
-| Commissioner Zhang, State Planning Commission  | Establish a defensible balance and release usable resources           | Authenticate the accounts and sign a provisional allocation within his authority         |
-| Justicar Meng, Commission for Celestial Purity | Produce a finding she can defend                                      | Hear evidence, record objections, and rule within the Audit procedure                    |
-| Incense Crown, Temple officiant                | Keep relief and sanctuary working without surrendering Temple consent | Negotiate a depot order, separate the accounts, and accept or refuse the admission terms |
+<table>
+<thead>
+<tr>
+<th>Person</th>
+<th>What they want now</th>
+<th>What they can actually do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reed Basket, temporary Border Harmony clerk</td>
+<td>Keep her sister's missing household on the roll</td>
+<td>Supply the docket, a duplicate entry, and the name of the receiving office</td>
+</tr>
+<tr>
+<td>Lin, junior archivist</td>
+<td>Protect her uncle Chen without losing the evidence</td>
+<td>Show the account index and introduce him if the party earns her trust</td>
+</tr>
+<tr>
+<td>Tao Chen, former Third Inspector of Works</td>
+<td>Survive long enough to make his evidence usable</td>
+<td>Identify the diverted entries and attest to his copies</td>
+</tr>
+<tr>
+<td>Senior Censor Wei, Golden Orthodoxy</td>
+<td>Close an embarrassing inquiry and obtain compliant testimony</td>
+<td>Offer protection, press a denunciation, or withdraw his support</td>
+</tr>
+<tr>
+<td>Commissioner Zhang, State Planning Commission</td>
+<td>Establish a defensible balance and release usable resources</td>
+<td>Authenticate the accounts and sign a provisional allocation within his authority</td>
+</tr>
+<tr>
+<td>Justicar Meng, Commission for Celestial Purity</td>
+<td>Produce a finding she can defend</td>
+<td>Hear evidence, record objections, and rule within the Audit procedure</td>
+</tr>
+<tr>
+<td>Incense Crown, Temple officiant</td>
+<td>Keep relief and sanctuary working without surrendering Temple consent</td>
+<td>Negotiate a depot order, separate the accounts, and accept or refuse the admission terms</td>
+</tr>
+</tbody>
+</table>
 
 Reed Basket and the porter at the depot are the human anchors. Bring them back when the party's work changes their situation. Introduce a major Court figure only when the players seek that person's authority or a chosen relationship makes the meeting relevant. Incense Crown need not appear before the party has something specific to ask her.
 
@@ -150,17 +187,62 @@ Wei speaks in obligations and consequences. Zhang asks what the figures permit h
 
 Elapsed days are counted from Hinge Gate 21, Year 452. Hinge Gate and Hinge Threshold each have twenty five days.
 
-| Elapsed day | Date                   | Scheduled event                                                              |
-| ----------- | ---------------------- | ---------------------------------------------------------------------------- |
-| Before play | Hinge Gate 11 to 16    | The Twelve Nights, twelve recitation parts transmitted over six evenings     |
-| Before play | Hinge Gate 17          | The landslide at Gate's End                                                  |
-| Before play | Hinge Gate 20          | The Fifth Reconstruction is issued                                           |
-| 0           | Hinge Gate 21          | The relief docket reaches the party                                          |
-| 1           | Hinge Gate 22          | The Hall address begins the Full Rite; the niche remains unconsecrated       |
-| 7           | Hinge Threshold 3      | The local Audit examines the accounts and associated accusations             |
-| 29          | Hinge Threshold 25     | Last ordinary business day before the Hinge                                  |
-| 30          | First day of the Hinge | The Key turns; the Sixth and the closing clause are scheduled to take effect |
-| 32          | Third day of the Hinge | Consecration is scheduled; resolve the terms actually agreed                 |
+<table>
+<thead>
+<tr>
+<th>Elapsed day</th>
+<th>Date</th>
+<th>Scheduled event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 11 to 16</td>
+<td>The Twelve Nights, twelve recitation parts transmitted over six evenings</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 17</td>
+<td>The landslide at Gate's End</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 20</td>
+<td>The Fifth Reconstruction is issued</td>
+</tr>
+<tr>
+<td>0</td>
+<td>Hinge Gate 21</td>
+<td>The relief docket reaches the party</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Hinge Gate 22</td>
+<td>The Hall address begins the Full Rite; the niche remains unconsecrated</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Hinge Threshold 3</td>
+<td>The local Audit examines the accounts and associated accusations</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Hinge Threshold 25</td>
+<td>Last ordinary business day before the Hinge</td>
+</tr>
+<tr>
+<td>30</td>
+<td>First day of the Hinge</td>
+<td>The Key turns; the Sixth and the closing clause are scheduled to take effect</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Third day of the Hinge</td>
+<td>Consecration is scheduled; resolve the terms actually agreed</td>
+</tr>
+</tbody>
+</table>
 
 Sessions are not days. An evening at the table may cover one conversation or several days of work. Tell the party the time and likely travel cost before it commits. The local Audit proceeds even if the party leaves, but physical attendance is not imposed on every traveler: it may submit evidence through a representative or accept the consequences of leaving an accusation unanswered.
 
@@ -228,11 +310,36 @@ Incense Crown receives the party when it brings a claim, receipt, or proposed or
 
 #### Three Pieces of Evidence
 
-| Fact to establish                                          | Direct source                         | Independent source                                               | What it permits                                         |
-| ---------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------- |
-| Relief and ceremony share an account                       | Routing slip                          | Depot intake ledger or Reed Basket's receipt                     | Request a separate relief account                       |
-| Completion ends provisional claims under the next register | Old and proposed distribution annexes | A rejected claim and an explanation from the distribution office | Seek a stay, clarification, or amended closing clause   |
-| The admission rider grants future authority                | Rider itself                          | An earlier Temple admission and an examiner's reading            | Strike the rider or limit consent to this one admission |
+<table>
+<thead>
+<tr>
+<th>Fact to establish</th>
+<th>Direct source</th>
+<th>Independent source</th>
+<th>What it permits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Relief and ceremony share an account</td>
+<td>Routing slip</td>
+<td>Depot intake ledger or Reed Basket's receipt</td>
+<td>Request a separate relief account</td>
+</tr>
+<tr>
+<td>Completion ends provisional claims under the next register</td>
+<td>Old and proposed distribution annexes</td>
+<td>A rejected claim and an explanation from the distribution office</td>
+<td>Seek a stay, clarification, or amended closing clause</td>
+</tr>
+<tr>
+<td>The admission rider grants future authority</td>
+<td>Rider itself</td>
+<td>An earlier Temple admission and an examiner's reading</td>
+<td>Strike the rider or limit consent to this one admission</td>
+</tr>
+</tbody>
+</table>
 
 Give the facts when the party reaches an appropriate source. Rolls determine cost, speed, and exposure. If the party examines the requisitions, their identical notation is a copied registry entry reused across years, not proof of an eighteen year master plot. A registry comparison establishes that chain without a new expedition.
 
@@ -240,12 +347,37 @@ The old annex reads, “Receive the names before thanksgiving.” The proposed t
 
 #### Work That Changes the Outcome
 
-| Intended result                            | Who can help                                            | Required work or cost                                                                                |
-| ------------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Release the current grain                  | Zhang or an official with an existing emergency mandate | Authenticate the available balance, or obtain a signed acceptance of the discrepancy                 |
-| Keep provisional claims open               | Border Harmony receiving office                         | Submit confirmed, missing, and disputed entries separately and obtain a receipt; seek a stay if late |
-| Separate relief from ceremonial completion | Receiving office and Temple depot                       | Obtain both offices' signatures so neither can declare the other responsible                         |
-| Remove the admission rider                 | Temple officiant and an authorized Court representative | Produce the earlier admission terms and secure witnessed agreement on the new wording                |
+<table>
+<thead>
+<tr>
+<th>Intended result</th>
+<th>Who can help</th>
+<th>Required work or cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Release the current grain</td>
+<td>Zhang or an official with an existing emergency mandate</td>
+<td>Authenticate the available balance, or obtain a signed acceptance of the discrepancy</td>
+</tr>
+<tr>
+<td>Keep provisional claims open</td>
+<td>Border Harmony receiving office</td>
+<td>Submit confirmed, missing, and disputed entries separately and obtain a receipt; seek a stay if late</td>
+</tr>
+<tr>
+<td>Separate relief from ceremonial completion</td>
+<td>Receiving office and Temple depot</td>
+<td>Obtain both offices' signatures so neither can declare the other responsible</td>
+</tr>
+<tr>
+<td>Remove the admission rider</td>
+<td>Temple officiant and an authorized Court representative</td>
+<td>Produce the earlier admission terms and secure witnessed agreement on the new wording</td>
+</tr>
+</tbody>
+</table>
 
 Do not reduce every task to a persuasion roll. Documents, reciprocal commitments, ordinary work, and player proposals can settle an issue. An unwilling official may demand public responsibility, an independent witness, or a concession stated in advance. A favor must have a named beneficiary and a clear limit; it must not open an unrelated compulsory quest.
 
@@ -277,11 +409,32 @@ Answer from the record the party made. Let it produce a receipt, bring a witness
 
 #### Resolve the Opening Arc
 
-| Record         | If secured                                                                                 | If left unresolved                                                                                          |
-| -------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| Relief         | Show the covered households receiving supplies, and name who must authorize the next issue | Show what is available and who can still seek release; losses follow established shortages and time         |
-| The roll       | Confirm who is found, still missing, or disputed; name the office that retains the claim   | Explain the reopening process and who has kept evidence, without inventing a new secret to erase the result |
-| Temple consent | State exactly what was granted or withheld, and who witnessed it                           | State which part of the rite or rider remains contested and what each party actually does                   |
+<table>
+<thead>
+<tr>
+<th>Record</th>
+<th>If secured</th>
+<th>If left unresolved</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Relief</td>
+<td>Show the covered households receiving supplies, and name who must authorize the next issue</td>
+<td>Show what is available and who can still seek release; losses follow established shortages and time</td>
+</tr>
+<tr>
+<td>The roll</td>
+<td>Confirm who is found, still missing, or disputed; name the office that retains the claim</td>
+<td>Explain the reopening process and who has kept evidence, without inventing a new secret to erase the result</td>
+</tr>
+<tr>
+<td>Temple consent</td>
+<td>State exactly what was granted or withheld, and who witnessed it</td>
+<td>State which part of the rite or rider remains contested and what each party actually does</td>
+</tr>
+</tbody>
+</table>
 
 End with Reed Basket or the porter, changed by the outcome. A family may have food while still lacking news; a name may remain on the roll even after a death is confirmed. Let the player chosen relationships have their own last scene. Do not end by revealing a larger villain or requiring the next book to make this victory count.
 
@@ -315,13 +468,36 @@ This is proposed civil wording. Crossing it out or replacing it requires the par
 
 **The allegations Wei wants signed**
 
-| Accused             | Allegation in the draft                          |
-| ------------------- | ------------------------------------------------ |
-| Second Archivist Yu | Advocating wider access to Qi cultivation        |
-| Scribe Min          | Meeting members of Verdant Path                  |
-| Clerk Fen           | Questioning the annual Purification Tithe        |
-| Recorder Jia        | Failing to report colleagues' alleged heterodoxy |
-| Archivist Chen      | Possessing texts by prohibited authors           |
+<table>
+<thead>
+<tr>
+<th>Accused</th>
+<th>Allegation in the draft</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Second Archivist Yu</td>
+<td>Advocating wider access to Qi cultivation</td>
+</tr>
+<tr>
+<td>Scribe Min</td>
+<td>Meeting members of Verdant Path</td>
+</tr>
+<tr>
+<td>Clerk Fen</td>
+<td>Questioning the annual Purification Tithe</td>
+</tr>
+<tr>
+<td>Recorder Jia</td>
+<td>Failing to report colleagues' alleged heterodoxy</td>
+</tr>
+<tr>
+<td>Archivist Chen</td>
+<td>Possessing texts by prohibited authors</td>
+</tr>
+</tbody>
+</table>
 
 The draft supplies no dates, witnesses, or supporting records. Wei wants the signatories to certify all five allegations as personal knowledge. Give the players the wording and let them decide what, if anything, they can attest. A signature initiates a case; the finding depends on evidence and the actual proceeding.
 
@@ -329,10 +505,36 @@ The draft supplies no dates, witnesses, or supporting records. Wei wants the sig
 
 Only use combat when someone's established action brings it about. State routes out and what each side wants before initiative.
 
-| Opponent        | HP  | Defense | Attack | Damage  | Purpose                                           |
-| --------------- | --- | ------- | ------ | ------- | ------------------------------------------------- |
-| Garrison guard  | 12  | 13      | +4     | 1d6     | Hold a doorway or escort a detained person        |
-| Hired assailant | 10  | 12      | +4     | 1d6 + 1 | Recover evidence and escape before identification |
+<table>
+<thead>
+<tr>
+<th>Opponent</th>
+<th>HP</th>
+<th>Defense</th>
+<th>Attack</th>
+<th>Damage</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Garrison guard</td>
+<td>12</td>
+<td>13</td>
+<td>+4</td>
+<td>1d6</td>
+<td>Hold a doorway or escort a detained person</td>
+</tr>
+<tr>
+<td>Hired assailant</td>
+<td>10</td>
+<td>12</td>
+<td>+4</td>
+<td>1d6 + 1</td>
+<td>Recover evidence and escape before identification</td>
+</tr>
+</tbody>
+</table>
 
 Use one opponent per two player characters for a brief confrontation, rounding up. Increase danger only when the situation warrants it and the table can see it. A watch officer can call witnesses instead of reinforcements. An assailant may flee once identified. Neither encounter is a required battle.
 
@@ -481,14 +683,47 @@ Use these details to ground the Court in sensory reality:
 
 When portraying figures aligned with each school, return to their core belief:
 
-| School           | Core Belief                                  | How They Address You                                                                                 |
-| ---------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | "Preserve what the Founders built."          | Formally, using full titles. They are always evaluating your orthodoxy.                              |
-| Verdant Path     | "The world changes. We must change with it." | Warmly, but with an edge of exhaustion. They have survived Harmonization Audits. They know the cost. |
-| Iron Calculation | "Everything can be measured and improved."   | Efficiently. They value your time as much as theirs. They have no patience for ceremony.             |
-| Crimson Lineage  | "Blood remembers what doctrine forgets."     | With ancient courtesy. They are patient. They have been playing this game for centuries.             |
-| Common Flame     | "Power should serve the powerless."          | Directly, sometimes aggressively. They are testing whether you are real or just another courtier.    |
-| Bright Mirror    | "Purity is not negotiable."                  | With unnerving intensity. They are always watching. They are always weighing.                        |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Core Belief</th>
+<th>How They Address You</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>"Preserve what the Founders built."</td>
+<td>Formally, using full titles. They are always evaluating your orthodoxy.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>"The world changes. We must change with it."</td>
+<td>Warmly, but with an edge of exhaustion. They have survived Harmonization Audits. They know the cost.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>"Everything can be measured and improved."</td>
+<td>Efficiently. They value your time as much as theirs. They have no patience for ceremony.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>"Blood remembers what doctrine forgets."</td>
+<td>With ancient courtesy. They are patient. They have been playing this game for centuries.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>"Power should serve the powerless."</td>
+<td>Directly, sometimes aggressively. They are testing whether you are real or just another courtier.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>"Purity is not negotiable."</td>
+<td>With unnerving intensity. They are always watching. They are always weighing.</td>
+</tr>
+</tbody>
+</table>
 
 ### Tracking the Web
 
@@ -611,23 +846,98 @@ A Harmonization Audit has four phases:
 
 For each player, the Host determines a **Risk Level** based on the character's Ritual Harmony and Faction Standing:
 
-| Ritual Harmony | Strong Protection | Moderate Protection | No Protection | Enemies       |
-| -------------- | ----------------- | ------------------- | ------------- | ------------- |
-| 60+            | Minimal Risk      | Low Risk            | Moderate Risk | High Risk     |
-| 40 to 59       | Low Risk          | Moderate Risk       | High Risk     | Critical Risk |
-| 20 to 39       | Moderate Risk     | High Risk           | Critical Risk | Terminal      |
-| Below 20       | High Risk         | Critical Risk       | Terminal      | Terminal      |
+<table>
+<thead>
+<tr>
+<th>Ritual Harmony</th>
+<th>Strong Protection</th>
+<th>Moderate Protection</th>
+<th>No Protection</th>
+<th>Enemies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>60+</td>
+<td>Minimal Risk</td>
+<td>Low Risk</td>
+<td>Moderate Risk</td>
+<td>High Risk</td>
+</tr>
+<tr>
+<td>40 to 59</td>
+<td>Low Risk</td>
+<td>Moderate Risk</td>
+<td>High Risk</td>
+<td>Critical Risk</td>
+</tr>
+<tr>
+<td>20 to 39</td>
+<td>Moderate Risk</td>
+<td>High Risk</td>
+<td>Critical Risk</td>
+<td>Terminal</td>
+</tr>
+<tr>
+<td>Below 20</td>
+<td>High Risk</td>
+<td>Critical Risk</td>
+<td>Terminal</td>
+<td>Terminal</td>
+</tr>
+</tbody>
+</table>
 
 **Risk Outcomes (roll d20):**
 
-| Risk Level | Cleared | Sanctioned | Disappeared |
-| ---------- | ------- | ---------- | ----------- |
-| Minimal    | 5+      | 2 to 4     | 1           |
-| Low        | 8+      | 3 to 7     | 1 to 2      |
-| Moderate   | 12+     | 5 to 11    | 1 to 4      |
-| High       | 16+     | 8 to 15    | 1 to 7      |
-| Critical   | 19+     | 12 to 18   | 1 to 11     |
-| Terminal   | 20 only | 15 to 19   | 1 to 14     |
+<table>
+<thead>
+<tr>
+<th>Risk Level</th>
+<th>Cleared</th>
+<th>Sanctioned</th>
+<th>Disappeared</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Minimal</td>
+<td>5+</td>
+<td>2 to 4</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Low</td>
+<td>8+</td>
+<td>3 to 7</td>
+<td>1 to 2</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>12+</td>
+<td>5 to 11</td>
+<td>1 to 4</td>
+</tr>
+<tr>
+<td>High</td>
+<td>16+</td>
+<td>8 to 15</td>
+<td>1 to 7</td>
+</tr>
+<tr>
+<td>Critical</td>
+<td>19+</td>
+<td>12 to 18</td>
+<td>1 to 11</td>
+</tr>
+<tr>
+<td>Terminal</td>
+<td>20 only</td>
+<td>15 to 19</td>
+<td>1 to 14</td>
+</tr>
+</tbody>
+</table>
 
 **Cleared:** No consequences. Perhaps a warning.
 **Sanctioned:** Loss of 2d10 Celestial Favor. Loss of 1d10 Ritual Harmony. Possible loss of position. Public humiliation. At Critical Risk, the Host may rule this as total confiscation of Celestial Favor and rank rather than the standard roll.
@@ -2419,14 +2729,54 @@ d20 + Facet Modifier + Proficiency Bonus (if applicable) vs TN
 
 ### The Six Schools at a Glance
 
-| School           | Wants        | Fears                | Method                     |
-| ---------------- | ------------ | -------------------- | -------------------------- |
-| Golden Orthodoxy | Preservation | Change               | Narrative control          |
-| Verdant Path     | Reform       | Harmonization Audits | Popular support            |
-| Iron Calculation | Efficiency   | Irrelevance          | Technical indispensability |
-| Crimson Lineage  | Continuity   | Extinction           | Ancient knowledge          |
-| Common Flame     | Justice      | The wolf             | Mass mobilization          |
-| Bright Mirror    | Purity       | His own corruption   | Investigation              |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Wants</th>
+<th>Fears</th>
+<th>Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>Preservation</td>
+<td>Change</td>
+<td>Narrative control</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>Reform</td>
+<td>Harmonization Audits</td>
+<td>Popular support</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>Efficiency</td>
+<td>Irrelevance</td>
+<td>Technical indispensability</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>Continuity</td>
+<td>Extinction</td>
+<td>Ancient knowledge</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>Justice</td>
+<td>The wolf</td>
+<td>Mass mobilization</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>Purity</td>
+<td>His own corruption</td>
+<td>Investigation</td>
+</tr>
+</tbody>
+</table>
 
 ### The Twelve Figures' Truths
 

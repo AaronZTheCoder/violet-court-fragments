@@ -22,27 +22,93 @@ Night Warbler works for the Bureau of Internal Harmony. He is trained to enter g
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 14    | +2       |
-| Swiftness | 18    | +4       |
-| Endurance | 12    | +1       |
-| Intellect | 14    | +2       |
-| Presence  | 10    | +0       |
-| Resolve   | 14    | +2       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 **Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ## Derived Values
 
-| Value             | Calculation                         | Base      |
-| ----------------- | ----------------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 2         | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 3         | Calculate |
-| Sanity            | 20 + Resolve Modifier               | Calculate |
-| Initiative        | Swiftness Modifier + 2              | Calculate |
-| Defense           | 10 + Swiftness Modifier + 1 (armor) | Calculate |
-| Proficiency Bonus | Level 1                             | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 3</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier + 1 (armor)</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ## Proficiencies
 
@@ -82,14 +148,47 @@ You recognize the signs of your profession: the way someone stands relative to e
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                                |
-| ---------------- | ---------------- | -------------------------------------------------------------------- |
-| Golden Orthodoxy | 0                | You are a tool. Tools are not judged.                                |
-| Verdant Path     | -5               | They fear what you represent.                                        |
-| Iron Calculation | 0                | Efficiency is efficiency.                                            |
-| Crimson Lineage  | +5               | Old families appreciate discretion.                                  |
-| Common Flame     | -10              | You are the boot, not the face.                                      |
-| Bright Mirror    | -5               | The Commission does not approve of "special operations." Officially. |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>0</td>
+<td>You are a tool. Tools are not judged.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>−5</td>
+<td>They fear what you represent.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>0</td>
+<td>Efficiency is efficiency.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>+5</td>
+<td>Old families appreciate discretion.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>−10</td>
+<td>You are the boot, not the face.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>−5</td>
+<td>The Commission does not approve of "special operations." Officially.</td>
+</tr>
+</tbody>
+</table>
 
 ## Connection to the Shared World
 

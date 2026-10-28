@@ -141,27 +141,93 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 18    | +4       |
-| Swiftness | 14    | +2       |
-| Endurance | 16    | +3       |
-| Intellect | 10    | +0       |
-| Presence  | 14    | +2       |
-| Resolve   | 10    | +0       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+</tbody>
+</table>
 
 **Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 6 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 2 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier          | Calculate |
-| Defense           | 10 + Swiftness Modifier     | Calculate |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 6</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ## Proficiencies
 
@@ -208,14 +274,47 @@ You have Advantage on Endurance checks to resist physical hardship, torture, ext
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                               |
-| ---------------- | ---------------- | --------------------------------------------------- |
-| Golden Orthodoxy | -20              | You are everything they fear.                       |
-| Verdant Path     | +10              | You share goals, if not methods.                    |
-| Iron Calculation | -5               | Your disruptions affect productivity metrics.       |
-| Crimson Lineage  | -25              | You have named their families in public speeches.   |
-| Common Flame     | +30              | You are the flame.                                  |
-| Bright Mirror    | -15              | The Commission has a file on you. It is very thick. |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>−20</td>
+<td>You are everything they fear.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>+10</td>
+<td>You share goals, if not methods.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>−5</td>
+<td>Your disruptions affect productivity metrics.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>−25</td>
+<td>You have named their families in public speeches.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>+30</td>
+<td>You are the flame.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>−15</td>
+<td>The Commission has a file on you. It is very thick.</td>
+</tr>
+</tbody>
+</table>
 
 ## Suggested Truths
 

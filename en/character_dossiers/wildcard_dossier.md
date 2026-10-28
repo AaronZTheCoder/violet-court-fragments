@@ -170,14 +170,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 10    | +0       |
-| Swiftness | 14    | +2       |
-| Endurance | 16    | +3       |
-| Intellect | 14    | +2       |
-| Presence  | 16    | +3       |
-| Resolve   | 12    | +1       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+</tbody>
+</table>
 
 **Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
@@ -185,14 +218,47 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 3 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 2 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier + 2      | Calculate |
-| Defense           | 10 + Swiftness Modifier     | Calculate |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 3</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -249,14 +315,47 @@ Coercion built on rank, seal, posting, stipend, property, or family registration
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                                            |
-| ---------------- | ---------------- | -------------------------------------------------------------------------------- |
-| Golden Orthodoxy | 0                | You have been three of their parishioners. None of the three was noticed.        |
-| Verdant Path     | +5               | You have carried their people over prefecture lines and never asked why.         |
-| Iron Calculation | -5               | You are an unresolved entry in eleven ledgers, and unresolved entries are waste. |
-| Crimson Lineage  | -10              | Blood remembers. You have built a life out of having none that can be checked.   |
-| Common Flame     | +10              | You move what the Court cannot follow. They have learned not to ask your name.   |
-| Bright Mirror    | -20              | Pending Verification is a classification. In their reading it is a confession.   |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>0</td>
+<td>You have been three of their parishioners. None of the three was noticed.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>+5</td>
+<td>You have carried their people over prefecture lines and never asked why.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>−5</td>
+<td>You are an unresolved entry in eleven ledgers, and unresolved entries are waste.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>−10</td>
+<td>Blood remembers. You have built a life out of having none that can be checked.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>+10</td>
+<td>You move what the Court cannot follow. They have learned not to ask your name.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>−20</td>
+<td>Pending Verification is a classification. In their reading it is a confession.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
