@@ -1,50 +1,118 @@
 # Cinnabar Heart
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Alchemist
 
-### School: Golden Orthodoxy
+### Named figure's affiliation: Golden Orthodoxy
 
 ### Court Role: Bureau of Harmonious Narrative
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ---
 
 ## Description
 
-You are trained in the alchemical arts: the transmutation of substances, the brewing of elixirs, and the delicate craft of narrative shaping. The Bureau of Harmonious Narrative does not merely record events. It decides which events happened and which did not. You understand, better than most, that truth is a substance that can be refined, diluted, concentrated, and occasionally poisoned.
-
-You wear robes of gold and alabaster. You carry vials of reagents that can heal, harm, or reveal. Your hands are stained with ink and something darker. You know things about how the Court's official record is produced that would terrify the public if they understood. You have made your peace with this. Mostly.
-
----
+Cinnabar Heart directs the Bureau of Harmonious Narrative. He knows how to make an accurate report conceal its most important fact. He also knows which junior clerks will be blamed when that arrangement fails. His loyalty to the Court is entangled with the people whose livelihoods depend on his office. He can defend an ugly compromise without mistaking it for innocence.
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 8     | -1       |
-| Swiftness | 12    | +1       |
-| Endurance | 14    | +2       |
-| Intellect | 18    | +4       |
-| Presence  | 16    | +3       |
-| Resolve   | 14    | +2       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>8</td>
+<td>−1</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ---
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 2 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 4 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier          | +0        |
-| Defense           | 10 + Swiftness Modifier     | 11        |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 4</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -105,16 +173,53 @@ When you invoke orthodox doctrine to support your position during a social encou
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                        |
-| ---------------- | ---------------- | ------------------------------------------------------------ |
-| Golden Orthodoxy | +20              | You are one of theirs. For now.                              |
-| Verdant Path     | -10              | Reformers distrust narrative shapers.                        |
-| Iron Calculation | +5               | They value accurate and orderly records.                     |
-| Crimson Lineage  | +10              | Old families respect institutional knowledge.                |
-| Common Flame     | -15              | They see you as a propagandist. They are not entirely wrong. |
-| Bright Mirror    | +5               | The Commission respects those who work with documents.       |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>+20</td>
+<td>You are one of theirs. For now.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>−10</td>
+<td>Reformers distrust narrative shapers.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>+5</td>
+<td>They value accurate and orderly records.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>+10</td>
+<td>Old families respect institutional knowledge.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>−15</td>
+<td>They see you as a propagandist. They are not entirely wrong.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>+5</td>
+<td>The Commission respects those who work with documents.</td>
+</tr>
+</tbody>
+</table>
 
 ---
+
+## Connection to the Shared World
+
+Cinnabar Heart's choice of a rescue account affects both a family's safety and the confidence on which relief credit depends. A player using this career may choose to investigate that conflict without inheriting his office or his compromises.
 
 ## Expanded Backstory
 
@@ -200,31 +305,11 @@ You are aware of this. Awareness has turned out to be nothing like a solution, w
 
 ## Sample Dialogue
 
-**When asserting narrative authority in a negotiation:**
-"The Golden Edict of Third Harmony states that 'the recorded witness of a duly appointed Bureau official supersedes all contrary testimony, including that of the witnessing parties themselves.' I was a duly appointed official. I was present. My account is the account."
+1. Asked to remove a name: “Tell me where the person goes after we remove the entry.”
 
-**To an ally who questions the morality of their work:**
-"You think I enjoy this? I did not make the rules of this world. I simply learned them well enough to survive. If you want to change things, you need to understand how they are built first. And they are built with paper."
+2. Confronted with an altered notice: “Yes, that word was cut. I want to know who approved the copy.”
 
-**When caught in a lie and doubling down:**
-"The documents you saw were preliminary drafts. The revision you are holding is the authoritative version. The preliminary draft was never approved. I am sorry for the confusion. It happens more often than you would think."
-
-**A quiet observation to a trusted companion:**
-"The most terrifying thing I have ever learned is that the official record of this empire could be completely wrong about everything and nobody would ever know, because the record is the only source anyone checks. There is no reality underneath the paper. There is only the paper."
-
-**When confronted about their role in a cover up:**
-"You want me to apologize for keeping my hands clean in a city that executes people for knowing the wrong things? I am not proud of what I do. I am proud that I am still alive to feel ashamed about it. That is more than most of my colleagues can say."
-
-**To a junior scribe who shows talent:**
-"Your calligraphy is beautiful. That is a curse. Beautiful work gets noticed. Noticed work gets scrutinized. If you want to survive in this Bureau, learn to make your lies look exactly as boring as the truth. Nobody reads the boring documents. Those are the ones that last forever."
-
-**When a friend asks if they can be trusted:**
-"I have spent my entire adult life learning how to make people believe things that are not true. I am very, very good at it. The question is not whether I can be trusted. The question is whether I have chosen to be. And I have, with you. Do not make me regret it."
-
-**After a long night of alchemical work, to no one in particular:**
-"The reagents are stable. The documents are filed. The narrative is consistent. Another day of making the world slightly less real than it was yesterday. Goodnight."
-
----
+3. Offered an excuse: “I can explain the decision. That does not settle what we owe them.”
 
 ## Personal Connections
 
@@ -250,21 +335,7 @@ Prefect Yan is still alive in internal exile in the far north. Your last clear m
 
 ## Roleplaying Guide
 
-Your internal conflict is the tension between safety and truth. You know the real history of the Court. You know that the official record is a carefully maintained fiction. You could reveal it. You have the skills to survive the fallout. But survival is not the same as living, and every day you stay silent makes it harder to speak. The longer you wait, the more complicit you become. The more complicit you become, the less your truth matters.
-
-What keeps you up at night: the possibility that the Bureau knows about your private journal. You keep it hidden, but you are an alchemist. You know that everything hidden can be found. You also worry about the people whose names you have altered, whose deaths you have recorded before they happened, whose lives you have edited out of existence. You do not remember all their faces. You remember some. They visit you in dreams.
-
-How you treat allies: carefully. You know from experience that the Bureau monitors everyone's relationships. An ally is a vulnerability. A close ally is a target. You keep people at a distance not because you do not care but because caring is dangerous for everyone involved. When you do let someone close, you are fiercely loyal, but you express it in practical ways: forged documents, altered records, false alibis. You cannot give people your heart. You can give them a revised version of reality in which they were never at the scene of the crime.
-
-How you treat enemies: with respect for their competence, if they have it. You know that the people who threaten you are usually acting on information that someone else gave them. You do not blame the blade. You look for the hand that wielded it. If an enemy is simply cruel or stupid, you destroy them through paperwork. You file a report that creates complications. You adjust their budget allocation. You lose their transfer request. You are patient. You can wait years.
-
-What you notice that others miss: the version number on a document. The timestamp on a seal. The quality of paper used for an official record. The fact that a signature was written with a different ink than the body of the text. You read documents the way a musician reads a score: you see the composition, the structure, the places where someone made a choice. Most people read for content. You read for the fingerprint of the author.
-
-Your tell when you are lying: you become more specific. You add unnecessary detail. Real truth is often vague. Your lies, polished by years of practice, are beautifully precise. Someone who knows you well can spot the pattern: when you are being most detailed, you are being most false.
-
-Your tell when you are being sincere: you pause. You look away. The words come slowly, because you are building them from real memory rather than from prepared scripts. You speak in fragments. You contradict yourself. Sincerity looks, from the outside, like incompetence. You hate showing it.
-
----
+Let him attend to the exact request and its likely victims. His courtesy can make a refusal harder to bear, but it is also how he protects a subordinate in public. He need not drink, quote doctrine, or confess a private sorrow in every scene.
 
 ## Ability Examples
 
@@ -289,8 +360,8 @@ Add these to the existing list:
 
 Complications for existing truths:
 
-**For "You have seen the workshop beneath the Spire where jade edicts are carved. You know the Emperor's proclamations are forged. You have told no one."**
-Complication: One of the forgers recognized you. They have been leaving subtle signals in recent edicts, messages meant only for you. They want to talk. You do not know if they are friend or trap.
+**For "You have seen the workshop beneath the Spire and evidence that specific jade edicts were prepared on Court orders. You have told no one."**
+Complication: One of the artisans recognized you. They have been leaving subtle signals in recent edicts, messages meant only for you. They want to talk. You do not know if they are friend or trap, and the evidence does not establish the authorship of every edict.
 
 **For "A senior official's 'illness' was actually poisoning. You brewed the poison. You did not know what it was for until it was too late."**
 Complication: The official did not die. They survived, paralyzed and unable to speak. Their family believes they are a vegetative invalid. You know the poison you brewed. You know what they must be experiencing inside their trapped body. You visit them sometimes, in disguise, and sit beside them in silence.
@@ -305,43 +376,17 @@ Complication: You have now identified the pattern. The alterations always benefi
 
 ## Daily Life
 
-You wake before dawn, as you have done every day since you were twelve. The first thing you do is check your journal. The second thing you do is check that your journal is still hidden. You dress in your official robes, the gold and alabaster that marks you as a servant of the narrative. You eat a small breakfast alone in your quarters: rice porridge, pickled vegetables, tea. You do not eat with colleagues. Meals are when people talk. You have nothing to say over breakfast.
-
-Your walk to the Bureau takes twenty minutes. You take the same route every day, not because it is efficient but because you have memorized every face along the way: the baker, the paper seller, the old woman who feeds stray cats, the guard who always stands at the same corner. You note when they are absent. You note when someone new appears. You note everything. The Bureau taught you to note everything.
-
-Your workday is divided into three parts. Mornings are for correspondence: reading the official reports that arrived overnight, filing your responses, noting which documents require your attention and which can be safely ignored. Midday is for alchemy: brewing elixirs for official use, preparing reagents, maintaining your equipment. Afternoons are for the delicate work: altering records, drafting new narratives, shaping what will be remembered.
-
-You leave the Bureau at sunset. You do not stay late. Staying late suggests you care too much. The Bureau does not trust people who care too much. You walk home the same route in reverse. You eat dinner alone. You write in your private journal. You read by candlelight until your eyes tire. You sleep. You dream of paper. You dream of ink. You dream of all the names you have written and all the names you have erased.
-
-The task you dread most: the quarterly audit of death records. Every three months, you must compare the Bureau's Harmonization Audit list with the actual census data. The numbers never match. You are the one who makes them match. You do this work in silence, with a flask of strong tea at your elbow and a tightness in your chest that does not go away until the audit is submitted and approved.
-
----
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Mass Transmutation.** You may use Transmutation of Truth on events you did not personally witness, as long as you have access to the relevant records.
-
-What it feels like: You have always known the truth was malleable. Now you understand that you did not need to be present to shape it. Documents are not evidence of events. Events are evidence that someone wrote a document. This knowledge settles into you like a bone that has finally healed in the right position. You feel more powerful. You also feel more alone, because you now understand something that most people will never grasp: the past is not a place you visit. It is a text you edit. The weight of this understanding bends your spine a little. You stand differently now. You carry the Bureau's authority not as a badge but as a burden.
-
-**Level 5: Perfect Elixir.** When preparing elixirs, one additional elixir of each type is created at no extra cost.
-
-What it feels like: Your hands have achieved a precision you did not know they were capable of. The reagents respond to your touch like old friends. You measure without measuring. You pour without spilling. The elixirs brew themselves, almost. You have stopped thinking about the process and started thinking about the application. Your alchemy has become an extension of your body, like a calligrapher who no longer sees the brush. Your colleagues notice. They ask if you have learned new techniques. You tell them you have simply been practicing. You do not tell them that you have begun to dream in formulas, that the language of transmutation has become your first language and the Court's bureaucratic tongue your second. You do not tell them because you are not sure it is normal. You are not sure you care if it is normal.
-
-**Level 7: Narrative Rewrite.** On a Critical Success with Transmutation of Truth, you may alter not just the record but the memory of a single witness. They remember your version as what actually happened.
-
-What it feels like: The first time you use this power, it terrifies you. You watch someone's face shift from confusion to certainty as your version of events replaces their actual experience. They were there. They saw what happened. But now they do not remember. You have taken a piece of their reality and replaced it with something you manufactured. The power is immense. The cost is that you now know, with perfect certainty, that you cannot trust your own memories. How do you know your past has not been rewritten by someone more powerful than you? How do you know you are the original version of yourself? You become quieter. You spend more time alone. You start checking your private journal for consistency across entries. You look for gaps the way you would look for gaps in a forged document.
-
-**Level 9: Philosopher's Secret.** Once per campaign, you may prepare the Philosopher's Elixir. Its effect is determined by the Host based on the campaign's needs. Legends say it can restore the dead. The legends do not mention the cost.
-
-What it feels like: You have been working toward this your entire life without knowing it. The recipe is not written anywhere. It comes to you in fragments: a formula glimpsed in a dream, an ingredient that appears in your alchemical kit without explanation, a phrase your master said to you years ago that you did not understand until now. Preparing the Philosopher's Elixir is not a technical process. It is a ritual of surrender. You pour everything you are into the mixture: your skill, your guilt, your hope, your despair. The elixir requires a piece of you that cannot be regrown. When you prepare it, you lose something permanent. You do not know what until it is gone. The elixir glows with a light that looks like dawn but feels like dusk. You do not drink it yourself. You are not sure you could. It is not meant for you. It is meant for a moment that has not yet arrived. You carry it in a vial against your chest, warm as a second heartbeat, waiting for the moment when the cost of using it will be worth the cost of making it.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Suggested Truths
 
 Choose one, or create your own with the Host:
 
-- You have seen the workshop beneath the Spire where the jade edicts are carved. You know the Emperor's decrees are forged. You have never told anyone.
+- You have seen the workshop beneath the Spire and evidence that specific jade edicts were prepared on Court orders. You have never told anyone. The authorship of other edicts remains unconfirmed.
 - A senior official's illness was poison. You prepared it. You did not know what it was for until it was too late to matter.
 - You keep a separate and accurate chronicle of events, entirely unlike the official record. If it were found you would be Disappeared inside a week.
 - Someone inside the Bureau of Harmonious Narrative is altering records to protect one particular school. You have noticed the pattern. You do not yet know who.

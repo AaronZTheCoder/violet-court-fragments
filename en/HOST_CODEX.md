@@ -6,9 +6,549 @@
 
 ---
 
+### Begin Here
+
+For the first session, use Prepare the First Session in the opening arc below. The World in One Page explains the connections; the rest can be read when a player pursues them. The original manuscripts provide full scenes and historical depth within this chronicle. Use one version of the first Audit, never both in sequence.
+
+## One Living Chronicle
+
+The Court, the provinces, the Temple, and the Crimson Dusk belong to one history. The First Harmonization, the Reconstruction, and the Seventh Niche reveal different parts of it. They share people, material needs, and consequences. None cancels the themes of the others, and none requires a fresh party, patron, or explanation of the world.
+
+The Open Account is an opening arc. It can reach a satisfying conclusion in six to eight sessions while leaving the world alive around the characters. A longer chronicle follows a relationship or a consequence the table chooses to pursue. It does not require everyone to complete a sequence of supplementary stories.
+
+### The World in One Page
+
+The Southern Granary feeds workers and soldiers. The Eastern Foundries maintain transport, relays, and the equipment used to refine and distribute Qi. Northern timber and watershed management affect roads, rivers, and the land that supports them. The Western Bulwark protects routes through which relief travels. The capital allocates resources through records, credit, and law. The Temple provides sanctuary and a legitimacy the Court cannot simply manufacture. People displaced by the Dusk must move through all of these arrangements to survive.
+
+A decision about grain is therefore also a decision about labor, transport, legal standing, and whose account of an event reaches the capital. It is not automatically an answer to the Dusk. A truthful register can still describe a dying place. A successfully repaired levee can still stand on land the Court has wounded. Preserve that uncertainty alongside the practical consequences people can verify.
+
+For preparation, keep only three active things: the party's chosen intention, the people affected by it, and the next consequence that can reach them. Look up the part of the world that consequence touches. The larger ecosystem supplies depth without becoming a list of assignments.
+
+### Four Movements of the Same History
+
+1. **What the body needs.** The party encounters a person who needs food, shelter, safe passage, or time. The need is specific enough to answer. The person remains in the story after the immediate transaction.
+
+2. **Who can authorize an answer.** The attempt reaches an office, work crew, patron, or shrine. Its rule was made for a reason. Learn whom it protects, whom it excludes, and which earlier decision created the present constraint.
+
+3. **What the land and the record remember.** A survey, a survivor, an old agreement, or a physical scar complicates the official summary. The party can compare sources. The same witness or promise leads onward; a new mystery does not replace the original person.
+
+4. **What can be promised now.** A public hearing, a local agreement, a repair, or a rite gives a choice lasting form. Show who benefits, who pays, and who remains unheard. Return to someone the party met in the first movement before opening a larger horizon.
+
+The four movements can occur within a village visit or across a long campaign. They are a rhythm of discovery, not a fixed sequence of destinations or a requirement to solve the Emperor before helping anyone.
+
+### The Material Connections
+
+**Grain, wages, and Qi.** The reserve fraud discovered by Chen damages confidence in the accounts used for relief. The stolen refined Qi also reduces what can be assigned to relays, transport, and stabilization. Releasing stored grain is a real success, but transport still requires people and working equipment. Moving resources can help a border settlement while changing a foundry crew's work. Ask the party to examine the allocation and find alternatives; do not assume that every improvement demands an equal tragedy elsewhere.
+
+**Water, work, and memory.** The Silt Papers and the Ledger of Fifteen concern the same empire that built the Great Weir. They establish practical knowledge about prevention, flooded homes, and rewards for visible rescue. A family receiving relief may descend from people resettled after a public work. Let an established person bring an inherited receipt or ask for a survey. The connection comes from the consequences of a project, not from making every ancestor secretly important.
+
+**Names, protection, and danger.** Bone Script wants erased people recognized. Stray Stroke knows that a genuine registration can conceal a person as well as protect one. Incense Crown can preserve a name without giving the Court a list of everyone in sanctuary. These positions disagree for good reasons. A consented household claim, a sealed deposition, or a separate public total may reconcile part of the problem if the relevant people accept the arrangement. No character's career dictates which answer the player must prefer.
+
+**Ceremony, credit, and authority.** The Ledger Hand's Widening admitted merchants into the Court. Their credit now helps finance the instruments that select and strike accounts. The Full Rite commemorates an opening while its rider seeks a new concentration of authority. The same merchant may fund relief and pay a Reading House. The party can ask for a particular commitment without proving the person wholly virtuous or wholly corrupt.
+
+**The seal and the wound.** The founding, the Emperor's withdrawal, and the completed sealing are separate events with different witnesses. Earlier guardians were displaced or bound; later institutions inherited the power to describe what happened. The Dusk threatens people whose requests those institutions govern. Those are established connections. Whether the damaged conduit, accumulated loss, or another cause explains the Dusk remains a question supported by evidence, not a reward issued for choosing the correct faction.
+
+### The Schools Act in the Same Scene
+
+Golden Orthodoxy wants an account that preserves confidence. Iron Calculation needs an allocation that can operate. Crimson Lineage protects credit, inheritance, and the promises its houses have already made. Common Flame asks who performs the work and who gets a voice in its terms. Verdant Path asks what the proposed solution does to the land and the people outside the registry. Bright Mirror asks who can attest to the order and answer for its consequences.
+
+Introduce two relevant positions in a scene, not six speeches. Let a third enter only when it can alter an existing choice. Factions may cooperate on one order and oppose each other on its next use. Keep the signed commitment even when the coalition changes.
+
+### The People Carry the Larger Themes
+
+Cinnabar Heart can make a rescue visible without publishing every missing name. Night Warbler can escort a witness while questioning the order that made the witness a target. Guest Among Forests can compare a survey with a route she once helped open. Iron Calculation can offer a repair whose labor terms Iron Bone contests. Iron Wall can protect a convoy without surrendering its passengers to the registry. Bright Mirror can demand evidence even when exposing it endangers a sanctuary.
+
+The Duke remembers agreements whose benefits his own houses inherited. Shadow can distribute a record but cannot guarantee the audience's response. Celestial Book can establish provenance while needing others to witness the world beyond her shelves. Bone Script, Incense Crown, and Stray Stroke embody different ways to protect a person whom a single official identity cannot safely contain.
+
+These are points of contact with existing biographies, not thirteen compulsory personal quests. Use a character's own question to choose which relationship becomes important. Preserve the figure's disagreements and ordinary life after their immediate help has been given.
+
+### A Consequence Makes the Crossing
+
+After an important action, identify one person who observes it, one institution that must respond, and one practical change. Bring one of those back in the next session. A release order may bring a porter to a foundry hiring gate. A wage petition may require the same manifest Chen copied. A Temple agreement may protect the witness needed to establish an older promise. The next scene remembers the first action instead of announcing a new campaign premise.
+
+Keep consequences proportional and visible. A signed amendment changes the clause it names, not every rule in the empire. A public account reaches a particular audience through a particular carrier. An official learns of a secret through an actual report or witness. Aid does not summon punishment merely to make the world dark, and silence does not pause every other person's life.
+
+At most one unchosen connection should remain an active invitation beside the party's present intention. Others stay in the world. The Host can let them pass without inventing an offscreen catastrophe to make the players feel they missed content.
+
+### Three Returns Instead of Three New Openings
+
+**The storehouse returns as a workplace.** If grain was released, the porter later asks whether the order covers the people repairing the relay. If it was not, the shrine attendant returns with the petition she filed herself. The party meets someone who has acted during its absence, not a person waiting for the protagonist to activate them.
+
+**The record returns as testimony.** A receipt that first proved delivery can later establish a date the public recitation leaves out. The physical document is the same. Its new significance follows from comparison with another source, not a secret property the Host added after the choice.
+
+**The ceremony returns as a shared claim.** At the niche, place the actual roll, release order, and consent before the people who made them possible. The formal liturgy remains distinct from testimony and civil terms. A survivor can ask to be heard outside the fixed rite. Whether the Court permits it, and what a witness does if refused, belong to the scene.
+
+The paper bird Chen used to carry his index can remain a single recognizable object through these returns. Someone may preserve it, unfold it for evidence, or use the sheet for an urgent message. Its significance comes from the people who handled it. Do not turn it into a compulsory character habit or a magical key to every mystery.
+
+### The Larger Horizon Remains
+
+If the party pursues the river, the campaign can reach the Silt Papers, the Great Weir, and communities whose compensation never arrived. If it pursues names, it can reach Scorch Field, Amber Shore, and the consent of survivors in Nine Willow Bend. If it pursues authority, it can reach the old Temple admissions, the original Charter, and the decisions around the Spire. Each direction begins from a person, object, or promise already encountered.
+
+Do not require all three. They offer different evidence about the same world, and the party's existing achievements remain true in each. The Court's abstraction, the price of continuity, the struggle over memory, and the uncertain wound in reality retain their weight even when the players choose a small act of care.
+
+### Terms and Truths to Keep Separate
+
+The **Court** is the governing structure; the **Schools** are the six competing worldviews within and around it; a **Bureau** is an institution with a particular remit. A faction score does not grant every office's authority.
+
+**Ritual Harmony** is perceived orthodoxy. **Faction Standing** is a relationship with a School. **Celestial Favor** is spendable influence. None is proof of virtue, consent, or factual truth.
+
+The **Reconstruction** governs how calamity and repair are administered and presented. The **Full Rite** is the graded state ceremony. The **Seventh Niche** is this particular proposed admission. The **Continuance** is the separate Spire rite, and the **Doctrine of Continuous Edict** is the Court's explanation of its governing authority. They are not interchangeable names for one power.
+
+A record can establish what someone filed. A witness can establish what they experienced. A theory can connect those facts without becoming a proven law. Reliable distinctions make the cosmic mystery more unsettling: players can know what they saved without being told they have explained the wound in the world.
+
+---
+
+## Opening Arc: The Open Account
+
+Gate's End has suffered a landslide. Grain has been assigned to its survivors, but the Temple depot cannot release it. A missing household's claim, a threatened witness, and a state ceremony all depend on the same account being closed at the Hinge.
+
+This opening arc normally takes six to eight sessions. Its three acts share the same people, evidence, and consequences. It brings the broader chronicle into reach through a delivery, a witness, and a promise. The arc can end with a real achievement while the world and the relationships around it continue.
+
+### Prepare the First Session
+
+Read the opening three scenes for the first session, then finish Act One before the next. Find the Audit tables in Part Four if the party becomes subject to the proceeding. Have the Core Rulebook and session tracker nearby.
+
+Agree why the characters are doing one job together: deliver the Twenty Seventh Relief Docket and obtain a receipt. They may be copyists, couriers, surveyors, Temple workers, hired guards, or people helping a companion. The office offers the party twenty Copper Leaves for the completed delivery, separate from starting wealth. Players can negotiate or refuse. A household connection is welcome, never compulsory.
+
+Prepare only three places: the Records office, the Temple depot, and a room above the teahouse where Lin is sheltering her uncle. Begin with Reed Basket. Introduce Lin when the party asks how the grain was allocated. Wei can approach after the party becomes involved. There is no need to introduce the six Schools or thirteen named figures at once.
+
+Give the players this brief:
+
+> A landslide has buried the pass at Gate's End. A temporary clerk needs a relief file delivered to the Temple. The grain is already there. The families are waiting. Your task is to find out who can authorize its release and bring back a receipt.
+
+End the first session after one concrete change: a household is entered, supplies are released, a witness is sheltered, or an official receives a document. Ask what the party wants to do next. Prepare that next action rather than another opening adventure.
+
+### What Actually Happened
+
+The Court did not arrange the landslide. An existing fraud has left the reserve accounts unreliable just when they are needed for relief. Tao Chen copied payments from imperial border reconstruction funds into accounts controlled by a Crimson Lineage house; Golden Orthodoxy officials concealed those transfers. Separately, Zhang's comparison of Imperial Reserve ledgers reveals eight hundred missing units of refined Qi. Matching account references in payment records and manifests connect the two inquiries. These are different sources, not one document that proves every allegation. Transfers were timed before Audits because clerks and examiners would be reassigned, reducing scrutiny. The missing Qi does not power the Audits or explain the origin of the Dusk. Its diversion reduces allocations available for relays, transport, and stabilization.
+
+On Hinge Gate 17, a Gate's End official sends a short public disaster report through staffed lantern relays, including Iron Gate. It reaches Xiaoyuan on Hinge Gate 18; the report carries no household names. The capital allocates grain already held at the Temple depot, while an original roll and other physical evidence follow by courier. The porter and child at the depot were already in the capital and are waiting for an allocation that includes their household; they did not travel from the landslide in four days.
+
+The current grain allocation passed through the same accounting office. Its balance must be reconciled or an authorized official must accept a temporary discrepancy before a lawful release order can be issued. Chen can explain the payment entries he copied. Lin has an index copy, the reserve has its manifests, and Commissioner Zhang can examine the separate Qi discrepancy.
+
+To authorize relief quickly, officials attached it to the already scheduled Seventh Niche ceremony. The proposed Sixth Reconstruction would close that ceremonial account as thanksgiving before all claims have been checked. A separate admission rider would give the Court standing permission to allocate Temple niches. The rider and the closing clause are administrative choices, not effects hidden in the sacred words.
+
+These facts are sufficient to resolve the opening relief case. They are not the whole of the empire's history. The Emperor's private intentions, the ultimate cause of the Dusk, and every secret in the old archives need not be solved to feed a family or preserve a claim.
+
+### The People to Keep in Play
+
+<table>
+<thead>
+<tr>
+<th>Person</th>
+<th>What they want now</th>
+<th>What they can actually do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reed Basket, temporary Border Harmony clerk</td>
+<td>Keep her sister's missing household on the roll</td>
+<td>Supply the docket, a duplicate entry, and the name of the receiving office</td>
+</tr>
+<tr>
+<td>Lin, junior archivist</td>
+<td>Protect her uncle Chen without losing the evidence</td>
+<td>Show the account index and introduce him if the party earns her trust</td>
+</tr>
+<tr>
+<td>Tao Chen, former Third Inspector of Works</td>
+<td>Survive long enough to make his evidence usable</td>
+<td>Identify the diverted entries and attest to his copies</td>
+</tr>
+<tr>
+<td>Senior Censor Wei, Golden Orthodoxy</td>
+<td>Close an embarrassing inquiry and obtain compliant testimony</td>
+<td>Offer protection, press a denunciation, or withdraw his support</td>
+</tr>
+<tr>
+<td>Commissioner Zhang, State Planning Commission</td>
+<td>Establish a defensible balance and release usable resources</td>
+<td>Authenticate the accounts and sign a provisional allocation within his authority</td>
+</tr>
+<tr>
+<td>Justicar Meng, Commission for Celestial Purity</td>
+<td>Produce a finding she can defend</td>
+<td>Hear evidence, record objections, and rule within the Audit procedure</td>
+</tr>
+<tr>
+<td>Incense Crown, Temple officiant</td>
+<td>Keep relief and sanctuary working without surrendering Temple consent</td>
+<td>Negotiate a depot order, separate the accounts, and accept or refuse the admission terms</td>
+</tr>
+</tbody>
+</table>
+
+Reed Basket and the porter at the depot are the human anchors. Bring them back when the party's work changes their situation. Introduce a major Court figure only when the players seek that person's authority or a chosen relationship makes the meeting relevant. Incense Crown need not appear before the party has something specific to ask her.
+
+Wei speaks in obligations and consequences. Zhang asks what the figures permit him to sign. Meng separates firsthand testimony from inference. Lin asks who will protect the person whose name is being offered. Let those concerns shape their responses instead of assigning a repeated gesture or catchphrase.
+
+### The Shared Calendar
+
+Elapsed days are counted from Hinge Gate 21, Year 452. Hinge Gate and Hinge Threshold each have twenty five days.
+
+<table>
+<thead>
+<tr>
+<th>Elapsed day</th>
+<th>Date</th>
+<th>Scheduled event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 11 to 16</td>
+<td>The Twelve Nights, twelve recitation parts transmitted over six evenings</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 17</td>
+<td>The landslide at Gate's End</td>
+</tr>
+<tr>
+<td>Before play</td>
+<td>Hinge Gate 20</td>
+<td>The Fifth Reconstruction is issued</td>
+</tr>
+<tr>
+<td>0</td>
+<td>Hinge Gate 21</td>
+<td>The relief docket reaches the party</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Hinge Gate 22</td>
+<td>The Hall address begins the Full Rite; the niche remains unconsecrated</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Hinge Threshold 3</td>
+<td>The local Audit examines the accounts and associated accusations</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Hinge Threshold 25</td>
+<td>Last ordinary business day before the Hinge</td>
+</tr>
+<tr>
+<td>30</td>
+<td>First day of the Hinge</td>
+<td>The Key turns; the Sixth and the closing clause are scheduled to take effect</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Third day of the Hinge</td>
+<td>Consecration is scheduled; resolve the terms actually agreed</td>
+</tr>
+</tbody>
+</table>
+
+Sessions are not days. An evening at the table may cover one conversation or several days of work. Tell the party the time and likely travel cost before it commits. The local Audit proceeds even if the party leaves, but physical attendance is not imposed on every traveler: it may submit evidence through a representative or accept the consequences of leaving an accusation unanswered.
+
+### Act One: A Receipt for the Living
+
+**Question:** Who will accept responsibility for releasing the grain?
+
+#### Scene One: Two Copies
+
+> The lower half of the sheet is still damp. Someone has put sand over the last signature and folded it before the ink dried.
+>
+> Another sheet lies beneath it. Same columns, same date. Where the first says “missing,” the second has an empty space.
+>
+> The clerk across the desk holds out her hand. “I need one copy back.”
+
+Reed Basket prepared the first copy. A supervisor returned the second because unconfirmed households were holding up completion. She asks for a received copy that preserves the missing entry. The party can return either sheet, annotate uncertainty, seek a supervisor, or refuse the work. A reasonable examination reveals the discrepancy and the Temple routing without a roll. Investigation TN 12 obtains the older form without logging the request; failure records the inquiry but still supplies the form.
+
+If the party declines, she sends the docket by ordinary courier. No retaliation follows merely for refusing a job. If the players want a different approach, begin with the waiting porter or a companion's request. Keep the same underlying situation.
+
+#### Scene Two: The Storehouse Door
+
+> The doors stand open. Grain dust catches in the afternoon light. A porter sits on a sack with a child asleep against his shoulder.
+>
+> At the desk, a shrine attendant turns the slip over. “This is a ceremonial receipt.”
+>
+> “They told us to come here,” the porter says.
+>
+> “I believe you.” She sets it beside the ledger. “I need the distribution order.”
+
+The food is real. The signature is missing. The attendant can show the intake ledger and the request awaiting a reserve balance. She knows the next office and has Lin's name because Lin requested a copy of that same allocation.
+
+The party may find an existing emergency authority, obtain Zhang's provisional signature, buy or borrow supplies, or accept responsibility for an unauthorized release. Connections or Persuasion TN 12 secures an immediate appointment with a neutral clerk; failure means the normal queue, a named contact, or a stated extra cost. A sound argument supported by an existing authority needs no persuasion roll. Taking grain is possible, but guards and the depot staff can identify who did it. Describe that exposure before the choice.
+
+An immediate release helps the households it covers. The account may still close at the Hinge, so an early success does not reset the story. The same people now have reason to ask whether next week's claim will remain valid.
+
+#### Scene Three: The Witness and the Accounts
+
+Lin meets the party above the teahouse. She has an index showing account numbers, dates, and Chen's copied entries. She asks what protection the party can offer before she gives his location. Offer practical answers: witnessed surrender, Temple shelter, a named escort, or a route out of the city. If no agreement is reached, the index still identifies the reserve shelf. No career is required to follow it.
+
+Chen can attest to the payment copies he made and explain their account references. Zhang's ledgers and the transport manifests establish the Qi discrepancy. Comparing them can support a joint finding. Chen cannot grant immunity, issue grain, or prove who intended every consequence. Ask what the party wants to do with him, then let him consent or disagree. Escorting him, arranging a safe hearing, sending him away, and leaving him hidden are all workable choices.
+
+Wei requests the party's signatures beneath accusations against Second Archivist Yu, Scribe Min, Clerk Fen, Recorder Jia, and Archivist Chen. These are accusations, not established facts. Players can attest only to what they know, demand supporting evidence, refuse, sign, or report the demand to Meng. Do not assign prior acquaintance with the accused without a player's agreement.
+
+Zhang wants an authenticated page. Authentication requires comparison of an index entry, a manifest, and a payment record. Accessing a relevant source reveals its essential content. Investigation or Lore TN 12 improves speed or avoids exposure. Restricted access may require TN 16 and a stated appointment or sponsor. Failure adds delay, scrutiny, or a need for a certified extract; it never destroys every source.
+
+#### The Local Audit
+
+The Audit examines the same accounts and testimony. It is the pressure point of this act, not a separate adventure that replaces the relief case. Meng asks what the party saw, which copy it handled, and whose statement it can support. The porter's receipt, Lin's index, and the depot ledger can matter here.
+
+Use Part Four's Ritual Harmony and protection table once. An active sponsor at 30 or higher gives Strong Protection; 10 to 29 gives Moderate Protection. Without a sponsor, use Enemies if an involved hostile School is at minus 10 or below, otherwise No Protection. At Ritual Harmony 50, these columns mean Low, Moderate, Critical, and High Risk respectively. Show the applicable Risk before judgment. Do not count the same Faction Standing twice.
+
+For this case, authenticated evidence that answers an accusation reduces the accused character's Risk by one level; contradictory testimony knowingly submitted increases it by one. Each applies once. Additional changes follow Part Four and specific actions, not an automatic penalty for asking questions. Record what testimony was accepted and which allocation was authorized. A cleared character does not automatically clear the accounts; a sanctioned character's certified evidence is not automatically false.
+
+If the party avoids the Audit, Meng works from the submissions actually available. Report the resulting finding when it can reach the characters. The relief docket remains accessible through the depot and Reed Basket, including through a successor character after a legacy cycle.
+
+**Carry into Act Two:** the same roll, the same receipt, Chen's current situation, and whichever official accepted or rejected the evidence. Introduce no new patron merely to restart the plot.
+
+### Act Two: What the Ceremony Will Close
+
+**Question:** Will a public thanksgiving end a family's right to keep asking?
+
+The party already has a reason to inspect the ceremonial account: it paid for the grain and sets the date of closure. At the Hall address or afterward, the depot appears among the rite's works of beneficence. A witness, a printed address, or the account itself supplies that fact. Attendance at the address is optional.
+
+Incense Crown receives the party when it brings a claim, receipt, or proposed order. She knows Temple law but has not seen the relief annex or the civil admission rider. A depot attendant can obtain the documents if the party never seeks her directly. The dispute concerns what the Temple is consenting to, not whether the players can tell an officiant the correct ending.
+
+#### Three Pieces of Evidence
+
+<table>
+<thead>
+<tr>
+<th>Fact to establish</th>
+<th>Direct source</th>
+<th>Independent source</th>
+<th>What it permits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Relief and ceremony share an account</td>
+<td>Routing slip</td>
+<td>Depot intake ledger or Reed Basket's receipt</td>
+<td>Request a separate relief account</td>
+</tr>
+<tr>
+<td>Completion ends provisional claims under the next register</td>
+<td>Old and proposed distribution annexes</td>
+<td>A rejected claim and an explanation from the distribution office</td>
+<td>Seek a stay, clarification, or amended closing clause</td>
+</tr>
+<tr>
+<td>The admission rider grants future authority</td>
+<td>Rider itself</td>
+<td>An earlier Temple admission and an examiner's reading</td>
+<td>Strike the rider or limit consent to this one admission</td>
+</tr>
+</tbody>
+</table>
+
+Give the facts when the party reaches an appropriate source. Rolls determine cost, speed, and exposure. If the party examines the requisitions, their identical notation is a copied registry entry reused across years, not proof of an eighteen year master plot. A registry comparison establishes that chain without a new expedition.
+
+The old annex reads, “Receive the names before thanksgiving.” The proposed text reads, “Receive the account as thanksgiving.” The closing consequence must be confirmed against the register and an actual claim. The phrase is evidence to test, not a riddle whose answer the players must guess.
+
+#### Work That Changes the Outcome
+
+<table>
+<thead>
+<tr>
+<th>Intended result</th>
+<th>Who can help</th>
+<th>Required work or cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Release the current grain</td>
+<td>Zhang or an official with an existing emergency mandate</td>
+<td>Authenticate the available balance, or obtain a signed acceptance of the discrepancy</td>
+</tr>
+<tr>
+<td>Keep provisional claims open</td>
+<td>Border Harmony receiving office</td>
+<td>Submit confirmed, missing, and disputed entries separately and obtain a receipt; seek a stay if late</td>
+</tr>
+<tr>
+<td>Separate relief from ceremonial completion</td>
+<td>Receiving office and Temple depot</td>
+<td>Obtain both offices' signatures so neither can declare the other responsible</td>
+</tr>
+<tr>
+<td>Remove the admission rider</td>
+<td>Temple officiant and an authorized Court representative</td>
+<td>Produce the earlier admission terms and secure witnessed agreement on the new wording</td>
+</tr>
+</tbody>
+</table>
+
+Do not reduce every task to a persuasion roll. Documents, reciprocal commitments, ordinary work, and player proposals can settle an issue. An unwilling official may demand public responsibility, an independent witness, or a concession stated in advance. A favor must have a named beneficiary and a clear limit; it must not open an unrelated compulsory quest.
+
+#### The Wider World Enters Through This Case
+
+The arguments about the foreign mourning notice show how official attention has moved away from the relief count. The recitation cycle explains why the ceremony already commands that attention. An old disaster file can support a request to retain missing entries. Use any of these when the party asks a question it can answer. None begins another required plot.
+
+If the party travels, ordinary courier travel to Gate's End takes about two weeks each way. It cannot casually return before the Hinge. A field party can send a preliminary roll publicly through the Iron Gate lantern relay, with an ally filing it in Xiaoyuan and originals following by courier. Establish the relay's capacity, authentication cost, and remaining time before departure. Staying in the capital, interviewing arrivals, or commissioning a survey is equally valid.
+
+**Carry into Act Three:** the effective release order, the latest received roll, the wording the Temple has agreed to, and one person waiting for each result. These are the opening arc's three records. There is no additional currency, reputation track, or hidden completion score.
+
+### Act Three: The Account Left Open
+
+**Question:** What will remain possible when the ceremony is over?
+
+On the first day of the Hinge, the Key turns. A dated decoding still proves an earlier meaning. Plain countersigned clarifications and valid stays preserve the agreed terms across registers. The Temple's spoken liturgy does not change because a Bureau changes administrative vocabulary.
+
+Apply the orders actually in force. An empty roll means no deaths confirmed in that return, not that no one died. Confirmed, missing, and disputed names remain distinct where a receipt or stay preserves them. Without one, claims may require reopening; explain which office and evidence that now needs. Do not replace the party's work with the unamended default.
+
+Two days later, the Temple considers consecration. Incense Crown can admit the Ledger Hand without the rider, insist on separate relief accounts, delay, or refuse. Court representatives can accept, bargain, threaten, or seek another lawful arrangement. Attribute every threat to a person with the means to attempt it. Death and the Temple's subjugation are not automatic results of refusal or consent.
+
+> The mason has swept the recess clean. Inside, the stone is paler than the wall around it.
+>
+> Incense Crown lays the relief roll beside the admission sheet. Its lower edge has worn soft from handling.
+>
+> “Before we begin,” she says, “which of these has been received?”
+
+Answer from the record the party made. Let it produce a receipt, bring a witness, challenge the rider, or let the rite proceed. A character playing an officiant by agreement makes their own decisions; do not place a duplicate Incense Crown beside them to take over.
+
+#### Resolve the Opening Arc
+
+<table>
+<thead>
+<tr>
+<th>Record</th>
+<th>If secured</th>
+<th>If left unresolved</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Relief</td>
+<td>Show the covered households receiving supplies, and name who must authorize the next issue</td>
+<td>Show what is available and who can still seek release; losses follow established shortages and time</td>
+</tr>
+<tr>
+<td>The roll</td>
+<td>Confirm who is found, still missing, or disputed; name the office that retains the claim</td>
+<td>Explain the reopening process and who has kept evidence, without inventing a new secret to erase the result</td>
+</tr>
+<tr>
+<td>Temple consent</td>
+<td>State exactly what was granted or withheld, and who witnessed it</td>
+<td>State which part of the rite or rider remains contested and what each party actually does</td>
+</tr>
+</tbody>
+</table>
+
+End with Reed Basket or the porter, changed by the outcome. A family may have food while still lacking news; a name may remain on the roll even after a death is confirmed. Let the player chosen relationships have their own last scene. Do not end by revealing a larger villain or requiring the next book to make this victory count.
+
+The opening arc is complete when the three records have clear present outcomes, including outcomes the party declined to influence. If the table continues, follow one established person or promise into the wider connections above. Relief, historical memory, ritual authority, and the wound in the land remain parts of the same chronicle.
+
+### Handouts Ready to Copy
+
+**The routing slip**
+
+> Twenty Seventh Relief Docket. Gate's End emergency grain.
+>
+> Attach the provisional relief roll to the Seventh Niche ceremonial account. Stores may be received in the Temple precincts pending distribution.
+>
+> Close outstanding entries at the Hinge under the register then in force.
+
+**The provisional roll**
+
+> Household: ____________________
+>
+> Confirmed living: ____ Confirmed dead: ____ Missing: ____ Disputed: ____
+>
+> Evidence or witness: ____________________
+>
+> Receiving office, date, and signature: ____________________
+
+**The admission rider**
+
+> The Temple consents to the Court's future allocation of niches without requiring a separate admission agreement for each person.
+
+This is proposed civil wording. Crossing it out or replacing it requires the parties' witnessed assent, not a sacred pronunciation check.
+
+**The allegations Wei wants signed**
+
+<table>
+<thead>
+<tr>
+<th>Accused</th>
+<th>Allegation in the draft</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Second Archivist Yu</td>
+<td>Advocating wider access to Qi cultivation</td>
+</tr>
+<tr>
+<td>Scribe Min</td>
+<td>Meeting members of Verdant Path</td>
+</tr>
+<tr>
+<td>Clerk Fen</td>
+<td>Questioning the annual Purification Tithe</td>
+</tr>
+<tr>
+<td>Recorder Jia</td>
+<td>Failing to report colleagues' alleged heterodoxy</td>
+</tr>
+<tr>
+<td>Archivist Chen</td>
+<td>Possessing texts by prohibited authors</td>
+</tr>
+</tbody>
+</table>
+
+The draft supplies no dates, witnesses, or supporting records. Wei wants the signatories to certify all five allegations as personal knowledge. Give the players the wording and let them decide what, if anything, they can attest. A signature initiates a case; the finding depends on evidence and the actual proceeding.
+
+### A Small Encounter Reference
+
+Only use combat when someone's established action brings it about. State routes out and what each side wants before initiative.
+
+<table>
+<thead>
+<tr>
+<th>Opponent</th>
+<th>HP</th>
+<th>Defense</th>
+<th>Attack</th>
+<th>Damage</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Garrison guard</td>
+<td>12</td>
+<td>13</td>
+<td>+4</td>
+<td>1d6</td>
+<td>Hold a doorway or escort a detained person</td>
+</tr>
+<tr>
+<td>Hired assailant</td>
+<td>10</td>
+<td>12</td>
+<td>+4</td>
+<td>1d6 + 1</td>
+<td>Recover evidence and escape before identification</td>
+</tr>
+</tbody>
+</table>
+
+Use one opponent per two player characters for a brief confrontation, rounding up. Increase danger only when the situation warrants it and the table can see it. A watch officer can call witnesses instead of reinforcements. An assailant may flee once identified. Neither encounter is a required battle.
+
+### Keep Preparation Small
+
+After a session, write three things: what changed in the records, who will act on it, and what the party chose to do next. Prepare at most three immediately reachable scenes. Consult one relevant reference entry if needed. A rumor, an NPC secret, or a regional detail should answer a current question, complicate an existing promise, or color the scene. If it only launches another compulsory investigation, leave it out.
+
+---
+
 ## Part One: The Host's Vocation
 
 ### The Way of the Host
+
+The shared chronicle is introduced above. [Campaign Continuity](CAMPAIGN_CONTINUITY.md) holds its dates and carried consequences. Player identity and inner life belong to the player. Dossier biographies portray named figures, not compulsory lives for everyone who shares their training.
 
 You are not the players' adversary. You are not a computer executing programmed responses. You are the world's senses: you describe what the characters see, hear, smell, and feel. You are every person they meet, from the lowest street sweep to the highest Grand Council elder. You are the Crimson Dusk's slow advance and the sudden terror of a Harmonization Audit. Most importantly, you are the players' collaborative partner in telling a story none of you could have told alone.
 
@@ -22,7 +562,7 @@ _In Practice._ Consider a player whose character, a junior scribe from the Outer
 
 **Let the dice matter.** When a roll is called for, respect the result. If you are not willing to accept failure, do not call for a roll. Narrate the success and move on.
 
-_In Practice._ The players are negotiating with a minor official who holds a crucial piece of information. The player makes an argument so compelling that the entire table is convinced. You are tempted to skip the roll and grant success because the player's words were excellent. Do not skip the roll. The character's skill at persuasion is separate from the player's skill at rhetoric. Call for a Presence plus Persuasion roll against TN 15. If they succeed, the official nods and hands over the document. If they fail, the official smiles apologetically and says "I wish I could help, but my hands are tied." Now the players must find another way. That failure creates a new avenue of play. It is not a punishment. It is a branch in the story. The reverse also applies. If a player gives a weak argument but rolls well, the character's natural charm carries the day despite the player's fumbling words. Describe how the character finds exactly the right phrasing, saving face for both parties. The dice are the game's engine of surprise. They introduce outcomes no one at the table predicted. That unpredictability is the source of the game's most memorable moments.
+_In Practice._ A clerk can release a certified extract under an existing authority. If the party supplies what that authority requires, issue the extract. If the party asks the clerk to accept a genuine personal risk, establish what could persuade them and what refusal would change. Then use Presence plus Persuasion at the stated TN if the outcome is uncertain. A player can describe an approach without performing a speech. On failure, the clerk can name a sponsor or offer a limited extract; the essential fact remains available from other sources.
 
 **Prepare situations, not plots.** A plot says "the players will go to the archive and find the document." A situation says "a document that could destroy a Grand Council member is hidden in the archive, and three different factions are looking for it." The players decide how to engage with the situation. You react.
 
@@ -32,9 +572,9 @@ _In Practice._ You have prepared a situation: a disgraced scholar possesses a jo
 
 _In Practice._ The players have discovered that a clerk of middle rank in the Ministry of Rites is secretly funneling information to the Verdant Path. They decide to confront the clerk. Before the session, you check your relationship map. The clerk is the nephew of the Iron Calculation's chief accountant. The chief accountant owes a favor to the Night Warbler. The Night Warbler has been investigating the same clerk independently. This means that when the players confront the clerk, the web reacts. The clerk threatens them with his uncle's position. The uncle learns of the confrontation within hours. The uncle asks the Night Warbler for information about the players. The Night Warbler now knows the players are interested in the same target he is pursuing. He may approach them as a potential ally or as a rival, depending on his assessment of their usefulness. The players' simple act of confronting a clerk has rippled through four layers of the Court. You did not plan this. The web produced it naturally. This is why you maintain the map. This is why you update it between sessions. The web is the Court's immune system. When the players act, the web responds in ways that feel organic because the connections exist independently of any single scene.
 
-**The Dusk does not negotiate.** The Crimson Dusk is the one force in the game that cannot be reasoned with, bribed, or outmaneuvered. It advances at the pace you decide. Use it to create urgency when the intrigue grows too comfortable.
+**The Dusk does not negotiate.** There is no known authority that can promise terms on behalf of the Crimson Dusk. Particular Dusk Touched beings may retain memories or purposes, but an agreement with one does not bind the phenomenon. Advance its local conditions through established events and elapsed time. Show signs early enough for people to respond.
 
-_In Practice._ The players have spent three sessions navigating Court politics, building alliances, and accumulating Celestial Favor. They have become comfortable. They have begun to think of the Court as a game they can win. Now is the time to remind them of the stakes. Describe a messenger arriving at dawn, covered in dust, having ridden through the night. A border town has fallen to the Dusk. Not a strategic town. Not a major holding. Just a small farming community that existed on the edge of the empire's notice. But it was a week's travel closer to the capital than the last town that fell. The players watch as the messenger delivers his report to a bureau official who waves dismissively and files the report in a growing stack of similar reports. The official says "these things happen. The border has always been unstable." He is wrong. The players know he is wrong. The Dusk is not an invading army. It is not a political faction. It is reality unmaking itself. You cannot negotiate with a wound. You cannot bribe decay. When the Dusk advances, all the political games become suddenly trivial. The players must choose: continue their schemes or respond to the existential threat. The best campaigns let them do both, because that is where the hardest choices live. Do I save my ally from the Audit or do I save the village from the Dusk? The answer should never be easy.
+_In Practice._ A survey already commissioned by the party returns from the relief route. Its carrier brings the same milestones marked on the earlier map, with one further reach of red ground. The depot must now decide whether the next convoy needs a different road, more provisions, or an escort. The party's existing contacts can answer those questions. Its earlier release order still matters because there is grain to move. The Dusk changes the work rather than making that work meaningless. Give the travel estimates and available reports, then let the players choose what to do.
 
 **Every truth has a cost.** The game is full of secrets. When players uncover one, ask yourself: who does not want this known? What will they do to bury it? The discovery is the beginning of the story, not the end.
 
@@ -110,20 +650,16 @@ Each school is not merely a school of thought. It is a coherent answer to the qu
 
 ### What the Crimson Dusk Represents
 
-_This section is for the Host's understanding. The players should discover it through play, or not at all._
+The founding ritual displaced or bound the land's guardians; the Court later completed the Emperor's seal. Records and witnesses support those acts. Whether they caused the Dusk, and whether a repaired relationship with the land could arrest it, remain questions for play. Distinguish an event, a witness's account, and an explanation.
 
-The Crimson Dusk is not an external threat. It is a consequence. At the empire's founding, a ritual sacrificed or bound the land's original guardians and installed the Sun Emperor as their replacement, the new living conduit between Heaven and Earth. When the first generation of Court elders completed His sealing in the Spire one hundred and fifty five years ago, they severed that replacement conduit. The Crimson Dusk is the delayed wound left by both acts, a slow corruption of reality that became visible only later as the severed world tried to heal itself.
+- The Celestial Book holds early records and can identify gaps. She does not know every cause.
+- The Duke witnessed the Court's decision to confine the Emperor, not the Emperor's private intent.
+- Guest Among Forests considers the founding and sealing the strongest explanation for the wound.
+- Iron Bone witnessed Dusk manifestations in the penal works. He cannot prove suffering caused them.
+- Cinnabar Heart knows that his Bureau has issued some edicts as imperial words without receiving a new tablet. That does not prove every tablet false.
+- Bright Mirror investigates evidence of culpable decisions rather than possessing a final account.
 
-This truth is the game's central mystery. Different figures know different pieces of it:
-
-- The Celestial Book knows everything. She has read the original charter. She knows what was done.
-- The Duke of Eternal Night knows the Emperor is imprisoned. He was there when the vote was taken.
-- The Guest Among Forests knows the Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal, not a punishment for heterodoxy.
-- The Iron Bone knows the Dusk first manifested beyond the border provinces in his penal camp, where concentrated suffering gave it a path inward.
-- The Cinnabar Heart knows the Emperor's edicts are forged, though he does not know why.
-- The Bright Mirror suspects the Court's corruption caused the Dusk and is investigating.
-
-The players may never uncover the full truth. That is acceptable. The truth is a reward for engagement with the mystery, not a requirement for the game to be satisfying.
+Let these accounts disagree where the evidence permits. Give players reliable observations and ways to compare them. The material effects of erasure on grain, residence, and protection are certain even while its relation to reality remains unknown.
 
 ---
 
@@ -147,14 +683,47 @@ Use these details to ground the Court in sensory reality:
 
 When portraying figures aligned with each school, return to their core belief:
 
-| School           | Core Belief                                  | How They Address You                                                                                 |
-| ---------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Golden Orthodoxy | "Preserve what the Founders built."          | Formally, using full titles. They are always evaluating your orthodoxy.                              |
-| Verdant Path     | "The world changes. We must change with it." | Warmly, but with an edge of exhaustion. They have survived Harmonization Audits. They know the cost. |
-| Iron Calculation | "Everything can be measured and improved."   | Efficiently. They value your time as much as theirs. They have no patience for ceremony.             |
-| Crimson Lineage  | "Blood remembers what doctrine forgets."     | With ancient courtesy. They are patient. They have been playing this game for centuries.             |
-| Common Flame     | "Power should serve the powerless."          | Directly, sometimes aggressively. They are testing whether you are real or just another courtier.    |
-| Bright Mirror    | "Purity is not negotiable."                  | With unnerving intensity. They are always watching. They are always weighing.                        |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Core Belief</th>
+<th>How They Address You</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>"Preserve what the Founders built."</td>
+<td>Formally, using full titles. They are always evaluating your orthodoxy.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>"The world changes. We must change with it."</td>
+<td>Warmly, but with an edge of exhaustion. They have survived Harmonization Audits. They know the cost.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>"Everything can be measured and improved."</td>
+<td>Efficiently. They value your time as much as theirs. They have no patience for ceremony.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>"Blood remembers what doctrine forgets."</td>
+<td>With ancient courtesy. They are patient. They have been playing this game for centuries.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>"Power should serve the powerless."</td>
+<td>Directly, sometimes aggressively. They are testing whether you are real or just another courtier.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>"Purity is not negotiable."</td>
+<td>With unnerving intensity. They are always watching. They are always weighing.</td>
+</tr>
+</tbody>
+</table>
 
 ### Tracking the Web
 
@@ -176,7 +745,7 @@ _Interactive elements:_
 2. The Reading Room: A chamber with a high ceiling and long oak tables. Scholars and officials sit reading under the dim light of Qi lamps. A player who attempts to remove a document from this room triggers a silent alarm. The doors lock. Guards arrive within three minutes. The only way to avoid this is to have the Index Keeper's personal seal on the borrowing slip.
 3. The Stacks: Deep within the Ministry, the shelves grow older and dustier. Some sections have not been visited in living memory. The oldest documents are written on materials that predate paper: silk, bamboo, bone. In these depths, the players may find things that were never meant to be found. They may also find things that have been waiting.
 
-_Hidden secret:_ In the subbasement, behind a shelf that appears to be structural, there is a sealed chamber containing the original charter of the Court, predating the current founding documents by seventy years. It mentions a thirteenth school that was erased from all records. The twelfth school was the Alchemists. No one knows what the thirteenth was called.
+_Hidden secret:_ A sealed chamber holds an early witness copy of the Year 7 Founding Charter, with an erased signature in its margin. Compare it with Shadow's surviving copy and the later public text. The missing name is a person or office for the table to investigate; it is not evidence of thirteen Schools.
 
 ### The Grand Council Chamber
 
@@ -240,7 +809,7 @@ _Interactive elements:_
 2. The Thirty Six Monks: Thirty six Golden Orthodoxy monks maintain the chant begun when the final seal was completed in Year 297. Six chant at any given time while the others rest, eat, study, or prepare to take their place. The sound has not stopped for one hundred and fifty five years. The oldest monks can speak while sustaining their part of the chant, a discipline called Forked Voice.
 3. The Celestial Book's Balcony: From the Archive tower, which is the only building that overlooks the Spire's perimeter, there is a balcony where the Celestial Book sometimes stands. She does not watch the Spire. She watches those who watch the Spire. If a player catches her eye, she raises her hand in a gesture that could be a greeting or a warning. It has never been clear which.
 
-_Hidden secret:_ The Spire is a prison. The first generation of Court elders sealed the Sun Emperor inside against His will and completed the outer seal in Year 297. At the founding, the sacrifice or binding of the land's original guardians made the Emperor a replacement living conduit between Heaven and Earth. The final sealing severed that conduit. The Crimson Dusk is the delayed wound left by both acts. The chant maintains the prison, not an act of worship. The red pulse is the wounded world pressing against the broken channel, and the pressure grows stronger as the seal weakens.
+_Evidence beneath the official account:_ The Court enforced the Emperor's confinement and completed the outer seal in Year 297. Founding records describe the loss of the earlier guardians. The chant now sustains the seal. A red pulse can be observed at its boundary. These facts support the wounded conduit theory; they do not establish the Emperor's intent or the ultimate cause of the Dusk.
 
 ---
 
@@ -277,23 +846,98 @@ A Harmonization Audit has four phases:
 
 For each player, the Host determines a **Risk Level** based on the character's Ritual Harmony and Faction Standing:
 
-| Ritual Harmony | Strong Protection | Moderate Protection | No Protection | Enemies       |
-| -------------- | ----------------- | ------------------- | ------------- | ------------- |
-| 60+            | Minimal Risk      | Low Risk            | Moderate Risk | High Risk     |
-| 40 to 59       | Low Risk          | Moderate Risk       | High Risk     | Critical Risk |
-| 20 to 39       | Moderate Risk     | High Risk           | Critical Risk | Terminal      |
-| Below 20       | High Risk         | Critical Risk       | Terminal      | Terminal      |
+<table>
+<thead>
+<tr>
+<th>Ritual Harmony</th>
+<th>Strong Protection</th>
+<th>Moderate Protection</th>
+<th>No Protection</th>
+<th>Enemies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>60+</td>
+<td>Minimal Risk</td>
+<td>Low Risk</td>
+<td>Moderate Risk</td>
+<td>High Risk</td>
+</tr>
+<tr>
+<td>40 to 59</td>
+<td>Low Risk</td>
+<td>Moderate Risk</td>
+<td>High Risk</td>
+<td>Critical Risk</td>
+</tr>
+<tr>
+<td>20 to 39</td>
+<td>Moderate Risk</td>
+<td>High Risk</td>
+<td>Critical Risk</td>
+<td>Terminal</td>
+</tr>
+<tr>
+<td>Below 20</td>
+<td>High Risk</td>
+<td>Critical Risk</td>
+<td>Terminal</td>
+<td>Terminal</td>
+</tr>
+</tbody>
+</table>
 
 **Risk Outcomes (roll d20):**
 
-| Risk Level | Cleared | Sanctioned | Disappeared |
-| ---------- | ------- | ---------- | ----------- |
-| Minimal    | 5+      | 2 to 4     | 1           |
-| Low        | 8+      | 3 to 7     | 1 to 2      |
-| Moderate   | 12+     | 5 to 11    | 1 to 4      |
-| High       | 16+     | 8 to 15    | 1 to 7      |
-| Critical   | 19+     | 12 to 18   | 1 to 11     |
-| Terminal   | 20 only | 15 to 19   | 1 to 14     |
+<table>
+<thead>
+<tr>
+<th>Risk Level</th>
+<th>Cleared</th>
+<th>Sanctioned</th>
+<th>Disappeared</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Minimal</td>
+<td>5+</td>
+<td>2 to 4</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Low</td>
+<td>8+</td>
+<td>3 to 7</td>
+<td>1 to 2</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>12+</td>
+<td>5 to 11</td>
+<td>1 to 4</td>
+</tr>
+<tr>
+<td>High</td>
+<td>16+</td>
+<td>8 to 15</td>
+<td>1 to 7</td>
+</tr>
+<tr>
+<td>Critical</td>
+<td>19+</td>
+<td>12 to 18</td>
+<td>1 to 11</td>
+</tr>
+<tr>
+<td>Terminal</td>
+<td>20 only</td>
+<td>15 to 19</td>
+<td>1 to 14</td>
+</tr>
+</tbody>
+</table>
 
 **Cleared:** No consequences. Perhaps a warning.
 **Sanctioned:** Loss of 2d10 Celestial Favor. Loss of 1d10 Ritual Harmony. Possible loss of position. Public humiliation. At Critical Risk, the Host may rule this as total confiscation of Celestial Favor and rank rather than the standard roll.
@@ -315,7 +959,7 @@ The Risk table assumes the following definitions for Faction Standing:
 
 ### Worked Example: Calculating Risk
 
-Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage minus 12, Common Flame +15, Bright Mirror +10.
+Consider a character named Mara, a Justicar with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage minus 12, Common Flame +15, Bright Mirror +10.
 
 Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has minus 12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
@@ -333,13 +977,13 @@ The standard Risk calculation assumes typical Audit participation. Players who t
 
 - **Using unconventional skills to aid the investigation** (Qi Theory to authenticate documents, Lore to identify ritual evidence, Craft to identify the tool that made a wound): Reduce Risk by one level if the contribution is significant and noted by a sympathetic investigator. The Commission does not value your skills directly, but they value results.
 
-- **Invoking a senior patron** (a Grand Council member, a Twelve Figures ally): Reduce Risk by one level if the patron's intervention is credible and public. The patron will likely demand repayment later.
+- **Invoking a senior patron:** Reduce Risk one level for a distinct, credible intervention not already counted as baseline protection. A patron may state a limited cost in advance.
 
-- **Drawing attention from the Bright Mirror**: If the Bright Mirror takes a personal interest in a player during the Audit, increase Risk by one level regardless of other factors. His interest is never casual.
+- **Drawing Bright Mirror’s attention:** Determine his response from the evidence and the action he takes. Attention alone does not change Risk.
 
 - **Being caught in a lie to an investigator**: If the lie is discovered, increase Risk by one level. If the lie was about something directly relevant to the Audit, increase by two levels.
 
-- **Making a deal with a Dusk Touched entity during the Audit**: Increase Risk by two levels. The Commission notices the taint on a character's Qi even if the deal was not observed.
+- **A deal with a Dusk Touched person:** Increase Risk only if an investigator obtains relevant evidence through an established witness, report, or examination. State the applicable consequences before the choice when they are knowable.
 
 The goal of these adjustments is to reward engagement with the Audit process. A player who takes creative actions rooted in the story should feel that their choices matter. A player who treats the Audit as an inconvenience to be waited out should feel the tension of passivity.
 
@@ -350,7 +994,7 @@ Players are not passive during an Audit. They may:
 - **Call in Celestial Favor:** Spend 10 Celestial Favor to reduce Risk by one level. This represents calling in a debt from a powerful patron.
 - **Produce Leverage:** If the player has blackmail material on an investigator, they may use it to reduce Risk by one level. The material is spent: once used, it cannot be used again.
 - **Throw Someone Else to the Wolves:** A player may name another official (NPC or, if the table consents, another player) as a more deserving target. This is a Presence + Deception roll against TN 18. On success, the named target's Risk increases by one level while the player's Risk decreases by one. On failure, the player's Risk increases.
-- **Flee:** The player may attempt to escape the capital before the Judgment. This is a series of skill checks (Stealth, Survival, Connections). On success, the character survives but loses all Faction Standing values and all Celestial Favor, and becomes a fugitive. This is functionally a new character but retains the same identity and knowledge.
+- **Leave or flee:** Establish the applicable summons or order, route, and any pursuit. A representative or submission may answer a summons where the procedure permits. A character who leaves remains a player character; Standing and Favor change only when a named person or institution acts on an established reason.
 
 ### Example Audit: The Prepared Players
 
@@ -475,8 +1119,6 @@ The twelve figures are not stat blocks. They are people with histories, wounds, 
 
 **Voice:** Dry, precise, given to quoting bureaucratic regulations as a form of humor. He speaks as though every sentence is being recorded, because it is.
 
-**Physical Tell:** He touches his temples when troubled. He has suffered the same recurring headache since he was thirty two.
-
 **What He Wants From the Players:** Someone who asks genuine questions. He is surrounded by people who recite doctrine. He craves intellectual honesty the way a drowning man craves air.
 
 **What He Fears:** That he will die before telling someone the truth about the forged edicts. That when he dies, the lie will become permanent.
@@ -511,8 +1153,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Quiet, measured, uses as few words as possible. He does not make threats. He states facts. "If the Director wanted you dead, you would be dead. The Director has not expressed this desire. Yet."
-
-**Physical Tell:** He never sits with his back to a door. He counts exits constantly. It is not paranoia if they really are trying to kill you.
 
 **What He Wants From the Players:** Someone who treats him as a person rather than a weapon. He has been an instrument for so long he has forgotten he is also human.
 
@@ -549,8 +1189,6 @@ _Additional Scene Seeds._
 
 **Voice:** Warm and unhurried. She speaks as though there is always enough time, even when there is not. Her laughter is genuine and slightly sad.
 
-**Physical Tell:** She touches living things: leaves, flowers, the wooden arms of chairs. She draws comfort from what grows.
-
 **What She Wants From the Players:** Allies who think in centuries, not in days. She is playing a very long game. She needs people who understand that some victories look like defeats until you zoom out far enough.
 
 **What She Fears:** That she is wrong. That reform is impossible. That the Court will always crush anyone who tries to change it. That her centuries of struggle have accomplished nothing.
@@ -586,8 +1224,6 @@ _Additional Scene Seeds._
 
 **Voice:** Precise, technical, slightly impatient. He uses numbers constantly. "There is a seventy three percent probability that this alliance will fail within eighteen months. The expected cost in lives is..."
 
-**Physical Tell:** His fingers move constantly, as though operating an invisible abacus. He cannot stop calculating.
-
 **What He Wants From the Players:** Competence. He does not care about their faction affiliation. He cares whether they can execute. He has a hundred projects that need capable hands.
 
 **What He Fears:** That the numbers do not add up. That the empire's Qi reserves will run out before he can complete his grand infrastructure. That everything he built was just triage, not progress.
@@ -598,7 +1234,7 @@ _First Impression._ The Iron Calculation's office looks like the control room of
 
 _Sample Quotes for the Host._
 
-1. "The empire's Qi reserves will be exhausted in Year 476, twenty four years from now. If the Dusk continues to advance, emergency stabilization may shorten that timeline. You understand why I am concerned."
+1. "At the present rate, the empire's Qi reserves will be exhausted in Year 476, twenty four years from now. If the Dusk continues to advance, emergency stabilization may shorten that timeline. You understand why I am concerned."
 2. "You think the Court runs on doctrine. It runs on grain. When the grain runs out, doctrine becomes irrelevant. I am the person who tracks the grain."
 3. "I have calculated the probability of the empire's survival under every possible reform scenario. The best case is forty seven percent. The worst case is twelve percent. Neither is acceptable. I am working on a third option."
 4. "Your faction is inefficient. You spend seventy percent of your resources on internal politics and thirty percent on actual governance. Reverse those numbers and you would be twice as effective. You will not reverse them. I know this. I have seen it a hundred times."
@@ -622,8 +1258,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Low, deliberate, economical. He speaks in declarative sentences. He does not qualify or hedge. When he gives his word, the conversation is over.
-
-**Physical Tell:** He stands very still. He does not fidget, pace, or gesture. Conserving energy. Always.
 
 **What He Wants From the Players:** Proof that someone in the Court still has honor. He has watched civilian officials play their games for twenty seven years. He is tired of being the only person who keeps his oaths.
 
@@ -660,8 +1294,6 @@ _Additional Scene Seeds._
 
 **Voice:** Clear, resonant, utterly certain. He speaks in absolutes. He does not use qualifiers like "perhaps" or "maybe." When he is in the room, everyone else's voice drops half a register.
 
-**Physical Tell:** He does not blink as often as he should. It is deeply unsettling.
-
 **What He Wants From the Players:** Honesty. This sounds easy. It is not. He wants the kind of honesty that costs you something. Confess your failings to him, genuinely, and you earn something rare: his respect.
 
 **What He Fears:** That he is corrupt. That his incorruptibility is itself a kind of corruption. That he has become so pure he has forgotten what he was purifying himself from.
@@ -676,7 +1308,7 @@ _Sample Quotes for the Host._
 2. "I do not want your compliance. Compliance is easy. I want your conviction. I want you to be pure because you choose purity, not because you fear punishment."
 3. "The Golden Orthodoxy believes the doctrine is correct because it is old. I believe the doctrine is correct because it is true. Age does not confer truth. Truth confers age."
 4. "You think I am harsh. You are correct. You think I enjoy being harsh. You are incorrect. I do what I do because the empire has no one else who will do it. If you wish to relieve me of this burden, become pure. Then I can rest."
-5. "I have sealed indictments on every member of the Grand Council. Every one. Including those who believe they are my allies. I do not have allies. I have purposes."
+5. "I have a file on every living Council member. A file is not a finding. Ask me which cases are ready, and why I have kept even those sealed."
 
 _What He Is Doing Right Now._ The Bright Mirror is engaged in three investigations. First, he is tracing the origin of the forged edicts. He has identified the forger as someone within the Bureau of Harmonious Narrative but has not yet identified the person who gave the order. Second, he is compiling a master dossier on the Crimson Dusk's progression, correlating it with historical records of Harmonization Audits. He is beginning to suspect a pattern: Audits accelerate the Dusk. Third, he is conducting interviews with every living member of the founding families, hoping to find someone who will tell him what happened the night the Emperor was sealed. The Duke of Eternal Night has refused his requests for an interview seven times.
 
@@ -696,8 +1328,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Conversational, irreverent, fond of deflecting serious questions with jokes. He is the only person in the empire who will tease a Grand Council elder to their face. This is his privilege. They need him too much to kill him.
-
-**Physical Tell:** He is always slightly closer than you remember him being. You turn, and he is there. You did not hear his move.
 
 **What He Wants From the Players:** Proof that someone can be trusted. He has been betrayed by everyone who ever mattered. He wants to believe, against all evidence, that loyalty is possible.
 
@@ -734,8 +1364,6 @@ _Additional Scene Seeds._
 
 **Voice:** Cultured, amused, faintly melancholy. He speaks in complete paragraphs. He references events that happened before anyone else in the room was born. He is lonely in a way that eight centuries of life makes inevitable.
 
-**Physical Tell:** He does not breathe. Watch closely. His chest never moves. It is the only visible sign of what he is.
-
 **What He Wants From the Players:** Novelty. He has seen everything. Please, show him something new. Surprise him. He will reward you extravagantly for the gift of not being bored.
 
 **What He Fears:** That his bloodline will end. That eight centuries of accumulated wisdom will mean nothing. That the last thing he hears will be the sound of an empire he helped build collapsing into irrelevance.
@@ -770,8 +1398,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Two voices. The first is warm, passionate, the voice of a leader who genuinely loves his people. The second is a growl that vibrates in the chest, the voice of the wolf. He shifts between them without warning.
-
-**Physical Tell:** His hands tremble when the wolf is close. He keeps them in his pockets or behind his back.
 
 **What He Wants From the Players:** Companions. Not followers. Not admirers. People who will stand beside him when the barricades go up. He has too many followers already. Followers become a mob. True companions become a movement.
 
@@ -809,8 +1435,6 @@ _Additional Scene Seeds._
 
 **Voice:** Ancient, papery, given to long silences. When she speaks, it is often in quotations from texts no one else has ever read. Sometimes the quotations contradict each other. Sometimes they contradict themselves.
 
-**Physical Tell:** She occasionally loses focus, as though listening to something no one else can hear. Then she snaps back with a remark so precise it makes you wonder if the distraction was real.
-
 **What She Wants From the Players:** Curiosity. The genuine, hungry desire to understand. She has spent a thousand years accumulating knowledge. She wants to share it with someone who will appreciate it, not weaponize it.
 
 **What She Fears:** That the knowledge will die with her. That no one is worthy to inherit the Archives. That the truth about the Emperor and the Dusk and the founding crime will be lost, and the empire will collapse not because it was destroyed but because it forgot what it was.
@@ -845,8 +1469,6 @@ _Additional Scene Seeds._
 **Default Gender:** Male
 
 **Voice:** Plain and slightly slow, because the capital dialect is his third language and he assembles each sentence before he releases it. He gets honorifics wrong and has stopped apologizing for it. When he is angry he becomes more precise rather than louder, which officials find far more disturbing than shouting.
-
-**Physical Tell:** His hand goes to his belt and counts tokens without his eyes following. He does it when he is thinking, when he is frightened, and when someone says something he intends to remember. He also looks at the plants in a room before he looks at the people.
 
 **What He Wants From the Players:** Accuracy. Not sympathy, not donations, not outrage on his behalf. He wants someone to say a name correctly and not need to be told twice. Everything else he can arrange himself.
 
@@ -883,15 +1505,13 @@ _Additional Scene Seeds._
 
 **Voice:** Unfailingly gracious, which is a technique and not a warmth. She speaks slowly and never fills a silence. Officials trained on the Court's verbal fencing find themselves talking into her pauses and saying appreciably more than they intended, and then leaving convinced the conversation went well.
 
-**Physical Tell:** The third strand of her necklace. She touches it when a question has landed somewhere it was not supposed to reach. She is aware of the tell. She has decided that a legible tell she controls is safer than a hidden one she does not.
-
 **What She Wants From the Players:** To be addressed as a person rather than as an office. It has been eleven years. She has stopped expecting it, which is different from having stopped wanting it.
 
 **What She Fears:** Being asked the Temple's ninth year teaching by someone she cannot refuse. She has structured her entire adult life around never being in that room. She also fears, more quietly, that the arrangement is not a cage at all and that she has simply been comfortable, in which case the eleven years were a choice.
 
 **Scene Seed:** A Court ceremony. She is present, crowned, veiled, silent, and functionally furniture. The players watch three separate officials discuss sensitive matters within her hearing without lowering their voices, because a woman who has been decided to be an object does not require discretion. Later, in a corridor, she says one sentence to a player that could only be built from something she overheard, and she says it without any expression at all, and then she is gone.
 
-_First Impression._ Everything visible about her was designed by people long dead to produce a specific effect on the nervous system of a frightened human being, and it works, and she is the only living person who knows exactly how it is built. Pierced silver and river jade, hung with drops tuned four centuries ago to be inaudible past three paces. Unbleached silk veil. Six strands at the throat, each a completed rite. White gown, which in the Nine Domains is mourning, embroidered in cinnabar and gold in a pattern older than the imperial script and never satisfactorily translated. She is younger than the players expect. She does not move like an object. She moves like someone conserving something.
+_First Impression._ Her crown, veil, and ceremonial dress follow a tradition older than the imperial script. She is one of nine living custodians of its ordination, and knows which parts of the impression are craft, training, and public expectation. Let her attend to the person speaking and the terms offered.
 
 _Sample Quotes for the Host._
 
@@ -899,11 +1519,11 @@ _Sample Quotes for the Host._
 2. "My attendants report on me weekly. I taught them to read. I have thought about the contradiction and I have decided to keep both halves of it."
 3. "The Bureau spent nine years reconstructing the ordination from documents. What they produced is liturgically perfect. It is also completely inert. They have never been able to explain why, and I have never offered."
 4. "The empire can take a province. It cannot take a rite. That is the whole of my position, and I would ask you to notice that it is a position I did not choose and cannot resign."
-5. "The Duke told me my predecessor put a rising tone on the eighth phrase and her teacher did not. He will not say which was correct. I have come to understand that he does not know either. Neither does anyone. We have been doing it both ways for a hundred and forty years and nothing has happened, and I would very much like to know what that means."
+5. "The Duke told me my predecessor put a rising tone on the eighth phrase and her teacher did not. He will not say which was correct. I have come to understand that he does not know either. Neither does anyone. We have been doing it both ways for roughly seventy years without a documented difference in the rite's observable result, and I would very much like to know what that means."
 
 _What She Is Doing Right Now._ She is writing down the ordination. Not the liturgy, which exists, but the part that is transmitted only in person and that nine people alive still carry. She is doing it in fragments, in a script she invented, distributed across objects nobody would search, and she is racing the actuarial table: the other eight officiants are all eighty one or older. She is also, in the third hour of every afternoon while her attendants eat, running a sanctuary in the shrine of the drowned. It currently holds six people, has held as many as nineteen at once, and has sheltered more than two hundred people over eleven years.
 
-_If the Players Ally With Her._ She offers what nothing else in the campaign offers: legitimate immunity. A rite she is willing to perform can stop a proceeding that armies could not, because to interrupt it is to interrupt the Emperor's continuance, and no official in the Nine Domains wants that entry in the record next to their name. She will spend this for people, not for causes, and never twice for the same person.
+_If the Players Ally With Her._ She can shelter people under the sanctuary's terms, seek a witnessed stay, and use the Oracle abilities within their printed limits. The Rite That Cannot Lapse suspends one proceeding until the next sunset while a stated duty is verified. It is not an acquittal or permanent immunity. The Weight of the Crown permits protection of one other person instead.
 
 _If the Players Oppose Her._ She has no soldiers, no coin, and no faction. She has forty minutes a day of unobserved time, two attendants who love her more than they love the Commission, and an unbroken habit of asking procedural questions in rooms full of people who have to answer them. Players who move against her will not be attacked. They will find themselves being asked, publicly and courteously, to clarify a small matter of form, and then another, until whatever they were doing has become a matter of record.
 
@@ -922,8 +1542,6 @@ Include this figure only when your table wants the Court's count questioned rath
 
 **Voice:** Easy, warm, and slightly amused, with the smoothed accent of a man who has spoken seven prefecture dialects and now speaks none of them cleanly. He answers questions directly and completely, which disarms officials trained to expect evasion. He never rushes, never raises his voice, and never wins an argument he could have lost more usefully.
 
-**Physical Tell:** When he is telling the truth about himself he slows down and stumbles, because he has almost no practice. He has no tell at all when lying. Hosts should let the players work out which of those two facts is the frightening one.
-
 **What He Wants From the Players:** A fifth attempt at a question he has failed four times, and eventually the standing to walk into the Imperial Archives and ask for one document without giving a name he does not believe.
 
 **What He Fears:** Reading his own name and feeling nothing. He has considered this for two years and has arranged his life so that the moment keeps not arriving.
@@ -934,7 +1552,7 @@ _First Impression._ He does not look like anything. That is not a failure of des
 
 _Sample Quotes for the Host._
 
-1. "I have never forged a document. Everything I carry was issued by an office of this empire and every word of it is true. I did not beat your system. Your system made all eleven of these men. I stood there while it did."
+1. "I have never forged a document. Everything I carry was issued by an office of this empire. Your system made all eleven of these men, and I stood there while it did."
 2. "You are asking which name is the real one. None of them. That is not modesty and it is not a riddle. It is a fact about the paperwork."
 3. "A verification query costs eleven copper to send and an afternoon of a clerk's life to chase. No office in the Nine Domains has ever been given a budget for suspicion. That is the entire secret. You may have it."
 4. "I was thirteen and the tide stopped going out. Then there was a queue, and a clerk, and a book. I have been in that queue ever since, if you want the poetic version, which I do not recommend."
@@ -956,6 +1574,8 @@ _Additional Scene Seeds._
 ---
 
 ## Part Five, Section Two: Running Each Archetype
+
+Each personal thread begins from a person, place, or promise already in play. A career can suggest an interest without assigning the named figure's memories or beliefs. Consult One Living Chronicle before adding a separate mission; a relationship can deepen inside the present scene.
 
 ### Cinnabar Heart (Alchemist)
 
@@ -1164,7 +1784,7 @@ _Additional Scene Seeds._
 **Scene Hooks.**
 
 1. An attendant is offered a promotion in exchange for a report the character cannot afford to have filed, and the attendant comes to the character first, which is itself a problem.
-2. A faction requires her to declare publicly for a side. Declaring destroys her usefulness to everyone including herself. Refusing indefinitely is not available.
+2. A faction demands a public declaration. She can refuse, bargain, defer, or seek support; show which people would act on each response and what resources they possess.
 3. One of the eight remaining officiants dies. The character has not finished writing down the ordination, and she now has to decide whether to approach one of the survivors, all of whom have reasons not to trust her proximity to the Court.
 
 **Common Pitfalls.** Do not run her as a passive prisoner waiting for rescue. She has been managing her captors expertly for eleven years and is the most politically sophisticated person at most tables. Also do not let the ritual authority become a get out of jail card; every use is public, remembered, and slowly converts her from an untouchable necessity into an active political problem that somebody will eventually decide to solve.
@@ -1194,6 +1814,8 @@ _Additional Scene Seeds._
 ---
 
 ## Quick Start Scenes
+
+These scenes are alternative situations within the same world. Choose one when it develops the party's present interest. Reuse a known clerk, witness, creditor, or carrier wherever their role fits, retaining what the party has already agreed with them. Preparing these scenes does not place twelve new tasks on the calendar.
 
 These twelve scenes are ready to drop into any session. Each is designed to run in five minutes of table time, providing a spark when the story needs one. Use them when the players are stuck, when you need a complication, or when you want to remind everyone that the Court is alive and dangerous.
 
@@ -1399,7 +2021,7 @@ Thirty snippets of dialogue ready for the Host to speak when players approach of
 
 10. "Some seals are made of wax. Some seals are made of stone. And some seals are made of memory. When the memory fades, the seal breaks. I am telling you this because I believe in being prepared."
 
-11. "You asked about the thirteenth school. There is a reason no one speaks of it. It is not because the school was destroyed. It is because the school never stopped existing. It just stopped being seen."
+11. "You asked about the erased signature. Someone kept a copy, and someone else wanted the name forgotten. Those are different acts."
 
 ### Bureaucratic
 
@@ -1525,6 +2147,8 @@ Fifteen atmospheric descriptions of Xiaoyuan at different times and in different
 
 ### Three Campaign Structures
 
+The following are three perspectives on the same continuing world, not three campaigns that must be played in succession. Keep the same witnesses, agreements, and consequences when changing emphasis. Later act sketches are possibilities shaped by play, not scheduled falls of provinces or mandatory revelations.
+
 **The Rise.** The players begin as minor officials in the Outer Court. The campaign follows their ascent through the ranks: first assignment, first faction choice, first Audit, first betrayal, first genuine victory. The focus is on the players' choices shaping their path. The Crimson Dusk is a distant concern, then an approaching one, then the only thing that matters. This structure works best for groups who enjoy gradual power accumulation and watching their decisions compound over time.
 
 **The Conspiracy.** The players begin already entangled in a specific mystery. Perhaps they discover a document that contradicts established doctrine. Perhaps they witness something they should not have. The campaign follows the unraveling of this thread, which leads to larger revelations about the Court, the Dusk, and the Emperor. The focus is on investigation and the question of what to do with dangerous knowledge. This structure works best for groups who enjoy investigation and moral complexity.
@@ -1617,7 +2241,7 @@ _Two Complications._ 1) The village has been destroyed by the Dusk. 2) The Disap
 
 **Act Three: The Choice.** The players have enough information to understand the conspiracy's scope. They know about the forged edicts, the Emperor's imprisonment, or the Dusk's true nature. They must choose what to do with this knowledge.
 
-_Situation._ The Celestial Book confirms the players' findings and reveals the full truth: the founding ritual sacrificed or bound the original guardians and installed the Emperor as their replacement conduit between Heaven and Earth. The founding elders later imprisoned Him, the edicts are forgeries, and completing His seal severed that replacement conduit. The Dusk is the delayed wound created by both acts. The players must decide: reveal the truth, suppress it, or use it.
+_Situation._ The Celestial Book authenticates records of the founding and sealing. They support the damaged conduit theory but do not prove its ultimate account of the Dusk. Other witnesses can test the dates, the actions, and the attribution of responsibility. The party decides what evidence to share, with whom, and under what protection.
 
 _Key NPCs Involved._ The Celestial Book, the Duke of Eternal Night (who provides the historical account), the Bright Mirror (whose response depends on whether the players can establish authenticity and a reliable chain of custody).
 
@@ -1677,15 +2301,15 @@ _Three Possible Player Approaches._ 1) Support the Golden Orthodoxy's takeover, 
 
 _Two Complications._ 1) The Duke of Eternal Night reveals he has been manipulating both sides. 2) The Dusk reaches the capital's outer walls during the conflict.
 
-**Act Four: The Siege.** The Dusk surrounds the capital. There is no escape. The players must defend what they can and decide what is worth saving.
+**Act Four: The Siege.** The Dusk threatens the capital's ordinary approaches. Determine which roads, depots, and shelters the party has already secured before deciding what remains passable. Defense and evacuation both depend on that earlier work.
 
 _Situation._ The capital is under siege by the Dusk. The walls hold, but the situation inside is desperate. Food is running out. The Dusk's influence seeps in, affecting dreams, causing madness, revealing truths.
 
 _Key NPCs Involved._ The Iron Wall (leading the defense), the Bright Mirror (hunting traitors), the Cinnabar Heart (burning documents).
 
-_Three Possible Player Approaches._ 1) Fight on the walls, holding back the Dusk physically. 2) Search for a solution rooted in Qi or ritual to push back the Dusk. 3) Attempt to negotiate with the Dusk or the Emperor, seeking an end to the siege.
+_Three Possible Player Approaches._ 1) Defend an established evacuation route against manifested creatures. 2) Test a specific Qi or ritual proposal against the evidence available. 3) Seek a passage known to a Dusk Touched guide, or approach the Emperor if the party has established access. Neither conversation binds the Dusk itself.
 
-_Two Complications._ 1) A player begins to show signs of Dusk touch. 2) The food stores are discovered to have been poisoned, or stolen, or never existed.
+_Two Complications._ 1) A character exposed to a known hazard develops the condition that hazard specifies. 2) A newly arriving supply report cannot be verified. Supplies the party has already delivered remain real; loss or contamination needs an established event and observable evidence.
 
 **Act Five: The End.** The walls fall, or they hold. The Emperor is freed, or He is not. The Dusk consumes the capital, or it recedes. The players face the final consequences of their choices.
 
@@ -1695,20 +2319,20 @@ _Key NPCs Involved._ Whoever remains. The survivors gather at the Spire, in the 
 
 _Three Possible Player Approaches._ 1) Make a final stand against the Dusk, buying time for others to escape. 2) Enter the Spire and confront whatever is inside. 3) Lead a mass evacuation through a hidden passage, saving as many as possible.
 
-_Two Complications._ 1) A figure the players trusted betrays them at the final moment. 2) The players discover that the Dusk arose from both the founding ritual and the later sealing, and that healing the wound may require one of them to take the place of the severed conduit.
+_Two Complications._ 1) An ally must answer two commitments the party already knows about. 2) A restoration proposal calls for a replacement conduit. Examine its provenance, assumptions, and alternatives; it does not prove either the Dusk's entire cause or the necessity of sacrificing a character.
 
 ### Pacing the Crimson Dusk
 
-The Dusk advances at the Host's discretion. Use it to:
+Set local Dusk conditions from established signs, travel, and events. Use them to:
 
-- **Create urgency** when the players have been comfortable too long. A Dusk event in a previously safe province reminds everyone what is at stake.
-- **Force difficult choices.** When resources are scarce because a province has fallen, who gets them?
-- **Reveal information.** Dusk Touched individuals sometimes speak truths. A refugee from a fallen province might know something crucial.
-- **Trigger the endgame.** When the Dusk reaches Phase 3, the tone shifts. Maneuvering matters less. Choosing matters more.
+- **Make a warning actionable.** A dated survey or arriving carrier identifies a threatened route and the time available to respond.
+- **Connect an allocation to its recipients.** Show the available stores, transport, and labor before asking who receives them. A new agreement may improve those limits.
+- **Bring evidence home.** A survivor or Dusk Touched witness can describe an experience. Compare it with independent sources before treating an interpretation as fact.
+- **Change the scope by agreement.** If the table follows the wider crisis, use its existing coalitions, shelters, and promises. A threatened capital makes those achievements more consequential.
 
 ### The Endgame
 
-When the Dusk reaches Phase 4, the campaign reaches its climax. The players' accumulated choices determine which endings are possible. The Host should present the available endings based on what the players have done, not as a menu but as consequences that flow naturally from their actions:
+If the table pursues a chronicle into Phase 4, its accumulated choices determine what it can attempt. A shorter story may already have ended with a meaningful result. Present possibilities through the people, resources, and evidence actually available:
 
 - Have they uncovered the truth about the Emperor? Freeing Him becomes possible.
 - Have they built strong alliances across factional lines? A coalition ending is possible.
@@ -1720,6 +2344,8 @@ The ending is not a reward. It is a consequence. The players should feel that th
 ---
 
 ## Part Seven: Random Generators
+
+Use a result only when it develops a current relationship or answers a question the party chose. Rumors are claims with sources, not automatic world facts. A generated twist cannot invalidate established evidence, make the relief theft the origin of the Dusk, or require another campaign before the present choice matters.
 
 ### Court Event Generator (d20)
 
@@ -1869,30 +2495,30 @@ More specific rumors that players might overhear in the Teahouse of Whispered Pe
 19. "The Guest Among Forests can speak to the Dusk. She denies it. But the plants she grows near the Dusk line do not wither. They thrive."
 20. "The Celestial Book wrote a true history of the empire. She hid it in the Archives. She does not remember where. She hid it too well."
 
-### NPC Quirks and Mannerisms (d20)
+### Minor Officials at Work (d20)
 
-Use these to give minor officials instant personality:
+Choose what the person needs from this encounter. Let their response follow the party's action. A physical habit does not prove a lie or replace a motive.
 
-1. They repeat the last three words of every sentence under their breath, as though confirming what they just said.
-2. They refuse to make eye contact. Their gaze drifts to a point just above your left shoulder. It is unsettling.
-3. They click their tongue before speaking. A small tic. They do not know they do it.
-4. They write constantly, even when they should be listening. They are taking notes on the conversation for their files.
-5. They smell of incense, specifically sandalwood. The smell lingers after they leave.
-6. They finish other people's sentences. Not because they are impatient, but because they genuinely believe they know what you are going to say.
-7. They carry a small object they handle constantly: a coin, a stone, a piece of jade. They cannot sit still without it.
-8. They speak at an unusual volume, either too loud for the setting or too quiet, forcing others to lean in.
-9. They have a habit of touching their own face when they lie. The gesture is quick, almost invisible. Once you notice it, you cannot unsee it.
-10. They laugh at inappropriate moments. Not from nervousness. They genuinely find the situation funny. This makes everyone around them uncomfortable.
-11. They move very slowly, as though underwater. This is not age or infirmity. It is a deliberate strategy to make others wait on them.
-12. They have an old wound that bothers them in cold weather. They mention it unprompted. They mention it often.
-13. They use overly formal language even in casual conversation. Every sentence is grammatically perfect. Every title is used correctly.
-14. They hum when they work. The tune is always the same. It is a funeral dirge from a forgotten tradition.
-15. They ask questions and then answer them themselves before the other person can respond. They are not interested in your answers.
-16. They have a nervous cough that flares up when they are under pressure. The cough is real. It also signals to allies that the conversation has entered dangerous territory.
-17. They stand too close. They do not respect personal space. This is a dominance display. They are testing your willingness to hold your ground.
-18. They collect paper. Scraps, notes, old documents. Their workspace is a nest of paper. They claim to know exactly where everything is.
-19. They use silence as a weapon. They ask a question and then wait, motionless, until you answer. The silence grows until it is unbearable.
-20. They apologize constantly, even for things that are not their fault. This is not politeness. It is a shield. It makes it difficult to blame them for anything.
+1. A relief clerk needs an uncertain name kept on the roll.
+2. A porter cannot leave until someone signs for a damaged crate.
+3. A surveyor needs a second measurement before accepting a map.
+4. A shrine attendant has grain but no distribution order.
+5. An examiner will accept testimony if its witness appears.
+6. A copyist needs someone to compare a damaged original.
+7. A guard is willing to escort a family but lacks a travel warrant.
+8. A guild delegate needs payment promised to an injured crew.
+9. A physician wants an illness recorded without naming a patient publicly.
+10. A teacher needs access to a text excluded from the current syllabus.
+11. A courier has two conflicting delivery instructions.
+12. A storekeeper needs responsibility for spoiled grain assigned fairly.
+13. A magistrate wants a dispute settled before the next hearing.
+14. An apprentice has found an error in a senior official's figures.
+15. A patron can offer protection but needs a public witness.
+16. A translator will explain a term if permitted to inspect its context.
+17. A gardener knows which courtyard records survived a renovation.
+18. A former official wants a correction entered before retirement.
+19. A merchant will supply carts if their return is guaranteed.
+20. A registry supervisor can grant a stay but must name the office accepting liability.
 
 ### Weather and Atmosphere (d12)
 
@@ -2064,7 +2690,7 @@ _How the Host Adjudicated._ The Host agreed that demonstration of skill can be a
 
 _Outcome._ The player rolled a 17. The lock clicked open in their hands. The merchant's eyes widened. "I could use someone with your talents," they said, and slid a document across the table. "This is the shipping schedule you want. I ask only that you remember who helped you." The player gained the information without making a social promise or creating a debt, but the merchant now knows what the player is capable of and will spread that reputation through the underground. The unconventional approach succeeded, but it changed how the NPC sees the player.
 
-**Scenario Twelve: Combat Ability Outside Combat.** The player, an Iron Bone, wants to use their The Wolf Rises ability during an interrogation of a captured Commission agent. The ability is mechanically designed for combat transformation, but the player argues that the threat of the wolf is a social tool, not just a weapon.
+**Scenario Twelve: Combat Ability Outside Combat.** The player, a Fury Adept, wants to use their The Wolf Rises ability during an interrogation of a captured Commission agent. The ability is mechanically designed for combat transformation, but the player argues that the threat of the wolf is a social tool, not just a weapon.
 
 _What the Rules Say._ The Wolf Rises is a combat Technique that transforms the character and has defined mechanical effects for combat only. It has no explicit social application in the rules.
 
@@ -2103,33 +2729,73 @@ d20 + Facet Modifier + Proficiency Bonus (if applicable) vs TN
 
 ### The Six Schools at a Glance
 
-| School           | Wants        | Fears                | Method                     |
-| ---------------- | ------------ | -------------------- | -------------------------- |
-| Golden Orthodoxy | Preservation | Change               | Narrative control          |
-| Verdant Path     | Reform       | Harmonization Audits | Popular support            |
-| Iron Calculation | Efficiency   | Irrelevance          | Technical indispensability |
-| Crimson Lineage  | Continuity   | Extinction           | Ancient knowledge          |
-| Common Flame     | Justice      | The wolf             | Mass mobilization          |
-| Bright Mirror    | Purity       | His own corruption   | Investigation              |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Wants</th>
+<th>Fears</th>
+<th>Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>Preservation</td>
+<td>Change</td>
+<td>Narrative control</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>Reform</td>
+<td>Harmonization Audits</td>
+<td>Popular support</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>Efficiency</td>
+<td>Irrelevance</td>
+<td>Technical indispensability</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>Continuity</td>
+<td>Extinction</td>
+<td>Ancient knowledge</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>Justice</td>
+<td>The wolf</td>
+<td>Mass mobilization</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>Purity</td>
+<td>His own corruption</td>
+<td>Investigation</td>
+</tr>
+</tbody>
+</table>
 
 ### The Twelve Figures' Truths
 
 - Cinnabar Heart: The edicts are forged.
-- Night Warbler: He knows he was the blade and is hunting the Council member who gave the order.
-- Guest Among Forests: The Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal.
+- Night Warbler: He killed Council member Wei. The identity of the Council member who issued that order remains unresolved.
+- Guest Among Forests: She witnessed the founding injury and traces a second injury to the completed seal. Their relation to the Dusk is her strongest explanation, not a complete proof.
 - Iron Calculation: The Qi reserves are running out.
 - Iron Wall: Operation Empty Throne exists.
-- Bright Mirror: He has sealed indictments on the entire Grand Council.
+- Bright Mirror: He holds sealed Council case files. Some indictments are ready; the Duke's case remains unproven.
 - Shadow: The original charter contradicts all current doctrine.
 - Duke of Eternal Night: The Emperor is imprisoned, not absent.
 - Iron Bone: The Dusk first manifested beyond the border provinces in his penal camp.
-- Celestial Book: She knows everything. All of it.
+- Celestial Book: She holds founding and sealing records that can be authenticated. Her own missing memories and gaps in the archive remain unresolved.
 - Bone Script: There are cook fires burning inside a declared Dusk zone, and the people who went back are not dying.
 - Incense Crown: The answer at the sealed door changed four years ago at her fifteenth performance, and she has reported the old formula at every Continuance since.
 
 ### The Truth of the One Who Is Not Counted
 
-- Stray Stroke: Eleven of the empire's own registries hold a true and separate account of him, and joining any two of them would cost eleven copper that no office has ever been given.
+- Stray Stroke: Eleven of the empire's own registries hold separate accounts issued under different names. Some began with false claims, and a crosscheck costs eleven copper that no office has been given.
 
 ---
 
@@ -2151,7 +2817,7 @@ Place three items in the center of the table: a candle (lit, if the space allows
 
 Begin with these exact words, or something close to them. Read them aloud. Let the silence settle afterward.
 
-"You are in the Celestial Court. The empire has gone about one hundred and sixty four years without hearing its Emperor speak in public. The Crimson Dusk spreads slowly across the border provinces. The Grand Council governs in the Emperor's absence. The Six Schools compete for influence. And you are here, in the heart of it all, as minor officials in a vast machine that does not know your name. Yet."
+"You are in the Celestial Court. The empire has gone about one hundred and sixty five years without hearing its Emperor speak in public. The Crimson Dusk spreads slowly across the border provinces. The Grand Council governs in the Emperor's absence. The Six Schools compete for influence. And you are here, in the heart of it all, as minor officials in a vast machine that does not know your name. Yet."
 
 Pause. Let the players feel the weight.
 
@@ -2267,9 +2933,9 @@ No adventure survives contact with a specific group of players unchanged. This s
 
 Some adventures assume specific archetypes will handle certain challenges. When your table lacks those archetypes, adapt the challenge rather than force a player into an unsuitable role:
 
-**No infiltrator available.** If the adventure expects a Shadow or Night Warbler to sneak into a location but no player has those skills, change the nature of the challenge. The infiltration becomes a social engineering problem: who can be bribed, blackmailed, or persuaded to grant access? Create an NPC who needs the players' help and whose access can be borrowed. The obstacle changes from "how do we get in unseen" to "who do we know who can get us in." The same dramatic tension remains, but the approach shifts to strengths the table actually possesses.
+**No infiltrator available.** If the adventure expects a Night Walker or Night Warbler to sneak into a location but no player has those skills, change the nature of the challenge. The infiltration becomes a social engineering problem: who can be bribed, blackmailed, or persuaded to grant access? Create an NPC who needs the players' help and whose access can be borrowed. The obstacle changes from "how do we get in unseen" to "who do we know who can get us in." The same dramatic tension remains, but the approach shifts to strengths the table actually possesses.
 
-**No investigator available.** If the adventure expects a Celestial Book or Bright Mirror to unravel a mystery but your table lacks dedicated investigators, make the clues more accessible through other means. A witness offers testimony unprompted because they recognize a player's reputation. A document arrives with an anonymous annotation explaining its significance. The mystery does not need to be easier; it needs to be findable by the skills at the table. Let combat characters intimidate witnesses for information. Let social characters charm answers out of reluctant sources. Let the Iron Calculation solve the problem through raw data analysis.
+**No investigator available.** If the adventure expects an Archivist or Bright Mirror to unravel a mystery but your table lacks dedicated investigators, make the clues more accessible through other means. A witness offers testimony unprompted because they recognize a player's reputation. A document arrives with an anonymous annotation explaining its significance. The mystery does not need to be easier; it needs to be findable by the skills at the table. Let combat characters intimidate witnesses for information. Let social characters charm answers out of reluctant sources. Let the Iron Calculation solve the problem through raw data analysis.
 
 **No martial character available.** If the adventure includes combat encounters but your table has no Iron Wall or Iron Bone, transform those encounters. The armed guards become a puzzle: how do we get past them without fighting? The assassin becomes a target for social manipulation: who hired them, and can we flip them? The physical confrontation becomes an environmental hazard: the collapsing bridge must be crossed, and no one is trained to hold it. Each of these maintains the dramatic stakes while respecting the party's capabilities.
 
@@ -2341,17 +3007,17 @@ The key principle: major NPCs are not immortal. They are consequential. Let the 
 
 The players have decided that the Audit is not a challenge to be overcome but a trap to be avoided. They ignore the summons. They flee the city. They go to ground in the Warrens. They refuse to participate in the system that is judging them.
 
-The Audit continues without them. The Commission notes their absence. Their Risk increases automatically. Their Faction Standing drops because they appear guilty. NPCs who depended on them face the Audit alone and may be Sanctioned or Disappeared because the players were not there to provide support. The players cannot escape the consequences by ignoring them. They can only change the form those consequences take.
+The Audit continues with the evidence and representation actually available. Distinguish a lawful postponement, a representative's appearance, and an unanswered personal summons. State any procedural consequence before the party chooses. Adjust Risk under Part Four once; do not also impose a general loss of Faction Standing, Favor, property, and allies for the same absence. Other witnesses act from their own evidence and choices.
 
-The key principle: the Court's systems are designed to process everyone. Opting out is itself a choice with consequences. The players may survive the Audit by hiding, but they lose everything they built: their position, their Celestial Favor, their allies. They become fugitives, which is a valid and interesting campaign direction. Let them be fugitives. The game continues.
+The key principle: refusing a proceeding changes how the case is heard. It does not erase the party's prior work or authorize every punishment in the setting. Record the actual finding and who has means and reason to enforce it.
 
 ### They Try to Flee the Capital
 
 The players have decided that the Court is too dangerous. They want to leave the capital entirely and start fresh in a border province or beyond the empire's borders.
 
-Fleeing the capital is possible. The escape itself can be a dramatic session: bribing guards, forging documents, evading the Night Warbler's surveillance network. But the Court does not forget. If the players flee, they become wanted fugitives. Their allies are interrogated. Their property is seized. Their names are added to the Commission's permanent watch list. The Crimson Dusk is everywhere. There is nowhere to go that the Dusk has not touched or will not touch soon. The players may leave the capital, but they cannot leave the empire's dying. The campaign shifts from Court intrigue to survival on the road, with the Dusk always visible on the horizon.
+Leaving the capital is possible. Establish whether the party travels lawfully, evades a specific order, or escapes custody; these create different consequences. A pursuit needs a named authority, information about the route, and resources to act. Property seizure requires someone to issue and enforce it. Let a receiving community have its own needs and institutions. A convoy contact, sanctuary undertaking, or freight contract can carry an existing relationship into the road story.
 
-The key principle: the world is bigger than the capital, but the Dusk is bigger than the world. Wherever the players go, the central questions remain: what caused the Dusk, and what can be done about it? The players can change their location. They cannot outrun the premise.
+The key principle: a change of place can change the party's practical options. Preserve the setting's pressures through actual routes, reports, and obligations. The players may protect a community without being required to solve the Dusk's origin first.
 
 ### They Want to Expose the Whole System
 
@@ -2389,19 +3055,19 @@ The key principle: the rules are a framework, not a prison. The Host's authority
 
 The players have solved in ten minutes a mystery you expected to take three sessions. They asked the right question, connected the right clues, and arrived at the correct conclusion far ahead of schedule.
 
-Congratulate them. They earned it. Then ask yourself: is the mystery truly over, or have they only solved the first layer? The document they found proves the edicts are forged. But who forged them? And who gave the order? And who has been protecting the forger for decades? Each answer leads to a deeper question. The players' quick solution gives you a gift: they have shown you what they are good at. The next mystery can be designed to challenge them at a higher level. For the current session, let them enjoy their victory. Reveal the information they earned and watch their faces light up. Then, in the same session, have the consequences of their discovery arrive. The Commission learns what they know. The forger sends agents to silence them. The truth they uncovered is not the truth they thought it was.
+Confirm the conclusion their evidence supports and let them use it. A solved forgery may allow an amendment, a safe hearing, or payment of a claim. Show that result before introducing another question. If an established person learns of the discovery, explain how and let their response fit their means. Do not add a hidden author, revoke an authenticated fact, or arrange an automatic ambush to recover your planned session count. Use the remaining time for the people affected, or end early with a clear next intention.
 
-The key principle: when players are clever, reward them with the next challenge, not with a reset. The mystery they solved was always going to lead to deeper waters. They have simply reached the shore faster than expected. The deeper water is still waiting.
+The key principle: a good solution changes the world. Further play follows a consequence the table wants to explore; it is not a fee charged before the solution can count.
 
 ### They Want to Use a Dusk Entity as a Weapon
 
 The players have encountered a Dusk Touched being that can be controlled, commanded, or bargained with. They want to use it against their enemies. Perhaps they want to unleash it in the Grand Council Chamber. Perhaps they want to point it at a rival faction's headquarters.
 
-This is a dangerous path. Using the Dusk as a weapon is like using a flood as a garden hose. The entity will do what the players want, but it will also do what it wants. The Dusk is not a tool. It is a corruption of reality that spreads without regard for intentions.
+Resolve the particular being's capabilities and any printed limits first. A creature retaining a personal purpose can bargain for itself; it cannot promise control over all Dusk manifestations. A mindless entity has no hidden negotiating agenda. Tell the party what it can observe about contamination, containment, and the intended target before it commits.
 
-First, determine what the entity wants. The Dusk Touched being that can be controlled is not truly controlled. It is cooperating because it sees an advantage. What does it gain from this arrangement? Second, let the players have their moment of power. The entity does what they ask. It terrifies their enemies. It feels like a victory. Then show them the cost. The entity spreads to things they did not intend to harm. The contamination lingers. The Commission traces the Dusk signature back to them. The entity's demands escalate. What started as a weapon becomes a leash around the players' own necks.
+Apply actual control effects as written. When control ends, use the being's established behavior. Contamination or pursuit follows only where a relevant trait, exposure, witness, or trace supports it. An agreement can be kept within its limits. The danger comes from what the party has chosen to attempt, not a compulsory betrayal added after success.
 
-The key principle: the Dusk is not a resource. It is the central problem of the setting. Using it as a shortcut creates consequences that are proportional to the shortcut. The players can weaponize the Dusk, but they cannot weaponize it without being changed by it. Every time they use it, they become a little more like the thing they are trying to stop.
+The key principle: distinguish a being, a technique, and the Dusk itself. State specific risks and honor successful preparation. No additional moral corruption or inevitable loss is imposed unless an established rule or event calls for it.
 
 ### They Refuse to Trust Any NPC
 

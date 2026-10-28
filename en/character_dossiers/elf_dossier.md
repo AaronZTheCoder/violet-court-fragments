@@ -1,42 +1,114 @@
 # Guest Among Forests
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Long Lived
 
-### School: Verdant Path
+### Named figure's affiliation: Verdant Path
 
 ### Court Role: Representative of the Northern Expanse
 
-### Default Gender: Female
+### Named figure's gender: Female
 
 ## Description
 
-You belong to one of the peoples of the Northern Expanse who live for centuries, a child of forests that predate the empire by millennia. You carry a bow that has outlasted dynasties. Your eyes are older than the Court. You remember the world before the Sun Emperor arrived, and you welcomed Him as a force for unity. You have watched His Court calcify into the very tyranny He promised to end. You have survived four Harmonization Audits. You are patient. You are also running out of time.
+Guest Among Forests represents the Northern Expanse and helped found the Verdant Path. Her long life gives her firsthand knowledge of losses the Court has reduced to dates. It also leaves gaps she cannot recover. She wants the capital to hear what its decisions cost beyond the walls, but she has made compromises of her own and does not welcome being treated as an infallible conscience.
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 10    | +0       |
-| Swiftness | 16    | +3       |
-| Endurance | 12    | +1       |
-| Intellect | 14    | +2       |
-| Presence  | 16    | +3       |
-| Resolve   | 14    | +2       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 3 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 5 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier + 2      | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 13        |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 3</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 5</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ## Proficiencies
 
@@ -56,11 +128,11 @@ Once per scene, you may step into one living tree or large plant and emerge from
 
 ### Patient Arrow
 
-When you take the Guard action, you may also make a single ranged attack at the end of the round against any target who acted after you. This attack has Advantage. You are very old. You have learned to wait.
+When you take the Guard action, you may also make a single ranged attack at the end of the round against any target who acted after you. This attack has Advantage. Your training teaches you to wait for an opening.
 
 ### Voice of the Ancient World
 
-You speak for the nonhuman peoples of the empire. When addressing a crowd that includes common folk or nonhumans, you gain Advantage on Presence checks. The people know you as someone who has always spoken for them. This reputation is a burden as much as a gift: the people expect you to advocate for them, and they notice when you do not.
+When addressing a crowd that includes common folk or nonhuman people, you gain Advantage on Presence checks. Choose whose concerns you hope to bring into the conversation and whether you have their permission to speak for them. This ability does not assign a public reputation or make you a representative of an entire people.
 
 ## Starting Equipment
 
@@ -69,19 +141,56 @@ You speak for the nonhuman peoples of the empire. When addressing a crowd that i
 - Traveler's Robes (woven from living fiber and able to repair themselves)
 - Forest Token (a piece of your homeland; Advantage on Survival checks in wilderness)
 - Dagger (1d6, Concealable)
-- Diplomatic Seal (marks you as a recognized representative of the Northern Expanse)
+- Community Credential (a modest seal or letter from a community, teacher, or institution chosen at creation; its authority is limited to the mandate agreed with the Host)
 - 25 Copper Leaves
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                             |
-| ---------------- | ---------------- | ------------------------------------------------- |
-| Golden Orthodoxy | -15              | You are heterodoxy personified.                   |
-| Verdant Path     | +25              | You founded this school.                          |
-| Iron Calculation | +5               | You respect competence.                           |
-| Crimson Lineage  | -5               | Old families remember old arguments.              |
-| Common Flame     | +15              | You have always spoken for the powerless.         |
-| Bright Mirror    | 0                | The Commission does not know what to make of you. |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>−15</td>
+<td>You are heterodoxy personified.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>+25</td>
+<td>You founded this school.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>+5</td>
+<td>You respect competence.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>−5</td>
+<td>Old families remember old arguments.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>+15</td>
+<td>You have always spoken for the powerless.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>0</td>
+<td>The Commission does not know what to make of you.</td>
+</tr>
+</tbody>
+</table>
+
+## Connection to the Shared World
+
+A timber or road survey can reopen the consequences of the route Guest Among Forests once helped establish. The Silt Papers give her present interlocutors evidence they can examine rather than requiring them to accept centuries of memory on trust.
 
 ## Expanded Backstory
 
@@ -135,41 +244,11 @@ You find this responsibility exhausting and slightly absurd and you have never o
 
 ## Sample Dialogue
 
-**When addressing a Council session on a matter of justice:**
-"I have been alive for four hundred and seventy two years. I have seen four imperial orders rise and fall. I have watched this Court for more than four centuries. I have never seen a policy based on cruelty that achieved anything except more cruelty. If you want efficiency, try kindness. It is slower, but the results last longer than the next political cycle."
+1. Correcting a record: “The grove was still there in that year. I can show you the survey.”
 
-**To a young human official who dismisses the long view:**
-"You believe that because you have only thirty years of real life ahead of you, you must act quickly. You believe urgency justifies ruthlessness. I have watched a hundred young officials with the same belief. They are all dead now. Their urgency did not save them. Their ruthlessness did not protect them. The only thing that lasts is what you build for the people who come after."
+2. Asked for ancient wisdom: “I made that mistake too. You need not repeat it to respect me.”
 
-**When an ally asks about their age:**
-"The mother trees remember when the stone that built this chamber was still part of a mountain, and when that mountain belonged to a range shaped by an ancient sea. They passed those memories to me until they felt almost like my own. I am younger than the oldest trees, but I carry recollections older than any map. That is a strange place to be: young enough to know the memories are inherited, old enough to feel their loss as mine."
-
-**A quiet observation during a tense negotiation:**
-"I can hear the roots of the city. They are sick. The stones are grinding against each other. The water table is dropping. The Court is built on a foundation that is failing, and everyone here is so busy arguing about who gets the top floor that no one has noticed the basement is flooding."
-
-**When confronted with human cruelty that shocks even them:**
-"I have seen humans do terrible things. I have seen them burn forests, poison rivers, enslave each other. I have also seen them compose music that made the stars weep, build gardens that rivaled paradise, love each other with a ferocity that shamed the gods. You contain multitudes. Most of you choose the terrible ones. That is not a judgment. It is an observation born of very long experience."
-
-**To a young elf who asks why they stay in the capital:**
-"Why do I stay? Because if I leave, there will be no one left to speak. The trees will not send a representative. The rivers will not file a petition. The animals will not attend the hearings. I stay because silence is a vote. I stay because if I go home, I will be admitting that the forests have no voice here. And they do. Even if no one listens, they do."
-
-**When someone asks if they have ever killed a human:**
-"Yes. Twice. The first was a poacher who was slaughtering my people's sacred animals for sport. I shot him from a distance. He died cleanly. I do not regret it. The second was a soldier who was about to kill a child. I shot him from a distance. He also died cleanly. I do not regret that either. I do not enjoy killing. But I have lived long enough to know that some things are worth killing for."
-
-**A rare moment of humor, dry and ancient:**
-"You humans have a saying: 'May you live in interesting times.' You say it as a curse. I have lived in interesting times for more than four centuries. I would very much like to live in boring times for a while. Just a century or two of absolute, uninterrupted tedium. Is that too much to ask?"
-
-**When you are afraid of what the empire will do next:**
-"I have learned to recognize the quiet before the purge. The Court becomes still. The officials stop arguing. The rumors stop flowing. That stillness is more terrifying than any threat. I have felt it three times in my life. Each time, it preceded bloodshed. I feel it now. I cannot stop what is coming. I can only prepare to survive it."
-
-**To comfort a young ally who has lost someone:**
-"Grief is not a weakness. It is a record of love. You grieve because you loved, and love is the only force that outlasts empires. I have loved and lost so many times that I have lost count. The grief does not diminish. But it becomes companionable. It walks beside you instead of dragging you under. Give it time. Give yourself time."
-
-**When a human tells you that your people should adapt or die:**
-"You have lived thirty years. You have never seen a season turn more than thirty times. You speak of adaptation as though it were simple, as though a forest could relocate in a generation. We have lived in these forests for ten thousand years. They are not our home. They are our body. You are asking us to cut off our limbs and learn to crawl. We will not crawl. We will walk, as we have always walked, and we will find our way home or we will not, but we will not crawl."
-
-**When alone, speaking to the mother tree in your memory:**
-"I am tired, mother. I am so tired. The city wears at me. The compromises wear at me. I have forgotten what it feels like to stand in a grove that has never known an axe. I have forgotten the sound of your voice. I hold on to the memory of it, but the memory is fading. I am afraid of forgetting. I am afraid that when I forget your voice, I will forget who I am."
+3. Negotiating relief: “Leave the road open through the winter. We can argue about the boundary afterward.”
 
 ## Personal Connections
 
@@ -196,19 +275,7 @@ He is human, old, nearly blind. He has tended the Court's west garden for forty 
 
 ## Roleplaying Guide
 
-Your internal conflict is the tension between patience and urgency. You have lived for four hundred and seventy two years. You have learned that the world changes slowly, that progress is measured in generations, that the arc of history bends toward justice only if you push it constantly and patiently. But you are running out of time. Your people are dying. The forests are shrinking. The empire is consuming everything. You cannot afford to wait anymore. But you have spent more than four centuries learning to wait. Unlearning that lesson is the hardest thing you have ever attempted.
-
-What keeps you up at night: the silence of your own people. You are one of the last of the old generation, the ones who remember the Northern Expanse before imperial incorporation. When you die, much of that living memory will die with you. Your surviving child does not remember it firsthand. The generations after them will not know what was lost. You carry that memory, and it is heavy. Some nights you lie awake and recite the names of the trees that have fallen. You do not know why you do this. Perhaps because if you forget them, they will truly be gone.
-
-How you treat allies: with patience and quiet support. You do not demand that your allies understand your perspective. You know they cannot. They have not lived long enough. But you offer them the benefit of your experience: advice, context, the long view they lack. You do not give orders. You suggest. You do not criticize harshly. You correct gently. You have learned that shame is not a good teacher. You try to be the mentor you wish had guided you when you were young.
-
-How you treat enemies: with dignity, even when they do not deserve it. You have seen too many cycles of vengeance to believe that cruelty serves any purpose. You do not humiliate your enemies. You do not gloat. You defeat them if you must, but you leave them their dignity. Not because they deserve it. Because you refuse to become what they are. You have seen what the Court does to people who embrace cruelty. You have watched it happen to humans and to your own kind. You will not let it happen to you.
-
-What you notice that others miss: the health of living things. You notice when a plant is wilting before anyone else. You notice when the air smells wrong, when the water tastes stale, when the earth beneath the city's stone is beginning to die. You read the world the way the Alchemist reads documents. Every living thing is a text. You have been reading it for more than four centuries.
-
-Your tell when you are lying: you use more words than necessary. You explain yourself. Truth, for you, is simple and direct. Lies require scaffolding. If you are elaborating, you are hiding something.
-
-Your tell when you are being sincere: you become very still. You stop making eye contact. You look at something distant, something only you can see. You speak slowly, choosing each word with care. Sincerity is the most expensive thing you have to offer. You do not spend it casually.
+Let experience make her specific rather than oracular. She can misremember, laugh, become impatient, and ask for help. Her disagreement should concern a person or a decision, not an automatic contempt for every human.
 
 ## Ability Examples
 
@@ -231,7 +298,7 @@ Add these to the existing list:
 
 Complications for existing truths:
 
-**For "The Crimson Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal, not a punishment for heterodoxy. You know the ritual sacrificed or bound the original guardians and made the Emperor their replacement conduit. You know the later seal severed that conduit. You do not know how to heal the wound."**
+**For "You witnessed the founding ritual sacrifice or bind the original guardians and install the Emperor as their replacement conduit. You traced a second injury to the later seal. You believe those injuries explain the Dusk; the intervening cause and a means of repair remain unproven."**
 Complication: You have recently discovered that the ritual used a piece of your mother tree to help bind the original guardians and establish the Sun Emperor as their replacement conduit. You do not know how the founders obtained it. You do not know whether your mother survived the taking, and you are afraid to return and learn the answer.
 
 **For "You have been alive for over four hundred years. You remember the first Emperor's voice. You remember what the Court promised, and what it became."**
@@ -245,63 +312,17 @@ Complication: Some of your younger people have started to embrace assimilation. 
 
 ## Daily Life
 
-You wake with the dawn, as your people have always done. You do not use a bed. You sleep on a mat woven from the fibers of a plant you grew yourself in a window box in your quarters. The plant has traveled with you for sixty years. It is older than most humans in the capital. You greet it each morning by touching its leaves.
-
-Your morning ritual takes an hour. You stretch. You breathe. You listen to the city waking: the carts, the calls of vendors, the distant bells of the Court. You do not like the city's sounds. They are too sharp, too fast, too disconnected from the rhythm of the natural world. But you have learned to interpret them the way you interpret the sounds of a forest. The city is a kind of ecosystem. It has predators, prey, parasites, and symbionts. You have learned to read it.
-
-Your work is divided between official duties and unofficial ones. The official duties are Council sessions, diplomatic meetings, receptions, and hearings. You attend them all. You speak when necessary. You listen constantly. The receptions are the worst. They require you to stand in crowded rooms full of people who want something from you, who approach with smiles and flattery and hidden agendas. You have learned to read them the way you read a forest: by the patterns they cannot hide. A nervous gesture here, a too casual mention there, a question that is really a probe. You answer in riddles. You deflect with courtesy. You give nothing. The art of diplomacy is the art of saying nothing while appearing to say everything. You have had centuries to perfect it.
-
-The unofficial duties are the real work: meeting with Verdant Path contacts, receiving reports from the Northern Expanse, maintaining the network of relationships that keeps your people safe. You perform these duties in the spaces between official events: in gardens, in tea houses, in the shadow of columns where no one thinks to listen. Your network is old, carefully built, and utterly invisible to the Court. It includes humans who believe in your cause, elves who have infiltrated the bureaucracy, and a few informants whose names you do not even know because they communicate through dead drops and coded messages. The network has kept your people alive for three hundred years. It will keep them alive after you are gone. You have made sure of that.
-
-You spend your afternoons walking. You walk through the city, observing. You check on the trees in the public gardens. You visit the markets to see what is being sold and who is selling it. You stop at the Archives to read. You sit on benches and watch people pass. Walking is how you think. Your body is old and needs movement. Your mind works best when your feet are moving.
-
-The Archives are your sanctuary. You have a regular table near the west window, where the light is good and the noise of the Court does not reach. The Archivist, Celestial Book, keeps a section reserved for you: histories of the Northern Expanse, records of treaties, botanical texts from the early empire. You read slowly, taking notes, cross referencing. The work is slow and methodical and it quiets your mind. You have been reading the same history of the Verdant Path for three months. It is two hundred pages long. You are not in a hurry. You will finish it when you finish it. The Archivist understands. The Archivist brings you tea without asking. You drink it without thanking her. The silence between you is the most comfortable silence in your life. It is the silence of two beings who understand that time is not a commodity to be spent but an element to be inhabited.
-
-In the evenings, when the Court's business is done, you write letters. You write to the elders of your people, to the keepers of the remaining groves, to anyone who might have news from the Expanse. You write in your native tongue, a flowing script that curves like branches. The letters are reports, mostly, summaries of Court activities that might affect the forests. But sometimes you write about smaller things: the taste of the bread you ate that day, the color of the sunset, a dream you had about a river you knew as a child. You send these letters through the Verdant Path's courier network, a slow and unreliable system that loses as many messages as it delivers. You write anyway. The act of writing connects you to home. The words travel across the distance even if the paper does not.
-
-You eat one meal a day, in the evening. Simple food: bread, fruit, water. You do not eat meat. You have not eaten meat since you were young and you watched a deer die and you understood that it was not different from you in any way that mattered. You eat alone, usually. You find the Court's dining halls exhausting. Too much noise. Too many people trying to extract something from you.
-
-Your quarters are in the diplomatic wing of the Court, a small suite of rooms designed to impress guests but that feel like a cage to you. The windows face east. You can see the Spire from your main room, a needle of stone and light that dominates the skyline. You have covered the walls with tapestries woven by your people, forest scenes of deep green and silver, to remind you of home. They help, a little. They also make the distance more painful, because the forests in the tapestries are greener and denser than any forest that still exists. You water your traveling plant each evening, carefully, the same gesture you have performed for sixty years. The ritual grounds you. It connects you to the slow, patient work of living things. You speak to it sometimes, in your mother tongue, words that have no translation. The plant does not answer. But you like to think it hears you.
-
-You have a small collection of pressed leaves, taken from the Northern Expanse on your last visit home, now forty years past. They are brittle and faded, their green long since turned to brown. You keep them between the pages of a book of poetry written in a language only you and a handful of others still speak. You take them out sometimes, when the Court has been particularly exhausting, and you hold them in your palm. They crumble a little more each time. One day they will be dust. You will still have the memory of the trees they came from. That will have to be enough.
-
-Among your personal rituals, one stands apart. Each evening, as the light fades, you open the window of your quarters and listen. You listen for the sound of birds. There are few birds in the capital. The city's noise drives them away. But sometimes, in the quiet between the bells, you hear a sparrow or a starling, a small survivor adapting to the stone world. You listen to it until it falls silent. Then you close the window and prepare for sleep. The sound reminds you that life persists, even here, even now. It is a small hope. You collect small hopes the way others collect coins. They are all you have left.
-
-The task you dread most: attending executions. The Court requires all Council representatives to witness the Harmonization of prominent prisoners. You have attended six. Each time, you watch the condemned walk to the Spire. Each time, you look for a face that reminds you of someone you have lost. Each time, you find one. You file your official report. You go home. You sit with your plant and you do not speak for the rest of the day.
-
-What you dread beyond the executions themselves is the possibility that you have become numb to them. The first execution you attended left you unable to speak for three days. The sixth left you silent only for an evening. You are adapting to horror, and adaptation feels like betrayal. You wonder how many executions it will take before you can file your report and go to dinner as if nothing happened. You wonder if that day has already arrived and you simply have not recognized it. You have started attending the executions of people you do not know, voluntarily, to test yourself. Each time, you feel less. You are not sure if this means you are becoming stronger or becoming less human. You suspect both are true.
-
-You think of your child often, especially on days when the Court has been particularly cruel. You try to picture their face, but the image has faded over forty years of separation. You remember their voice, a little. You remember that they laughed easily as a child, that they loved the smell of rain on dry earth, that they asked questions constantly, questions you could not always answer. You wonder if they still laugh. You wonder if they still ask questions. You wonder if they think of you at all. You have sent them letters, carefully worded, through trusted couriers. You do not know if any of them arrived. You have received no replies. The silence from your child is the loudest silence in your life. It is louder than the executions. It is louder than the dying forests. It is the sound of a future that will not include you. You have accepted this, intellectually. Your heart has not accepted it. Your heart still waits for a reply that will never come.
-
-You have not visited your mother tree in forty years. You tell yourself it is because the journey is long and your duties keep you in the capital. The truth is that you are afraid of what you will find. She was already weakening when you left. Her roots were being poisoned by runoff from a mining operation fifty miles upstream. You argued with the mining company, with the local officials, with the Court. You lost. The mining continued. The poison spread. You left before you could watch her die. You left because staying meant watching something you loved be destroyed slowly, and you did not have the strength for that. You have always wondered if leaving was courage or cowardice. You suspect it was both, and you will carry the ambiguity until you return. You do not know if she is still alive. You do not know if you would feel her death through the root network from this distance. Some days you think you feel a faint pain, a dimming, a note going flat. Some days you think you are imagining it. You have made a decision: you will visit her before you die. You will make the journey, whatever the cost. You will stand at her roots and you will apologize for failing her. Then you will return to the capital and finish your work. You have made this decision every year for forty years. You have not acted on it. You are not sure you have the courage.
-
-There is a small shrine in your quarters, hidden behind one of the forest tapestries. It contains a piece of bark from your mother tree, taken on the day you left. A feather from a bird that nested in her branches. A stone from the stream that ran past her roots. You kneel before this shrine on the anniversaries of significant events: the day you emerged from her roots, the day the first humans arrived, the day the Sun Emperor took the throne. You do not pray. Your people do not pray. You sit in silence and remember. You touch the bark. You trace the patterns in it. You remember the feel of her presence, vast and patient and wise. You carry her with you, even here, even now. The distance does not diminish the connection. It sharpens it.
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Forest's Embrace.** While in a natural setting, you may spend 3 Qi to heal yourself or an ally you touch for 2d8 HP.
-
-What it feels like: The first time you use Forest's Embrace, you weep. You do not mean to. It happens without your permission. The healing is not a Technique you impose. It is a conversation you have with the land. You ask the earth to share its strength, and the earth agrees. You feel the roots of the trees below you, the network of mycelium connecting everything living, the slow pulse of the world's blood. You are not separate from it. You have never been separate. You simply forgot, in the noise of the city, what it felt like to be held by the land. You remember now. The healing is not just physical. It is spiritual. It reminds you what you are fighting for. It reminds you that the world is still alive, still generous, still willing to help. You carry that reminder back to the city with you. It fades, slowly, over the weeks. But now you know you can find it again.
-
-**Level 5: Arrow of Seasons.** Once per combat, you may fire an arrow that carries a seasonal effect: Spring (entangling vines, target immobilized for one round), Summer (blinding light, target has Disadvantage for one round), Autumn (withering, target takes ongoing 1d4 damage), Winter (freezing, target loses their next Movement).
-
-What it feels like: Your arrows have always been precise. Now they carry meaning. When you draw the bowstring, you feel the season you want to invoke flowing through you: the green surge of spring, the burning clarity of summer, the quiet rot of autumn, the still power of winter. The arrow becomes a vessel for the natural world's voice. You are not just attacking. You are reminding your enemies that they live in a world that is larger than their politics, their ambitions, their petty cruelties. The vines that entangle them are not your creation. They are the earth's response to violence. The light that blinds them is not power you created. It is the sun's judgment. You are a conduit, not a source. This knowledge is humbling. It is also liberating. You do not have to be powerful. You only have to be present.
-
-**Level 7: Ancient Memory.** Once per session, you may declare that you remember a relevant event from the past. Work with the Host to determine what you recall.
-
-What it feels like: Your memory has always been good. Now it has become something more. You reach into the past and the past reaches back. You remember not just events but textures: the way the air smelled on a particular day, the sound of a voice you have not heard in centuries, the feeling of standing in a forest that no longer exists. The memories come unbidden sometimes. They surface in Council meetings, in conversations, in quiet moments when you are not expecting them. You have started to talk to yourself, murmuring old names, old songs. Colleagues ask if you are well. You tell them you are fine. You are not sure you are fine. You are becoming a vessel for too many memories. They press against the inside of your skull. You wonder, sometimes, if this is how the oldest of your people go mad: not from age, but from the sheer weight of everything they have seen.
-
-**Level 9: The Long Return.** Once per campaign, if you die in a natural setting, your body dissolves into living wood and new growth. One year later, you return. The Host determines the circumstances.
-
-What it feels like: You have always known this was possible. It is the oldest gift of your people, the one that separates you from peoples with shorter lives. When you die in a place where the world is still alive, the world takes you back. Your body becomes soil. Your bones become roots. Your memories become rings in the wood of a new tree. The year that follows is not unconsciousness. It is a dream. You dream of the earth. You dream of the network of roots that connects all living things. You dream of time moving at the pace of glaciers and stars. You do not want to wake. But the world calls you back, because your work is not done. When you emerge, you are changed. You are not the same person who died. Part of you remains in the soil, feeding the roots. Part of the soil remains in you. You carry the earth inside you now. You are slower, quieter, more distant. You speak less. You listen more. You are closer to the end of your long life. But you are not there yet. There is still work to do. And so you draw your bow, and you nock your arrow, and you wait for the right moment to release.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Suggested Truths
 
 Choose one, or create your own with the Host:
 
-- The Crimson Dusk is the delayed wound left by the founding ritual and the Emperor's completed seal, not a punishment for heterodoxy. You know the ritual sacrificed or bound the original guardians and made the Emperor their replacement conduit. You know the later seal severed that conduit. You do not know how to heal the wound.
+- You witnessed the founding ritual sacrifice or bind the original guardians and install the Emperor as their replacement conduit. You traced a second injury to the later seal. You believe those injuries explain the Dusk; the intervening cause and a means of repair remain unproven.
 - You remember the first Emperor's voice. You remember what the Court promised, and what it became, and you are the only living witness to the difference.
 - One of the Grand Council members is secretly an ally of the Verdant Path. You have protected their identity for years. If they were discovered, everything they have built would go with them.
 - Your people are not dying from the Dusk. They are dying from something slower: assimilation, erasure, and the grinding weight of an empire that does not see them as people.

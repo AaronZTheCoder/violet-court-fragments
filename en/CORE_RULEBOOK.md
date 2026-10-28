@@ -12,7 +12,7 @@
 
 ### The Pitch
 
-The Violet Court Fragments is a tabletop roleplaying game set in the dying days of the Celestial Empire, a vast and ancient realm ruled for more than four centuries by the Celestial Court in the name of the Sun Emperor, who has not spoken publicly for about one hundred and sixty four years. The players take on the roles of figures drawn into the Court's web: a brush scribe who discovers a forbidden truth, a soldier who swore an oath to an absent Emperor, a reformer whose ideas are too popular to ignore and too dangerous to tolerate.
+The Violet Court Fragments is a tabletop roleplaying game set in the dying days of the Celestial Empire, a vast and ancient realm ruled for more than four centuries by the Celestial Court in the name of the Sun Emperor, who has not spoken publicly for about one hundred and sixty five years. The players take on the roles of figures drawn into the Court's web: a brush scribe who discovers a forbidden truth, a soldier who swore an oath to an absent Emperor, a reformer whose ideas are too popular to ignore and too dangerous to tolerate.
 
 Beyond the borders, the Crimson Dusk creeps inward, a corruption of reality itself that turns fields to salt and people into hollow things that weep red. Within the capital, six schools of thought compete for control of the Court, each believing they alone know how the empire should be governed. And somewhere in the depths of the Imperial Archives, a truth waits that could save the empire or destroy it.
 
@@ -70,17 +70,17 @@ Here is what a first session might sound like at the table. The Host has prepare
 
 Host: "The rain has been falling for three days. It falls now in sheets across the Outer City, turning the unpaved streets to mud. You stand in the courtyard of the Azure Lotus Teahouse, a modest establishment in the shadow of the great walls of the Inner City. The lanterns are lit. Warm light spills from the windows. Inside, you can hear someone playing a stringed instrument badly. The air smells of wet stone and frying oil. Two of you arrived together. One of you was already here, nursing a cup of tea and watching the rain. How do you want to begin?"
 
-Player 1 (Veren, a Duke of Eternal Night): "I am the one inside. I have been here for an hour, sitting at a table near the window where I can see the door. I am not drinking the tea. I am just watching the rain. And the other patrons."
+Player 1 (Veren, a Blood Cultivator): "I am the one inside. I have been here for an hour, sitting at a table near the window where I can see the door. I am not drinking the tea. I am just watching the rain. And the other patrons."
 
 Host: "The teahouse is quiet. Four other tables are occupied. A merchant and his bodyguard argue over a bill of lading. Two clerks huddle over documents. An old woman sits alone, muttering to herself. The door opens."
 
-Player 2 (Kestrel, a Night Warbler): "I step through the door, shaking water from my cloak. I scan the room quickly. I am looking for exits, for threats, for faces that watch too closely."
+Player 2 (Kestrel, a Night Walker Hand): "I step through the door, shaking water from my cloak. I scan the room quickly. I am looking for exits, for threats, for faces that watch too closely."
 
-Player 3 (Scholar Lin, a Celestial Book): "I am right behind him. I close my umbrella and tap it twice on the floor to shake off the water. I nod to the proprietor."
+Player 3 (Scholar Lin, an Archivist): "I am right behind him. I close my umbrella and tap it twice on the floor to shake off the water. I nod to the proprietor."
 
 Host: "The proprietor, a sturdy woman with broad shoulders and greying hair tied in a severe knot, nods back. She gestures to an empty table near the hearth. The warmth of the fire reaches you even from across the room. Veren at the window table has not turned to look at you."
 
-Player 1: "I have. I turn now. I meet the eyes of the Night Warbler and incline my head slightly. I recognize him. We have worked together before."
+Player 1: "I have. I turn now. I meet Kestrel's eyes and incline my head slightly. I recognize him. We have worked together before."
 
 Host: "Good. The three of you are here because a message found each of you in the night, folded into a plain envelope with no seal. The message said only: 'The Jade Iris blooms at midnight. Ask for the woman who weeps.' Each of you followed the thread here. What do you do next?"
 
@@ -100,15 +100,52 @@ If the total meets or exceeds the TN, the action succeeds. If it falls short, th
 
 ### Target Numbers
 
-| Difficulty  | TN  | Example                                          |
-| ----------- | --- | ------------------------------------------------ |
-| Trivial     | 5   | Remembering a famous official's name             |
-| Routine     | 8   | Filing a standard report without errors          |
-| Moderate    | 12  | Convincing a neutral official to share gossip    |
-| Challenging | 16  | Detecting a lie told by a trained operative      |
-| Formidable  | 20  | Escaping a burning building during a Dusk attack |
-| Legendary   | 24  | Convincing the Bright Mirror to show mercy       |
-| Impossible  | 28  | Lying to the Celestial Book and succeeding       |
+<table>
+<thead>
+<tr>
+<th>Difficulty</th>
+<th>TN</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trivial</td>
+<td>5</td>
+<td>Remembering a famous official's name</td>
+</tr>
+<tr>
+<td>Routine</td>
+<td>8</td>
+<td>Filing a standard report without errors</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>12</td>
+<td>Convincing a neutral official to share gossip</td>
+</tr>
+<tr>
+<td>Challenging</td>
+<td>16</td>
+<td>Detecting a lie told by a trained operative</td>
+</tr>
+<tr>
+<td>Formidable</td>
+<td>20</td>
+<td>Escaping a burning building during a Dusk attack</td>
+</tr>
+<tr>
+<td>Legendary</td>
+<td>24</td>
+<td>Convincing the Bright Mirror to show mercy</td>
+</tr>
+<tr>
+<td>Impossible</td>
+<td>28</td>
+<td>Lying to the Celestial Book and succeeding</td>
+</tr>
+</tbody>
+</table>
 
 ### Advantage and Disadvantage
 
@@ -138,7 +175,7 @@ Do not roll when:
 - The action is impossible (the Host simply says no)
 - The action is trivial (the Host simply says yes)
 - Failure would not create an interesting outcome (skip to success)
-- The dice would override a better story (the Host rules in favor of the story)
+- The outcome is already established by an ability or an agreed fact. Never cancel a valid roll to preserve a planned scene.
 
 The dice serve the narrative, not the other way around.
 
@@ -148,7 +185,7 @@ The following examples show how Resolution Rolls play out in actual conversation
 
 **Example 1: Routine (TN 8): Filing a Report**
 
-A player character, a Celestial Book archivist named Scholar Lin, needs to file a routine acquisition report to avoid scrutiny.
+A player character, an Archivist archivist named Scholar Lin, needs to file a routine acquisition report to avoid scrutiny.
 
 Host: "The Bureau of Celestial Inquiry requires every document transfer to be recorded on Form 7B in triplicate. The clerk at the desk is half asleep. He slides the forms toward you without looking up and mutters something about ink."
 
@@ -246,66 +283,197 @@ Host: "Your fingers slip on a wet gear. The filament snaps completely. The devic
 
 ## Chapter Three: Character Creation
 
-### Making Your Character
+### Making Room for a Person
 
-Character creation is designed to be completed in under thirty minutes. You will need a Character Dossier (a printed sheet for your chosen Archetype) and a pencil.
+Bring a pencil and a character sheet. In about thirty minutes, choose what your character can do and what matters to them today. Their life does not need to be finished before play begins.
 
-### Step One: Choose Your Archetype
+The recommended method is **Modular Careers**: one primary career, one secondary trade, a specialization, and five Skills. A career describes training. It does not assign gender, ancestry, allegiance, temperament, trauma, or an ending. A blood cultivation practice need not make you a duke; knowing the Temple's rites does not make you Incense Crown.
 
-The game provides thirteen Archetypes. Twelve of them correspond to a major figure in the Celestial Court. The thirteenth corresponds to a man the Court has never managed to count, which is why the Court still says twelve. When you choose an Archetype, you are not playing as that figure. You are playing as someone who shares their path, their training, and their general role in the empire. The Archetype provides your mechanical foundation.
+The thirteen dossiers also preserve **Portrait Builds**, the original ready made packages. A table may use those packages for a short game or deliberately play the named figures. Choose one creation method for the whole party. Portrait Builds use the printed Facet baseline plus six points, three printed Skills plus two choices, printed wealth and Faction Standing. Modular Careers use the rules below instead of those four package elements. Neither method grants both sets of benefits.
 
-The thirteen Archetypes are:
+### Step One: Choose a Primary Career
 
-| Archetype             | Path             | Role in the Empire                     | Default Gender |
-| --------------------- | ---------------- | -------------------------------------- | -------------- |
-| Cinnabar Heart        | Alchemist        | Bureau of Harmonious Narrative         | Male           |
-| Night Warbler         | Shadow Hand      | Bureau of Internal Harmony             | Male           |
-| Guest Among Forests   | Long Lived       | Representative of the Northern Expanse | Female         |
-| Iron Calculation      | Artificer        | State Planning Commission              | Male           |
-| Iron Wall             | Bastion          | Imperial Garrison Command              | Male           |
-| Bright Mirror         | Justicar         | Commission for Celestial Purity        | Male           |
-| Shadow                | Night Walker     | Independent Intelligence               | Male           |
-| Duke of Eternal Night | Blood Cultivator | Crimson Lineage Aristocracy            | Male           |
-| Iron Bone             | Fury Adept       | Red Banner Revival Movement            | Male           |
-| Celestial Book        | Archivist        | Bureau of Celestial Inquiry            | Female         |
-| Bone Script           | Hedgewarden      | None. You have no file.                | Male           |
-| Incense Crown         | Oracle           | Temple of Ten Thousand Gods            | Female         |
-| Stray Stroke          | Drifter          | None. You are eleven files, not one.   | Male           |
+Take the three starting abilities and the advancement tree from one dossier. Use its Hit Point, Qi Pool, and Initiative bonuses, but recalculate every derived value from your own Facets. The names in the last column identify examples of these careers, not roles the player must inherit.
 
-Full details for each Archetype are provided in the Character Dossiers supplement.
+<table>
+<thead>
+<tr>
+<th>Primary career</th>
+<th>Work you might do</th>
+<th>Dossier portrait</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alchemist</td>
+<td>Prepare elixirs, assay substances, interpret official language</td>
+<td>Cinnabar Heart</td>
+</tr>
+<tr>
+<td>Shadow Hand</td>
+<td>Escort a witness, infiltrate a compound, investigate covertly</td>
+<td>Night Warbler</td>
+</tr>
+<tr>
+<td>Long Lived</td>
+<td>Practice forest passage, archery, and negotiation</td>
+<td>Guest Among Forests</td>
+</tr>
+<tr>
+<td>Artificer</td>
+<td>Repair engines, survey works, maintain Qi infrastructure</td>
+<td>Iron Calculation</td>
+</tr>
+<tr>
+<td>Bastion</td>
+<td>Guard a person, organize a defense, hold a passage</td>
+<td>Iron Wall</td>
+</tr>
+<tr>
+<td>Justicar</td>
+<td>Examine testimony, mediate disputes, enforce a sworn duty</td>
+<td>Bright Mirror</td>
+</tr>
+<tr>
+<td>Night Walker</td>
+<td>Find contacts, gather intelligence, move through the city</td>
+<td>Shadow</td>
+</tr>
+<tr>
+<td>Blood Cultivator</td>
+<td>Practice blood arts, preserve inherited knowledge</td>
+<td>Duke of Eternal Night</td>
+</tr>
+<tr>
+<td>Fury Adept</td>
+<td>Channel anger into strength, protect a community</td>
+<td>Iron Bone</td>
+</tr>
+<tr>
+<td>Archivist</td>
+<td>Study records, trace provenance, read patterns</td>
+<td>Celestial Book</td>
+</tr>
+<tr>
+<td>Hedgewarden</td>
+<td>Tend the land, preserve names, work beyond the registry</td>
+<td>Bone Script</td>
+</tr>
+<tr>
+<td>Oracle</td>
+<td>Conduct rites, offer sanctuary, hear the names of the dead</td>
+<td>Incense Crown</td>
+</tr>
+<tr>
+<td>Drifter</td>
+<td>Travel, negotiate checkpoints, work with overlapping identities</td>
+<td>Stray Stroke</td>
+</tr>
+</tbody>
+</table>
 
-These defaults govern the named Court figures, the Stray Stroke, and every unmarked example in this build. A player may choose any gender for a player character without changing mechanics, history options, or advancement.
+Long Lived names a tradition as well as a lifespan. Decide how you learned it; do not claim centuries of memory unless you choose that history. Blood cultivation, fury practices, and ritual training likewise require an origin, not a prescribed species or personality.
 
-**How to choose your Archetype.** Think about the kind of story you want to tell. Do you want to be the person who speaks truth to power? The Bright Mirror or the Celestial Book fits well. Do you want to be the person who operates from the shadows? The Night Warbler or the Shadow suits that. Do you want to be the one who endures, who takes hits and keeps standing? The Iron Wall or Iron Bone. Do you want to stand outside the machine entirely and look at it from underneath? The Bone Script. Do you want to hold a power the empire cannot take, copy, or replace, and discover that this is also a cage? The Incense Crown. Do you want to be the one person the record cannot resolve into a single man, and find out what that costs? The Stray Stroke. Your Archetype is not your destiny. It is your starting point.
-
-Three of these Archetypes sit differently from the rest. The Bone Script has no rank, no seal, and no personnel file, which means the ordinary tools of Court pressure do not reach him and the ordinary protections do not either. The Incense Crown holds an office the empire depends on and cannot reproduce, which makes her both the safest person in the capital and the most closely watched. The Stray Stroke has been entered into the record eleven times under eleven genuine names, so that the empire holds eleven true accounts of him and cannot assemble a single one, which leaves him unreachable and unprotected in exactly equal measure. If your table wants a character who is outside the hierarchy rather than inside it, these are the three doors.
-
-**Example choice.** A player named Lan wants to play a character who is a scholar drawn into dangerous politics. She reads the Archetype descriptions. The Celestial Book offers access to forbidden knowledge and a position in the archives, which appeals to her. The Cinnabar Heart offers alchemy and the manipulation of information through the Bureau of Harmonious Narrative. She chooses the Celestial Book, deciding her character is an archivist who found a document she was not meant to see.
+**Office and access.** At creation, describe the modest appointment, license, apprenticeship, or community mandate through which your institutional abilities operate. Keep their printed checks, costs, and limits. An Archive Access roll can obtain supervised access or uncover a record; it does not give a junior archivist the Keeper's office. A career never grants authority to overrule another player's character.
 
 ### Step Two: Assign Your Facets
 
-Every character has six **Facets** that measure their core capabilities:
+Assign **16, 14, 14, 12, 10, 8** among Might, Swiftness, Endurance, Intellect, Presence, and Resolve. Then distribute **six points**, to a creation maximum of **18**. This array replaces the dossier baseline, including any printed 20. Later advancement can raise a Facet to 20.
 
-| Facet         | Measures                              | Used For                                                             |
-| ------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| **Might**     | Physical power, melee combat          | Striking, lifting, breaking, intimidation through strength           |
-| **Swiftness** | Speed, agility, stealth               | Dodging, sneaking, ranged combat, initiative, picking locks          |
-| **Endurance** | Toughness, stamina, resilience        | Resisting damage, surviving harsh conditions, holding breath         |
-| **Intellect** | Knowledge, reasoning, Qi manipulation | Investigation, conducting rituals, crafting, recalling lore          |
-| **Presence**  | Charisma, bearing, social force       | Persuasion, deception, leadership, performance, commanding attention |
-| **Resolve**   | Willpower, courage, perception        | Resisting fear, detecting lies, maintaining sanity, staying focused  |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Measures</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>Strength, lifting, close combat</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>Speed, balance, precise movement</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>Stamina, resilience, physical survival</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>Reasoning, knowledge, Qi manipulation</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>Bearing, expression, social influence</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>Attention, composure, mental endurance</td>
+</tr>
+</tbody>
+</table>
 
-Your Archetype provides a baseline array of Facet scores. You then have **six additional points** to distribute among your Facets as you wish. You may not raise any Facet above 18 with these points. A few Archetypes begin with a signature Facet of 20: the Celestial Book's Intellect and Resolve, the Incense Crown's and the Duke's Presence. That score is the Archetype's gift rather than something you bought, and it cannot be raised further.
+**Facet Modifier:** subtract 10, divide by 2, and round down. Scores of 8, 10, 14, and 18 give modifiers of minus 1, +0, +2, and +4 respectively.
 
-**Facet Modifier:** Your Facet Modifier equals (Facet Score minus 10) divided by 2, rounded down. A Facet of 14 gives a modifier of +2. A Facet of 8 gives a modifier of minus 1.
+### Step Three: Choose a Secondary Trade and Five Skills
 
-**Example assignment.** Lan's Celestial Book baseline is Might 6, Swiftness 8, Endurance 12, Intellect 20, Presence 16, Resolve 20. She has 6 bonus points. Intellect and Resolve are already at the Archetype's signature 20 and cannot be raised, so she spends elsewhere. She puts 4 points into Endurance, raising it to 16 (modifier +3), because an archivist who faints during an Audit is no use to anyone. She puts 2 into Presence, raising it to 18 (modifier +4). Might stays at 6 and Swiftness at 8. She decides her character is brilliant and immovable and physically hopeless, and that this is the point of her.
+Choose **two** of your primary dossier's three starting Skills, **one** from your secondary trade, and **two** freely from the Skill List. You begin with exactly five different proficiencies and a Proficiency Bonus of +2. If a selection repeats a Skill, choose another from the full list; repeated training never doubles the bonus.
 
-### Step Three: Select Skills
+Your secondary trade grants one practical permission as well as its Skill choice. It supplies ordinary knowledge or an introduction, not automatic obedience, a free favor, or access to protected information. It grants no second ability package, equipment package, Facet array, derived bonus, or advancement tree.
 
-Skills represent specific areas of training and expertise. Each Skill is tied to a Facet. When you make a Resolution Roll using a Skill you are proficient in, you add your **Proficiency Bonus** (+2 at character creation, increasing with advancement) to the roll in addition to your Facet Modifier.
-
-Your Archetype grants proficiency in three Skills. You may choose **two additional Skills** from the full list.
+<table>
+<thead>
+<tr>
+<th>Secondary trade</th>
+<th>Choose one Skill</th>
+<th>Practical permission</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Copyist</td>
+<td>Lore or Investigation</td>
+<td>Recognize standard forms and request ordinary public files</td>
+</tr>
+<tr>
+<td>Courier</td>
+<td>Survival or Vigilance</td>
+<td>Know common routes, carrier marks, and checkpoint requirements</td>
+</tr>
+<tr>
+<td>Healer</td>
+<td>Craft or Fortitude</td>
+<td>Recognize common injuries and find a local source of medical supplies</td>
+</tr>
+<tr>
+<td>Artisan</td>
+<td>Craft or Investigation</td>
+<td>Assess ordinary workmanship and approach a public workshop</td>
+</tr>
+<tr>
+<td>Performer</td>
+<td>Performance or Insight</td>
+<td>Recognize a performance tradition and approach its practitioners</td>
+</tr>
+<tr>
+<td>Trader</td>
+<td>Connections or Persuasion</td>
+<td>Read a market invoice and locate a legitimate buyer</td>
+</tr>
+<tr>
+<td>Shrine Attendant</td>
+<td>Lore or Discipline</td>
+<td>Recognize common observances and approach a local shrine</td>
+</tr>
+<tr>
+<td>Labor Organizer</td>
+<td>Athletics or Connections</td>
+<td>Understand a work crew's routine and request a meeting with its delegate</td>
+</tr>
+</tbody>
+</table>
 
 **Skill List:**
 
@@ -349,117 +517,93 @@ _Resolve Skills:_
 
 **Pairing a Skill with a different Facet.** The Facet listed beside each Skill is its default, not its only pairing. When the fiction clearly calls for a different one, the Host may pair a Skill with whatever Facet the situation demands: Intimidation with Presence when a character menaces by sheer bearing rather than muscle, Craft with Swiftness when the work is delicate rather than clever, Lore with Resolve when the question is whether you can recall it under interrogation. Proficiency still applies. The Host should name the pairing aloud before the roll so the table can see the logic.
 
-**Example selection.** The Celestial Book Archetype grants proficiency in Lore, Investigation, and Qi Theory. Lan needs to choose two more. Her character is an archivist, but she wants her to have some practical skills for when things go wrong. She chooses Insight (Resolve) to read dangerous people, and Deception (Presence) because archivists who cannot lie do not survive long in the Court. She records these five skills on her dossier.
+### Step Four: Choose a Specialization, or Leave It Open
 
-### Step Four: Determine Derived Values
+A specialization is a branch of practice, not a second career. Choose one below now or after the third session. If you defer it, leave one of your two free Skill choices blank; fill that slot before the first roll that uses it, no later than the end of the third session. No retcon grants success on an earlier roll.
 
-**Hit Points (HP):** Your capacity to withstand physical harm. Calculated as: 10 + Endurance Modifier + Archetype Bonus. When HP reaches 0, you are dying.
+<table>
+<thead>
+<tr>
+<th>Specialization</th>
+<th>Questions that interest you</th>
+<th>Optional free Skill choice</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Field Practice</td>
+<td>Who needs help here, and what can be done now?</td>
+<td>Survival or Fortitude</td>
+</tr>
+<tr>
+<td>Inquiry</td>
+<td>What happened, and what would test our explanation?</td>
+<td>Investigation or Insight</td>
+</tr>
+<tr>
+<td>Mediation</td>
+<td>Who needs to be heard, and what could they accept?</td>
+<td>Persuasion or Connections</td>
+</tr>
+<tr>
+<td>Covert Practice</td>
+<td>How can we reach someone without exposing them?</td>
+<td>Stealth or Larceny</td>
+</tr>
+<tr>
+<td>Ritual Practice</td>
+<td>What does this working require, and who bears its cost?</td>
+<td>Lore or Qi Theory</td>
+</tr>
+</tbody>
+</table>
 
-**Qi Pool:** Your reserve of Celestial Qi for techniques and rituals. Calculated as: 10 + Intellect Modifier + Archetype Bonus.
+Any primary career may take any specialization. These are prompts, not beliefs you must hold. The Skill uses an existing free slot; it is not a sixth proficiency and gives no extra action or bonus. Later, spend 4 Advancement Points to learn a Technique from Chapter Seven with the required training. A specialization helps you seek a teacher; it does not waive that requirement. You may rename or change its focus during downtime without losing purchased abilities.
 
-**Sanity:** Your mental and spiritual stability. Starts at 20 + Resolve Modifier. When Sanity reaches 0, your character suffers a breakdown and may become unplayable.
+### Step Five: Calculate Values and Take Equipment
 
-**Initiative:** Swiftness Modifier plus any Archetype bonuses. Used to determine turn order in combat.
+- **Hit Points:** 10 + Endurance Modifier + your primary career's printed HP bonus.
+- **Qi Pool:** 10 + Intellect Modifier + your primary career's printed Qi bonus.
+- **Sanity:** 20 + Resolve Modifier.
+- **Initiative:** Swiftness Modifier + your primary career's printed Initiative bonus, if any.
+- **Defense:** 10 + Swiftness Modifier, plus armor you actually wear. Do not count a printed armor bonus twice.
+- **Celestial Favor:** 10. **Ritual Harmony:** 50. **Wealth:** 20 Copper Leaves.
 
-**Defense:** 10 + Swiftness Modifier. The base TN for attacks targeting you.
+Take your primary career's listed practical equipment and one personal item. Unique historical relics become ordinary training equivalents with the same listed numerical effects; they do not establish that you own an irreplaceable object from the world's history. Credentials reflect your agreed appointment. Use 20 Copper Leaves in place of the dossier's listed money, including Jade Slips.
 
-**Example calculation.** Lan's Celestial Book has Endurance 16 (modifier +3) and an Archetype bonus of +1 HP. Her HP is 10 + 3 + 1 = 14. Her Qi Pool: Intellect 20 (modifier +5) with an Archetype bonus of +8 Qi. Total Qi Pool: 10 + 5 + 8 = 23. Sanity: 20 + Resolve modifier (+5) = 25. Initiative: Swiftness 8 (modifier minus 1), with no Archetype bonus, so minus 1. Defense: 10 + (minus 1) = 9. She is the most fragile character at the table and the hardest to break.
+Abilities and Techniques are not two separate starting allowances. You receive the three abilities in your primary dossier, with Qi costs only where specified. The general Technique list is a learning catalogue, not three additional free powers.
 
-### Step Five: Starting Resources
+### Step Six: Choose One Present Stake
 
-Every character begins with:
+Write one desire, one bond, and one reason to remain with the party. You may know a dangerous Truth, suspect one, or leave its details open. A suspicion is not a confirmed fact about another character or the setting. Agree with the Host which parts are established and which remain questions.
 
-- **Celestial Favor:** 10 points. Your currency of influence within the Court. Spend to call in favors, access restricted areas, or survive investigations.
-- **Ritual Harmony:** 50. A measure of how orthodox you are perceived to be. The scale runs from 0 (Heterodox: under active investigation) to 100 (Exemplary: a threat to everyone less pure than you, which is everyone).
-- **Equipment:** Your Archetype provides starting equipment. You may also begin with one personal item of significance, agreed upon with the Host.
+For the linked campaign, choose a connection to relief work, the Temple, the records, or a person affected by Gate's End. You can instead accept a paid job or help a companion. Nobody needs a secret inheritance, a dead family, or a hidden atrocity to deserve a place in this story.
 
-### Step Six: Your Truth
+### Step Seven: Set Relationships
 
-Every character carries a **Truth**: something they know that complicates their relationship with the Court. Your Archetype suggests a Truth, but you may work with the Host to create your own. This Truth is a narrative hook. It may be a secret you protect, a discovery you made, or a connection you have that would be dangerous if revealed.
+Begin at **0 Faction Standing with each of the six Schools**. You may choose +10 with one School and minus 10 with another, naming a specific relationship behind each. You may also stay neutral with all six. Career and allegiance are separate choices. Institutions such as the Bureau of Internal Harmony and the Temple are not additional Schools.
 
-Examples:
+### Step Eight: Name the Character and Leave Space
 
-- You know a senior official's secret dealings.
-- You have seen a document that contradicts established doctrine.
-- You are related by blood to someone who was Disappeared.
-- You have a contact in a fallen province who still sends messages.
+Choose a name, pronouns, and two or three facts about your past. Leave at least one unanswered question you would enjoy exploring. The Host may offer a connection; the player decides whether it belongs to their past. Discoveries can challenge a belief without rewriting an agreed fact or dictating a feeling.
 
-Your Truth should be something the Host can use to create personal stakes in the larger story.
+After each of the first three sessions, you may revise an unused free Skill, an unplayed background detail, or your specialization with the Host. Keep established events and spent resources. No purchase, ability, or secret is required to make your character change; that decision belongs to you.
 
-**Example Truth.** Lan decides that her Celestial Book, Scholar Jinhai, found a fragment of a journal in the archive stacks. The journal appears to be written in the Sun Emperor's own hand and dated fifty years after the Sun Emperor withdrew from public life. The fragment mentions something called "the First Omission." Jinhai has told no one about this discovery. She keeps the fragment hidden in her quarters. The Host now has a plot hook: what is the First Omission, and who else is looking for this journal?
+### Example: A Surveyor Who Can Read the Road
 
-### Step Seven: Faction Standing
+Lan creates **Jinhai**, an Artificer whose secondary trade is Courier. Jinhai repairs relay posts and wants the crews paid for their last month of work. She has never held a seat in the State Planning Commission.
 
-Your Archetype has a default starting relationship with each of the six Schools of Thought. Record these on your Character Dossier. During play, these Faction Standing values will shift based on your actions.
+Lan assigns Might 8, Swiftness 14, Endurance 14, Intellect 16, Presence 10, Resolve 12. She spends two points each on Intellect, Endurance, and Resolve. Her final array is **8, 14, 16, 18, 10, 14**.
 
-### Step Eight: Name and History
+She takes Craft and Investigation from Artificer, Survival from Courier, Connections freely, and leaves her final Skill open while she considers Inquiry or Mediation. With Artificer bonuses of +4 HP and +6 Qi, she has **17 HP, 20 Qi, 22 Sanity, Initiative +2, and Defense 12** before equipment effects. She has the Artificer's three starting abilities, no Courier combat ability, 10 Celestial Favor, 50 Ritual Harmony, and 20 Copper Leaves.
 
-Give your character a name. Write two or three sentences about who they were before they became entangled in the Court's machinations. Where were they born? What did their family do? What event pushed them into the path they now walk?
+Her bond is to the crew that taught her to climb relay poles. Her open question is why its foreman stopped signing his own wage receipts. She may discover fraud, illness, coercion, or a harmless explanation. Neither player nor Host has decided yet.
 
-Answer these three questions:
+### Advancement Without a Prescribed Life
 
-1. What do you want most? (Your ambition)
-2. What would you never do? (Your line)
-3. Who matters to you? (Your bond)
+The dossier's mechanical **Advancement** entries are purchases at their listed level, costing 5 Advancement Points each. You must already meet the level requirement before buying; points spent on that purchase cannot also qualify you for it. Prerequisite abilities must be learned first. The separate **Expanded Advancement** prose offers possible scenes, not compulsory dreams, symptoms, losses, revelations, or endings.
 
-Share your answers with the Host. They will use them.
-
-**Example history.** Lan writes: "Jinhai was born in a small town in the eastern prefecture of Serene Waters. Her family were paper makers. She was recruited into the Bureau of Celestial Inquiry at age twelve because a visiting examiner noticed her ability to memorize documents after reading them once. She has spent eighteen years in the archives. She has always believed the archives exist to preserve truth. The fragment of the Emperor's journal has made her question everything."
-
-Her answers: "I want most to understand the truth about the Emperor's silence. I would never destroy knowledge, even knowledge that condemns me. My bond is to my younger sister, a clerk in the Bureau of Harmonious Narrative who does not know what I have found."
-
-### A Complete Character Build from Start to Finish
-
-Here is a complete walkthrough of creating a character from nothing to ready for play.
-
-**Player:** Alex
-**Archetype Chosen:** Night Warbler (Shadow Hand)
-
-**Step 1: Archetype.** Alex reads the Archetype descriptions and picks the Night Warbler. The Shadow Hand appeals because Alex wants to play an infiltrator, someone who moves through the Court unseen and uncovers secrets. The Night Warbler baseline is Swiftness 18, Might 14, Resolve 14, Intellect 14, Endurance 12, Presence 10.
-
-**Step 2: Facets.** Alex has 6 points to distribute. Night Warbler abilities rely on Swiftness and Presence, but Swiftness is already at 18 and cannot be raised with these points. Alex spends all 6 on Presence, raising it from 10 to 16 (modifier +3), because an infiltrator who cannot talk her way back out is a corpse with good shoes. Might stays at 14 (modifier +2). Endurance stays at 12 (modifier +1). Intellect stays at 14 (modifier +2). Resolve stays at 14 (modifier +2).
-
-**Step 3: Skills.** The Night Warbler grants Stealth, Precision, and Insight. Alex chooses two more: Deception (to maintain a cover story) and Acrobatics (to escape through windows and across rooftops).
-
-**Step 4: Derived Values.** Night Warbler has HP bonus +2 and Qi bonus +3. With Endurance 12 (modifier +1): HP = 10 + 1 + 2 = 13. With Intellect 14 (modifier +2): Qi Pool = 10 + 2 + 3 = 15. Sanity = 20 + Resolve modifier (+2) = 22. Initiative = Swiftness modifier (+4) + Night Warbler bonus (+2) = 6. Base Defense = 10 + 4 = 14, rising to 15 while she wears concealed armor.
-
-**Step 5: Resources.** Starting equipment: concealed armor, two hidden blades, six daggers, a dark cloak, a grappling hook with silk rope, and forged identification papers. Plus one personal item: a jade pendant that belonged to Cinder's mother. Plus 15 Copper Leaves.
-
-**Step 6: Truth.** Alex decides: "I know that a senior member of the Golden Orthodoxy has been meeting with a representative of the Crimson Dusk. I witnessed the meeting by accident while following a different target. I have not reported it because I am not sure who to trust."
-
-**Step 7: Faction Standing.** Night Warbler baseline: Neutral with the Golden Orthodoxy, slightly negative with the Verdant Path, Neutral with the Iron Calculation, slightly positive with the Crimson Lineage, strongly negative with the Common Flame, and slightly negative with the Bright Mirror. The Bureau of Internal Harmony is Cinder's nominal employer, but it is an institution rather than one of the six Schools.
-
-**Step 8: Name and History.** "My name is Cinder. I was a street child in the capital's outer districts. The Bureau of Internal Harmony recruited me at age fifteen because I could get into places I should not be able to get into. I have served them for twelve years. I am good at my job. I am starting to wonder if I am on the right side."
-
-Ambition: "I want to know who is really running the Bureau." Line: "I will not harm children, not even for the mission." Bond: "The old woman who runs the noodle stall where I ate as a child. She never asked questions. She fed me anyway."
-
-The character is ready for play.
-
-### Creating Compelling Character Concepts
-
-A character concept is more than a collection of numbers. It is the answer to the question: why should anyone at this table care about this person?
-
-**Start with a contradiction.** The most memorable characters contain opposing impulses. A soldier who is afraid of combat. A spy who believes in honesty. A scholar who distrusts knowledge. Contradictions create internal conflict, and internal conflict creates drama.
-
-**Give them a flaw that matters.** Not a cute flaw like "I talk too much." A real flaw that creates problems at the table. A hot temper that makes them burn bridges. A loyalty that makes them protect the wrong people. A curiosity that leads them into danger they know they should avoid.
-
-**Connect them to the world.** Your character should have at least one relationship that matters to them. A friend, a rival, a family member, a mentor, a student. The Host can use these relationships to create personal stakes. A player whose only relationship is to their own ambition has given the Host nothing to work with.
-
-**Ask: what would make this character betray their principles?** If you cannot imagine the circumstances, your character is not yet fully formed. Every character has a breaking point. Knowing what it is before play begins helps you make consistent choices when pressure mounts.
-
-**Ask: what would make this character change?** Characters who do not change are not characters. They are statues. Your character should enter the game with beliefs that could be challenged, assumptions that could be overturned, loyalties that could be tested.
-
-**Example concepts.**
-
-A Duke of Eternal Night who is secretly funding reformist pamphlets because he fell in love with a revolutionary. He hates what he is doing but cannot stop.
-
-An Iron Wall who has never been tested in real combat, only in exercises. He believes he is ready. Everyone else wonders.
-
-A Cinnabar Heart who uses his position in the Bureau of Harmonious Narrative to hide evidence of imperial crimes. He tells himself he is preserving stability. He is no longer certain he believes it.
-
-A Guest Among Forests who has lived for more than four centuries and is deeply, profoundly tired. She has seen empires rise and fall. She struggles to care about the current crisis but feels obligated to try.
-
-A Shadow who was once a member of every school and was expelled from all of them. He works alone because he has burned every bridge. He tells himself he prefers it that way.
+Keep one primary advancement tree. Further training grants Skills and Techniques at Chapter Thirteen's listed costs; it does not unlock a second tree for free. An existing Portrait Build can move to Modular Careers during downtime: rebuild the creation package once, keep earned purchases and established history, and do not retain the old creation benefits as extras.
 
 ---
 
@@ -585,12 +729,32 @@ Skills represent specialized training. They add granularity to the Facet system,
 
 Your Proficiency Bonus starts at +2 and increases as your character advances:
 
-| Character Level | Proficiency Bonus |
-| --------------- | ----------------- |
-| 1 to 4          | +2                |
-| 5 to 8          | +3                |
-| 9 to 12         | +4                |
-| 13 to 16        | +5                |
+<table>
+<thead>
+<tr>
+<th>Character Level</th>
+<th>Proficiency Bonus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 to 4</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>5 to 8</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>9 to 12</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>13 to 16</td>
+<td>+5</td>
+</tr>
+</tbody>
+</table>
 
 When you make a Resolution Roll using a Skill you are proficient in, add your Proficiency Bonus in addition to the relevant Facet Modifier.
 
@@ -661,16 +825,57 @@ An ally can stabilize a Dying character with a successful Intellect check (TN 12
 
 ### Weapon Reference
 
-| Weapon       | Damage | Properties                                                                       |
-| ------------ | ------ | -------------------------------------------------------------------------------- |
-| Unarmed      | 1d4    | Light                                                                            |
-| Dagger       | 1d6    | Light, Concealable, Throwable                                                    |
-| Sword        | 1d8    | Versatile (1d10 with both hands)                                                 |
-| Greatsword   | 1d12   | Heavy, Requires Two Hands                                                        |
-| Bow          | 1d8    | Ranged, Requires Two Hands                                                       |
-| Crossbow     | 1d10   | Ranged, Requires Two Hands, Loading                                              |
-| Staff        | 1d6    | Versatile (1d8 with both hands), Qi Focus                                        |
-| Hidden Blade | 1d4    | Concealable, First Strike (+1d6 on the first round if you act before the target) |
+<table>
+<thead>
+<tr>
+<th>Weapon</th>
+<th>Damage</th>
+<th>Properties</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Unarmed</td>
+<td>1d4</td>
+<td>Light</td>
+</tr>
+<tr>
+<td>Dagger</td>
+<td>1d6</td>
+<td>Light, Concealable, Throwable</td>
+</tr>
+<tr>
+<td>Sword</td>
+<td>1d8</td>
+<td>Versatile (1d10 with both hands)</td>
+</tr>
+<tr>
+<td>Greatsword</td>
+<td>1d12</td>
+<td>Heavy, Requires Two Hands</td>
+</tr>
+<tr>
+<td>Bow</td>
+<td>1d8</td>
+<td>Ranged, Requires Two Hands</td>
+</tr>
+<tr>
+<td>Crossbow</td>
+<td>1d10</td>
+<td>Ranged, Requires Two Hands, Loading</td>
+</tr>
+<tr>
+<td>Staff</td>
+<td>1d6</td>
+<td>Versatile (1d8 with both hands), Qi Focus</td>
+</tr>
+<tr>
+<td>Hidden Blade</td>
+<td>1d4</td>
+<td>Concealable, First Strike (+1d6 on the first round if you act before the target)</td>
+</tr>
+</tbody>
+</table>
 
 **Properties:**
 
@@ -764,7 +969,7 @@ Host: "The thugs exchange a look. One of them drops his knife. It hits the stone
 
 **Zones.** The grand hall (Zone A). The balcony overlooking the hall (Zone B, adjacent to Zone A by stairs). The garden terrace (Zone C, adjacent to Zone B through open doors). The wine table (obstacle in Zone A).
 
-**Participants.** Cinder (Night Warbler). Jinhai (Celestial Book). Lady Crimson, a Duke of Eternal Night (NPC antagonist). Various guests (noncombatants and obstacles).
+**Participants.** Cinder (Night Warbler). Jinhai (Celestial Book). Lady Crimson, a Blood Cultivator (NPC antagonist). Various guests (noncombatants and obstacles).
 
 Host: "The hall is magnificent. Candlelight reflects off lacquered pillars. A dozen minor nobles and officials circulate with cups of imported wine. Lady Crimson approaches your group with a smile that does not reach her eyes. She speaks loudly enough for others to hear. 'I heard the most interesting rumor about you, Scholar Jinhai. Something about a document you found in the archives. Something about the Emperor's handwriting.'"
 
@@ -940,47 +1145,163 @@ For Techniques that require an attack roll, use d20 + Intellect Modifier + Profi
 
 ### Expanded Technique List
 
-Each Archetype provides three starting Techniques. Additional Techniques can be learned through study, mentorship, or discovery. Below is a comprehensive list of Techniques organized by theme. Common Techniques are available to anyone who learns them. Thematic Techniques are typically associated with specific Archetypes but can be learned by any character who finds a teacher.
+Each primary career provides the three starting abilities printed in its dossier; these are not an additional allowance of three Techniques. Further Techniques can be learned through study, mentorship, or discovery. Below is a comprehensive list of Techniques organized by theme. Common Techniques are available to anyone who learns them. Thematic Techniques are typically associated with specific Archetypes but can be learned by any character who finds a teacher.
 
 **Healing Techniques**
 
-| Technique          | Qi Cost | Effect                                                                                                                                          |
-| ------------------ | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mending Touch      | 3       | Heal a creature you touch for 1d8 + Intellect Modifier HP. Can be used on yourself or another.                                                  |
-| Restorative Breath | 5       | Heal yourself or a creature you touch for 2d8 + Intellect Modifier HP. Requires one minute of uninterrupted focus.                              |
-| Purify Body        | 4       | Remove one poison, disease, or minor Dusk corruption from a creature you touch. The target takes 1d4 Sanity damage as the corruption is purged. |
-| Stabilize Spark    | 2       | Stabilize a dying creature within your Zone. No roll required. The creature stops worsening but remains unconscious at 0 HP.                    |
-| Shared Vitality    | 6       | Transfer up to 10 of your own HP to a creature you touch. You cannot transfer HP below 1.                                                       |
+<table>
+<thead>
+<tr>
+<th>Technique</th>
+<th>Qi Cost</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mending Touch</td>
+<td>3</td>
+<td>Heal a creature you touch for 1d8 + Intellect Modifier HP. Can be used on yourself or another.</td>
+</tr>
+<tr>
+<td>Restorative Breath</td>
+<td>5</td>
+<td>Heal yourself or a creature you touch for 2d8 + Intellect Modifier HP. Requires one minute of uninterrupted focus.</td>
+</tr>
+<tr>
+<td>Purify Body</td>
+<td>4</td>
+<td>Remove one poison, disease, or minor Dusk corruption from a creature you touch. The target takes 1d4 Sanity damage as the corruption is purged.</td>
+</tr>
+<tr>
+<td>Stabilize Spark</td>
+<td>2</td>
+<td>Stabilize a dying creature within your Zone. No roll required. The creature stops worsening but remains unconscious at 0 HP.</td>
+</tr>
+<tr>
+<td>Shared Vitality</td>
+<td>6</td>
+<td>Transfer up to 10 of your own HP to a creature you touch. You cannot transfer HP below 1.</td>
+</tr>
+</tbody>
+</table>
 
 **Combat Techniques**
 
-| Technique         | Qi Cost | Effect                                                                                                                                                                                                             |
-| ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Qi Strike         | 2       | Charge your weapon with Qi. Your next successful melee attack before the end of your next turn deals an additional 2d6 damage. The damage is considered Qi damage and bypasses ordinary physical damage reduction. |
-| Shroud of Shadow  | 3       | Wrap yourself in shadow for one minute. You gain Advantage on Stealth checks. Enemies have Disadvantage on attacks of opportunity against you.                                                                     |
-| Iron Skin         | 4       | Your skin hardens for one minute. You gain resistance to ordinary bludgeoning, piercing, and slashing damage. Your Defense increases by 2.                                                                         |
-| Unbalancing Force | 3       | A wave of Qi erupts from you, affecting all creatures in your Zone. Each must make an Endurance check against your Technique TN or be knocked prone. Allies are not affected.                                      |
-| Dancer's Step     | 2       | After making a melee attack, you may immediately move to an adjacent Zone without provoking attacks of opportunity.                                                                                                |
+<table>
+<thead>
+<tr>
+<th>Technique</th>
+<th>Qi Cost</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qi Strike</td>
+<td>2</td>
+<td>Charge your weapon with Qi. Your next successful melee attack before the end of your next turn deals an additional 2d6 damage. The damage is considered Qi damage and bypasses ordinary physical damage reduction.</td>
+</tr>
+<tr>
+<td>Shroud of Shadow</td>
+<td>3</td>
+<td>Wrap yourself in shadow for one minute. You gain Advantage on Stealth checks. Enemies have Disadvantage on attacks of opportunity against you.</td>
+</tr>
+<tr>
+<td>Iron Skin</td>
+<td>4</td>
+<td>Your skin hardens for one minute. You gain resistance to ordinary bludgeoning, piercing, and slashing damage. Your Defense increases by 2.</td>
+</tr>
+<tr>
+<td>Unbalancing Force</td>
+<td>3</td>
+<td>A wave of Qi erupts from you, affecting all creatures in your Zone. Each must make an Endurance check against your Technique TN or be knocked prone. Allies are not affected.</td>
+</tr>
+<tr>
+<td>Dancer's Step</td>
+<td>2</td>
+<td>After making a melee attack, you may immediately move to an adjacent Zone without provoking attacks of opportunity.</td>
+</tr>
+</tbody>
+</table>
 
 **Utility Techniques**
 
-| Technique              | Qi Cost | Effect                                                                                                                                                                                               |
-| ---------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bolstered Step         | 2       | Your Movement this turn allows you to cross two Zones instead of one.                                                                                                                                |
-| Unlock the Hidden Path | 3       | For one minute, you can move across difficult terrain (rubble, ice, steep inclines) at normal speed. You can also climb surfaces that would normally require a check.                                |
-| Silence of the Scholar | 2       | Mute all sound within a radius of 10 feet around you for one minute. Conversations within the bubble cannot be heard outside it. Useful for private discussions in public places.                    |
-| Artificer's Eye        | 2       | For one minute, you can see the structural weak points in objects and architecture. Your next attack or tool use against a structure gains Advantage and deals double damage against that structure. |
-| Memory Echo            | 4       | Touch an object and glimpse its recent history. The Host reveals one significant event involving that object in the past 24 hours. The vision is brief and fragmented.                               |
+<table>
+<thead>
+<tr>
+<th>Technique</th>
+<th>Qi Cost</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bolstered Step</td>
+<td>2</td>
+<td>Your Movement this turn allows you to cross two Zones instead of one.</td>
+</tr>
+<tr>
+<td>Unlock the Hidden Path</td>
+<td>3</td>
+<td>For one minute, you can move across difficult terrain (rubble, ice, steep inclines) at normal speed. You can also climb surfaces that would normally require a check.</td>
+</tr>
+<tr>
+<td>Silence of the Scholar</td>
+<td>2</td>
+<td>Mute all sound within a radius of 10 feet around you for one minute. Conversations within the bubble cannot be heard outside it. Useful for private discussions in public places.</td>
+</tr>
+<tr>
+<td>Artificer's Eye</td>
+<td>2</td>
+<td>For one minute, you can see the structural weak points in objects and architecture. Your next attack or tool use against a structure gains Advantage and deals double damage against that structure.</td>
+</tr>
+<tr>
+<td>Memory Echo</td>
+<td>4</td>
+<td>Touch an object and glimpse its recent history. The Host reveals one significant event involving that object in the past 24 hours. The vision is brief and fragmented.</td>
+</tr>
+</tbody>
+</table>
 
 **Divination Techniques**
 
-| Technique        | Qi Cost | Effect                                                                                                                                                                                                                                                                |
-| ---------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Qi Sense         | 1       | Detect the presence and rough intensity of Qi within your Zone. Useful for finding hidden Qi users, Dusk corruption, or objects bearing a Qi signature.                                                                                                               |
-| Glimmer of Truth | 2       | For one minute, gain Advantage on Insight checks to detect lies. A faint golden shimmer appears in your vision when someone deceives you.                                                                                                                             |
-| Trace the Thread | 5       | Touch a person or object and learn its general direction relative to you, even if it is far away or hidden. The connection lasts for one hour. You know only direction, not distance.                                                                                 |
-| Read the Weave   | 6       | Spend ten minutes in meditation. The Host reveals one piece of information about a future event, a hidden truth, or a character's fate. The information is always true but never complete. The Host decides what fragment you see.                                    |
-| Echo of the Past | 7       | Touch a location and witness a past event that occurred there. The Host describes one scene from the location's history, chosen based on the circumstances of your inquiry. Using this technique costs 1d4 Sanity as your mind temporarily occupies a different time. |
+<table>
+<thead>
+<tr>
+<th>Technique</th>
+<th>Qi Cost</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qi Sense</td>
+<td>1</td>
+<td>Detect the presence and rough intensity of Qi within your Zone. Useful for finding hidden Qi users, Dusk corruption, or objects bearing a Qi signature.</td>
+</tr>
+<tr>
+<td>Glimmer of Truth</td>
+<td>2</td>
+<td>For one minute, gain Advantage on Insight checks to detect lies. A faint golden shimmer appears in your vision when someone deceives you.</td>
+</tr>
+<tr>
+<td>Trace the Thread</td>
+<td>5</td>
+<td>Touch a person or object and learn its general direction relative to you, even if it is far away or hidden. The connection lasts for one hour. You know only direction, not distance.</td>
+</tr>
+<tr>
+<td>Read the Weave</td>
+<td>6</td>
+<td>Spend ten minutes in meditation. The Host reveals one piece of information about a future event, a hidden truth, or a character's fate. The information is always true but never complete. The Host decides what fragment you see.</td>
+</tr>
+<tr>
+<td>Echo of the Past</td>
+<td>7</td>
+<td>Touch a location and witness a past event that occurred there. The Host describes one scene from the location's history, chosen based on the circumstances of your inquiry. Using this technique costs 1d4 Sanity as your mind temporarily occupies a different time.</td>
+</tr>
+</tbody>
+</table>
 
 ### Creating Your Own Techniques
 
@@ -1066,13 +1387,42 @@ A casual chat with a teahouse owner does not need dice. Convincing the Bright Mi
 
 At the start of a structured social encounter, the Host determines the target's **Stance** toward the players:
 
-| Stance     | Meaning                | Base TN for Persuasion |
-| ---------- | ---------------------- | ---------------------- |
-| Hostile    | Actively opposes you   | 20                     |
-| Suspicious | Distrusts your motives | 16                     |
-| Neutral    | No strong feeling      | 12                     |
-| Receptive  | Open to your words     | 10                     |
-| Allied     | Wants to help you      | 8                      |
+<table>
+<thead>
+<tr>
+<th>Stance</th>
+<th>Meaning</th>
+<th>Base TN for Persuasion</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hostile</td>
+<td>Actively opposes you</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Suspicious</td>
+<td>Distrusts your motives</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Neutral</td>
+<td>No strong feeling</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Receptive</td>
+<td>Open to your words</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Allied</td>
+<td>Wants to help you</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
 
 ### Shifting Stance
 
@@ -1222,13 +1572,42 @@ Ritual Harmony measures your standing within the Celestial Court's orthodoxy. It
 
 ### The Ritual Harmony Scale
 
-| Score     | Designation | What It Means                                                                                                                                                   |
-| --------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 to 20   | Heterodox   | Under active investigation. The Commission for Celestial Purity is watching. Every action is scrutinized.                                                       |
-| 21 to 40  | Suspect     | Cannot hold official positions. Colleagues avoid you. Your mail is opened before delivery.                                                                      |
-| 41 to 60  | Acceptable  | Normal standing. Safe from casual scrutiny but vulnerable during Harmonization Audits.                                                                          |
-| 61 to 80  | Harmonious  | In good standing. Eligible for advancement. Protected in most Audits. People seek your endorsement.                                                             |
-| 81 to 100 | Exemplary   | You are the standard. Also: every faction now sees you as either a tool to be used or a threat to be neutralized. High Ritual Harmony is a shield and a target. |
+<table>
+<thead>
+<tr>
+<th>Score</th>
+<th>Designation</th>
+<th>What It Means</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0 to 20</td>
+<td>Heterodox</td>
+<td>Under active investigation. The Commission for Celestial Purity is watching. Every action is scrutinized.</td>
+</tr>
+<tr>
+<td>21 to 40</td>
+<td>Suspect</td>
+<td>Cannot hold official positions. Colleagues avoid you. Your mail is opened before delivery.</td>
+</tr>
+<tr>
+<td>41 to 60</td>
+<td>Acceptable</td>
+<td>Normal standing. Safe from casual scrutiny but vulnerable during Harmonization Audits.</td>
+</tr>
+<tr>
+<td>61 to 80</td>
+<td>Harmonious</td>
+<td>In good standing. Eligible for advancement. Protected in most Audits. People seek your endorsement.</td>
+</tr>
+<tr>
+<td>81 to 100</td>
+<td>Exemplary</td>
+<td>You are the standard. Also: every faction now sees you as either a tool to be used or a threat to be neutralized. High Ritual Harmony is a shield and a target.</td>
+</tr>
+</tbody>
+</table>
 
 ### Gaining and Losing Ritual Harmony
 
@@ -1275,7 +1654,7 @@ The following concrete examples show how specific actions at the table might aff
 
 1. A Celestial Book is seen leaving a teahouse that is known as a meeting place for reformers. She was there doing research. The observers do not care about her reasons. (minus 4 Ritual Harmony, now 46.)
 
-2. During a routine Harmonization Audit, an Iron Bone questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (minus 8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
+2. During a routine Harmonization Audit, a Fury Adept questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (minus 8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
 
 3. A Night Warbler shelters a Dusk refugee in his safe house for three nights. The refugee is a child. The risk of discovery is high. (minus 8 Ritual Harmony, now 32.)
 
@@ -1328,15 +1707,44 @@ The Crimson Dusk is the campaign's central threat and primary mystery. It is not
 
 ### The Five Phases
 
-The Host controls the Dusk's advance. It progresses at the pace of the story, not by any mechanical clock. The phases are:
+Track the conditions around a particular community or route. These phases describe local reach, not the first appearance of the Dusk in imperial history. Scorch Field and Amber Shore have already fallen before play. Advance a phase through established signs and events; elapsed session count alone does not trigger it.
 
-| Phase | Name         | The World                                                                                                            |
-| ----- | ------------ | -------------------------------------------------------------------------------------------------------------------- |
-| 0     | Distant      | The Dusk is a rumor. Border reports mention unusual phenomena. Most in the capital do not believe.                   |
-| 1     | Approaching  | Provinces begin to fall. Refugees arrive. The Court can no longer entirely deny.                                     |
-| 2     | Pressing     | Inner provinces are threatened. Dusk Touched creatures appear within the heartland. Panic spreads.                   |
-| 3     | Imminent     | The capital's outer districts are affected. The Court must unite or collapse. The endgame begins.                    |
-| 4     | Consummation | The Dusk engulfs all. The final confrontation. What comes after depends on what the players have learned and chosen. |
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Name</th>
+<th>Local condition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>Distant</td>
+<td>Reports reach this locality, but no nearby manifestation is verified.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Approaching</td>
+<td>A connected route or neighboring settlement is threatened; displaced people need reception.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pressing</td>
+<td>Local transport, food, shelter, or defenses are disrupted by verified manifestations.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Imminent</td>
+<td>The locality's outer defenses or evacuation routes are directly threatened.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Consummation</td>
+<td>A breach or confrontation tests the protection and escape arrangements actually made.</td>
+</tr>
+</tbody>
+</table>
 
 ### Dusk Exposure
 
@@ -1402,39 +1810,130 @@ Over a long campaign, multiple characters may die. Each death enriches the story
 
 Characters grow through experience. The Host awards **Advancement Points** (AP) at the end of each significant story arc or session:
 
-| Accomplishment                        | AP  |
-| ------------------------------------- | --- |
-| Surviving a session                   | 1   |
-| Completing a significant objective    | 2   |
-| Resolving a major story arc           | 3   |
-| Exceptional roleplaying or cleverness | 1   |
+<table>
+<thead>
+<tr>
+<th>Accomplishment</th>
+<th>AP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Surviving a session</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Completing a significant objective</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Resolving a major story arc</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Exceptional roleplaying or cleverness</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 
 ### Spending Advancement Points
 
-| Advancement                                     | AP Cost   |
-| ----------------------------------------------- | --------- |
-| Increase one Facet by 1 (max 20)                | 3         |
-| Gain proficiency in a new Skill                 | 5         |
-| Learn a new Technique                           | 4         |
-| Increase max Qi Pool by 5                       | 3         |
-| Gain a special ability from your Archetype tree | 5         |
-| Improve Proficiency Bonus (every 4 levels)      | Automatic |
+<table>
+<thead>
+<tr>
+<th>Advancement</th>
+<th>AP Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Increase one Facet by 1 (max 20)</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Gain proficiency in a new Skill</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Learn a new Technique</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Increase max Qi Pool by 5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Gain a special ability from your Archetype tree</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Improve Proficiency Bonus (every 4 levels)</td>
+<td>Automatic</td>
+</tr>
+</tbody>
+</table>
 
 ### Leveling
 
 A character's **Level** is equal to their total AP spent divided by 4, rounded down, plus 1. Level determines Proficiency Bonus:
 
-| Level | AP Spent | Proficiency Bonus |
-| ----- | -------- | ----------------- |
-| 1     | 0 to 3   | +2                |
-| 2     | 4 to 7   | +2                |
-| 3     | 8 to 11  | +2                |
-| 4     | 12 to 15 | +2                |
-| 5     | 16 to 19 | +3                |
-| 6     | 20 to 23 | +3                |
-| 7     | 24 to 27 | +3                |
-| 8     | 28 to 31 | +3                |
-| 9     | 32 to 35 | +4                |
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>AP Spent</th>
+<th>Proficiency Bonus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>0 to 3</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4 to 7</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>8 to 11</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>12 to 15</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>16 to 19</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>20 to 23</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>7</td>
+<td>24 to 27</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>28 to 31</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>9</td>
+<td>32 to 35</td>
+<td>+4</td>
+</tr>
+</tbody>
+</table>
 
 Level 9 is the ceiling of the advancement trees printed in the character dossiers. Tables that continue past it use the Proficiency progression in Chapter Five: +4 through Level 12, +5 through Level 16.
 
@@ -1446,12 +1945,37 @@ Level 9 is the ceiling of the advancement trees printed in the character dossier
 
 The empire uses four standard denominations:
 
-| Unit        | Value              | Physical Form     |
-| ----------- | ------------------ | ----------------- |
-| Copper Leaf | 1                  | Small copper coin |
-| Silver Stem | 10 Copper Leaves   | Silver ingot      |
-| Gold Bloom  | 100 Copper Leaves  | Gold disc         |
-| Jade Slip   | 1000 Copper Leaves | Carved jade token |
+<table>
+<thead>
+<tr>
+<th>Unit</th>
+<th>Value</th>
+<th>Physical Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Copper Leaf</td>
+<td>1</td>
+<td>Small copper coin</td>
+</tr>
+<tr>
+<td>Silver Stem</td>
+<td>10 Copper Leaves</td>
+<td>Silver ingot</td>
+</tr>
+<tr>
+<td>Gold Bloom</td>
+<td>100 Copper Leaves</td>
+<td>Gold disc</td>
+</tr>
+<tr>
+<td>Jade Slip</td>
+<td>1000 Copper Leaves</td>
+<td>Carved jade token</td>
+</tr>
+</tbody>
+</table>
 
 Most citizens never handle more than Copper Leaves. A Jade Slip is a fortune.
 
@@ -1461,90 +1985,397 @@ Characters begin with the equipment package listed for their Archetype in Append
 
 ### Common Equipment
 
-| Item                  | Cost      | Notes                                                                                                                |
-| --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------- |
-| Traveler's Robes      | 5 Copper  | Basic clothing, unremarkable                                                                                         |
-| Official's Attire     | 5 Silver  | Appropriate for Court functions                                                                                      |
-| Concealed Armor       | 3 Silver  | +1 Defense, concealable under clothing                                                                               |
-| Rations (3 days)      | 1 Silver  | Compact, preserved food                                                                                              |
-| Lantern and Oil       | 1 Silver  | Illuminates one Zone                                                                                                 |
-| Writing Kit           | 2 Silver  | Brushes, ink, paper for official correspondence                                                                      |
-| Medical Kit           | 5 Silver  | Grants Advantage on stabilization checks                                                                             |
-| Qi Focus Talisman     | 10 Silver | +1 to Technique attack rolls                                                                                         |
-| Forged Documents      | 1 Gold    | Variable quality                                                                                                     |
-| Fine Robes            | 1 Gold    | Silk garments suitable for high nobility                                                                             |
-| Travel Cloak          | 3 Silver  | Heavy wool, waterproofed with wax                                                                                    |
-| Sturdy Boots          | 2 Silver  | Worn for months without failing                                                                                      |
-| Backpack              | 1 Silver  | Leather, holds a week of supplies                                                                                    |
-| Water Flask           | 5 Copper  | Sealed ceramic, keeps water cool                                                                                     |
-| Rope (20 feet)        | 3 Silver  | Hemp rope, braided, holds 400 pounds                                                                                 |
-| Grappling Hook        | 5 Silver  | Iron, three pronged, folds for carrying                                                                              |
-| Signal Whistle        | 2 Copper  | Heard across three Zones                                                                                             |
-| Tinderbox             | 1 Silver  | Flint, steel, and treated cloth                                                                                      |
-| Candle Pack (12)      | 2 Copper  | Burns for 2 hours each                                                                                               |
-| Oil Flask             | 3 Silver  | Lamp oil, also flammable as a thrown weapon (1d4 fire damage)                                                        |
-| Crowbar               | 2 Silver  | Iron, grants Advantage on Might checks to force objects open                                                         |
-| Lockpicks             | 3 Silver  | Grants proficiency in Larceny for picking locks (if not already proficient)                                          |
-| Concealed Pocket Vest | 7 Silver  | Contains five hidden pockets. Vigilance check TN 18 to find them.                                                    |
-| Disguise Kit          | 2 Gold    | Wigs, paints, prosthetics. Grants Advantage on Deception checks when impersonating a specific person.                |
-| Poison Counteragent   | 5 Silver  | Three doses. Grants Advantage on Fortitude checks against ingested poisons.                                          |
-| Dusk Ward Salve       | 8 Silver  | Applied to the skin. Grants +2 to Resolve checks against Dusk exposure for one hour.                                 |
-| Codex of Common Law   | 1 Gold    | A reference book of imperial statutes. Grants Advantage on Lore checks involving legal matters.                      |
-| Sealed Ink and Paper  | 5 Silver  | Fine materials for official correspondence. Letters sealed with this kit cannot be opened without breaking the seal. |
-| Compass               | 3 Silver  | Points toward the capital. Useless within the Dusk.                                                                  |
-| Surgical Tools        | 2 Gold    | Sterilized steel. Grants Advantage on Medical Kit stabilization checks.                                              |
-| Portable Alchemy Kit  | 3 Gold    | Compact. Allows brewing of basic potions during rest (requires Craft proficiency).                                   |
-| Fine Perfume          | 1 Silver  | A small vial. Grants Advantage on Presence checks in social situations where presentation matters.                   |
-| Prayer Beads          | 1 Silver  | Carved jade beads. Helps with meditation. Grants +1 Qi recovery during short rests.                                  |
-| Notebook with Lock    | 3 Silver  | Small book bound in leather with a brass lock.                                                                       |
-| Spice Pouch           | 2 Copper  | Mixed spices. Makes bland rations palatable. A small comfort.                                                        |
-| Tea Set (Travel)      | 5 Silver  | Ceramic pot and two cups, wrapped in cloth. Essential for conducting polite business.                                |
-| Ink and Brush Set     | 1 Silver  | Basic writing tools.                                                                                                 |
-| Map of the Capital    | 2 Silver  | Hand drawn, reasonably accurate. Covers the Inner City and main districts.                                           |
-| Small Lockbox         | 1 Gold    | Iron box with a quality lock (TN 15 to pick). Protects documents from casual theft.                                  |
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Cost</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Traveler's Robes</td>
+<td>5 Copper</td>
+<td>Basic clothing, unremarkable</td>
+</tr>
+<tr>
+<td>Official's Attire</td>
+<td>5 Silver</td>
+<td>Appropriate for Court functions</td>
+</tr>
+<tr>
+<td>Concealed Armor</td>
+<td>3 Silver</td>
+<td>+1 Defense, concealable under clothing</td>
+</tr>
+<tr>
+<td>Rations (3 days)</td>
+<td>1 Silver</td>
+<td>Compact, preserved food</td>
+</tr>
+<tr>
+<td>Lantern and Oil</td>
+<td>1 Silver</td>
+<td>Illuminates one Zone</td>
+</tr>
+<tr>
+<td>Writing Kit</td>
+<td>2 Silver</td>
+<td>Brushes, ink, paper for official correspondence</td>
+</tr>
+<tr>
+<td>Medical Kit</td>
+<td>5 Silver</td>
+<td>Grants Advantage on stabilization checks</td>
+</tr>
+<tr>
+<td>Qi Focus Talisman</td>
+<td>10 Silver</td>
+<td>+1 to Technique attack rolls</td>
+</tr>
+<tr>
+<td>Forged Documents</td>
+<td>1 Gold</td>
+<td>Variable quality</td>
+</tr>
+<tr>
+<td>Fine Robes</td>
+<td>1 Gold</td>
+<td>Silk garments suitable for high nobility</td>
+</tr>
+<tr>
+<td>Travel Cloak</td>
+<td>3 Silver</td>
+<td>Heavy wool, waterproofed with wax</td>
+</tr>
+<tr>
+<td>Sturdy Boots</td>
+<td>2 Silver</td>
+<td>Worn for months without failing</td>
+</tr>
+<tr>
+<td>Backpack</td>
+<td>1 Silver</td>
+<td>Leather, holds a week of supplies</td>
+</tr>
+<tr>
+<td>Water Flask</td>
+<td>5 Copper</td>
+<td>Sealed ceramic, keeps water cool</td>
+</tr>
+<tr>
+<td>Rope (20 feet)</td>
+<td>3 Silver</td>
+<td>Hemp rope, braided, holds 400 pounds</td>
+</tr>
+<tr>
+<td>Grappling Hook</td>
+<td>5 Silver</td>
+<td>Iron, three pronged, folds for carrying</td>
+</tr>
+<tr>
+<td>Signal Whistle</td>
+<td>2 Copper</td>
+<td>Heard across three Zones</td>
+</tr>
+<tr>
+<td>Tinderbox</td>
+<td>1 Silver</td>
+<td>Flint, steel, and treated cloth</td>
+</tr>
+<tr>
+<td>Candle Pack (12)</td>
+<td>2 Copper</td>
+<td>Burns for 2 hours each</td>
+</tr>
+<tr>
+<td>Oil Flask</td>
+<td>3 Silver</td>
+<td>Lamp oil, also flammable as a thrown weapon (1d4 fire damage)</td>
+</tr>
+<tr>
+<td>Crowbar</td>
+<td>2 Silver</td>
+<td>Iron, grants Advantage on Might checks to force objects open</td>
+</tr>
+<tr>
+<td>Lockpicks</td>
+<td>3 Silver</td>
+<td>Grants proficiency in Larceny for picking locks (if not already proficient)</td>
+</tr>
+<tr>
+<td>Concealed Pocket Vest</td>
+<td>7 Silver</td>
+<td>Contains five hidden pockets. Vigilance check TN 18 to find them.</td>
+</tr>
+<tr>
+<td>Disguise Kit</td>
+<td>2 Gold</td>
+<td>Wigs, paints, prosthetics. Grants Advantage on Deception checks when impersonating a specific person.</td>
+</tr>
+<tr>
+<td>Poison Counteragent</td>
+<td>5 Silver</td>
+<td>Three doses. Grants Advantage on Fortitude checks against ingested poisons.</td>
+</tr>
+<tr>
+<td>Dusk Ward Salve</td>
+<td>8 Silver</td>
+<td>Applied to the skin. Grants +2 to Resolve checks against Dusk exposure for one hour.</td>
+</tr>
+<tr>
+<td>Codex of Common Law</td>
+<td>1 Gold</td>
+<td>A reference book of imperial statutes. Grants Advantage on Lore checks involving legal matters.</td>
+</tr>
+<tr>
+<td>Sealed Ink and Paper</td>
+<td>5 Silver</td>
+<td>Fine materials for official correspondence. Letters sealed with this kit cannot be opened without breaking the seal.</td>
+</tr>
+<tr>
+<td>Compass</td>
+<td>3 Silver</td>
+<td>Points toward the capital. Useless within the Dusk.</td>
+</tr>
+<tr>
+<td>Surgical Tools</td>
+<td>2 Gold</td>
+<td>Sterilized steel. Grants Advantage on Medical Kit stabilization checks.</td>
+</tr>
+<tr>
+<td>Portable Alchemy Kit</td>
+<td>3 Gold</td>
+<td>Compact. Allows brewing of basic potions during rest (requires Craft proficiency).</td>
+</tr>
+<tr>
+<td>Fine Perfume</td>
+<td>1 Silver</td>
+<td>A small vial. Grants Advantage on Presence checks in social situations where presentation matters.</td>
+</tr>
+<tr>
+<td>Prayer Beads</td>
+<td>1 Silver</td>
+<td>Carved jade beads. Helps with meditation. Grants +1 Qi recovery during short rests.</td>
+</tr>
+<tr>
+<td>Notebook with Lock</td>
+<td>3 Silver</td>
+<td>Small book bound in leather with a brass lock.</td>
+</tr>
+<tr>
+<td>Spice Pouch</td>
+<td>2 Copper</td>
+<td>Mixed spices. Makes bland rations palatable. A small comfort.</td>
+</tr>
+<tr>
+<td>Tea Set (Travel)</td>
+<td>5 Silver</td>
+<td>Ceramic pot and two cups, wrapped in cloth. Essential for conducting polite business.</td>
+</tr>
+<tr>
+<td>Ink and Brush Set</td>
+<td>1 Silver</td>
+<td>Basic writing tools.</td>
+</tr>
+<tr>
+<td>Map of the Capital</td>
+<td>2 Silver</td>
+<td>Hand drawn, reasonably accurate. Covers the Inner City and main districts.</td>
+</tr>
+<tr>
+<td>Small Lockbox</td>
+<td>1 Gold</td>
+<td>Iron box with a quality lock (TN 15 to pick). Protects documents from casual theft.</td>
+</tr>
+</tbody>
+</table>
 
 ### Services
 
-| Service                    | Cost          | Notes                                                                      |
-| -------------------------- | ------------- | -------------------------------------------------------------------------- |
-| Meal at a Street Stall     | 1 Copper      | Filling, hot, unremarkable                                                 |
-| Meal at a Teahouse         | 3 Copper      | Noodles, tea, a small dish of pickled vegetables                           |
-| Meal at a Noble's Table    | 1 Silver      | Multiple courses, wine, appropriate for entertaining guests                |
-| Night at a Flophouse       | 1 Copper      | Shared room, straw mattress, risk of theft                                 |
-| Night at a Respectable Inn | 2 Silver      | Private room, locked door, clean sheets                                    |
-| Night at a Noble Estate    | 1 Gold        | Guest quarters, servants, full amenities                                   |
-| Stabling (one night)       | 3 Copper      | Feed, water, basic care for a horse or mule                                |
-| Courier Service (city)     | 2 Silver      | Message delivered within the day                                           |
-| Courier Service (distant)  | 5 Silver      | Message delivered within the week, depending on distance                   |
-| Bathhouse (public)         | 2 Copper      | Hot water, steam, basic cleanliness                                        |
-| Bathhouse (private)        | 1 Silver      | Private room, oils, salts, towels                                          |
-| Medical Treatment          | 5 Silver      | A physician's care. Heals 1d4 HP plus ongoing recovery.                    |
-| Emergency Surgery          | 2 Gold        | Save a dying character without a check. Requires physician and clean room. |
-| Document Forgery           | 1 to 5 Gold   | Quality depends on cost. Cheap forgeries fail on inspection.               |
-| Bribe, Minor Official      | 1 to 5 Silver | Access to a file, a blind eye, a small favor                               |
-| Bribe, Senior Official     | 1 to 5 Gold   | A promotion, a transferred posting, a silenced report                      |
-| Bribe, Commissioner        | 10+ Gold      | A life. A verdict. A disappearing file.                                    |
-| Safe House (one week)      | 2 Gold        | Secure location, basic supplies, no questions asked                        |
-| Safe House (one month)     | 5 Gold        | As above, plus regular supply deliveries                                   |
-| Information, Street Level  | 1 to 5 Silver | Rumors, gossip, known addresses                                            |
-| Information, Court Level   | 1 to 5 Gold   | Meeting records, faction movements, investigation targets                  |
-| Information, Archival      | 5 to 20 Gold  | Sealed documents, restricted files, erased records                         |
-| Funeral (modest)           | 3 Silver      | Cremation or burial, a priest, a small marker                              |
-| Funeral (noble)            | 5 Gold        | Full ceremony, processional, jade marker, offerings                        |
-| Identity Change            | 10 Gold       | New documents, a cover story, a relocation to a distant province           |
+<table>
+<thead>
+<tr>
+<th>Service</th>
+<th>Cost</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Meal at a Street Stall</td>
+<td>1 Copper</td>
+<td>Filling, hot, unremarkable</td>
+</tr>
+<tr>
+<td>Meal at a Teahouse</td>
+<td>3 Copper</td>
+<td>Noodles, tea, a small dish of pickled vegetables</td>
+</tr>
+<tr>
+<td>Meal at a Noble's Table</td>
+<td>1 Silver</td>
+<td>Multiple courses, wine, appropriate for entertaining guests</td>
+</tr>
+<tr>
+<td>Night at a Flophouse</td>
+<td>1 Copper</td>
+<td>Shared room, straw mattress, risk of theft</td>
+</tr>
+<tr>
+<td>Night at a Respectable Inn</td>
+<td>2 Silver</td>
+<td>Private room, locked door, clean sheets</td>
+</tr>
+<tr>
+<td>Night at a Noble Estate</td>
+<td>1 Gold</td>
+<td>Guest quarters, servants, full amenities</td>
+</tr>
+<tr>
+<td>Stabling (one night)</td>
+<td>3 Copper</td>
+<td>Feed, water, basic care for a horse or mule</td>
+</tr>
+<tr>
+<td>Courier Service (city)</td>
+<td>2 Silver</td>
+<td>Message delivered within the day</td>
+</tr>
+<tr>
+<td>Courier Service (distant)</td>
+<td>5 Silver</td>
+<td>Message delivered within the week, depending on distance</td>
+</tr>
+<tr>
+<td>Bathhouse (public)</td>
+<td>2 Copper</td>
+<td>Hot water, steam, basic cleanliness</td>
+</tr>
+<tr>
+<td>Bathhouse (private)</td>
+<td>1 Silver</td>
+<td>Private room, oils, salts, towels</td>
+</tr>
+<tr>
+<td>Medical Treatment</td>
+<td>5 Silver</td>
+<td>A physician's care. Heals 1d4 HP plus ongoing recovery.</td>
+</tr>
+<tr>
+<td>Emergency Surgery</td>
+<td>2 Gold</td>
+<td>Save a dying character without a check. Requires physician and clean room.</td>
+</tr>
+<tr>
+<td>Document Forgery</td>
+<td>1 to 5 Gold</td>
+<td>Quality depends on cost. Cheap forgeries fail on inspection.</td>
+</tr>
+<tr>
+<td>Bribe, Minor Official</td>
+<td>1 to 5 Silver</td>
+<td>Access to a file, a blind eye, a small favor</td>
+</tr>
+<tr>
+<td>Bribe, Senior Official</td>
+<td>1 to 5 Gold</td>
+<td>A promotion, a transferred posting, a silenced report</td>
+</tr>
+<tr>
+<td>Bribe, Commissioner</td>
+<td>10+ Gold</td>
+<td>A life. A verdict. A disappearing file.</td>
+</tr>
+<tr>
+<td>Safe House (one week)</td>
+<td>2 Gold</td>
+<td>Secure location, basic supplies, no questions asked</td>
+</tr>
+<tr>
+<td>Safe House (one month)</td>
+<td>5 Gold</td>
+<td>As above, plus regular supply deliveries</td>
+</tr>
+<tr>
+<td>Information, Street Level</td>
+<td>1 to 5 Silver</td>
+<td>Rumors, gossip, known addresses</td>
+</tr>
+<tr>
+<td>Information, Court Level</td>
+<td>1 to 5 Gold</td>
+<td>Meeting records, faction movements, investigation targets</td>
+</tr>
+<tr>
+<td>Information, Archival</td>
+<td>5 to 20 Gold</td>
+<td>Sealed documents, restricted files, erased records</td>
+</tr>
+<tr>
+<td>Funeral (modest)</td>
+<td>3 Silver</td>
+<td>Cremation or burial, a priest, a small marker</td>
+</tr>
+<tr>
+<td>Funeral (noble)</td>
+<td>5 Gold</td>
+<td>Full ceremony, processional, jade marker, offerings</td>
+</tr>
+<tr>
+<td>Identity Change</td>
+<td>10 Gold</td>
+<td>New documents, a cover story, a relocation to a distant province</td>
+</tr>
+</tbody>
+</table>
 
 ### Lifestyle Expenses
 
 Characters who maintain a consistent lifestyle pay these costs per week:
 
-| Lifestyle    | Cost per Week  | What It Includes                                                                                                               |
-| ------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Destitute    | Free (begging) | Sleeping in doorways, eating scraps, no possessions, constantly vulnerable to disease and violence                             |
-| Poor         | 5 Copper       | A shared room in a tenement, two meals a day of gruel or cheap noodles, worn clothing, no luxuries                             |
-| Modest       | 2 Silver       | A private room in a boarding house, three meals a day, basic clothing, occasional tea                                          |
-| Comfortable  | 1 Gold         | A small apartment, good food, decent clothing, a servant once a week, ability to entertain guests modestly                     |
-| Wealthy      | 5 Gold         | A townhouse or estate apartment, fine clothing, personal servants, ability to host dinners, access to exclusive establishments |
-| Aristocratic | 20 Gold        | A manor or estate, full staff, attire fit for Court, private transportation, invitations to every significant event            |
+<table>
+<thead>
+<tr>
+<th>Lifestyle</th>
+<th>Cost per Week</th>
+<th>What It Includes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Destitute</td>
+<td>Free (begging)</td>
+<td>Sleeping in doorways, eating scraps, no possessions, constantly vulnerable to disease and violence</td>
+</tr>
+<tr>
+<td>Poor</td>
+<td>5 Copper</td>
+<td>A shared room in a tenement, two meals a day of gruel or cheap noodles, worn clothing, no luxuries</td>
+</tr>
+<tr>
+<td>Modest</td>
+<td>2 Silver</td>
+<td>A private room in a boarding house, three meals a day, basic clothing, occasional tea</td>
+</tr>
+<tr>
+<td>Comfortable</td>
+<td>1 Gold</td>
+<td>A small apartment, good food, decent clothing, a servant once a week, ability to entertain guests modestly</td>
+</tr>
+<tr>
+<td>Wealthy</td>
+<td>5 Gold</td>
+<td>A townhouse or estate apartment, fine clothing, personal servants, ability to host dinners, access to exclusive establishments</td>
+</tr>
+<tr>
+<td>Aristocratic</td>
+<td>20 Gold</td>
+<td>A manor or estate, full staff, attire fit for Court, private transportation, invitations to every significant event</td>
+</tr>
+</tbody>
+</table>
 
 A character who maintains a lifestyle above their means draws attention. A clerk living at Wealthy level will be investigated. A noble living at Modest level will be pitied and then targeted.
 
@@ -1556,16 +2387,57 @@ The black market operates in the outer districts and the tunnels beneath the cit
 
 **Black Market Prices.** Black market goods cost two to five times the listed price, depending on scarcity and the seller's assessment of the buyer's desperation. Some items cannot be bought at any price on the open market:
 
-| Item                          | Black Market Cost | Notes                                                                                        |
-| ----------------------------- | ----------------- | -------------------------------------------------------------------------------------------- |
-| Unregistered Weapon           | 2x list price     | No serial marks, cannot be traced                                                            |
-| Poison                        | 10 to 50 Silver   | Varies by type: gradual, rapid, paralytic, or hallucinogenic                                 |
-| Dusk Artifact                 | Priceless         | Usually traded for favors rather than coin. Extremely dangerous.                             |
-| Forged Identity Papers        | 5 to 20 Gold      | Quality determines durability under scrutiny                                                 |
-| Restricted Archive Document   | 10 to 50 Gold     | Cost depends on the document's significance                                                  |
-| Person (rescued from slavery) | 10 to 100 Gold    | Cost depends on the person's status and the risk of extraction                               |
-| Sanctuary Passage             | 50 to 200 Gold    | Transport out of the empire, false papers, new identity, a fresh start in a distant province |
-| Purified Qi Crystal           | 30 Gold           | A rare item that can restore 10 Qi when consumed. One use. Highly regulated.                 |
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Black Market Cost</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Unregistered Weapon</td>
+<td>2x list price</td>
+<td>No serial marks, cannot be traced</td>
+</tr>
+<tr>
+<td>Poison</td>
+<td>10 to 50 Silver</td>
+<td>Varies by type: gradual, rapid, paralytic, or hallucinogenic</td>
+</tr>
+<tr>
+<td>Dusk Artifact</td>
+<td>Priceless</td>
+<td>Usually traded for favors rather than coin. Extremely dangerous.</td>
+</tr>
+<tr>
+<td>Forged Identity Papers</td>
+<td>5 to 20 Gold</td>
+<td>Quality determines durability under scrutiny</td>
+</tr>
+<tr>
+<td>Restricted Archive Document</td>
+<td>10 to 50 Gold</td>
+<td>Cost depends on the document's significance</td>
+</tr>
+<tr>
+<td>Person (rescued from slavery)</td>
+<td>10 to 100 Gold</td>
+<td>Cost depends on the person's status and the risk of extraction</td>
+</tr>
+<tr>
+<td>Sanctuary Passage</td>
+<td>50 to 200 Gold</td>
+<td>Transport out of the empire, false papers, new identity, a fresh start in a distant province</td>
+</tr>
+<tr>
+<td>Purified Qi Crystal</td>
+<td>30 Gold</td>
+<td>A rare item that can restore 10 Qi when consumed. One use. Highly regulated.</td>
+</tr>
+</tbody>
+</table>
 
 **Black Market Etiquette.** Do not ask where items come from. Do not reveal your real name. Do not draw attention to the transaction. Do not attempt to cheat a fence unless you are prepared to leave the city immediately. Some fences are information brokers first and merchants second. Assume everything you say will be remembered and possibly sold.
 
@@ -1577,15 +2449,44 @@ The black market operates in the outer districts and the tunnels beneath the cit
 
 **d20 + Facet Modifier + Proficiency Bonus (if applicable) vs TN**
 
-| TN  | Difficulty  |
-| --- | ----------- |
-| 5   | Trivial     |
-| 8   | Routine     |
-| 12  | Moderate    |
-| 16  | Challenging |
-| 20  | Formidable  |
-| 24  | Legendary   |
-| 28  | Impossible  |
+<table>
+<thead>
+<tr>
+<th>TN</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5</td>
+<td>Trivial</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Routine</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Challenging</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Formidable</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Legendary</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Impossible</td>
+</tr>
+</tbody>
+</table>
 
 ### Combat Turn
 
@@ -1609,28 +2510,113 @@ Hostile TN 20 | Suspicious TN 16 | Neutral TN 12 | Receptive TN 10 | Allied TN 8
 
 ## Appendix B: The Twelve Figures at a Glance
 
-| Figure                | Archetype        | School            | Role                                           |
-| --------------------- | ---------------- | ----------------- | ---------------------------------------------- |
-| Cinnabar Heart        | Alchemist        | Golden Orthodoxy  | Director, Bureau of Harmonious Narrative       |
-| Night Warbler         | Shadow Hand      | Unaligned         | Deputy Director, Bureau of Internal Harmony    |
-| Guest Among Forests   | Long Lived       | Verdant Path      | Representative of the Northern Expanse         |
-| Iron Calculation      | Artificer        | Iron Calculation  | Director, State Planning Commission            |
-| Iron Wall             | Bastion          | Garrison Command  | Marshal of the Imperial Garrison               |
-| Bright Mirror         | Justicar         | Bright Mirror     | High Justicar, Commission for Celestial Purity |
-| Shadow                | Night Walker     | Independent       | Information Broker                             |
-| Duke of Eternal Night | Blood Cultivator | Crimson Lineage   | Grand Council Elder                            |
-| Iron Bone             | Fury Adept       | Common Flame      | Organizer, Red Banner Revival                  |
-| Celestial Book        | Archivist        | Celestial Inquiry | Keeper of the Imperial Archives                |
-| Bone Script           | Hedgewarden      | Verdant Path      | Unregistered. Petitioner of an erased district |
-| Incense Crown         | Oracle           | Temple            | Officiant, Rite of the Emperor's Continuance   |
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Archetype</th>
+<th>School</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cinnabar Heart</td>
+<td>Alchemist</td>
+<td>Golden Orthodoxy</td>
+<td>Director, Bureau of Harmonious Narrative</td>
+</tr>
+<tr>
+<td>Night Warbler</td>
+<td>Shadow Hand</td>
+<td>Unaligned</td>
+<td>Deputy Director, Bureau of Internal Harmony</td>
+</tr>
+<tr>
+<td>Guest Among Forests</td>
+<td>Long Lived</td>
+<td>Verdant Path</td>
+<td>Representative of the Northern Expanse</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>Artificer</td>
+<td>Iron Calculation</td>
+<td>Director, State Planning Commission</td>
+</tr>
+<tr>
+<td>Iron Wall</td>
+<td>Bastion</td>
+<td>Garrison Command</td>
+<td>Marshal of the Imperial Garrison</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>Justicar</td>
+<td>Bright Mirror</td>
+<td>High Justicar, Commission for Celestial Purity</td>
+</tr>
+<tr>
+<td>Shadow</td>
+<td>Night Walker</td>
+<td>Independent</td>
+<td>Information Broker</td>
+</tr>
+<tr>
+<td>Duke of Eternal Night</td>
+<td>Blood Cultivator</td>
+<td>Crimson Lineage</td>
+<td>Grand Council Elder</td>
+</tr>
+<tr>
+<td>Iron Bone</td>
+<td>Fury Adept</td>
+<td>Common Flame</td>
+<td>Organizer, Red Banner Revival</td>
+</tr>
+<tr>
+<td>Celestial Book</td>
+<td>Archivist</td>
+<td>Celestial Inquiry</td>
+<td>Keeper of the Imperial Archives</td>
+</tr>
+<tr>
+<td>Bone Script</td>
+<td>Hedgewarden</td>
+<td>Verdant Path</td>
+<td>Unregistered. Petitioner of an erased district</td>
+</tr>
+<tr>
+<td>Incense Crown</td>
+<td>Oracle</td>
+<td>Temple</td>
+<td>Officiant, Rite of the Emperor's Continuance</td>
+</tr>
+</tbody>
+</table>
 
 The first ten hold offices. The last two do not, and that is the point of them. Bone Script carries an archive the empire refuses to acknowledge; Incense Crown performs the one act on which the empire's legality rests. Neither can be promoted, demoted, or reassigned, which is precisely why the Court finds both of them difficult.
 
 ### The Entry That Is Not on the List
 
-| Figure       | Archetype | School               | Role                                      |
-| ------------ | --------- | -------------------- | ----------------------------------------- |
-| Stray Stroke | Drifter   | Pending Verification | Eleven registered lives. No single person |
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Archetype</th>
+<th>School</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stray Stroke</td>
+<td>Drifter</td>
+<td>Pending Verification</td>
+<td>Eleven registered lives. No single person</td>
+</tr>
+</tbody>
+</table>
 
 The thirteenth Archetype has no line in the table above because the Court's own list has no line for him. He is not unregistered. He is registered eleven times, in eleven offices, under eleven genuine names, and no office in the Nine Domains has ever spent the eleven copper it would cost to discover that the eleven are one man. The Twelve Figures are the people the empire has decided to keep track of. The Stray Stroke is the proof that deciding to keep track of someone is a choice the empire makes rarely and cheaply.
 
@@ -1644,9 +2630,9 @@ This example shows a complete scene from start to finish. The party is investiga
 
 **The Cast:**
 
-- Lan plays Scholar Jinhai, a Celestial Book archivist.
-- Alex plays Cinder, a Night Warbler shadow hand.
-- Sam plays Steelhand, an Iron Bone fury adept.
+- Lan plays Scholar Jinhai, an Archivist archivist.
+- Alex plays Cinder, a Night Walker Hand shadow hand.
+- Sam plays Steelhand, a Fury Adept fury adept.
 - The Host narrates and plays Old Chen and other NPCs.
 
 **Scene Start.**
@@ -1749,7 +2735,7 @@ Create a new character. The new character inherits the knowledge your previous c
 
 **How long does a campaign last?**
 
-A full campaign of the Violet Court Fragments typically runs twelve to twenty sessions, or about three to six months of regular play. Shorter stories and adventures designed for one session are also possible.
+The opening relief arc normally takes six to eight sessions. A wider chronicle can run twelve to twenty or longer, following established people, consequences, and mysteries the table chooses. Neither length requires completing every manuscript or every character's private thread.
 
 **Do I need to read the whole rulebook?**
 
@@ -1950,7 +2936,7 @@ An adventure designed for one session follows this shape:
 
 **Advancement Points (AP).** Points awarded by the Host for completing objectives. Spent to improve your character.
 
-**Archetype.** Your character's starting role, which determines baseline Facet scores, starting Skills, and equipment.
+**Archetype.** A dossier package used as a primary career kit or an optional Portrait Build. Modular Careers use the common Facet array and independent relationships in Chapter Three.
 
 **Celestial Favor.** A resource representing your influence within the Court. Spent to call in favors or survive investigations.
 
@@ -2101,6 +3087,8 @@ Each Archetype begins with specific equipment. Here are the starting packages:
 
 The imperial year is divided into twelve months, each named for the Qi aspect that dominates its season: Piercing Dawn and Yielding Bloom (spring), Binding Stone and Burning Forge (summer), Veiling Mist, Piercing Harvest, and Yielding Rest (autumn), Binding Frost, Burning Ember, and Veiling Dark (winter), and the two hinge months, Hinge Gate and Hinge Threshold, which run twenty five days each. Five intercalary days at the end of the year belong to no month and are called the Hinge: a period when the Court suspends normal business, the boundaries between worlds grow thin, and the ordinary rules do not apply.
 
+The ten ordinary months each have thirty days; Hinge Gate and Hinge Threshold each have twenty five. With the five Hinge days, a civil year has 355 days. The Hinge belongs to the year ending: after its fifth day, Year 453 begins on Piercing Dawn 1. A seven day week continues across month and year boundaries.
+
 ### Major Festivals
 
 **The Festival of the Silent Throne (winter solstice).** A day of mourning for the Emperor's silence. All fires are extinguished for one hour at midnight. No work is done. No music is played. The only permitted sound is the distant bell from the Spire. It is considered deeply unlucky to speak the Emperor's name on this day.
@@ -2121,15 +3109,15 @@ The imperial year is divided into twelve months, each named for the Qi aspect th
 
 These example characters are ready to use in games lasting one session or as templates for new players.
 
-**Ember of the Ashen Dawn (Night Warbler).** A courier who carries messages for the Bureau of Internal Harmony. Ember is twenty two years old, quick with a blade and quicker with a lie. She was recruited from the streets at age twelve. She has never lost a package. She has started reading the messages she carries. She has started to wonder what kind of person her employer truly is. Might 14, Swiftness 18, Endurance 14, Intellect 16, Presence 10, Resolve 16.
+**Ember of the Ashen Dawn (Shadow Hand).** A courier who carries messages for the Bureau of Internal Harmony. Ember is twenty two years old, quick with a blade and quicker with a lie. She was recruited from the streets at age twelve. She has never lost a package. She has started reading the messages she carries. She has started to wonder what kind of person her employer truly is. Might 14, Swiftness 18, Endurance 12, Intellect 14, Presence 8, Resolve 14.
 
-**Stone Watch Zheng (Iron Wall).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 18, Intellect 12, Presence 16, Resolve 14.
+**Stone Watch Zheng (Bastion).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 16, Intellect 10, Presence 12, Resolve 14.
 
-**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made him doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
+**White Crow (Justicar).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made him doubt. Might 12, Swiftness 10, Endurance 14, Intellect 14, Presence 14, Resolve 16.
 
-**Old Moss (Guest Among Forests).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers the Emperor's last public judgment in Year 287 and the words He spoke before the assembled Court. Might 10, Swiftness 16, Endurance 14, Intellect 16, Presence 16, Resolve 16.
+**Old Moss (Long Lived).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers the Emperor's last public judgment in Year 287 and the words He spoke before the assembled Court. Might 8, Swiftness 14, Endurance 12, Intellect 16, Presence 14, Resolve 16.
 
-**Broken Bell (Iron Bone).** A former Commission interrogator who defected to the Red Banner Revival after a case broke his faith in the system. Broken Bell is thirty five, haunted, and looking for redemption through revolution. Might 18, Swiftness 14, Endurance 16, Intellect 14, Presence 14, Resolve 12.
+**Broken Bell (Fury Adept).** A former Commission interrogator who defected to the Red Banner Revival after a case broke his faith in the system. Broken Bell is thirty five, haunted, and looking for redemption through revolution. Might 18, Swiftness 14, Endurance 16, Intellect 10, Presence 10, Resolve 12.
 
 ---
 
@@ -2163,7 +3151,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Key Figure.** Cinnabar Heart, Director of the Bureau of Harmonious Narrative, the Orthodoxy's reluctant instrument.
 
-**Allies.** The Imperial Garrison Command (Iron Wall), though the relationship is strained by the Garrison's practical concerns.
+**Allies.** The Garrison Command (Iron Wall), though the relationship is strained by the Garrison's practical concerns.
 
 **Enemies.** The Crimson Lineage (seen as decadent). The Common Flame (seen as subversive). The Verdant Path (seen as dangerously foreign). The Bright Mirror (over purity of tradition).
 

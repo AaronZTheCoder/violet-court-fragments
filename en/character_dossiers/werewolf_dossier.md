@@ -1,20 +1,28 @@
 # Iron Bone
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Fury Adept
 
-### School: Common Flame
+### Named figure's affiliation: Common Flame
 
 ### Court Role: Organizer, Red Banner Revival Movement
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ## Description
 
-You are two beings sharing one body. The first is a labor organizer, a community leader, a voice for those the empire has ground into dust. Warm, charismatic, the kind of person who remembers workers' children's names and eats with them in factory canteens. The second is the wolf: an ancient spirit of popular fury that found you in a penal works where you had been left to die. The wolf is pure, undifferentiated rage. It cannot distinguish between a Grand Council elder and the street sweeper who works outside his palace.
+Iron Bone organizes among workers and displaced families. His imprisonment taught him how much an individual can endure and how little endurance alone changes. He wants people who do the work to have a voice in the terms of it. Anger gives him force, but a movement also needs food, trust, and decisions its members can challenge.
 
-You are terrified of the wolf. You also know you need it. The empire does not respond to reason. It responds to power. The wolf is power. You are trying to control it. Some days you succeed. Some days you wake up covered in blood that may or may not belong to people who deserved it.
+## Connection to the Shared World
+
+Iron Bone's organizers can make a delivery or repair possible through agreed wages, food, and safety. Their conditions should remain in the record after a public rescue is celebrated. A player may support, revise, or contest them without being required to embrace his ideology.
 
 ## Expanded Backstory
 
@@ -70,29 +78,11 @@ You are aware that the Common Flame's organizers are drawn overwhelmingly from t
 
 ## Sample Dialogue
 
-When addressing a crowd of striking workers:
-"They tell us we are replaceable. They tell us we are lucky to have work. They tell us our suffering is the price of civilization. I have been to the camps they build for people who ask too many questions. I have survived things that would break most of you. I am still here. I am still asking questions. I am still standing. As long as I am standing, I will stand with you."
+1. Before a stoppage: “Who has enough food for the week? We settle that before we close the gates.”
 
-When a companion suggests a peaceful solution to an injustice:
-"I have tried peaceful solutions. I have written petitions. I have organized delegations. I have followed every rule they gave us, hoping that if we were good enough, quiet enough, patient enough, they would listen. They do not listen. They have never listened. They respond to pressure. They respond to the threat of disruption. Do not ask me to be patient. I have been patient my whole life and nothing changed."
+2. Asked to promise safety: “I cannot promise it. I can tell you the risk before you choose.”
 
-When someone asks about the wolf:
-"You want to know what it feels like. It feels like being on fire and drowning at the same time. It feels like every injustice I have ever witnessed happening all at once, in my chest, inside my blood. It feels like justice. That is the terrible part. It feels like justice. And I cannot always tell the difference between justice and revenge."
-
-When an ally is afraid of you:
-"You should be afraid. I am afraid. The wolf does not care about your good intentions. It does not care about the movement or the cause or the reasons we fight. It cares about blood. It cares about tearing. You should be afraid. But you should also know that I have spent every day since the camp learning to keep it leashed. I am still here. I am still human. That counts for something."
-
-When a Crimson Lineage official condescends to a worker:
-"You speak to them as if they are not people. You speak to them as if they exist to serve you. I want you to remember this moment. I want you to remember their faces. Because when the change comes, when the empire falls and the people rise, I want you to recognize the ones you dismissed. I want you to remember that you could have chosen differently."
-
-When a companion asks why you still believe change is possible:
-"Because I have seen what happens when people stop believing. I have seen the silence that falls over a factory town when the organizers have been arrested and the ones who remain are too afraid to speak. I have seen that silence. I would rather die than create it. I believe because the alternative is unbearable. I believe because I have held the hands of people who believed and they were right to believe, even if they did not live to see it."
-
-When the wolf is close to the surface and someone notices:
-"Do not stand so close. Do not make sudden movements. I am controlling it. I am always controlling it. But sometimes the control is thinner than I want to admit. Sometimes I need a moment. Give me a moment. I will be fine. I have always been fine. I have always become fine again."
-
-When alone, speaking to the wolf:
-"I know you are listening. I know you want out. I know you think I am weak for holding you back. But I am the reason we have a cause. I am the reason we have people who trust us. You are the hammer. I am the hand. Without the hand, the hammer is just a piece of metal. Without you, the hand is useless. We need each other. I wish we did not. But we do."
+3. Offered a glorious sacrifice: “Ask the people you are volunteering.”
 
 ## Personal Connections
 
@@ -110,19 +100,7 @@ When alone, speaking to the wolf:
 
 ## Roleplaying Guide
 
-**Internal Conflict:** You are a revolutionary who is also a monster. You believe in human dignity, in the value of every life, in a future where people are not ground into profit. You also contain a spirit that would kill everyone in a room if you let it, that cannot distinguish between the guilty and the innocent, that experiences other beings as obstacles or prey. Every day is a negotiation between your principles and your nature. Every compromise you make with the wolf is a betrayal of who you want to be. Every refusal to use the wolf is a betrayal of the people who need you to be strong. There is no clean choice. There is only the endless work of choosing.
-
-**What Keeps You Up at Night:** The faces of the people the wolf has killed. The possibility that you have already lost more time than you realize, that the wolf has been taking control more often than you remember. The dream where you wake up and Mira is standing over you, older, scarred, asking why you did not find her. The knowledge that the wolf is growing stronger and you are growing more willing to let it.
-
-**How You Treat Allies:** You treat allies as family. You remember their children's names. You check on them when they are sick. You bring food when they are hungry. You would die for them. You would also, you know, kill them if the wolf took control at the wrong moment. This knowledge makes you distant in ways you cannot help. You do not let people get too close. You do not let yourself need them too much. You have trained yourself to be able to walk away, because you know that one day you may have to.
-
-**How You Treat Enemies:** You treat enemies as problems to be solved. You prefer to turn them into allies or neutralize them through organization. You do not enjoy violence, even when you are the one committing it. The wolf enjoys violence. You do not. This distinction matters to you. You try to remember it when the blood is on your hands. You try to remember that the pleasure you feel in combat belongs to the wolf, not to you. You are not always successful.
-
-**What You Notice That Others Miss:** The quality of a person's hands: calluses tell you their work, cleanliness tells you their station, trembling tells you their fear. The way people stand when they are about to be hurt. The particular cough of a lung fever patient. The sound of a factory running at reduced capacity. The silence that follows a guard's footsteps. The smell of a camp. You remember the smell.
-
-**Your Tell When You Are Lying:** Your voice becomes softer. You make eye contact more than usual. You over explain, providing details no one asked for. You have learned to lie to officials, to guards, to anyone who might harm your people. You are good at it. But the wolf does not lie. The wolf does not understand lies. When you are lying, the wolf stirs, confused by the mismatch between your words and your truth. People who know you well can sense this shift.
-
-**Your Tell When You Are Being Sincere:** You stop moving. Completely. You become very still, very quiet. Your hands hang at your sides. Your voice drops to its natural register. You say what you mean without embellishment. You do not break eye contact. The wolf is also still in these moments. It is listening. It is learning what matters to you. You do not know if this is dangerous. You are sincere anyway.
+Make room for listening, disagreement, and ordinary competence. Fury is an available power, not a demand that he lose control whenever the plot needs violence.
 
 ## Ability Examples
 
@@ -155,51 +133,101 @@ _Complication:_ The fourth name on the list is someone you know personally, some
 
 ## Daily Life
 
-You wake before dawn, a habit from the factory years that no amount of success can break. You stretch, carefully, checking your body for changes. You check your hands. You check your teeth. You check the mirror for any sign that the wolf has been active while you slept. You do a breathing exercise an old camp survivor taught you, a technique for centering yourself in your body. You eat a simple breakfast: rice, vegetables, tea. You cannot afford to indulge. The wolf is stronger when you are heavy with food or drink.
-
-Your mornings are spent in meetings. You meet with union representatives, with community leaders, with workers who have grievances. You listen more than you speak. You take notes. You promise to follow up. You always follow up. The movement is built on trust, and trust grows when promises are kept. You visit factories, construction sites, the docks. You know the names of the foremen. You know which ones can be reasoned with and which ones are dangerous. You know which workers are informants and which are reliable. The information network you have built is informal but vast. It keeps people alive.
-
-Afternoons are for planning. You write pamphlets. You coordinate safe houses. You arrange the distribution of food and medicine to families affected by strikes. You meet with the families of workers who have been arrested. You tell them their loved ones will be all right. You hope this is true.
-
-Evenings are for the movement. Rallies, meetings, training sessions. You teach workers how to organize, how to negotiate, how to protect themselves. You speak at street corners. You argue in taverns. You build the revolution one conversation at a time.
-
-Night is the hardest. The wolf stirs when you are tired. You have learned to sleep in short intervals, to wake frequently, to check the lock on your door. You keep a set of iron manacles by your bed. You have never used them. You are not sure if they would hold. You sleep with one hand on the manacles, ready. You dream of the camp. You dream of the wolf. You dream of a world where you do not have to be afraid of yourself.
-
-Once a month, you travel to the Warrens to visit the healer who suppresses the wolf. The treatment leaves you weak for days. You pay for it with money the movement could use for other things. You do it anyway. The wolf must be controlled. The work must continue. You must survive long enough to see the change you are building.
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Controlled Fury.** The first time you make the Resolve check at the easier threshold, you feel something shift in your relationship with the wolf. It is not submission. It is negotiation. You feel the wolf acknowledge your strength, your will, your right to lead. The control is still fragile. The wolf could still break free. But for the first time, you feel like you are working together rather than fighting for dominance. You feel a loyalty to the wolf that surprises you. You feel the wolf's loyalty in return. It is terrifying. It is also, you realize, the closest thing to belonging you have felt since the camp.
-
-**Level 5: Alpha's Howl.** The first time you howl in wolf form, the sound comes from somewhere deeper than your lungs. It comes from the wolf's ancestors, from the ancient spirit that chose you, from the collective rage of every worker who has ever been exploited. The howl is not just sound. It is a command. Your allies feel it in their bones. They are stronger. They are faster. They are no longer afraid. You feel their courage as if it were your own. The howl costs you something too. You are giving them some of your strength. You are giving them some of the wolf. You do not know if you will ever get it back.
-
-**Level 7: Unchained.** The wolf form now lasts longer, hits harder. The transformation is still painful, but the pain has become familiar, almost comfortable. Your human shape feels like the disguise now. The wolf feels like the truth. You begin to prefer the wolf's senses, the wolf's strength, the wolf's simplicity. The human world is full of complications, compromises, half measures. The wolf knows what it wants. You begin to understand why some of your predecessors never came back from the transformation. The wolf is not just power. It is peace. It is the peace of having no doubts. You resist it. You do not know how long you can keep resisting.
-
-**Level 9: The Red Dawn.** The first time you unleash the wolf fully, you die. That is what it feels like. The person you were, the organizer, the brother, the revolutionary, dissolves into the fur and the teeth and the hunger. You become something older than humanity. You become the fury of the oppressed made flesh. You are not Iron Bone anymore. You are the wolf. You are the Red Dawn. You move through the world as a force of nature, unstoppable, indiscriminate, beautiful. When the scene ends, you return to yourself, if you return. You look at your hands. They are human again. They are covered in blood. You do not know whose blood it is. You do not know if you care. You have changed. The change may be permanent. The change may be what you needed all along. This is the most terrifying thought of all.
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 18    | +4       |
-| Swiftness | 14    | +2       |
-| Endurance | 16    | +3       |
-| Intellect | 10    | +0       |
-| Presence  | 14    | +2       |
-| Resolve   | 10    | +0       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+</tbody>
+</table>
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 6 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 2 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier          | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 12        |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 6</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ## Proficiencies
 
@@ -246,14 +274,47 @@ You have Advantage on Endurance checks to resist physical hardship, torture, ext
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                               |
-| ---------------- | ---------------- | --------------------------------------------------- |
-| Golden Orthodoxy | -20              | You are everything they fear.                       |
-| Verdant Path     | +10              | You share goals, if not methods.                    |
-| Iron Calculation | -5               | Your disruptions affect productivity metrics.       |
-| Crimson Lineage  | -25              | You have named their families in public speeches.   |
-| Common Flame     | +30              | You are the flame.                                  |
-| Bright Mirror    | -15              | The Commission has a file on you. It is very thick. |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>−20</td>
+<td>You are everything they fear.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>+10</td>
+<td>You share goals, if not methods.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>−5</td>
+<td>Your disruptions affect productivity metrics.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>−25</td>
+<td>You have named their families in public speeches.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>+30</td>
+<td>You are the flame.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>−15</td>
+<td>The Commission has a file on you. It is very thick.</td>
+</tr>
+</tbody>
+</table>
 
 ## Suggested Truths
 

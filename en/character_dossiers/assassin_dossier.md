@@ -1,42 +1,114 @@
 # Night Warbler
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Shadow Hand
 
-### School: Unaligned (serves whoever controls the Bureau of Internal Harmony)
+### Named figure's affiliation: Unaligned (serves whoever controls the Bureau of Internal Harmony)
 
 ### Court Role: Bureau of Internal Harmony, Special Operations
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ## Description
 
-You are trained in the arts of shadow: infiltration, elimination, and the delicate craft of being somewhere without anyone knowing you were there. The Bureau of Internal Harmony handles the Court's special cases. When a problem cannot be solved with memoranda, it comes to you. You are very good at solving problems. You are less good at living with the solutions afterward. You wear black and violet combat silks. You carry blades that seem to materialize from shadow. You move like water. You sleep poorly.
+Night Warbler works for the Bureau of Internal Harmony. He is trained to enter guarded places, assess a threat, and leave with the person or document he was sent to recover. He has served long enough to question a task without announcing his doubts to everyone in the room. His restraint may protect a witness or merely make an operation cleaner. The difference rests in what he chooses to do.
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 14    | +2       |
-| Swiftness | 18    | +4       |
-| Endurance | 12    | +1       |
-| Intellect | 14    | +2       |
-| Presence  | 10    | +0       |
-| Resolve   | 14    | +2       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ## Derived Values
 
-| Value             | Calculation                         | Base      |
-| ----------------- | ----------------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 2         | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 3         | Calculate |
-| Sanity            | 20 + Resolve Modifier               | Calculate |
-| Initiative        | Swiftness Modifier + 2              | Calculate |
-| Defense           | 10 + Swiftness Modifier + 1 (armor) | 15        |
-| Proficiency Bonus | Level 1                             | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 3</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier + 1 (armor)</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ## Proficiencies
 
@@ -76,14 +148,51 @@ You recognize the signs of your profession: the way someone stands relative to e
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                                |
-| ---------------- | ---------------- | -------------------------------------------------------------------- |
-| Golden Orthodoxy | 0                | You are a tool. Tools are not judged.                                |
-| Verdant Path     | -5               | They fear what you represent.                                        |
-| Iron Calculation | 0                | Efficiency is efficiency.                                            |
-| Crimson Lineage  | +5               | Old families appreciate discretion.                                  |
-| Common Flame     | -10              | You are the boot, not the face.                                      |
-| Bright Mirror    | -5               | The Commission does not approve of "special operations." Officially. |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>0</td>
+<td>You are a tool. Tools are not judged.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>−5</td>
+<td>They fear what you represent.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>0</td>
+<td>Efficiency is efficiency.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>+5</td>
+<td>Old families appreciate discretion.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>−10</td>
+<td>You are the boot, not the face.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>−5</td>
+<td>The Commission does not approve of "special operations." Officially.</td>
+</tr>
+</tbody>
+</table>
+
+## Connection to the Shared World
+
+A witness escort can pass through the same Bureau that issued the witness's summons. Night Warbler must decide what his order actually protects. Senior Censor Wei in the relief case is not the deceased Council member Wei in his history.
 
 ## Expanded Backstory
 
@@ -145,41 +254,11 @@ You have not told anyone that you have begun, in a way you would not yet call a 
 
 ## Sample Dialogue
 
-**When asked about their past:**
-"There is nothing before the Bureau. I was created by the Bureau. The person I was before does not exist anymore. I killed him myself. He was my first target and my cleanest."
+1. Before an escort: “Who else knows where we are taking her?”
 
-**To an ally who hesitates in a fight:**
-"Your body knows what to do. Your mind is the problem. Your mind is telling you that you are a good person and good people do not do this. Your mind is wrong. There is no good. There is only alive or dead. Choose alive."
+2. When given a killing order: “I heard the order. I am asking what evidence you have.”
 
-**When Professional Courtesy activates with another operative:**
-"I see you checked the exits when you entered. I see you noted the guard's patrol pattern. I see you have not drunk from your cup. You are either in my profession or you have very poor social skills. I am guessing the first."
-
-**To a target who begs for mercy:**
-"I am not the one who decided you needed to die. I am just the one who was sent. If you want to argue about the justice of this, you will have to take it up with the person who signed the order. I do not know their name. I do not want to know their name."
-
-**When cornered and needing to escape:**
-"You have three choices. You can try to stop me, in which case at least two of you will die before I do. You can let me leave, in which case no one dies tonight. Or you can pretend none of this happened, go back to your posts, and forget you saw me. I recommend the third one. It is easiest on everyone."
-
-**A rare moment of sincerity with a close companion:**
-"I have killed seventeen people for the Bureau. I remember all of their faces. I remember what they were wearing. I remember the last thing they saw before they died. Most of them saw nothing. They died in their sleep or in a crowd or walking down a dark street. Only three of them saw me. Only one of them said anything I understood. They said 'I forgive you.' I do not know why. I have never stopped wondering."
-
-**When someone thanks them for protection:**
-"Do not thank me. I did not protect you because I care about you. I protected you because I was ordered to. If I was ordered to kill you tomorrow, I would do that too. That is what I am. That is all I am. The sooner you understand that, the safer you will be."
-
-**To a reflection that catches them off guard:**
-"I do not know who I am when I am not working. I have tried to find out. I have tried hobbies. I tried painting once. I painted a landscape. It looked like a crime scene. I burned it. I do not try hobbies anymore."
-
-**When someone asks what you fear:**
-"I fear the moment when the orders stop making sense and I follow them anyway. I fear that I have been trained so well that I will do terrible things without questioning them, forever. I fear that the part of me that questions has already died. These are not hypothetical fears. They are memories of things that have already happened."
-
-**To comfort an ally who cannot sleep after a mission:**
-"The faces do not go away. You learn to live with them. You learn to look at them in the dark and say their names and let them be what they are. They are dead. You are alive. That is not a judgment. It is a fact. Hold on to the fact. It will carry you through the night."
-
-**When someone argues that everyone has a choice:**
-"You believe that because you have always had choices. I have had one choice: obey or die. I chose to obey. I choose it every morning. You call that a choice because you have never stood where I stand. I do not blame you for your ignorance. But do not lecture me about choices you have never had to make."
-
-**When alone, checking the lock on your door for the third time:**
-"You checked it twice already. It is locked. The door is secure. There is no one in the room but you. You know this. You know it because you have checked every corner, every shadow, every possible hiding place. You know it because you are the best at this and you would know if someone else was here. You are safe. You are never safe. You check the lock again."
+3. To a frightened witness: “Keep your coat. We may have to wait outside.”
 
 ## Personal Connections
 
@@ -206,19 +285,7 @@ Five years ago, you were ordered to eliminate a minor noble who had crossed the 
 
 ## Roleplaying Guide
 
-Your internal conflict is the gap between what you do and who you are. You have been trained to believe that you are a tool, an instrument, a weapon with no moral agency. But tools do not lie awake at night remembering faces. Tools do not protect people they were ordered to surveil by filing incomplete reports. You are not a tool. You are a person who does terrible things. The distinction matters. It is the only thing that keeps you from becoming what the Bureau wants you to be.
-
-What keeps you up at night: the silence. You have trained yourself to be silent in all things, but the silence has become internal. You cannot speak about your work. You cannot speak about your past. You cannot speak about what you feel, because you have spent so long suppressing feeling that you are not sure you still have the capacity to name them. The silence is a room with no doors. You live in it. You have started filling it with conversations you rehearse in your head, confessions you will never make, apologies you will never deliver.
-
-How you treat allies: with professional distance. You watch their backs because that is what competent operatives do. You do not get attached. Attachment is a vulnerability. But you have noticed that you feel protective of the people you work with regularly. You have started positioning yourself between them and danger even when the mission does not require it. You tell yourself it is tactical. You know it is not.
-
-How you treat enemies: with efficiency. You do not torture. You do not gloat. You do not draw out suffering. Death is the end of the mission, not a performance. You give enemies a clean death because you would want one yourself. You have learned that there is a difference between killing and cruelty. You are capable of the first. You refuse to be capable of the second.
-
-What you notice that others miss: the small asymmetries. A shoe that is tied slightly differently than the other. A collar that has been adjusted recently. The way someone breathes when they are about to lie. The way a room smells different when it has been entered recently. You read bodies the way the Alchemist reads documents: every detail is a clue.
-
-Your tell when you are lying: you become very still. You stop moving entirely. Most people fidget when they lie. You have trained yourself not to fidget. But stillness is itself a signal to those who know what to look for. A truthful person shifts their weight occasionally. A liar, trying to control their body, becomes a statue.
-
-Your tell when you are being sincere: you move. You shift your weight. You touch your face. You let your eyes wander. Sincerity makes you nervous because it is the one thing you have never been trained to do. When you mean what you say, your body does not know how to behave. You seem awkward, almost vulnerable. You hate it.
+Keep his speech practical. He asks enough to do a job and sometimes enough to decide whether it should be done. Silence can mean attention, calculation, or reluctance; do not make it his answer to every intimacy.
 
 ## Ability Examples
 
@@ -255,53 +322,11 @@ Complication: The file is incomplete. Someone has been removing pages. You do no
 
 ## Daily Life
 
-You wake before dawn, always, no matter when you went to sleep. It is a habit that was beaten into you during training and has never left. You do not use an alarm clock. Your body simply knows. You lie still for a moment, checking your surroundings by sound: the creak of the building, the distant footsteps of the early patrol, the birds beginning to call in the garden below. You catalog the sounds. You note any that do not belong.
-
-You perform a sequence of stretches and exercises that take exactly thirty minutes. You could do them in your sleep. You have done them in your sleep, on nights when insomnia finally releases you and your body goes through the motions without conscious direction. You do not exercise for strength. You exercise for flexibility, for balance, for the ability to fit through narrow spaces and land silently from heights. Your body is a tool, and you maintain it the way you maintain your blades: with precision, with regularity, without sentiment. You know every scar, every weakness, every joint that complains in cold weather. You have learned to work around them.
-
-You eat a small breakfast: dried meat, hard bread, water. You do not drink tea. Tea requires you to stop moving. You do not drink alcohol either, though not for any moral reason. Alcohol slows your reflexes. Slowed reflexes get you killed. You have seen good operatives destroyed by a single drink before a mission. You have never made that mistake. The cost of your profession is vigilance. You pay it every day, in small ways, and you do not complain because complaining would be a distraction and distractions are also dangerous.
-
-Your work is irregular. Some days you receive a sealed envelope with instructions. Some days you do nothing but wait. You fill the waiting with maintenance: sharpening your blades, testing your climbing equipment, reviewing the profiles of persons of interest. The waiting is the hardest part. Action is a release. Waiting is a pressure that builds with no outlet. You have learned to channel the pressure into preparation, into redundancy, into systems so thorough that when the envelope finally arrives, you are ready before you open it. You have learned to be patient because impatience kills. But you have not learned to enjoy patience. You endure it.
-
-You have a small room in a lodging house that you rent under a false name. You change the false name every six months. You own almost nothing. Everything you own fits in a single bag.
-
-The room has no personal touches save one: a small book hidden in a cavity behind a loose stone near the window. It contains the names of everyone you have killed, written in a hand that is yours but does not look like yours. You add to it after every mission. You have never shown it to anyone. You have never spoken of it. In your worst moments, you take it out and read the names aloud, in order, as a kind of prayer. You do not know what you are praying to. You only know that the ritual keeps the names alive, and keeping them alive is the closest thing to atonement you have left.
-
-You have sometimes wondered what will happen to the book when you die. You have no one to leave it to. You have no one who would understand what it means. It will be found by the lodging house keeper, who will throw it away or use its pages to light a fire. The names will burn. The people you killed will die a second time, erased from memory entirely. The thought bothers you more than the thought of your own death. You have considered leaving the book with Inspector Eighth Silence, or with the Alchemist, or with any of the people who have seen enough of the world's darkness to understand. You have not done it. You are not ready to let go of the only honest record of your life. You keep the book. You add to it. You wait for the day when you no longer need to.
-
-You do not keep mementos from your targets. That would be unprofessional. But you have kept one thing: a button from Lin Wen's coat, found on the floor of his apartment after the mission. You tell yourself you kept it because you left in a hurry and it stuck to your boot. That is a lie. You kept it because you needed something real to remind you that he existed, that his death was not a theory, that the name in your book belonged to a person who wore a coat with brass buttons. The button is in a small pouch sewn into the lining of your dark cloak. You touch it sometimes, through the fabric, when you need to remember why the work matters. It reminds you that every target is a person. You are not sure if that reminder makes you more careful or merely more miserable.
-
-You spend your evenings in public places where you can watch people without being noticed. Tea houses. Market squares. The plaza outside the Council chambers. You are not gathering information for any specific purpose. You are simply practicing the art of being unseen in a crowd. You return to your room after dark. You do not light a lamp. You do not need one. You sleep in short intervals, three to four hours, your hand on a blade. You dream of the cellar. You wake. You wait for dawn.
-
-After a mission, you do not return to your room immediately. You walk. You walk through the city, through the poorest districts, through the markets that stay open all night, through the alleyways where the city's forgotten sleep in doorways. You walk until your heart rate returns to normal and your hands stop trembling. The trembling is not fear. It is the residue of focus, the physical cost of sustained attention. You have learned to let it pass. You do not judge it. You do not analyze it. You walk until it stops. Then you find a public well, wash the blood from your hands, and return to your room. You write the name in the book. You touch the button in your cloak. You lie down. You close your eyes. You wait for sleep to find you. It always does, eventually. It always brings the cellar.
-
-On the nights when the cellar does not come, you dream of nothing. Pure black, pure silence. You wake from those dreams more tired than when you lay down. Nothingness is not rest. It is a preview of the end, a taste of the void that waits for everyone. You have learned to prefer the cellar dreams. At least the cellar is a place you know. At least the cellar has a floor and walls and a root cellar full of turnips. The void has nothing. It is the absence of everything, including the memory of the village, including the sound of your mother's voice, including fear itself. You wake from the void with your hands shaking and your heart pounding, grateful to be back in a world where things exist, even terrible things. You have never told anyone about the void dreams. You are not sure they would understand that you prefer the nightmares.
-
-You have noticed that the void dreams come more often after missions where the target was innocent. Lin Wen brought three nights of void. The child who survived brought a week. You have started to think of the void as a kind of judgment, a silence that fills the space where guilt should be. You do not feel guilt the way other people do. You were trained out of it, or perhaps you were born without the capacity. But the void feels like guilt translated into a language your body understands. It is guilt without words, guilt without shape, guilt that exists in the spaces between your thoughts. You have learned to live with it. You have not learned to understand it. You are not sure understanding would help.
-
-The task you dread most: receiving a sealed envelope with a target you know. It has happened three times. Each time, you completed the mission. Each time, you told yourself it was the work, that personal feelings had no place in professional operations. Each time, you lost another piece of yourself. You do not know how many pieces are left. You do not know if there is a limit, a final piece whose loss will make you something other than human. You have not reached it yet. You hope you will recognize it when you do.
-
-There is a specific ritual you perform before every mission. You sit on the floor of your room, your back against the wall, and you empty your mind. You let the target's face settle into your memory. You let their routine, their habits, their vulnerabilities arrange themselves in order. You do not judge them. You do not hate them. You do not pity them. You simply see them as clearly as possible. Then you take a single breath and let the seeing go. By the time you exhale, you are ready. The target is no longer a person. The target is a problem with a solution. You have learned that this transformation, from person to problem, is essential to the work. You have also learned that it does not fully reverse. After the mission, the target does not become a person again in your mind. They remain a problem you solved, a name in your book, a button in your cloak. The person they were is gone. You took more than their life. You took their personhood. You cannot give it back.
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Vanish.** Once per session, you may disappear from a scene as a Free Interaction. You are simply gone. The Host determines where you reappear, but it will be somewhere you could plausibly have reached.
-
-What it feels like: You have always been good at leaving. Now you are perfect at it. The first time you use Vanish, you feel something you have not felt since childhood: the pure, uncomplicated joy of escape. For one split second, you are free. Then you reappear somewhere else and the world rushes back in. The joy is replaced by a hollow ache. You realize that you have been practicing escape your entire life. You escaped the village. You escaped your past. You escape every room, every relationship, every moment of connection before it can hold you. Vanish is not a new skill. It is the expression of everything you have ever been. You are not sure you want to examine what that means.
-
-**Level 5: Death Strike.** Your Opening Kill now deals triple damage dice instead of double against targets below half HP.
-
-What it feels like: Your precision has become something almost surgical. You can feel the weakness in a target now, the vulnerable point, the exact moment when they are most breakable. It is not a visual thing. It is a sense, like a pressure in the air around their body. You know where to strike because you can feel where the strike would hurt most. This is not a comfortable knowledge. It changes the way you see people. You see them as a collection of weaknesses held together by skin. You have to remind yourself, sometimes, that they are more than that. You have to force yourself to look at their faces, to see them as people. The effort is exhausting. You do it anyway, because you are afraid of what you will become if you stop.
-
-**Level 7: Ghost Protocol.** You may use Shadow Step three times per scene instead of once.
-
-What it feels like: The world is becoming less solid to you. You can feel the spaces between things now: the gaps in attention, the pauses between heartbeats, the intervals where reality is not quite paying attention. You move through these gaps. Three times in a single encounter, you fold the distance and exist in two places at once. Your allies find you unsettling. Your enemies fear you. Your own reflection looks like a stranger. You spend more time in the spaces between people's perception than in their presence. You are becoming less a person and more a theory. You are not sure if you are losing yourself or finding something you were always meant to be.
-
-**Level 9: Final Contract.** Once per campaign, you may name a target. For the next twenty four hours, all rolls you make in pursuit of that target have Advantage. If the target survives, you die instead.
-
-What it feels like: You have always known you would die in service to the Bureau. Every operative knows this. But Final Contract is different. It is not a mission given to you. It is a promise you make to yourself. You choose the target. You choose the terms. For the first time in your life, your death will be your own decision. The weight of this is immense. You carry it in your chest like a second heart. When you activate Final Contract, the world narrows to a single point. Everything else falls away. The face of the target becomes the only thing that exists. You move through the world like a blade through water. You are not afraid. You have never been less afraid. The fear is reserved for what comes after, and in this moment there is no after. There is only the target and the distance between you and them. You close the distance. You have always closed the distance.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Suggested Truths
 

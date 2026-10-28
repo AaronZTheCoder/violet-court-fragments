@@ -11,9 +11,9 @@
 
 **The Violet Court Fragments** is a complete pen and paper tabletop RPG for one Host and three to six players. You will need dice, pencils, printed character sheets, and a quiet table. No software. No screens. Just the people in the room and the world you build together.
 
-The Sun Emperor has not spoken publicly for about one hundred and sixty four years. The Celestial Court still rules in His name. Six schools of thought vie for control of a bureaucracy so vast and ancient that no single person understands it anymore. Beyond the borders, a corruption of reality itself called the Crimson Dusk creeps inward, province by province, turning fields to salt and people into hollow things that weep red. The Court calls it a "localized disharmony" and dispatches Harmonization Audits. The provinces that fall are erased from maps.
+The Sun Emperor has not spoken publicly for about one hundred and sixty five years. The Celestial Court still rules in His name. Six schools of thought vie for control of a bureaucracy so vast and ancient that no single person understands it anymore. Beyond the borders, a corruption of reality itself called the Crimson Dusk creeps inward, province by province, turning fields to salt and people into hollow things that weep red. The Court calls it a "localized disharmony" and dispatches Harmonization Audits. The provinces that fall are erased from maps.
 
-You are a brush scribe of the Eighth Rank. You copy documents. You file reports. You are nobody. But the empire is a machine that grinds nobodies into dust, and the machine is breaking down.
+You might copy the Court's documents, escort its witnesses, repair its relays, or seek grain for a household it has failed to count. Choose a profession and a reason to stay together. The empire has a place for your work. Whether it has a place for you is another question.
 
 **This is not a game about saving the world.** It is about surviving a system more ancient than anyone understands. About bonds forged under pressure and tested by circumstance. About the stories people tell themselves to justify what they do, and what happens when those stories collapse.
 
@@ -21,98 +21,165 @@ The surface is dark fantasy. The depths are for those who know how to read.
 
 ---
 
-## What Is in the Box
+## One World, Different Views
 
-```
-violet-court-fragments/
-│
-├── README.md                          ← You are here
-├── README_CN.md                       ← Chinese edition
-│
-├── en/                                ← Pure English edition
-│   ├── CORE_RULEBOOK.md               ← The complete game system (2,500+ lines)
-│   ├── HOST_CODEX.md                  ← Host guide and encrypted frameworks (2,200+ lines)
-│   ├── GAME_DESIGN.md                 ← Setting bible and world lore (3,000+ lines)
-│   ├── THE_RECONSTRUCTION.md          ← Main plot spine, for the Host (351 lines)
-│   ├── THE_SEVENTH_NICHE.md            ← Main plot: the Full Rite (294 lines)
-│   ├── character_dossiers/            ← 13 playable archetypes with full mechanics
-│   │   ├── alchemist_dossier.md
-│   │   ├── assassin_dossier.md
-│   │   ├── druid_dossier.md
-│   │   ├── elf_dossier.md
-│   │   ├── engineer_dossier.md
-│   │   ├── knight_dossier.md
-│   │   ├── paladin_dossier.md
-│   │   ├── priestess_dossier.md
-│   │   ├── rogue_dossier.md
-│   │   ├── vampire_dossier.md
-│   │   ├── werewolf_dossier.md
-│   │   ├── wildcard_dossier.md
-│   │   └── wizard_dossier.md
-│   ├── adventures/
-│   │   ├── the_first_harmonization_cinematic_cut.md ← Recommended complete cinematic narrative
-│   │   └── the_first_harmonization.md               ← Full adventure production bible
-│   ├── host_tools/
-│   │   ├── session_tracker.md         ← Printable tracking sheet
-│   │   └── dusk_bestiary.md           ← Creature templates and monster rules
-│   └── reference_sheets/
-│       └── quick_reference.md         ← Compact table reference
-│
-├── cn/                                ← Pure Chinese edition
-│   └── ... (mirrors the en/ structure, all 23 documents)
-│
-└── tabletop_rpg_*.jpeg                ← 13 character portrait illustrations
-```
+Start with the Core Rulebook and the Host's Codex. The Codex now opens with One Living Chronicle, a practical map of the world's connections, and The Open Account, a playable opening arc. A player needs character creation and their chosen career mechanics; a Host needs the current situation and its people.
 
-**48 Markdown documents** in total, including both READMEs and 23 game documents in each language. **24,557 lines of English, 24,553 lines of Chinese, and 49,110 lines overall.** **No dash punctuation in prose.** **Zero political terminology.** **Zero mixed language.** Every word earned.
+The full manuscripts remain part of the same work. The First Harmonization provides the first Audit in compact and cinematic presentations; choose one. The Reconstruction explains the institutions shaping its consequences. The Seventh Niche brings those institutions into a ceremony with the same witnesses and claims. Campaign Continuity keeps their dates and carried decisions together. The setting book retains the wider history, regions, and mysteries.
 
----
+Read a source when a current question reaches it. The chronicle does not require the Host to prepare every region, every figure, and every secret before the first session.
+
+[Begin with the Host's Codex](en/HOST_CODEX.md). [Explore the narrative atlas](en/NARRATIVE_ATLAS.md). [Check a date or consequence](en/CAMPAIGN_CONTINUITY.md).
 
 ## Quick Start
 
 ### What you need
 
-| Item                            | Notes                                                |
-| ------------------------------- | ---------------------------------------------------- |
-| This rulebook                   | Print `en/CORE_RULEBOOK.md` or `cn/CORE_RULEBOOK.md` |
-| At least one d20                | Plus a few d6 and d8 dice                            |
-| Character dossiers              | One per player, from `character_dossiers/`           |
-| Host's Codex                    | Print `en/HOST_CODEX.md`, for the Host's eyes only   |
-| Pencil and paper                | For notes, tracking, and the inevitable betrayals    |
-| 3 to 6 players + 1 Host         | The ideal table size                                 |
-| A quiet place and several hours | This game takes far longer than thirty minutes       |
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>This rulebook</td>
+<td>Print <code>en/CORE_RULEBOOK.md</code> or <code>cn/CORE_RULEBOOK.md</code></td>
+</tr>
+<tr>
+<td>At least one d20</td>
+<td>Plus a few d6 and d8 dice</td>
+</tr>
+<tr>
+<td>Character dossiers</td>
+<td>One per player, from <code>character_dossiers/</code></td>
+</tr>
+<tr>
+<td>Host's Codex</td>
+<td>Print <code>en/HOST_CODEX.md</code>, for the Host's eyes only</td>
+</tr>
+<tr>
+<td>Pencil and paper</td>
+<td>For notes, tracking, and the inevitable betrayals</td>
+</tr>
+<tr>
+<td>3 to 6 players + 1 Host</td>
+<td>The ideal table size</td>
+</tr>
+<tr>
+<td>A quiet place and several hours</td>
+<td>This game takes far longer than thirty minutes</td>
+</tr>
+</tbody>
+</table>
 
 ### Your first session
 
-1. **The Host reads the Codex.** Start with Part One and Part Two. The Deeper Currents section explains the structural dynamics that drive the Court.
-2. **Each player picks an archetype.** Look through the thirteen dossiers. Pick the one whose art and truth hooks speak to you. Read your three unique abilities. You will need them.
-3. **Build characters together.** Follow the eight steps in the Core Rulebook, Chapter Three. Decide why your characters know each other. Decide who owes whom.
-4. **Run "The First Harmonization."** Start with `the_first_harmonization_cinematic_cut.md`, the complete cinematic narrative designed for four to six sessions. Keep the full module open as a production bible for expanded encounters, Archetype material, and mechanical detail.
-5. **Let the campaign unfold.** After the starter adventure, use the Host's Codex campaign frameworks (The Rise, The Conspiracy, The Collapse), the random event tables, and the character generator to build what comes next.
+1. Make characters with one primary career, one secondary trade, and player chosen relationships.
+2. Agree why they are helping with the same delivery or person. No shared prescribed past is required.
+3. Use the Codex's opening three scenes. Bring back someone affected by their first decision.
+4. Keep one current intention and one optional invitation. Prepare the next reachable situation, not a list of future campaigns.
+5. When the opening arc resolves, ask which existing person, place, or promise the table wants to follow. Keep the result it already earned.
 
 ---
 
 ## The Thirteen Archetypes
 
-Every archetype has a full mechanical identity: Facet baseline, three unique abilities, an advancement tree to Level 9, starting equipment, Faction Standing values, and four suggested personal truths. Each one matches a character portrait in the root directory.
+Each dossier provides a primary career's abilities, derived bonuses, equipment, and advancement, alongside an optional portrait of a named figure. Players choose their own history, allegiance, and present concerns. The original numerical packages remain available as Portrait Builds.
 
 Twelve of them correspond to the major figures the Celestial Court counts. The thirteenth corresponds to a man the Court has never managed to count at all, which is the entire point of him.
 
-| Archetype                 | Portrait  | Path             | School               | One Line Pitch                                                                                                     |
-| ------------------------- | --------- | ---------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Cinnabar Heart**        | Alchemist | Alchemist        | Golden Orthodoxy     | A narrative shaper who knows truth is a substance that can be refined, diluted, and occasionally poisoned          |
-| **Night Warbler**         | Assassin  | Shadow Hand      | Unaligned            | A professional who strikes from shadow and understands that killing is the second oldest form of transaction       |
-| **Guest Among Forests**   | Elf       | Long Lived       | Verdant Path         | An ancient soul who has watched empires rise and fall and speaks with trees older than the Court                   |
-| **Iron Calculation**      | Engineer  | Artificer        | Iron Calculation     | A builder who knows the empire runs on resources, not doctrine, and that indispensability is its own kind of power |
-| **Iron Wall**             | Knight    | Bastion          | Garrison Command     | A bastion who swore an oath to a silent Emperor and now guards truths as steadfastly as walls                      |
-| **Bright Mirror**         | Paladin   | Justicar         | Bright Mirror        | A justicar who serves an ideal, knowing full well that ideals are weapons anyone can pick up                       |
-| **Shadow**                | Rogue     | Night Walker     | Independent          | A survivor who has been everywhere, knows everyone, and understands exactly what not to be worth                   |
-| **Duke of Eternal Night** | Vampire   | Blood Cultivator | Crimson Lineage      | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
-| **Iron Bone**             | Werewolf  | Fury Adept       | Common Flame         | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
-| **Celestial Book**        | Wizard    | Archivist        | Celestial Inquiry    | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
-| **Bone Script**           | Druid     | Hedgewarden      | Verdant Path         | A hedgewarden from an erased prefecture, carrying an archive of four thousand and one names carved onto bone       |
-| **Incense Crown**         | Priestess | Oracle           | Temple               | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests             |
-| **Stray Stroke**          | Wildcard  | Drifter          | Pending Verification | A drifter the registry has certified eleven times under eleven names, none of them the one he was born with        |
+<table>
+<thead>
+<tr>
+<th>Named figure</th>
+<th>Primary career</th>
+<th>Affiliation</th>
+<th>Portrait</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cinnabar Heart</strong></td>
+<td>Alchemist</td>
+<td>Golden Orthodoxy</td>
+<td>A narrative shaper who knows truth is a substance that can be refined, diluted, and occasionally poisoned</td>
+</tr>
+<tr>
+<td><strong>Night Warbler</strong></td>
+<td>Shadow Hand</td>
+<td>Unaligned</td>
+<td>A professional who strikes from shadow and understands that killing is the second oldest form of transaction</td>
+</tr>
+<tr>
+<td><strong>Guest Among Forests</strong></td>
+<td>Long Lived</td>
+<td>Verdant Path</td>
+<td>An ancient soul who has watched empires rise and fall and speaks with trees older than the Court</td>
+</tr>
+<tr>
+<td><strong>Iron Calculation</strong></td>
+<td>Artificer</td>
+<td>Iron Calculation</td>
+<td>A builder who knows the empire runs on resources, not doctrine, and that indispensability is its own kind of power</td>
+</tr>
+<tr>
+<td><strong>Iron Wall</strong></td>
+<td>Bastion</td>
+<td>Garrison Command</td>
+<td>A bastion who swore an oath to a silent Emperor and now guards truths as steadfastly as walls</td>
+</tr>
+<tr>
+<td><strong>Bright Mirror</strong></td>
+<td>Justicar</td>
+<td>Bright Mirror</td>
+<td>A justicar who serves an ideal, knowing full well that ideals are weapons anyone can pick up</td>
+</tr>
+<tr>
+<td><strong>Shadow</strong></td>
+<td>Night Walker</td>
+<td>Independent</td>
+<td>A survivor who has been everywhere, knows everyone, and understands exactly what not to be worth</td>
+</tr>
+<tr>
+<td><strong>Duke of Eternal Night</strong></td>
+<td>Blood Cultivator</td>
+<td>Crimson Lineage</td>
+<td>The last of a generation who remembers what the official histories erased and carries what is irreplaceable</td>
+</tr>
+<tr>
+<td><strong>Iron Bone</strong></td>
+<td>Fury Adept</td>
+<td>Common Flame</td>
+<td>A fury adept who carries the people's rage and the people's hope, one claw at a time</td>
+</tr>
+<tr>
+<td><strong>Celestial Book</strong></td>
+<td>Archivist</td>
+<td>Celestial Inquiry</td>
+<td>An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives</td>
+</tr>
+<tr>
+<td><strong>Bone Script</strong></td>
+<td>Hedgewarden</td>
+<td>Verdant Path</td>
+<td>A hedgewarden from an erased prefecture, carrying an archive of four thousand and one names carved onto bone</td>
+</tr>
+<tr>
+<td><strong>Incense Crown</strong></td>
+<td>Oracle</td>
+<td>Temple</td>
+<td>An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests</td>
+</tr>
+<tr>
+<td><strong>Stray Stroke</strong></td>
+<td>Drifter</td>
+<td>Pending Verification</td>
+<td>A drifter with eleven officially issued registrations, including borrowed names and none recording his birth name</td>
+</tr>
+</tbody>
+</table>
 
 Each archetype is built for extensibility. New portraits can become new dossiers. The system scales.
 
@@ -122,16 +189,49 @@ Each archetype is built for extensibility. New portraits can become new dossiers
 
 The Celestial Court is divided into six competing schools, each representing a different answer to the same question: how should the empire be governed when the Emperor will not speak?
 
-| School               | Core Belief                                                                                               | Patron Archetype |
-| -------------------- | --------------------------------------------------------------------------------------------------------- | ---------------- |
-| **Golden Orthodoxy** | Continuity is the highest virtue. The old ways have kept the empire standing for more than four centuries | Alchemist        |
-| **Verdant Path**     | The empire must return to harmony with nature and the old spirits, not merely enforce it through decree   | Elf              |
-| **Iron Calculation** | The empire is a machine. Optimize the machine. Doctrine is secondary to results                           | Engineer         |
-| **Crimson Lineage**  | Blood remembers. The founding families built this empire. Their inheritance is not up for debate          | Vampire          |
-| **Common Flame**     | Power flows upward from the people, not downward from the Court. The empire belongs to those who work it  | Werewolf         |
-| **Bright Mirror**    | Purity of purpose above all. The empire must be cleansed of corruption, whatever the cost                 | Paladin          |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Core Belief</th>
+<th>Key Figure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Golden Orthodoxy</strong></td>
+<td>Continuity is the highest virtue. The old ways have kept the empire standing for more than four centuries</td>
+<td>Cinnabar Heart</td>
+</tr>
+<tr>
+<td><strong>Verdant Path</strong></td>
+<td>The empire must return to harmony with nature and the old spirits, not merely enforce it through decree</td>
+<td>Guest Among Forests</td>
+</tr>
+<tr>
+<td><strong>Iron Calculation</strong></td>
+<td>The empire is a machine. Optimize the machine. Doctrine is secondary to results</td>
+<td>Iron Calculation</td>
+</tr>
+<tr>
+<td><strong>Crimson Lineage</strong></td>
+<td>Blood remembers. The founding families built this empire. Their inheritance is not up for debate</td>
+<td>Duke of Eternal Night</td>
+</tr>
+<tr>
+<td><strong>Common Flame</strong></td>
+<td>Power flows upward from the people, not downward from the Court. The empire belongs to those who work it</td>
+<td>Iron Bone</td>
+</tr>
+<tr>
+<td><strong>Bright Mirror</strong></td>
+<td>Purity of purpose above all. The empire must be cleansed of corruption, whatever the cost</td>
+<td>Bright Mirror</td>
+</tr>
+</tbody>
+</table>
 
-The Knight and the Assassin stand between schools. The Rogue stands outside them. The Wizard stands above them, watching. The Druid was never counted by them, and the Priestess belongs to something older than all six. The Wildcard has been counted by four of them, under four different names, and none of the four has ever worked out that they were counting the same man.
+Iron Wall and Night Warbler serve institutions rather than a School. Shadow trades independently; Celestial Book works within Celestial Inquiry. Bone Script belongs to a suppressed Verdant Path tradition, Incense Crown to the Temple, and Stray Stroke uses several registrations. A player can choose any affiliation for their own career.
 
 ---
 
@@ -151,15 +251,15 @@ The Codex is written for the Host's eyes only. Guard it well.
 
 ---
 
-## The Main Plot
+## A Chronicle That Remembers
 
-Two core books carry the campaign. Both are written for the Host, and both cover the same thirty days.
+The empire asks people to survive through institutions that can no longer describe them honestly. A relief file can lead from an empty bowl to a work crew, from a work crew to a river survey, and from a survey to an old promise whose beneficiaries still govern. The Temple's ceremony can return those same people to the place where the Court claims that everything has been settled.
 
-**The Reconstruction** (`en/THE_RECONSTRUCTION.md`) is how the Court survives what it breaks. In the Nine Domains, the word for rebuilding a levee is also the word for rebuilding the record of the levee, and the Court has never seen a reason to use two words for this. The instrument has been rewritten five times in eighty one years, each version forced by the failure of the one before it, and a sixth is in draft. The book contains all six, the Gloss and the Key that make a Court document nearly impossible to read with confidence, the erasure trade that grew out of them, and the question underneath all of it, which nobody in the setting can answer, including the Host.
+The connection is more than a recurring seal. Resources move, people remember, offices answer for earlier signatures, and factions disagree about what a good answer requires. The story preserves the political allegory and cosmic uncertainty while giving every large question a human point of contact.
 
-**The Seventh Niche** (`en/THE_SEVENTH_NICHE.md`) is how the Court settles its dead. The Temple of Ten Thousand Gods predates the empire and holds ten thousand niches, and six of them hold men instead of gods. A seventh is being opened for a Steward dead these many years, whose two most valuable legacies the present Steward has already reversed. The Court does not publish a change of course. It publishes a change of ancestor.
+The First Harmonization, the Reconstruction, and the Seventh Niche are parts of that continuing history. They do not reset the cast or supersede earlier achievements. The Emperor, the founding, and the Dusk remain present in the world; the table can pursue them through evidence and relationships already encountered.
 
-Your players are the hands of both instruments. They are Eighth Rank copyists. A mountain has just come down on the empire's last true border, the Hall of Open Hearing has opened for the first time in a generation, and both files are going to cross their desk. The Hinge of Year 452 is thirty days away. When it arrives, the Key turns, every decoded document expires, and every calamity after it will be declared a victory before the dead are counted.
+The Host's Codex explains how to carry those consequences. Campaign Continuity provides the shared calendar. The complete prose and deeper histories remain available when the players' questions reach them.
 
 ---
 
@@ -175,10 +275,27 @@ Every political term has been mapped to a fantasy equivalent. Every real world i
 
 ## Editions
 
-| Edition | Directory | Contents                                                                                          |
-| ------- | --------- | ------------------------------------------------------------------------------------------------- |
-| English | `en/`     | All 23 documents in English, including the complete cinematic narrative and full production bible |
-| Chinese | `cn/`     | All 23 documents in Chinese, including the complete cinematic narrative and full production bible |
+<table>
+<thead>
+<tr>
+<th>Edition</th>
+<th>Directory</th>
+<th>Contents</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>English</td>
+<td><code>en/</code></td>
+<td>All 24 documents in English, including the complete cinematic narrative and full production bible</td>
+</tr>
+<tr>
+<td>Chinese</td>
+<td><code>cn/</code></td>
+<td>All 24 documents in Chinese, including the complete cinematic narrative and full production bible</td>
+</tr>
+</tbody>
+</table>
 
 The two editions are functionally identical. Switch between them at any time. The character portraits work for both.
 
@@ -202,5 +319,5 @@ The Violet Court Fragments was designed as a love letter to dark fantasy tableto
 
 Character portraits in `tabletop_rpg_*.jpeg` are the visual anchors. Every archetype was built outward from its portrait. If you have new portraits, you can make new archetypes. The system is designed to grow.
 
-> _The Sun Emperor has not spoken publicly for about one hundred and sixty four years._
+> _The Sun Emperor has not spoken publicly for about one hundred and sixty five years._
 > _Perhaps He is waiting for someone worth speaking to._

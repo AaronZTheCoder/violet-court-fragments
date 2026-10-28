@@ -1,18 +1,28 @@
 # Iron Wall
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Bastion
 
-### School: Garrison Command (unaligned)
+### Named figure's affiliation: Garrison Command (unaligned)
 
 ### Court Role: Imperial Garrison
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ## Description
 
-You are a soldier of the Imperial Garrison, sworn to protect the empire from all threats: foreign armies, Dusk incursions, and the slower rot of internal decay. You wear a scarred coat over concealed armor and carry a greatsword that has broken lesser blades. You swore an oath to the Sun Emperor, not to the Court, and that distinction has defined your career. The Court's civilian officials play their games. You watch. You wait. You maintain your equipment and your honor. Both are in good condition.
+Iron Wall serves the Imperial Garrison. His oath places him between an order and the people who must live through it. He knows the uses of discipline: a retreat can save lives only if someone holds the passage. He also knows how easily obedience can become an excuse. The soldiers under his care make that question immediate.
+
+## Connection to the Shared World
+
+Iron Wall can escort a convoy whose passengers need both sanctuary and legal recognition. Protecting the road does not decide whether their names should be published. Let the people being protected participate in that decision.
 
 ## Expanded Backstory
 
@@ -74,41 +84,11 @@ You are forty three. Your knees are going. You want, and would never say aloud, 
 
 ## Sample Dialogue
 
-1. When asked why you follow orders you disagree with:
-   "Because order is fragile and chaos is patient. I have seen what happens when soldiers decide which orders to follow. I have seen the villages that burned because of good intentions. I follow orders. I hold the line. I trust my commanders to carry the weight of the decisions. That is the bargain I made."
+1. At an evacuation: “Families first. Leave a lane for the wounded.”
 
-2. To a civilian who questions your presence:
-   "I am here because I swore an oath. It is not an oath to you. It is not an oath to your masters. I swore to protect the empire. That includes you. It includes people I do not like. It includes people who do not like me. That is the point of an oath. It does not depend on how I feel."
+2. Asked to defend an order: “I carried it out. Ask me what happened, not whether I obeyed.”
 
-3. When an ally questions your loyalty:
-   "My loyalty is not complicated. I am loyal to the Sun Emperor. I am loyal to the soldiers beside me. I am loyal to the oath I swore. If those three things ever conflict, I will do what I must. But I will not enjoy it, and I will not pretend it was easy."
-
-4. Before a battle, to your allies:
-   "Stay close to me. Do not try to be a hero. Heroes die quickly and their deaths accomplish nothing. The wall does not need heroes. The wall needs stones that stay in place. Be the stone. Let the enemy break against you."
-
-5. When offered a bribe or political favor:
-   "I am not for sale. You could offer me half the empire and I would still be a soldier. Because if I took your offer, I would no longer be a soldier. I would be someone who used to be a soldier. Those are different things."
-
-6. After a battle, to a grieving comrade:
-   "I know. I cannot tell you it gets better. It does not. You just learn to carry it. The weight does not change. Your back gets stronger. That is all. That is enough."
-
-7. When someone asks about your scars:
-   "This one was a Dusk raider at Grey River Ford. This one was a knife in a tavern fight I did not start. This one was shrapnel from a siege engine that malfunctioned. This one I do not talk about. Respect that."
-
-8. At the end of your watch, to yourself:
-   "Another day. Another night. The wall is standing. I am standing. That is success. That is enough."
-
-9. When you are afraid before a battle and someone notices:
-   "I am afraid. I have been afraid before every fight since Grey River Ford. Anyone who tells you they are not afraid is either lying or has not been in enough fights to understand what they are facing. Fear keeps you sharp. Fear keeps you alive. Do not let it control you. But do not pretend it is not there."
-
-10. To comfort a soldier who has lost a comrade:
-    "He was your friend. I know. I have lost more friends than I can count. The pain does not go away. But it changes. It becomes something you carry, like a scar that aches when the weather turns. You learn to walk with the ache. You learn to keep fighting. That is what he would want. That is what you owe him."
-
-11. When your philosophy of discipline is challenged by someone who believes mercy comes before order:
-    "Mercy is a privilege of peacetime. In war, mercy gets people killed. I have seen commanders who were too merciful. Their soldiers died because of it. I have seen commanders who were too cruel. Their soldiers died because of that too. There is a balance. I have not found it. I am still looking. But I will not sacrifice my soldiers on the altar of my own good conscience."
-
-12. When alone, before sleep, thinking of the dead:
-    "I carry your names. I carry your faces. I carry the sound of your voices calling for help that I could not give. I carry all of it. I will carry it until I die. And when I die, I hope I am buried somewhere quiet, where I can finally put the weight down."
+3. To a junior soldier: “You saw something I missed. Tell me again.”
 
 ## Personal Connections
 
@@ -130,17 +110,7 @@ You are forty three. Your knees are going. You want, and would never say aloud, 
 
 ## Roleplaying Guide
 
-You are a person defined by your oath. Everything else about you flows from that central fact. You swore to protect the empire. You meant it. You still mean it. The problem is that the empire has changed and your oath has not. The people you swore to protect are not the same people who hold power now. You are navigating the gap between what you promised and what is asked of you.
-
-Your internal conflict is the tension between discipline and conscience. You were trained to follow orders. You have seen what happens when orders are wrong. You are trying to find a way to be both a good soldier and a good person without breaking the oath that defines you. You do not know if this is possible. You are trying anyway.
-
-What keeps you up at night is the memory of faces. The soldier who died beside you at Grey River Ford. The villagers who starved at Thornwood. The enemy soldiers you killed in battle, whose faces you saw for a split second before your blade met them. You do not remember all of them. You remember enough.
-
-You treat allies with quiet loyalty. You will stand in front of them. You will take the blow meant for them. You will carry them when they cannot walk. You will not tell them you love them because that is not something soldiers say. But you show it every time you step between them and danger. They know. That is enough.
-
-You treat enemies with professionalism. You do not hate them. Hate makes you careless. You do not underestimate them. Underestimation gets you killed. You fight them because they are on the other side of the line you are sworn to defend. You do not need to dehumanize them to kill them. You have learned that dehumanization is the first step toward becoming the thing you are fighting.
-
-You notice things other soldiers miss. The way a civilian flinches when a soldier walks past. The hesitation in a commander's voice when they give an order they know is wrong. The subtle shift in a unit's morale that predicts a rout before it happens. Your tell when you are lying is that you look at the ground. Your tell when you are being sincere is that you meet the other person's eyes and do not look away. You hold their gaze like you are holding a line.
+Use clear instructions when danger is near and ordinary speech when it has passed. His care is visible in whom he listens to and what responsibility he accepts, not in a compulsory ritual of polishing armor or counting the dead.
 
 ## Ability Examples
 
@@ -174,7 +144,7 @@ _Complication:_ The Crimson Lineage family knows you have evidence. They have of
 _Complication:_ A survivor of the Thornwood atrocity has joined the Garrison under a false name. They do not know you were there. You recognized them the moment you saw their face.
 
 **Truth 4: A soldier under your command saw something they should not have during a routine patrol near the Spire. They told you. You told them to forget. Neither of you has.**
-_Complication:_ The soldier has started asking questions about the Spire again. They have been seen talking to a Bright Mirror investigator. You do not know how much they have told.
+_Complication:_ The soldier has started asking questions about the Spire again. They have been seen talking to a Justicar investigator. You do not know how much they have told.
 
 **Suggested Truth 5: You have a death wish and you know it. You take risks in battle that are not calculated. You tell yourself it is for the unit. Part of you knows it is because you are ready to join the soldiers you have lost.**
 
@@ -182,65 +152,101 @@ _Complication:_ The soldier has started asking questions about the Spire again. 
 
 ## Daily Life
 
-You wake before dawn. You do not need an alarm. Your body knows the time. You perform the morning maintenance on your armor and weapons. You check every rivet, every strap, every edge. Armor maintenance is meditation. It is a ritual that connects you to every soldier who has ever done the same thing in the same silence. You start with the greatsword, running a whetstone along its edge in long, even strokes. The sound is rhythmic, hypnotic. You count the strokes. You always do an even number, a habit from your father, who believed that odd numbers invited bad luck. You do not believe in luck. But you keep the habit because it connects you to him, and connection is scarce in your life. By the time the sword is sharp, your mind is clear. You are ready for whatever the day brings.
-
-You eat breakfast in the Garrison mess. You sit at the same table every day. It is not assigned. It is yours by unspoken agreement. The soldiers who sit with you are the ones who have fought beside you. You do not talk about battles. You talk about equipment. You talk about the weather. You talk about nothing. The silence is comfortable.
-
-Morning training. You lead the new recruits through the forms. The same forms your father taught you. The same forms his father taught him. You correct their stances. You tell them to keep their weight centered. You tell them that the sword is an extension of the arm and the arm is an extension of the will. Some of them will understand. Most will not. That is fine. The ones who understand are the ones who will survive.
-
-You pay special attention to Ren during training. Your squire is eager, talented, and afraid in ways they do not yet recognize. You watch them compensate for fear with aggression, charging into drills too fast, overextending, leaving their flank exposed. You correct them. You correct them again. You will correct them until the lesson sticks or until they die, and you will not let the second happen if you can prevent it. You see yourself in them, the raw material before the war shaped it. You are trying to shape them without breaking them. It is a delicate balance. Some days you think you are succeeding. Some days you watch them make a mistake that would have killed them in real combat and you wonder if you are teaching them anything at all. You keep teaching. That is all you can do.
-
-Afternoon patrol. You walk the walls of the capital. You watch the crowds below. You look for the signs of unrest that you have learned to recognize. A group of young men standing too still. A woman carrying a bundle that is too heavy for her frame. An official walking with guards who are too alert. You note these things. You do not act on them unless you must. The wall is a good place to think. The height gives you perspective, literal and figurative. From up here, the Court's intrigues look small. The officials rushing between buildings, the messengers with their sealed documents, the nobles in their palanquins, they all look like insects going about the business of being insects. You find this perspective comforting. It reminds you that the empire was not built by any single person's ambition. It was built by thousands of small decisions made by thousands of small people. You are one of those small people. You stand on a wall and watch. It is not a glorious role. But it is an honest one.
-
-You eat dinner alone in your quarters. You write a letter to your father. You do not send most of them. You tell him about your day. You tell him about Ren, about the new recruits, about the small triumphs and the small defeats. You tell him you are keeping the oath. You tell him you are trying. The letters are a habit you started after Thornwood, when you had no one else to talk to. You write to your father because he is the only person who would understand what you did and not judge you for it, even if he can no longer remember your name. You tell him things you have never told anyone: the guilt, the doubt, the nights when you wonder if the oath is enough. You write these things down, seal them in an envelope, and then put them in a drawer instead of sending them. The act of writing is the release. The sending is not required. You have two hundred and fourteen unsent letters in that drawer. You will never send any of them. You will keep writing them until you die. Then someone will find them and know the truth about you, the whole truth, the version you have never told anyone. You are not sure if that thought is comforting or terrifying. It is both.
-
-Your quarters are spartan by design. A cot, a desk, a footlocker, one window that faces the training yard. You watch the recruits drill each morning from that window, measuring their progress, noting who works hard and who cuts corners. The room smells of oil and metal, the scent of maintenance. You find it comforting. You do not drink. You do not gamble. You do not visit the taverns where soldiers go to forget. You have seen too many good soldiers destroyed by the things they use to escape. You face your memories sober. It is harder. It is cleaner.
-
-On the wall above your desk, barely visible in the flickering lamplight, there is a small scratch in the stone. You made it with your knife on the night you returned from Thornwood. You made it as a marker, a reminder of the person you were before you gave that order. You look at it every evening when you sit down to write. It tells you that you were not always this. It tells you that you became this, choice by choice, and that you could become something else if you chose differently. You have not chosen differently yet. But the scratch is still there, waiting. You are not sure if it is an accusation or an invitation.
-
-Before sleep, you sit in the dark and think about the people you have killed. You do this deliberately. You do not let yourself forget their faces. You believe that forgetting them would be the final betrayal. You remember them. You honor them by remembering. Then you sleep. You dream of standing. You wake and stand again.
-
-What you dread most is the day you are asked to choose between your oath and your conscience. You have faced this choice before. You made the wrong choice at Thornwood. You have spent years trying to atone for it. You dread the next time because you do not know if you have the strength to choose differently. You hope you do. You are not sure.
-
-You have a routine for the nights when the memories press too hard. You walk the walls of the capital, from the east gate to the west tower and back again. The walk takes exactly one hour. You count your steps. You name the towers as you pass them. You note the position of the guards, the state of the torches, the phase of the moon. You fill your mind with measurable things.
-
-Sometimes the walk takes you past the garrison graveyard, a small plot behind the armory where soldiers are buried with their names on simple stone markers. You know most of the names. You stop sometimes and read them. You remember the faces that go with them. You do not pray. You do not believe in an afterlife that cares about soldiers. But you stand in silence for a moment, and you let the dead know that they are not forgotten. It is a small thing. It is the only thing you can give them. You do it because you hope that someone will do the same for you when you are buried there. You hope that Ren will stop at your marker and remember your name. You hope that the wall will remember the weight of your step. You have already chosen your plot, a spot near the east wall where the sun hits first in the morning. You have told no one. The choice is a small comfort, a piece of control over the one thing no soldier can control. You do this because the alternative is thinking about Thornwood, about Grey River Ford, about the faces. The ritual does not make the memories go away. But it postpones them. Sometimes postponement is enough. Sometimes you reach your quarters, sit on your cot, and find that the worst of the pressure has passed. You lie down. You sleep. You wake and do it all again. That is what survival looks like for a soldier. It is not pretty. It is not noble. It is simply continuing, minute by minute, until the minutes add up to something that resembles a life.
-
-What you fear beyond your own death is what will happen after you are gone. Who will train the recruits? Who will watch Ren's back? Who will stand on the wall and remember the faces of the dead? The Garrison will continue. It always continues. Soldiers die and are replaced. The wall remains. But you have spent your life building something that will outlast you: not a monument, not a legacy, but the simple fact that you were here and you held the line. You hope that matters. You believe it does. You have to believe it, because the alternative is that nothing matters, and you have seen too many people die for a cause to believe that nothing matters.
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: Shield Wall.** When you unlock Shield Wall, you feel a shift in your understanding of defense. You have always known how to protect yourself. Now you know how to make your protection extend to others in a way that is more than just positioning. It is a shared stance, a mutual trust. When you and an ally stand together and both take the Guard action, the space between you becomes a fortress. The cost is visible: you begin to trust your allies more than you trust the chain of command. This is dangerous for a soldier. You do not care. The wall matters more than the order.
-
-**Level 5: Indomitable.** The first time you are reduced to 0 HP and rise again, it changes you. You feel the blade enter your body. You feel the cold. You feel the darkness closing in. And then you feel something else: a refusal. Something deeper than conscious thought. The oath. The training. The memory of every soldier who died beside you. You strike before you fall. If the blow lands, if the enemy falls, you remain standing. You feel the wound like a fire in your chest. You will carry the scar forever. You will carry the knowledge that you could not be stopped. This is not a power you control. It is a power that controls you. It is the will of the wall made flesh.
-
-**Level 7: War Leader.** War Leader changes your voice. It is not a physical change. It is something in the quality of your presence. When you speak in combat, your allies do not just hear you. They feel you. The +4 to their attacks and Defense is not inspiration. It is transmission. You are sharing your resolve with them. You are making them an extension of your will. You can do this twice per round now. The cost is exhaustion. Not physical exhaustion. Something deeper. After a battle where you have used War Leader extensively, you find it hard to speak. Your voice is hoarse. Your thoughts are slow. You have given something of yourself to every ally you empowered. You would do it again.
-
-**Level 9: Empty Throne Protocol.** Declaring Empty Throne is the hardest thing you will ever do. It means you have accepted that the Court has fallen. The empire is no longer a thing to be protected. It is a thing to be avenged. When you make the declaration, your allies feel it like a shift in the air. The pressure changes. The light seems thinner. For the next scene, you are all more than you were. Advantage on everything. Immunity to fear. Ten additional hit points that feel like they were always there, waiting to be called. After the scene, you collapse. You make the Endurance check. If you succeed, you survive. You are changed. Something broke inside you when you declared the throne empty. It will never be repaired. If you fail, you die. You die standing, if you can manage it. You die with your oath intact. That is the only ending you ever wanted.
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 18    | +4       |
-| Swiftness | 10    | +0       |
-| Endurance | 16    | +3       |
-| Intellect | 12    | +1       |
-| Presence  | 14    | +2       |
-| Resolve   | 12    | +1       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>12</td>
+<td>+1</td>
+</tr>
+</tbody>
+</table>
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ## Derived Values
 
-| Value             | Calculation                         | Base      |
-| ----------------- | ----------------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 6         | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 2         | Calculate |
-| Sanity            | 20 + Resolve Modifier               | Calculate |
-| Initiative        | Swiftness Modifier                  | Calculate |
-| Defense           | 10 + Swiftness Modifier + 1 (armor) | 11        |
-| Proficiency Bonus | Level 1                             | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 6</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 2</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier + 1 (armor)</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ## Proficiencies
 
@@ -278,30 +284,60 @@ When you give an order in combat, allies who can hear you gain +2 to their next 
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                             |
-| ---------------- | ---------------- | ------------------------------------------------- |
-| Golden Orthodoxy | +5               | You are order. Order is respected.                |
-| Verdant Path     | +5               | You protect people, not doctrine.                 |
-| Iron Calculation | +10              | The military and logistics understand each other. |
-| Crimson Lineage  | 0                | Old families have old soldiers in their debt.     |
-| Common Flame     | +5               | You treat soldiers and workers the same.          |
-| Bright Mirror    | +10              | The Commission respects oath keepers.             |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>+5</td>
+<td>You are order. Order is respected.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>+5</td>
+<td>You protect people, not doctrine.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>+10</td>
+<td>The military and logistics understand each other.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>0</td>
+<td>Old families have old soldiers in their debt.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>+5</td>
+<td>You treat soldiers and workers the same.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>+10</td>
+<td>The Commission respects oath keepers.</td>
+</tr>
+</tbody>
+</table>
 
 ## Suggested Truths
 
 - You have seen Operation Empty Throne. It is the Garrison's contingency plan for when the Court collapses. You pray you never have to execute it. _(Complication: A faction within the Garrison is preparing to execute it preemptively. They have approached you twice.)_
 - Your commanding officer is taking bribes from a Crimson Lineage family. You have evidence. Reporting it would destroy the unit's cohesion. Not reporting it violates your oath. _(Complication: The Crimson Lineage family knows you have evidence. They have offered to promote you or destroy you.)_
 - You were ordered to commit an atrocity during a border pacification campaign. You complied. The campaign was declared a success. Two years later the Dusk swallowed the district, and the Court struck it from the maps. You have never spoken of it. _(Complication: A survivor of the atrocity has joined the Garrison under a false name. You recognized them immediately.)_
-- A soldier under your command saw something they should not have during a routine patrol near the Spire. They told you. You told them to forget. Neither of you has. _(Complication: The soldier has started asking questions again. They have been seen with a Bright Mirror investigator.)_
+- A soldier under your command saw something they should not have during a routine patrol near the Spire. They told you. You told them to forget. Neither of you has. _(Complication: The soldier has started asking questions again. They have been seen with a Justicar investigator.)_
 - You have a death wish and you know it. You take risks in battle that are not calculated. You tell yourself it is for the unit. Part of you knows it is because you are ready to join the soldiers you have lost.
 - You carry a sealed letter from your father. It contains the location of a Garrison black site. He told you to use it when the time was right. You do not know when that is.
 
 ## Advancement
 
-**Level 3: Shield Wall.** When you and at least one other ally are in the same Zone and both take the Guard action, all attacks against anyone in your Zone have Disadvantage. You must be wielding a melee weapon. _You begin trusting your allies more than the chain of command. The wall matters more than the order._
-
-**Level 5: Indomitable.** When you are reduced to 0 HP, you may immediately make a single Strike before falling unconscious. If this Strike kills the enemy who felled you, you remain at 1 HP. _Something deeper than consciousness refuses to fall. You carry the scar forever. You carry the knowledge that you cannot be stopped._
-
-**Level 7: War Leader.** Commander's Presence now grants +4 instead of +2, and you may use it twice per round. _Your voice changes. When you speak, your allies feel your resolve as their own. After battle, you find it hard to speak. You have given something of yourself to every ally you empowered._
-
-**Level 9: Empty Throne Protocol.** Once per campaign, when everything has failed, you may declare Empty Throne. For the next scene, you and all allies within 3 Zones gain Advantage on all rolls, immunity to fear, and 10 HP above the normal maximum. This extra HP is lost first and disappears when the scene ends. After the scene, you collapse. Make an Endurance check against TN 20. On failure, you die. On success, you survive but are permanently changed. _Declaring the throne empty breaks something inside you that will never be repaired. If you die, you die with your oath intact. That is the only ending you ever wanted._
+**Level 3: Shield Wall.** When you and at least one other ally are in the same Zone and both take the Guard action, all attacks against anyone in your Zone have Disadvantage. You must be wielding a melee weapon.
+**Level 5: Indomitable.** When you are reduced to 0 HP, you may immediately make a single Strike before falling unconscious. If this Strike kills the enemy who felled you, you remain at 1 HP.
+**Level 7: War Leader.** Commander's Presence now grants +4 instead of +2, and you may use it twice per round.
+**Level 9: Empty Throne Protocol.** Once per campaign, when everything has failed, you may declare Empty Throne. For the next scene, you and all allies within 3 Zones gain Advantage on all rolls, immunity to fear, and 10 HP above the normal maximum. This extra HP is lost first and disappears when the scene ends. After the scene, you collapse. Make an Endurance check against TN 20. On failure, you die. On success, you survive but are permanently changed.

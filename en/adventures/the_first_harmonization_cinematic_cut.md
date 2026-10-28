@@ -4,6 +4,10 @@
 
 # The First Harmonization
 
+**Linked campaign placement.** The warning arrives on Hinge Gate 21. The Audit is seven days later, on Hinge Threshold 3. The Hall address is on Hinge Gate 22, the day after the warning and six days before the Audit. It is an optional lead. Use [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) to carry the party's existing contacts and records into the relief case. The two starter versions are alternatives covering the same seven fictional days.
+
+**Player characters.** Office scenes assume access through an agreed job or contact, not that every career is a copyist. Archetype spotlights are suggestions for trained abilities; they do not assign the named figure's memories, emotions, beliefs, or office. Offer essential clues through more than one source. A failed roll changes cost or exposure rather than deciding whether the campaign can continue.
+
 ## A Playable Tragedy in Seven Bells
 
 > _For one Host and three to six players._
@@ -12,9 +16,19 @@
 >
 > _Every answer saves something. Every answer abandons something else._
 
+## Place in the Continuing Chronicle
+
+This is the first Audit within the shared world, presented at a different level of detail from its companion version. Choose one presentation, or use the opening arc in the Host's Codex; do not run all three as consecutive adventures.
+
+Chen's reserve entries, the people who certify them, and the party's accepted testimony carry into the relief allocation. The stolen Qi did not originate the Dusk, but its absence affects what can be assigned to transport, relays, and stabilization. The same allocation then reaches the Temple's account and the terms of the Seventh Niche.
+
+After the Audit, preserve the original copies, the witness's situation, and the commitments made by Wei, Zhang, Meng, and any patron the party approached. Reuse one of those people when the relief order is questioned. An earlier success remains effective; a later chapter does not replace it with a new starting state.
+
+The Emperor, the founding wound, competing Schools, and erased communities remain the larger context. Follow them through a current person or promise, not an unrelated mandatory mission.
+
 ## The Story Promise
 
-Seven days before a Harmonization Audit, a group of newly appointed officials receives a warning that should not exist.
+Seven days before a Harmonization Audit, a party working in the Outer Court receives a warning that should not exist.
 
 Before nightfall, three factions ask them to perform three apparently separate acts.
 
@@ -72,9 +86,9 @@ It turns testimony into records.
 
 It turns records into reality.
 
-At the beginning, the characters still believe that records describe the world.
+The first tasks appear limited: sign a document, escort a person, retrieve a page.
 
-By the end, they must decide whether records create the world, and whether survival requires them to become authors of another person's erasure.
+The investigation reveals how those tasks determine who can claim protection and who can be erased. Whether the record also changes reality remains a question the party can pursue.
 
 ## The Three Stories Moving Together
 
@@ -92,7 +106,7 @@ Tao Chen possesses evidence that connects Golden Orthodoxy embezzlement, Crimson
 
 ### The Personal Story
 
-The characters believe they are minor officials who can remain neutral.
+Each character has a reason to accept, refuse, or question the work. Ask the player what that reason is.
 
 Every decision they make writes a sentence in another person's fate.
 
@@ -200,7 +214,7 @@ Fear is accurate information arriving inside a body that has nowhere safe to put
 
 Begin every player at Ritual Harmony 50 unless character creation establishes another value.
 
-Begin every player at Low Risk, then apply protection or hostility from Faction Standing as defined in the Host's Codex.
+Determine starting Risk from the Ritual Harmony and protection table in the Host's Codex. At Ritual Harmony 50, Strong Protection gives Low Risk, Moderate Protection gives Moderate Risk, No Protection gives High Risk, and Enemies gives Critical Risk. Apply the table once; do not also add a penalty for the same Faction Standing.
 
 Track Risk openly enough that players know why it changes.
 
@@ -216,7 +230,7 @@ The following events usually increase Risk by one level.
 
 3. Possession of an incriminating original document.
 
-4. Hostile Faction Standing with an active faction.
+4. A hostile faction takes a newly evidenced action not already reflected in the baseline.
 
 5. An unexplained disturbance during curfew.
 
@@ -224,11 +238,11 @@ The following events usually reduce Risk by one level.
 
 1. Credible testimony supported by evidence.
 
-2. A patron spending political capital.
+2. A patron takes a distinct action beyond baseline protection.
 
 3. Ten Celestial Favor spent through an appropriate contact.
 
-4. Protective Faction Standing invoked at real cost.
+4. A distinct protective intervention not already counted in the baseline or another adjustment.
 
 5. Evidence that redirects the investigation toward a more powerful target.
 
@@ -2088,7 +2102,7 @@ It should feel like a desperate rupture, not a routine battle.
 
 The gate contains four Garrison soldiers.
 
-Each has Combat 10, Defense 10, Resilience 6, and 3 Wounds.
+Each has HP 10, Defense 12, attack +4, and a short blade or spear dealing 1d6 plus 1 damage.
 
 They carry spears that deal 1d6 plus 1 damage.
 
@@ -2804,7 +2818,7 @@ Use this encounter if the wall ward activated, if the characters were openly fol
 
 There are three hired blades.
 
-Each has Combat 10, Defense 10, Resilience 6, and 3 Wounds.
+Each has HP 10, Defense 12, attack +4, and a short blade or spear dealing 1d6 plus 1 damage.
 
 Their short blades deal 1d6 plus 1 damage.
 
@@ -4248,7 +4262,7 @@ If Lin was also captured, the note arrives in another hand with one line crossed
 >
 > _He reached the eastern road._
 >
-> _Tao sent word to a Bright Mirror contact, but no documents._
+> _Tao sent word to a Justicar contact, but no documents._
 >
 > _What happens to the evidence is still your choice._
 >
@@ -4674,17 +4688,9 @@ The attackers depend on the enemy.
 
 Two Dusk Hounds force the door.
 
-They were once human.
+They are Dusk Touched creatures. Their earlier lives and the means used to control them require investigation.
 
-Refined Qi and Dusk corruption remade them.
-
-Each has Combat 12, Defense 8, Resilience 8, and 4 Wounds.
-
-Their claws deal 1d8 damage.
-
-Their howl requires Resolve, target 12.
-
-Failure costs one action.
+Each uses the Dusk Hound entry: HP 18, Defense 13, attack +4, bite 1d8 plus 2 or claw 1d6 plus 2. Its howl requires Resolve TN 14 or the target loses its next Movement.
 
 They pursue the character who led the reserve investigation.
 
@@ -4694,7 +4700,7 @@ When killed, they collapse into black smoke and leave collars marked with the Fe
 
 Two assassins disguised as Commission messengers enter in stolen or forged uniforms.
 
-Each has Combat 14, Defense 12, Resilience 6, and 2 Wounds.
+Each has HP 10, Defense 12, and attack +4.
 
 Their poisoned blades deal 1d6 plus 2 damage.
 
@@ -6138,7 +6144,7 @@ The Shadow's pendant creates one hesitation.
 
 Two enforcers attempt capture.
 
-Each has Combat 14, Defense 12, Resilience 8, and 3 Wounds.
+Each has HP 12, Defense 13, and attack +4.
 
 Their batons deal 1d6 nonlethal damage.
 
@@ -6146,7 +6152,7 @@ One carries narrative erasure cuffs.
 
 The cuffs suppress Qi and impose a penalty of 2 on all actions.
 
-Meng has Combat 10 and does not enter the fight unless cornered.
+Meng has HP 10, Defense 12, and attack +2; she does not enter the fight unless cornered.
 
 At the end of round two, she can pull the alarm.
 

@@ -1,26 +1,30 @@
 # Bone Script
 
-## Archetype Dossier
+## Career Kit and Named Figure Portrait
+
+**For players.** Use Chapter Three of the Core Rulebook to build your own character. In Modular Careers, this dossier supplies primary abilities, derived bonuses, practical equipment, two of its three starting Skills, and one advancement tree. The printed Facet array, money, and Faction Standing belong to the optional Portrait Build.
+
+**For the Host.** The description, backstory, relationships, dialogue, daily life, and emotional passages portray the named figure in the title. Their second person voice is a portrait, not a requirement for a player character. Offer only material a player chooses to adopt, and keep unrevealed world secrets on the Host's side of the table. No mannerism, trauma, belief, gender, or destiny is required by this career.
+
+**At the table.** Dialogue is a voice reference, not a repeated catchphrase. Let the person respond to what was actually said. Expanded Advancement offers possible scenes; only explicit numerical rules, costs, and limits are binding. See [Campaign Continuity](../CAMPAIGN_CONTINUITY.md) for the shared chronology and limits on what these figures know.
 
 ### Path: Hedgewarden
 
-### School: Verdant Path (heretical wing, unregistered)
+### Named figure's affiliation: Verdant Path (heretical wing, unregistered)
 
 ### Court Role: None. You do not appear in the personnel registry of any Bureau.
 
-### Default Gender: Male
+### Named figure's gender: Male
 
 ---
 
 ## Description
 
-You are the last literate speaker of a language the empire does not admit exists, from a prefecture that was struck from the maps when you were fourteen. You carry part of your archive on your body: forty one bone tokens threaded onto your belt and harness, each carved with a name in a script the Court cannot read and has never bothered to learn. The remaining three thousand nine hundred and sixty are hidden elsewhere.
+Bone Script comes from Nine Willow Bend, a place removed from the gazetteer. He carries an archive of four thousand and one names because the people behind them cannot make a claim through a residence code that no longer exists. Restoring an entry might bring relief. It might also bring the officials from whom survivors have learned to hide. He cannot decide that trade on their behalf.
 
-You are perhaps twenty five. You look older in the eyes and younger everywhere else. Your cloak is lined with living moss that you feed and that feeds you, and the hem is ragged because you have walked eleven hundred li in it. Your staff is a length of ash felled by a storm, and where the branches fork there are raw Qi crystals that you did not cut, set, or polish. They grew there. You do not entirely understand why, and you have stopped asking.
+## Connection to the Shared World
 
-You have no rank. You have no seal. You have no file. Every other person at this table exists inside the machine, arguing about how it should run. You are the only one who has seen what it looks like from underneath, after it has finished.
-
----
+A received claim can help an erased household while exposing its location. Bone Script's petition therefore meets Incense Crown's sanctuary and Stray Stroke's knowledge of overlapping identities. Keep the survivors' consent central and do not disclose his private knowledge of Nine Willow Bend without a reason.
 
 ## Expanded Backstory
 
@@ -88,43 +92,11 @@ You have begun, without deciding to, to notice things. Which clerk is in debt. W
 
 ## Sample Dialogue
 
-1. When asked where you are from:
-   "A valley east of the Weeping range. You will not know it. The name would not mean anything to you, and if I said it aloud in this building someone would write it down, and I have not decided yet whether I want it written down by them."
+1. At a registry: “The place is missing from your book. It is not missing from the road.”
 
-2. When someone from the Court calls your practice heterodox:
-   "Your grandmother's grandmother practiced the way I practice. Then a bureau issued licenses, and everyone who could afford a license became orthodox, and everyone who could not became a criminal. Nothing about the Qi changed. Only the paperwork."
+2. Asked to publish the names: “Some are still there. I need their leave.”
 
-3. When an official offers to help you in exchange for a favor:
-   "I have forty one names on my belt and three thousand nine hundred and sixty more in a box I do not carry with me. If I trade one of them for your help, I have not saved anyone. I have just started a market."
-
-4. When a player asks what the bones are:
-   "People. That is not a metaphor and I am not being poetic with you. Each one is a person who was alive and is now not in any record of having been alive. This is my mother. This is a boy named Ten Cup who taught me to fish. This is a woman whose name I could not confirm, so it is carved with the place she was found."
-
-5. To someone who says the past cannot be changed:
-   "I do not want to change it. I want it entered. Those are completely different requests and the Court keeps pretending they are the same one, because the first is impossible and the second is merely inconvenient."
-
-6. When the Dusk is mentioned:
-   "You call it a corruption. In my valley the old people called it the ledger closing. They said the land had been asked to give more than it recorded, for a long time, and eventually the difference has to come from somewhere. I do not know if that is true. I know they said it forty years before your Bureau noticed anything."
-
-7. When threatened with arrest:
-   "You would have to charge me. To charge me you would have to establish my identity. To establish my identity you would have to enter my prefecture into the record. I have been trying to make someone do that for seven months. Please. Arrest me."
-
-8. When someone shows you kindness:
-   "Thank you. I am going to remember this precisely, because I remember everything precisely, and I have very little to put in the good column. You have just been added to a very short list."
-
-9. To a Verdant Path official who claims kinship with him:
-   "Your school stopped being my school when it accepted a seat. You sit in the Council chamber and argue for the forests and you are sincere and I believe you and you have never once slept in one. The people you call your heretical wing are my teachers. They are still up there. Have you been?"
-
-10. When asked why he does not simply forge the document:
-    "Because a forged restoration is a restoration that can be discovered and reversed, and then the valley is not only struck but proven fraudulent, and every one of those four thousand and one people becomes a lie somebody told. It has to be real. That is the whole difficulty. It has to be real."
-
-11. Standing in the Imperial Archives for the first time:
-    "There are more shelves in this room than there were people in my prefecture. All of this is kept. All of this is dusted. There is a man whose entire employment is the humidity. And there was no space anywhere in it for four thousand and one names."
-
-12. Alone, to the bones, at night:
-    "I know. I know. I am working. I have found a clerk who will look at a properly formatted petition and I am learning the format. It is nine pages. I have written it eleven times. I will write it again."
-
----
+3. Comforting a petitioner: “Tell me what you know. We can mark the rest as uncertain.”
 
 ## Personal Connections
 
@@ -144,19 +116,7 @@ You have begun, without deciding to, to notice things. Which clerk is in debt. W
 
 ## Roleplaying Guide
 
-You are the only person at this table who does not want a career. Everyone else is negotiating a position inside the machine. You are trying to make the machine perform one specific function, once, correctly, and then you intend to leave. This makes you incomprehensible to officials and unusually trustworthy to players.
-
-You speak plainly and a little slowly, because the capital dialect is your third language and you translate before you talk. You do not use honorifics correctly and you have stopped trying. You never raise your voice. When you are angry you become more precise rather than louder, which people from the Court find far more disturbing.
-
-You notice living things first. Walking into any room, you will register the plants before the people: whether they are watered, whether they are native, whether they are healthy, whether anyone has touched them in a month. The Court's obsession with dead materials, with paper and jade and stone, strikes you as a symptom that no one else has diagnosed. A civilization that keeps no living thing in its offices has made a decision about itself.
-
-Your tell when you are lying is that you touch the tokens on your belt. Your tell when you are frightened is that you go completely still, the way prey does. Your tell when you have decided to trust someone is that you tell them a place name.
-
-Play the tension between the errand and the education. You came to file a document. Seven months in the capital have taught you that the document is not blocked by malice or by any individual, but by a structure, and that the structure will not be moved by a correctly formatted petition. You are being slowly converted from a petitioner into something else. Let the table watch that happen. Do not rush it.
-
-You are not naive. Do not let anyone play you as the innocent rustic who is shocked by politics. You have seen a province die of paperwork. You understand power better than the officials do, because you have only ever experienced its output.
-
----
+His care shows in accuracy and consent. Let him discuss a route, share a meal, or disagree about a practical choice without turning every exchange into a lesson about names.
 
 ## Ability Examples
 
@@ -210,57 +170,103 @@ _Complication:_ A script with no official standing, spreading among an unregiste
 
 ## Daily Life
 
-You wake before dawn out of habit, in a rented corner of a storeroom in the outer market district that costs you four copper a week and comes with a landlord who does not ask for a residence token. The first thing you do is check the moss on your cloak: mist it from the bowl, turn it toward the window, pick out anything dead. It is a living thing in your care and there are not many left.
-
-You eat what you gathered or what you were given. You do not buy food if you can avoid it. A decade of walking has left you able to identify eleven edible plants growing in the cracks of the capital's own streets, which is a skill that appalls the people who watch you do it.
-
-Mornings are the petitions hall. You queue. The queue is the great fact of your life in this city. You have spent, by your own count, more than four hundred hours in it. You know the regulars: the woman contesting a land seizure from Year 419, the brothers with the inheritance dispute, the old soldier whose pension was calculated under a schedule that was superseded. You have become, without intending it, the person they ask about forms. You are good at it now. You know the procedure better than some of the clerks.
-
-Afternoons you work. You do unlicensed things for unregistered people: you find water, you settle a foundation, you tell a family which of their two rice plots is dying and why, you sit with someone whose child is sick because you cannot cure the child but you can sit. They pay you in food and shelter and information. You have never set a price. The camps outside the walls are your practice and your congregation and you would not use either word aloud.
-
-Evenings you carve. Not new names, not often; the box holding the rest is in a place you do not visit lightly. You maintain what you carry: recut a worn stroke, replace a cracked thread, oil the bone. It takes an hour. It is the only hour of your day that is not instrumental, and you have noticed that on the days you skip it you are worse company.
-
-You sleep badly. The city has no dark and no quiet, and after more than ten years in high forest your body still refuses to accept that a place this loud is safe. When you cannot sleep you go up to the storeroom roof and look east, which is a direction, not a plan.
-
----
+Between appearances, give this figure work and relationships beyond the party. Choose a current responsibility, a person waiting on an answer, and something that can be put off only briefly. Let a visit interrupt that life. Details such as food, clothes, or a pastime should arise from the scene; they are not recurring performance cues.
 
 ## Expanded Advancement
 
-**Level 3: The Carried Weight.** The first time you invoke a name under real pressure, something changes in how you understand what you are carrying. You had thought of the bones as a duty. You discover, in that moment, that they are a source. Nothing supernatural passes from the bone to your hand. What passes is the plain fact of another person's persistence, and it turns out that the plain fact is enough. You begin to be able to do this deliberately. You also begin to worry about what it means that you are using them. You did not ask their permission. You cannot. That night, you carve token number forty two with no name on it, for yourself, and you do not examine why.
-
-**Level 5: Unmeasured.** Your practice has drifted so far from the licensed forms that Commission instruments no longer register you as a practitioner at all. This is a considerable tactical advantage and a quiet personal catastrophe. You have become, in the empire's own terms, not a criminal but an absence. You can walk through wards. You can also no longer be certified, employed, taxed, protected, or acknowledged, and you notice that you have arrived at exactly the condition of the four thousand and one names in your keeping. You are not sure whether this is solidarity or defeat.
-
-**Level 7: The Valley Answers.** Something reaches you from the east. Not a message and not a vision: a direction, felt the way migrating birds are said to feel it, always present, slightly warm, impossible to ignore once noticed. You can find Nine Willow Bend from anywhere in the Nine Domains now, without a map, through fog, in the dark. You have also begun to dream in the old script, sentences you did not write, in a hand that is not your mother's and not yours.
-
-**Level 9: The Restoration.** You will hold in your hand a stamped document restoring a prefecture to the registry, and you will have obtained it by a method you would not have accepted seven months after arriving in this city. The valley will exist again. Four thousand and one people will be enterable, buriable, marriageable, real. And you will look at the stamp and understand exactly what it cost and who paid and what you have become, and you will have to decide, in that moment, whether the person who walked down out of the mountains would recognize you, and whether it matters if he would not.
-
----
+Use the purchased abilities in the mechanical Advancement section below. At Levels 3, 5, 7, and 9, ask what new use the character wants to make of their training, who can help, and who may be affected. Offer a scene if useful. No level dictates an emotion, a revelation, a physical symptom, or a fatal ending.
 
 ## Facet Baseline
 
-| Facet     | Score | Modifier |
-| --------- | ----- | -------- |
-| Might     | 10    | +0       |
-| Swiftness | 14    | +2       |
-| Endurance | 16    | +3       |
-| Intellect | 14    | +2       |
-| Presence  | 10    | +0       |
-| Resolve   | 18    | +4       |
+<table>
+<thead>
+<tr>
+<th>Facet</th>
+<th>Score</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Might</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Swiftness</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Endurance</td>
+<td>16</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Intellect</td>
+<td>14</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td>10</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>Resolve</td>
+<td>18</td>
+<td>+4</td>
+</tr>
+</tbody>
+</table>
 
-**Distribute 6 additional points among your Facets. You may not raise a Facet above 18 with these points. A signature Facet printed at 20 is the Archetype's gift and cannot be raised further.**
+**Portrait Build only:** add six points to this array, to a maximum of 18; a printed 20 remains fixed. **Modular Careers:** replace this array with the common array in Core Rulebook Chapter Three, then add six points. Recalculate derived values and armor effects.
 
 ---
 
 ## Derived Values
 
-| Value             | Calculation                 | Base      |
-| ----------------- | --------------------------- | --------- |
-| Hit Points        | 10 + Endurance Modifier + 4 | Calculate |
-| Qi Pool           | 10 + Intellect Modifier + 6 | Calculate |
-| Sanity            | 20 + Resolve Modifier       | Calculate |
-| Initiative        | Swiftness Modifier          | Calculate |
-| Defense           | 10 + Swiftness Modifier     | 12        |
-| Proficiency Bonus | Level 1                     | +2        |
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Calculation</th>
+<th>Base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Points</td>
+<td>10 + Endurance Modifier + 4</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Qi Pool</td>
+<td>10 + Intellect Modifier + 6</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Sanity</td>
+<td>20 + Resolve Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Initiative</td>
+<td>Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Defense</td>
+<td>10 + Swiftness Modifier</td>
+<td>Calculate</td>
+</tr>
+<tr>
+<td>Proficiency Bonus</td>
+<td>Level 1</td>
+<td>+2</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -282,7 +288,7 @@ From the full skill list in the Core Rulebook (Chapter Three).
 
 ### The Names in the Bone
 
-_You are carrying four thousand and one people. Some days they carry you._
+_You carry the names you have chosen to remember. Some days they carry you._
 
 Once per session, when you would fail a Resolve check or a check made under interrogation, coercion, or fear, you may touch a token and reroll, taking the second result. Describe whose name you touched and one true thing about them. You may not use the same name twice in a session. This costs no Qi. It costs something else, and the Host may ask you what.
 
@@ -290,7 +296,7 @@ Once per session, when you would fail a Resolve check or a check made under inte
 
 _Your practice is not in any registry. The instruments were built to catch something else._
 
-Wards, seals, and detection rituals keyed to registered practitioners do not detect you. You automatically pass any check to avoid detection through Qi by Commission or Bureau apparatus. The reverse is also true and is not optional: you cannot use any Court Qi infrastructure, including transit conduits, licensed foci, official healing halls, or the capital's Qi lighting grid, and any attempt to do so fails and draws attention.
+Wards, seals, and detection rituals keyed to registered practitioners do not detect you. You automatically pass checks to avoid Qi detection by Commission or Bureau apparatus using that registration. Other methods can still observe you or detect your Qi. You cannot personally attune to infrastructure that requires a registered practitioner, such as a licensed focus or controlled transit conduit; an attempt fails and draws attention. Ordinary lamps, travel as a passenger, and medical care that requires no personal attunement remain available.
 
 ### Root Speech
 
@@ -304,7 +310,7 @@ Spend 4 Qi and one minute in contact with soil, root, or living wood. The Host t
 
 - Traveling Cloak Lined with Moss (living moss, must be watered; grants advantage on checks to remain unseen in vegetation)
 - Storm Ash Staff (1d6, Versatile 1d8, Qi Focus, unlicensed; the crystals at the fork are unworked and grew in place)
-- Forty One Bone Tokens (your carried registry; the remaining three thousand nine hundred and sixty are cached elsewhere)
+- Forty One Bone Tokens (marks for a registry you define; Bone Script's portrait carries forty one of his four thousand and one names)
 - Carving Awl and Oil (for maintaining the tokens)
 - Herb Satchel (field remedies for eleven common ailments; no Court certification, which is the point)
 - Fox Skull Charm (belt hung; a teacher's gift, and a warning about what happens to clever things)
@@ -315,14 +321,47 @@ Spend 4 Qi and one minute in contact with soil, root, or living wood. The Host t
 
 ## Starting Faction Standing
 
-| School           | Faction Standing | Notes                                                                            |
-| ---------------- | ---------------- | -------------------------------------------------------------------------------- |
-| Golden Orthodoxy | -15              | You are unlicensed practice walking around in daylight.                          |
-| Verdant Path     | +5               | Their heretical wing taught you. Their seated wing finds you embarrassing.       |
-| Iron Calculation | 0                | You are not in their models. They have no opinion. This is nearly restful.       |
-| Crimson Lineage  | -5               | You have no blood worth recording, which to them is the same as having none.     |
-| Common Flame     | +20              | You are what they claim to be fighting for, and you did not ask them to.         |
-| Bright Mirror    | -10              | Unregistered. Unlicensed. Unfileable. You are a category error with a heartbeat. |
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Faction Standing</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Golden Orthodoxy</td>
+<td>−15</td>
+<td>You are unlicensed practice walking around in daylight.</td>
+</tr>
+<tr>
+<td>Verdant Path</td>
+<td>+5</td>
+<td>Their heretical wing taught you. Their seated wing finds you embarrassing.</td>
+</tr>
+<tr>
+<td>Iron Calculation</td>
+<td>0</td>
+<td>You are not in their models. They have no opinion. This is nearly restful.</td>
+</tr>
+<tr>
+<td>Crimson Lineage</td>
+<td>−5</td>
+<td>You have no blood worth recording, which to them is the same as having none.</td>
+</tr>
+<tr>
+<td>Common Flame</td>
+<td>+20</td>
+<td>You are what they claim to be fighting for, and you did not ask them to.</td>
+</tr>
+<tr>
+<td>Bright Mirror</td>
+<td>−10</td>
+<td>Unregistered. Unlicensed. Unfileable. You are a category error with a heartbeat.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -332,7 +371,7 @@ Choose one, or create your own with the Host:
 
 - The restoration petition is complete and valid and needs one signature from an official of the fourth rank. You have identified all eleven who could give it. You have worked out what each would want. You have not yet been willing to pay any of them.
 - Someone has been clearing obstacles from your path for four months and you do not know who or why. The help has been real. That is what frightens you.
-- There are cook fires in the valley. People have gone back into a Dusk zone and are not dying. You are the only person in the capital who knows, and entering it into any record will send an assessment team.
+- A trader told you that there are cook fires in the valley and that people who returned are still alive. You know of no one else in the capital who has this information. A report could bring an assessment team; the trader's whereabouts and any further sharing remain to be established.
 - Your script is spreading through the resettlement camps without you. By the Commission's own published criteria this is a doctrinal contamination indicator, and that category has a response attached to it.
 
 ---
@@ -345,6 +384,6 @@ As you gain levels, you may purchase the following advances unique to your Arche
 
 **Level 5: Unmeasured.** You no longer register as a practitioner to any Court instrument. Add your Resolve modifier to all checks to resist compulsion, scrying, or forced identification.
 
-**Level 7: The Valley Answers.** You always know the direction and rough distance to Nine Willow Bend. Once per session you may ask the Host one yes or no question about conditions there, and receive a true answer.
+**Level 7: The Valley Answers.** Choose a home or protected place when you acquire this ability. You always know its direction and rough distance. Once per session, ask the Host one yes or no question about an observable current condition there and receive a true answer. The answer does not establish an unobserved cause or predict the future. Bone Script's chosen place is Nine Willow Bend.
 
-**Level 9: The Restoration.** Once per campaign, you may cause one struck record, erased name, or abolished prefecture to be entered into the Imperial registry as though it had never been removed. The entry is permanent, legal, and real. The Host determines what it cost, and the cost is never money.
+**Level 9: The Restoration.** Once per campaign, secure a lawful entry in the Imperial registry for one struck record, erased name, or abolished prefecture. The entry takes effect and has the legal standing it states; it does not rewrite past events. Before using the ability, agree with the Host on a specific cost other than money. Others may later contest or attempt to alter the entry through established actions, but the result remains effective until such an action succeeds.
