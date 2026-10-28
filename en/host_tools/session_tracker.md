@@ -203,34 +203,19 @@ Track each player character's personal journey, goals, and unresolved threads.
 
 Track actual Dusk conditions where the party is involved. These stages describe possible world pressure, not compulsory campaign chapters. A relief arc can finish without the capital falling; a longer chronicle changes conditions through established events and evidence.
 
-**Phase 0: Distant (Early Campaign)**
-[ ] The Dusk is a rumor. Stories from the Border. Something that happens to other people.
+Use Core Rulebook Chapter Ten's local phase definitions. Record one locality at a time; different places can be at different phases. Scorch Field and Amber Shore fell before the opening.
 
-**Phase 1: Approaching (Mid Campaign Begins)**
-[ ] The Dusk touches a province. Refugees arrive. The players encounter their first Dusk creature.
+**Locality:** ____________________
 
-**Phase 2: Pressing (Mid Campaign Intensifies)**
-[ ] Three or more provinces have fallen. The Dusk is a known threat. The empire is strained.
+**Current phase and verified signs:** ____________________
 
-**Phase 3: Imminent (Late Campaign)**
-[ ] The Dusk is at the capital's doorstep. Panic spreads. The Twelve Figures begin to act openly.
+**Next event that could change conditions:** ____________________
 
-**Phase 4: Consummation (Endgame)**
-[ ] The Dusk Made Manifest appears. The final confrontation begins. Everything ends here.
+**Known date or travel estimate, if any:** ____________________
 
-**Current Phase:** ____ **Days Until Next Phase Advancement:** ____
+**What the party's protection, repair, or evacuation changed:** ____________________
 
-**Key Events That Advanced the Clock:**
-
-1. ***
-
-2. ***
-
-3. ***
-
-4. ***
-
-5. ***
+No countdown is assumed when no event has established one. A Manifestation is one possible encounter, not a required final creature.
 
 ### Consequences to Carry
 

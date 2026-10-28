@@ -169,7 +169,7 @@ The order going out to the Approach and the naming of the next Steward are the s
 
 That is black room governance, admitted in the Bureau's own voice, on the record, to every prefectural shrine in the empire, at the hour when the households are together.
 
-**Who is not in Part Nine.** The First Chair of that year was **Still Reed**. Nine days before the order went out he walked onto the Great Approach before dawn, without escort, and told the people sitting there that he had come too late. He was relieved of every office at the Council's session thirty five days afterward. He lived another sixteen years in a courtyard in the capital with the door watched, and the gardener who tended that courtyard is alive and is seventy one and sells cuttings in the Outer Market on the second and sixth days.
+**Who is not in Part Nine.** The First Chair of that year was **Still Reed**. Nine days before the order went out he walked onto the Great Approach before dawn, without escort, and told the people sitting there that he had come too late. He was relieved of every office at the Council's session thirty five days afterward. He lived another sixteen years in a courtyard in the capital with the door watched. A later gardener tends that courtyard and keeps notes inherited from an earlier caretaker. She is seventy one and sells cuttings in the Outer Market on the second and sixth days.
 
 Still Reed is not named on Part Nine. Not once. Not as an opponent, not as a predecessor, not as an absence. Part Nine describes a Stewardship changing hands and contains no previous holder.
 

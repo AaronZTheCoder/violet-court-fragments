@@ -76,7 +76,7 @@ Two winters ago you turned away a scholar with the Commission four hours behind 
 
 This sounds like scholarship. It is not.
 
-If the tone has been wrong for a hundred and forty years and nothing has happened, then either the rite does nothing, or something on the other side of that door has been patiently tolerating an error for a hundred and forty years.
+If the tone has been wrong for roughly seventy years without a documented difference in the rite's observable result, then either the rite does nothing, or something on the other side has tolerated an error. You do not know which possibility frightens you more.
 
 You do not know which possibility frightens you more, and you think about it during the rite, and during dinners, and at the fourth hour when nobody is watching.
 

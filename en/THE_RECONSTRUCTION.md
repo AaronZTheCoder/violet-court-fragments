@@ -292,15 +292,15 @@ In Bone Script's valley the old people did not call the Dusk a corruption. They 
 
 Set that against what the Reconstruction is. The Reconstruction is, in its entirety, an instrument for recording less than was taken.
 
-The Court's own position is the reverse and is stated in every Orthodoxy catechism: the Dusk is a wound from the founding and the sealing, and the record has nothing to do with it. The Court is not lying. The Court believes this, and the evidence for it is strong, and it may well be true.
+The Golden Orthodoxy's public catechism calls the Dusk a consequence of disharmony or a trial of faith. A different account circulates among investigators: that the founding and the sealing wounded the world. Its evidence is strong, but it does not establish whether administrative records can affect reality. People within the Court disagree about these explanations and about which questions may safely be asked.
 
 But hold these three facts beside each other and let them sit.
 
 Scorch Field was struck from the gazetteer in Year 414. Its survivors could not renew papers, could not claim relief, could not be surveyed, because there was no lawful place for them to be from. The Dusk took the ground behind them faster than it has taken any ground since.
 
-Nine Willow Bend was struck in Year 441. Bone Script carries four thousand and one names on bone because there is no other copy.
+Nine Willow Bend was struck in Year 441. Bone Script carries four thousand and one names on bone. He knows of no other complete copy; the confiscated original ledgers may still exist, and some reconstructed names remain uncertain.
 
-And there are cook fires in Nine Willow Bend. People have gone back into a Dusk zone and are not dying. Bone Script is the only person in the capital who knows, and he understands exactly what entering it into any record would summon.
+And there are cook fires in Nine Willow Bend. People have gone back into a Dusk zone and are not dying. A trader told Bone Script; he does not know where that trader is now or whether the news has reached anyone else in the capital. He understands what entering it into an official record could summon.
 
 The relation between the record and the world is the campaign's real question, and the honest answer is that nobody in the setting knows, including the Bureau, including the Celestial Book, including you. What is certain is narrower and worse: an erased prefecture receives no survey, no relief, no stabilization and no grain. Whatever the Dusk is, the Reconstruction is what decides who faces it alone.
 

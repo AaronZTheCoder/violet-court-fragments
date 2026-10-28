@@ -38,7 +38,7 @@ You worked out what this meant when you were about thirty. She reads them, resea
 
 You are fifty three years old and the most feared official in the Nine Domains and you check the returned seals.
 
-**The father, and the correction.** He was a Bright Mirror investigator. He bled out on the temple steps when you were twelve, throat opened by men connected to his final unauthorized investigation, and you decided in that moment to finish what you believed was his work.
+**The father, and the correction.** He was a Justicar investigator. He bled out on the temple steps when you were twelve, throat opened by men connected to his final unauthorized investigation, and you decided in that moment to finish what you believed was his work.
 
 You spent eleven years believing he was a good man killed for getting close to something.
 
@@ -160,8 +160,8 @@ The noble's smile falters. You have seen that falter a hundred times. It is the 
 
 ## Expanded Truths
 
-**Truth 1: You possess sealed indictments against every living member of the Grand Council. You are waiting for the right moment to unseal them. You are not sure the moment will ever come.**
-_Complication:_ Someone has stolen one of the indictments. You do not know who. You do not know which one. The thief left no trace. You are investigating your own investigation.
+**Truth 1: You keep sealed case files on every living member of the Grand Council. Some contain completed indictments; the Duke's file still lacks proof. You are waiting for the right moment to unseal them. You are not sure the moment will ever come.**
+_Complication:_ Someone has stolen one of the sealed files. You do not know who. You found an empty numbered wrapper; the separate index is missing, so you cannot yet identify its subject. The thief left no trace. You are investigating your own investigation.
 
 **Truth 2: Your mentor was corrupt. You discovered it. You published the evidence yourself, nailing it to the Council chamber door. She was Disappeared. You were promoted. You have never forgiven yourself for feeling proud.**
 _Complication:_ Your mentor's followers believe you framed her. They have been working for years to gather evidence against you. You do not know if the evidence is true or fabricated.
@@ -278,7 +278,7 @@ You are immune to bribery, supernatural charm effects, and fear imposed by Qi. T
 
 Choose one, or create your own with the Host:
 
-- You possess sealed indictments against every living member of the Grand Council. You are waiting for the right moment to unseal them. You are not sure the moment will ever come. _(Complication: Someone has stolen one of the indictments. The thief left no trace. You are investigating your own investigation.)_
+- You keep sealed case files on every living member of the Grand Council. Some contain completed indictments; the Duke's file still lacks proof. You are waiting for the right moment to unseal them. You are not sure the moment will ever come. _(Complication: Someone has stolen one of the sealed files. The thief left no trace. You are investigating your own investigation.)_
 - Your mentor was corrupt. You discovered it. You published the evidence yourself, nailing it to the Council chamber door. She was Disappeared. You were promoted. You have never forgiven yourself for feeling proud. _(Complication: Your mentor's followers believe you framed her. They have been gathering evidence against you for years.)_
 - There is a file in the Commission's restricted archives that you are not authorized to read. It has your name on it. You have tried to access it three times. Each time, you stopped at the last moment. _(Complication: The file has been moved. Someone accessed it using forged credentials. Your credentials.)_
 - You investigated a case last year that led to an innocent person's Harmonization. The evidence was fabricated. You did not fabricate it. But you did not question it closely enough. You are still investigating who set the trap and why. _(Complication: You have found the fabricator. It was your assistant. They still work for you. They do not know you know.)_

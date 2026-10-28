@@ -22,6 +22,7 @@ Count elapsed days from the morning of Hinge Gate 21, Year 452. Hinge Gate and H
 | Before play | Hinge Gate 13       | Part Five is transmitted. Sharp Frost dies that morning; his testimony was recorded years earlier.                           |
 | Before play | Hinge Gate 15       | The memorial notice for Sharp Frost begins circulating.                                                                      |
 | Before play | Hinge Gate 17       | The slope above Gate's End fails.                                                                                            |
+| Before play | Hinge Gate 18       | A short public disaster report arrives in Xiaoyuan by staffed lantern relay; the original roll follows by courier.           |
 | Before play | Hinge Gate 19       | The Alabaster Ground holds its silence.                                                                                      |
 | Before play | Hinge Gate 20       | The Fifth Reconstruction is issued.                                                                                          |
 | 0           | Hinge Gate 21       | The relief docket reaches the party or its employer.                                                                         |
@@ -34,6 +35,20 @@ Count elapsed days from the morning of Hinge Gate 21, Year 452. Hinge Gate and H
 The Ledger Hand held office in Years 356 to 402. The Accord held office in Years 403 to 427. The Iron Brush holds office from Year 428. Testimonies collected in Years 434 to 436 therefore belong to the Iron Brush's administration. The term limit was removed in Year 438, his eleventh year, fourteen years before the present.
 
 The Emperor last addressed the public in Year 287, withdrew in Year 288, and was finally sealed in Year 297. These are three events: about 165 years, 164 years, and 155 years before the present. None is interchangeable with another.
+
+### Canon Reference for the Host
+
+The present is Year 452. The Emperor last spoke publicly in Year 287, withdrew in Year 288, and the seal was completed in Year 297. The attempted breach occurred in Year 296. The Duke witnessed the withdrawal and opposed the later seal. His recollection of the words at the threshold dates to the withdrawal.
+
+Scorch Field showed its first recorded signs in Year 403, Ten Rivers died in Year 409 after exposure in Year 408, and the province fell in Year 412. Amber Shore fell in Year 427; some boats returned, and others did not. Nine Willow Bend was removed from the gazetteer in Year 441.
+
+The First Harmonization is the party’s first Audit in the starter presentation. The first recorded imperial use of Harmonization occurred in Year 23. The titles refer to different events.
+
+The nine Domains are historical geographic regions. Provinces are administrative units and may be subdivided; the tenth province dissolved in Year 312 was a subdivision, not a tenth Domain. The six Schools are political worldviews. Ministries, Bureaus, and the Temple are institutions, not additional Schools.
+
+Tao Chen is the former Third Inspector of Works, called Archivist Chen in the accusation. Junior Archivist Lin is his niece. Senior Censor Wei, warehouse clerk Wei Liang, and the deceased Council member Wei are different people. The Council member was killed by Night Warbler; the issuer of the order is unknown. Shared surnames do not establish kinship.
+
+The Continuance is a separate Temple rite from the Full Rite for the Seventh Niche. The Oracle’s temporary stay lasts until the next sunset; protection of another person requires the stated advancement. Documents establish their contents and provenance, while disputed explanations of the Dusk remain open.
 
 ### Three Documents the Players Can Hold
 
@@ -146,7 +161,7 @@ The opening arc may end while those horizons remain. Describe a real result for 
 
 ### The Starter Adventure as an Optional Door
 
-If using The First Harmonization, begin its warning on Hinge Gate 21 and hold its Audit seven days later on Hinge Threshold 3. Tao Chen's existing evidence concerns Qi theft and earlier Audits. It does not secretly prove the landslide was planned. A legitimate later allocation of relief grain uses the same reserve accounting office; its routing slip can reach the party through a clerk, the Temple, or a docket request. That administrative connection leads forward without rewriting Chen's crime.
+If using The First Harmonization, begin its warning on Hinge Gate 21 and hold its Audit seven days later on Hinge Threshold 3. Tao Chen's copies concern transfers of reconstruction funds; Zhang's reserve ledgers and transport manifests provide separate evidence about Qi. Neither proves the landslide was planned. A legitimate later allocation of relief grain uses the same reserve accounting office; its routing slip can reach the party through a clerk, the Temple, or a docket request. That administrative connection leads forward without rewriting Chen's crime.
 
 Run the two starter versions as alternatives. Their two to three or four to six sessions cover the same seven fictional days. Players can leave Xiaoyuan, refuse a faction, rescue Chen, or lose the original ledger without losing every path into the later case.
 

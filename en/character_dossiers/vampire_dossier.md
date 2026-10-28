@@ -70,17 +70,17 @@ You have fed on people. Not metaphorically. The Lineage's arrangements are civil
 
 You have also, four times, declined to intervene when intervening would have cost you position. The most recent was six years ago and involved a family you had known for two generations. You made the calculation quickly and you were correct about the cost, and you did nothing, and they were correct to expect better of you.
 
-**The Sealing, and the eleven paces.** You voted against the Sealing and lost. You were in the antechamber among the first generation of elders who stood the watch.
+**The withdrawal, the vote, and the eleven paces.** In Year 288 you watched the Emperor enter the Spire. Nine years later, in Year 297, you opposed the Court's decision to complete His seal and were outvoted. The departure and the completed confinement are different memories.
 
-He stopped at the threshold, looked back for about four seconds, and said something. You were eleven paces away. The acoustics were poor. You have spent one hundred and fifty five years certain it was addressed to one specific person and unable to determine who, and you will not speculate about the words, and if a player presses you on it you become angry in a way that surprises everyone including you.
+He stopped at the threshold, looked back for about four seconds, and said something. You were eleven paces away. The acoustics were poor. You have spent one hundred and sixty four years certain it was addressed to one specific person and unable to determine who, and you will not speculate about the words, and if a player presses you on it you become angry in a way that surprises everyone including you.
 
-Eight years later his personal attendant led eight others to the Spire with tools. You knew that man for forty years. You had eaten at his table.
+In Year 296, eight years after the withdrawal and before the final seal, His personal attendant led eight others to the Spire with tools. You knew that man for forty years. You had eaten at his table.
 
 You were told what was planned. Two days in advance, by him, in confidence, because he wanted you with them.
 
 You said you would think about it. Then you did nothing, and said nothing, and they were stopped, and Disappeared, and their names struck.
 
-You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had one hundred and forty seven years to make peace with probably and have not managed it.
+You have never established whether your silence was what stopped them. Probably not; the Garrison had other sources. Probably. You have had one hundred and fifty six years to make peace with probably and have not managed it.
 
 **Why you are still here.** You are among the few surviving witnesses who stood in a room with the Emperor. Others preserve different portions of the same history. Your memory can be compared with theirs; it cannot relieve you of what you chose to do.
 
@@ -131,7 +131,7 @@ The assassin's blade finds your heart. You feel the steel part flesh, muscle, th
 
 ## Expanded Truths
 
-**Suggested Truth 1 (Existing):** You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
+**Suggested Truth 1 (Existing):** You witnessed the Emperor's withdrawal in Year 288 and voted against the completed seal in Year 297. You were outvoted. You have carried this secret for one hundred and fifty five years.
 _Complication:_ You voted against the sealing not because you opposed it but because you knew it would not work. You had seen the pattern before. The empire contains threats by containing them, and the contained threats always break free. You did not warn the Council of this because you wanted to be right. You have been waiting one hundred and fifty five years to be vindicated. Your pride may have doomed the empire.
 
 **Suggested Truth 2 (Existing):** The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
@@ -249,7 +249,7 @@ When reduced to 0 HP, you do not fall unconscious. You may continue to act for a
 
 Choose one, or create your own with the Host:
 
-- You were there when the Sun Emperor was sealed in the Spire. You voted against it. You were outvoted. You have carried this secret for one hundred and fifty five years.
+- You witnessed the Emperor's withdrawal in Year 288 and voted against the completed seal in Year 297. You were outvoted. You have carried this secret for one hundred and fifty five years.
 - The general you brought into the blood and named as your heir once tried to usurp your position. You defeated the coup and sent him into exile. He is rebuilding his influence, and you are not certain whether you want him stopped.
 - You have been feeding on a specific senior official for decades. They do not know. They believe they have a chronic illness. You have grown fond of them.
 - You helped enact a sealing that you now believe deepened the world's founding injury. The Dusk followed later. You hold evidence of your own part in the act; whether your explanation is complete remains to be tested. Responsibility for what you did does not depend on proving every consequence.

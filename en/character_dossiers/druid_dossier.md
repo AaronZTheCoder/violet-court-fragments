@@ -222,7 +222,7 @@ From the full skill list in the Core Rulebook (Chapter Three).
 
 ### The Names in the Bone
 
-_You are carrying four thousand and one people. Some days they carry you._
+_You carry the names you have chosen to remember. Some days they carry you._
 
 Once per session, when you would fail a Resolve check or a check made under interrogation, coercion, or fear, you may touch a token and reroll, taking the second result. Describe whose name you touched and one true thing about them. You may not use the same name twice in a session. This costs no Qi. It costs something else, and the Host may ask you what.
 
@@ -230,7 +230,7 @@ Once per session, when you would fail a Resolve check or a check made under inte
 
 _Your practice is not in any registry. The instruments were built to catch something else._
 
-Wards, seals, and detection rituals keyed to registered practitioners do not detect you. You automatically pass any check to avoid detection through Qi by Commission or Bureau apparatus. The reverse is also true and is not optional: you cannot use any Court Qi infrastructure, including transit conduits, licensed foci, official healing halls, or the capital's Qi lighting grid, and any attempt to do so fails and draws attention.
+Wards, seals, and detection rituals keyed to registered practitioners do not detect you. You automatically pass checks to avoid Qi detection by Commission or Bureau apparatus using that registration. Other methods can still observe you or detect your Qi. You cannot personally attune to infrastructure that requires a registered practitioner, such as a licensed focus or controlled transit conduit; an attempt fails and draws attention. Ordinary lamps, travel as a passenger, and medical care that requires no personal attunement remain available.
 
 ### Root Speech
 
@@ -244,7 +244,7 @@ Spend 4 Qi and one minute in contact with soil, root, or living wood. The Host t
 
 - Traveling Cloak Lined with Moss (living moss, must be watered; grants advantage on checks to remain unseen in vegetation)
 - Storm Ash Staff (1d6, Versatile 1d8, Qi Focus, unlicensed; the crystals at the fork are unworked and grew in place)
-- Forty One Bone Tokens (your carried registry; the remaining three thousand nine hundred and sixty are cached elsewhere)
+- Forty One Bone Tokens (marks for a registry you define; Bone Script's portrait carries forty one of his four thousand and one names)
 - Carving Awl and Oil (for maintaining the tokens)
 - Herb Satchel (field remedies for eleven common ailments; no Court certification, which is the point)
 - Fox Skull Charm (belt hung; a teacher's gift, and a warning about what happens to clever things)
@@ -272,7 +272,7 @@ Choose one, or create your own with the Host:
 
 - The restoration petition is complete and valid and needs one signature from an official of the fourth rank. You have identified all eleven who could give it. You have worked out what each would want. You have not yet been willing to pay any of them.
 - Someone has been clearing obstacles from your path for four months and you do not know who or why. The help has been real. That is what frightens you.
-- There are cook fires in the valley. People have gone back into a Dusk zone and are not dying. You are the only person in the capital who knows, and entering it into any record will send an assessment team.
+- A trader told you that there are cook fires in the valley and that people who returned are still alive. You know of no one else in the capital who has this information. A report could bring an assessment team; the trader's whereabouts and any further sharing remain to be established.
 - Your script is spreading through the resettlement camps without you. By the Commission's own published criteria this is a doctrinal contamination indicator, and that category has a response attached to it.
 
 ---
@@ -285,6 +285,6 @@ As you gain levels, you may purchase the following advances unique to your Arche
 
 **Level 5: Unmeasured.** You no longer register as a practitioner to any Court instrument. Add your Resolve modifier to all checks to resist compulsion, scrying, or forced identification.
 
-**Level 7: The Valley Answers.** You always know the direction and rough distance to Nine Willow Bend. Once per session you may ask the Host one yes or no question about conditions there, and receive a true answer.
+**Level 7: The Valley Answers.** Choose a home or protected place when you acquire this ability. You always know its direction and rough distance. Once per session, ask the Host one yes or no question about an observable current condition there and receive a true answer. The answer does not establish an unobserved cause or predict the future. Bone Script's chosen place is Nine Willow Bend.
 
-**Level 9: The Restoration.** Once per campaign, you may cause one struck record, erased name, or abolished prefecture to be entered into the Imperial registry as though it had never been removed. The entry is permanent, legal, and real. The Host determines what it cost, and the cost is never money.
+**Level 9: The Restoration.** Once per campaign, secure a lawful entry in the Imperial registry for one struck record, erased name, or abolished prefecture. The entry takes effect and has the legal standing it states; it does not rewrite past events. Before using the ability, agree with the Host on a specific cost other than money. Others may later contest or attempt to alter the entry through established actions, but the result remains effective until such an action succeeds.

@@ -353,34 +353,34 @@ Roll or choose from each column to create an NPC quickly.
 
 ### Common Target Numbers for Specific Actions
 
-| Action                          | TN       | Facet     | Modifiers                       |
-| ------------------------------- | -------- | --------- | ------------------------------- |
-| Spot a hidden creature          | 12       | Resolve   | +2 per Zone of distance         |
-| Identify a Dusk creature        | 14       | Intellect | +4 if never seen before         |
-| Climb a wall (rope)             | 8        | Might     | +4 if no rope                   |
-| Climb a wall (sheer, no tools)  | 16       | Might     |                                 |
-| Leap across a gap (short)       | 10       | Might     | +4 if gap is wide               |
-| Swim in calm water              | 8        | Might     | +4 in rough water               |
-| Swim in water corrupted by Dusk | 14       | Endurance | Sanity check TN 12 on failure   |
-| Track a creature                | 12       | Endurance | +2 per day since passage        |
-| Track through Dusk zone         | 16       | Endurance |                                 |
-| Pick a simple lock              | 10       | Swiftness | Requires tools                  |
-| Pick an imperial lock           | 16       | Swiftness | Requires tools                  |
-| Pick a Dusk lock                | 20       | Swiftness | Dusk corruption on failure      |
-| Forge a document (simple)       | 12       | Intellect | Requires sample                 |
-| Forge an official document      | 18       | Intellect | +4 if specific to the school    |
-| Recall a fact (common)          | 8        | Intellect |                                 |
-| Recall a fact (obscure)         | 16       | Intellect |                                 |
-| Recall a forbidden fact         | 20       | Intellect | Sanity check if forbidden       |
-| Stabilize a dying ally          | 12       | Intellect | Requires healer's kit           |
-| Treat Red Rain Exposure         | 16       | Intellect | Requires 24 hours               |
-| Resist interrogation            | 14       | Resolve   | +2 per hour of interrogation    |
-| Resist Dusk temptation          | Variable | Resolve   | TN equals Dusk presence in area |
-| Charm a guard                   | 14       | Presence  | +4 if guard is suspicious       |
-| Bribe an official               | 10       | Presence  | Cost varies by official         |
-| Perform a ritual                | 12       | Intellect | +4 for forbidden rituals        |
-| Detect a lie                    | 14       | Resolve   | +4 if you know the speaker well |
-| Tell a convincing lie           | 14       | Presence  | +4 if lie is plausible          |
+| Action                          | TN       | Facet     | Modifiers                                                                  |
+| ------------------------------- | -------- | --------- | -------------------------------------------------------------------------- |
+| Spot a hidden creature          | 12       | Resolve   | +2 per Zone of distance                                                    |
+| Identify a Dusk creature        | 14       | Intellect | +4 if never seen before                                                    |
+| Climb a wall (rope)             | 8        | Might     | +4 if no rope                                                              |
+| Climb a wall (sheer, no tools)  | 16       | Might     |                                                                            |
+| Leap across a gap (short)       | 10       | Might     | +4 if gap is wide                                                          |
+| Swim in calm water              | 8        | Might     | +4 in rough water                                                          |
+| Swim in water corrupted by Dusk | 14       | Endurance | Resolve check TN 12 on failure                                             |
+| Track a creature                | 12       | Endurance | +2 per day since passage                                                   |
+| Track through Dusk zone         | 16       | Endurance |                                                                            |
+| Pick a simple lock              | 10       | Swiftness | Requires tools                                                             |
+| Pick an imperial lock           | 16       | Swiftness | Requires tools                                                             |
+| Pick a Dusk lock                | 20       | Swiftness | Dusk corruption on failure                                                 |
+| Forge a document (simple)       | 12       | Intellect | Requires sample                                                            |
+| Forge an official document      | 18       | Intellect | +4 if specific to the school                                               |
+| Recall a fact (common)          | 8        | Intellect |                                                                            |
+| Recall a fact (obscure)         | 16       | Intellect |                                                                            |
+| Recall a forbidden fact         | 20       | Intellect | Resolve check if the fact is disturbing; knowledge alone is not corruption |
+| Stabilize a dying ally          | 12       | Intellect | Requires healer's kit                                                      |
+| Treat Red Rain Exposure         | 16       | Intellect | Requires 24 hours                                                          |
+| Resist interrogation            | 14       | Resolve   | +2 per hour of interrogation                                               |
+| Resist Dusk temptation          | Variable | Resolve   | TN equals Dusk presence in area                                            |
+| Charm a guard                   | 14       | Presence  | +4 if guard is suspicious                                                  |
+| Bribe an official               | 10       | Presence  | Cost varies by official                                                    |
+| Perform a ritual                | 12       | Intellect | +4 for forbidden rituals                                                   |
+| Detect a lie                    | 14       | Resolve   | +4 if you know the speaker well                                            |
+| Tell a convincing lie           | 14       | Presence  | +4 if lie is plausible                                                     |
 
 ### The Six Schools at a Glance
 

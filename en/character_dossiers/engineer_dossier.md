@@ -140,7 +140,7 @@ _Complication:_ Lady Yuran has offered you a deal. She will stop siphoning Qi if
 
 **Suggested Truth 5: You have a failsafe. If you die suddenly, a sealed package will be delivered to every school in the capital. It contains the depletion curve data, the names of everyone who knew, and your detailed recommendations for a postcollapse society. You update the package every month.**
 
-**Suggested Truth 6: You designed the Qi regulator that keeps the Sun Emperor's life support functioning. You built a secret override into it. You have never used it. You have never told anyone it exists. You do not know what would happen if you did.**
+**Suggested Truth 6: You designed a Qi regulator serving the Spire and built a secret override into it. You suspect it supports something within, but you do not know whether it sustains the Emperor or what the override would affect. You have never used it or told anyone about it.**
 
 ## Daily Life
 
@@ -232,7 +232,7 @@ Your Commission credentials grant you access to areas most officials cannot ente
 - Your predecessor in this position disappeared three years ago. You found their private notes. They were investigating something called "the depletion curve." _(Complication: Your predecessor is not dead. You received a letter from an unmapped town.)_
 - A Crimson Lineage family has been secretly siphoning Qi from imperial stockpiles. You have evidence. You do not yet have enough to act. _(Complication: Lady Yuran has offered you a deal: falsify the audits, and she will stop.)_
 - You have a failsafe. If you die suddenly, a sealed package will be delivered to every school in the capital. It contains the depletion curve data and the names of everyone who knew.
-- You designed the Qi regulator that keeps the Sun Emperor's life support functioning. You built a secret override. You have never used it. You have never told anyone it exists.
+- You designed a Qi regulator serving the Spire and built a secret override. You suspect it supports something within, but its connection to the Emperor and the effects of the override remain unknown.
 
 ## Advancement
 

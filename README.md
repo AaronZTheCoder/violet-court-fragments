@@ -29,7 +29,7 @@ The full manuscripts remain part of the same work. The First Harmonization provi
 
 Read a source when a current question reaches it. The chronicle does not require the Host to prepare every region, every figure, and every secret before the first session.
 
-[Begin with the Host's Codex](en/HOST_CODEX.md). [Check a date or consequence](en/CAMPAIGN_CONTINUITY.md).
+[Begin with the Host's Codex](en/HOST_CODEX.md). [Explore the narrative atlas](en/NARRATIVE_ATLAS.md). [Check a date or consequence](en/CAMPAIGN_CONTINUITY.md).
 
 ## Quick Start
 
@@ -61,21 +61,21 @@ Each dossier provides a primary career's abilities, derived bonuses, equipment, 
 
 Twelve of them correspond to the major figures the Celestial Court counts. The thirteenth corresponds to a man the Court has never managed to count at all, which is the entire point of him.
 
-| Archetype                 | Portrait  | Path             | School               | One Line Pitch                                                                                                     |
-| ------------------------- | --------- | ---------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Cinnabar Heart**        | Alchemist | Alchemist        | Golden Orthodoxy     | A narrative shaper who knows truth is a substance that can be refined, diluted, and occasionally poisoned          |
-| **Night Warbler**         | Assassin  | Shadow Hand      | Unaligned            | A professional who strikes from shadow and understands that killing is the second oldest form of transaction       |
-| **Guest Among Forests**   | Elf       | Long Lived       | Verdant Path         | An ancient soul who has watched empires rise and fall and speaks with trees older than the Court                   |
-| **Iron Calculation**      | Engineer  | Artificer        | Iron Calculation     | A builder who knows the empire runs on resources, not doctrine, and that indispensability is its own kind of power |
-| **Iron Wall**             | Knight    | Bastion          | Garrison Command     | A bastion who swore an oath to a silent Emperor and now guards truths as steadfastly as walls                      |
-| **Bright Mirror**         | Paladin   | Justicar         | Bright Mirror        | A justicar who serves an ideal, knowing full well that ideals are weapons anyone can pick up                       |
-| **Shadow**                | Rogue     | Night Walker     | Independent          | A survivor who has been everywhere, knows everyone, and understands exactly what not to be worth                   |
-| **Duke of Eternal Night** | Vampire   | Blood Cultivator | Crimson Lineage      | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
-| **Iron Bone**             | Werewolf  | Fury Adept       | Common Flame         | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
-| **Celestial Book**        | Wizard    | Archivist        | Celestial Inquiry    | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
-| **Bone Script**           | Druid     | Hedgewarden      | Verdant Path         | A hedgewarden from an erased prefecture, carrying an archive of four thousand and one names carved onto bone       |
-| **Incense Crown**         | Priestess | Oracle           | Temple               | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests             |
-| **Stray Stroke**          | Wildcard  | Drifter          | Pending Verification | A drifter the registry has certified eleven times under eleven names, none of them the one he was born with        |
+| Named figure              | Primary career   | Affiliation          | Portrait                                                                                                           |
+| ------------------------- | ---------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Cinnabar Heart**        | Alchemist        | Golden Orthodoxy     | A narrative shaper who knows truth is a substance that can be refined, diluted, and occasionally poisoned          |
+| **Night Warbler**         | Shadow Hand      | Unaligned            | A professional who strikes from shadow and understands that killing is the second oldest form of transaction       |
+| **Guest Among Forests**   | Long Lived       | Verdant Path         | An ancient soul who has watched empires rise and fall and speaks with trees older than the Court                   |
+| **Iron Calculation**      | Artificer        | Iron Calculation     | A builder who knows the empire runs on resources, not doctrine, and that indispensability is its own kind of power |
+| **Iron Wall**             | Bastion          | Garrison Command     | A bastion who swore an oath to a silent Emperor and now guards truths as steadfastly as walls                      |
+| **Bright Mirror**         | Justicar         | Bright Mirror        | A justicar who serves an ideal, knowing full well that ideals are weapons anyone can pick up                       |
+| **Shadow**                | Night Walker     | Independent          | A survivor who has been everywhere, knows everyone, and understands exactly what not to be worth                   |
+| **Duke of Eternal Night** | Blood Cultivator | Crimson Lineage      | The last of a generation who remembers what the official histories erased and carries what is irreplaceable        |
+| **Iron Bone**             | Fury Adept       | Common Flame         | A fury adept who carries the people's rage and the people's hope, one claw at a time                               |
+| **Celestial Book**        | Archivist        | Celestial Inquiry    | An archivist who can read the pattern no one else sees and knows the founding crime buried in the archives         |
+| **Bone Script**           | Hedgewarden      | Verdant Path         | A hedgewarden from an erased prefecture, carrying an archive of four thousand and one names carved onto bone       |
+| **Incense Crown**         | Oracle           | Temple               | An oracle the Court cannot replace, performing the one rite on which the empire's whole legality rests             |
+| **Stray Stroke**          | Drifter          | Pending Verification | A drifter with eleven officially issued registrations, including borrowed names and none recording his birth name  |
 
 Each archetype is built for extensibility. New portraits can become new dossiers. The system scales.
 
@@ -85,16 +85,16 @@ Each archetype is built for extensibility. New portraits can become new dossiers
 
 The Celestial Court is divided into six competing schools, each representing a different answer to the same question: how should the empire be governed when the Emperor will not speak?
 
-| School               | Core Belief                                                                                               | Patron Archetype |
-| -------------------- | --------------------------------------------------------------------------------------------------------- | ---------------- |
-| **Golden Orthodoxy** | Continuity is the highest virtue. The old ways have kept the empire standing for more than four centuries | Alchemist        |
-| **Verdant Path**     | The empire must return to harmony with nature and the old spirits, not merely enforce it through decree   | Elf              |
-| **Iron Calculation** | The empire is a machine. Optimize the machine. Doctrine is secondary to results                           | Engineer         |
-| **Crimson Lineage**  | Blood remembers. The founding families built this empire. Their inheritance is not up for debate          | Vampire          |
-| **Common Flame**     | Power flows upward from the people, not downward from the Court. The empire belongs to those who work it  | Werewolf         |
-| **Bright Mirror**    | Purity of purpose above all. The empire must be cleansed of corruption, whatever the cost                 | Paladin          |
+| School               | Core Belief                                                                                               | Key Figure            |
+| -------------------- | --------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Golden Orthodoxy** | Continuity is the highest virtue. The old ways have kept the empire standing for more than four centuries | Cinnabar Heart        |
+| **Verdant Path**     | The empire must return to harmony with nature and the old spirits, not merely enforce it through decree   | Guest Among Forests   |
+| **Iron Calculation** | The empire is a machine. Optimize the machine. Doctrine is secondary to results                           | Iron Calculation      |
+| **Crimson Lineage**  | Blood remembers. The founding families built this empire. Their inheritance is not up for debate          | Duke of Eternal Night |
+| **Common Flame**     | Power flows upward from the people, not downward from the Court. The empire belongs to those who work it  | Iron Bone             |
+| **Bright Mirror**    | Purity of purpose above all. The empire must be cleansed of corruption, whatever the cost                 | Bright Mirror         |
 
-The Knight and the Assassin stand between schools. The Rogue stands outside them. The Wizard stands above them, watching. The Druid was never counted by them, and the Priestess belongs to something older than all six. The Wildcard has been counted by four of them, under four different names, and none of the four has ever worked out that they were counting the same man.
+Iron Wall and Night Warbler serve institutions rather than a School. Shadow trades independently; Celestial Book works within Celestial Inquiry. Bone Script belongs to a suppressed Verdant Path tradition, Incense Crown to the Temple, and Stray Stroke uses several registrations. A player can choose any affiliation for their own career.
 
 ---
 

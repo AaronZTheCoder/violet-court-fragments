@@ -144,7 +144,7 @@ _Complication:_ The Crimson Lineage family knows you have evidence. They have of
 _Complication:_ A survivor of the Thornwood atrocity has joined the Garrison under a false name. They do not know you were there. You recognized them the moment you saw their face.
 
 **Truth 4: A soldier under your command saw something they should not have during a routine patrol near the Spire. They told you. You told them to forget. Neither of you has.**
-_Complication:_ The soldier has started asking questions about the Spire again. They have been seen talking to a Bright Mirror investigator. You do not know how much they have told.
+_Complication:_ The soldier has started asking questions about the Spire again. They have been seen talking to a Justicar investigator. You do not know how much they have told.
 
 **Suggested Truth 5: You have a death wish and you know it. You take risks in battle that are not calculated. You tell yourself it is for the unit. Part of you knows it is because you are ready to join the soldiers you have lost.**
 
@@ -232,7 +232,7 @@ When you give an order in combat, allies who can hear you gain +2 to their next 
 - You have seen Operation Empty Throne. It is the Garrison's contingency plan for when the Court collapses. You pray you never have to execute it. _(Complication: A faction within the Garrison is preparing to execute it preemptively. They have approached you twice.)_
 - Your commanding officer is taking bribes from a Crimson Lineage family. You have evidence. Reporting it would destroy the unit's cohesion. Not reporting it violates your oath. _(Complication: The Crimson Lineage family knows you have evidence. They have offered to promote you or destroy you.)_
 - You were ordered to commit an atrocity during a border pacification campaign. You complied. The campaign was declared a success. Two years later the Dusk swallowed the district, and the Court struck it from the maps. You have never spoken of it. _(Complication: A survivor of the atrocity has joined the Garrison under a false name. You recognized them immediately.)_
-- A soldier under your command saw something they should not have during a routine patrol near the Spire. They told you. You told them to forget. Neither of you has. _(Complication: The soldier has started asking questions again. They have been seen with a Bright Mirror investigator.)_
+- A soldier under your command saw something they should not have during a routine patrol near the Spire. They told you. You told them to forget. Neither of you has. _(Complication: The soldier has started asking questions again. They have been seen with a Justicar investigator.)_
 - You have a death wish and you know it. You take risks in battle that are not calculated. You tell yourself it is for the unit. Part of you knows it is because you are ready to join the soldiers you have lost.
 - You carry a sealed letter from your father. It contains the location of a Garrison black site. He told you to use it when the time was right. You do not know when that is.
 

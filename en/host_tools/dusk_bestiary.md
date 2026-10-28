@@ -6,6 +6,8 @@
 
 These creatures are templates. Adjust their stats to match your party's level. Dusk entities should be threatening but not insurmountable. Their true horror is not their combat stats but what they represent: the world's accumulated wounds made flesh.
 
+**Rules terms.** A Sanity resistance roll is a Resolve check; Sanity itself is a resource. Add a Facet modifier, not its full score, wherever an attack lists a Facet. Psychic damage reduces Hit Points unless an entry explicitly names Sanity loss. Dusk visions, remembered bodies, and apparent messages are experiences to investigate, not automatic proof of a cosmic theory. Animated remains do not restore a dead player character; Chapter Twelve's rule on permanent death still applies.
+
 ### Designing Dusk Encounters
 
 Every Dusk encounter is a story. A fight against Dusk creatures is never only a fight. It is an encounter with something that was once alive, once loved, once ordinary. The Host should approach each encounter as a chance to reveal something about the empire's corruption, the nature of the Dusk, or the players themselves.
@@ -16,7 +18,7 @@ Horror: The Dusk is at its most effective when it is not charging at the party b
 
 Tragedy: Every Dusk creature was something else first. The Tide Walker was a person with a name and a family and a reason to live. The Dusk Hound was a loyal companion or a protector. When the players fight Dusk creatures, they are fighting the remains of people and things the empire failed. Describe what the creature used to be. Let the players find clues to its former life. A child's toy in the lair of a Dusk Hound. An unfinished letter in a Tide Walker's pocket. A wedding band fused into the flesh of a Hollow Official. The question is not whether the players can kill the creature. The question is whether they can mourn it afterward.
 
-Action: Sometimes the Dusk must be fought. When combat is inevitable, make it feel desperate. Dusk creatures do not tire. They do not negotiate. They flow and shift and press forward. Use the environment. Let the Dusk warp the battlefield during combat. Let the ground pulse with red veins. Let the sky weep crimson during the fight. Give the players something to protect beyond themselves. A person they must evacuate. A relic they must retrieve. A ritual they must complete while the Dusk throws everything at them.
+Action: Some Dusk entities attack relentlessly; others retain a purpose or can communicate. Use the specific entry. Protecting a route, evacuating someone, or containing a manifestation can matter more than killing every creature. An agreement with one being never binds the Dusk as a whole.
 
 **Scaling for Party Level**
 
@@ -73,7 +75,7 @@ A drifting remnant of a person consumed by the Dusk. It appears as a humanoid sh
 
 **Stats:** HP 10, Defense 10, Might 6, Swiftness 14, Endurance 8, Intellect 4, Presence 6, Resolve 4
 **Attack:** Crimson Touch (1d4 psychic, ignores armor)
-**Special:** Memory Echo. When a Wisp attacks, the target briefly experiences one of the Wisp's memories: a fragment of the life it lost. Sanity check TN 12 or lose 1d4 Sanity.
+**Special:** Memory Echo. When a Wisp attacks, the target briefly experiences one of the Wisp's memories: a fragment of the life it lost. Resolve check TN 12 or lose 1d4 Sanity.
 **Encounter:** 2 to 6 Wisps. Use to introduce the Dusk's nature: it does not kill. It transforms.
 
 **Read Aloud**
@@ -341,7 +343,7 @@ Red Rain is not a creature. It is a weather phenomenon that occurs when Dusk con
 
 - Exposure: Creatures caught in Red Rain must make Endurance TN 14 every hour or gain one stage of Red Rain Exposure. These stages are cumulative and apply only to this hazard.
 - Red Rain Exposure Stage 1: Mild nausea and headache. Disadvantage on concentration checks.
-- Red Rain Exposure Stage 2: Skin reddens and becomes sensitive to light. Sanity checks suffer Disadvantage.
+- Red Rain Exposure Stage 2: Skin reddens and becomes sensitive to light. Resolve checks to resist Sanity loss suffer Disadvantage.
 - Red Rain Exposure Stage 3: Hallucinations begin. The affected creature sees Dusk entities that may or may not be real.
 - Red Rain Exposure Stage 4: The creature begins to hear the Dusk's voice. It must make Resolve TN 16 to resist following the voice's instructions.
 - Red Rain Exposure Stage 5: Transformation begins. The creature becomes a Tide Walker over 1d4 days unless treated with intensive Qi therapy.
@@ -407,6 +409,8 @@ The Market has rules. No violence. No theft. No attempts to take without offerin
 A player character's lost loved one appears in the Dusk Market. They are not a vendor or a customer. They are an item for sale. They stand in a cage, looking out with eyes that recognize the player but cannot speak. The vendor explains that this person was collected from the Dusk's edge, preserved, kept pristine. The price is steep. The player's most significant bond. Their relationship with one of the Twelve Figures. Their place in a school. Their reputation. The vendor will take that bond and erase it, leaving the player and their loved one free but disconnected from everything that made them who they are. The other players must watch and decide whether to let their comrade pay that price.
 
 ---
+
+When using the Market's lost loved one scene, first establish whether the person was missing or confirmed dead. A missing survivor can be rescued. A figure bearing a dead person's face is a remnant or imitation, not resurrection. Tell the players what evidence can distinguish those possibilities before they accept a price. Bargains do not rewrite another player's choices or a School's institutional response without an established means.
 
 ### The Unwritten
 

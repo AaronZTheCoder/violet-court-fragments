@@ -261,8 +261,8 @@ Add these to the existing list:
 
 Complications for existing truths:
 
-**For "You have seen the workshop beneath the Spire where jade edicts are carved. You know the Emperor's proclamations are forged. You have told no one."**
-Complication: One of the forgers recognized you. They have been leaving subtle signals in recent edicts, messages meant only for you. They want to talk. You do not know if they are friend or trap.
+**For "You have seen the workshop beneath the Spire and evidence that specific jade edicts were prepared on Court orders. You have told no one."**
+Complication: One of the artisans recognized you. They have been leaving subtle signals in recent edicts, messages meant only for you. They want to talk. You do not know if they are friend or trap, and the evidence does not establish the authorship of every edict.
 
 **For "A senior official's 'illness' was actually poisoning. You brewed the poison. You did not know what it was for until it was too late."**
 Complication: The official did not die. They survived, paralyzed and unable to speak. Their family believes they are a vegetative invalid. You know the poison you brewed. You know what they must be experiencing inside their trapped body. You visit them sometimes, in disguise, and sit beside them in silence.
@@ -287,7 +287,7 @@ Use the purchased abilities in the mechanical Advancement section below. At Leve
 
 Choose one, or create your own with the Host:
 
-- You have seen the workshop beneath the Spire where the jade edicts are carved. You know the Emperor's decrees are forged. You have never told anyone.
+- You have seen the workshop beneath the Spire and evidence that specific jade edicts were prepared on Court orders. You have never told anyone. The authorship of other edicts remains unconfirmed.
 - A senior official's illness was poison. You prepared it. You did not know what it was for until it was too late to matter.
 - You keep a separate and accurate chronicle of events, entirely unlike the official record. If it were found you would be Disappeared inside a week.
 - Someone inside the Bureau of Harmonious Narrative is altering records to protect one particular school. You have noticed the pattern. You do not yet know who.

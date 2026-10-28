@@ -62,9 +62,9 @@ Four hundred thousand people.
 
 You have never told anyone. Bone Script, who is from a valley two ranges over and carries four thousand and one names, comes to the archive regularly. You spoke to him once in a corridor and pronounced his prefecture correctly and walked away, and you have avoided him since, and you are aware that this is avoidance and not strategy.
 
-**What being very old actually costs.** You do not forget. This is not a gift.
+**What being very old actually costs.** The memories you can still reach do not fade. This is not always a gift.
 
-You have complete recall of every document you have read, which is upward of two million, and of every conversation, and of the faces of approximately eleven thousand people who are dead. They do not fade. A mortal grief becomes a shape and then a smoothness. Yours stay at their original resolution forever.
+You retain precise recall of more than two million documents, many conversations, and the faces of approximately eleven thousand people who are dead. The memories that remain do not fade. A mortal grief becomes a shape and then a smoothness. Yours stays at its original resolution. Other parts of your life have gaps you cannot fill.
 
 You have developed a deliberate practice of refusing to retrieve certain memories. There are regions of your own mind you have decided not to enter, and you maintain that decision the way a person maintains a strict diet. The effort continues every day of your life.
 
@@ -100,7 +100,7 @@ You have not told anyone this either. You are aware that telling someone would b
 
 **Bright Mirror Archivist Lin Wei (your former apprentice):** Twenty years ago, you took an apprentice, a young woman from the Commission for Celestial Purity who had shown exceptional talent in archival research. You taught her everything you could in five years. She left when the Commission recalled her, citing operational needs. You have not seen her since. You know she is alive. You know she is working on a case involving the Crimson Dusk. You know she has accessed restricted sections of the Archives using the knowledge you gave her. You have not stopped her. You are not sure you could stop her. You are not sure you want to. She was the closest thing to a successor you have ever had. You wonder if she thinks of you. You wonder if she remembers the way you taught her to fold documents for storage. You hope she does.
 
-**The Founders (all deceased, your creators):** You think about them more than you should. They were not cruel to you. They were not kind. They were engineers building a tool. You were their greatest creation. You wonder what they would think of what you have become. You wonder if they would be proud of the Archives you have built, or horrified by the secrets you have kept. They are all dead, so you will never know. You have tried to find records of their final days. The records are incomplete, as if someone removed pages from the archive. You suspect you know who. You suspect yourself. You have no memory of removing them. The gaps in the Archives are the only mysteries you have not been able to solve.
+**The Archive Architects (all deceased, your creators before the empire):** You think about them more than you should. They were not cruel to you. They were not kind. They were engineers building a tool. You were their greatest creation. You wonder what they would think of what you have become. You wonder if they would be proud of the Archives you have built, or horrified by the secrets you have kept. They are all dead, so you will never know. You have tried to find records of their final days. The records are incomplete, as if someone removed pages from the archive. You suspect you know who. You suspect yourself. You have no memory of removing them. The gaps in the Archives are the only mysteries you have not been able to solve.
 
 **The Empty Room (the sealed chamber that bears your name):** You visit the room once a year, always on the same day, the anniversary of your first entry. It is the only day you go inside. You sit in the center of the empty space. You close your eyes. You listen. There is nothing to hear except the single bell you strike once each year. There is nothing to see. There is nothing to learn. The room is a void, a question mark, a blank page in a mind that contains everything else. You have begun to suspect that the room is not empty. It is waiting. It is waiting for you to be ready for whatever it contains. You are not ready. You do not know if you will ever be ready. Every other night, you do not go that far.
 
@@ -128,11 +128,11 @@ The party has been gathering clues for weeks. A murder. A missing person. A cons
 **Suggested Truth 1:** You hold records that contradict the official accounts of the founding and sealing. They support a theory of the Dusk that the Court will not examine. You can share those records; the question is how to protect the people who authenticate them.
 _Complication:_ You once helped restrict access to these records. A clerk affected by that decision now wants the full account of your involvement before agreeing to testify.
 
-**Suggested Truth 2 (Existing):** You have been alive for over a thousand years. You are very tired. You would like to die. But there is something you must finish first.
+**Suggested Truth 2 (Existing):** You have been alive for about a thousand years. You are very tired. You would like to die. But there is something you must finish first.
 _Complication:_ You cannot die. You have tried. You have walked into the Crimson Dusk. You have ingested poisons that would kill a dozen mortals. You have placed yourself in the path of assassins. Your body repairs itself. Your purpose keeps you alive. You are not sure if the purpose is external or internal. You are not sure if the empire's Qi sustains you or if your own inability to let go does.
 
-**Suggested Truth 3 (Existing):** There is a sealed room in the deepest level of the Archives. Even you cannot enter it. It has your name carved on the door. You do not remember putting it there.
-_Complication:_ You have entered the room. You entered it four hundred years ago. It was empty. You have been back many times since. The room remains empty. But each time you enter, you lose a memory. Small things at first. Then larger things. You have lost entire years. You have lost the names of people you loved. You continue to enter the room because something draws you there. You do not know what. You do not know if the memory loss is a side effect or the purpose.
+**Suggested Truth 3 (Existing):** There is a sealed room in the deepest level of the Archives. You cannot enter it now. It has your name carved on the door. You do not remember putting it there.
+_Complication:_ You entered the room four hundred years ago and returned many times before its present seal. It was empty each time, and each visit cost you a memory. You have lost entire years and the names of people you loved. Something drew you back, but you do not know what, or whether the memory loss was a side effect or the purpose. The door is now closed to you.
 
 **Suggested Truth 4 (Existing):** You have been watching the players since before they arrived in the capital. You have been waiting for them. You are not entirely sure why. But the Archives have been whispering their names.
 _Complication:_ The Archives have not been whispering. You have been whispering. You have been calling to them across time and space, drawing them toward the capital, toward the Archives, toward the empty room. You do not remember doing this. You discovered the evidence of your own actions in a journal you wrote in your own hand, a journal you do not remember writing. Something is using you. Or you are using yourself. You cannot tell the difference anymore.
@@ -244,7 +244,7 @@ Once per session, you may spend 10 Qi to declare that disparate pieces of inform
 Choose one, or create your own with the Host:
 
 - You hold records of the founding and sealing that support a disputed explanation for the Dusk. A witness wants to know why you kept them restricted.
-- You have been alive for over a thousand years. You are very tired. You would like to die. But there is something you must finish first.
+- You have been alive for about a thousand years. You are very tired. You would like to die. But there is something you must finish first.
 - There is a sealed room in the deepest level of the Archives. Even you cannot enter it. It has your name carved on the door. You do not remember putting it there.
 - You have been watching the players since before they arrived in the capital. You have been waiting for them. You are not entirely sure why. But the Archives have been whispering their names.
 

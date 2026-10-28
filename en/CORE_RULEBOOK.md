@@ -70,17 +70,17 @@ Here is what a first session might sound like at the table. The Host has prepare
 
 Host: "The rain has been falling for three days. It falls now in sheets across the Outer City, turning the unpaved streets to mud. You stand in the courtyard of the Azure Lotus Teahouse, a modest establishment in the shadow of the great walls of the Inner City. The lanterns are lit. Warm light spills from the windows. Inside, you can hear someone playing a stringed instrument badly. The air smells of wet stone and frying oil. Two of you arrived together. One of you was already here, nursing a cup of tea and watching the rain. How do you want to begin?"
 
-Player 1 (Veren, a Duke of Eternal Night): "I am the one inside. I have been here for an hour, sitting at a table near the window where I can see the door. I am not drinking the tea. I am just watching the rain. And the other patrons."
+Player 1 (Veren, a Blood Cultivator): "I am the one inside. I have been here for an hour, sitting at a table near the window where I can see the door. I am not drinking the tea. I am just watching the rain. And the other patrons."
 
 Host: "The teahouse is quiet. Four other tables are occupied. A merchant and his bodyguard argue over a bill of lading. Two clerks huddle over documents. An old woman sits alone, muttering to herself. The door opens."
 
-Player 2 (Kestrel, a Night Warbler): "I step through the door, shaking water from my cloak. I scan the room quickly. I am looking for exits, for threats, for faces that watch too closely."
+Player 2 (Kestrel, a Night Walker Hand): "I step through the door, shaking water from my cloak. I scan the room quickly. I am looking for exits, for threats, for faces that watch too closely."
 
-Player 3 (Scholar Lin, a Celestial Book): "I am right behind him. I close my umbrella and tap it twice on the floor to shake off the water. I nod to the proprietor."
+Player 3 (Scholar Lin, an Archivist): "I am right behind him. I close my umbrella and tap it twice on the floor to shake off the water. I nod to the proprietor."
 
 Host: "The proprietor, a sturdy woman with broad shoulders and greying hair tied in a severe knot, nods back. She gestures to an empty table near the hearth. The warmth of the fire reaches you even from across the room. Veren at the window table has not turned to look at you."
 
-Player 1: "I have. I turn now. I meet the eyes of the Night Warbler and incline my head slightly. I recognize him. We have worked together before."
+Player 1: "I have. I turn now. I meet Kestrel's eyes and incline my head slightly. I recognize him. We have worked together before."
 
 Host: "Good. The three of you are here because a message found each of you in the night, folded into a plain envelope with no seal. The message said only: 'The Jade Iris blooms at midnight. Ask for the woman who weeps.' Each of you followed the thread here. What do you do next?"
 
@@ -148,7 +148,7 @@ The following examples show how Resolution Rolls play out in actual conversation
 
 **Example 1: Routine (TN 8): Filing a Report**
 
-A player character, a Celestial Book archivist named Scholar Lin, needs to file a routine acquisition report to avoid scrutiny.
+A player character, an Archivist archivist named Scholar Lin, needs to file a routine acquisition report to avoid scrutiny.
 
 Host: "The Bureau of Celestial Inquiry requires every document transfer to be recorded on Form 7B in triplicate. The clerk at the desk is half asleep. He slides the forms toward you without looking up and mutters something about ink."
 
@@ -714,7 +714,7 @@ Host: "The thugs exchange a look. One of them drops his knife. It hits the stone
 
 **Zones.** The grand hall (Zone A). The balcony overlooking the hall (Zone B, adjacent to Zone A by stairs). The garden terrace (Zone C, adjacent to Zone B through open doors). The wine table (obstacle in Zone A).
 
-**Participants.** Cinder (Night Warbler). Jinhai (Celestial Book). Lady Crimson, a Duke of Eternal Night (NPC antagonist). Various guests (noncombatants and obstacles).
+**Participants.** Cinder (Night Warbler). Jinhai (Celestial Book). Lady Crimson, a Blood Cultivator (NPC antagonist). Various guests (noncombatants and obstacles).
 
 Host: "The hall is magnificent. Candlelight reflects off lacquered pillars. A dozen minor nobles and officials circulate with cups of imported wine. Lady Crimson approaches your group with a smile that does not reach her eyes. She speaks loudly enough for others to hear. 'I heard the most interesting rumor about you, Scholar Jinhai. Something about a document you found in the archives. Something about the Emperor's handwriting.'"
 
@@ -1225,7 +1225,7 @@ The following concrete examples show how specific actions at the table might aff
 
 1. A Celestial Book is seen leaving a teahouse that is known as a meeting place for reformers. She was there doing research. The observers do not care about her reasons. (minus 4 Ritual Harmony, now 46.)
 
-2. During a routine Harmonization Audit, an Iron Bone questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (minus 8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
+2. During a routine Harmonization Audit, a Fury Adept questions whether the Commission's methods align with the empire's founding principles. The question is overheard and reported. (minus 8 Ritual Harmony, now 40. He has dropped into Suspect territory.)
 
 3. A Night Warbler shelters a Dusk refugee in his safe house for three nights. The refugee is a child. The risk of discovery is high. (minus 8 Ritual Harmony, now 32.)
 
@@ -1278,15 +1278,15 @@ The Crimson Dusk is the campaign's central threat and primary mystery. It is not
 
 ### The Five Phases
 
-The Host controls the Dusk's advance. It progresses at the pace of the story, not by any mechanical clock. The phases are:
+Track the conditions around a particular community or route. These phases describe local reach, not the first appearance of the Dusk in imperial history. Scorch Field and Amber Shore have already fallen before play. Advance a phase through established signs and events; elapsed session count alone does not trigger it.
 
-| Phase | Name         | The World                                                                                                            |
-| ----- | ------------ | -------------------------------------------------------------------------------------------------------------------- |
-| 0     | Distant      | The Dusk is a rumor. Border reports mention unusual phenomena. Most in the capital do not believe.                   |
-| 1     | Approaching  | Provinces begin to fall. Refugees arrive. The Court can no longer entirely deny.                                     |
-| 2     | Pressing     | Inner provinces are threatened. Dusk Touched creatures appear within the heartland. Panic spreads.                   |
-| 3     | Imminent     | The capital's outer districts are affected. The Court must unite or collapse. The endgame begins.                    |
-| 4     | Consummation | The Dusk engulfs all. The final confrontation. What comes after depends on what the players have learned and chosen. |
+| Phase | Name         | Local condition                                                                             |
+| ----- | ------------ | ------------------------------------------------------------------------------------------- |
+| 0     | Distant      | Reports reach this locality, but no nearby manifestation is verified.                       |
+| 1     | Approaching  | A connected route or neighboring settlement is threatened; displaced people need reception. |
+| 2     | Pressing     | Local transport, food, shelter, or defenses are disrupted by verified manifestations.       |
+| 3     | Imminent     | The locality's outer defenses or evacuation routes are directly threatened.                 |
+| 4     | Consummation | A breach or confrontation tests the protection and escape arrangements actually made.       |
 
 ### Dusk Exposure
 
@@ -1594,9 +1594,9 @@ This example shows a complete scene from start to finish. The party is investiga
 
 **The Cast:**
 
-- Lan plays Scholar Jinhai, a Celestial Book archivist.
-- Alex plays Cinder, a Night Warbler shadow hand.
-- Sam plays Steelhand, an Iron Bone fury adept.
+- Lan plays Scholar Jinhai, an Archivist archivist.
+- Alex plays Cinder, a Night Walker Hand shadow hand.
+- Sam plays Steelhand, a Fury Adept fury adept.
 - The Host narrates and plays Old Chen and other NPCs.
 
 **Scene Start.**
@@ -2051,6 +2051,8 @@ Each Archetype begins with specific equipment. Here are the starting packages:
 
 The imperial year is divided into twelve months, each named for the Qi aspect that dominates its season: Piercing Dawn and Yielding Bloom (spring), Binding Stone and Burning Forge (summer), Veiling Mist, Piercing Harvest, and Yielding Rest (autumn), Binding Frost, Burning Ember, and Veiling Dark (winter), and the two hinge months, Hinge Gate and Hinge Threshold, which run twenty five days each. Five intercalary days at the end of the year belong to no month and are called the Hinge: a period when the Court suspends normal business, the boundaries between worlds grow thin, and the ordinary rules do not apply.
 
+The ten ordinary months each have thirty days; Hinge Gate and Hinge Threshold each have twenty five. With the five Hinge days, a civil year has 355 days. The Hinge belongs to the year ending: after its fifth day, Year 453 begins on Piercing Dawn 1. A seven day week continues across month and year boundaries.
+
 ### Major Festivals
 
 **The Festival of the Silent Throne (winter solstice).** A day of mourning for the Emperor's silence. All fires are extinguished for one hour at midnight. No work is done. No music is played. The only permitted sound is the distant bell from the Spire. It is considered deeply unlucky to speak the Emperor's name on this day.
@@ -2071,15 +2073,15 @@ The imperial year is divided into twelve months, each named for the Qi aspect th
 
 These example characters are ready to use in games lasting one session or as templates for new players.
 
-**Ember of the Ashen Dawn (Night Warbler).** A courier who carries messages for the Bureau of Internal Harmony. Ember is twenty two years old, quick with a blade and quicker with a lie. She was recruited from the streets at age twelve. She has never lost a package. She has started reading the messages she carries. She has started to wonder what kind of person her employer truly is. Might 14, Swiftness 18, Endurance 14, Intellect 16, Presence 10, Resolve 16.
+**Ember of the Ashen Dawn (Shadow Hand).** A courier who carries messages for the Bureau of Internal Harmony. Ember is twenty two years old, quick with a blade and quicker with a lie. She was recruited from the streets at age twelve. She has never lost a package. She has started reading the messages she carries. She has started to wonder what kind of person her employer truly is. Might 14, Swiftness 18, Endurance 12, Intellect 14, Presence 8, Resolve 14.
 
-**Stone Watch Zheng (Iron Wall).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 18, Intellect 12, Presence 16, Resolve 14.
+**Stone Watch Zheng (Bastion).** A garrison sergeant who has served for fifteen years without incident. Zheng is forty years old, disciplined, and quietly competent. He has never questioned an order. He has started to question the orders. Might 18, Swiftness 10, Endurance 16, Intellect 10, Presence 12, Resolve 14.
 
-**White Crow (Bright Mirror).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made him doubt. Might 12, Swiftness 10, Endurance 14, Intellect 16, Presence 18, Resolve 18.
+**White Crow (Justicar).** A newly appointed investigator for the Commission for Celestial Purity. White Crow is twenty eight years old, idealistic, and certain of his purpose. He believes the system works. He has not yet encountered a case that made him doubt. Might 12, Swiftness 10, Endurance 14, Intellect 14, Presence 14, Resolve 16.
 
-**Old Moss (Guest Among Forests).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers the Emperor's last public judgment in Year 287 and the words He spoke before the assembled Court. Might 10, Swiftness 16, Endurance 14, Intellect 16, Presence 16, Resolve 16.
+**Old Moss (Long Lived).** A representative of the Northern Expanse who has served the Court for two hundred years. Old Moss is patient, deliberate, and quietly contemptuous of the capital's frantic politics. She remembers the Emperor's last public judgment in Year 287 and the words He spoke before the assembled Court. Might 8, Swiftness 14, Endurance 12, Intellect 16, Presence 14, Resolve 16.
 
-**Broken Bell (Iron Bone).** A former Commission interrogator who defected to the Red Banner Revival after a case broke his faith in the system. Broken Bell is thirty five, haunted, and looking for redemption through revolution. Might 18, Swiftness 14, Endurance 16, Intellect 14, Presence 14, Resolve 12.
+**Broken Bell (Fury Adept).** A former Commission interrogator who defected to the Red Banner Revival after a case broke his faith in the system. Broken Bell is thirty five, haunted, and looking for redemption through revolution. Might 18, Swiftness 14, Endurance 16, Intellect 10, Presence 10, Resolve 12.
 
 ---
 
@@ -2113,7 +2115,7 @@ The six Schools of Thought compete for influence within the Court. Understanding
 
 **Key Figure.** Cinnabar Heart, Director of the Bureau of Harmonious Narrative, the Orthodoxy's reluctant instrument.
 
-**Allies.** The Imperial Garrison Command (Iron Wall), though the relationship is strained by the Garrison's practical concerns.
+**Allies.** The Garrison Command (Iron Wall), though the relationship is strained by the Garrison's practical concerns.
 
 **Enemies.** The Crimson Lineage (seen as decadent). The Common Flame (seen as subversive). The Verdant Path (seen as dangerously foreign). The Bright Mirror (over purity of tradition).
 

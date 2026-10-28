@@ -230,7 +230,7 @@ The following events usually increase Risk by one level.
 
 3. Possession of an incriminating original document.
 
-4. Hostile Faction Standing with an active faction.
+4. A hostile faction takes a newly evidenced action not already reflected in the baseline.
 
 5. An unexplained disturbance during curfew.
 
@@ -238,11 +238,11 @@ The following events usually reduce Risk by one level.
 
 1. Credible testimony supported by evidence.
 
-2. A patron spending political capital.
+2. A patron takes a distinct action beyond baseline protection.
 
 3. Ten Celestial Favor spent through an appropriate contact.
 
-4. Protective Faction Standing invoked at real cost.
+4. A distinct protective intervention not already counted in the baseline or another adjustment.
 
 5. Evidence that redirects the investigation toward a more powerful target.
 
@@ -2102,7 +2102,7 @@ It should feel like a desperate rupture, not a routine battle.
 
 The gate contains four Garrison soldiers.
 
-Each has Combat 10, Defense 10, Resilience 6, and 3 Wounds.
+Each has HP 10, Defense 12, attack +4, and a short blade or spear dealing 1d6 plus 1 damage.
 
 They carry spears that deal 1d6 plus 1 damage.
 
@@ -2818,7 +2818,7 @@ Use this encounter if the wall ward activated, if the characters were openly fol
 
 There are three hired blades.
 
-Each has Combat 10, Defense 10, Resilience 6, and 3 Wounds.
+Each has HP 10, Defense 12, attack +4, and a short blade or spear dealing 1d6 plus 1 damage.
 
 Their short blades deal 1d6 plus 1 damage.
 
@@ -4262,7 +4262,7 @@ If Lin was also captured, the note arrives in another hand with one line crossed
 >
 > _He reached the eastern road._
 >
-> _Tao sent word to a Bright Mirror contact, but no documents._
+> _Tao sent word to a Justicar contact, but no documents._
 >
 > _What happens to the evidence is still your choice._
 >
@@ -4688,17 +4688,9 @@ The attackers depend on the enemy.
 
 Two Dusk Hounds force the door.
 
-They were once human.
+They are Dusk Touched creatures. Their earlier lives and the means used to control them require investigation.
 
-Refined Qi and Dusk corruption remade them.
-
-Each has Combat 12, Defense 8, Resilience 8, and 4 Wounds.
-
-Their claws deal 1d8 damage.
-
-Their howl requires Resolve, target 12.
-
-Failure costs one action.
+Each uses the Dusk Hound entry: HP 18, Defense 13, attack +4, bite 1d8 plus 2 or claw 1d6 plus 2. Its howl requires Resolve TN 14 or the target loses its next Movement.
 
 They pursue the character who led the reserve investigation.
 
@@ -4708,7 +4700,7 @@ When killed, they collapse into black smoke and leave collars marked with the Fe
 
 Two assassins disguised as Commission messengers enter in stolen or forged uniforms.
 
-Each has Combat 14, Defense 12, Resilience 6, and 2 Wounds.
+Each has HP 10, Defense 12, and attack +4.
 
 Their poisoned blades deal 1d6 plus 2 damage.
 
@@ -6152,7 +6144,7 @@ The Shadow's pendant creates one hesitation.
 
 Two enforcers attempt capture.
 
-Each has Combat 14, Defense 12, Resilience 8, and 3 Wounds.
+Each has HP 12, Defense 13, and attack +4.
 
 Their batons deal 1d6 nonlethal damage.
 
@@ -6160,7 +6152,7 @@ One carries narrative erasure cuffs.
 
 The cuffs suppress Qi and impose a penalty of 2 on all actions.
 
-Meng has Combat 10 and does not enter the fight unless cornered.
+Meng has HP 10, Defense 12, and attack +2; she does not enter the fight unless cornered.
 
 At the end of round two, she can pull the alarm.
 

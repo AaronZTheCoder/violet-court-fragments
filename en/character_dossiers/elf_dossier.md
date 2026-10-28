@@ -62,11 +62,11 @@ Once per scene, you may step into one living tree or large plant and emerge from
 
 ### Patient Arrow
 
-When you take the Guard action, you may also make a single ranged attack at the end of the round against any target who acted after you. This attack has Advantage. You are very old. You have learned to wait.
+When you take the Guard action, you may also make a single ranged attack at the end of the round against any target who acted after you. This attack has Advantage. Your training teaches you to wait for an opening.
 
 ### Voice of the Ancient World
 
-You speak for the nonhuman peoples of the empire. When addressing a crowd that includes common folk or nonhumans, you gain Advantage on Presence checks. The people know you as someone who has always spoken for them. This reputation is a burden as much as a gift: the people expect you to advocate for them, and they notice when you do not.
+When addressing a crowd that includes common folk or nonhuman people, you gain Advantage on Presence checks. Choose whose concerns you hope to bring into the conversation and whether you have their permission to speak for them. This ability does not assign a public reputation or make you a representative of an entire people.
 
 ## Starting Equipment
 
@@ -75,7 +75,7 @@ You speak for the nonhuman peoples of the empire. When addressing a crowd that i
 - Traveler's Robes (woven from living fiber and able to repair themselves)
 - Forest Token (a piece of your homeland; Advantage on Survival checks in wilderness)
 - Dagger (1d6, Concealable)
-- Diplomatic Seal (marks you as a recognized representative of the Northern Expanse)
+- Community Credential (a modest seal or letter from a community, teacher, or institution chosen at creation; its authority is limited to the mandate agreed with the Host)
 - 25 Copper Leaves
 
 ## Starting Faction Standing

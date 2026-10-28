@@ -122,7 +122,9 @@ End the first session after one concrete change: a household is entered, supplie
 
 The Court did not arrange the landslide. An existing fraud has left the reserve accounts unreliable just when they are needed for relief. Tao Chen copied payments from imperial border reconstruction funds into accounts controlled by a Crimson Lineage house; Golden Orthodoxy officials concealed those transfers. Separately, Zhang's comparison of Imperial Reserve ledgers reveals eight hundred missing units of refined Qi. Matching account references in payment records and manifests connect the two inquiries. These are different sources, not one document that proves every allegation. Transfers were timed before Audits because clerks and examiners would be reassigned, reducing scrutiny. The missing Qi does not power the Audits or explain the origin of the Dusk. Its diversion reduces allocations available for relays, transport, and stabilization.
 
-The current grain allocation passed through the same accounting office. Its balance must be reconciled or an authorized official must accept a temporary discrepancy before a lawful release order can be issued. Chen can explain the discrepancy. He is not the only route to that explanation: Lin has an index copy, the reserve has its manifests, and Commissioner Zhang can examine them.
+On Hinge Gate 17, a Gate's End official sends a short public disaster report through staffed lantern relays, including Iron Gate. It reaches Xiaoyuan on Hinge Gate 18; the report carries no household names. The capital allocates grain already held at the Temple depot, while an original roll and other physical evidence follow by courier. The porter and child at the depot were already in the capital and are waiting for an allocation that includes their household; they did not travel from the landslide in four days.
+
+The current grain allocation passed through the same accounting office. Its balance must be reconciled or an authorized official must accept a temporary discrepancy before a lawful release order can be issued. Chen can explain the payment entries he copied. Lin has an index copy, the reserve has its manifests, and Commissioner Zhang can examine the separate Qi discrepancy.
 
 To authorize relief quickly, officials attached it to the already scheduled Seventh Niche ceremony. The proposed Sixth Reconstruction would close that ceremonial account as thanksgiving before all claims have been checked. A separate admission rider would give the Court standing permission to allocate Temple niches. The rider and the closing clause are administrative choices, not effects hidden in the sacred words.
 
@@ -508,7 +510,7 @@ _Interactive elements:_
 2. The Reading Room: A chamber with a high ceiling and long oak tables. Scholars and officials sit reading under the dim light of Qi lamps. A player who attempts to remove a document from this room triggers a silent alarm. The doors lock. Guards arrive within three minutes. The only way to avoid this is to have the Index Keeper's personal seal on the borrowing slip.
 3. The Stacks: Deep within the Ministry, the shelves grow older and dustier. Some sections have not been visited in living memory. The oldest documents are written on materials that predate paper: silk, bamboo, bone. In these depths, the players may find things that were never meant to be found. They may also find things that have been waiting.
 
-_Hidden secret:_ In the subbasement, behind a shelf that appears to be structural, there is a sealed chamber containing the original charter of the Court, predating the current founding documents by seventy years. It mentions a thirteenth school that was erased from all records. The twelfth school was the Alchemists. No one knows what the thirteenth was called.
+_Hidden secret:_ A sealed chamber holds an early witness copy of the Year 7 Founding Charter, with an erased signature in its margin. Compare it with Shadow's surviving copy and the later public text. The missing name is a person or office for the table to investigate; it is not evidence of thirteen Schools.
 
 ### The Grand Council Chamber
 
@@ -647,7 +649,7 @@ The Risk table assumes the following definitions for Faction Standing:
 
 ### Worked Example: Calculating Risk
 
-Consider a character named Mara, a Bright Mirror with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage minus 12, Common Flame +15, Bright Mirror +10.
+Consider a character named Mara, a Justicar with Ritual Harmony 48 and the following Faction Standing values: Golden Orthodoxy +5, Verdant Path +20, Iron Calculation 0, Crimson Lineage minus 12, Common Flame +15, Bright Mirror +10.
 
 Mara's Ritual Harmony of 48 places her in the 40 to 59 band. Her best protection is +20 with the Verdant Path, which falls into Moderate Protection. However, she also has minus 12 with the Crimson Lineage, which means she has Enemies. The best protection determines the column, so Mara uses Moderate Protection, not Enemies.
 
@@ -665,13 +667,13 @@ The standard Risk calculation assumes typical Audit participation. Players who t
 
 - **Using unconventional skills to aid the investigation** (Qi Theory to authenticate documents, Lore to identify ritual evidence, Craft to identify the tool that made a wound): Reduce Risk by one level if the contribution is significant and noted by a sympathetic investigator. The Commission does not value your skills directly, but they value results.
 
-- **Invoking a senior patron** (a Grand Council member, a Twelve Figures ally): Reduce Risk by one level if the patron's intervention is credible and public. The patron will likely demand repayment later.
+- **Invoking a senior patron:** Reduce Risk one level for a distinct, credible intervention not already counted as baseline protection. A patron may state a limited cost in advance.
 
-- **Drawing attention from the Bright Mirror**: If the Bright Mirror takes a personal interest in a player during the Audit, increase Risk by one level regardless of other factors. His interest is never casual.
+- **Drawing Bright Mirror’s attention:** Determine his response from the evidence and the action he takes. Attention alone does not change Risk.
 
 - **Being caught in a lie to an investigator**: If the lie is discovered, increase Risk by one level. If the lie was about something directly relevant to the Audit, increase by two levels.
 
-- **Making a deal with a Dusk Touched entity during the Audit**: Increase Risk by two levels. The Commission notices the taint on a character's Qi even if the deal was not observed.
+- **A deal with a Dusk Touched person:** Increase Risk only if an investigator obtains relevant evidence through an established witness, report, or examination. State the applicable consequences before the choice when they are knowable.
 
 The goal of these adjustments is to reward engagement with the Audit process. A player who takes creative actions rooted in the story should feel that their choices matter. A player who treats the Audit as an inconvenience to be waited out should feel the tension of passivity.
 
@@ -682,7 +684,7 @@ Players are not passive during an Audit. They may:
 - **Call in Celestial Favor:** Spend 10 Celestial Favor to reduce Risk by one level. This represents calling in a debt from a powerful patron.
 - **Produce Leverage:** If the player has blackmail material on an investigator, they may use it to reduce Risk by one level. The material is spent: once used, it cannot be used again.
 - **Throw Someone Else to the Wolves:** A player may name another official (NPC or, if the table consents, another player) as a more deserving target. This is a Presence + Deception roll against TN 18. On success, the named target's Risk increases by one level while the player's Risk decreases by one. On failure, the player's Risk increases.
-- **Flee:** The player may attempt to escape the capital before the Judgment. This is a series of skill checks (Stealth, Survival, Connections). On success, the character survives but loses all Faction Standing values and all Celestial Favor, and becomes a fugitive. This is functionally a new character but retains the same identity and knowledge.
+- **Leave or flee:** Establish the applicable summons or order, route, and any pursuit. A representative or submission may answer a summons where the procedure permits. A character who leaves remains a player character; Standing and Favor change only when a named person or institution acts on an established reason.
 
 ### Example Audit: The Prepared Players
 
@@ -922,7 +924,7 @@ _First Impression._ The Iron Calculation's office looks like the control room of
 
 _Sample Quotes for the Host._
 
-1. "The empire's Qi reserves will be exhausted in Year 476, twenty four years from now. If the Dusk continues to advance, emergency stabilization may shorten that timeline. You understand why I am concerned."
+1. "At the present rate, the empire's Qi reserves will be exhausted in Year 476, twenty four years from now. If the Dusk continues to advance, emergency stabilization may shorten that timeline. You understand why I am concerned."
 2. "You think the Court runs on doctrine. It runs on grain. When the grain runs out, doctrine becomes irrelevant. I am the person who tracks the grain."
 3. "I have calculated the probability of the empire's survival under every possible reform scenario. The best case is forty seven percent. The worst case is twelve percent. Neither is acceptable. I am working on a third option."
 4. "Your faction is inefficient. You spend seventy percent of your resources on internal politics and thirty percent on actual governance. Reverse those numbers and you would be twice as effective. You will not reverse them. I know this. I have seen it a hundred times."
@@ -996,7 +998,7 @@ _Sample Quotes for the Host._
 2. "I do not want your compliance. Compliance is easy. I want your conviction. I want you to be pure because you choose purity, not because you fear punishment."
 3. "The Golden Orthodoxy believes the doctrine is correct because it is old. I believe the doctrine is correct because it is true. Age does not confer truth. Truth confers age."
 4. "You think I am harsh. You are correct. You think I enjoy being harsh. You are incorrect. I do what I do because the empire has no one else who will do it. If you wish to relieve me of this burden, become pure. Then I can rest."
-5. "I have sealed indictments on every member of the Grand Council. Every one. Including those who believe they are my allies. I do not have allies. I have purposes."
+5. "I have a file on every living Council member. A file is not a finding. Ask me which cases are ready, and why I have kept even those sealed."
 
 _What He Is Doing Right Now._ The Bright Mirror is engaged in three investigations. First, he is tracing the origin of the forged edicts. He has identified the forger as someone within the Bureau of Harmonious Narrative but has not yet identified the person who gave the order. Second, he is compiling a master dossier on the Crimson Dusk's progression, correlating it with historical records of Harmonization Audits. He is beginning to suspect a pattern: Audits accelerate the Dusk. Third, he is conducting interviews with every living member of the founding families, hoping to find someone who will tell him what happened the night the Emperor was sealed. The Duke of Eternal Night has refused his requests for an interview seven times.
 
@@ -1199,7 +1201,7 @@ _Additional Scene Seeds._
 
 **Scene Seed:** A Court ceremony. She is present, crowned, veiled, silent, and functionally furniture. The players watch three separate officials discuss sensitive matters within her hearing without lowering their voices, because a woman who has been decided to be an object does not require discretion. Later, in a corridor, she says one sentence to a player that could only be built from something she overheard, and she says it without any expression at all, and then she is gone.
 
-_First Impression._ Everything visible about her was designed by people long dead to produce a specific effect on the nervous system of a frightened human being, and it works, and she is the only living person who knows exactly how it is built. Pierced silver and river jade, hung with drops tuned four centuries ago to be inaudible past three paces. Unbleached silk veil. Six strands at the throat, each a completed rite. White gown, which in the Nine Domains is mourning, embroidered in cinnabar and gold in a pattern older than the imperial script and never satisfactorily translated. She is younger than the players expect. She does not move like an object. She moves like someone conserving something.
+_First Impression._ Her crown, veil, and ceremonial dress follow a tradition older than the imperial script. She is one of nine living custodians of its ordination, and knows which parts of the impression are craft, training, and public expectation. Let her attend to the person speaking and the terms offered.
 
 _Sample Quotes for the Host._
 
@@ -1207,11 +1209,11 @@ _Sample Quotes for the Host._
 2. "My attendants report on me weekly. I taught them to read. I have thought about the contradiction and I have decided to keep both halves of it."
 3. "The Bureau spent nine years reconstructing the ordination from documents. What they produced is liturgically perfect. It is also completely inert. They have never been able to explain why, and I have never offered."
 4. "The empire can take a province. It cannot take a rite. That is the whole of my position, and I would ask you to notice that it is a position I did not choose and cannot resign."
-5. "The Duke told me my predecessor put a rising tone on the eighth phrase and her teacher did not. He will not say which was correct. I have come to understand that he does not know either. Neither does anyone. We have been doing it both ways for a hundred and forty years and nothing has happened, and I would very much like to know what that means."
+5. "The Duke told me my predecessor put a rising tone on the eighth phrase and her teacher did not. He will not say which was correct. I have come to understand that he does not know either. Neither does anyone. We have been doing it both ways for roughly seventy years without a documented difference in the rite's observable result, and I would very much like to know what that means."
 
 _What She Is Doing Right Now._ She is writing down the ordination. Not the liturgy, which exists, but the part that is transmitted only in person and that nine people alive still carry. She is doing it in fragments, in a script she invented, distributed across objects nobody would search, and she is racing the actuarial table: the other eight officiants are all eighty one or older. She is also, in the third hour of every afternoon while her attendants eat, running a sanctuary in the shrine of the drowned. It currently holds six people, has held as many as nineteen at once, and has sheltered more than two hundred people over eleven years.
 
-_If the Players Ally With Her._ She offers what nothing else in the campaign offers: legitimate immunity. A rite she is willing to perform can stop a proceeding that armies could not, because to interrupt it is to interrupt the Emperor's continuance, and no official in the Nine Domains wants that entry in the record next to their name. She will spend this for people, not for causes, and never twice for the same person.
+_If the Players Ally With Her._ She can shelter people under the sanctuary's terms, seek a witnessed stay, and use the Oracle abilities within their printed limits. The Rite That Cannot Lapse suspends one proceeding until the next sunset while a stated duty is verified. It is not an acquittal or permanent immunity. The Weight of the Crown permits protection of one other person instead.
 
 _If the Players Oppose Her._ She has no soldiers, no coin, and no faction. She has forty minutes a day of unobserved time, two attendants who love her more than they love the Commission, and an unbroken habit of asking procedural questions in rooms full of people who have to answer them. Players who move against her will not be attacked. They will find themselves being asked, publicly and courteously, to clarify a small matter of form, and then another, until whatever they were doing has become a matter of record.
 
@@ -1240,7 +1242,7 @@ _First Impression._ He does not look like anything. That is not a failure of des
 
 _Sample Quotes for the Host._
 
-1. "I have never forged a document. Everything I carry was issued by an office of this empire and every word of it is true. I did not beat your system. Your system made all eleven of these men. I stood there while it did."
+1. "I have never forged a document. Everything I carry was issued by an office of this empire. Your system made all eleven of these men, and I stood there while it did."
 2. "You are asking which name is the real one. None of them. That is not modesty and it is not a riddle. It is a fact about the paperwork."
 3. "A verification query costs eleven copper to send and an afternoon of a clerk's life to chase. No office in the Nine Domains has ever been given a budget for suspicion. That is the entire secret. You may have it."
 4. "I was thirteen and the tide stopped going out. Then there was a queue, and a clerk, and a book. I have been in that queue ever since, if you want the poetic version, which I do not recommend."
@@ -1709,7 +1711,7 @@ Thirty snippets of dialogue ready for the Host to speak when players approach of
 
 10. "Some seals are made of wax. Some seals are made of stone. And some seals are made of memory. When the memory fades, the seal breaks. I am telling you this because I believe in being prepared."
 
-11. "You asked about the thirteenth school. There is a reason no one speaks of it. It is not because the school was destroyed. It is because the school never stopped existing. It just stopped being seen."
+11. "You asked about the erased signature. Someone kept a copy, and someone else wanted the name forgotten. Those are different acts."
 
 ### Bureaucratic
 
@@ -2378,7 +2380,7 @@ _How the Host Adjudicated._ The Host agreed that demonstration of skill can be a
 
 _Outcome._ The player rolled a 17. The lock clicked open in their hands. The merchant's eyes widened. "I could use someone with your talents," they said, and slid a document across the table. "This is the shipping schedule you want. I ask only that you remember who helped you." The player gained the information without making a social promise or creating a debt, but the merchant now knows what the player is capable of and will spread that reputation through the underground. The unconventional approach succeeded, but it changed how the NPC sees the player.
 
-**Scenario Twelve: Combat Ability Outside Combat.** The player, an Iron Bone, wants to use their The Wolf Rises ability during an interrogation of a captured Commission agent. The ability is mechanically designed for combat transformation, but the player argues that the threat of the wolf is a social tool, not just a weapon.
+**Scenario Twelve: Combat Ability Outside Combat.** The player, a Fury Adept, wants to use their The Wolf Rises ability during an interrogation of a captured Commission agent. The ability is mechanically designed for combat transformation, but the player argues that the threat of the wolf is a social tool, not just a weapon.
 
 _What the Rules Say._ The Wolf Rises is a combat Technique that transforms the character and has defined mechanical effects for combat only. It has no explicit social application in the rules.
 
@@ -2433,7 +2435,7 @@ d20 + Facet Modifier + Proficiency Bonus (if applicable) vs TN
 - Guest Among Forests: She witnessed the founding injury and traces a second injury to the completed seal. Their relation to the Dusk is her strongest explanation, not a complete proof.
 - Iron Calculation: The Qi reserves are running out.
 - Iron Wall: Operation Empty Throne exists.
-- Bright Mirror: He has sealed indictments on the entire Grand Council.
+- Bright Mirror: He holds sealed Council case files. Some indictments are ready; the Duke's case remains unproven.
 - Shadow: The original charter contradicts all current doctrine.
 - Duke of Eternal Night: The Emperor is imprisoned, not absent.
 - Iron Bone: The Dusk first manifested beyond the border provinces in his penal camp.
@@ -2443,7 +2445,7 @@ d20 + Facet Modifier + Proficiency Bonus (if applicable) vs TN
 
 ### The Truth of the One Who Is Not Counted
 
-- Stray Stroke: Eleven of the empire's own registries hold a true and separate account of him, and joining any two of them would cost eleven copper that no office has ever been given.
+- Stray Stroke: Eleven of the empire's own registries hold separate accounts issued under different names. Some began with false claims, and a crosscheck costs eleven copper that no office has been given.
 
 ---
 
@@ -2581,9 +2583,9 @@ No adventure survives contact with a specific group of players unchanged. This s
 
 Some adventures assume specific archetypes will handle certain challenges. When your table lacks those archetypes, adapt the challenge rather than force a player into an unsuitable role:
 
-**No infiltrator available.** If the adventure expects a Shadow or Night Warbler to sneak into a location but no player has those skills, change the nature of the challenge. The infiltration becomes a social engineering problem: who can be bribed, blackmailed, or persuaded to grant access? Create an NPC who needs the players' help and whose access can be borrowed. The obstacle changes from "how do we get in unseen" to "who do we know who can get us in." The same dramatic tension remains, but the approach shifts to strengths the table actually possesses.
+**No infiltrator available.** If the adventure expects a Night Walker or Night Warbler to sneak into a location but no player has those skills, change the nature of the challenge. The infiltration becomes a social engineering problem: who can be bribed, blackmailed, or persuaded to grant access? Create an NPC who needs the players' help and whose access can be borrowed. The obstacle changes from "how do we get in unseen" to "who do we know who can get us in." The same dramatic tension remains, but the approach shifts to strengths the table actually possesses.
 
-**No investigator available.** If the adventure expects a Celestial Book or Bright Mirror to unravel a mystery but your table lacks dedicated investigators, make the clues more accessible through other means. A witness offers testimony unprompted because they recognize a player's reputation. A document arrives with an anonymous annotation explaining its significance. The mystery does not need to be easier; it needs to be findable by the skills at the table. Let combat characters intimidate witnesses for information. Let social characters charm answers out of reluctant sources. Let the Iron Calculation solve the problem through raw data analysis.
+**No investigator available.** If the adventure expects an Archivist or Bright Mirror to unravel a mystery but your table lacks dedicated investigators, make the clues more accessible through other means. A witness offers testimony unprompted because they recognize a player's reputation. A document arrives with an anonymous annotation explaining its significance. The mystery does not need to be easier; it needs to be findable by the skills at the table. Let combat characters intimidate witnesses for information. Let social characters charm answers out of reluctant sources. Let the Iron Calculation solve the problem through raw data analysis.
 
 **No martial character available.** If the adventure includes combat encounters but your table has no Iron Wall or Iron Bone, transform those encounters. The armed guards become a puzzle: how do we get past them without fighting? The assassin becomes a target for social manipulation: who hired them, and can we flip them? The physical confrontation becomes an environmental hazard: the collapsing bridge must be crossed, and no one is trained to hold it. Each of these maintains the dramatic stakes while respecting the party's capabilities.
 
